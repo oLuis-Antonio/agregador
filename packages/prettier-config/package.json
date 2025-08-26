@@ -1,0 +1,14 @@
+{
+  "name": "@agregador/prettier-config",
+  "type": "module",
+  "private": true,
+  "main": ".prettierrc.mts",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-css-order": "^2.1.2",
+    "prettier-plugin-organize-imports": "^4.2.0"
+  }
+}

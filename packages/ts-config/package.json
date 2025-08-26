@@ -1,0 +1,13 @@
+{
+  "name": "@agregador/ts-config",
+  "private": true,
+  "type": "module",
+  "files": [
+    "hono.json",
+    "solid.json"
+  ],
+  "scripts": {
+    "build": "tsc --build",
+    "lint": "eslint ."
+  }
+}

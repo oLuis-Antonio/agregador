@@ -1,0 +1,8 @@
+{
+  "extends": "@agregador/ts-config/base.json",
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "types": ["node"],
+    "lib": ["esnext"]
+  }
+}
