@@ -9,5 +9,8 @@
   "scripts": {
     "build": "tsc --build",
     "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
   }
 }

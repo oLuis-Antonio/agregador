@@ -23,11 +23,12 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@agregador/eslint-config": "*",
+    "@agregador/prettier-config": "*",
+    "@agregador/ts-config": "*",
+    "@cloudflare/workers-types": "^4.20250826.0",
     "eslint": "^9.34.0",
     "prettier": "^3.6.2",
-    "typescript": "^5.9.2",
-    "@agregador/ts-config": "*",
-    "@agregador/eslint-config": "*",
-    "@agregador/prettier-config": "*"
+    "typescript": "^5.9.2"
   }
 }

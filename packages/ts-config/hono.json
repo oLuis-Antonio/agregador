@@ -1,8 +1,11 @@
 {
   "extends": "@agregador/ts-config/base.json",
   "compilerOptions": {
+    "module": "ESNext",
     "moduleResolution": "bundler",
     "types": ["node"],
-    "lib": ["esnext"]
+    "lib": ["ESNext"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx"
   }
 }
