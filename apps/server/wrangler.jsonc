@@ -1,9 +1,9 @@
 {
   "$schema": "../../node_modules/wrangler/config-schema.json",
-  "name": "server",
+  "name": "agregador-server",
   "main": "src/index.ts",
   "compatibility_date": "2025-08-26",
-  "triggers": { "crons": ["/30 * * * * *"] },
+  "triggers": { "crons": ["0 */4 * * *"] },
 
   // "compatibility_flags": [
   //   "nodejs_compat"
