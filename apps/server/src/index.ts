@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 import feed from "@/routes/feed";
-import getNews from "./scripts/getNews";
+import getNews from "./utils/getNews";
 
 const app = new Hono().basePath("/api");
 
