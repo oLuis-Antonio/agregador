@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 import feed from "@/routes/feed";
-import getNews from "./utils/getNews";
+import getFeeds from "./utils/getFeeds";
 
 const app = new Hono().basePath("/api");
 
@@ -27,6 +27,6 @@ app.route("/feed", feed);
 export default {
   fetch: app.fetch,
   scheduled: async (event: ScheduledEvent, context: ExecutionContext) => {
-    await getNews();
+    await getFeeds();
   },
 };

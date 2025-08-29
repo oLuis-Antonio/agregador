@@ -19,3 +19,6 @@ export const Feed = z.object({
   link: z.string().optional(),
   items: z.array(Article),
 });
+
+export type ArticleType = z.infer<typeof Article>;
+export type FeedType = z.infer<typeof Feed>;

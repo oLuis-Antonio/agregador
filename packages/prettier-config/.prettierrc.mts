@@ -2,7 +2,7 @@
 
 /** @type {PrettierConfig}*/
 const config = {
-  plugins: ["prettier-plugin-organize-imports", "prettier-plugin-prisma", "prettier-plugin-css-order"],
+  plugins: ["prettier-plugin-organize-imports", "prettier-plugin-css-order"],
   printWidth: 80,
   tabWidth: 2,
   useTabs: true,

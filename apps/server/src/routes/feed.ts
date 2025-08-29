@@ -1,41 +1,54 @@
 import { Hono } from "hono";
-import { Feed } from "@/types/schema";
+import { Feed, FeedType } from "@/types/schema";
+import parseNews from "@/utils/parseNews";
 
-const feed = new Hono();
+type Env = {
+  Bindings: {
+    NEWS_DB_DEV: KVNamespace;
+  };
+};
+
+const feed = new Hono<Env>();
 
 feed.get("/", async (c) => {});
 
 feed.post("/", async (c) => {
-  let body;
+  let body: FeedType;
 
   try {
     body = Feed.parse(await c.req.json());
-  } catch (error) {
+  } catch (error: any) {
     return c.json({ error: "Invalid format", details: error.errors }, 400);
   }
 
   const now = Date.now();
   const cutoff = now - 5 * 24 * 60 * 60 * 1000;
-  const ttlLimit = 5 * 24 * 60 * 60;
 
-  await Promise.all(
-    body.items.map(async (article) => {
-      const published = new Date(article.pubDate).getTime();
+  const parsedItems = await parseNews(body, cutoff);
 
-      if (published < cutoff) return;
+  console.log("parsedItems length:", parsedItems.length);
 
-      const key = btoa(article.link);
-
-      const value = JSON.stringify({
-        title: article.title,
-        feed: body.feedUrl,
-        date: article.pubDate,
-        link: article.link,
-        creator: article.creator,
-        contentSnippet: article.contentSnippet,
-      });
-    })
+  const existingKeys = new Set(
+    await c.env.NEWS_DB_DEV.list({ prefix: `news:${body.feedUrl}:` }).then(
+      (r) => r.keys.map((k) => k.name)
+    )
   );
+
+  let saved = 0;
+
+  for (const item of parsedItems) {
+    if (!existingKeys.has(item.key)) {
+      console.log(`Saving ${item.key}...`);
+      await c.env.NEWS_DB_DEV.put(item.key, JSON.stringify(item.value));
+      saved++;
+    }
+  }
+
+  return c.json({
+    status: "Success",
+    received: parsedItems.length,
+    saved,
+  });
 });
 
 export default feed;
