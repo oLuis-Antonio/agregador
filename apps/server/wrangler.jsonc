@@ -9,18 +9,25 @@
 	"triggers": {
 		"crons": [
 			"0 */4 * * *"
-		]
+		],
 	},
 	"env": {
 		"dev": {
+			"name": "agregador-dev",
 			"kv_namespaces": [
 				{
 					"binding": "NEWS_DB_DEV",
-					"id": "7e7620fd64004ce088a9e1b6d3f27098"
-				}
-			]
-		}
+					"id": "7e7620fd64004ce088a9e1b6d3f27098",
+				},
+			],
+		},
 	},
+	"kv_namespaces": [
+		{
+			"binding": "NEWS_DB",
+			"id": "84128f56ebee42d090cbfa604d98e46e"
+		}
+	],
 	// "compatibility_flags": [
 	//   "nodejs_compat"
 	// ],

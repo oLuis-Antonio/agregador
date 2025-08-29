@@ -20,5 +20,10 @@ export const Feed = z.object({
   items: z.array(Article),
 });
 
+export type Env = {
+  NEWS_DB: KVNamespace;
+  NEWS_DB_DEV?: KVNamespace;
+};
+
 export type ArticleType = z.infer<typeof Article>;
 export type FeedType = z.infer<typeof Feed>;
