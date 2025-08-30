@@ -1,7 +1,7 @@
 export default function News() {
   return (
     <>
-      <p>dasdhasidhaeirwueruweriuwoi</p>
+      <p>página de notícias</p>
     </>
   );
 }
