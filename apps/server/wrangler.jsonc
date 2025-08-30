@@ -7,9 +7,25 @@
   "triggers": {
     "crons": ["0 */4 * * *"],
   },
+  "vars": {
+    "API": "https://agregador.proletario.org/api",
+    "ADRESS": "https://agregador.proletario.org",
+    "FEEDS": "[{\"name\":\"Jornal A Verdade\",\"url\":\"https://averdade.org.br/feed/\"},{\"name\":\"Esquerda Diário\",\"url\":\"https://www.esquerdadiario.com.br/spip.php?page=backend\"},{\"name\":\"Jornal O Futuro\",\"url\":\"https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml\"},{\"name\":\"Opinião Socialista\",\"url\":\"https://www.opiniaosocialista.com.br/feed/\"},{\"name\":\"A Nova Democracia\",\"url\":\"https://anovademocracia.com.br/feed/\"},{\"name\":\"Brasil de Fato\",\"url\":\"https://www.brasildefato.com.br/feed/\"},{\"name\":\"Intercept Brasil\",\"url\":\"https://www.intercept.com.br/feed\"},{\"name\":\"Revista Opera\",\"url\":\"https://revistaopera.operamundi.uol.com.br/feed\"},{\"name\":\"De Olho nos Ruralistas\",\"url\":\"https://deolhonosruralistas.com.br/feed/\"}]",
+  },
+
+  "kv_namespaces": [
+    {
+      "binding": "NEWS_DB",
+      "id": "84128f56ebee42d090cbfa604d98e46e",
+    },
+  ],
   "env": {
     "dev": {
-      "name": "agregador-dev",
+      "vars": {
+        "API": "http://localhost:8787",
+        "ADRESS": "http://localhost:8787",
+        "FEEDS": "[{\"name\":\"Jornal A Verdade\",\"url\":\"https://averdade.org.br/feed/\"},{\"name\":\"Esquerda Diário\",\"url\":\"https://www.esquerdadiario.com.br/spip.php?page=backend\"},{\"name\":\"Jornal O Futuro\",\"url\":\"https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml\"},{\"name\":\"Opinião Socialista\",\"url\":\"https://www.opiniaosocialista.com.br/feed/\"},{\"name\":\"A Nova Democracia\",\"url\":\"https://anovademocracia.com.br/feed/\"},{\"name\":\"Brasil de Fato\",\"url\":\"https://www.brasildefato.com.br/feed/\"},{\"name\":\"Intercept Brasil\",\"url\":\"https://www.intercept.com.br/feed\"},{\"name\":\"Revista Opera\",\"url\":\"https://revistaopera.operamundi.uol.com.br/feed\"},{\"name\":\"De Olho nos Ruralistas\",\"url\":\"https://deolhonosruralistas.com.br/feed/\"}]",
+      },
       "kv_namespaces": [
         {
           "binding": "NEWS_DB",
@@ -18,10 +34,4 @@
       ],
     },
   },
-  "kv_namespaces": [
-    {
-      "binding": "NEWS_DB",
-      "id": "84128f56ebee42d090cbfa604d98e46e",
-    },
-  ],
 }

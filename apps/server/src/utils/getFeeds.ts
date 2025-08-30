@@ -1,4 +1,4 @@
-import { ArticleType, Feed, FeedType } from "@/types/schema";
+import { Env, Feed, FeedType } from "@/types/schema";
 import Parser from "rss-parser";
 
 const parser = new Parser({
@@ -10,51 +10,18 @@ const parser = new Parser({
 });
 
 export default async function getFeeds() {
-  const feeds = [
-    {
-      name: "Jornal A Verdade",
-      url: "https://averdade.org.br/feed/",
-    },
-    {
-      name: "Esquerda Diário",
-      url: "https://www.esquerdadiario.com.br/spip.php?page=backend",
-    },
-    {
-      name: "Jornal O Futuro",
-      url: "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
-    },
-    {
-      name: "Opinião Socialista",
-      url: "https://www.opiniaosocialista.com.br/feed/",
-    },
-    {
-      name: "A Nova Democracia",
-      url: "https://anovademocracia.com.br/feed/",
-    },
-    {
-      name: "Brasil de Fato",
-      url: "https://www.brasildefato.com.br/feed/",
-    },
-    {
-      name: "Intercept Brasil",
-      url: "https://www.intercept.com.br/feed",
-    },
-    {
-      name: "Revista Opera",
-      url: "https://revistaopera.operamundi.uol.com.br/feed",
-    },
-    {
-      name: "De Olho nos Ruralistas",
-      url: "https://deolhonosruralistas.com.br/feed/",
-    },
-  ];
+  const feeds: { name: string; url: string }[] = JSON.parse(
+    process.env.FEEDS || "[]"
+  );
+
   await Promise.all(
     feeds.map(async (f) => {
       let success = false;
+      const apiUrl = process.env.API;
 
       try {
         const feed = await parser.parseURL(f.url);
-        await sendFeed(feed, f.url);
+        await sendFeed(feed, f.url, apiUrl);
         console.log(`Status: feed ${f.url} parsed with success`);
         success = true;
       } catch (err) {
@@ -77,7 +44,7 @@ export default async function getFeeds() {
 
           const xml = await res.text();
           const feed = await parser.parseString(xml);
-          await sendFeed(feed, f.url);
+          await sendFeed(feed, f.url, apiUrl);
 
           console.log(`Status: feed ${f.url} parsed with success`);
         } catch (err) {
@@ -88,7 +55,7 @@ export default async function getFeeds() {
   );
 }
 
-async function sendFeed(feed, feedUrl: string) {
+async function sendFeed(feed, feedUrl: string, apiUrl) {
   try {
     if (!feed || !feed.items || feed.items.length === 0) {
       console.warn(`Feed inválido ou vazio, não será enviado: ${feed.feedUrl}`);
@@ -111,7 +78,7 @@ async function sendFeed(feed, feedUrl: string) {
       return;
     }
 
-    await fetch("http://localhost:8787/api/feed", {
+    await fetch(`${apiUrl}/feed`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(parsed.data),
