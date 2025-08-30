@@ -22,7 +22,6 @@ export const Feed = z.object({
 
 export type Env = {
   NEWS_DB: KVNamespace;
-  NEWS_DB_DEV?: KVNamespace;
 };
 
 export type ArticleType = z.infer<typeof Article>;
