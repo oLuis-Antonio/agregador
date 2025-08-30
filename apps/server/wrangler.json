@@ -8,8 +8,8 @@
     "crons": ["0 */4 * * *"]
   },
   "vars": {
-    "API": "https://agregador.proletario.org/api",
-    "ADRESS": "https://agregador.proletario.org",
+    "API": "https://agregador-server.luisantoniossouza.workers.dev",
+    "ADRESS": "https://agregador-server.luisantoniossouza.workers.dev",
     "FEEDS": "[{\"name\":\"Jornal A Verdade\",\"url\":\"https://averdade.org.br/feed/\"},{\"name\":\"Esquerda Diário\",\"url\":\"https://www.esquerdadiario.com.br/spip.php?page=backend\"},{\"name\":\"Jornal O Futuro\",\"url\":\"https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml\"},{\"name\":\"Opinião Socialista\",\"url\":\"https://www.opiniaosocialista.com.br/feed/\"},{\"name\":\"A Nova Democracia\",\"url\":\"https://anovademocracia.com.br/feed/\"},{\"name\":\"Brasil de Fato\",\"url\":\"https://www.brasildefato.com.br/feed/\"},{\"name\":\"Intercept Brasil\",\"url\":\"https://www.intercept.com.br/feed\"},{\"name\":\"Revista Opera\",\"url\":\"https://revistaopera.operamundi.uol.com.br/feed\"},{\"name\":\"De Olho nos Ruralistas\",\"url\":\"https://deolhonosruralistas.com.br/feed/\"}]"
   },
 
