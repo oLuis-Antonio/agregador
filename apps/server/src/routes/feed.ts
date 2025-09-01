@@ -10,35 +10,45 @@ feed.get("/", async (c) => {
   const kv = c.env.NEWS_DB;
 
   const pageSize = Number(c.req.query("limit") ?? 25); // article limit per request
-  const cursor = c.req.query("cursor");
+  const cursor = c.req.query("cursor") ?? null;
 
   const rawIndex = await kv.get(INDEX_KEY); // get stack of articles
-  const index: string[] = rawIndex ? JSON.parse(rawIndex) : [];
+  const index: Array<{ key: string; pubDate: number; link: string }> = rawIndex
+    ? JSON.parse(rawIndex)
+    : [];
+
+  const sortedIndex = index.sort((a, b) => b.pubDate - a.pubDate);
 
   let startIndex = 0;
   if (cursor) {
-    const foundIndex = index.findIndex((key) => key.includes(cursor));
+    const foundIndex = sortedIndex.findIndex(
+      (e) => e.key === cursor || e.link === cursor
+    );
     if (foundIndex >= 0) startIndex = foundIndex + 1;
   }
-  const slice = index.slice(startIndex, startIndex + pageSize); // slice stack to get 25 news
+
+  const pageSlice = sortedIndex.slice(startIndex, startIndex + pageSize); // slice stack to get 25 news
+  const keysForPage = pageSlice.map((e) => e.key); // articles to be fetched
 
   const items: ArticleType[] = await Promise.all(
-    // get articles
-    slice
-      .map(async (key) => {
-        const raw = await kv.get(key);
+    keysForPage
+      .map(async (k) => {
+        const raw = await kv.get(k);
         return raw ? JSON.parse(raw) : null;
       })
       .filter(Boolean)
   );
 
-  const nextCursor = items[items.length - 1]?.link ?? null;
+  const nextCursor = pageSlice.length
+    ? pageSlice[pageSlice.length - 1].link
+    : null;
 
   return c.json({
     status: "success",
     count: items.length,
-    items: items,
+    items,
     nextCursor,
+    total: sortedIndex.length,
   });
 });
 

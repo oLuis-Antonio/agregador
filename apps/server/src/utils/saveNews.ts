@@ -17,7 +17,9 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
   const parsedItems = await parseNews(feed, cutoff);
 
   const rawIndex = await kv.get(INDEX_KEY);
-  let index: string[] = rawIndex ? JSON.parse(rawIndex) : [];
+  let index: Array<{ key: string; pubDate: number; link: string }> = rawIndex
+    ? JSON.parse(rawIndex)
+    : [];
 
   let saved = 0;
 
@@ -34,7 +36,12 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
         expirationTtl: ttlSeconds,
       });
       saved++;
-      index.unshift(item.key);
+
+      index.unshift({
+        key: item.key,
+        pubDate: pubTime,
+        link: item.value.link,
+      });
     }
   }
 
