@@ -1,11 +1,10 @@
 import { Hono } from "hono";
 import { ArticleType, Env } from "@/types/schema";
-import parseNews from "@/utils/parseNews";
+import saveNews from "@/utils/saveNews";
 
 const feed = new Hono<{ Bindings: Env }>();
 
 const INDEX_KEY = "index:latest";
-const MAX_INDEX_SIZE = 1000;
 
 feed.get("/", async (c) => {
   const kv = c.env.NEWS_DB;
@@ -41,40 +40,11 @@ feed.get("/", async (c) => {
     items: items,
     nextCursor,
   });
-
-  // const items: ArticleType[] = await Promise.all(
-  //   list.keys.map(async (k) => {
-  //     const value = await kv.get(k.name);
-  //     return value ? JSON.parse(value) : null;
-  //   })
-  // );
-
-  // const sortedItems = items
-  //   .filter(Boolean)
-  //   .sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
-
-  // let startIndex = 0;
-  // if (cursor) {
-  //   const foundIndex = sortedItems.findIndex((item) => item.link === cursor);
-  //   if (foundIndex >= 0) startIndex = foundIndex + 1;
-  // }
-
-  // const pageItems = sortedItems.slice(startIndex, startIndex + pageSize);
-  // const nextCursor = pageItems[pageItems.length - 1]?.link ?? null;
-
-  // return c.json({
-  //   status: "success",
-  //   count: pageItems.length,
-  //   items: pageItems,
-  //   nextCursor,
-  // });
 });
 
 feed.post("/", async (c) => {
   const body = await c.req.json();
   const kv = c.env.NEWS_DB;
-  const now = Date.now();
-  const cutoff = now - 24 * 60 * 60 * 1000;
 
   // Rate Limiting
   const feedLockKey = `lock:${body.feedUrl}`;
@@ -101,43 +71,8 @@ feed.post("/", async (c) => {
   }
 
   try {
-    const parsedItems = await parseNews(body, cutoff);
-    console.log("parsedItems length:", parsedItems.length);
-
-    let saved = 0;
-
-    const rawIndex = await kv.get(INDEX_KEY);
-    let index: string[] = rawIndex ? JSON.parse(rawIndex) : [];
-
-    for (const item of parsedItems) {
-      const exists = await kv.get(item.key);
-      if (!exists) {
-        const pubTime = new Date(item.value.pubDate).getTime();
-        const ttlSeconds = Math.max(
-          0,
-          Math.floor((pubTime + 24 * 60 * 60 * 1000 - now) / 1000)
-        );
-
-        await kv.put(item.key, JSON.stringify(item.value), {
-          expirationTtl: ttlSeconds,
-        });
-        saved++;
-        console.log(`salvo: ${item.value.link}`);
-
-        index.unshift(item.key);
-      } else {
-        console.log(`duplicado: ${item.value.link}, ${item.key}`);
-      }
-    }
-
-    index = index.slice(0, MAX_INDEX_SIZE);
-    await kv.put(INDEX_KEY, JSON.stringify(index));
-
-    return c.json({
-      status: "success",
-      received: parsedItems.length,
-      itemsSaved: saved,
-    });
+    const result = await saveNews(body, kv);
+    return c.json({ status: "success", ...result });
   } finally {
     await kv.delete(feedLockKey);
   }

@@ -13,14 +13,18 @@ export default function parseNews(feed: FeedType, cutoff: number) {
       return {
         key: key,
         value: {
-          title: article.title,
+          title: article.title || "Sem título",
           feed: feed.feedUrl,
-          feedLink: feed.link,
-          feedName: feed.title,
-          pubDate: new Date(article.pubDate),
-          link: article.link,
-          creator: article.creator,
-          contentSnippet: article.contentSnippet,
+          feedLink: feed.link || "",
+          feedName: feed.title || "",
+          pubDate: parseDate(
+            article.pubDate || article["dc:date"] || Date.now()
+          ),
+          link: article.link || "",
+          creator: article.creator || article["dc:creator"] || "",
+          categories: article.categories || [],
+          contentSnippet:
+            article.contentSnippet || article["content:encodedSnippet"] || "",
         },
       };
     })

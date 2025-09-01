@@ -23,12 +23,17 @@ app.get("/", (c) => {
   });
 });
 
+app.get("/debug/run-cron", async (c) => {
+  await getFeeds(c.env.NEWS_DB);
+  return c.text("Cron executed!");
+});
+
 app.route("/feed", feed);
 
 export default {
   fetch: app.fetch,
 
-  scheduled: async (event: ScheduledEvent, context: ExecutionContext) => {
-    await getFeeds(); // passe env explicitamente
+  scheduled: async ({ env }: { env: Env }) => {
+    await getFeeds(env.NEWS_DB);
   },
 };
