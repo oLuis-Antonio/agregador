@@ -33,7 +33,7 @@ app.route("/feed", feed);
 export default {
   fetch: app.fetch,
 
-  scheduled: async ({ env }: { env: Env }) => {
+  async scheduled(event: ScheduledEvent, env: Env) {
     await getFeeds(env.NEWS_DB);
   },
 };
