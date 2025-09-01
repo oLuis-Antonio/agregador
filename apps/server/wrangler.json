@@ -5,7 +5,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2025-08-26",
   "triggers": {
-    "crons": ["0 */4 * * *"]
+    "crons": ["0 * * * *"]
   },
   "vars": {
     "API": "https://agregador-server.luisantoniossouza.workers.dev",

@@ -50,6 +50,7 @@ coverage
 # Misc
 .DS_Store
 *.pem
+*.http
 
 
 # Cloudflare

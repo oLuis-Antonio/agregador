@@ -1,4 +1,4 @@
-import { Env, Feed, FeedType } from "@/types/schema";
+import { ArticleType, Feed, FeedType } from "@/types/schema";
 import Parser from "rss-parser";
 
 const parser = new Parser({
@@ -88,7 +88,7 @@ async function sendFeed(feed, feedUrl: string, apiUrl) {
   }
 }
 
-function normalizeItem(item: any) {
+function normalizeItem(item: ArticleType) {
   return {
     title: item.title || "Sem título",
     link: item.link || "",
