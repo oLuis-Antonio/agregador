@@ -1,4 +1,3 @@
-import { FeedType } from "@/types/schema";
 import Parser from "rss-parser";
 import saveNews from "./saveNews";
 
@@ -17,7 +16,7 @@ export default async function getFeeds(kv: KVNamespace) {
 
   for (const f of feeds) {
     try {
-      let feed: FeedType;
+      let feed;
       try {
         feed = await parser.parseURL(f.url);
       } catch {
@@ -28,10 +27,28 @@ export default async function getFeeds(kv: KVNamespace) {
           },
         });
         const xml = await res.text();
+
         feed = await parser.parseString(xml);
       }
 
-      await saveNews(feed, kv);
+      const normalizedFeed = {
+        ...feed,
+        feedUrl: feed.feedUrl ?? f.url,
+        items: (feed.items ?? []).map((item) => ({
+          title: item.title ?? "",
+          link: item.link ?? "",
+          pubDate: item.pubDate ?? item.date ?? "",
+          creator: item.creator ?? item["dc:creator"] ?? "",
+          content: item.content ?? item["content:encoded"] ?? "",
+          contentSnippet:
+            item.contentSnippet ?? item["content:encodedSnippet"] ?? "",
+          guid: item.guid ?? item.link ?? "",
+          categories: item.categories ?? [],
+          isoDate: item.isoDate ?? item.date ?? "",
+        })),
+      };
+
+      await saveNews(normalizedFeed, kv);
       console.log(`Status: feed ${f.url} parsed with success`);
     } catch (err) {
       console.error(`Error: failed to parse feed ${f.url}`, err);

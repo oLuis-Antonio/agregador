@@ -13,7 +13,6 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
     console.warn(`Invalid feed: ${feed.feedUrl}`);
     return;
   }
-
   const parsedItems = await parseNews(feed, cutoff);
 
   const rawIndex = await kv.get(INDEX_KEY);
