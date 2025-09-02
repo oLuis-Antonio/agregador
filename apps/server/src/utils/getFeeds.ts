@@ -15,43 +15,66 @@ export default async function getFeeds(kv: KVNamespace) {
     process.env.FEEDS || "[]"
   );
 
-  await Promise.all(
-    feeds.map(async (f) => {
-      let success = false;
-
+  for (const f of feeds) {
+    try {
+      let feed: FeedType;
       try {
-        const feed: FeedType = await parser.parseURL(f.url);
-        await saveNews(feed, kv);
-
-        console.log(`Status: feed ${f.url} parsed with success`);
-        success = true;
-      } catch (err) {
-        console.warn(
-          `Error: failed to parse feed ${f.url} with parseURL, will try fetch + parseString`,
-          err
-        );
+        feed = await parser.parseURL(f.url);
+      } catch {
+        const res = await fetch(f.url, {
+          headers: {
+            "User-Agent": "Mozilla/5.0 (compatible; MyRSSWorker/1.0)",
+            Accept: "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
+          },
+        });
+        const xml = await res.text();
+        feed = await parser.parseString(xml);
       }
 
-      if (!success) {
-        try {
-          const res = await fetch(f.url, {
-            headers: {
-              "User-Agent": "Mozilla/5.0 (compatible; MyRSSWorker/1.0)",
-              Accept: "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
-            },
-          });
+      await saveNews(feed, kv);
+      console.log(`Status: feed ${f.url} parsed with success`);
+    } catch (err) {
+      console.error(`Error: failed to parse feed ${f.url}`, err);
+    }
+  }
 
-          if (!res.ok) throw new Error(`Fetch returned status: ${res.status}`);
+  // await Promise.all(
+  //   feeds.map(async (f) => {
+  //     let success = false;
 
-          const xml = await res.text();
-          const feed = await parser.parseString(xml);
-          await saveNews(feed, kv);
+  //     try {
+  //       const feed: FeedType = await parser.parseURL(f.url);
+  //       await saveNews(feed, kv);
 
-          console.log(`Status: feed ${f.url} parsed with success`);
-        } catch (err) {
-          console.error(`Error: failed to parse feed ${f.url}`, err);
-        }
-      }
-    })
-  );
+  //       console.log(`Status: feed ${f.url} parsed with success`);
+  //       success = true;
+  //     } catch (err) {
+  //       console.warn(
+  //         `Error: failed to parse feed ${f.url} with parseURL, will try fetch + parseString`,
+  //         err
+  //       );
+  //     }
+
+  //     if (!success) {
+  //       try {
+  //         const res = await fetch(f.url, {
+  //           headers: {
+  //             "User-Agent": "Mozilla/5.0 (compatible; MyRSSWorker/1.0)",
+  //             Accept: "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
+  //           },
+  //         });
+
+  //         if (!res.ok) throw new Error(`Fetch returned status: ${res.status}`);
+
+  //         const xml = await res.text();
+  //         const feed = await parser.parseString(xml);
+  //         await saveNews(feed, kv);
+
+  //         console.log(`Status: feed ${f.url} parsed with success`);
+  //       } catch (err) {
+  //         console.error(`Error: failed to parse feed ${f.url}`, err);
+  //       }
+  //     }
+  //   })
+  // );
 }

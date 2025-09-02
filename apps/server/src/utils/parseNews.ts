@@ -1,14 +1,14 @@
 import { FeedType } from "@/types/schema";
 
-export default function parseNews(feed: FeedType, cutoff: number) {
+export default function parseNews(feed: FeedType) {
   return feed.items
     .map((article) => {
-      const published = parseDate(article.pubDate);
+      // const published = parseDate(article.pubDate);
       const key = `news:${feed.feedUrl}:${btoa(article.link)}`;
 
       console.log(`parsing ${article.link} at parseNews`);
 
-      if (published < cutoff) return null;
+      // if (published < cutoff) return null;
 
       return {
         key: key,
