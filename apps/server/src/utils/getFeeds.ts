@@ -1,6 +1,9 @@
 import Parser from "rss-parser";
 import saveNews from "./saveNews";
 
+export const INDEX_KEY = "index:latest";
+export const MAX_INDEX_SIZE = 1000;
+
 const parser = new Parser({
   headers: {
     "User-Agent": "Mozilla/5.0 (compatible; MyRSSWorker/1.0)",
@@ -55,43 +58,27 @@ export default async function getFeeds(kv: KVNamespace) {
     }
   }
 
-  // await Promise.all(
-  //   feeds.map(async (f) => {
-  //     let success = false;
+  console.log("now, generating index...");
 
-  //     try {
-  //       const feed: FeedType = await parser.parseURL(f.url);
-  //       await saveNews(feed, kv);
+  await rebuildIndex(kv);
+}
 
-  //       console.log(`Status: feed ${f.url} parsed with success`);
-  //       success = true;
-  //     } catch (err) {
-  //       console.warn(
-  //         `Error: failed to parse feed ${f.url} with parseURL, will try fetch + parseString`,
-  //         err
-  //       );
-  //     }
+async function rebuildIndex(kv: KVNamespace) {
+  const now = Date.now();
+  const keys = await kv.list({ prefix: "news:" }); // lista todas as chaves
+  let items: Array<{ key: string; pubDate: number; link: string }> = [];
 
-  //     if (!success) {
-  //       try {
-  //         const res = await fetch(f.url, {
-  //           headers: {
-  //             "User-Agent": "Mozilla/5.0 (compatible; MyRSSWorker/1.0)",
-  //             Accept: "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
-  //           },
-  //         });
+  for (const key of keys.keys) {
+    const raw = await kv.get(key.name);
+    if (!raw) continue;
+    const value = JSON.parse(raw);
+    const pubTime = new Date(value.pubDate).getTime();
+    if (pubTime + 24 * 60 * 60 * 1000 < now) continue; // TTL expirado
+    items.push({ key: key.name, pubDate: pubTime, link: value.link });
+  }
+  items.sort((a, b) => b.pubDate - a.pubDate);
 
-  //         if (!res.ok) throw new Error(`Fetch returned status: ${res.status}`);
+  items = items.slice(0, MAX_INDEX_SIZE);
 
-  //         const xml = await res.text();
-  //         const feed = await parser.parseString(xml);
-  //         await saveNews(feed, kv);
-
-  //         console.log(`Status: feed ${f.url} parsed with success`);
-  //       } catch (err) {
-  //         console.error(`Error: failed to parse feed ${f.url}`, err);
-  //       }
-  //     }
-  //   })
-  // );
+  await kv.put(INDEX_KEY, JSON.stringify(items));
 }

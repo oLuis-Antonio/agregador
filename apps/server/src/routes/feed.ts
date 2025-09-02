@@ -17,17 +17,17 @@ feed.get("/", async (c) => {
     ? JSON.parse(rawIndex)
     : [];
 
-  const sortedIndex = index.sort((a, b) => b.pubDate - a.pubDate);
+  // const sortedIndex = index.sort((a, b) => b.pubDate - a.pubDate);
 
   let startIndex = 0;
   if (cursor) {
-    const foundIndex = sortedIndex.findIndex(
+    const foundIndex = index.findIndex(
       (e) => e.key === cursor || e.link === cursor
     );
     if (foundIndex >= 0) startIndex = foundIndex + 1;
   }
 
-  const pageSlice = sortedIndex.slice(startIndex, startIndex + pageSize); // slice stack to get 25 news
+  const pageSlice = index.slice(startIndex, startIndex + pageSize); // slice stack to get 25 news
   const keysForPage = pageSlice.map((e) => e.key); // articles to be fetched
 
   const items: ArticleType[] = await Promise.all(
@@ -48,7 +48,7 @@ feed.get("/", async (c) => {
     count: items.length,
     items,
     nextCursor,
-    total: sortedIndex.length,
+    total: index.length,
   });
 });
 

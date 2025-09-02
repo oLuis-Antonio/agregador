@@ -6,7 +6,7 @@ export default function parseNews(feed: FeedType, cutoff: number) {
       const published = parseDate(article.pubDate);
       const key = `news:${feed.feedUrl}:${btoa(article.link)}`;
 
-      console.log(`parsing ${article.link} at parseNews`);
+      // console.log(`parsing ${article.link} at parseNews`);
 
       if (published < cutoff) return null;
 

@@ -1,12 +1,10 @@
 import { Feed, FeedType } from "@/types/schema";
 import parseNews from "@/utils/parseNews";
 
-export const INDEX_KEY = "index:latest";
-export const MAX_INDEX_SIZE = 1000;
-
 export default async function saveNews(feed: FeedType, kv: KVNamespace) {
   const now = Date.now();
-  const cutoff = now - 48 * 60 * 60 * 1000;
+  const cutoff = now - 24 * 60 * 60 * 1000;
+  let saved = 0;
 
   const parsed = Feed.safeParse(feed);
   if (!parsed.success) {
@@ -15,17 +13,10 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
   }
   const parsedItems = await parseNews(feed, cutoff);
 
-  const rawIndex = await kv.get(INDEX_KEY);
-  let index: Array<{ key: string; pubDate: number; link: string }> = rawIndex
-    ? JSON.parse(rawIndex)
-    : [];
-
-  let saved = 0;
-
   for (const item of parsedItems) {
     const exists = await kv.get(item.key);
+    const pubTime = new Date(item.value.pubDate).getTime();
     if (!exists) {
-      const pubTime = new Date(item.value.pubDate).getTime();
       const ttlSeconds = Math.max(
         60,
         Math.floor((pubTime + 24 * 60 * 60 * 1000 - now) / 1000)
@@ -35,19 +26,12 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
         expirationTtl: ttlSeconds,
       });
       saved++;
-
-      if (!index.find((i) => i.key === item.key)) {
-        index.push({ key: item.key, pubDate: pubTime, link: item.value.link });
-      }
     }
   }
 
   console.log(
-    `[saveNews] feed=${feed.feedUrl}, parsed=${parsedItems.length}, saved=${saved}, indexSize=${index.length}`
+    `[saveNews] feed=${feed.feedUrl}, parsed=${parsedItems.length}, saved=${saved}`
   );
-
-  index = index.slice(0, MAX_INDEX_SIZE);
-  await kv.put(INDEX_KEY, JSON.stringify(index));
 
   return { saved, total: parsedItems.length };
 }
