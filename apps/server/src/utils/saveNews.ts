@@ -6,7 +6,7 @@ export const MAX_INDEX_SIZE = 1000;
 
 export default async function saveNews(feed: FeedType, kv: KVNamespace) {
   const now = Date.now();
-  // const cutoff = now - 24 * 60 * 60 * 1000;
+  const cutoff = now - 48 * 60 * 60 * 1000;
 
   const parsed = Feed.safeParse(feed);
   if (!parsed.success) {
@@ -14,7 +14,7 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
     return;
   }
 
-  const parsedItems = await parseNews(feed);
+  const parsedItems = await parseNews(feed, cutoff);
 
   const rawIndex = await kv.get(INDEX_KEY);
   let index: Array<{ key: string; pubDate: number; link: string }> = rawIndex
