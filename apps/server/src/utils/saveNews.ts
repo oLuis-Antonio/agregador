@@ -37,11 +37,9 @@ export default async function saveNews(feed: FeedType, kv: KVNamespace) {
       });
       saved++;
 
-      index.unshift({
-        key: item.key,
-        pubDate: pubTime,
-        link: item.value.link,
-      });
+      if (!index.find((i) => i.key === item.key)) {
+        index.push({ key: item.key, pubDate: pubTime, link: item.value.link });
+      }
     }
   }
 
