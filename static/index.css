@@ -1,0 +1,67 @@
+  /* Ajustes para o novo layout */
+
+  .day {
+    margin-bottom: 2rem;
+  }
+
+  .daily-heading {
+    /* já existe, mas vamos garantir margens */
+    margin: 2rem 0 1rem;
+  }
+
+  .meta {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: var(--font-size-s);
+    color: var(--base04);
+    border-bottom: 1px solid var(--base02);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .source a {
+    color: var(--source-name-color);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .source a:hover {
+    color: var(--source-name-hover-color);
+    text-decoration: underline;
+  }
+
+  /* Ajustar cards para não terem margin duplicada */
+  .card {
+    margin-bottom: 1.5rem;
+  }
+
+  /* Se quiser que a imagem apareça sempre, não apenas quando o details está aberto */
+  .article-image {
+    display: block; /* sobrescreve o display:none do seletor .article-expander[open] .article-image */
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+  }
+
+  /* Ajustar descrição */
+  .article-summary-link {
+    display: block;
+    margin-top: 1rem;
+    color: var(--article-summary-color);
+    text-decoration: none;
+    font-size: var(--font-size-s);
+  }
+
+  .article-summary-link:hover {
+    color: var(--article-summary-hover-color);
+  }
+
+  /* Remover estilos de acordeão que não serão usados (opcional) */
+  /*
+  .article-expander,
+  .article-expander__title,
+  .accordion-marker {
+    display: none;
+  }
+  */
