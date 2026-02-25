@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-25T02:04:04.734Z</id>
+    <id>urn:2026-02-25T10:03:58.516Z</id>
     <title>agregador.proletario.org</title>
-    <updated>2026-02-25T02:04:04.734Z</updated>
+    <updated>2026-02-25T10:03:58.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pai mata os filhos, mas imprensa condena a mãe]]></title>
+        <id>https://www.intercept.com.br/?p=441934</id>
+        <link href="https://www.intercept.com.br/2026/02/25/pai-mata-os-filhos-mas-imprensa-condena-a-mae/"/>
+        <updated>2026-02-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ao transformar duplo homicídio em narrativa de traição conjugal, jornalismo repete lógica de culpar mulher e reforça violência midiática contra uma vítima.
+O post Pai mata os filhos, mas imprensa condena a mãe apareceu primeiro em Intercept Brasil.]]></summary>
+        <author>
+            <name>Leandro Becker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Técnicos entram em greve nas federais, em cenário recorde de contingenciamento de verbas]]></title>
         <id>https://www.esquerdadiario.com.br/Tecnicos-entram-em-greve-nas-federais-em-cenario-recorde-de-contingenciamento-de-verbas</id>
@@ -564,42 +575,6 @@ O conteúdo O Luto e a Luta: Foi o Estado! Pode ser acessado em Ponte Jornalismo
 / Política, Corrupção, STF, Banco Master]]></summary>
         <author>
             <name>Pedro Oliveira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra a violência policial no Vai Quem Qué e a perseguição de Nunes e Tarcísio ao Carnaval]]></title>
-        <id>https://www.esquerdadiario.com.br/Contra-a-violencia-policial-no-Vai-Quem-Que-e-a-perseguicao-de-Nunes-e-Tarcisio-ao-Carnaval</id>
-        <link href="https://www.esquerdadiario.com.br/Contra-a-violencia-policial-no-Vai-Quem-Que-e-a-perseguicao-de-Nunes-e-Tarcisio-ao-Carnaval"/>
-        <updated>2026-02-18T21:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Publicamos abaixo nota do bloco Vai quem qué sobre a repressão da GCM de Nunes no seu desfile na terça-feira de carnaval. 
- Na noite de terça-feira, a GCM de Ricardo Nunes agiu com brutalidade contra o Vai Quem Qué, tradicional bloco da Zona Oeste. 
-18-02-2026
-
-/ São Paulo (capital), Sociedade, Ricardo Nunes, Carnaval, Tarcísio de Freitas]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seis em cada dez moradores de favela não confiam na polícia]]></title>
-        <id>https://ponte.org/?p=158527</id>
-        <link href="https://ponte.org/seis-em-cada-dez-moradores-de-favela-nao-confiam-na-policia/"/>
-        <updated>2026-02-18T20:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Pesquisa “Sonhos da Favela 2026”, do Instituto Data Favela, revela que moradores querem direito de ir e vir com tranquilidade, não mais operações
-O conteúdo Seis em cada dez moradores de favela não confiam na polícia Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Catarina Duarte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artigo | Quando o próprio Estado viola o “não é não”]]></title>
-        <id>https://ponte.org/?p=158467</id>
-        <link href="https://ponte.org/nao-e-nao-ate-para-o-estado-violencia-genero/"/>
-        <updated>2026-02-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[O Estado que assina leis de proteção às mulheres é o mesmo que, por meio de seus agentes, comete violência de gênero em delegacias, viaturas, tribunais e prisões
-O conteúdo Artigo | Quando o próprio Estado viola o “não é não” Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Jessica Santos</name>
         </author>
     </entry>
 </feed>

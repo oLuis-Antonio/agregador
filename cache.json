@@ -398,16 +398,6 @@
           "wordCount": null,
           "title": "Como enfrentar a república dos banqueiros e seus negócios com o STF",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Contra-a-violencia-policial-no-Vai-Quem-Que-e-a-perseguicao-de-Nunes-e-Tarcisio-ao-Carnaval",
-          "author": "Redação",
-          "description": "Publicamos abaixo nota do bloco Vai quem qué sobre a repressão da GCM de Nunes no seu desfile na terça-feira de carnaval. \n Na noite de terça-feira, a GCM de Ricardo Nunes agiu com brutalidade contra o Vai Quem Qué, tradicional bloco da Zona Oeste. \n18-02-2026\n\n/ São Paulo (capital), Sociedade, Ricardo Nunes, Carnaval, Tarcísio de Freitas",
-          "link": "https://www.esquerdadiario.com.br/Contra-a-violencia-policial-no-Vai-Quem-Que-e-a-perseguicao-de-Nunes-e-Tarcisio-ao-Carnaval",
-          "publishedOn": "2026-02-18T21:43:03.000Z",
-          "wordCount": null,
-          "title": "Contra a violência policial no Vai Quem Qué e a perseguição de Nunes e Tarcísio ao Carnaval",
-          "imageUrl": null
         }
       ]
     },
@@ -416,6 +406,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=441934",
+          "author": "Leandro Becker",
+          "description": "Ao transformar duplo homicídio em narrativa de traição conjugal, jornalismo repete lógica de culpar mulher e reforça violência midiática contra uma vítima.\nO post Pai mata os filhos, mas imprensa condena a mãe apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/02/25/pai-mata-os-filhos-mas-imprensa-condena-a-mae/",
+          "publishedOn": "2026-02-25T09:30:00.000Z",
+          "wordCount": 4423,
+          "title": "Pai mata os filhos, mas imprensa condena a mãe",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
+            "length": "5875086",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/02/HeaderFeat-4.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=441919",
           "author": "Ryan Grim",
@@ -437,7 +442,7 @@
           "description": "Com Tarcísio de Freitas fora da disputa, o \"filho 01\" assume o papel de herdeiro político de Jair Bolsonaro em uma tentativa de atrair o centro e o mercado.\nO post Flávio Bolsonaro representa a farsa do bolsonarismo moderado nas eleições apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/02/21/flavio-bolsonaro-farsa-bolsonarismo-moderado/",
           "publishedOn": "2026-02-21T10:00:00.000Z",
-          "wordCount": 3936,
+          "wordCount": 3928,
           "title": "Flávio Bolsonaro representa a farsa do bolsonarismo moderado nas eleições",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/02/31925304-high.jpeg",
@@ -469,7 +474,7 @@
           "description": "Policiais militares Guilherme Augusto Macedo e Bruno Carvalho do Prado responderão por homicídio qualificado pela morte de Marco Aurélio Cárdenas Acosta, de 22 anos, baleado durante abordagem na Vila Mariana\nO conteúdo PMs acusados de matar estudante de medicina vão a júri em São Paulo Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/pms-acusados-de-matar-estudante-de-medicina-vao-a-juri-em-sao-paulo/",
           "publishedOn": "2026-02-23T18:14:58.000Z",
-          "wordCount": 4731,
+          "wordCount": 4723,
           "title": "PMs acusados de matar estudante de medicina vão a júri em São Paulo",
           "imageUrl": "https://ponte.org/wp-content/uploads/2025/02/Marco-Aurelio-Cardenas-Acosta.webp"
         },
@@ -512,26 +517,6 @@
           "wordCount": 5724,
           "title": "O Luto e a Luta: Foi o Estado!",
           "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/19105823/logo-episodio-sete-luto-e-luta.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=158527",
-          "author": "Catarina Duarte",
-          "description": "Pesquisa “Sonhos da Favela 2026”, do Instituto Data Favela, revela que moradores querem direito de ir e vir com tranquilidade, não mais operações\nO conteúdo Seis em cada dez moradores de favela não confiam na polícia Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/seis-em-cada-dez-moradores-de-favela-nao-confiam-na-policia/",
-          "publishedOn": "2026-02-18T20:04:36.000Z",
-          "wordCount": 6447,
-          "title": "Seis em cada dez moradores de favela não confiam na polícia",
-          "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/18161221/complexo-do-alemao-zona-norte-rio.jpg.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=158467",
-          "author": "Jessica Santos",
-          "description": "O Estado que assina leis de proteção às mulheres é o mesmo que, por meio de seus agentes, comete violência de gênero em delegacias, viaturas, tribunais e prisões\nO conteúdo Artigo | Quando o próprio Estado viola o “não é não” Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/nao-e-nao-ate-para-o-estado-violencia-genero/",
-          "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 4841,
-          "title": "Artigo | Quando o próprio Estado viola o “não é não”",
-          "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/09142909/image-5.webp"
         }
       ]
     },
