@@ -1,60 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <link rel="alternate" type="application/rss+xml" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
-  <!-- Slot para injeção de CSS extra (via before-head-end.html) -->
+  <link rel="icon" type="image/svg+xml" href="antagonismo.svg">
 </head>
+
 <body>
   <header>
-    <h1 class="daily-heading" style="margin-bottom: 0;">{{siteTitle}}</h1>
-    <p style="color: var(--base04);">Atualizado em: <time id="build-timestamp" datetime="{{isoSiteBuildTimestamp}}">{{siteBuildTimestamp}}</time></p>
+    <h1>{{siteTitle}}</h1>
+    <p>Notícias de: O Futuro; A Verdade; Opinião Socialista; Esquerda Diário; The Intercept Brasil; Ponte Jornalismo; De Olho Nos Ruralistas; A Nova Democracia; </p>
   </header>
 
   <main>
     {{#each dates}}
     <section class="day">
-      <h2 class="daily-heading daily-heading-toggle" style="justify-content: space-between;">
-        <span class="daily-heading-toggle__date">{{isoPublishDate}}</span>
-        <span class="js-offset-weekday" data-offset-date="{{isoPublishDate}}"></span>
+
+      <h2 class="daily-heading">
+        <span
+          class="daily-heading-toggle__date"
+          data-date="{{isoPublishDate}}">
+          {{isoPublishDate}}
+        </span>
       </h2>
 
       {{#each articles}}
-      <article class="card" style="margin-bottom: 1.5rem;">
-        <div class="card__section">
-          <h3 style="font-size: var(--font-size-m); margin: 0 0 0.5rem;">
-            <a href="{{link}}" style="color: var(--article-title-color); text-decoration: none;">{{title}}</a>
-          </h3>
-          <div class="meta" style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: var(--font-size-s); color: var(--base04);">
-            <span class="source">
-              Fonte: <a href="{{source.siteUrl}}" style="color: var(--source-name-color);">{{source.title}}</a>
-            </span>
-            <time datetime="{{isoPublishDate}}">{{publishedOn}}</time>
-            {{#if readingTimeInMin}}<span>⏱️ {{readingTimeInMin}} min</span>{{/if}}
+      <article class="card">
+        <a href="{{link}}" class="card-link" target="_blank">
+
+          <div class="card__section">
+
+            <h3>{{title}}</h3>
+
+            <div class="meta">
+              <span class="source">{{source.title}}</span>
+
+              <time
+                class="article-date"
+                datetime="{{../isoPublishDate}}">
+                {{../isoPublishDate}}
+              </time>
+            </div>
+
+            <p class="description">{{description}}</p>
+
           </div>
-          {{#if imageUrl}}
-          <img src="{{imageUrl}}" alt="" class="article-image" style="max-width: 100%; margin-top: 1rem;" />
-          {{/if}}
-          <p class="article-summary-link" style="margin: 1rem 0 0;">{{description}}</p>
-        </div>
+        </a>
       </article>
       {{/each}}
+
     </section>
     {{/each}}
   </main>
 
   <footer>
-    <span>osmos::feed</span>
+    <span>{{siteTitle}}</span>
     <a href="{{feedHref}}" class="footer-link">RSS</a>
   </footer>
 
-  <!-- JS original (adaptado ou removido) -->
   <script src="index.js"></script>
 </body>
 </html>

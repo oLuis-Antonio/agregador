@@ -5,15 +5,18 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+
   - href: https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml
   - href: https://averdade.org.br/feed/
   - href: https://www.opiniaosocialista.com.br/feed
   - href: https://www.esquerdadiario.com.br/spip.php?page=backend
   - href: https://www.intercept.com.br/feed/
-  - href: https://www.brasildefato.com.br/feed/
-  # - href: https://deolhonosruralistas.com.br/feed/
   - href: https://ponte.org/feed/
-  # - href: https://anovademocracia.com.br/feed/
+  - href: https://revistaopera.operamundi.uol.com.br/feed/
+  - href: https://deolhonosruralistas.com.br/feed/
+  - href: https://anovademocracia.com.br/feed/
   
-
+siteTitle: "agregador.proletario.org"
+cacheMaxDays: 7
+timezone: "America/Sao_Paulo"
+enrich: false

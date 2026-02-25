@@ -1,67 +1,158 @@
-  /* Ajustes para o novo layout */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+/* GRUVBOX DARK - Tema personalizado */
+:root {
+  --bg: #090909;
+  --bg-light: #191919;
+  --border: #2a2a2a;
+  --text: #cfc6bf;
+  --text-light: #e2d6cf;
+  --text-lighter: #f5e9e2;
+  --accent: #c51b2b;
+}
 
-  .day {
-    margin-bottom: 2rem;
-  }
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-  .daily-heading {
-    /* já existe, mas vamos garantir margens */
-    margin: 2rem 0 1rem;
-  }
+html {
+  font-size: 62.5%; /* 10px */
+}
 
-  .meta {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    font-size: var(--font-size-s);
-    color: var(--base04);
-    border-bottom: 1px solid var(--base02);
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
-  }
+body {
+  background-color: var(--bg);
+  font-family: "Atkinson Hyperlegible Next", sans-serif;
+  line-height: 1.5;
+  color: var(--text);
+  padding: 2rem 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
 
-  .source a {
-    color: var(--source-name-color);
-    text-decoration: none;
-    font-weight: 500;
-  }
+/* Cabeçalho */
+header {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
 
-  .source a:hover {
-    color: var(--source-name-hover-color);
-    text-decoration: underline;
-  }
+header h1 {
+  color: var(--accent);
+  font-size: 3rem;
+  font-weight: 600;
+}
 
-  /* Ajustar cards para não terem margin duplicada */
-  .card {
-    margin-bottom: 1.5rem;
-  }
+header p {
+  color: var(--text);
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
+}
 
-  /* Se quiser que a imagem apareça sempre, não apenas quando o details está aberto */
-  .article-image {
-    display: block; /* sobrescreve o display:none do seletor .article-expander[open] .article-image */
-    max-width: 100%;
-    height: auto;
-    margin-top: 1rem;
-  }
+/* Agrupamento por dia */
+.day {
+  margin-bottom: 3rem;
+}
 
-  /* Ajustar descrição */
-  .article-summary-link {
-    display: block;
-    margin-top: 1rem;
-    color: var(--article-summary-color);
-    text-decoration: none;
-    font-size: var(--font-size-s);
-  }
+.daily-heading {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: var(--text-light);
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
-  .article-summary-link:hover {
-    color: var(--article-summary-hover-color);
-  }
+/* Cards */
+.card {
+  background-color: var(--bg-light);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+  overflow: hidden;
+}
 
-  /* Remover estilos de acordeão que não serão usados (opcional) */
-  /*
-  .article-expander,
-  .article-expander__title,
-  .accordion-marker {
-    display: none;
-  }
-  */
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card__section {
+  padding: 1.8rem;
+}
+
+.card h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 0.8rem;
+  line-height: 1.3;
+}
+
+.card h3:hover {
+  color: var(--text-lighter);
+}
+
+/* Metadados */
+.meta {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  font-size: 1.4rem;
+  color: var(--text);
+  margin-bottom: 1.2rem;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: 0.8rem;
+}
+
+.source {
+  color: var(--accent); /* verde fixo */
+  font-weight: 500;
+}
+
+.source:hover {
+  color: var(--text-lighter);
+}
+
+.article-date {
+  color: var(--text);
+}
+
+/* Descrição */
+.description {
+  font-size: 1.4rem;
+  color: var(--text-light);
+  line-height: 1.5;
+  margin-top: 1rem;
+}
+
+/* Rodapé */
+footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 1.3rem;
+  color: var(--text);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: var(--text-lighter);
+  text-decoration: underline;
+}
