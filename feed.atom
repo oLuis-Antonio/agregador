@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T02:12:48.268Z</id>
+    <id>urn:2026-02-26T05:21:05.364Z</id>
     <title>agregador.proletario.org</title>
-    <updated>2026-02-26T02:12:48.268Z</updated>
+    <updated>2026-02-26T05:21:05.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tempos Modernos: filme completa 90 anos de seu lançamento]]></title>
+        <id>https://averdade.org.br/?p=60639</id>
+        <link href="https://averdade.org.br/2026/02/tempos-modernos-filme-completa-90-anos-de-seu-lancamento/"/>
+        <updated>2026-02-26T03:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Lançado em 25 de fevereiro de 1936, o filme mais importante da carreira de Charlie Chaplin permanece atual, além de ter trazido em sua época uma profunda crítica à exploração capitalista e suas crises, cada vez mais violentas.    Clóvis Maia – Redação Pernambuco  CULTURA- Em tempos de escala 6X1, baixos salários, exploração e precarização […]]]></summary>
+        <author>
+            <name>Clóvis Maia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O desmonte do Bora de Graça em Caucaia (CE)]]></title>
         <id>https://averdade.org.br/?p=60627</id>
@@ -451,16 +461,6 @@ O conteúdo Artigo | Militarização da folia: o que o poder público faz quando
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trabalhadores da limpeza urbana arrancam salários atrasados]]></title>
-        <id>https://averdade.org.br/?p=60530</id>
-        <link href="https://averdade.org.br/2026/02/trabalhadores-da-limpeza-urbana-arrancam-salarios-atrasados/"/>
-        <updated>2026-02-23T01:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Após 50 dias de atrasos salariais e condições de trabalho degradantes, trabalhadores da limpeza urbana, funcionários da empresa General Goods, conquistaram o pagamento de seus salários atrasados. Clodoaldo de Oliveira | Campina Grande (PB) TRABALHADOR UNIDO – Para a categoria dos trabalhadores da limpeza urbana não existe feriado ou recesso. Faça chuva, faça sol, os […]]]></summary>
-        <author>
-            <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A cidade não planejada: pixação como resistência urbana]]></title>
         <id>https://www.esquerdadiario.com.br/A-cidade-nao-planejada-pixacao-como-resistencia-urbana</id>
         <link href="https://www.esquerdadiario.com.br/A-cidade-nao-planejada-pixacao-como-resistencia-urbana"/>
@@ -626,30 +626,6 @@ O conteúdo Penitenciária em SP dispensa Pix e normaliza ‘saidinha’ após r
 / Povos indígenas, Indígenas, Luta indígena, Invasão de terras indígenas, Norte]]></summary>
         <author>
             <name>Cristina Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indígenas ocupam balsa de grãos da Cargill em Santarém contra a política privatista de Lula. Todo apoio!]]></title>
-        <id>https://www.esquerdadiario.com.br/Indigenas-ocupam-balsa-de-graos-da-Cargill-em-Santarem-contra-a-politica-privatista-de-Lula-Todo</id>
-        <link href="https://www.esquerdadiario.com.br/Indigenas-ocupam-balsa-de-graos-da-Cargill-em-Santarem-contra-a-politica-privatista-de-Lula-Todo"/>
-        <updated>2026-02-19T16:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Os povos indígenas da região do Tapajós completam 29 dias de ocupação da área portuária da gigante do agro Cargill e seguem aprofundando sua mobilização. Nesta quinta (19) levaram à frente a ocupação de uma balsa de grãos da empresa, mostrando que não irão recuar e a reafirmando a luta pela revogação do Decreto 12.600/25. Em resposta, o governo colocou a Polícia Federal para reprimir o movimento. Repudiamos essa repressão e expressamos aqui todo o apoio à luta!
-19-02-2025
-
-/ Política, Povos indígenas, Lula, Indígenas, Privatização, Guilherme Boulos, Crise ecológica, Governo Lula, Boulos, Santarém, Privatização das Hidrovias]]></summary>
-        <author>
-            <name>Valéria Muller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Luto e a Luta: Foi o Estado!]]></title>
-        <id>https://ponte.org/?p=158558</id>
-        <link href="https://ponte.org/o-luto-e-a-luta-foi-o-estado/"/>
-        <updated>2026-02-19T14:22:03.000Z</updated>
-        <summary type="html"><![CDATA[O sétimo episódio do podcast “O Luto e a Luta: os 10 anos da Chacina de Osasco e Barueri” aborda a trajetória das mães da Associação 13 de Agosto nos tribunais
-O conteúdo O Luto e a Luta: Foi o Estado! Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Catarina Duarte</name>
         </author>
     </entry>
 </feed>
