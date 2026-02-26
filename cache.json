@@ -419,7 +419,7 @@
         {
           "id": "https://www.esquerdadiario.com.br/A-cidade-nao-planejada-pixacao-como-resistencia-urbana",
           "author": "Redação",
-          "description": "Texto de tribuna aberta, assinado por Pedro Henrique Pereira, que discute a pixação como forma de retomada simbólica de Belo Horizonte pela população historicamente expulsa do centro planejado. O artigo relembra a construção da capital e a expulsão dos moradores do antigo Arraial do Curral del Rey, apontando a pixação como uma dessas formas de reocupação da cidade, ao lado de movimentos culturais como o Duelo de MC's, o Slam Clube da Luta e o Samba da Meia-Noite, no entorno da Avenida do (…)\n22-02-2026\n\n/ Cultura, pixo, arte urbana, Arte de Rua, Minas Gerais, Belo Horizonte , urbanização capitalista",
+          "description": "Texto de tribuna aberta, assinado por Pedro Henrique Pereira (@poof_sz), que discute a pixação como forma de retomada simbólica de Belo Horizonte pela população historicamente expulsa do centro planejado. O artigo relembra a construção da capital e a expulsão dos moradores do antigo Arraial do Curral del Rey, apontando a pixação como uma dessas formas de reocupação da cidade, ao lado de movimentos culturais como o Duelo de MC's, o Slam Clube da Luta e o Samba da Meia-Noite, no entorno da (…)\n22-02-2026\n\n/ Cultura, pixo, arte urbana, Arte de Rua, Minas Gerais, Belo Horizonte , urbanização capitalista",
           "link": "https://www.esquerdadiario.com.br/A-cidade-nao-planejada-pixacao-como-resistencia-urbana",
           "publishedOn": "2026-02-22T20:53:46.000Z",
           "wordCount": null,
@@ -459,7 +459,7 @@
           "description": "Entenda o percurso argentino da industrialização à precarização, seus paralelos com o Brasil e os limites da mobilização popular frente à extrema direita global.\nO post Com reforma trabalhista, Javier Milei dá continuidade ao projeto neoliberal de Macri e da ditadura militar apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/02/26/reforma-trabalhista-javier-milei-continuidade-projeto-neoliberal-macri-ditadura-militar/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4752,
+          "wordCount": 4722,
           "title": "Com reforma trabalhista, Javier Milei dá continuidade ao projeto neoliberal de Macri e da ditadura militar",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/02/mileimacri.png",
@@ -489,7 +489,7 @@
           "description": "E-mails mostram que figuras como o ex-premiê de Israel, Ehud Barak, se hospedavam frequentemente na propriedade de Epstein.\nO post Israel vigiou apartamento de Epstein usado por espiões do país apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/02/23/israel-epstein-espionagem-apartamento/",
           "publishedOn": "2026-02-23T21:00:00.000Z",
-          "wordCount": 4079,
+          "wordCount": 4109,
           "title": "Israel vigiou apartamento de Epstein usado por espiões do país",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/02/Header-Epstein-Israel-Apartamento.png",
@@ -504,7 +504,7 @@
           "description": "Com Tarcísio de Freitas fora da disputa, o \"filho 01\" assume o papel de herdeiro político de Jair Bolsonaro em uma tentativa de atrair o centro e o mercado.\nO post Flávio Bolsonaro representa a farsa do bolsonarismo moderado nas eleições apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/02/21/flavio-bolsonaro-farsa-bolsonarismo-moderado/",
           "publishedOn": "2026-02-21T10:00:00.000Z",
-          "wordCount": 3928,
+          "wordCount": 3898,
           "title": "Flávio Bolsonaro representa a farsa do bolsonarismo moderado nas eleições",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/02/31925304-high.jpeg",
@@ -520,6 +520,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=158754",
+          "author": "Jessica Santos",
+          "description": "Ouça os episódios finais do podcast ‘O Luto e a Luta: os 10 anos da Chacina de Osasco e Barueri’\nO conteúdo O Luto e a Luta: Um lugar para descansar / E lá se vão 10 anos… Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/o-luto-e-a-luta-episodios-finais-10-anos-chacina-osasco/",
+          "publishedOn": "2026-02-26T14:43:52.000Z",
+          "wordCount": 6664,
+          "title": "O Luto e a Luta: Um lugar para descansar / E lá se vão 10 anos…",
+          "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/26100010/WhatsApp-Image-2026-02-24-at-17.42.47.webp"
+        },
         {
           "id": "https://ponte.org/?p=158575",
           "author": "Catarina Duarte",
@@ -628,12 +638,6 @@
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/02/cuba-1.webp"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
