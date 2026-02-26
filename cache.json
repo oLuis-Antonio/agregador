@@ -190,12 +190,22 @@
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "https://www.opiniaosocialista.com.br/?p=105331",
+          "author": "PSTU-Curitiba",
+          "description": "Helena Figueiredo da Costa Aleixo Lustosa, Daniel P. De S. F. Aleixo Lustosa e Samuel de Mattos, de Curitiba (PR) A cidade de Curitiba tem ganhado notoriedade, no último período, em razão dos diversos casos de internação involuntária de pessoas em situação de rua. A prefeitura elaborou um protocolo para “legalizar” essas ações, envolvendo diferentes […]\nO post Curitiba: Internações involuntárias do Prefeito Eduardo Pimentel é higienização social! apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/curitiba-internacoes-involuntarias-do-prefeito-eduardo-pimentel-e-higienizacao-social/",
+          "publishedOn": "2026-02-26T21:25:47.000Z",
+          "wordCount": 3431,
+          "title": "Curitiba: Internações involuntárias do Prefeito Eduardo Pimentel é higienização social!",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/02/curitiba_pimentel-1.png"
+        },
+        {
           "id": "https://www.opiniaosocialista.com.br/?p=105324",
-          "author": "PSTU Floripa",
+          "author": "Ray Maria, de Florianópolis (SC)",
           "description": "A Casa de Passagem e Ponto de Cultura Indígena Goj Tá Sá, localizada no bairro Saco dos Limões, na capital de Florianópolis, Santa Catarina, reivindica um direito mínimo: atenção básica à saúde indígena. As lideranças indígenas de Goj Ta Sa receberam o Coordenador do Distrito Sanitário Especial Indígena (DISEI) do Litoral Sul, que veio ao […]\nO post Saúde negada em território indígena: a luta de Goj Tá Sá em Florianópolis apareceu primeiro em Opinião Socialista.",
           "link": "https://www.opiniaosocialista.com.br/saude-negada-em-territorio-indigena-a-luta-de-goj-ta-sa-em-florianopolis/",
           "publishedOn": "2026-02-26T20:34:31.000Z",
-          "wordCount": 1887,
+          "wordCount": 1912,
           "title": "Saúde negada em território indígena: a luta de Goj Tá Sá em Florianópolis",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-21.52.41-1-e1772138012436.jpeg"
         },
@@ -278,16 +288,6 @@
           "wordCount": 3887,
           "title": "A revolução nicaraguense e a política revolucionária de Moreno: A prova dos fatos",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/02/brigada-simon-bolivar.jpeg"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=105276",
-          "author": "Firminia Rodrigues, de Minas Gerais",
-          "description": "Firminia Rodrigues, da Secretaria Nacional de Mulheres do PSTU A recente absolvição, pelo Tribunal de Justiça de Minas Gerais, de um homem de 35 anos, que manteve relações com uma criança de 12, não é apenas uma decisão absurda. É a expressão de um sistema que falha — e mais do que isso, que protege […]\nO post Estupro não é afeto! Violência sexual contra crianças e adolescentes: um crime que o sistema protege apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/estupro-nao-e-afeto-violencia-sexual-contra-criancas-e-adolescentes-um-crime-que-o-sistema-protege/",
-          "publishedOn": "2026-02-22T20:20:05.000Z",
-          "wordCount": 1783,
-          "title": "Estupro não é afeto! Violência sexual contra crianças e adolescentes: um crime que o sistema protege",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/02/abuso-infantil-1.png"
         }
       ]
     },
@@ -562,11 +562,11 @@
           "wordCount": 4752,
           "title": "Com reforma trabalhista, Javier Milei dá continuidade ao projeto neoliberal de Macri e da ditadura militar",
           "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/02/mileimacri.png",
-            "length": "1",
-            "type": "image/png"
+            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
+            "length": "5875086",
+            "type": "video/mp4"
           },
-          "imageUrl": "https://uploads.intercept.com.br/2026/02/mileimacri.png"
+          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/02/mileimacri.png"
         },
         {
           "id": "https://www.intercept.com.br/?p=441934",
@@ -656,7 +656,7 @@
           "description": "Juíza Noemi Martins de Oliveira vetou entrada de moradores e da Ponte em audiência para tratar da remoção da favela, que, em tese, seria um ato público. Caixa e CDHU seguem sem comprar imóveis prometidos por Lula e Tarcísio\nO conteúdo Justiça barra famílias do Moinho de audiência, e governos já ameaçam reintegração de posse Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/justica-barra-familias-do-moinho-de-audiencia-e-governos-ja-ameacam-reintegracao-de-posse/",
           "publishedOn": "2026-02-25T15:26:22.000Z",
-          "wordCount": 6131,
+          "wordCount": 6353,
           "title": "Justiça barra famílias do Moinho de audiência, e governos já ameaçam reintegração de posse",
           "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/24182040/moradores-moinho-forum-faixas-despejo.jpg.webp"
         },
