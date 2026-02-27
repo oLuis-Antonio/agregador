@@ -5,30 +5,44 @@ on:
     branches:
       - main
   schedule:
-    # Adjust refresh schedule here. By default, it runs once per day.
-    # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
-    # Recommended tool: https://crontab.guru/
-    - cron: "0 */2 * * *"  
+    - cron: "0 */2 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
-      - name: Install dependencies
-        run: npm i
+          node-version: "20"
+          cache: "npm"
+      - name: Install dependencies (exact versions)
+        run: npm ci
+
+      - name: Debug - test feed access
+        run: |
+          echo "Testando feed com Node.js..."
+          node -e "
+          fetch('https://anovademocracia.com.br/feed/')
+            .then(r => {
+              console.log('Status:', r.status);
+              if (!r.ok) throw new Error('HTTP ' + r.status);
+              return r.text();
+            })
+            .then(t => console.log('OK, comprimento do XML:', t.length))
+            .catch(e => console.error('ERRO:', e.message))
+          "
+
       - name: Build the feed
         run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           cname: agregador.proletario.org
-
-
