@@ -50,12 +50,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const savedTheme = localStorage.getItem("theme");
 
-  /* padrão é dark */
+  /* dark é padrão */
   if (savedTheme === "light") {
     html.setAttribute("data-theme", "light");
   } else {
     html.setAttribute("data-theme", "dark");
   }
+
+  /* função que sincroniza ícone */
+  function updateThemeIcon() {
+    const current = html.getAttribute("data-theme");
+    if (current === "light") {
+      toggle.textContent = "🌚";
+      toggle.setAttribute("aria-label", "Ativar tema escuro");
+    } else {
+      toggle.textContent = "🌞";
+      toggle.setAttribute("aria-label", "Ativar tema claro");
+    }
+  }
+
+  /* inicializa ícone */
+  updateThemeIcon();
 
   toggle.addEventListener("click", () => {
     const isLight = html.getAttribute("data-theme") === "light";
@@ -63,5 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     html.setAttribute("data-theme", next);
     localStorage.setItem("theme", next);
+
+    updateThemeIcon();
   });
 });

@@ -4,10 +4,11 @@
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="alternate" type="application/rss+xml" href="{{feedHref}}" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet"> 
+  <link rel="preload"
+      href="/fonts/AtkinsonHyperlegibleNext-Variable.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin>
   <link href="index.css" rel="stylesheet" />
   <link rel="icon" type="image/svg+xml" href="antagonismo.svg">
 </head>
@@ -15,10 +16,13 @@
 <body>
   <header>
     <div class="header-top">
-      <h1>{{siteTitle}}</h1>
-      <button id="theme-toggle" aria-label="Alternar tema">🌗</button>
+      <h1>radar 📣</h1>
+      <span class="theme-selection"
+          >Alterar Tema
+          <button id="theme-toggle" aria-label="Alternar tema">🌗</button></span
+        >
     </div>
-    <p>Curadoria de notícias, notas políticas e debates por um viés de classe.</p>
+    <p>Curadoria de notícias, notas políticas e debates sob um viés de classe. Atualizado a cada 4 horas.</p>
   </header>
 
   <main>
