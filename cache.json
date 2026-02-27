@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "itH86a",
+          "author": null,
+          "description": "Desde a mobilização nas ruas até a tramitação da PEC no Congresso Nacional, a luta pelo fim da escala 6x1 revela os conflitos entre os interesses estratégicos da classe trabalhadora, os cálculos meramente eleitorais dos setores reformistas e o reacionarismo burguês diante da possibilidade de ampliação de direitos trabalhistas.",
+          "link": "https://jornalofuturo.com.br/artigo/itH86a-avanco-da-pec-do-fim-da-escala-6x1-no-congresso-nao-garante-reducao-da-jornada-nem-aprovacao-em-2026",
+          "publishedOn": "2026-02-26T21:00:00.000Z",
+          "wordCount": 4203,
+          "title": "Avanço da PEC do fim da escala 6x1 no Congresso não garante redução da jornada nem aprovação em 2026",
+          "imageUrl": "https://media.jornalofuturo.com.br/escala4por3-1280x720.jpg"
+        },
+        {
           "id": "TMZOqZ",
           "author": null,
           "description": "Os trabalhadores processaram a empresa reivindicando o cumprimento do piso da categoria, que em 2026 passou a ser R$2.608,60, e o pagamento da diferença durante o período em que o piso foi descumprido.",
@@ -296,6 +306,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Terceirizadas-de-BH-expulsaram-a-secretaria-de-educacao-Natalia-Araujo-apos-tentativa-de-frear-a",
+          "author": "Redação",
+          "description": "Durante ato das trabalhadoras terceirizadas da educação de Belo Horizonte, a secretaria de educação foi rechaçada e expulsa pelas trabalhadoras ao tentar defender sua secretaria e a prefeitura. \n Na manhã de terça (24), sob muita chuva na cidade de Belo Horizonte, as trabalhadoras terceirizadas da educação de BH fizeram um ato na porta da Secretária de Educação. As trabalhadoras foram recebidas pela secretária de Educação que disse que iria dialogar com a categoria. Após reunir todos em uma (…)\n26-02-2026\n\n/ Belo Horizonte, Educação, Greve Educação MG, Belo Horizonte , Greve na educação de BH",
+          "link": "https://www.esquerdadiario.com.br/Terceirizadas-de-BH-expulsaram-a-secretaria-de-educacao-Natalia-Araujo-apos-tentativa-de-frear-a",
+          "publishedOn": "2026-02-27T00:10:24.000Z",
+          "wordCount": null,
+          "title": "Terceirizadas de BH expulsaram a secretária de educação Natália Araújo após tentativa de frear a luta das trabalhadoras!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Deputado-de-direita-que-nunca-trabalhou-de-verdade-condena-fim-da-6x1-dizendo-que-ocio-demais-faz",
           "author": "Valéria Muller",
@@ -748,12 +768,6 @@
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/02/cuba-1.webp"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
