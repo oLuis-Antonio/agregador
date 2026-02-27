@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   build:
@@ -22,20 +22,6 @@ jobs:
           cache: "npm"
       - name: Install dependencies (exact versions)
         run: npm ci
-
-      - name: Debug - test feed access
-        run: |
-          echo "Testando feed com Node.js..."
-          node -e "
-          fetch('https://anovademocracia.com.br/feed/')
-            .then(r => {
-              console.log('Status:', r.status);
-              if (!r.ok) throw new Error('HTTP ' + r.status);
-              return r.text();
-            })
-            .then(t => console.log('OK, comprimento do XML:', t.length))
-            .catch(e => console.error('ERRO:', e.message))
-          "
 
       - name: Build the feed
         run: npm run build

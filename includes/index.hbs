@@ -5,14 +5,20 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="alternate" type="application/rss+xml" href="{{feedHref}}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet"> 
   <link href="index.css" rel="stylesheet" />
   <link rel="icon" type="image/svg+xml" href="antagonismo.svg">
 </head>
 
 <body>
   <header>
-    <h1>{{siteTitle}}</h1>
-    <p>Notícias de: O Futuro; A Verdade; Opinião Socialista; Esquerda Diário; The Intercept Brasil; Ponte Jornalismo; De Olho Nos Ruralistas; A Nova Democracia; </p>
+    <div class="header-top">
+      <h1>{{siteTitle}}</h1>
+      <button id="theme-toggle" aria-label="Alternar tema">🌗</button>
+    </div>
+    <p>Curadoria de notícias, notas políticas e debates por um viés de classe.</p>
   </header>
 
   <main>
@@ -20,44 +26,46 @@
     <section class="day">
 
       <h2 class="daily-heading">
-        <span
-          class="daily-heading-toggle__date"
-          data-date="{{isoPublishDate}}">
+        <button
+          class="daily-heading-toggle"
+          data-date="{{isoPublishDate}}"
+          aria-expanded="true">
           {{isoPublishDate}}
-        </span>
+        </button>
       </h2>
 
-      {{#each articles}}
-      <article class="card">
-        <a href="{{link}}" class="card-link" target="_blank">
+      <div class="day-content">
+        {{#each articles}}
+        <article class="card">
+          <a href="{{link}}" class="card-link" target="_blank">
+            <div class="card__section">
 
-          <div class="card__section">
+              <h3>{{title}}</h3>
 
-            <h3>{{title}}</h3>
+              <div class="meta">
+                <span class="source">{{source.title}}</span>
 
-            <div class="meta">
-              <span class="source">{{source.title}}</span>
+                <time
+                  class="article-date"
+                  datetime="{{../isoPublishDate}}">
+                  {{../isoPublishDate}}
+                </time>
+              </div>
 
-              <time
-                class="article-date"
-                datetime="{{../isoPublishDate}}">
-                {{../isoPublishDate}}
-              </time>
+              <p class="description">{{description}}</p>
+
             </div>
-
-            <p class="description">{{description}}</p>
-
-          </div>
-        </a>
-      </article>
-      {{/each}}
+          </a>
+        </article>
+        {{/each}}
+      </div>
 
     </section>
     {{/each}}
   </main>
 
   <footer>
-    <span>{{siteTitle}}</span>
+    <span>{{siteTitle}} – feito com OsmosFeed</span>
     <a href="{{feedHref}}" class="footer-link">RSS</a>
   </footer>
 
