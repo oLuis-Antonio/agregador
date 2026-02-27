@@ -14,7 +14,8 @@ sources:
   - href: https://ponte.org/feed/
   - href: https://revistaopera.operamundi.uol.com.br/feed/
   - href: https://deolhonosruralistas.com.br/feed/
-  - href: https://anovademocracia.com.br/feed/
+  - href: https://andproxy.luisantoniossouza.workers.dev/
+  # ... outros feeds
   
 siteTitle: "agregador.proletario.org"
 cacheMaxDays: 7
