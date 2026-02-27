@@ -74,16 +74,6 @@
           "wordCount": 1241,
           "title": "FNP lança campanha para envio de petróleo a Cuba",
           "imageUrl": "https://media.jornalofuturo.com.br/fnpcuba-1280x1280.jpg"
-        },
-        {
-          "id": "MUcsfY",
-          "author": null,
-          "description": "Cinquenta anos depois, a memória dos 29 sequestrados e torturados nas dependências do 28º Batalhão de Caçadores (28º BC) ainda desafia o silêncio imposto pelos algozes e reforça a necessidade de punição para os crimes cometidos contra a classe trabalhadora.",
-          "link": "https://jornalofuturo.com.br/artigo/MUcsfY-50-anos-da-operacao-cajueiro-meio-seculo-de-luta-contra-o-esquecimento-e-a-tortura-em-sergipe",
-          "publishedOn": "2026-02-20T21:00:00.000Z",
-          "wordCount": 1959,
-          "title": "50 Anos da Operação Cajueiro: Meio século de luta contra o esquecimento e a tortura em Sergipe",
-          "imageUrl": "https://media.jornalofuturo.com.br/operacaocajueiro-962x417.jpg"
         }
       ]
     },
@@ -609,7 +599,7 @@
           "description": "E-mails mostram que figuras como o ex-premiê de Israel, Ehud Barak, se hospedavam frequentemente na propriedade de Epstein.\nO post Israel vigiou apartamento de Epstein usado por espiões do país apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/02/23/israel-epstein-espionagem-apartamento/",
           "publishedOn": "2026-02-23T21:00:00.000Z",
-          "wordCount": 4079,
+          "wordCount": 4109,
           "title": "Israel vigiou apartamento de Epstein usado por espiões do país",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/02/Header-Epstein-Israel-Apartamento.png",
@@ -736,18 +726,14 @@
           "wordCount": 5209,
           "title": "A noite em que os protestos no Irã foram cooptados por forças externas",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/02/Kashmar_2026_Iranian_protests2026-01-09_4-1024x769-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73254",
-          "author": "Globetrotter",
-          "description": "m janeiro de 2026, o presidente dos Estados Unidos, Donald Trump, declarou Cuba uma “ameaça incomum e extraordinária” à segurança dos EUA – uma designação que permite ao governo dos Estados Unidos usar restrições econômicas abrangentes tradicionalmente reservadas a adversários da segurança nacional. O bloqueio dos EUA contra Cuba começou na década de 1960, logo […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/02/20/a-revolucao-cubana-resiste-ao-imperialismo-dos-eua/",
-          "publishedOn": "2026-02-20T21:17:37.000Z",
-          "wordCount": 3834,
-          "title": "A Revolução Cubana resiste ao imperialismo dos EUA",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/02/cuba-1.webp"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
