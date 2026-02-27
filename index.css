@@ -1,13 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
-/* GRUVBOX DARK - Tema personalizado */
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap");
+
+/* =========================
+   DARK THEME (default)
+========================= */
+
 :root {
   --bg: #090909;
-  --bg-light: #191919;
+  --surface: #1f1f1f;
+  --surface-strong: #252525;
   --border: #2a2a2a;
   --text: #cfc6bf;
   --text-light: #e2d6cf;
   --text-lighter: #f5e9e2;
   --accent: #c51b2b;
+}
+
+/* =========================
+   LIGHT THEME
+========================= */
+
+html[data-theme="light"] {
+  --bg: #eef1f4;
+  --surface: #f9fafb;
+  --surface-strong: #eef2f6;
+  --border: #d8dde3;
+
+  --text: #1f2933;
+  --text-light: #4a5560;
+  --text-lighter: #111827;
+
+  --accent: #a31222;
 }
 
 * {
@@ -17,7 +39,7 @@
 }
 
 html {
-  font-size: 62.5%; /* 10px */
+  font-size: 62.5%;
 }
 
 body {
@@ -28,9 +50,25 @@ body {
   padding: 2rem 1.5rem;
   max-width: 800px;
   margin: 0 auto;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 
-/* Cabeçalho */
+/* Header */
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#theme-toggle {
+  all: unset;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
 header {
   margin-bottom: 3rem;
   border-bottom: 1px solid var(--border);
@@ -41,43 +79,79 @@ header h1 {
   color: var(--accent);
   font-size: 3rem;
   font-weight: 600;
+  text-transform: uppercase;
 }
 
 header p {
-  color: var(--text);
   font-size: 1.4rem;
   margin-top: 0.5rem;
 }
 
-/* Agrupamento por dia */
-.day {
-  margin-bottom: 3rem;
+/* Collapse animation */
+
+.day-content {
+  overflow: hidden;
+  transition:
+    max-height 0.4s ease,
+    opacity 0.3s ease;
 }
 
+.day.collapsed .day-content {
+  max-height: 0;
+  opacity: 0;
+}
+
+.day:not(.collapsed) .day-content {
+  opacity: 1;
+}
+
+/* Heading */
+
 .daily-heading {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 600;
-  color: var(--text-light);
   border-bottom: 2px solid var(--border);
   padding-bottom: 0.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.daily-heading-toggle {
+  all: unset;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  color: var(--text-light);
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
+.daily-heading-toggle::after {
+  content: "▼";
+  float: right;
+  transition: transform 0.2s ease;
+}
+
+.day.collapsed .daily-heading-toggle::after {
+  transform: rotate(-90deg);
+}
+
 /* Cards */
+
 .card {
-  background-color: var(--bg-light);
+  background-color: var(--surface);
   border: 1px solid var(--border);
   border-radius: 8px;
   margin-bottom: 1.5rem;
-  transition: transform 0.2s, box-shadow 0.2s;
-  overflow: hidden;
+  transition:
+    background-color 0.2s,
+    transform 0.2s,
+    box-shadow 0.2s;
 }
 
 .card:hover {
+  background-color: var(--surface-strong);
   transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
 }
 
 .card-link {
@@ -95,56 +169,30 @@ header p {
   font-weight: 600;
   color: var(--accent);
   margin-bottom: 0.8rem;
-  line-height: 1.3;
 }
 
-.card h3:hover {
-  color: var(--text-lighter);
-}
-
-/* Metadados */
 .meta {
   display: flex;
   gap: 1.5rem;
   align-items: center;
   font-size: 1.4rem;
-  color: var(--text);
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
   border-bottom: 1px dashed var(--border);
-  padding-bottom: 0.8rem;
+  padding-bottom: 0.6rem;
 }
 
-.source {
-  color: var(--accent); /* verde fixo */
-  font-weight: 500;
-}
-
-.source:hover {
-  color: var(--text-lighter);
-}
-
-.article-date {
-  color: var(--text);
-}
-
-/* Descrição */
 .description {
   font-size: 1.4rem;
   color: var(--text-light);
-  line-height: 1.5;
-  margin-top: 1rem;
 }
 
-/* Rodapé */
 footer {
   margin-top: 4rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
   font-size: 1.3rem;
-  color: var(--text);
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .footer-link {
