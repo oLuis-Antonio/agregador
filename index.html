@@ -4,10 +4,11 @@
   <title>Radar Proletário</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="alternate" type="application/rss+xml" href="feed.atom" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet"> 
+  <link rel="preload"
+      href="/fonts/AtkinsonHyperlegibleNext-Variable.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin>
   <link href="index.css" rel="stylesheet" />
   <link rel="icon" type="image/svg+xml" href="antagonismo.svg">
 </head>
@@ -15,10 +16,13 @@
 <body>
   <header>
     <div class="header-top">
-      <h1>Radar Proletário</h1>
-      <button id="theme-toggle" aria-label="Alternar tema">🌗</button>
+      <h1>radar 📣</h1>
+      <span class="theme-selection"
+          >Alterar Tema
+          <button id="theme-toggle" aria-label="Alternar tema">🌗</button></span
+        >
     </div>
-    <p>Curadoria de notícias, notas políticas e debates por um viés de classe.</p>
+    <p>Curadoria de notícias, notas políticas e debates sob um viés de classe. Atualizado a cada 4 horas.</p>
   </header>
 
   <main>
@@ -34,6 +38,161 @@
       </h2>
 
       <div class="day-content">
+        <article class="card">
+          <a href="https://blogdaboitempo.com.br/2026/02/27/a-estetica-da-caserna-e-a-gestao-da-juventude-pobre-militarizacao-escolar-desigualdades-e-autoritarismo/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>A estética da caserna e a gestão da juventude pobre: militarização escolar, desigualdades e autoritarismo</h3>
+
+              <div class="meta">
+                <span class="source">Blog da Boitempo</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">Igor Figueiredo e Ricardo Normanha: &quot;Longe de se configurar como um elemento novo, o processo de militarização é um projeto caro para a extrema direita brasileira e tem sido um dos eixos fundamentais de uma política caracterizada pelo giro autoritário do neoliberalismo ao longo das últimas décadas e que busca uma disputa da dimensão cultural, enraizando ideias antidemocráticas.&quot;</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://outraspalavras.net/poeticas/poesia-o-peixe-na-rede/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>Poesia: O peixe na rede</h3>
+
+              <div class="meta">
+                <span class="source">Outras Palavras</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">Milhões de smartphones e milhões de motos, milhares de helicópteros na cidade que perdeu a bússola. O barulho ensurdecedor dessa parafernália (ou infernália) anula, antes que possamos ouvi-lo, o canto das sereias. De que adianta Odisseu ter nos ensinado o método, se já não somos avisados do perigo?
+The post Poesia: O peixe na rede appeared first on Outras Palavras.</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://www.esquerdadiario.com.br/A-luta-indigena-que-derrotou-a-privatizacao-dos-rios-na-voz-dos-seus-protagonistas" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>A luta indígena que derrotou a privatização dos rios na voz dos seus protagonistas</h3>
+
+              <div class="meta">
+                <span class="source">Esquerda Diário</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">A vitória dos povos do Tapajós contra o decreto 12.600 que avançava na privatização e destruição de três grandes rios é uma vitória contra o avanço do agronegócio e de suas multinacionais imperialistas sobre o meio ambiente e o modo de vida das comunidades originárias. Mas também é uma vitória contra o governo Lula, que é recordista de privatizações, de crédito ao agronegócio e que ameaçou reprimir a ocupação da Cargill com a PF para intimidar os indígenas. Ao contrário do cinismo sem tamanho de Guilherme Boulos que disse que a revogação do decreto é fruto da “escuta” que o governo teve com esses povos, o governo só o fez após mais de um mês de luta dos povos do Tapajós. Mostramos os principais momentos dessa luta e a perspectiva dos seus protagonistas.
+26-02-2026
+
+/ Povos indígenas, Agronegócio, Indígenas, Luta indígena, Guilherme Boulos, Pará, Crise ecológica, Governo Lula-Alckmin, Cargill</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://operamundi.uol.com.br/europa/uniao-europeia-aplicara-provisoriamente-acordo-com-mercosul/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>União Europeia aplicará provisoriamente acordo com Mercosul</h3>
+
+              <div class="meta">
+                <span class="source">Opera Mundi</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">O acordo de livre comércio entre União Europeia (UE) e Mercosul será aplicado provisoriamente, apesar de uma revisão pendente pelo principal tribunal do bloco europeu, anunciou a presidente da Comissão Europeia, Ursula von der Leyen, nesta sexta‑feira (27/02). “Eu já disse antes: quando eles estiverem prontos, nós estamos prontos”, afirmou. O caminho para a aplicação […]
+O post União Europeia aplicará provisoriamente acordo com Mercosul apareceu primeiro em Opera Mundi.</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://operamundi.uol.com.br/politica-e-economia/meloni-apresenta-projeto-eleitoral-que-favorece-continuidade-como-premie-na-italia/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>Meloni apresenta projeto eleitoral que favorece continuidade como premiê na Itália</h3>
+
+              <div class="meta">
+                <span class="source">Opera Mundi</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">Os partidos conservadores na Itália que apoiam o governo da primeira-ministra Giorgia Meloni firmaram um acordo na quinta-feira (26/02) para alterar o sistema eleitoral do país, que ao longo das últimas décadas já passou por diversas modificações. Trata-se da implementação da chamada “prêmio de governabilidade”, que segundo o texto protocolado, tem como objetivo garantir “estabilidade” […]
+O post Meloni apresenta projeto eleitoral que favorece continuidade como premiê na Itália apareceu primeiro em Opera Mundi.</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://ponte.org/ponte-estreia-quadro-na-programacao-da-radio-brasil-de-fato/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>Ponte estreia quadro na programação da rádio Brasil de Fato</h3>
+
+              <div class="meta">
+                <span class="source">Ponte Jornalismo</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">“Fala, Ponte” vai ao ar semanalmente com análises e repercussões sobre segurança pública, direitos humanos e sistema de justiça
+O conteúdo Ponte estreia quadro na programação da rádio Brasil de Fato Pode ser acessado em Ponte Jornalismo.</p>
+
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://operamundi.uol.com.br/pensar-a-historia/educacao-para-as-massas-o-sistema-de-ensino-na-uniao-sovietica/" class="card-link" target="_blank">
+            <div class="card__section">
+
+              <h3>Educação para as massas: o sistema de ensino na União Soviética</h3>
+
+              <div class="meta">
+                <span class="source">Opera Mundi</span>
+
+                <time
+                  class="article-date"
+                  datetime="2026-02-27">
+                  2026-02-27
+                </time>
+              </div>
+
+              <p class="description">A data de hoje, 27 de fevereiro, marca o aniversário de falecimento da educadora Nadejda Krupskaya, uma das principais responsáveis pelo desenvolvimento do sistema educacional soviético. Aproveitamos a ocasião para relembrar uma das mais singulares experiências educacionais do século 20, quando as escolas foram convertidas em sustentáculos de um abrangente projeto de transformação política e […]
+O post Educação para as massas: o sistema de ensino na União Soviética apareceu primeiro em Opera Mundi.</p>
+
+            </div>
+          </a>
+        </article>
         <article class="card">
           <a href="https://outraspalavras.net/descolonizacoes/universidade-em-disputa-da-reforma-de-cordoba-as-big-techs/" class="card-link" target="_blank">
             <div class="card__section">
@@ -189,7 +348,7 @@ O post China, ONU e Rússia pedem fim do conflito após Paquistão declarar guer
           <a href="https://operamundi.uol.com.br/asia/kim-jong-un-e-filha-combinam-looks-em-desfile-militar-e-reacende-debate-sobre-sucessao-na-coreia-do-norte/" class="card-link" target="_blank">
             <div class="card__section">
 
-              <h3>Kim Jong Un e filha combinam ‘looks’ em desfile militar e reacende debate sobre sucessão na Coreia do Norte</h3>
+              <h3>Kim e filha aparecem em desfile militar e aumenta rumor sobre sucessão na Coreia do Norte</h3>
 
               <div class="meta">
                 <span class="source">Opera Mundi</span>
@@ -202,7 +361,7 @@ O post China, ONU e Rússia pedem fim do conflito após Paquistão declarar guer
               </div>
 
               <p class="description">Com a frequência cada vez maior de aparições públicas de Kim Ju Ae, filha do presidente norte-coreano Kim Jong Un, em eventos oficiais, a imprensa global especula sobre uma possível sucessão da jovem para a liderança do país. Se este for o caso, ela representaria a quarta geração da família Kim – após as passagens […]
-O post Kim Jong Un e filha combinam ‘looks’ em desfile militar e reacende debate sobre sucessão na Coreia do Norte apareceu primeiro em Opera Mundi.</p>
+O post Kim e filha aparecem em desfile militar e aumenta rumor sobre sucessão na Coreia do Norte apareceu primeiro em Opera Mundi.</p>
 
             </div>
           </a>
@@ -421,50 +580,6 @@ O post China e Canadá pedem que cidadãos saíam do Irã ‘imediatamente’ ap
           </a>
         </article>
         <article class="card">
-          <a href="https://operamundi.uol.com.br/oriente-medio/israel-intensifica-ataques-aereos-no-libano-em-meio-ameacas-de-agressao-dos-eua-contra-ira/" class="card-link" target="_blank">
-            <div class="card__section">
-
-              <h3>Israel intensifica ataques aéreos no Líbano em meio ameaças de agressão dos EUA contra Irã</h3>
-
-              <div class="meta">
-                <span class="source">Opera Mundi</span>
-
-                <time
-                  class="article-date"
-                  datetime="2026-02-27">
-                  2026-02-27
-                </time>
-              </div>
-
-              <p class="description">Um cidadão sírio foi morto e dezenas de outras pessoas ficaram feridas em uma nova onda de ataques aéreos israelenses que atingiram diferentes partes do Vale do Bekaa, no leste do Líbano, na quinta-feira (26/02). Extensos danos materiais também foram relatados nas áreas atingidas. O exército israelenses alegou que a ofensiva foi lançada contra oito […]
-O post Israel intensifica ataques aéreos no Líbano em meio ameaças de agressão dos EUA contra Irã apareceu primeiro em Opera Mundi.</p>
-
-            </div>
-          </a>
-        </article>
-        <article class="card">
-          <a href="https://operamundi.uol.com.br/conflito-eua-e-venezuela/maduro-pede-arquivamento-do-processo-contra-seu-advogado-por-bloqueio-de-fundos/" class="card-link" target="_blank">
-            <div class="card__section">
-
-              <h3>Maduro denuncia EUA por violação de garantias constitucionais</h3>
-
-              <div class="meta">
-                <span class="source">Opera Mundi</span>
-
-                <time
-                  class="article-date"
-                  datetime="2026-02-27">
-                  2026-02-27
-                </time>
-              </div>
-
-              <p class="description">O presidente venezuelano Nicolás Maduro que está sequestrado nos Estados Unidos insistiu na quinta-feira (26/02) que o processo por tráfico de drogas e corrupção contra ele seja arquivado, após o governo Trump negar seu pedido para que o governo venezuelano arcasse com os custos de sua defesa. Em depoimento sob juramento, o líder de Caracas […]
-O post Maduro denuncia EUA por violação de garantias constitucionais apareceu primeiro em Opera Mundi.</p>
-
-            </div>
-          </a>
-        </article>
-        <article class="card">
           <a href="https://anovademocracia.com.br/pr-comite-de-solidariedade-realiza-campanha-para-manter-e-ampliar-atividades-em-rio-bonito-do-iguacu/" class="card-link" target="_blank">
             <div class="card__section">
 
@@ -502,28 +617,6 @@ O post Maduro denuncia EUA por violação de garantias constitucionais apareceu 
               </div>
 
               <p class="description">Felipe Brito: &quot;Acompanhar alguns dos fios do emaranhado caso Master permite averiguar o quanto de bolsonarismo se encontra alojado tanto no imbróglio do Banco Master quanto na própria dinâmica inerente à Faria Lima. Não parece ser aleatório o fato da maior doação da campanha de Tarcísio de Freitas e uma das maiores da campanha presidencial de Bolsonaro advirem de um dos principais operadores financeiros do maquinário financeiro-rentista-especulativo do banco, cunhado do acionista majoritário e presidente.&quot;</p>
-
-            </div>
-          </a>
-        </article>
-        <article class="card">
-          <a href="https://operamundi.uol.com.br/brasil/centrais-sindicais-e-movimentos-exigem-envio-de-petroleo-brasileiro-a-cuba/" class="card-link" target="_blank">
-            <div class="card__section">
-
-              <h3>Centrais sindicais e movimentos exigem envio de petróleo brasileiro a Cuba</h3>
-
-              <div class="meta">
-                <span class="source">Opera Mundi</span>
-
-                <time
-                  class="article-date"
-                  datetime="2026-02-27">
-                  2026-02-27
-                </time>
-              </div>
-
-              <p class="description">Petroleiros, sindicatos e organizações populares realizaram, nesta quinta-feira (26/02), um ato na frente da sede da Petrobras, no Rio de Janeiro, exigindo que a empresa envie petróleo bruto e derivados a Cuba, em resposta ao bloqueio energético dos Estados Unidos contra o país caribenho. “O Brasil e a Petrobras têm um papel histórico a cumprir. […]
-O post Centrais sindicais e movimentos exigem envio de petróleo brasileiro a Cuba apareceu primeiro em Opera Mundi.</p>
 
             </div>
           </a>
@@ -1629,28 +1722,6 @@ O conteúdo Artigo | Minha arma, minha vida, meu problema Pode ser acessado em P
               </div>
 
               <p class="description">Visando incentivar iniciativas coletivas de debate acadêmico e formação feminista em todo o Brasil, a Boitempo convida pesquisadoras e ativistas a coordenar ciclos de discussão dedicados a uma das obras mais instigantes do feminismo marxista: &quot;O arcano da reprodução&quot;, de Leopoldina Fortunati. Saiba mais sobre a iniciativa e participe!</p>
-
-            </div>
-          </a>
-        </article>
-        <article class="card">
-          <a href="https://outraspalavras.net/crise-brasileira/como-professor-pode-lidar-com-a-homofobia/" class="card-link" target="_blank">
-            <div class="card__section">
-
-              <h3>Como um professor pode lidar com a homofobia?</h3>
-
-              <div class="meta">
-                <span class="source">Outras Palavras</span>
-
-                <time
-                  class="article-date"
-                  datetime="2026-02-25">
-                  2026-02-25
-                </time>
-              </div>
-
-              <p class="description">Relato de um docente. Era Carnaval, mas o brilho e a alegria foram quebrados por um email ofensivo do ex-aluno. “Ser preto, bicha, do candomblé e professor” é demais nas escolas do Brasil, conta ele. De que modo responder? Qual o papel da escola?
-The post Como um professor pode lidar com a homofobia? appeared first on Outras Palavras.</p>
 
             </div>
           </a>

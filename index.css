@@ -1,5 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap");
-
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  src: url("/fonts/AtkinsonHyperlegibleNext.woff2") format("woff2");
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
 /* =========================
    DARK THEME (default)
 ========================= */
@@ -39,12 +44,18 @@ html[data-theme="light"] {
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 60%;
 }
 
 body {
   background-color: var(--bg);
-  font-family: "Atkinson Hyperlegible Next", sans-serif;
+  font-family:
+    "Atkinson Hyperlegible Next",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
   line-height: 1.5;
   color: var(--text);
   padding: 2rem 1.5rem;
@@ -61,6 +72,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.theme-selection {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
 #theme-toggle {
@@ -167,23 +184,37 @@ header p {
 .card h3 {
   font-size: 1.8rem;
   font-weight: 600;
-  color: var(--accent);
+  color: var(--text-lighter);
   margin-bottom: 0.8rem;
+}
+
+.source {
+  display: inline-block;
+  background-color: rgba(197, 27, 43, 0.15); /* accent com transparência */
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  text-transform: uppercase;
 }
 
 .meta {
   display: flex;
-  gap: 1.5rem;
+  gap: 1rem;
   align-items: center;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin-bottom: 1rem;
   border-bottom: 1px dashed var(--border);
   padding-bottom: 0.6rem;
+  opacity: 0.85;
 }
 
 .description {
   font-size: 1.4rem;
   color: var(--text-light);
+  line-height: 1.6;
 }
 
 footer {
