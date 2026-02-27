@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T10:40:20.984Z</id>
+    <id>urn:2026-02-27T13:04:18.499Z</id>
     <title>agregador.proletario.org</title>
-    <updated>2026-02-27T10:40:20.984Z</updated>
+    <updated>2026-02-27T13:04:18.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Greve na Educação de BH: Basta de humilhação e salários de fome!]]></title>
+        <id>https://averdade.org.br/?p=60648</id>
+        <link href="https://averdade.org.br/2026/02/greve-na-educacao-de-bh-basta-de-humilhacao-e-salarios-de-fome/"/>
+        <updated>2026-02-27T12:20:09.000Z</updated>
+        <summary type="html"><![CDATA[A greve na educação protagonizada pelos trabalhadores terceirizados não é apenas uma paralisação por reajuste salarial; é um grito de socorro e de revolta contra a humilhação diária imposta pelo prefeito Álvaro Damião, pela secretária Natália Araújo e pela direção da MGS. São milhares de pais e mães de família, auxiliares de apoio à inclusão, […]]]></summary>
+        <author>
+            <name>Redação MG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: Comitê de Solidariedade realiza campanha para manter e ampliar atividades em Rio Bonito do Iguaçu]]></title>
+        <id>https://anovademocracia.com.br/?p=221724</id>
+        <link href="https://anovademocracia.com.br/pr-comite-de-solidariedade-realiza-campanha-para-manter-e-ampliar-atividades-em-rio-bonito-do-iguacu/"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Desde sua fundação, o Comitê tem se mantido exclusivamente por meio da solidariedade de professores, estudantes, operários e camponeses.]]></summary>
+        <author>
+            <name>Giovanna Maria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terceirizadas de BH expulsaram a secretária de educação Natália Araújo após tentativa de frear a luta das trabalhadoras!]]></title>
         <id>https://www.esquerdadiario.com.br/Terceirizadas-de-BH-expulsaram-a-secretaria-de-educacao-Natalia-Araujo-apos-tentativa-de-frear-a</id>
@@ -386,16 +406,6 @@ O conteúdo Artigo | Minha arma, minha vida, meu problema Pode ser acessado em P
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SP: Moradores de Pindamonhangaba protestam contra aumento do IPTU e da Taxa de Lixo]]></title>
-        <id>https://anovademocracia.com.br/?p=221674</id>
-        <link href="https://anovademocracia.com.br/sp-moradores-de-pindamonhangaba-protestam-contra-aumento-do-iptu-e-da-taxa-de-lixo/"/>
-        <updated>2026-02-25T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Moradores afirmam que, em um contexto de inflação e aumento de custos, o povo não pode pagar a conta da crise.]]></summary>
-        <author>
-            <name>Giovanna Maria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1ª Semana Vermelha da UJR no Paraná traça metas e forma militância]]></title>
         <id>https://averdade.org.br/?p=60601</id>
         <link href="https://averdade.org.br/2026/02/1a-semana-vermelha-da-ujr-no-parana/"/>
@@ -772,16 +782,6 @@ O conteúdo Artigo | Militarização da folia: o que o poder público faz quando
         <link href="https://averdade.org.br/2026/02/mlc-compoe-chapa-de-oposicao-no-congresso-da-cnte/"/>
         <updated>2026-02-23T01:52:17.000Z</updated>
         <summary type="html"><![CDATA[Movimento Luta de Classes compõe chapa de oposição no Congresso da CNTE e defende que a única forma de combater o fascismo nas ruas é mobilizando a classe trabalhadora. João Casares e Juliana Borges | MLC TRABALHADOR UNIDO – Dos dias 15 ao 18 de janeiro, aconteceu, em Brasília, o 35º Congresso da Confederação Nacional […]]]></summary>
-        <author>
-            <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A luta continua pela consolidação do sindicato livre]]></title>
-        <id>https://averdade.org.br/?p=60584</id>
-        <link href="https://averdade.org.br/2026/02/a-luta-continua-pela-consolidacao-do-sindicato-livre/"/>
-        <updated>2026-02-23T01:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Durante o Encontro Estadual do MLC, na Bahia, foram tiradas as metas de legalizar o Sindicato Livre dos Trabalhadores da Construção Civil, Montagem e Manutenção de Camaçari e Região, fundado no fogo da luta durante a greve. Redação BA Respondendo ao chamado de construir uma grande paralisação nacional contra a escala 6×1, o Movimento Luta […]]]></summary>
         <author>
             <name>Jesse Lisboa</name>
         </author>
