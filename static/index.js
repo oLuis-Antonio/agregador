@@ -1,7 +1,18 @@
 document.addEventListener("DOMContentLoaded", () => {
+  /* DATE FORMAT */
+
   function formatShort(dateStr) {
-    const [y, m, d] = dateStr.split("-");
-    return `${d}/${m}/${y}`;
+    const date = new Date(dateStr);
+
+    return new Intl.DateTimeFormat("pt-BR", {
+      timeZone: "America/Sao_Paulo",
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      hour12: false,
+    }).format(date);
   }
 
   function formatLong(dateStr) {
@@ -15,70 +26,59 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  /* Collapse */
-
   document.querySelectorAll(".day").forEach((section) => {
-    const btn = section.querySelector(".daily-heading-toggle");
-    const content = section.querySelector(".day-content");
-    const date = btn.dataset.date;
+    const summary = section.querySelector(".daily-heading");
+    if (!summary) return;
 
-    btn.textContent = formatLong(date);
-
-    // começa expandido
-    content.style.maxHeight = content.scrollHeight + "px";
-
-    btn.addEventListener("click", () => {
-      const isCollapsed = section.classList.toggle("collapsed");
-      btn.setAttribute("aria-expanded", (!isCollapsed).toString());
-
-      if (isCollapsed) {
-        content.style.maxHeight = "0px";
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
-      }
-    });
+    const date = summary.dataset.date;
+    summary.textContent = formatLong(date);
   });
 
   document.querySelectorAll(".article-date").forEach((el) => {
     el.textContent = formatShort(el.dateTime);
   });
 
-  /* Theme */
+  /* COPY LINK */
+
+  document.querySelectorAll(".copy-link").forEach((btn) => {
+    btn.addEventListener("click", async () => {
+      const url = btn.dataset.url;
+
+      try {
+        await navigator.clipboard.writeText(url);
+
+        btn.textContent = "✓";
+        btn.classList.add("copy-link--copied");
+
+        setTimeout(() => {
+          btn.textContent = "⛓️‍💥";
+          btn.classList.remove("copy-link--copied");
+        }, 1200);
+      } catch (err) {
+        console.error("Erro ao copiar:", err);
+      }
+    });
+  });
+
+  /* THEME */
 
   const html = document.documentElement;
   const toggle = document.getElementById("theme-toggle");
+  const saved = localStorage.getItem("theme");
 
-  const savedTheme = localStorage.getItem("theme");
+  html.setAttribute("data-theme", saved === "light" ? "light" : "dark");
 
-  /* dark é padrão */
-  if (savedTheme === "light") {
-    html.setAttribute("data-theme", "light");
-  } else {
-    html.setAttribute("data-theme", "dark");
+  function updateIcon() {
+    toggle.textContent =
+      html.getAttribute("data-theme") === "light" ? "🌚" : "🌞";
   }
 
-  /* função que sincroniza ícone */
-  function updateThemeIcon() {
-    const current = html.getAttribute("data-theme");
-    if (current === "light") {
-      toggle.textContent = "🌚";
-      toggle.setAttribute("aria-label", "Ativar tema escuro");
-    } else {
-      toggle.textContent = "🌞";
-      toggle.setAttribute("aria-label", "Ativar tema claro");
-    }
-  }
-
-  /* inicializa ícone */
-  updateThemeIcon();
+  updateIcon();
 
   toggle.addEventListener("click", () => {
-    const isLight = html.getAttribute("data-theme") === "light";
-    const next = isLight ? "dark" : "light";
-
+    const next = html.getAttribute("data-theme") === "light" ? "dark" : "light";
     html.setAttribute("data-theme", next);
     localStorage.setItem("theme", next);
-
-    updateThemeIcon();
+    updateIcon();
   });
 });

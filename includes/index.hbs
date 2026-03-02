@@ -1,78 +1,174 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <title>{{siteTitle}}</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="preload"
-      href="/fonts/AtkinsonHyperlegibleNext-Variable.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin>
-  <link href="index.css" rel="stylesheet" />
-  <link rel="icon" type="image/svg+xml" href="antagonismo.svg">
-</head>
+  <head>
+    <title>{{siteTitle}}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="index.css" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="antagonismo.svg" />
+  </head>
 
-<body>
-  <header>
-    <div class="header-top">
-      <h1>radar 📣</h1>
-      <span class="theme-selection"
-          >Alterar Tema
-          <button id="theme-toggle" aria-label="Alternar tema">🌗</button></span
-        >
-    </div>
-    <p>Curadoria de notícias, notas políticas e debates sob um viés de classe. Atualizado a cada 4 horas.</p>
-  </header>
-
-  <main>
-    {{#each dates}}
-    <section class="day">
-
-      <h2 class="daily-heading">
-        <button
-          class="daily-heading-toggle"
-          data-date="{{isoPublishDate}}"
-          aria-expanded="true">
-          {{isoPublishDate}}
-        </button>
-      </h2>
-
-      <div class="day-content">
-        {{#each articles}}
-        <article class="card">
-          <a href="{{link}}" class="card-link" target="_blank">
-            <div class="card__section">
-
-              <h3>{{title}}</h3>
-
-              <div class="meta">
-                <span class="source">{{source.title}}</span>
-
-                <time
-                  class="article-date"
-                  datetime="{{../isoPublishDate}}">
-                  {{../isoPublishDate}}
-                </time>
-              </div>
-
-              <p class="description">{{description}}</p>
-
-            </div>
-          </a>
-        </article>
-        {{/each}}
+  <body>
+    <header class="site-header">
+      <div class="header-top">
+        <h1>radar 📣</h1>
+        <span class="theme-selection">
+          Alterar Tema
+          <button id="theme-toggle" aria-label="Alternar tema">🌗</button>
+        </span>
       </div>
 
-    </section>
-    {{/each}}
-  </main>
+      <p>
+        Curadoria de notícias, notas políticas e debates sob um viés de classe.
+        Atualizado a cada 4 horas.
+      </p>
 
-  <footer>
-    <span>{{siteTitle}} – feito com OsmosFeed</span>
-    <a href="{{feedHref}}" class="footer-link">RSS</a>
-  </footer>
+      <details class="about-sources">
+        <summary>Fontes monitoradas</summary>
+        <div class="sources-group">
 
-  <script src="index.js"></script>
-</body>
+          <details>
+            <summary>Jornais Comunistas</summary>
+            <ul>
+              <li><a href="https://anovademocracia.com.br" target="_blank">A
+                  Nova Democracia</a></li>
+              <li><a href="https://averdade.org.br/" target="_blank">Jornal A
+                  Verdade (PCR)</a></li>
+              <li><a
+                  href="https://www.esquerdadiario.com.br/"
+                  target="_blank"
+                >Esquerda Diário (MRT)</a></li>
+              <li><a href="https://jornalofuturo.com.br" target="_blank">Jornal
+                  O Futuro (PCBR)</a></li>
+              <li><a
+                  href="https://www.opiniaosocialista.com.br/"
+                  target="_blank"
+                >Opinião Socialista (PSTU)</a></li>
+              <li><a href="https://opoderpopular.com.br/" target="_blank">O
+                  Poder Popular (PCB)</a></li>
+            </ul>
+          </details>
+          <details>
+            <summary>Imprensa Independente</summary>
+
+            <ul>
+              <li><a href="https://operamundi.uol.com.br/" target="_blank">Opera
+                  Mundi</a></li>
+              <li><a
+                  href="https://revistaopera.operamundi.uol.com.br/"
+                  target="_blank"
+                >Revista Ópera</a></li>
+              <li><a href="https://www.intercept.com.br/" target="_blank">The
+                  Intercept Brasil</a></li>
+              <li><a href="https://ponte.org/" target="_blank">Ponte Jornalismo</a></li>
+              <li><a
+                  href="https://deolhonosruralistas.com.br/"
+                  target="_blank"
+                >De Olho Nos Ruralistas</a></li>
+            </ul>
+          </details>
+          <details>
+            <summary>Espaços de Análise e Opinião</summary>
+            <ul>
+              <li><a href="https://aterraeredonda.com.br/" target="_blank">A
+                  Terra é Redonda</a></li>
+              <li><a
+                  href="https://www.outraspalavras.net/"
+                  target="_blank"
+                >Outras Palavras</a></li>
+              <li><a href="https://passapalavra.info/" target="_blank">Passa
+                  Palavra</a></li>
+              <li><a href="https://blogdaboitempo.com.br/" target="_blank">Blog
+                  da Boitempo</a></li>
+            </ul>
+          </details>
+
+        </div>
+      </details>
+    </header>
+
+    <main>
+      {{#each dates}}
+
+        <details class="day" open>
+
+          <summary class="daily-heading" data-date="{{isoPublishDate}}">
+            {{isoPublishDate}}
+          </summary>
+
+          <div class="day-content">
+
+            {{#each articles}}
+              <article class="card">
+
+                <div class="card-section">
+
+                  <header class="card-header">
+                    <h3>{{title}}</h3>
+
+                    <div class="card-actions">
+                      <a
+                        href="{{link}}"
+                        class="card-action card-action--primary"
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        Acessar
+                      </a>
+
+                      <button
+                        class="copy-link"
+                        data-url="{{link}}"
+                        title="Copiar link"
+                        type="button"
+                      >
+                        ⛓️‍💥
+                      </button>
+                    </div>
+                  </header>
+
+                  <div class="meta">
+                    <span class="source">{{source.title}}</span>
+                    <time class="article-date" datetime="{{publishedOn}}">
+                      {{publishedOn}}
+                    </time>
+                  </div>
+
+                  <details class="card-details">
+                    <summary class="card-summary">
+                      Ver descrição
+                    </summary>
+
+                    <div class="card-content">
+                      <p class="description">{{description}}</p>
+
+                      <a
+                        class="reddit-share"
+                        href="https://www.reddit.com/r/brasildob/submit?url={{link}}&title={{title}}"
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        Republicar no r/BrasildoB
+                      </a>
+                    </div>
+                  </details>
+
+                </div>
+
+              </article>
+            {{/each}}
+
+          </div>
+
+        </details>
+
+      {{/each}}
+    </main>
+
+    <footer>
+      <span>{{siteTitle}} – feito com OsmosFeed</span>
+      <a href="{{feedHref}}" class="footer-link">RSS</a>
+    </footer>
+
+    <script src="index.js"></script>
+  </body>
 </html>
