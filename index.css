@@ -1,3 +1,7 @@
+/* ==================================================
+   1. FONT
+================================================== */
+
 @font-face {
   font-family: "Atkinson Hyperlegible Next";
   src: url("/fonts/AtkinsonHyperlegibleNext.woff2") format("woff2");
@@ -5,24 +9,25 @@
   font-style: normal;
   font-display: swap;
 }
-/* =========================
-   DARK THEME (default)
-========================= */
+
+/* ==================================================
+   2. THEME VARIABLES
+================================================== */
 
 :root {
   --bg: #090909;
   --surface: #1f1f1f;
   --surface-strong: #252525;
   --border: #2a2a2a;
+
   --text: #cfc6bf;
   --text-light: #e2d6cf;
   --text-lighter: #f5e9e2;
-  --accent: #c51b2b;
-}
 
-/* =========================
-   LIGHT THEME
-========================= */
+  --accent-soft: rgba(197, 27, 43, 0.15);
+  --accent: #c51b2b;
+  --accent-hover: #a31222;
+}
 
 html[data-theme="light"] {
   --bg: #eef1f4;
@@ -34,8 +39,14 @@ html[data-theme="light"] {
   --text-light: #4a5560;
   --text-lighter: #111827;
 
+  --accent-soft: rgba(163, 18, 34, 0.12);
   --accent: #a31222;
+  --accent-hover: #7f0e1a;
 }
+
+/* ==================================================
+   3. BASE / RESET
+================================================== */
 
 * {
   box-sizing: border-box;
@@ -66,7 +77,54 @@ body {
     color 0.3s;
 }
 
-/* Header */
+/* ==================================================
+   4. DETAILS / SUMMARY SYSTEM (GLOBAL)
+================================================== */
+
+summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::after {
+  content: "▸";
+  transition: transform 0.2s ease;
+  margin-left: auto;
+}
+
+details[open] > summary::after {
+  transform: rotate(90deg);
+}
+
+/* ==================================================
+   5. HEADER
+================================================== */
+
+.site-header {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+.site-header h1 {
+  color: var(--accent);
+  font-size: 3rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.site-header p {
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
+}
 
 .header-top {
   display: flex;
@@ -86,73 +144,72 @@ body {
   font-size: 2rem;
 }
 
-header {
-  margin-bottom: 3rem;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 1rem;
+/* ==================================================
+   6. SOURCES
+================================================== */
+
+.about-sources {
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
 }
 
-header h1 {
-  color: var(--accent);
-  font-size: 3rem;
+.about-sources > summary {
   font-weight: 600;
-  text-transform: uppercase;
+  color: var(--text-light);
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
-header p {
-  font-size: 1.4rem;
-  margin-top: 0.5rem;
+.about-sources > summary:hover {
+  color: var(--accent);
 }
 
-/* Collapse animation */
-
-.day-content {
-  overflow: hidden;
-  transition:
-    max-height 0.4s ease,
-    opacity 0.3s ease;
+.sources-group details {
+  margin-bottom: 1rem;
 }
 
-.day.collapsed .day-content {
-  max-height: 0;
-  opacity: 0;
+.sources-group summary {
+  font-weight: 600;
+  color: var(--text-lighter);
+  margin-bottom: 0.6rem;
 }
 
-.day:not(.collapsed) .day-content {
-  opacity: 1;
+.sources-group ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 220px));
+  gap: 0.5rem 1rem;
+  list-style: none;
 }
 
-/* Heading */
+.sources-group a {
+  text-decoration: none;
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+
+.sources-group a:hover {
+  color: var(--accent);
+}
+
+/* ==================================================
+   7. DAY HEADING
+================================================== */
 
 .daily-heading {
   font-size: 2rem;
   font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--text-lighter);
+
   border-bottom: 2px solid var(--border);
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
 }
 
-.daily-heading-toggle {
-  all: unset;
-  cursor: pointer;
-  display: block;
-  width: 100%;
-  color: var(--text-light);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.daily-heading-toggle::after {
-  content: "▼";
-  float: right;
-  transition: transform 0.2s ease;
-}
-
-.day.collapsed .daily-heading-toggle::after {
-  transform: rotate(-90deg);
-}
-
-/* Cards */
+/* ==================================================
+   8. CARD COMPONENT
+================================================== */
 
 .card {
   background-color: var(--surface);
@@ -171,34 +228,93 @@ header p {
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
 }
 
-.card-link {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-.card__section {
+.card-section {
   padding: 1.8rem;
 }
 
-.card h3 {
-  font-size: 1.8rem;
-  font-weight: 600;
-  color: var(--text-lighter);
+/* ---------- Card Header ---------- */
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
   margin-bottom: 0.8rem;
 }
 
-.source {
-  display: inline-block;
-  background-color: rgba(197, 27, 43, 0.15); /* accent com transparência */
-  color: var(--accent);
-  font-size: 1.1rem;
+.card-header h3 {
+  flex: 1;
+  font-size: 1.8rem;
   font-weight: 600;
-  letter-spacing: 0.5px;
-  padding: 0.3rem 0.7rem;
-  border-radius: 4px;
-  text-transform: uppercase;
+  color: var(--text-lighter);
+  word-break: break-word;
 }
+
+.card-actions {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+/* ---------- Primary Button ---------- */
+
+.card-action--primary {
+  background-color: var(--accent);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.card-action--primary:hover {
+  background-color: var(--accent-hover);
+}
+
+/* ---------- Copy Button ---------- */
+
+.copy-link {
+  all: unset;
+  cursor: pointer;
+  width: 2.8rem;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgba(97, 97, 97, 0.12);
+  color: var(--accent);
+  font-size: 1.4rem;
+  transition:
+    background-color 0.2s ease,
+    transform 0.15s ease;
+}
+
+.copy-link:hover {
+  background-color: rgba(200, 200, 200, 0.25);
+  transform: scale(1.05);
+}
+
+.copy-link:active {
+  transform: scale(0.95);
+}
+
+.copy-link:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.copy-link--copied {
+  background-color: var(--accent);
+  color: white;
+}
+
+/* ---------- Meta ---------- */
 
 .meta {
   display: flex;
@@ -211,11 +327,70 @@ header p {
   opacity: 0.85;
 }
 
+.source {
+  background-color: var(--accent-soft);
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  transition:
+    background-color 0.2s ease,
+    transform 0.15s ease;
+}
+
+.source:hover {
+  background-color: var(--accent);
+  color: white;
+  transform: translateY(-1px);
+}
+
+/* ---------- Description ---------- */
+
+.card-summary {
+  font-size: 1.5rem;
+  color: var(--text-light);
+  font-weight: 500;
+}
+
+.card-summary:hover {
+  color: var(--accent);
+}
+
 .description {
   font-size: 1.4rem;
   color: var(--text-light);
   line-height: 1.6;
+  text-align: justify;
+  hyphens: auto;
 }
+
+.reddit-share {
+  display: inline-block;
+  margin-top: 1.8rem;
+  padding-left: 1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text-light);
+  text-decoration: none;
+  border-left: 3px solid var(--accent);
+  opacity: 0.9;
+  transition:
+    opacity 0.2s ease,
+    transform 0.15s ease;
+}
+
+.reddit-share:hover {
+  opacity: 1;
+  transform: translateX(2px);
+  color: var(--text-lighter);
+}
+
+/* ==================================================
+   9. FOOTER
+================================================== */
 
 footer {
   margin-top: 4rem;
@@ -234,4 +409,19 @@ footer {
 .footer-link:hover {
   color: var(--text-lighter);
   text-decoration: underline;
+}
+
+/* ==================================================
+   10. RESPONSIVE
+================================================== */
+
+@media (max-width: 600px) {
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .card-actions {
+    margin-top: 0.8rem;
+  }
 }
