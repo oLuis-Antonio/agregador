@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
         btn.classList.add("copy-link--copied");
 
         setTimeout(() => {
-          btn.textContent = "⛓️‍💥";
+          btn.textContent = "🔗";
           btn.classList.remove("copy-link--copied");
         }, 1200);
       } catch (err) {
