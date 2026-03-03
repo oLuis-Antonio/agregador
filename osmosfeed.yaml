@@ -16,7 +16,7 @@ sources:
   - href: https://deolhonosruralistas.com.br/feed/ # De Olho Nos Ruralistas
   - href: https://andproxy.luisantoniossouza.workers.dev/ # Jornal A Nova Democracia - P.C.B
   - href: https://opoderpopular.com.br/rss/ # O Poder Popular - PCB
-  - href: https://aterraeredonda.com.br/feed/ # A Terra é Redonda
+  # - href: https://aterraeredonda.com.br/feed/ # A Terra é Redonda - Feed gerando alguns erros de build
   - href: http://www.outraspalavras.net/feed/
   - href: https://passapalavra.info/feed/ # Passa Palavra - Autonomistas
   - href: https://blogdaboitempo.com.br/feed/ # Boitempo
