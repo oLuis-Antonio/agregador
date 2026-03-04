@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-04T02:41:55.439Z</id>
+    <id>urn:2026-03-04T05:11:55.829Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-03-04T02:41:55.439Z</updated>
+    <updated>2026-03-04T05:11:55.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Terapia (2)]]></title>
+        <id>https://passapalavra.info/?p=158765</id>
+        <link href="https://passapalavra.info/2026/03/158765/"/>
+        <updated>2026-03-04T03:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Procurou um terapeuta porque sofria assédio moral no trabalho. Depois de algumas sessões, sentiu-se empoderada para pedir demissão. Agora não tem dinheiro para pagar terapia. Passa Palavra]]></summary>
+        <author>
+            <name>Enzo Silva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A crise do PSOL diante da federação com o PT após defender o governo contra a luta indígena]]></title>
         <id>https://www.esquerdadiario.com.br/A-crise-do-PSOL-diante-da-federacao-com-o-PT-apos-defender-o-governo-contra-a-luta-indigena</id>
@@ -935,26 +945,6 @@ O post Lula, Boulos e a Princesa Isabel, ou de quem são as vitórias do povo ap
 O conteúdo Ponte estreia quadro na programação da rádio Brasil de Fato Pode ser acessado em Ponte Jornalismo.]]></summary>
         <author>
             <name>Catarina Duarte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Os Estados Unidos estão se preparando para dividir a Somália?]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73277</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/02/27/os-estados-unidos-estao-se-preparando-para-dividir-a-somalia/"/>
-        <updated>2026-02-27T16:10:37.000Z</updated>
-        <summary type="html"><![CDATA[o dia 26 de dezembro de 2025, Israel se tornou o primeiro país do mundo a reconhecer oficialmente a Somalilândia como um país independente. A Somalilândia é um dos sete estados que compõem a República Federal da Somália, situada no Chifre da África. A decisão de Israel de reconhecer unilateralmente a Somalilândia como um país […]]]></summary>
-        <author>
-            <name>Liberation News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Não negociamos a vida dos nossos filhos”: Após mobilização indígena, uma das privatizações em curso é derrotada]]></title>
-        <id>Z92rvc</id>
-        <link href="https://jornalofuturo.com.br/artigo/Z92rvc-nao-negociamos-a-vida-dos-nossos-filhos-apos-mobilizacao-indigena-uma-das-privatizacoes-em-curso-e-derrotada"/>
-        <updated>2026-02-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Após a experiência vitoriosa, movimentos indígenas convidam toda a sociedade a se manter vigilante na proteção dos territórios.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
         </author>
     </entry>
 </feed>
