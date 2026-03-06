@@ -108,7 +108,7 @@
           "description": "Enquanto empresas de transporte de Londrina mascaram dados, trabalhadores e estudantes começaram a pagar R$ 6,25 para se locomover dentro da cidade. Trabalhadores são os mais afetados pela política entreguista e neoliberal de Tiago Amaral (PSD). Juno Devergenes | Redação PR TRABALHADOR UNIDO – Londrina é a segunda maior cidade do Paraná, com 555.965 habitantes […]",
           "link": "https://averdade.org.br/2026/03/londrina-pr-passa-a-ter-a-segunda-maior-tarifa-de-onibus-do-brasil/",
           "publishedOn": "2026-03-03T23:39:14.000Z",
-          "wordCount": 7560,
+          "wordCount": 7618,
           "title": "Londrina (PR) passa a ter a segunda maior tarifa de ônibus do Brasil",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/02/Manifestacao-Pelo-Passe-Livre-Londrina.jpeg"
         },
@@ -544,7 +544,7 @@
           "description": "Ataque dos EUA contra Irã no meio da negociação de acordo nuclear reafirma lei do mais forte e compromete possibilidade de saída diplomática.\nO post Ataque de Trump contra o Irã aumenta risco de corrida nuclear apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/02/trump-ataque-eua-ira-corrida-nuclear/",
           "publishedOn": "2026-03-02T15:22:09.000Z",
-          "wordCount": 5069,
+          "wordCount": 5039,
           "title": "Ataque de Trump contra o Irã aumenta risco de corrida nuclear",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/Header-Trump-Ira-Ataque-Corrida-Nuclear.png",
@@ -665,12 +665,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=248439",
+          "author": "Tabitha Ramalho",
+          "description": "As ordens de evacuação forçada em larga escala emitidas pelo Exército israelense para o sul do Líbano e os subúrbios do sul de Beirute levantam sérias preocupações sob o direito internacional, afirmou o chefe de direitos humanos da ONU, Volker Turk, nesta sexta-feira (06/03). Thousands of people are massing on and around the Corniche. They […]\nO post ONU afirma que ordens de evacuação forçada no Líbano violam direito internacional apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/onu-afirma-que-ordens-de-evacuacao-forcada-de-israel-no-libano-violam-direito-internacional/",
+          "publishedOn": "2026-03-06T12:27:25.000Z",
+          "wordCount": 3722,
+          "title": "ONU afirma que ordens de evacuação forçada no Líbano violam direito internacional",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/16b7612d-94aa-4393-9111-4d2ac1161b23.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248417",
+          "author": "Tatiana Carlotti",
+          "description": "Atualização às 9h00 A ofensiva militar dos Estados Unidos e de Israel contra o Irã, iniciada no último sábado (28/02), entrou em seu sétimo dia nesta sexta-feira (06/03), com novo ataque às instituições escolares e um aumento do número de mortes para 1.332 vítimas. Nesta página, Opera Mundi separa as informações do dia: Azerbaijão retira […]\nO post Guerra no Irã entra no sétimo dia; confira ao vivo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/guerra-no-ira-entra-no-setimo-dia-confira-ao-vivo/",
+          "publishedOn": "2026-03-06T12:01:00.000Z",
+          "wordCount": 4139,
+          "title": "Guerra no Irã entra no sétimo dia; confira ao vivo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/4c1cce6b-8a4f-41f8-97cb-4d6851caaf04-capa-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248418",
+          "author": "Tatiana Carlotti",
+          "description": "Os Estados Unidos e a Israel voltaram a atingir instituições escolares no Irã. Na quinta-feira (05/03), duas outras instituições escolares, localizadas na cidade iraniana de Parand, a sudoeste de Teerã, também foram atingidas, segundo a agência iraniana Fars. A escola secundária Shahid Bahonar e a primária Arian Pouya, localizadas uma em frente à outra, estavam fechadas […]\nO post EUA e Israel voltam a atingir instalações escolares no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-israel-voltam-a-atingir-instalacoes-escolares-no-ira/",
+          "publishedOn": "2026-03-06T10:25:26.000Z",
+          "wordCount": 3291,
+          "title": "EUA e Israel voltam a atingir instalações escolares no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121509224423435884304.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248414",
+          "author": "Tabitha Ramalho",
+          "description": "O Movimento de Resistência Libanês, Hezbollah, alertou os colonos israelenses nas áreas fronteiriças com o Líbano para que deixassem suas casas em antecipação a possíveis ataques em resposta à ofensiva israelense contra o país árabe. “Eles são obrigados a evacuar todos os assentamentos localizados a menos de 5 quilômetros da linha de fronteira”. A declaração […]\nO post Hezbollah alerta israelenses para que deixem suas casas nas áreas de fronteira com o Líbano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/hezbollah-alerta-israelenses-para-que-deixem-suas-casas-nas-areas-de-fronteira-com-o-libano/",
+          "publishedOn": "2026-03-06T09:52:26.000Z",
+          "wordCount": 3086,
+          "title": "Hezbollah alerta israelenses para que deixem suas casas nas áreas de fronteira com o Líbano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/operation15.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248411",
+          "author": "Tabitha Ramalho",
+          "description": "O povo da República Islâmica do Irã tomou as ruas das principais cidades do país em uma demonstração sem precedentes de unidade e resiliência. Milhares de cidadãos marcharam para condenar veementemente a recente agressão militar perpetrada pelos governos dos EUA e de Israel contra a soberania nacional e para prestar homenagem ao Líder Supremo Ali […]\nO post Iranianos vão às ruas em protesto contra agressão dos Estados Unidos e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/iranianos-vao-as-ruas-em-protesto-contra-agressao-dos-estados-unidos-e-israel/",
+          "publishedOn": "2026-03-06T09:34:53.000Z",
+          "wordCount": 3341,
+          "title": "Iranianos vão às ruas em protesto contra agressão dos Estados Unidos e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/photo_2026-03-05_15-24-37.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=248399",
           "author": "Rocio Paik",
           "description": "O Irã informou nesta quinta-feira (05/03) que drones militares liderados pela Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) atingiram o porta-aviões Abraham Lincoln dos Estados Unidos, destacado a mando do presidente norte-americano Donald Trump próximo do país persa. Teerã também advertiu que qualquer ofensiva terrestre contra a sua nação resultaria em “desastre” aos inimigos. […]\nO post Irã diz que drones militares atingiram Abraham Lincoln, maior porta-aviões dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-diz-que-drones-militares-atingiram-abraham-lincoln-maior-porta-avioes-dos-eua/",
           "publishedOn": "2026-03-05T21:30:58.000Z",
-          "wordCount": 3256,
+          "wordCount": 3247,
           "title": "Irã diz que drones militares atingiram Abraham Lincoln, maior porta-aviões dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/139804281538201317920604.jpg"
         },
@@ -680,7 +730,7 @@
           "description": "O presidente da Rússia, Vladimir Putin, afirmou nesta quarta-feira (04/03) que não está descartada a possibilidade de suspender o fornecimento de gás para os mercados da União Europeia, incluindo gás natural liquefeito (GNL). O conflito iniciado com o ataque dos Estados Unidos e de Israel ao Irã, e precedido pelas retaliações de Teerã, levou ao […]\nO post Rússia considera possibilidade de suspender gás natural para a UE apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/russia-considera-possibilidade-de-suspender-gas-natural-para-a-ue/",
           "publishedOn": "2026-03-05T20:50:01.000Z",
-          "wordCount": 3172,
+          "wordCount": 3174,
           "title": "Rússia considera possibilidade de suspender gás natural para a UE",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1put.webp"
         },
@@ -690,7 +740,7 @@
           "description": "O presidente da Ucrânia, Volodymyr Zelensky, disse nesta quinta-feira (05/03) que seu país poderia reagir de forma violenta no caso de a proposta de novo auxílio para o país siga sendo bloqueada na União Europeia. O novo pacote de auxílio da União Europeia à Ucrânia prevê um desembolso de 90 bilhões de euros para a […]\nO post Em alusão a Orbán, Zelensky ameaça atacar líderes que barrem ajuda da UE à Ucrânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/em-alusao-a-orban-zelensky-ameaca-atacar-lideres-que-barrem-ajuda-da-ue-a-ucrania/",
           "publishedOn": "2026-03-05T20:10:48.000Z",
-          "wordCount": 3271,
+          "wordCount": 3221,
           "title": "Em alusão a Orbán, Zelensky ameaça atacar líderes que barrem ajuda da UE à Ucrânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/oz.jpg"
         },
@@ -713,56 +763,6 @@
           "wordCount": 4777,
           "title": "15º Plano Quinquenal da China incorpora ‘nova qualidade das forças produtivas’ e prioriza mercado interno",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/xi.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248380",
-          "author": "Raissa Neves",
-          "description": "Há 73 anos, em 5 de março de 1953, falecia Josef Stalin. Ativo na agitação operária desde a juventude, ele ajudou a arquitetar o movimento insurgente que culminou com a Revolução de Outubro e dirigiu a União Soviética por quase três décadas. Poucos personagens foram tão influentes quanto Stalin na construção do curso da história […]\nO post Josef Stalin: a trajetória do “homem de aço” apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/josef-stalin-a-trajetoria-do-homem-de-aco/",
-          "publishedOn": "2026-03-05T18:40:34.000Z",
-          "wordCount": 7718,
-          "title": "Josef Stalin: a trajetória do “homem de aço”",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/stalin_in_march_1935.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248383",
-          "author": "Pedro Marin",
-          "description": "A renda básica universal (RBU) emergiu nas últimas décadas como uma das propostas mais ambiciosas no campo das políticas de redistribuição de renda. A RBU promete, em tese, romper com a lógica assistencialista e estigmatizante dos programas focalizados. No entanto, o debate contemporâneo – especialmente no Brasil – revela que sua viabilidade e eficácia dependem […]\nO post Renda Básica Universal: entre o fetiche do dinheiro e a necessidade de serviços públicos consolidados apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/renda-basica-universal-entre-o-fetiche-do-dinheiro-e-a-necessidade-de-servicos-publicos-consolidados/",
-          "publishedOn": "2026-03-05T18:37:29.000Z",
-          "wordCount": 6162,
-          "title": "Renda Básica Universal: entre o fetiche do dinheiro e a necessidade de serviços públicos consolidados",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/renda-basica-universal.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248358",
-          "author": "Rocio Paik",
-          "description": "O governo de Cuba rejeitou “nos termos mais enfáticos” a decisão “arbitrária e injustificada” do Equador de expulsar a equipe diplomática da ilha em Quito. De acordo com Havana, a medida equatoriana representa “desprezo do atual governo” referente às práticas diplomáticas no cenário global. “Este é um ato hostil e sem precedentes, que prejudica significativamente […]\nO post Cuba rejeita decisão ‘arbitrária’ do Equador de expulsar equipe diplomática apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cuba-rejeita-decisao-arbitraria-do-equador-de-expulsar-equipe-diplomatica/",
-          "publishedOn": "2026-03-05T18:10:20.000Z",
-          "wordCount": 3363,
-          "title": "Cuba rejeita decisão ‘arbitrária’ do Equador de expulsar equipe diplomática",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/presidente_daniel_noboa_en_acto_de_condecoracion_a_jose_delgado.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248350",
-          "author": "Victor Farinelli",
-          "description": "O governo da China anunciou nesta quinta-feira (05/03) que pretende aumentar em 7% os seus gastos militares ainda neste ano de 2026. A proposta foi apresentada pelo primeiro-ministro Li Qiang e entrou na pauta da 14ª Assembleia Popular Nacional, em Pequim, que realiza a sua quarta sessão nesta mesma nesta quinta-feira. O projeto foi corroborado […]\nO post China prevê aumento de 7% dos gastos militares em 2026 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/china-preve-aumento-de-7-dos-gastos-militares-em-2026/",
-          "publishedOn": "2026-03-05T17:30:22.000Z",
-          "wordCount": 2939,
-          "title": "China prevê aumento de 7% dos gastos militares em 2026",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/li.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248343",
-          "author": "Rocio Paik",
-          "description": "O ministro das Relações Exteriores da China, Wang Yi, informou na quarta-feira (04/03) que mandará o seu enviado especial para assuntos do Oriente Médio aos países da região para conduzir esforços de mediação. O anúncio foi feito em conversa telefônica com seu homólogo dos Emirados Árabes Unidos, o vice-primeiro-ministro Sheikh Abdullah bin Zayed al Nahyan. […]\nO post China diz que mandará enviado especial ao Oriente Médio para esforços de mediação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-diz-que-mandara-enviado-especial-ao-oriente-medio-para-esforcos-de-mediacao/",
-          "publishedOn": "2026-03-05T16:50:39.000Z",
-          "wordCount": 3157,
-          "title": "China diz que mandará enviado especial ao Oriente Médio para esforços de mediação",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/9-trungquocsecu_raza.jpg"
         }
       ]
     },
@@ -1066,12 +1066,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=62540",
+          "author": "Boitempo",
+          "description": "Angela Davis apresenta \"Reconstrução negra\", clássico da sociologia que chega pela primeira vez ao português: \"Ao revelar como a abolição desde o início esteve vinculada à superação do capitalismo, este livro prefigurou o conceito de capitalismo racial, tão central nos debates da atualidade.\"",
+          "link": "https://blogdaboitempo.com.br/2026/03/06/w-e-b-du-bois-e-o-periodo-mais-radical-da-historia-dos-estados-unidos/",
+          "publishedOn": "2026-03-06T11:00:00.000Z",
+          "wordCount": 12159,
+          "title": "W. E. B. Du Bois e o período mais radical da história dos Estados Unidos",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/du-bois.jpg"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=62459",
           "author": "Boitempo",
           "description": "Cauana Mestre escreve sobre \"Minha querida família\": \"Freud ensinou que nossa relação com o objeto de amor é marcada, desde os primórdios, pelo par amor-ódio. Lacan nos oferece, muito mais tarde, o neologismo amódio, que concentra essa ambivalência afetiva em uma única palavra. Chamo de ambivalência e não de paradoxo, pois o que interessou Freud é exatamente essa não contrariedade entre o ódio e o amor, pois ambos são feitos da mesma matéria: libido.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/05/a-familia-entre-o-amor-e-o-odio-sobre-o-novo-filme-de-isild-le-besco/",
           "publishedOn": "2026-03-05T17:00:00.000Z",
-          "wordCount": 11956,
+          "wordCount": 11803,
           "title": "A família entre o amor e o ódio: sobre o novo filme de Isild Le Besco",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/minha-querida-familia-3.png?fit=1200%2C675&ssl=1"
         },
@@ -1091,7 +1101,7 @@
           "description": "Felipe Castelo Branco: \"Não é segredo para ninguém que se o domínio territorial estadunidense se limitasse à Venezuela ou ao Irã, seus efeitos desestabilizadores sobre a chamada “comunidade internacional” seriam diminutos. Trata-se de países que, na partilha desigual da guerra, fazem parte de regiões em que a condução de políticas deliberadamente violentas e frequentemente militarizadas não apenas é naturalizada pela comunidade de países, mas constituiu a própria formação colonial do capitalismo.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/04/territorios-e-linhas-especulativas-do-capital-o-neoliberalismo-de-trump-e-uma-nova-periferizacao-da-europa/",
           "publishedOn": "2026-03-04T19:53:20.000Z",
-          "wordCount": 15773,
+          "wordCount": 15617,
           "title": "Territórios e linhas especulativas do capital: o neoliberalismo de Trump e uma nova periferização da Europa",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-1.png?fit=1200%2C800&ssl=1"
         }
