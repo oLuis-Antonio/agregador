@@ -396,6 +396,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=158938",
+          "author": "Mariana Rosetti",
+          "description": "Cinco adolescentes estão entre as 78 pessoas mortas por policiais no estado; secretário Osvaldo Nico afirma à Ponte que o compromisso da pasta “é com a legalidade”\nO conteúdo Janeiro tem maior número de mortes pela polícia em SP nos últimos seis anos Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/janeiro-tem-mais-mortes-pela-policia-em-sp-em-seis-anos/",
+          "publishedOn": "2026-03-09T19:12:06.000Z",
+          "wordCount": 6365,
+          "title": "Janeiro tem maior número de mortes pela polícia em SP nos últimos seis anos",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2022/06/DSC_3284.jpg"
+        },
+        {
           "id": "https://ponte.org/?p=158957",
           "author": "Jessica Santos",
           "description": "A busca por pessoas desaparecidas no Brasil expõe o abandono estatal e a luta solitária de mães que tentam encontrar seus filhos\nO conteúdo Da redação | ‘A gente não leva o desaparecimento de uma pessoa tão a sério quanto o de um carro’ Pode ser acessado em Ponte Jornalismo.",
@@ -460,23 +470,63 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=248780",
+          "author": "Victor Farinelli",
+          "description": "A presidente interina da Venezuela, Delcy Rodríguez, afirmou que a Consulta Popular Nacional realizada no país neste domingo (08/03) contou com participação recorde da população e com a escolha de cerca de 36 mil projetos. De acordo com a mandatária, os cidadãos selecionaram projetos focados em “fazer da Venezuela um país com cidades mais humanas e […]\nO post Delcy destaca participação recorde em Consulta Popular Nacional na Venezuela apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/delcy-destaca-participacao-recorde-em-consulta-popular-nacional-na-venezuela/",
+          "publishedOn": "2026-03-09T19:00:04.000Z",
+          "wordCount": 2892,
+          "title": "Delcy destaca participação recorde em Consulta Popular Nacional na Venezuela",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/delcy-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248777",
+          "author": "Raissa Neves",
+          "description": "O Brasil celebrou ontem o Dia Internacional da Mulher em meio a um contexto dramático. Em 2025, o país registrou um número recorde de feminicídios, com mais de 1.400 ocorrências — uma mulher assassinada a cada quatro horas. A epidemia de feminicídio no Brasil tem origem em fatores culturais fortemente enraizados, em especial o machismo […]\nO post Nenê Romano: um feminicídio emblemático na São Paulo dos anos 20 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/nene-romano-um-feminicidio-emblematico-na-sao-paulo-dos-anos-20/",
+          "publishedOn": "2026-03-09T18:45:23.000Z",
+          "wordCount": 4633,
+          "title": "Nenê Romano: um feminicídio emblemático na São Paulo dos anos 20",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/clipboard_03-09-2026_01.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248758",
+          "author": "Rocio Paik",
+          "description": "O vice-ministro da Saúde do Irã, Ali Jafarian, informou nesta segunda-feira (09/03) que os ataques conduzidos pelos Estados Unidos juntamente com Israel contra a nação persa provocaram pelo menos 1.255 mortes, em sua maioria civis, incluindo 200 crianças e 11 profissionais de saúde. De acordo com a autoridade, a idade das vítimas variam entre oito […]\nO post Irã registra 1.255 mortes após ataques de EUA e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-registra-1-255-mortes-apos-ataques-de-eua-e-israel/",
+          "publishedOn": "2026-03-09T18:10:38.000Z",
+          "wordCount": 2987,
+          "title": "Irã registra 1.255 mortes após ataques de EUA e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/ce283d49-b80d-4d05-97f3-fe412e701cce-captura-de-tela-2026-03-08-as-16.59.49.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248727",
+          "author": "Victor Farinelli",
+          "description": "A revista inglesa FourFourTwo, uma das mais conceituadas publicações sobre futebol da Europa, divulgou recentemente um novo ranking com o que considerou os 50 maiores times de futebol de todos os tempos. A equipe que aparece no primeiro lugar da lista é a Seleção Brasileira campeã da Copa do Mundo de 1970, no México, e […]\nO post Revista inglesa aponta Seleção de 70 como maior time de futebol da história apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/ranking-de-revista-inglesa-aponta-selecao-de-70-como-maior-time-de-futebol-da-historia/",
+          "publishedOn": "2026-03-09T17:30:54.000Z",
+          "wordCount": 5247,
+          "title": "Revista inglesa aponta Seleção de 70 como maior time de futebol da história",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/aselecao.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=248756",
           "author": "Victor Farinelli",
           "description": "O presidente da Rússia, Vladimir Putin, declarou nesta segunda-feira (09/03) que a Rússia vai manter seu “apoio inabalável” ao Irã após a assunção de Motjaba Khamenei como novo líder supremo do país. Em mensagem enviada diretamente a líder iraniano, e divulgada pela agência russa RIA Novosti, Putin disse que “enquanto o Irã enfrenta uma agressão […]\nO post Putin manifesta ‘apoio inabalável’ da Rússia a Motjaba Khamenei, novo líder supremo do Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/putin-manifesta-apoio-inabalavel-da-russia-a-motjaba-khamenei-novo-lider-supremo-do-ira/",
           "publishedOn": "2026-03-09T16:31:42.000Z",
-          "wordCount": 2954,
+          "wordCount": 2963,
           "title": "Putin manifesta ‘apoio inabalável’ da Rússia a Motjaba Khamenei, novo líder supremo do Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/atass.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=248748",
           "author": "Rocio Paik",
-          "description": "O primeiro-ministro do Líbano, Nawaf Salam, afirmou que seu governo está disposto a discutir uma proposta de negociação com Israel, em “qualquer formato”, para alcançar uma paz “sólida, duradoura e eficaz”. A posição se deu em entrevista ao jornal L’Orient-Le Jour, de Beirute, que foi publicada nesta segunda-feira (09/03).  Segundo Salam, o tema foi discutido […]\nO post Líbano manifesta prontidão para negociações ’em qualquer formato’ com Israel apareceu primeiro em Opera Mundi.",
+          "description": "O primeiro-ministro do Líbano, Nawaf Salam, afirmou que seu governo está disposto a discutir uma proposta de negociação com Israel, em “qualquer formato”, para alcançar uma paz “sólida, duradoura e eficaz”. A posição se deu em entrevista ao jornal L’Orient-Le Jour, de Beirute, que foi publicada nesta segunda-feira (09/03).  Segundo Salam, o tema foi discutido […]\nO post Líbano diz estar pronto para negociações ’em qualquer formato’ com Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/libano-manifesta-prontidao-para-negociacoes-em-qualquer-formato-com-israel/",
           "publishedOn": "2026-03-09T15:54:50.000Z",
-          "wordCount": 3436,
-          "title": "Líbano manifesta prontidão para negociações ’em qualquer formato’ com Israel",
+          "wordCount": 3398,
+          "title": "Líbano diz estar pronto para negociações ’em qualquer formato’ com Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/gmvwmouwuaaucf1.jpeg"
         },
         {
@@ -485,17 +535,17 @@
           "description": "As maiores empresas de defesa dos Estados Unidos concordaram em “quadruplicar a produção” do que o presidente Donald Trump descreve como armamento de “classe requintada”, após uma reunião na Casa Branca, afirma a emissora catari Al Jazeera. Os Estados Unidos já são o país que mais gasta com defesa no mundo, com quase US$ 1 […]\nO post Empresas militares dos EUA e Israel lucram com guerra no Irã; veja quais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/empresas-militares-dos-eua-e-israel-lucram-com-guerra-no-ira-veja-quais/",
           "publishedOn": "2026-03-09T15:29:17.000Z",
-          "wordCount": 5000,
+          "wordCount": 5009,
           "title": "Empresas militares dos EUA e Israel lucram com guerra no Irã; veja quais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hbihk1axsaabpi9-scaled.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=248735",
           "author": "Tatiana Carlotti",
-          "description": "*Atualizado às 11h A ofensiva militar dos Estados Unidos e de Israel contra o Irã, iniciada no último sábado (28/02), entrou em seu décimo dia nesta segunda-feira (09/03) gerando uma alta acima de US$ 100, no preço do petróleo. No fim de semana, instalações petrolíferas iranianas foram atingidas por bombardeiros de Washington e Tel Aviv […]\nO post Guerra no Irã entra no décimo dia; confira ao vivo apareceu primeiro em Opera Mundi.",
+          "description": "*Atualizado às 14h30 A ofensiva militar dos Estados Unidos e de Israel contra o Irã, iniciada no último sábado (28/02), entrou em seu décimo dia nesta segunda-feira (09/03) gerando uma alta acima de US$ 100, no preço do petróleo. No fim de semana, instalações petrolíferas iranianas foram atingidas por bombardeiros de Washington e Tel Aviv […]\nO post Guerra no Irã entra no décimo dia; confira ao vivo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/guerra-no-ira-entra-no-decimo-dia-confira-ao-vivo/",
           "publishedOn": "2026-03-09T14:01:51.000Z",
-          "wordCount": 3707,
+          "wordCount": 4445,
           "title": "Guerra no Irã entra no décimo dia; confira ao vivo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/4c1cce6b-8a4f-41f8-97cb-4d6851caaf04-capa-1.webp"
         },
@@ -505,7 +555,7 @@
           "description": "O papel do Reino Unido nas recentes maquinações do império estadunidense tem sido central, apesar de pouco divulgado e criticado. O Reino Unido tem uma participação significativa na guerra de agressão em curso dos EUA contra o Irã e na recente invasão da Venezuela. O império britânico e suas bases no exterior, bem como as […]\nO post Qual o papel da Grã-Bretanha nos ataques contra Chipre, Venezuela e Irã? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/qual-o-papel-da-gra-bretanha-nos-ataques-contra-chipre-venezuela-e-ira/",
           "publishedOn": "2026-03-09T13:11:03.000Z",
-          "wordCount": 7233,
+          "wordCount": 7192,
           "title": "Qual o papel da Grã-Bretanha nos ataques contra Chipre, Venezuela e Irã?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/raf-akrotiri-base-in-cyprus-2048x1152-1.jpeg"
         },
@@ -515,49 +565,9 @@
           "description": "Os preços do petróleo ultrapassaram US$ 100 por barril pela primeira vez desde 2022 em consequência da  guerra dos Estados Unidos e Israel contra o Irã, iniciada no último dia 28 de fevereiro. O petróleo Brent, referência internacional, chegou a subir mais de 30%, alcançando US$ 119 por barril, antes de recuar para cerca de […]\nO post Preço do petróleo dispara acima de US$ 100 por barril apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-do-petroleo-dispara-acima-de-us-100-por-barril/",
           "publishedOn": "2026-03-09T12:59:59.000Z",
-          "wordCount": 3378,
+          "wordCount": 3437,
           "title": "Preço do petróleo dispara acima de US$ 100 por barril",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tasnim-amin-ahouei.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248686",
-          "author": "Tatiana Carlotti",
-          "description": "O Pacto Histórico, coalizão de esquerda que sustenta o governo Petro, foi eleito como principal força política no Senado colombiano nas eleições legislativas realizadas na Colômbia, neste domingo (08/03). Com 99% das urnas apuradas, a coligação governista obteve 4. 413.389 (22,72%) votos contra 3.035.261 (15,62%) do Partido Centro Democrático do ex-presidente Álvaro Uribe (2002-2010), seguido […]\nO post Eleições na Colômbia: coligação de Petro torna-se principal força política no Senado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/coligacao-de-petro-torna-se-principal-forca-politica-no-senado/",
-          "publishedOn": "2026-03-09T10:26:57.000Z",
-          "wordCount": 3289,
-          "title": "Eleições na Colômbia: coligação de Petro torna-se principal força política no Senado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/54580127380_c24b02b87a_k.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248683",
-          "author": "Tabitha Ramalho",
-          "description": "Segundo informações da Axios, citando fontes, os partidos curdos no Iraque estão relutantes em tomar medidas contra o Irã e participar do conflito no Oriente Médio, pois não confiam que os EUA os defendam de possíveis ataques retaliatórios iranianos. Os curdos estão receosos de se envolverem no conflito, especialmente depois que o Irã emitiu um […]\nO post Curdos do Iraque temem participar de conflito contra Irã, segundo site norte-americano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/curdos-do-iraque-temem-participar-de-conflito-contra-ira-por-desconfianca-dos-eua-diz-axios/",
-          "publishedOn": "2026-03-09T10:23:24.000Z",
-          "wordCount": 3489,
-          "title": "Curdos do Iraque temem participar de conflito contra Irã, segundo site norte-americano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1280px-80s_commando_battalion_210712-a-tb002-0015.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248678",
-          "author": "Tabitha Ramalho",
-          "description": "A campanha militar de Israel no Líbano, que deixou 394 mortos, 83 deles crianças, e 517 mil deslocados, intensificou-se após os ataques coordenados entre EUA e Israel contra o Irã no final de fevereiro, segundo autoridades libanesas. Os bombardeios e uma operação terrestre no sul do país desencadearam uma grave crise humanitária. Mais de 517 […]\nO post Israel intensifica ataques no Líbano e causa quase 400 mortes apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/israel-intensifica-ataques-no-libano-e-causa-quase-400-mortes/",
-          "publishedOn": "2026-03-09T09:38:08.000Z",
-          "wordCount": 3104,
-          "title": "Israel intensifica ataques no Líbano e causa quase 400 mortes",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/046b2d4a-db23-4ee4-8dd1-08d33716e698.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248663",
-          "author": "Tatiana Carlotti",
-          "description": "O Irã anunciou Mojtaba Khamenei, filho do aiatolá Ali Khamenei, o novo líder supremo do país. A escolha ocorreu neste domingo (08/03), uma semana após o assassinato de seu pai no primeiro dia da ofensiva dos Estados Unidos e Israel contra o país persa. Aos 56 anos, Mojtaba Khamenei assume o posto máximo da República […]\nO post Filho de Khamenei é escolhido novo líder supremo do Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/filho-de-khamenei-e-escolhido-novo-lider-supremo-do-ira/",
-          "publishedOn": "2026-03-08T21:38:45.000Z",
-          "wordCount": 2968,
-          "title": "Filho de Khamenei é escolhido novo líder supremo do Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/khamenei-filho.jpeg"
         }
       ]
     },
@@ -572,6 +582,41 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=222638",
+          "author": "Redação de AND",
+          "description": "“Percebemos que Sua Eminência, ao lado dos bravos e leais comandantes, continuará a batalha de enfrentar a agressão, dando continuidade ao grande caminho dos mártires, e liderará a batalha para forçar as potências coloniais a recuar e se render”, afirmou a FPLP.",
+          "link": "https://anovademocracia.com.br/eixo-da-resistencia-sauda-novo-chefe/",
+          "publishedOn": "2026-03-09T20:30:13.000Z",
+          "wordCount": null,
+          "title": "Eixo da resistência saúda eleição do novo chefe da Nação Iraniana",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222627",
+          "author": "Giovanna Maria",
+          "description": "Os manifestantes denunciaram o caráter e a atuação genocida da PM, do estado e do governo de turno, comandado pelo oportunista Jerônimo Reis (PT).",
+          "link": "https://anovademocracia.com.br/ba-protesto-denuncia-violencia-policial-em-salvador/",
+          "publishedOn": "2026-03-09T20:27:44.000Z",
+          "wordCount": null,
+          "title": "BA: Protesto denuncia violência policial em Salvador",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222630",
+          "author": "Giovanna Maria",
+          "description": "A incursão colocou em risco a vida de trabalhadores e crianças a caminho da escola.",
+          "link": "https://anovademocracia.com.br/rj-operacao-do-bope-na-vila-kennedy-leva-terror-aos-moradores/",
+          "publishedOn": "2026-03-09T18:41:58.000Z",
+          "wordCount": null,
+          "title": "RJ: Operação do BOPE na Vila Kennedy leva terror aos moradores",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/03/Registro-do-momento-de-intenso-confronto-com-uso-de-helicoptero-da-Policia.-Regiao-instavel.-Ate.mp4",
+            "length": "4855222",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=222594",
           "author": "Redação de AND",
@@ -641,36 +686,6 @@
           "wordCount": null,
           "title": "Em meio às eleições reacionárias, ações de sabotagem ocorrem no Nepal; dois veículos incendiados em Katmandu",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222567",
-          "author": "Giovanna Maria",
-          "description": "A Liga Anti-Imperialista Internacional (LAI), em sua intervenção, conclamou novamente o povo para a luta popular contra o imperialismo, destacando a necessidade de fazer essa luta nas ruas.",
-          "link": "https://anovademocracia.com.br/rj-manifestantes-realizam-protesto-anti-imperialista-em-frente-ao-consulado-ianque/",
-          "publishedOn": "2026-03-06T20:12:39.000Z",
-          "wordCount": null,
-          "title": "RJ: Manifestantes realizam protesto anti-imperialista em frente ao Consulado ianque",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222561",
-          "author": "Redação de AND",
-          "description": "Os dados revelam uma contradição: enquanto o PIB do país cresce ínfimos 2,3%, o latifúndio agroexportador (conhecido como “agronegócio”) cresceu 11,7%.",
-          "link": "https://anovademocracia.com.br/economia-nacional-cresce-2-enquanto-latifundio-agro-exportador-cresce-12-aponta-ibge/",
-          "publishedOn": "2026-03-06T19:43:02.000Z",
-          "wordCount": null,
-          "title": "Economia nacional cresce 2% enquanto latifúndio agro-exportador cresce 12%, aponta IBGE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222548",
-          "author": "Redação de AND",
-          "description": "Defender a guerra de resistência nacional do povo iraniano é agora parte das tarefas dos internacionalistas.",
-          "link": "https://anovademocracia.com.br/editorial-o-ira-se-soma-ao-campo-da-revolucao-mundial/",
-          "publishedOn": "2026-03-06T17:59:09.000Z",
-          "wordCount": null,
-          "title": "Editorial – O Irã se soma ao campo da Revolução Mundial",
-          "imageUrl": null
         }
       ]
     },
@@ -686,6 +701,26 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3177998",
+          "author": "Paulo Nogueira Batista Jr",
+          "description": "Apunhalado pelas costas, país vem conseguindo impor enormes perdas aos EUA e Israel. Preparou-se para a agressão por décadas. Lições ao Brasil: o que fizeram e fazem os governos para nos retirar da condição de vulnerabilidade militar?\nThe post Irã, onde a dupla de diabos calculou errado appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/ira-onde-a-dupla-de-diabos-calculou-errado/",
+          "publishedOn": "2026-03-09T18:58:46.000Z",
+          "wordCount": 4617,
+          "title": "Irã, onde a dupla de diabos calculou errado",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/09155630/photo_5005982893041454127_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3177988",
+          "author": "Vinícius Santiago",
+          "description": "Em meio à crise civilizatória do Ocidente, aflora o que foi tão recalcado. Ressurge a ideia de que os indivíduos e sociedades precisam de um pai protetor e violador – tão poderoso para defender quanto para invadir, sem consentimento, corpos e países. Qual o antídoto?\nThe post Trump e o ocaso trágico do homem branco <i>imbrochável</i> appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/trump-e-o-ocaso-tragico-do-homem-branco-imbrochavel/",
+          "publishedOn": "2026-03-09T17:38:39.000Z",
+          "wordCount": 6209,
+          "title": "Trump e o ocaso trágico do homem branco imbrochável",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/09143707/photo_5005982893041454106_w.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3177936",
           "author": "Rôney Rodrigues",
           "description": "De luta histórica por moradia a produto de alta lucratividade. Investigamos a recente investida de fundos imobiliários e startups na “modernização” de imóveis ociosos e como o dinheiro público está redefinindo quem pode — e não pode — morar no coração de metrópoles como SP\nThe post Retrofit, novíssima bandeira da especulação? appeared first on Outras Palavras.",
@@ -693,7 +728,7 @@
           "publishedOn": "2026-03-07T18:04:03.000Z",
           "wordCount": 8057,
           "title": "Retrofit, novíssima bandeira da especulação?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/03/acertos-e-contradicoes-no-retrofit-dos-centros-urbanos-o-caso-de-sao-paulo_2.jpg"
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/07150010/acertos-e-contradicoes-no-retrofit-dos-centros-urbanos-o-caso-de-sao-paulo_2.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3177853",
@@ -721,7 +756,7 @@
           "description": "Livro esmiúça táticas dos militares brasileiros para se infiltrar no PCB. Também narra a relação de anos entre um capitão, “dono” de vários informantes, com sua principal fonte: um membro do alto escalão do partido, muito próximo a Prestes\nThe post Os <i>cachorros</i> da ditadura appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/os-cachorros-da-ditadura/",
           "publishedOn": "2026-03-06T21:38:28.000Z",
-          "wordCount": 4635,
+          "wordCount": 4898,
           "title": "Os cachorros da ditadura",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/06183457/172178326666a053e2822f3_1721783266_3x2_md.jpg"
         },
@@ -764,26 +799,6 @@
           "wordCount": 4698,
           "title": "Propinoduto: As ameaças ao saneamento básico no Brasil",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/06163006/photo_4976607258062031933_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3177755",
-          "author": "Glauco Faria",
-          "description": "Acossado por potências militares, o país persa resiste. Sua estratégia: pressão sobre monarquias árabes, onde cresce o rechaço a Israel, e em pontos-chaves de fluxos comerciais. Seus vizinhos já percebem que aliança com EUA não é bom negócio\nThe post Assim o Irã contra-ataca appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/e-assim-o-ira-contra-ataca/",
-          "publishedOn": "2026-03-05T22:19:38.000Z",
-          "wordCount": 5924,
-          "title": "Assim o Irã contra-ataca",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/05192712/Sem-titulo2.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3177750",
-          "author": "José Geraldo Couto",
-          "description": "Em A vida secreta de meus três homens, a história do avô, pai e padrinho da cineasta, vividos por atores, é o ponto de partida para escavar segredos e traçar um painel da brutalidade no Nordeste. O objetivo confesso: “fabular a partir dessas violências”\nThe post Cinema: A tênue linha entre o fato e a fábula appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/cinema-a-tenue-linha-entre-o-fato-e-a-fabula/",
-          "publishedOn": "2026-03-05T21:16:08.000Z",
-          "wordCount": 3620,
-          "title": "Cinema: A tênue linha entre o fato e a fábula",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/05180904/foto-de-divulgacao-A-vida-secreta-de-meus-tres-homens_still06_1920x1080px-1024x576-1.jpg"
         }
       ]
     },
