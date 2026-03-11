@@ -4,48 +4,7 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": [
-        {
-          "id": "XzI7Ns",
-          "author": null,
-          "description": "Ao todo são nove áreas destinadas à recapitalização do BRB, incluindo o Parque de Serviços do SIA e o Parque Ecológico Serrinha do Paranoá. Sindicatos de outras categorias criticam o projeto.",
-          "link": "https://jornalofuturo.com.br/artigo/XzI7Ns-cldf-aprova-pl-que-entrega-areas-publicas-para-cobrir-rombo-do-brb-com-apoio-do-sindicato-dos-bancarios",
-          "publishedOn": "2026-03-09T21:00:00.000Z",
-          "wordCount": 1696,
-          "title": "CLDF aprova PL que entrega áreas públicas para cobrir rombo do BRB com apoio do Sindicato dos Bancários",
-          "imageUrl": "https://media.jornalofuturo.com.br/brb1-1200x800.jpg"
-        },
-        {
-          "id": "8vPUUv",
-          "author": null,
-          "description": "O estado registrou 42.831 casos de violência doméstica e familiar contra mulheres e meninas. Dados apontam que são registradas quase 5 ocorrências de violência desse tipo a cada hora em Pernambuco.",
-          "link": "https://jornalofuturo.com.br/artigo/8vPUUv-pernambuco-registrou-mais-de-42-mil-casos-de-violencia-domestica-contra-mulheres-e-meninas-em-2025",
-          "publishedOn": "2026-03-08T21:00:00.000Z",
-          "wordCount": 2524,
-          "title": "Pernambuco registrou mais de 42 mil casos de violência doméstica contra mulheres e meninas em 2025",
-          "imageUrl": "https://media.jornalofuturo.com.br/recife_pe_atomulheres-1200x800.jpg"
-        },
-        {
-          "id": "PGNuts",
-          "author": null,
-          "description": "No Brasil, essas contradições se expressam de forma particularmente aguda e o desenvolvimento do capitalismo e das lutas contemporâneas não colocam as mulheres em melhores condições.",
-          "link": "https://jornalofuturo.com.br/artigo/PGNuts-8-de-marco-e-a-luta-das-mulheres-trabalhadoras",
-          "publishedOn": "2026-03-07T15:00:00.000Z",
-          "wordCount": 3049,
-          "title": "8 de março e a luta das mulheres trabalhadoras",
-          "imageUrl": "https://media.jornalofuturo.com.br/blocodasmulheres-1280x848.jpg"
-        },
-        {
-          "id": "gL4e9v",
-          "author": null,
-          "description": "Mulheres correspondem 27% da força de trabalho, concentram-se em funções operacionais no setor eletroeletrônico e enfrentam precarização, desigualdade salarial e dupla jornada.",
-          "link": "https://jornalofuturo.com.br/artigo/gL4e9v-a-zona-franca-de-manaus-e-a-exploracao-da-forca-de-trabalho-feminina",
-          "publishedOn": "2026-03-07T15:00:00.000Z",
-          "wordCount": 2417,
-          "title": "A Zona Franca de Manaus e a exploração da força de trabalho feminina",
-          "imageUrl": "https://media.jornalofuturo.com.br/zonafrancamanaus-1280x720.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jornal A Verdade",
@@ -53,22 +12,42 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=60821",
+          "author": "Jesse Lisboa",
+          "description": "O sonho da graduação gratuita permanece distante para a maioria dos brasileiros: das 274 mil vagas ofertadas pelo SiSU este ano, apenas 15% dos candidatos que concorreram conseguiram o acesso. Movimento Correnteza JUVENTUDE – Para a maioria dos estudantes brasileiros, o sonho de cursar uma faculdade gratuitamente não se realiza. No final de janeiro, após […]",
+          "link": "https://averdade.org.br/2026/03/a-cada-100-estudantes-que-realizaram-o-enem-apenas-8-conseguiram-vaga-em-uma-universidade-publica/",
+          "publishedOn": "2026-03-11T20:35:18.000Z",
+          "wordCount": 6843,
+          "title": "A cada 100 estudantes que realizaram o Enem, apenas 8 conseguiram vaga em uma universidade pública",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/12/educacao-luta.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=60813",
+          "author": "Jesse Lisboa",
+          "description": "Mesmo após uma greve combativa em dezembro de 2025, os funcionários dos Correios enfrentam uma nova ofensiva contra seus direitos: um projeto de privatização que prevê o fechamento de mil agências e a demissão de 15 mil trabalhadores. Movimento Luta de Classes (MLC) TRABALHADOR UNIDO – Por trás de cada entrega, há um trabalhador sobrecarregado. […]",
+          "link": "https://averdade.org.br/2026/03/greve-dos-correios-enfrenta-governo-e-stf/",
+          "publishedOn": "2026-03-11T20:13:16.000Z",
+          "wordCount": 6924,
+          "title": "Greve dos Correios enfrenta Governo e STF",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P6-_-greve-Correios.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=60801",
           "author": "Redação SP",
           "description": "Ondina Seabra foi a primeira professora negra de Sorocaba. Com uma história de vida associada às lutas das mulheres e do povo negro da cidade, Ondina foi até o seu falecimento, aos 102 anos, apaixonada pela luta e pela vida. Karla Albuquerque | Sorocaba (SP) Mulheres – Filha de pai sapateiro, mãe empregada doméstica e […]",
           "link": "https://averdade.org.br/2026/03/ondina-seabra-a-primeira-professora-negra-de-sorocaba/",
           "publishedOn": "2026-03-11T15:53:22.000Z",
-          "wordCount": 6768,
-          "title": "Ondina Seabra a primeira professora negra de Sorocaba",
+          "wordCount": 6759,
+          "title": "Ondina Seabra: a primeira professora negra de Sorocaba",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-11-at-12.02.36.jpeg"
         },
         {
           "id": "https://averdade.org.br/?p=60786",
           "author": "Redação SP",
-          "description": "Estudantes ocupam SEDUC de SP para lutar contra a “sala do futuro” e denunciar descaso na educação no governo de Tarcísio de Freitas (Republicanos) Michael Rocha e Raul Ziyech | São Paulo (SP) Juventude – No dia 26 de fevereiro a Praça da República, no centro histórico da capital Paulista, amanheceu sob a a revolta […]",
+          "description": "Estudantes ocupam SEDUC de SP para lutar contra a “sala do futuro” e denunciar descaso na educação no governo de Tarcísio de Freitas (Republicanos) Michael Rocha e Raul Ziyech | São Paulo (SP) JUVENTUDE – No dia 26 de fevereiro, a Praça da República, no centro histórico da capital Paulista, amanheceu sob a a revolta […]",
           "link": "https://averdade.org.br/2026/03/estudantes-ocupam-seduc-de-sao-paulo/",
           "publishedOn": "2026-03-09T16:09:54.000Z",
-          "wordCount": 7078,
+          "wordCount": 7075,
           "title": "Estudantes ocupam SEDUC de São Paulo",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/1000468908-1.jpg"
         },
@@ -78,7 +57,7 @@
           "description": "Operários da Ypê são expostos à vazamentos químicos e a inalação de produtos tóxicos sem receber adicional de insalubridade. Além disso, faltam equipamentos de EPI enquanto a empresa lucra bilhões e submete trabalhadores à escala 6×1. Igor Tadeu e Vanessa Patrucci | Jaguariúna (SP) Brasil – Diversos trabalhadores da empresa de produtos de higiene Ypê […]",
           "link": "https://averdade.org.br/2026/03/operarios-da-ype-sofrem-com-pessimas-condicoes-de-trabalho/",
           "publishedOn": "2026-03-09T15:26:26.000Z",
-          "wordCount": 7285,
+          "wordCount": 7257,
           "title": "Operários da Ypê sofrem com péssimas condições de trabalho",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-12.01.10.jpeg"
         },
@@ -88,7 +67,7 @@
           "description": "O Grande Recife registrou, em 2025, o maior número de vítimas por bala perdida em todo o país. Pior: a maioria das vítimas são crianças.  Vitória Pereira| Recife SOCIEDADE- O Grande Recife registrou, em 2025, o maior número de vítimas de bala perdida desde o início do monitoramento do Instituto Fogo Cruzado, em 2019. Foram […]",
           "link": "https://averdade.org.br/2026/03/grande-recife-bate-recorde-de-vitimas-de-bala-perdida-e-jovens-baleados/",
           "publishedOn": "2026-03-09T00:56:27.000Z",
-          "wordCount": 6722,
+          "wordCount": 6719,
           "title": "Grande Recife bate recorde de vítimas de bala perdida e jovens baleados",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/cidade-do-recife.webp"
         },
@@ -98,7 +77,7 @@
           "description": "Hugo Motta (Republicanos) é Presidente da Câmara dos Deputados e um dos maiores inimigos dos trabalhadores brasileiros nos últimos tempos. Representante das velhas oligarquias familiares na política, tenta fazer na Paraíba seu feudo, enquanto mantém a classe trabalhadora refém.  Misa Aribel| Redação Paraíba SOCIEDADE- Começando às articulações para as eleições de 2026, o nome de […]",
           "link": "https://averdade.org.br/2026/03/hugo-motta-aumenta-proprio-salario-enquanto-servidores-de-sua-cidade-nao-tem-reajustes-ha-10-anos/",
           "publishedOn": "2026-03-09T00:34:29.000Z",
-          "wordCount": 6936,
+          "wordCount": 6941,
           "title": "Hugo Motta aumenta próprio salário enquanto servidores de sua cidade não têm reajustes há 10 anos",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/Hugo-Motta.webp"
         },
@@ -108,7 +87,7 @@
           "description": "Após receberem a notícia de que ficariam sem transporte coletivo, estudantes, moradores e militantes dos movimentos sociais de Garanhuns, agreste pernambucano, decidiram mobilizar a comunidade para lutar por um transporte público e de qualidade.  Raul Herculano| Garanhuns LUTA POPULAR- No final de fevereiro os estudantes de Garanhuns, agreste pernambucano, foram surpreendidos com a notícia de […]",
           "link": "https://averdade.org.br/2026/03/estudantes-de-garanhuns-pe-conquistam-melhoria-no-transporte/",
           "publishedOn": "2026-03-08T23:59:32.000Z",
-          "wordCount": 6757,
+          "wordCount": 6755,
           "title": "Luta pelo transporte mobiliza estudantes em Garanhuns (PE)",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/Garanhuns.jpg"
         },
@@ -118,7 +97,7 @@
           "description": "O Monopólio do capital torna-se um entrave para o modo de produção que com ele e sob ele floresceu. A centralização dos meios de produção e a socialização do trabalho atingem um ponto em que se tornam incompatíveis com o invólucro capitalista. Este é rompido. Soa a hora final da propriedade privada capitalista. ( Karl […]",
           "link": "https://averdade.org.br/2026/03/as-doencas-do-capitalismo-na-nova-geracao-quando-o-sistema-transforma-a-vida-em-mercadoria-o-adoecimento-se-torna-inevitavel/",
           "publishedOn": "2026-03-08T02:31:49.000Z",
-          "wordCount": 7280,
+          "wordCount": 7277,
           "title": "O capitalismo nos adoece. É preciso transformar a sociedade",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/arte-sobre-o-capitalismo.jpeg"
         }
@@ -129,6 +108,26 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105458",
+          "author": "CSP Conlutas",
+          "description": "Povos indígenas voltam a se levantar em defesa da vida e da Amazônia. Após a histórica ocupação da multinacional Cargill, em Santarém (PA), mobilização que obrigou o governo Lula a recuar da proposta de privatização de rios amazônicos, uma nova luta ganha força no Pará. Há 17 dias, mulheres indígenas ocupam a sede da Coordenação […]\nO post Altamira (PA): Ocupação da Funai por indígenas completa 17 dias e denuncia megaprojeto da Belo Sun apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/altamira-pa-ocupacao-da-funai-por-indigenas-completa-17-dias-e-denuncia-megaprojeto-da-belo-sun/",
+          "publishedOn": "2026-03-11T18:48:58.000Z",
+          "wordCount": 1574,
+          "title": "Altamira (PA): Ocupação da Funai por indígenas completa 17 dias e denuncia megaprojeto da Belo Sun",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/Indigenas-Altamira.png"
+        },
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105450",
+          "author": "Redação",
+          "description": "O Instituto Latino-americano de Estudos Socioeconômicos (ILAESE) está realizando um conjunto de atividades nas regiões Sudeste, Nordeste, Norte e Sul de lançamento do Anuário Estatístico – Trabalho & Exploração 2025/26. Você pode adquirir o Anuário aqui. Agenda A agenda de lançamento do Anuário teve início na região Sudeste no último dia 7, com uma atividade […]\nO post Veja a agenda de lançamentos do Anuário Estatístico do ILAESE – Trabalho & Exploração 2025/26 apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/veja-a-agenda-de-lancamentos-do-anuario-estatistico-do-ilaese-trabalho-exploracao-2025-26/",
+          "publishedOn": "2026-03-11T18:05:52.000Z",
+          "wordCount": 1689,
+          "title": "Veja a agenda de lançamentos do Anuário Estatístico do ILAESE – Trabalho & Exploração 2025/26",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/ILAESE-O-Sindicato-sediou-na-noite-desta-terca-feira-10-o-lancamento-do-Anuario-Estatistic.jpg"
+        },
         {
           "id": "https://www.opiniaosocialista.com.br/?p=105445",
           "author": "Rebeldia - Juventude da Revolução Socialista",
@@ -187,9 +186,19 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Mesmo-com-o-descongela-a-agressao-a-servidoras-e-servidores-publicos-continua",
+          "author": "Jorge Luiz Souto Maior",
+          "description": "Em plena pandemia de Covid-19, quando a vida dos seres humanos esteve profundamente ameaçada e, concretamente, milhões de pessoas mundo afora vieram a óbito, com destaque negativo para o Brasil, que, em virtude da adoção de uma assumida necropolítica, contabilizou mais de 700 mil mortes – a maioria trabalhadores(as) negros(as) – os(as) servidores(as) públicos(as) de todos os entes federativos, que se mantinham em plena atividade, ainda que, alguns deles, de forma virtual, foram alvo de uma imensa agressão a seus direitos, o que se deu por meio do arbítrio de não se computar o período entre 27 de maio de 2020 a 31 de dezembro de 2021, para o efeito de aquisição de benefícios relacionados ao tempo de serviço.\n11-03-2026\n\n/ Classe trabalhadora, Direitos Trabalhistas, Servidores Públicos, Governo Bolsonaro, Funcionalismo público, congelamento",
+          "link": "https://www.esquerdadiario.com.br/Mesmo-com-o-descongela-a-agressao-a-servidoras-e-servidores-publicos-continua",
+          "publishedOn": "2026-03-11T19:18:00.000Z",
+          "wordCount": null,
+          "title": "Mesmo com o “descongela” a agressão a servidoras e servidores públicos continua!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Ibaneis-quer-privatizar-Serra-do-Paranoa-depois-de-fracasso-na-compra-do-Banco-Master",
           "author": "Redação",
-          "description": "Projeto prevê entrega do cerrado como ativo do Banco de Brasília, abrindo espaço para empreendimentos imobiliários em área de cerrado.\n09-03-2026\n\n/ Política, Meio Ambiente, Ibaneis Rocha, Destruição do meio ambiente",
+          "description": "Projeto prevê entrega do cerrado como ativo do Banco de Brasília, abrindo espaço para empreendimentos imobiliários em área de cerrado.\n09-03-2026\n\n/ Política, Meio Ambiente, Ibaneis Rocha, Destruição do meio ambiente, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Ibaneis-quer-privatizar-Serra-do-Paranoa-depois-de-fracasso-na-compra-do-Banco-Master",
           "publishedOn": "2026-03-11T00:41:10.000Z",
           "wordCount": null,
@@ -281,6 +290,26 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=159058",
+          "author": "Gil Luiz Mendes",
+          "description": "Ação Direta de Inconstitucionalidade protocolada no TJ-SC afirma que lei criou uma “milícia institucionalizada” e aponta abusos contra direitos humanos em Florianópolis\nO conteúdo PSOL aciona Justiça contra ‘ICE de Floripa’ e pede suspensão de programa de segurança voluntária Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/psol-aciona-justica-contra-ice-de-floripa-e-pede-suspensao-de-programa-de-seguranca-voluntaria/",
+          "publishedOn": "2026-03-11T20:31:59.000Z",
+          "wordCount": 4792,
+          "title": "PSOL aciona Justiça contra ‘ICE de Floripa’ e pede suspensão de programa de segurança voluntária",
+          "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/02/27192816/15_01_2026_14_37_61cf96e2d8be67bf7e3f7b0c2b432f11.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=158994",
+          "author": "Gil Luiz Mendes",
+          "description": "Ministra participou do lançamento do Centro de Memória das Vítimas de Violência do Estado, em Santos, iniciativa dedicada à memória e à reparação de familiares de vítimas da violência estatal\nO conteúdo ‘Memória e reparação são fundamentais para fortalecer a democracia’, afirma Macaé Evaristo Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/memoria-e-reparacao-sao-fundamentais-para-fortalecer-a-democracia-afirma-macae-evaristo/",
+          "publishedOn": "2026-03-11T18:52:45.000Z",
+          "wordCount": 5165,
+          "title": "‘Memória e reparação são fundamentais para fortalecer a democracia’, afirma Macaé Evaristo",
+          "imageUrl": "https://opara.nyc3.cdn.digitaloceanspaces.com/ponte/uploads/2026/03/09121050/c1275c6d-2fba-4064-a59c-82e6fe65becc.webp"
+        },
+        {
           "id": "https://ponte.org/?p=159032",
           "author": "Jessica Santos",
           "description": "Mudanças na equipe marcam um novo momento do veículo, com duas mulheres negras assumindo pela primeira vez postos de chefia na Ponte\nO conteúdo Editorial | A Ponte Jornalismo muda. O compromisso permanece Pode ser acessado em Ponte Jornalismo.",
@@ -345,12 +374,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=249007",
+          "author": "Raissa Neves",
+          "description": "Autoridades de Dresden, no leste da Alemanha, evacuaram 18 mil pessoas nesta quarta‑feira (11/03) após a descoberta de uma bomba não detonada da Segunda Guerra Mundial, a maior operação desse tipo já realizada nessa cidade alemã, informaram os serviços de emergência. O explosivo de fabricação britânica foi desativado após duas horas de trabalho das equipes […]\nO post Bomba da 2ª Guerra força evacuação recorde em cidade alemã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/bomba-da-2a-guerra-forca-evacuacao-recorde-em-cidade-alema/",
+          "publishedOn": "2026-03-11T19:20:55.000Z",
+          "wordCount": 3056,
+          "title": "Bomba da 2ª Guerra força evacuação recorde em cidade alemã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/76299362_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248992",
+          "author": "Victor Farinelli",
+          "description": "O Ministério de Minas e Energia (MME) criou uma Sala de Monitoramento do Abastecimento, que vai acompanhar, diariamente, as condições do mercado nacional e internacional de combustíveis em articulação com órgãos reguladores e com os principais agentes do setor nos elos de fornecimento primário e distribuição. Segundo o governo, a iniciativa intensifica o monitoramento das […]\nO post Brasil vai monitorar mercado de combustíveis devido aumento gerado pela guerra no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/brasil-vai-monitorar-mercado-de-combustiveis-devido-aumento-gerado-pela-guerra-no-ira/",
+          "publishedOn": "2026-03-11T18:50:38.000Z",
+          "wordCount": 3630,
+          "title": "Brasil vai monitorar mercado de combustíveis devido aumento gerado pela guerra no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/petrobras.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248983",
+          "author": "Rocio Paik",
+          "description": "O Pentágono admitiu na terça-feira (10/03) que cerca de 140 de seus soldados ficaram feridos durante os dez primeiros dias de ataques lançados pelo Irã contra bases militares norte-americanas nos países do Golfo em retaliação à agressão dos Estados Unidos e de Israel contra o país. O reposicionamento foi feito logo após a agência Reuters […]\nO post Pentágono admite cerca de 140 soldados feridos na guerra contra Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pentagono-admite-cerca-de-140-soldados-feridos-na-guerra-contra-ira/",
+          "publishedOn": "2026-03-11T18:10:46.000Z",
+          "wordCount": 2920,
+          "title": "Pentágono admite cerca de 140 soldados feridos na guerra contra Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hc_bvmmw8aapc7n.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248993",
+          "author": "Pedro Marin",
+          "description": "Vamos lá, mais um capítulo da tristeza brasileira. Viva Paulo Prado. Quando a direita percebeu que segurança pública não sangrava Lula de vez, sacou do bolso a velha e imorredoura corrupção. O discurso da corrupção é uma ferramenta antiga e cínica. Serve para golpes eleitorais, serve para chantagem, serve para destruir biografias. Não precisa de […]\nO post O retorno do velho roteiro da corrupção apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-retorno-do-velho-roteiro-da-corrupcao/",
+          "publishedOn": "2026-03-11T17:31:33.000Z",
+          "wordCount": 3728,
+          "title": "O retorno do velho roteiro da corrupção",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/vorcaro-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248976",
+          "author": "Tabitha Ramalho",
+          "description": "As Forças de Defesa israelense continuaram seu bombardeio ao Líbano, atingindo um prédio residencial no centro de Beirute e locais no leste e sul do país devastado pela guerra, matando pelo menos 19 pessoas nesta quarta-feira (11/03). A Agência Nacional de Notícias do Líbano (NNA) informou que ataques na madrugada deixaram sete mortos e cinco […]\nO post Israel bombardeia prédio residencial em Beirute e mata 19 pessoas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/israel-bombardeia-predio-residencial-em-beirute-e-mata-19-pessoas/",
+          "publishedOn": "2026-03-11T17:30:46.000Z",
+          "wordCount": 3746,
+          "title": "Israel bombardeia prédio residencial em Beirute e mata 19 pessoas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/7b918207-49f9-4737-85ff-11b73b4b01af.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248989",
+          "author": "Pedro Marin",
+          "description": "A eleição do Ayatullah Seyyed Mojtaba Hosseini Khamenei como novo Líder Supremo da República Islâmica do Irã representa muito mais do que uma sucessão institucional. Em meio a uma guerra aberta e ao martírio do líder histórico Ali Khamenei, a decisão da Assembleia de Peritos é amplamente interpretada como uma resposta política direta às tentativas […]\nO post Mojtaba Khamenei e a continuidade da Revolução Islâmica apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/mojtaba-khamenei-e-a-continuidade-da-revolucao-islamica/",
+          "publishedOn": "2026-03-11T17:22:10.000Z",
+          "wordCount": 4054,
+          "title": "Mojtaba Khamenei e a continuidade da Revolução Islâmica",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/khamenei-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=248985",
+          "author": "Victor Farinelli",
+          "description": "Em cerimônia realizada no Congresso Nacional chileno, em Valparaíso, José Antonio Kast, líder do ultradireitista Partido Republicano, assumiu a Presidência do Chile, para um mandato previsto para terminar em março de 2030. O novo mandatário recebeu a faixa presidencial do agora ex-presidente Gabriel Boric (2022-2026), representante da Frente Ampla de esquerda, que perdeu as eleições […]\nO post José Antonio Kast assume como presidente do Chile apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/jose-antonio-kast-assume-como-presidente-do-chile/",
+          "publishedOn": "2026-03-11T17:10:46.000Z",
+          "wordCount": 3118,
+          "title": "José Antonio Kast assume como presidente do Chile",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/aposse.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=248975",
           "author": "Rocio Paik",
           "description": "Já se passou mais de uma semana desde que os Estados Unidos e Israel lançaram um ataque conjunto ao Irã. Os ataques à República Islâmica já causaram mais de 1.000 mortes, incluindo o aiatolá Ali Khamenei, e foram respondidos rapidamente pelas forças de segurança do Irã. Em retaliação aos ataques ao seu território, o Irã […]\nO post Países asiáticos adotam medidas emergenciais para poupar consumo de combustível em meio à guerra no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paises-asiaticos-adotam-medidas-emergenciais-para-poupar-consumo-de-combustivel-em-meio-a-guerra-no-ira/",
           "publishedOn": "2026-03-11T16:50:55.000Z",
-          "wordCount": 4542,
+          "wordCount": 4584,
           "title": "Países asiáticos adotam medidas emergenciais para poupar consumo de combustível em meio à guerra no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/gas-cylinders-chennai-india-antiwar.jpg"
         },
@@ -360,7 +459,7 @@
           "description": "O líder norte-coreano Kim Jong Un e sua filha, Kim Ju Ae, supervisionaram por videoconferência o lançamento de um míssil estratégico de cruzeiro a partir do novo contratorpedeiro da Marinha do Exército Popular nacional, Choi Hyon, dispositivo bélico que é capaz de transportar armas nucleares e foi apresentado dias atrás. O anúncio foi feito pela […]\nO post ‘Grande satisfação’, diz Kim Jong Un após teste balístico lançado por novo navio de guerra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/grande-satisfacao-diz-kim-jong-un-apos-teste-balistico-lancado-por-novo-navio-de-guerra/",
           "publishedOn": "2026-03-11T16:10:02.000Z",
-          "wordCount": 2950,
+          "wordCount": 2993,
           "title": "‘Grande satisfação’, diz Kim Jong Un após teste balístico lançado por novo navio de guerra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/44d7e309f4ef65cb44a11d1a0712ddf31a1a3022f3be1f18f917f4fddd55bc5eb9116e414229731a27b1bff0ae87b0d7676e.jpg"
         },
@@ -370,79 +469,9 @@
           "description": "O governo espanhol encerrou oficialmente as funções de sua embaixadora em Israel, de acordo com o Diário Oficial do Estado anunciado nesta quarta-feira (11/03). A diplomata já havia sido chamada de volta a Madri em setembro de 2025, em meio ao agravamento das tensões entre os dois países, e agora o governo formaliza o fim […]\nO post Espanha encerra missão diplomática em Israel como protesto contra guerra no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/espanha-retira-embaixador-de-israel-em-protesto-contra-guerra-com-ira/",
           "publishedOn": "2026-03-11T15:10:45.000Z",
-          "wordCount": 2823,
+          "wordCount": 2815,
           "title": "Espanha encerra missão diplomática em Israel como protesto contra guerra no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/image-4.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248968",
-          "author": "Rocio Paik",
-          "description": "O Irã não participará da Copa do Mundo de futebol masculino a ser disputada em Estados Unidos, México e Canadá entre junho e julho deste ano. O anúncio foi feito nesta quarta-feira (11/03) pelo ministro dos Esportes iraniano, Ahmad Donjamali. “Considerando que este regime corrupto assassinou nosso líder, em hipótese alguma podemos participar da Copa […]\nO post Irã anuncia que não participará da Copa 2026: ‘regime corrupto que assassinou nosso líder’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-anuncia-que-nao-participara-da-copa-2026-regime-corrupto-que-assassinou-nosso-lider/",
-          "publishedOn": "2026-03-11T14:38:37.000Z",
-          "wordCount": 3675,
-          "title": "Irã anuncia que não participará da Copa 2026: ‘regime corrupto que assassinou nosso líder’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/photo_2026-03-05_07-04-05.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248950",
-          "author": "Victor Farinelli",
-          "description": "O Chile realiza nesta quarta-feira (11/03) a cerimônia de transição que marca o fim do governo de centro-esquerda de Gabriel Boric e a posse do líder da extrema direita do país, José Antonio Kast. Segundo a analista política María Francisca Quiroga, mestra em Ciências Políticas pela Universidade do Chile, professora da Academia Diplomática Andrés Bello […]\nO post ‘Boric conclui mandato com esquerda chilena de joelhos’, avalia cientista política apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/boric-conclui-mandato-com-esquerda-chilena-de-joelhos-avalia-cientista-politica/",
-          "publishedOn": "2026-03-11T14:35:32.000Z",
-          "wordCount": 6140,
-          "title": "‘Boric conclui mandato com esquerda chilena de joelhos’, avalia cientista política",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/boric-kast.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248957",
-          "author": "Tabitha Ramalho",
-          "description": "O Irã pretende atacar interesses econômicos e bancários ligados aos EUA e a Israel na região, afirmou nesta quarta-feira (11/03) um porta-voz do comando conjunto Khatam ol Anbia, acrescentando que essa ameaça surge na sequência de um ataque a um banco iraniano. “Após o fracasso de sua campanha, o exército terrorista dos EUA e o […]\nO post Irã anuncia ataques contra centros econômicos e bancários dos EUA e Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-anuncia-ataques-contra-centros-economicos-e-bancarios-dos-eua-e-israel/",
-          "publishedOn": "2026-03-11T14:06:04.000Z",
-          "wordCount": 2832,
-          "title": "Irã anuncia ataques contra centros econômicos e bancários dos EUA e Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/63104962-ebrahim-zolfaqari-175-8135-6180-1750666188.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248948",
-          "author": "Tabitha Ramalho",
-          "description": "Há 93 anos, em 11 de março de 1933, nascia a atriz Léa Garcia. Egressa do Teatro Experimental do Negro, Léa obteve amplo destaque internacional ao ser indicada para o prêmio de melhor atriz no Festival de Cannes por seu papel em “Orfeu Negro”. Ao longo de uma prolífica carreira de mais de 70 anos, […]\nO post Léa Garcia: arte e resistência nos palcos do Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/lea-garcia-arte-e-resistencia-nos-palcos-do-brasil/",
-          "publishedOn": "2026-03-11T13:09:13.000Z",
-          "wordCount": 5094,
-          "title": "Léa Garcia: arte e resistência nos palcos do Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/lea_garcia_cropeed.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248934",
-          "author": "Rocio Paik",
-          "description": "O Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) informou nesta quarta-feira (11/03) que as forças iranianas lançaram em suas últimas horas a “onda mais intensa” de ataques contra alvos dos países do Golfo, incluindo uma base dos Estados Unidos no Kuwait. Trata-se do 12º dia da guerra iniciada por Washington e Tel […]\nO post Irã lança ataques no Golfo; Trump alerta contra instalação de minas no Estreito de Ormuz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-lanca-onda-intensa-de-ataques-no-golfo-trump-alerta-contra-instalacao-de-minas-no-estreito-de-ormuz/",
-          "publishedOn": "2026-03-11T12:26:16.000Z",
-          "wordCount": 3765,
-          "title": "Irã lança ataques no Golfo; Trump alerta contra instalação de minas no Estreito de Ormuz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404122010045512135970424.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248929",
-          "author": "Tabitha Ramalho",
-          "description": "O filho do presidente iraniano Masoud Pezeshkian negou, nesta quarta-feira (11/03), as notícias veiculadas pela mídia de que o novo líder supremo do país, Mojtaba Khamenei, teria ficado ferido em um ataque aéreo conjunto dos Estados Unidos e de Israel. “Recebi notícias de que Mojtaba ficou ferido. Perguntei a amigos que tiveram contato com ele. […]\nO post Filho de presidente iraniano nega que novo líder supremo está machucado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/filho-do-presidente-do-ira-nega-que-novo-lider-supremo-esta-machucado-bem-e-nao-ha-nenhum-problema/",
-          "publishedOn": "2026-03-11T11:44:31.000Z",
-          "wordCount": 2948,
-          "title": "Filho de presidente iraniano nega que novo líder supremo está machucado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/khamenei-filho.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248868",
-          "author": "Tatiana Carlotti",
-          "description": "O Brasil vai parar no próximo domingo (15/03) para torcer por O Agente Secreto na premiação mais popular do planeta. São quatro indicações ao Oscar para um filme que inova e faz arte, desnudando a violência da opressão civil-militar, sem pestanejar na valorização dos que resistiram à ditadura. A presença brasileira, no entanto, vai além do […]\nO post Fotografia de ‘Sonhos de Trem’ pode render Oscar ao Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/cultura/fotografia-de-sonhos-de-trem-pode-render-oscar-ao-brasil/",
-          "publishedOn": "2026-03-11T11:00:45.000Z",
-          "wordCount": 4132,
-          "title": "Fotografia de ‘Sonhos de Trem’ pode render Oscar ao Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-10-134259.png"
         }
       ]
     },
@@ -457,6 +486,56 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=222785",
+          "author": "Redação de AND",
+          "description": "Nesse quadro, a retirada da embaixadora espanhola e a crítica pública da premiê italiana mostram que o prolongamento da guerra já produz efeitos concretos dentro do próprio campo imperialista europeu.",
+          "link": "https://anovademocracia.com.br/espanha-retira-embaixador-entidade-sionista/",
+          "publishedOn": "2026-03-11T20:02:45.000Z",
+          "wordCount": null,
+          "title": "Espanha retira seu embaixador da entidade sionista; Itália critica guerra de agressão",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222783",
+          "author": "Redação de AND",
+          "description": "Enquanto o imperialismo ianque esperava ver as ruas de Teerã tomadas por protestos coordenados por grupos dissidentes no exílio, o que se viu foi a manutenção do controle estatal e o funcionamento regular de órgãos de governo sob o fogo inimigo.",
+          "link": "https://anovademocracia.com.br/sionistas-ianques-guerra-nao-derrotara-ira/",
+          "publishedOn": "2026-03-11T19:56:15.000Z",
+          "wordCount": null,
+          "title": "Derrota à vista: sionistas e ianques reconhecem que guerra não provocará colapso político do Irã",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222775",
+          "author": "Redação de AND",
+          "description": "O vice-presidente Pedro Alliana, em uma tentativa desesperada de deslegitimar o movimento e desmobilizar os professores, foi à imprensa declarar que entre 90% e 95% dos professores estariam de acordo com a reforma. A resposta veio rápida e ácida das bases: \"Não chegamos a um acordo\", sentenciou Silvio Piris, secretário-geral da FEP.",
+          "link": "https://anovademocracia.com.br/paraguai-greve-nacional-de-professores-contra-o-roubo-da-previdencia/",
+          "publishedOn": "2026-03-11T19:27:09.000Z",
+          "wordCount": null,
+          "title": "Paraguai: Greve nacional de professores contra o roubo da previdência",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222762",
+          "author": "Redação de AND",
+          "description": "No EUA, centenas de iranianos protestaram na frente da prefeitura de Los Angeles, no dia 7 de março, pedindo o fim da guerra contra o Irã. As manifestações ocorrem em meio ao aumento do número de mortos no conflito, num momento em que o país deveria estar comemorando o Nowruz, Ano Novo Persa.",
+          "link": "https://anovademocracia.com.br/centenas-protestos-contra-agressao-ao-ira/",
+          "publishedOn": "2026-03-11T19:19:05.000Z",
+          "wordCount": null,
+          "title": "Centenas de protestos contra a guerra de agressão ao Irã eclodem em todo o mundo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=222729",
+          "author": "Giovanna Maria",
+          "description": "Empresa “laranja” foi utilizada para ganhar licitações no município de Muriaé",
+          "link": "https://anovademocracia.com.br/mg-vereador-de-muriae-e-familiares-sao-denunciados-por-falsidade-ideologica-e-fraude-a-licitacoes/",
+          "publishedOn": "2026-03-11T18:00:00.000Z",
+          "wordCount": null,
+          "title": "MG: Vereador de Muriaé e familiares são denunciados por falsidade ideológica e fraude a licitações",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=222710",
           "author": "Giovanna Maria",
@@ -506,56 +585,6 @@
           "wordCount": null,
           "title": "RS: Sindicato dos servidores da UFPel (ASUPel) promove coletiva de imprensa para discutir nova greve de reafirmação em Pelotas.",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222696",
-          "author": "Giovanna Maria",
-          "description": "Além da falta de funcionários, a educação da cidade é caracterizada por sua falta de estrutura, com  vagas escolares insuficientes.",
-          "link": "https://anovademocracia.com.br/rs-povo-pressiona-camara-de-vereadores-de-pelotas-por-contratacoes-emergenciais-na-educacao-de-base/",
-          "publishedOn": "2026-03-10T22:00:00.000Z",
-          "wordCount": null,
-          "title": "RS: Povo pressiona câmara de vereadores de Pelotas por contratações emergenciais na educação de base",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222723",
-          "author": "Redação de AND",
-          "description": "A armadilha estendida pelo imperialismo ianque coloca o governo federal oportunista em uma defensiva perigosa para si. Ao ser forçado a defender a legalidade da Lei Antiterrorismo, que exige motivação política para tal classificação, o governo abre flanco para a retórica da extrema direita de que é “pró-bandido”.",
-          "link": "https://anovademocracia.com.br/governo-ianque-cogita-classificar-cv-pcc/",
-          "publishedOn": "2026-03-10T20:50:29.000Z",
-          "wordCount": null,
-          "title": "Governo ianque cogita classificar PCC e CV como ‘organizações terroristas’ para intervir ainda mais no Brasil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222724",
-          "author": "Redação de AND",
-          "description": "A combinação entre ausência de coalizão internacional, cautela dos aliados, condenação de potências rivais e advertências vindas do próprio establishment ianque reforça a percepção de que a agressão ao Irã, longe de restaurar qualquer autoridade estratégica ianque-sionista, só aprofundou o desgaste e o isolamento político internacional do EUA, justamente porque o Irã não se rebaixou à condição de vassalo das chantagens ianques e assumiu a posição de resistência nacional.",
-          "link": "https://anovademocracia.com.br/eua-aprofunda-isolamento-politico-internacional-com-guerra-de-agressao-ao-ira/",
-          "publishedOn": "2026-03-10T20:46:24.000Z",
-          "wordCount": null,
-          "title": "EUA aprofunda isolamento político internacional com guerra de agressão ao Irã",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222707",
-          "author": "Redação de AND",
-          "description": "\"Os casos aumentam porque a condição de crise econômica, social e cultural dessa sociedade aumenta também!”, afirmou uma ativista do MFP ao AND.",
-          "link": "https://anovademocracia.com.br/feminicidio-bate-recorde-no-brasil-leis-do-velho-estado-nao-garantem-protecao-as-mulheres-do-povo/",
-          "publishedOn": "2026-03-10T20:30:00.000Z",
-          "wordCount": null,
-          "title": "Feminicídio bate recorde no Brasil: Leis do velho Estado não garantem proteção às mulheres do povo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222692",
-          "author": "Giovanna Maria",
-          "description": "Nas intervenções, os ativistas trataram que celebrar o 8 de março é reafirmar a participação das mulheres trabalhadoras na luta de classes.",
-          "link": "https://anovademocracia.com.br/df-ativistas-realizam-panfletagem-no-8-de-marco-dia-internacional-da-mulher-proletaria/",
-          "publishedOn": "2026-03-10T19:30:00.000Z",
-          "wordCount": null,
-          "title": "DF: Ativistas realizam panfletagem no 8 de Março, Dia Internacional da Mulher Proletária",
-          "imageUrl": null
         }
       ]
     },
@@ -581,6 +610,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3178267",
+          "author": "Daniela Doms",
+          "description": "Em SP, governo expulsa famílias caipiras que habitam, há muitas gerações, área florestal do Parque do Jurupará. Agentes históricos de preservação, são vítimas de uma “proteção integral” que, ao mesmo tempo, abre as portas para  projetos de grandes empresas\nThe post Quando o “verde” volta-se contra os povos tradicionais appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/terraeantropoceno/quando-o-verde-volta-se-contra-os-povos-tradicionais/",
+          "publishedOn": "2026-03-11T20:04:08.000Z",
+          "wordCount": 6614,
+          "title": "Quando o “verde” volta-se contra os povos tradicionais",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/11170206/Screenshot-2026-03-11-at-17-02-00-Telegram-Web.png"
+        },
         {
           "id": "https://outraspalavras.net/?p=3178167",
           "author": "Bruno Barcella",
@@ -617,7 +656,7 @@
           "description": "Ensino brasileiro consolidou-se como um sistema abrangente – mas estruturalmente desigual. Gargalo central é a carreira docente, com remunerações incompatíveis e condições que adoecem e afastam da profissão. Por que sua valorização é sempre adiada?\nThe post Educação: o nó estrutural do magistério no Brasil appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/educacao-o-no-estrutural-do-magisterio-no-brasil/",
           "publishedOn": "2026-03-10T20:45:22.000Z",
-          "wordCount": 3983,
+          "wordCount": 3986,
           "title": "Educação: o nó estrutural do magistério no Brasil",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/10174506/photo_4972347088591063915_x.jpg"
         },
@@ -670,16 +709,6 @@
           "wordCount": 3953,
           "title": "6×1: a cultura das periferias e o preconceito do parlamentar",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/09174108/photo_5005982893041454314_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3177998",
-          "author": "Paulo Nogueira Batista Jr",
-          "description": "Apunhalado pelas costas, país vem conseguindo impor enormes perdas aos EUA e Israel. Preparou-se para a agressão por décadas. Lições ao Brasil: o que fizeram e fazem os governos para nos retirar da condição de vulnerabilidade militar?\nThe post Irã, onde a dupla de diabos calculou errado appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/ira-onde-a-dupla-de-diabos-calculou-errado/",
-          "publishedOn": "2026-03-09T18:58:46.000Z",
-          "wordCount": 4806,
-          "title": "Irã, onde a dupla de diabos calculou errado",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/09155630/photo_5005982893041454127_y.jpg"
         }
       ]
     },
@@ -688,6 +717,16 @@
       "feedUrl": "https://passapalavra.info/feed/",
       "siteUrl": "https://passapalavra.info",
       "articles": [
+        {
+          "id": "https://passapalavra.info/?p=158838",
+          "author": "FP",
+          "description": "Foi preso por perseguir a ex-mulher. Orientado a ficar em silêncio, na audiência de custódia resolveu usar o brilhante argumento: “Excelência, eu sou empresário, moro na Europa! Eu não posso ficar no meio de bandidos!”. Passa Palavra",
+          "link": "https://passapalavra.info/2026/03/158838/",
+          "publishedOn": "2026-03-11T19:56:36.000Z",
+          "wordCount": 3783,
+          "title": "Gente rica sendo presa (1)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
         {
           "id": "https://passapalavra.info/?p=158770",
           "author": "Edinilson",
@@ -704,7 +743,7 @@
           "description": "O grande embate atual não é mais a possibilidade de implantação da Tarifa Zero, que se mostra cada vez mais viável, mas qual o seu lugar político-econômico, que precisa ser disputado. Por Isadora de Andrade Guerreiro",
           "link": "https://passapalavra.info/2026/03/158833/",
           "publishedOn": "2026-03-09T12:45:36.000Z",
-          "wordCount": 5467,
+          "wordCount": 5473,
           "title": "Para além da Tarifa Zero",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_1.jpg"
         }
@@ -715,6 +754,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=62570",
+          "author": "Boitempo",
+          "description": "A Boitempo prepara mais uma edição do Curso Livre Marx-Engels, com encontros ao longo de 2026 em diversas cidades do país. Tendo como base a antologia \"O essencial de Marx e Engels\", a nova edição do curso conta ainda com um conselho curador de peso, composto por nomes como José Paulo Netto, Jorge Grespan, Michael Löwy, Ricardo Antunes e Virgínia Fontes.",
+          "link": "https://blogdaboitempo.com.br/2026/03/11/vem-ai-mais-uma-edicao-do-tradicional-curso-livre-marx-engels-pela-primeira-vez-em-todas-as-regioes-do-brasil/",
+          "publishedOn": "2026-03-11T20:29:16.000Z",
+          "wordCount": 11593,
+          "title": "Vem aí mais uma edição do tradicional Curso Livre Marx-Engels, pela primeira vez em todas as regiões do Brasil!",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/banner-blog-curso-livre-marx-engels-2026.jpg"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=62587",
           "author": "Boitempo",
@@ -731,7 +780,7 @@
           "description": "Bruna Della Torre: \"Em diversos dos filmes indicados ao Oscar neste ano, a família, bem como sua transformação/dissolução), está no núcleo da narrativa, ainda que não sejam 'dramas familiares' em sentido estrito. Por que a ênfase na família? Por que agora? A hipótese mais fácil e plausível é a de que essa instituição está no centro da política contemporânea.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/10/lexico-infamiliar/",
           "publishedOn": "2026-03-10T11:00:00.000Z",
-          "wordCount": 13756,
+          "wordCount": 13907,
           "title": "Léxico infamiliar",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/minha-querida-familia-1.png?fit=1200%2C675&ssl=1"
         },
