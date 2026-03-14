@@ -4,18 +4,7 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": [
-        {
-          "id": "XzI7Ns",
-          "author": null,
-          "description": "Ao todo são nove áreas destinadas à recapitalização do BRB, incluindo o Parque de Serviços do SIA e o Parque Ecológico Serrinha do Paranoá. Sindicatos de outras categorias criticam o projeto.",
-          "link": "https://jornalofuturo.com.br/artigo/XzI7Ns-cldf-aprova-pl-que-entrega-areas-publicas-para-cobrir-rombo-do-brb-com-apoio-do-sindicato-dos-bancarios",
-          "publishedOn": "2026-03-09T21:00:00.000Z",
-          "wordCount": 1696,
-          "title": "CLDF aprova PL que entrega áreas públicas para cobrir rombo do BRB com apoio do Sindicato dos Bancários",
-          "imageUrl": "https://media.jornalofuturo.com.br/brb1-1200x800.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jornal A Verdade",
@@ -23,12 +12,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=60889",
+          "author": "Redação SP",
+          "description": "No dia 14/03 o Movimento de Mulheres Olga Benario realizou uma campanha nacional de ocupações contra o feminicídio e pelo socialismo. O movimento realizou a sua segunda ocupação no interior de São Paulo, chamada Ocupação de Mulheres Ondina Seabra Giovanna Nunes | Sorocaba (SP)  A violência contra as mulheres cresce no Brasil como consequência da […]",
+          "link": "https://averdade.org.br/2026/03/nasce-em-sorocaba-a-ocupacao-de-mulheres-ondina-seabra/",
+          "publishedOn": "2026-03-14T10:31:59.000Z",
+          "wordCount": 7172,
+          "title": "Nasce em Sorocaba a Ocupação de Mulheres Ondina Seabra",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-07.25.46.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=60871",
           "author": "Jesse Lisboa",
           "description": "O Movimento Luta de Classes (MLC) convoca a classe trabalhadora para uma ofensiva nacional pelo fim da escala 6×1. Coordenação Nacional do MLC BRASIL – Para impedir que a classe trabalhadora tenha direito a viver para além de trabalhar, os bilionários têm apresentado números tentando demonstrar o “impacto negativo” do fim da jornada 6×1 na […]",
           "link": "https://averdade.org.br/2026/03/fim-da-escala-6x1-vai-melhorar-a-vida-da-classe-trabalhadora/",
           "publishedOn": "2026-03-14T02:08:51.000Z",
-          "wordCount": 6728,
+          "wordCount": 6741,
           "title": "Fim da escala 6×1 vai melhorar a vida da classe trabalhadora",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/07/P6-_-escala-6x1-MLC-_-Estefani-Maciel.jpg"
         },
@@ -38,7 +37,7 @@
           "description": "Desde o começo do ano, 7 mulheres foram vítimas de feminicídio em Sorocaba. A cidade já havia batido recorde de feminicídios em fevereiro e, nos primeiros dez dias de março registrou mais 3 novos casos. Giovanna Nunes | Sorocaba (SP) Mulheres – A cidade de Sorocaba (SP) “a melhor cidade do Brasil para se viver” […]",
           "link": "https://averdade.org.br/2026/03/a-cada-dez-dias-uma-mulher-sofre-feminicidio-em-sorocaba/",
           "publishedOn": "2026-03-13T15:56:48.000Z",
-          "wordCount": 6830,
+          "wordCount": 6835,
           "title": "A cada dez dias uma mulher sofre feminicídio em Sorocaba",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-12.04.04.jpeg"
         },
@@ -48,7 +47,7 @@
           "description": "Em audiência pública sem a participação dos usuários, a proposta de privatização do metrô do Recife foi apresentada. Sem dialogar com os servidores nem com a população, governo federal apoia iniciativa por meio do BNDES, mesmo Luta tendo prometido não privatizar o metrô. Redação Pernambuco TRABALHADOR UNIDO- A Companhia Brasileira de Trens Urbanos (CBTU) anunciou […]",
           "link": "https://averdade.org.br/2026/03/projeto-de-privatizacao-do-metro-no-recife-vai-piorar-o-servico-e-dar-lucro-para-os-empresarios/",
           "publishedOn": "2026-03-13T14:32:55.000Z",
-          "wordCount": 8236,
+          "wordCount": 8240,
           "title": "Projeto de privatização do metrô no Recife vai piorar o serviço e dar lucro para os empresários",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/metro-velho-1.jpg"
         },
@@ -58,7 +57,7 @@
           "description": "Enquanto mulheres negras recebem menos da metade do salário de homens brancos, o capitalismo impulsiona a pobreza e a exclusão social. Ludmila Outtes e Raquel Brito EDITORIAL – A desigualdade salarial entre homens e mulheres é uma das características do sistema capitalista em todo o mundo, mesmo que tenham o mesmo grau de escolaridade e exerçam […]",
           "link": "https://averdade.org.br/2026/03/desigualdade-salarial-entre-homens-e-mulheres-e-marca-do-capitalismo/",
           "publishedOn": "2026-03-13T13:29:31.000Z",
-          "wordCount": 7273,
+          "wordCount": 7277,
           "title": "Desigualdade salarial entre homens e mulheres é marca do capitalismo",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P3-_-6x1-_-Isabella-Tanajura-1024x703.jpg"
         },
@@ -68,7 +67,7 @@
           "description": "Mesmo após uma onda de greves gerais e mobilizações populares que paralisaram a Argentina, o governo de Javier Milei aprovou, no último dia 27 de fevereiro, uma Reforma Trabalhista que retira direitos históricos da classe operária. Claudiane Lopes | Redação TRABALHADOR UNIDO – Há séculos, o sistema capitalista sofre periódicas crises de superprodução, ou seja, […]",
           "link": "https://averdade.org.br/2026/03/greves-gerais-param-a-argentina-contra-reformas-de-milei/",
           "publishedOn": "2026-03-13T13:13:47.000Z",
-          "wordCount": 6815,
+          "wordCount": 6818,
           "title": "Greves gerais param a Argentina contra reformas de Milei",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P2-_-Argentina.jpg"
         },
@@ -78,7 +77,7 @@
           "description": "190 anos após a tomada do poder pelo povo na Revolução Cabana, as raízes da dominação colonial continuam a alimentar a violência agrária e a destruição ambiental no Pará. Marcos Jobson e Kleverson Cordeiro | Pará LUTAS DO POVO BRASILEIRO – Nos grandes meios de comunicação e em determinadas instituições de ensino, a História do nosso […]",
           "link": "https://averdade.org.br/2026/03/a-atualidade-da-luta-cabana/",
           "publishedOn": "2026-03-13T11:18:27.000Z",
-          "wordCount": 7648,
+          "wordCount": 7647,
           "title": "A atualidade da luta cabana",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P12-_-Cabanagem.jpg"
         },
@@ -88,7 +87,7 @@
           "description": "Muito além de um meio de comunicação, o jornal comunista personifica a unidade dialética entre a luta econômica e a luta política. Rafael Freire | Redação IMPRENSA – Um jornal comunista representa, para o seu Partido, muito mais do que um veículo de comunicação. O jornal personifica seu melhor militante. É a unidade dialética entre […]",
           "link": "https://averdade.org.br/2026/03/o-jornal-comunista/",
           "publishedOn": "2026-03-13T03:52:05.000Z",
-          "wordCount": 7583,
+          "wordCount": 7582,
           "title": "O jornal comunista",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P11-_-brigadista.jpg"
         },
@@ -98,7 +97,7 @@
           "description": "Greve da educação em BH termina com revolta contra a prefeitura; trabalhadores convocam a categoria para radicalizar a luta contra o capital. Foram 17 dias de sol, chuva, humilhação e muita resistência. Cantineiras, faxineiras, porteiros e auxiliares de apoio à inclusão cruzaram os braços e pararam as escolas de Belo Horizonte. Enfrentaram a intransigência do […]",
           "link": "https://averdade.org.br/2026/03/a-greve-acabou-a-revolta-nao-e-hora-de-radicalizar-a-luta-em-bh/",
           "publishedOn": "2026-03-12T23:39:17.000Z",
-          "wordCount": 7720,
+          "wordCount": 7719,
           "title": "A greve acabou, a revolta não: é hora de radicalizar a luta em BH!",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/image1.jpg"
         },
@@ -108,19 +107,9 @@
           "description": "Na UFMG, a Frente Negra Revolucionária enfrenta a repressão da reitoria para organizar a juventude negra e lutar pelo socialismo e poder popular. Durante as bancas de heteroidentificação, militantes panfletaram e venderam o jornal A Verdade, reafirmando que a luta racial é luta de classes. Paulo Vinícius – Belo Horizonte (MG) Nos  dias 10, 11 […]",
           "link": "https://averdade.org.br/2026/03/frente-negra-revolucionaria-recepciona-estudantes-durante-banca-de-heteroidentificacao-na-ufmg/",
           "publishedOn": "2026-03-12T23:20:11.000Z",
-          "wordCount": 7506,
+          "wordCount": 7498,
           "title": "Frente Negra Revolucionária recepciona estudantes durante banca de heteroidentificação na UFMG",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/unnamed-e1773357456553.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=60830",
-          "author": "Clóvis Maia",
-          "description": "O prefeito de Belém, Igor Normando (MDB) decidiu impor aos servidores um pacote de retrocessos trabalhistas, afetando também toda a população belenense. A resposta para essa política direitista foi a mobilização dos servidores, e um exemplo de que a luta da classe trabalhadora organizada conquista vitórias.  Richard Abreu e Raquel Brício| Belém do Pará TRABALHADOR UNIDO- […]",
-          "link": "https://averdade.org.br/2026/03/luta-contra-reforma-administrativa-fortalece-servidores-em-belem-do-para/",
-          "publishedOn": "2026-03-12T02:54:30.000Z",
-          "wordCount": 7391,
-          "title": "Luta contra reforma administrativa fortalece servidores em Belém do Pará",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/IMG_7066-1-1.jpg"
         }
       ]
     },
@@ -239,11 +228,11 @@
         {
           "id": "https://www.esquerdadiario.com.br/Misogino-e-nao-e-de-hoje-Ratinho-que-foi-transfobico-com-Erica-Hilton-ja-agrediu-assistente-de",
           "author": "Tatiane Lopes",
-          "description": "O apresentador Carlos Massa, o Ratinho, está de volta no centro dos debates depois de protagonizar declarações transfóbicas contra a deputada federal Érica Hilton (PSOL). Durante seu programa no SBT, Ratinho tentou se colocar como defensor das chamadas “mulheres de verdade”, reproduzindo um discurso reacionário que tem sido cada vez mais disseminado por setores conservadores e pela chamada cultura “redpill”, que promove misoginia e ataques a direitos das mulheres e pessoas LGBT+s. \n A (…)\n13-03-2026\n\n/ Gênero e sexualidade, Violência contra a Mulher, Homofobia e Transfobia, Machismo, Machismo na TV, misoginia",
+          "description": "O apresentador Carlos Massa, o Ratinho, está de volta no centro dos debates depois de protagonizar declarações transfóbicas contra a deputada federal Erika Hilton (PSOL). Durante seu programa no SBT, Ratinho tentou se colocar como defensor das chamadas “mulheres de verdade”, reproduzindo um discurso reacionário que tem sido cada vez mais disseminado por setores conservadores e pela chamada cultura “redpill”, que promove misoginia e ataques a direitos das mulheres e pessoas LGBT+s. \n A (…)\n13-03-2026\n\n/ Gênero e sexualidade, Violência contra a Mulher, Homofobia e Transfobia, Machismo, Machismo na TV, misoginia",
           "link": "https://www.esquerdadiario.com.br/Misogino-e-nao-e-de-hoje-Ratinho-que-foi-transfobico-com-Erica-Hilton-ja-agrediu-assistente-de",
           "publishedOn": "2026-03-13T22:51:14.000Z",
           "wordCount": null,
-          "title": "Misógino e não é de hoje: Ratinho, que foi transfóbico com Érica Hilton, já agrediu assistente de palco ao vivo",
+          "title": "Misógino e não é de hoje: Ratinho, que foi transfóbico com Erika Hilton, já agrediu assistente de palco ao vivo",
           "imageUrl": null
         },
         {
@@ -385,26 +374,6 @@
           "wordCount": null,
           "title": "Ibaneis quer privatizar Serra do Paranoá depois de fracasso na compra do Banco Master",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Povos-quilombolas-do-Acara-e-Bujaru-defendem-suas-terras-contra-a-invasao-de-aterros-sanitarios",
-          "author": "Vitor Geibel",
-          "description": "Nesta última semana, na cidade de Belém, moradores e quilombolas do Acará e Bujaru, fecharam a avenida onde fica a Secretaria de Estado de Meio Ambiente e Sustentabilidade do Pará (Semas), contra o projeto de Aterro Sanitário nas cidades de Acará e Bujaru, o qual foi barrado pelo Semas, porém aprovado pelo Tribunal de Justiça do Pará, através do PL 2.159/2021, o PL da Devastação.\n09-03-2026\n\n/ Meio Ambiente, Quilombola, Pará, Crise ecológica, Destruição do meio ambiente",
-          "link": "https://www.esquerdadiario.com.br/Povos-quilombolas-do-Acara-e-Bujaru-defendem-suas-terras-contra-a-invasao-de-aterros-sanitarios",
-          "publishedOn": "2026-03-10T00:23:11.000Z",
-          "wordCount": null,
-          "title": "Povos quilombolas do Acará e Bujaru defendem suas terras contra a invasão de aterros sanitários",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Contra-as-demissoes-privatizacoes-e-militarizacao-das-escolas-por-uma-greve-efetiva-e-unificada-com",
-          "author": "Nossa Classe - Educação",
-          "description": "O governo Tarcísio de Freitas e seu secretário Renato Feder declararam guerra à educação pública em São Paulo. É preciso responder à altura com unidade, organização e luta. Demissões em massa, remoções compulsórias, avaliações subjetivas, descontos salariais, são alguns exemplos de uma política neoliberal que literalmente adoece as professoras e funcionárias de escola, uma categoria majoritariamente feminina. 25 mil profissionais da educação foram afastados por transtornos mentais em 2025 — (…)\n09-03-2026",
-          "link": "https://www.esquerdadiario.com.br/Contra-as-demissoes-privatizacoes-e-militarizacao-das-escolas-por-uma-greve-efetiva-e-unificada-com",
-          "publishedOn": "2026-03-09T21:54:05.000Z",
-          "wordCount": null,
-          "title": "Contra as demissões, privatizações e militarização das escolas, por uma greve efetiva e unificada com as comunidades escolares",
-          "imageUrl": null
         }
       ]
     },
@@ -413,6 +382,36 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=442104",
+          "author": "Mauricio Moraes",
+          "description": "Mídia mantém foco no STF e pouco fala sobre o envolvimento de Vorcaro com Ciro Nogueira, do Progressistas, e Antônio Rueda, do União Brasil – dirigentes de dois dos principais partidos que abrigam o bolsonarismo.\nO post Grande imprensa minimiza Centrão no escândalo do Banco Master e ajuda Flávio Bolsonaro apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/03/14/grande-imprensa-minimiza-centrao-escandalo-banco-master-ajuda-flavio-bolsonaro/",
+          "publishedOn": "2026-03-14T11:00:00.000Z",
+          "wordCount": 4053,
+          "title": "Grande imprensa minimiza Centrão no escândalo do Banco Master e ajuda Flávio Bolsonaro",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/03/HEADER.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/03/HEADER.jpg"
+        },
+        {
+          "id": "https://www.intercept.com.br/?p=442093",
+          "author": "Bianca Pyl",
+          "description": "Uma carta mostra representantes dos maiores estúdios americanos alimentando de informações um importante general brasileiro nos anos de chumbo\nO post O agente secreto de Hollywood que conversava com a ditadura no Brasil apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/03/14/o-agente-secreto-de-hollywood-que-conversava-com-a-ditadura-no-brasil/",
+          "publishedOn": "2026-03-14T10:00:00.000Z",
+          "wordCount": 4276,
+          "title": "O agente secreto de Hollywood que conversava com a ditadura no Brasil",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=442074",
           "author": "Mauricio Moraes",
@@ -434,7 +433,7 @@
           "description": "Sem exigência de visto para entrar no Brasil, não há como saber se turistas israelenses são reservistas ou integrantes das Forças de Defesa de Israel, que atuaram no genocídio em Gaza.\nO post Criminosos de guerra de Israel estão circulando livremente entre nós? apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/12/criminosos-de-guerra-de-israel-estao-circulando-livremente-entre-nos/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 7066,
+          "wordCount": 7096,
           "title": "Criminosos de guerra de Israel estão circulando livremente entre nós?",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-Recovered.png",
@@ -449,7 +448,7 @@
           "description": "Deputado do PL utilizou aeronave ligada a empresário acusado de liderar esquema de lavagem de dinheiro associado à exploração de caça-níqueis.\nO post Nikolas Ferreira voou em jatinho de empresário denunciado por lavagem de dinheiro apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/10/nikolas-jatinho-empresario-denunciado-caca-niqueis/",
           "publishedOn": "2026-03-10T10:59:00.000Z",
-          "wordCount": 4706,
+          "wordCount": 4720,
           "title": "Nikolas Ferreira voou em jatinho de empresário denunciado por lavagem de dinheiro",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -615,7 +614,7 @@
           "description": "O governo dos Estados Unidos teria feito ao Brasil um pedido formal para que as autoridades brasileiras coloquem em prática um plano para a erradicação de organizações como o Primeiro Comando da Capital (PCC) e o Comando Vermelho, além de supostas células do Hezbollah e de organizações criminosas chinesas que atuariam no país sul-americano. Segundo […]\nO post EUA exigem plano do Brasil para acabar com PCC e Comando Vermelho apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/eua-exigem-plano-do-brasil-para-acabar-com-pcc-e-comando-vermelho/",
           "publishedOn": "2026-03-13T19:08:09.000Z",
-          "wordCount": 3310,
+          "wordCount": 3360,
           "title": "EUA exigem plano do Brasil para acabar com PCC e Comando Vermelho",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/lula-trump.jpg"
         },
@@ -645,7 +644,7 @@
           "description": "Desde o prelúdio do ataque norte-americano e israelense ao Irã, era visível que não havia objetivo definido por parte de Trump no que tange a operação. O que se buscava atingir? Quais os motivos finais, quais os meios principais? Tudo era nebuloso, indefinido, e isso, agora, jogou os EUA num beco sem saída. O regime […]\nO post O saldo do fracasso norte-americano no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-saldo-do-fracasso-norte-americano-no-ira/",
           "publishedOn": "2026-03-13T16:51:02.000Z",
-          "wordCount": 3570,
+          "wordCount": 3620,
           "title": "O saldo do fracasso norte-americano no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/ira-trump.webp"
         },
@@ -655,7 +654,7 @@
           "description": "O embaixador da República Islâmica do Irã no Brasil, Abdollah Nekounam Ghadiri, afirmou que o regime israelense governando pelo premiê Benjamin Netanyahu “está sendo danificado” e que “a escolha do encerramento ou do fim da guerra está nas mãos” de Teerã. Em entrevista exclusiva a Opera Mundi, o diplomata disse que a “matemática não fecha” […]\nO post EXCLUSIVO: ‘decisão de encerrar a guerra está em nossas mãos’, diz embaixador do Irã no Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/exclusivo-escolha-de-encerrar-a-guerra-esta-em-nossas-maos-diz-embaixador-do-ira-no-brasil/",
           "publishedOn": "2026-03-13T16:45:58.000Z",
-          "wordCount": 6027,
+          "wordCount": 5977,
           "title": "EXCLUSIVO: ‘decisão de encerrar a guerra está em nossas mãos’, diz embaixador do Irã no Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-13-at-10.35.18.jpeg"
         }
@@ -672,6 +671,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=222848",
+          "author": "Giovanna Maria",
+          "description": "Carlos já era investigado há mais de uma década por liderar grupos paramilitares, que cooperavam com o latifúndio.",
+          "link": "https://anovademocracia.com.br/ba-latifundiarios-no-oeste-baiano-financiaram-grupo-paramilitar-com-r-15-milhoes/",
+          "publishedOn": "2026-03-14T11:00:00.000Z",
+          "wordCount": null,
+          "title": "BA: Latifundiários no Oeste baiano financiaram grupo paramilitar com R$ 15 milhões",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=222833",
           "author": "Giovanna Maria",
@@ -761,16 +770,6 @@
           "wordCount": null,
           "title": "AL: Governo reacionário de Alagoas fortalece aparato repressivo do BOPE com novos armamentos, granadas e sprays de pimenta",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222829",
-          "author": "Giovanna Maria",
-          "description": "O caso do cão Orelha vem gerando revolta a nível nacional por ter deixado claro que a justiça não pune os mais ricos.",
-          "link": "https://anovademocracia.com.br/sc-estudantes-da-udesc-exigem-a-expulsao-de-um-dos-assassinos-do-cao-orelha/",
-          "publishedOn": "2026-03-13T16:00:00.000Z",
-          "wordCount": null,
-          "title": "SC: Estudantes da UDESC exigem a expulsão de um dos assassinos do cão Orelha",
-          "imageUrl": null
         }
       ]
     },
@@ -798,16 +797,6 @@
           "wordCount": 2278,
           "title": "Petrobrás 2025: menos dividendos, mais investimentos — mas a conta ainda não fecha",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/03/298799902_486408576824035_6675726856310978443_n.jpg"
-        },
-        {
-          "id": "69af4ec601e7cd37414cf8a6",
-          "author": "O Poder Popular",
-          "description": "OPP 103: TODO APOIO A CUBA!\n CONTRA OS ATAQUES DO IMPERIALISMO!\nO PODER POPULAR Nº 103 (MARÇO 2026 – EDIÇÃO MENSAL\nPáginas 6 e 7: Edmilson Costa – pré-candidato do PCB a presidente do Brasil!\nMatérias:\nP&",
-          "link": "https://opoderpopular.com.br/esta-no-ar-o-poder-popular-no-103/",
-          "publishedOn": "2026-03-09T22:53:36.000Z",
-          "wordCount": 1149,
-          "title": "Está no ar O Poder Popular nº 103!",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/03/photo_4999489830202837970_y.jpg"
         }
       ]
     },
@@ -924,12 +913,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=158852",
+          "author": "FP",
+          "description": "Condenado pelo homicídio culposo de uma criança, ficaria em prisão domiciliar com tornozeleira eletrônica. Ao ficar sabendo, entrou em pânico: “doutor, eu vou me matar, se eu colocar a tornozeleira eu vou me matar!”. Passa Palavra",
+          "link": "https://passapalavra.info/2026/03/158852/",
+          "publishedOn": "2026-03-14T08:51:16.000Z",
+          "wordCount": 3787,
+          "title": "Gente rica sendo presa (2)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=158842",
           "author": "Aníbal",
           "description": "A fala de Eduardo Marinho nos serve não como exemplo a seguir, mas como alerta. Ela mostra o que acontece quando a crítica social é destituída de teoria, e quando a indignação substitui a análise. Por Arthur Moura",
           "link": "https://passapalavra.info/2026/03/158842/",
           "publishedOn": "2026-03-13T19:56:26.000Z",
-          "wordCount": 5377,
+          "wordCount": 5382,
           "title": "Eduardo Marinho e a moral dos inocentes",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/03/washerwomen.jpg"
         },
@@ -949,7 +948,7 @@
           "description": "O facto de direita e esquerda se encontrarem hoje na ecologia significa que ela é um lugar onde permanentemente se constitui e reconstitui o fascismo. Por João Bernardo",
           "link": "https://passapalavra.info/2026/03/158770/",
           "publishedOn": "2026-03-10T07:50:32.000Z",
-          "wordCount": 10148,
+          "wordCount": 10547,
           "title": "Ecologia. 2) Uma resposta desagradável?",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/03/Rothko-1.jpg"
         }
@@ -966,7 +965,7 @@
           "description": "Rima Awada e Ana Gebrim: \"Para quem cresce entre relatos de guerra, deslocamento, resistência e reconstruções permanentes, a escuta nunca é neutra. Ela carrega uma espécie de responsabilidade do comum. Aprendemos cedo que todo sofrimento tem uma história, uma geografia, uma política e uma memória que precisa ser compreendida para que não se repita indiscriminadamente.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/13/escritas-da-diaspora-como-acompanhar-a-destruicao-do-libano-a-distancia/",
           "publishedOn": "2026-03-13T20:54:45.000Z",
-          "wordCount": 13143,
+          "wordCount": 13299,
           "title": "Escritas da diáspora: como acompanhar a destruição do Líbano à distância?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-8.png?fit=900%2C1200&ssl=1"
         },
@@ -986,7 +985,7 @@
           "description": "O que um adágio latino, a extrema direita, doenças tropicais, os títulos do Corinthians, duas canções de Chico Buarque e a cena teatral carioca podem ter em comum? Por uma série de associações, Mouzar Benedito revela afinidades eletivas (ou não) entre coisas tão distintas.",
           "link": "https://blogdaboitempo.com.br/2026/03/13/cultura-inutil-de-parabelo-na-mao-onde-o-integralista-venceu-fiel-torcida-e-teatro-rebolado/",
           "publishedOn": "2026-03-13T11:00:00.000Z",
-          "wordCount": 12582,
+          "wordCount": 12427,
           "title": "Cultura inútil | De parabelo na mão, onde o integralista venceu, fiel torcida e teatro rebolado",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-9.png?fit=1200%2C676&ssl=1"
         },
@@ -1006,7 +1005,7 @@
           "description": "Patricia de Aquino: \"Narrativas vampirescas assombram o imaginário ocidental desde tempos imemoriais, mas foi Drácula que se consolidou como a representação fundacional do mito. Diferentemente do que sugerem muitas adaptações cinematográficas, o projeto de Drácula não era romântico, mas político: sair da Transilvânia e subjugar a Inglaterra. Seu maior crime não era sugar sangue, mas ameaçar a supremacia britânica ao interromper o progresso da metrópole, valendo-se daquilo que era visto como o primitivismo oriundo de terras longínquas do Leste Europeu. Mais do que um monstro, Drácula era um estrangeiro que ousava contracolonizar o centro do império.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/12/a-dialetica-contracolonial-de-pecadores/",
           "publishedOn": "2026-03-12T13:00:00.000Z",
-          "wordCount": 12467,
+          "wordCount": 12320,
           "title": "A dialética contracolonial de “Pecadores”",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2025/04/image-33.png"
         },
@@ -1016,7 +1015,7 @@
           "description": "A Boitempo prepara mais uma edição do Curso Livre Marx-Engels, com encontros ao longo de 2026 em diversas cidades do país. Tendo como base a antologia \"O essencial de Marx e Engels\", a nova edição do curso conta ainda com um conselho curador de peso, composto por nomes como José Paulo Netto, Jorge Grespan, Michael Löwy, Ricardo Antunes e Virgínia Fontes.",
           "link": "https://blogdaboitempo.com.br/2026/03/11/vem-ai-mais-uma-edicao-do-tradicional-curso-livre-marx-engels-pela-primeira-vez-em-todas-as-regioes-do-brasil/",
           "publishedOn": "2026-03-11T20:29:16.000Z",
-          "wordCount": 11593,
+          "wordCount": 11550,
           "title": "Vem aí mais uma edição do tradicional Curso Livre Marx-Engels, pela primeira vez em todas as regiões do Brasil!",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/banner-blog-curso-livre-marx-engels-2026.jpg"
         },
