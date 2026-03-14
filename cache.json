@@ -403,7 +403,7 @@
           "description": "Uma carta mostra representantes dos maiores estúdios americanos alimentando de informações um importante general brasileiro nos anos de chumbo\nO post O agente secreto de Hollywood que conversava com a ditadura no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/14/o-agente-secreto-de-hollywood-que-conversava-com-a-ditadura-no-brasil/",
           "publishedOn": "2026-03-14T10:00:00.000Z",
-          "wordCount": 4276,
+          "wordCount": 4246,
           "title": "O agente secreto de Hollywood que conversava com a ditadura no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png",
@@ -433,7 +433,7 @@
           "description": "Sem exigência de visto para entrar no Brasil, não há como saber se turistas israelenses são reservistas ou integrantes das Forças de Defesa de Israel, que atuaram no genocídio em Gaza.\nO post Criminosos de guerra de Israel estão circulando livremente entre nós? apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/12/criminosos-de-guerra-de-israel-estao-circulando-livremente-entre-nos/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 7096,
+          "wordCount": 7066,
           "title": "Criminosos de guerra de Israel estão circulando livremente entre nós?",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-Recovered.png",
@@ -448,7 +448,7 @@
           "description": "Deputado do PL utilizou aeronave ligada a empresário acusado de liderar esquema de lavagem de dinheiro associado à exploração de caça-níqueis.\nO post Nikolas Ferreira voou em jatinho de empresário denunciado por lavagem de dinheiro apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/10/nikolas-jatinho-empresario-denunciado-caca-niqueis/",
           "publishedOn": "2026-03-10T10:59:00.000Z",
-          "wordCount": 4720,
+          "wordCount": 4690,
           "title": "Nikolas Ferreira voou em jatinho de empresário denunciado por lavagem de dinheiro",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -559,12 +559,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=249286",
+          "author": "Fernanda Oliveira",
+          "description": "O jornalista Amin Sabouri mora no centro de Teerã e da sua casa houve os aviões e bombardeios constantes. Até o momento, a capital do Irã tem sido o epicentro das operações militares dos Estados Unidos e de Israel. “Quem mora na região leste e oeste, onde há bases militares, ouve ainda mais bombardeios. Porém, […]\nO post Entre sirenes e explosões: moradores de Teerã relatam rotina sob bombardeios israelenses apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/entre-sirenes-e-explosoes-moradores-de-teera-relatam-rotina-sob-bombardeios-israelenses/",
+          "publishedOn": "2026-03-14T16:30:36.000Z",
+          "wordCount": 3503,
+          "title": "Entre sirenes e explosões: moradores de Teerã relatam rotina sob bombardeios israelenses",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/attack_on_residential_homes_in_central_tehran_1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249193",
+          "author": "Rocio Paik",
+          "description": "“Bugonia”, em seu sentido literal, é o “nascimento do boi”. A expressão vem de um mito grego antigo, onde se acreditava que abelhas podiam nascer da carcaça de um boi sacrificado. Ou seja, a ideia de que algo novo pode surgir a partir da destruição. E é justamente esse conceito que o filme do diretor […]\nO post ‘Bugonia’: mito grego a uma guerra de narrativas sem vencedores apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/cultura/bugonia-mito-grego-a-uma-guerra-de-narrativas-sem-vencedores/",
+          "publishedOn": "2026-03-14T15:30:44.000Z",
+          "wordCount": 3703,
+          "title": "‘Bugonia’: mito grego a uma guerra de narrativas sem vencedores",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/09.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249322",
+          "author": "Tabitha Ramalho",
+          "description": "Cuba recebeu nesta sexta-feira (13/03) o terceiro carregamento de ajuda humanitária do México, reafirmando o apoio do governo da presidenta Cláudia Sheinbaum e do povo mexicano diante da intensificação da crise que a ilha caribenha enfrenta devido ao bloqueio dos Estados Unidos. Pelas redes sociais, o embaixador cubano no México, Eugenio Martínez Enríquez, confirmou a […]\nO post México envia terceiro carregamento de ajuda humanitária a Cuba em meio ao bloqueio dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/mexico-envia-terceiro-carregamento-de-ajuda-humanitaria-a-cuba-em-meio-ao-bloqueio-dos-eua/",
+          "publishedOn": "2026-03-14T15:22:40.000Z",
+          "wordCount": 3617,
+          "title": "México envia terceiro carregamento de ajuda humanitária a Cuba em meio ao bloqueio dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hauxedlwgaajdn-.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249319",
+          "author": "Tabitha Ramalho",
+          "description": "Um ataque conjunto dos EUA e de Israel atingiu um centro educacional e um jardim de infância na cidade de Shahr-e-Rey, na província de Teerã, neste sábado (14/03), segundo relatos da mídia local iraniana. As autoridades locais ainda não confirmaram se houve vítimas fatais ou feridos. ‼️Ataque de EE.UU. e Israel alcanza centro educativo y […]\nO post Ataque israelense-americano atinge centro educacional e jardim de infância no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ataque-israelense-americano-atinge-centro-educacional-e-jardim-de-infancia-no-ira/",
+          "publishedOn": "2026-03-14T14:39:35.000Z",
+          "wordCount": 2918,
+          "title": "Ataque israelense-americano atinge centro educacional e jardim de infância no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/69b544b359bf5b35d353fc37.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249315",
+          "author": "Tabitha Ramalho",
+          "description": "As instalações de infraestrutura petrolífera na ilha iraniana de Khark não sofreram danos em consequência dos ataques aéreos militares dos EUA, informou neste sábado (14/03) o Corpo da Guarda Revolucionária Islâmica do Irã (IRGC). No dia anterior (13/03), o presidente dos EUA, Donald Trump, afirmou que os militares norte-americanos realizaram “um dos bombardeios mais devastadores […]\nO post Irã nega destruição de instalações petrolíferas em ilha após ataque dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-nega-destruicao-de-instalacoes-petroliferas-em-ilha-apos-ataque-dos-eua/",
+          "publishedOn": "2026-03-14T13:47:23.000Z",
+          "wordCount": 2969,
+          "title": "Irã nega destruição de instalações petrolíferas em ilha após ataque dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/960px-iss005-e-11900_lrg-e1773495821749.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249312",
+          "author": "Tabitha Ramalho",
+          "description": "Em resposta aos novos ataques conjuntos dos Estados Unidos e de Israel contra o território iraniano, a Guarda Revolucionária Islâmica do Irã (IRGC) anunciou neste sábado (14/03) o lançamento de uma nova onda de mísseis contra instalações israelenses e americanas na região, como parte da Operação “Verdadeira Promessa 4”, em cooperação com o movimento libanês […]\nO post Irã e Hezbollah lançam nova onda de mísseis coordenados contra Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-e-hezbollah-lancam-nova-onda-de-misseis-coordenados-contra-israel/",
+          "publishedOn": "2026-03-14T13:27:49.000Z",
+          "wordCount": 2994,
+          "title": "Irã e Hezbollah lançam nova onda de mísseis coordenados contra Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hdxvrj7xcaaskjs.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=249303",
           "author": "Victor Farinelli",
           "description": "Em edição especial do programa 20 MINUTOS, o jornalista Breno Altman, fundador de Opera Mundi, entrevistou o atual ministro da Fazenda, Fernando Haddad, que falou sobre seu novo livro, Capitalismo Superindustrial – Caminhos Diversos, Destino Comum, lançado pela Editora Zahar. Perguntado sobre a tese defendida pelo livro, o ministro explicou que, segundo sua visão, o […]\nO post Superação do capitalismo requer construção de novo projeto pela esquerda, afirma Haddad apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/20-minutos/superacao-do-capitalismo-requer-construcao-de-novo-projeto-pela-esquerda-afirma-haddad/",
           "publishedOn": "2026-03-14T02:03:24.000Z",
-          "wordCount": 3681,
+          "wordCount": 3618,
           "title": "Superação do capitalismo requer construção de novo projeto pela esquerda, afirma Haddad",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/20m.jpg"
         },
@@ -574,7 +634,7 @@
           "description": "O Oscar de 2026 passou a ter um favorito mais claro quando o diretor norte-americano, Paul Thomas Anderson, diretor de Uma Batalha Após a Outra, disse que ser político, mas cineasta minutos após seu filme ser o grande vencedor do BAFTA 2026 (considerado o Oscar britânico), com seis estatuetas. Essa declaração supostamente apolítica teria sido […]\nO post A estigmatização da esquerda revolucionária em ‘Uma Batalha Após a Outra’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/a-estigmatizacao-da-esquerda-revolucionaria-em-uma-batalha-apos-a-outra/",
           "publishedOn": "2026-03-13T22:00:29.000Z",
-          "wordCount": 4239,
+          "wordCount": 4174,
           "title": "A estigmatização da esquerda revolucionária em ‘Uma Batalha Após a Outra’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-13-164021.png"
         },
@@ -584,7 +644,7 @@
           "description": "A comissão eleitoral do Nepal confirmou nesta sexta-feira (13/03) a vitória esmagadora do político reformista Balendra Shah e de seu Partido Rastriya Swatantra (RSP) nas eleições parlamentares do país. O resultado marca uma mudança na nação himalaia, com Shah, um músico que também foi prefeito da capital Katmandu, sendo visto como um símbolo da ascensão […]\nO post Comissão eleitoral confirma vitória de ex-rapper nas eleições do Nepal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/comissao-eleitoral-confirma-vitoria-de-ex-rapper-nas-eleicoes-do-nepal/",
           "publishedOn": "2026-03-13T21:20:33.000Z",
-          "wordCount": 3100,
+          "wordCount": 3087,
           "title": "Comissão eleitoral confirma vitória de ex-rapper nas eleições do Nepal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hcleli2auaaayrg-e1773434473492.jpeg"
         },
@@ -594,83 +654,27 @@
           "description": "A Cruz Vermelha da China anunciou o envio de US$ 200 mil (mais de R$ 1 milhão) em assistência humanitária emergencial à Meia Lua Vermelha Iraniana, destinados especificamente às famílias das meninas assassinadas no ataque a uma escola primária da cidade de Minab, na província de Hormozgan, no sul do Irã. O anúncio foi feito […]\nO post China destina mais de R$ 1 milhão às famílias das crianças mortas em ataque dos EUA a escola no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-destina-mais-de-r-1-milhao-as-familias-das-criancas-mortas-em-ataque-dos-eua-a-escola-no-ira/",
           "publishedOn": "2026-03-13T20:40:37.000Z",
-          "wordCount": 3553,
+          "wordCount": 3540,
           "title": "China destina mais de R$ 1 milhão às famílias das crianças mortas em ataque dos EUA a escola no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121010004829135794724.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249276",
-          "author": "Raissa Neves",
-          "description": "O Ministério das Relações Exteriores confirmou nesta sexta-feira (13/03) a revogação do visto do assessor do governo do presidente Donald Trump Darren Beattie. Ele pretendia visitar o Brasil na próxima semana. Segundo a pasta, a decisão foi tomada “tendo em conta a omissão e o falseamento de informações relevantes quanto ao motivo da visita por […]\nO post Itamaraty revoga visto de assessor de Trump que pretendia visitar Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/itamaraty-revoga-visto-de-assessor-de-trump-que-pretendia-visitar-bolsonaro/",
-          "publishedOn": "2026-03-13T20:03:29.000Z",
-          "wordCount": 3183,
-          "title": "Itamaraty revoga visto de assessor de Trump que pretendia visitar Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1787627_big-darren-bettie.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249260",
-          "author": "Victor Farinelli",
-          "description": "O governo dos Estados Unidos teria feito ao Brasil um pedido formal para que as autoridades brasileiras coloquem em prática um plano para a erradicação de organizações como o Primeiro Comando da Capital (PCC) e o Comando Vermelho, além de supostas células do Hezbollah e de organizações criminosas chinesas que atuariam no país sul-americano. Segundo […]\nO post EUA exigem plano do Brasil para acabar com PCC e Comando Vermelho apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eua-exigem-plano-do-brasil-para-acabar-com-pcc-e-comando-vermelho/",
-          "publishedOn": "2026-03-13T19:08:09.000Z",
-          "wordCount": 3360,
-          "title": "EUA exigem plano do Brasil para acabar com PCC e Comando Vermelho",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/lula-trump.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249265",
-          "author": "Raissa Neves",
-          "description": "Há 90 anos, em 13 de março de 1936, nascia o diretor, ator, roteirista e apresentador José Mojica Marins, uma das figuras mais icônicas do cinema nacional. Pioneiro dos filmes de terror no Brasil, Mojica se destacou por suas produções independentes e de baixo orçamento, desenvolvendo um estilo original, marcado pelo experimentalismo e pelo diálogo […]\nO post José Mojica Marins: a vida e obra do ‘Zé do Caixão’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/jose-mojica-marins-a-vida-e-obra-do-ze-do-caixao/",
-          "publishedOn": "2026-03-13T19:04:08.000Z",
-          "wordCount": 5472,
-          "title": "José Mojica Marins: a vida e obra do ‘Zé do Caixão’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/jose_mojica_marins_em_o_profeta_da_fome_1971.tif.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249235",
-          "author": "Tabitha Ramalho",
-          "description": "As forças de ocupação israelenses continuam suas agressões aos palestinos. Além das violências físicas, bloqueios de vias e imposição de checkpoints, agora as famílias estão sendo obrigadas pelas autoridades de Israel a demolir suas próprias casas. A “autodestruição” assombra os palestinos que vivem em Jerusalém Oriental, região controlada por Israel desde 1967 e ilegalmente unida […]\nO post Israel obriga famílias palestinas a demolirem casas próprias em Jerusalém Oriental apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-obriga-familias-palestinas-a-demolirem-casas-proprias-em-jerusalem-oriental/",
-          "publishedOn": "2026-03-13T17:40:59.000Z",
-          "wordCount": 3182,
-          "title": "Israel obriga famílias palestinas a demolirem casas próprias em Jerusalém Oriental",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1000519975.jpg-3b9c5f46-521e-48c5-8859-e67f47e4b181.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249244",
-          "author": "Pedro Marin",
-          "description": "Desde o prelúdio do ataque norte-americano e israelense ao Irã, era visível que não havia objetivo definido por parte de Trump no que tange a operação. O que se buscava atingir? Quais os motivos finais, quais os meios principais? Tudo era nebuloso, indefinido, e isso, agora, jogou os EUA num beco sem saída. O regime […]\nO post O saldo do fracasso norte-americano no Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/o-saldo-do-fracasso-norte-americano-no-ira/",
-          "publishedOn": "2026-03-13T16:51:02.000Z",
-          "wordCount": 3620,
-          "title": "O saldo do fracasso norte-americano no Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/ira-trump.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249236",
-          "author": "Fernanda Oliveira",
-          "description": "O embaixador da República Islâmica do Irã no Brasil, Abdollah Nekounam Ghadiri, afirmou que o regime israelense governando pelo premiê Benjamin Netanyahu “está sendo danificado” e que “a escolha do encerramento ou do fim da guerra está nas mãos” de Teerã. Em entrevista exclusiva a Opera Mundi, o diplomata disse que a “matemática não fecha” […]\nO post EXCLUSIVO: ‘decisão de encerrar a guerra está em nossas mãos’, diz embaixador do Irã no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/exclusivo-escolha-de-encerrar-a-guerra-esta-em-nossas-maos-diz-embaixador-do-ira-no-brasil/",
-          "publishedOn": "2026-03-13T16:45:58.000Z",
-          "wordCount": 5977,
-          "title": "EXCLUSIVO: ‘decisão de encerrar a guerra está em nossas mãos’, diz embaixador do Irã no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-13-at-10.35.18.jpeg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=222852",
+          "author": "Giovanna Maria",
+          "description": "A liquidação do banco de Daniel Vorcaro e sua consequente prisão apenas confirmaram a natureza criminosa das operações que agora o governo tenta encobrir.",
+          "link": "https://anovademocracia.com.br/df-governo-entrega-patrimonio-publico-para-tampar-o-rombo-do-banco-master-no-brb/",
+          "publishedOn": "2026-03-14T16:30:00.000Z",
+          "wordCount": null,
+          "title": "DF: Governo entrega patrimônio público para tampar o rombo do Banco Master no BRB",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=222848",
           "author": "Giovanna Maria",
@@ -759,16 +763,6 @@
           "publishedOn": "2026-03-13T19:04:22.000Z",
           "wordCount": null,
           "title": "SC: Indígena Laklãnõ-Xokleng desaparecido em José Boiteux-SC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222843",
-          "author": "Giovanna Maria",
-          "description": "Esses itens reforçarão ainda mais as ações de repressão do Batalhão de Operações Especiais (BOPE) contra o povo pobre.",
-          "link": "https://anovademocracia.com.br/al-governo-reacionario-de-alagoas-fortalece-aparato-repressivo-do-bope-com-novos-armamentos-granadas-e-sprays-de-pimenta/",
-          "publishedOn": "2026-03-13T18:30:00.000Z",
-          "wordCount": null,
-          "title": "AL: Governo reacionário de Alagoas fortalece aparato repressivo do BOPE com novos armamentos, granadas e sprays de pimenta",
           "imageUrl": null
         }
       ]
@@ -965,7 +959,7 @@
           "description": "Rima Awada e Ana Gebrim: \"Para quem cresce entre relatos de guerra, deslocamento, resistência e reconstruções permanentes, a escuta nunca é neutra. Ela carrega uma espécie de responsabilidade do comum. Aprendemos cedo que todo sofrimento tem uma história, uma geografia, uma política e uma memória que precisa ser compreendida para que não se repita indiscriminadamente.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/13/escritas-da-diaspora-como-acompanhar-a-destruicao-do-libano-a-distancia/",
           "publishedOn": "2026-03-13T20:54:45.000Z",
-          "wordCount": 13299,
+          "wordCount": 13143,
           "title": "Escritas da diáspora: como acompanhar a destruição do Líbano à distância?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-8.png?fit=900%2C1200&ssl=1"
         },
@@ -975,7 +969,7 @@
           "description": "Maurício Vieira Martins: \"Neste 14 de março de 2026, completam-se 143 anos do falecimento de Marx. Sabemos que a situação do marxismo e de seu projeto político nos dias de hoje é muito adversa – alguém duvida disso? Quem ocupa o primeiro plano da cena política é a extrema direita internacional, com seu ideário racista e xenofóbico, com sua exploração impiedosa da força de trabalho e ímpeto de devastação ambiental que ameaça a vida humana no planeta.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/13/marx-e-o-quarto-golpe-no-narcisismo-humano/",
           "publishedOn": "2026-03-13T17:07:19.000Z",
-          "wordCount": 14408,
+          "wordCount": 14534,
           "title": "Marx e o quarto “golpe no narcisismo humano”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-9.png?fit=1200%2C779&ssl=1"
         },
