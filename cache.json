@@ -4,7 +4,18 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "FQSzmp",
+          "author": null,
+          "description": "Após descumprimento de acordo por parte do Governo Federal, servidores retomam movimento grevista de 2024 em busca de reconhecimento de direitos e melhores condições de trabalho.",
+          "link": "https://jornalofuturo.com.br/artigo/FQSzmp-servidores-tecnico-administrativos-da-ufrn-entram-em-greve",
+          "publishedOn": "2026-03-15T21:00:00.000Z",
+          "wordCount": 1920,
+          "title": "Servidores Técnico-Administrativos da UFRN entram em greve",
+          "imageUrl": "https://media.jornalofuturo.com.br/grevetaeufrn-1280x720.png"
+        }
+      ]
     },
     {
       "title": "Jornal A Verdade",
@@ -226,6 +237,36 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Talvez-eu-nem-quisesse-estar-aqui-afirma-diretor-iraniano-indicado-ao-Oscar-em-critica-a-guerra",
+          "author": "Redação",
+          "description": "Na sexta-feira (13), durante debate com diretores dos filmes internacionais indicados, Panahi afirmou: \"Comparado ao que está acontecendo no meu país, o Oscar, e tudo mais, não é significativo. Talvez eu nem quisesse estar aqui.\"\n13-03-2026\n\n/ Cultura, Oscar, Guerra contra o Irã",
+          "link": "https://www.esquerdadiario.com.br/Talvez-eu-nem-quisesse-estar-aqui-afirma-diretor-iraniano-indicado-ao-Oscar-em-critica-a-guerra",
+          "publishedOn": "2026-03-16T02:08:00.000Z",
+          "wordCount": null,
+          "title": "\"Talvez eu nem quisesse estar aqui” afirma diretor iraniano indicado ao Oscar, em crítica à guerra durante debate nos EUA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/E-se-Rossieli-Soares-tivesse-que-apresentar-seus-antecedentes-criminais-para-ser-contratado",
+          "author": "Elisa Campos, Maré",
+          "description": "Rossieli Soares passou a exigir que os professores contratados da rede estadual apresentassem seus antecedentes criminais junto aos tantos outros documentos nas filas de busca por emprego nas escolas que enfrentamos todo início de ano. Mas e se Rossieli tivesse que apresentar os seus antecedentes criminais para ser contratado? \n Através de uma resolução no final do ano passado, Rossieli Soares, secretário de Educação do governo Zema, passou a exigir que os professores contratados da rede (…)\n13-03-2026\n\n/ Educação, Minas Gerais, Rossieli Soares, Privatização da Educação, Plataformização",
+          "link": "https://www.esquerdadiario.com.br/E-se-Rossieli-Soares-tivesse-que-apresentar-seus-antecedentes-criminais-para-ser-contratado",
+          "publishedOn": "2026-03-16T01:11:02.000Z",
+          "wordCount": null,
+          "title": "E se Rossieli Soares tivesse que apresentar seus antecedentes criminais para ser contratado?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Com-6-3-dos-votos-a-lista-operaria-e-solidaria-se-impoe-como-uma-nova-forca-em-Saint-Avold",
+          "author": "Léon Bengochea",
+          "description": "Com 408 votos e 6,33% dos sufrágios, o resultado da lista “Saint-Avold operária e solidária”, liderada por Christian Porta, marca a entrada na cena política de uma força operária, anticapitalista e internacionalista — um primeiro ponto de apoio para as lutas que virão.\n13-03-2026\n\n/ Internacional, França, Eleições na França, Révolution Permanente, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
+          "link": "https://www.esquerdadiario.com.br/Com-6-3-dos-votos-a-lista-operaria-e-solidaria-se-impoe-como-uma-nova-forca-em-Saint-Avold",
+          "publishedOn": "2026-03-15T22:03:03.000Z",
+          "wordCount": null,
+          "title": "Com 6,3% dos votos, a lista operária e solidária se impõe como uma nova força em Saint-Avold",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Medo-em-Brasilia-a-espera-de-uma-possivel-delacao-de-Vorcaro",
           "author": "Thiago Flamé",
           "description": "A iminência de uma possível delação premiada do banqueiro Daniel Vorcaro, dado como certa após a troca de advogados e a entrada de José Luís de Oliveira Lima na sua defesa, instalou um clima de medo nos bastidores do poder em Brasília. Esse clima de preocupação revela o nível de envolvimento de todos os poderes da república e do sistema financeiro e órgão reguladores com a rede de Vorcaro e suas conexões que vão do Executivo, no Legislativo, em governos estaduais e, principalmente, no Supremo Tribunal Federal.\n13-03-2026\n\n/ Política, Congresso, STF, Banco Master",
@@ -413,7 +454,7 @@
           "description": "Uma carta mostra representantes dos maiores estúdios americanos alimentando de informações um importante general brasileiro nos anos de chumbo\nO post O agente secreto de Hollywood que conversava com a ditadura no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/14/o-agente-secreto-de-hollywood-que-conversava-com-a-ditadura-no-brasil/",
           "publishedOn": "2026-03-14T10:00:00.000Z",
-          "wordCount": 4276,
+          "wordCount": 4246,
           "title": "O agente secreto de Hollywood que conversava com a ditadura no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png",
@@ -428,7 +469,7 @@
           "description": "Big tech abriu ações judiciais contra um número minúsculo de criminosos no país para tentar limpar a sua imagem, mas continua a lucrar com milhares de anúncios fraudulentos.\nO post Ação da Meta contra golpes no Instagram e Facebook é só mais uma jogada de marketing apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/13/acao-meta-golpes-instagram-facebook-jogada-marketing/",
           "publishedOn": "2026-03-13T10:00:00.000Z",
-          "wordCount": 3888,
+          "wordCount": 3858,
           "title": "Ação da Meta contra golpes no Instagram e Facebook é só mais uma jogada de marketing",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -529,7 +570,7 @@
           "description": "O porta-voz da Guarda Revolucionária Islâmica (IRGC) afirmou neste domingo (15/03) que “muitos” dos seus depósitos de mísseis permanecem intactos, de acordo com a agência de notícias iraniana Fars. “A maioria dos mísseis que estamos lançando agora foi fabricada há uma década”, afirmou o porta-voz. Ao mesmo tempo, ele observou que os mísseis fabricados após […]\nO post Irã afirma que depósitos de mísseis permanecem ‘intactos’ após duas semanas de bombardeios apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-depositos-de-misseis-permanecem-intactos-apos-duas-semanas-de-bombardeios/",
           "publishedOn": "2026-03-15T20:33:50.000Z",
-          "wordCount": 2820,
+          "wordCount": 2821,
           "title": "Irã afirma que depósitos de mísseis permanecem ‘intactos’ após duas semanas de bombardeios",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hdb-mnfxoaabqm6-e1773606130803.png"
         },
@@ -539,7 +580,7 @@
           "description": "O papa Leão XIV voltou a pedir neste domingo (15/03), durante a tradicional celebração do Angelus, no Vaticano, o fim da guerra no Oriente Médio. “Apelo aos responsáveis por este conflito: cessar-fogo! Que os caminhos do diálogo sejam reabertos. A violência jamais conduzirá à justiça, à estabilidade e à paz que os povos anseiam”, declarou […]\nO post Papa Leão 14 pede cessar-fogo nas guerras de Israel contra Irã e Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/papa-leao-14-pede-cessar-fogo-nas-guerras-de-israel-contra-ira-e-libano/",
           "publishedOn": "2026-03-15T19:25:05.000Z",
-          "wordCount": 2723,
+          "wordCount": 2674,
           "title": "Papa Leão 14 pede cessar-fogo nas guerras de Israel contra Irã e Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/960px-pope_leo_xiv_3_3x4_cropped_2.jpg"
         },
@@ -549,7 +590,7 @@
           "description": "Marcos históricos protegidos e considerados patrimônios culturais da humanidade estão ameaçados pela guerra dos EUA e de Israel contra o Irã. Até o momento, os ataque já danificaram uma mesquita e três palácios tombados pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), além de outros sítios de relevância nacional. […]\nO post Ataques dos EUA e Israel ao Irã danificam patrimônios culturais seculares apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ataques-dos-eua-e-israel-ao-ira-danificam-patrimonios-culturais-seculares/",
           "publishedOn": "2026-03-15T18:43:09.000Z",
-          "wordCount": 4510,
+          "wordCount": 4511,
           "title": "Ataques dos EUA e Israel ao Irã danificam patrimônios culturais seculares",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/76198184_303.jpg"
         },
@@ -559,7 +600,7 @@
           "description": "Neste domingo (15/03) será realizada uma das principais cerimônias da indústria cinematográfica: o Oscar. Entretanto, o astro Motaz Malhees de A Voz de Hind Rajab, indicado na categoria de Melhor Filme Internacional, não poderá comparecer ao evento já que teve a entrada nos Estados Unidos negada pelas autoridades do país por ser cidadão palestino. “Três […]\nO post Ator de ‘A Voz de Hind Rajab’ tem entrada negada nos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/ator-de-a-voz-de-hind-rajab-tem-entrada-negada-nos-eua/",
           "publishedOn": "2026-03-15T18:21:32.000Z",
-          "wordCount": 2854,
+          "wordCount": 2851,
           "title": "Ator de ‘A Voz de Hind Rajab’ tem entrada negada nos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/hind-rajab-1.webp"
         },
@@ -569,7 +610,7 @@
           "description": "A tecnologia desenvolvida pelo neurocientista Miguel Nicolelis conquistou um feito, sem precedentes, ao se tornar política estratégica do governo Xi Jinping, na China. Durante a Assembleia do Povo, encerrada na última quinta-feira (12/03), a interface cérebro-máquina foi anunciada parte integrante do 15º Plano Quinquenal, que prepara o país asiático para liderar o desenvolvimento tecnológico nas […]\nO post ‘China viu oportunidade de tratar milhares’, diz Nicolelis sobre pesquisa ‘cérebro-máquina’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opera-entrevista/china-viu-oportunidade-de-tratar-milhares-diz-nicolelis-sobre-pesquisa-cerebro-maquina/",
           "publishedOn": "2026-03-15T17:00:23.000Z",
-          "wordCount": 9545,
+          "wordCount": 9596,
           "title": "‘China viu oportunidade de tratar milhares’, diz Nicolelis sobre pesquisa ‘cérebro-máquina’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-14-120259.png"
         },
@@ -579,7 +620,7 @@
           "description": "Neste domingo (15/03), o ministro das Relações Exteriores do Irã, Abbas Araghchi, afirmou que a guerra que opõe seu país aos Estados Unidos e a Israel só terminará quando Teerã tiver garantias de que o conflito não será retomado. “Esta guerra terminará quando tivermos certeza de que não se repetirá e que as reparações serão […]\nO post Irã: ‘guerra só termina com garantias de que não se repetirá’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-guerra-so-termina-com-garantias-de-que-nao-se-repetira/",
           "publishedOn": "2026-03-15T16:44:06.000Z",
-          "wordCount": 3647,
+          "wordCount": 3598,
           "title": "Irã: ‘guerra só termina com garantias de que não se repetirá’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/1404040210062653933207474.jpg"
         },
@@ -589,7 +630,7 @@
           "description": "Neste domingo (15/03) acontece a cerimônia do Oscar 2026 no Dolby Theatre, em Los Angeles, nos Estados Unidos. Considerada uma das maiores premiações da indústria cinematográfica, o Brasil está sendo representado com o filme O Agente Secreto (2025), de Kléber Mendonça Filho, e pelo brasileiro Adolpho Veloso em Sonhos de Trem. Leia também Cenários de […]\nO post Brasil disputa cinco categorias no Oscar 2026 neste domingo; confira indicados apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/brasil-disputa-cinco-categorias-no-oscar-2026-neste-domingo-confira-indicados/",
           "publishedOn": "2026-03-15T16:27:34.000Z",
-          "wordCount": 3017,
+          "wordCount": 3800,
           "title": "Brasil disputa cinco categorias no Oscar 2026 neste domingo; confira indicados",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/filmes-indicados-petrobras-o-agente-secreto-destaque.jpg"
         },
@@ -599,7 +640,7 @@
           "description": "Frankenstein, uma releitura do clássico de Mary Shelley e dirigido pelo mexicano Guillermo del Toro, apresenta a complexidade de sentimentos. Entre simpatia e empatia pelo criador, o longa avança pela repulsa e falhas do mesmo. A narrativa acompanha Victor Frankenstein, interpretado por Oscar Isaac, um cientista obcecado que deseja superar a morte desde a partida de […]\nO post Em Frankenstein, rejeição do criador dá nome a complexidade de sua criatura apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/em-frankenstein-rejeicao-do-criador-da-nome-a-complexidade-de-sua-criatura/",
           "publishedOn": "2026-03-15T16:00:30.000Z",
-          "wordCount": 3117,
+          "wordCount": 3064,
           "title": "Em Frankenstein, rejeição do criador dá nome a complexidade de sua criatura",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/997b901229d78885dcbecd9c8f5a3082-750x394-1.jpg"
         },
@@ -609,7 +650,7 @@
           "description": "Neste domingo (15/03), o longa O Agente Secreto disputa quatro estatuetas do Oscar. A produção, que chega a Los Angeles após uma longa trajetória de prêmios, despertou a curiosidade do telespectador pelo cenário, que não é mera escolha estética. Opera Mundi revirou o acervo do Departamento de Ordem Social e Política (DOPS) em Pernambuco, o […]\nO post Cenários de ‘O Agente Secreto’ compõem mapa do que foi a repressão ditatorial em Pernambuco apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/cenarios-de-o-agente-secreto-compoem-mapa-do-que-foi-a-repressao-ditatorial-em-pernambuco/",
           "publishedOn": "2026-03-15T14:27:28.000Z",
-          "wordCount": 5869,
+          "wordCount": 5866,
           "title": "Cenários de ‘O Agente Secreto’ compõem mapa do que foi a repressão ditatorial em Pernambuco",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/o-agente-secreto_credito_divulgacao-scaled.jpeg"
         },
@@ -619,7 +660,7 @@
           "description": "Um porta-voz da Embaixada da China em Washington afirmou que Pequim está pedindo um cessar-fogo imediato e se recusou a especificar se a China poderia enviar recursos navais para o Estreito de Ormuz, segundo a CNN. “Todas as partes têm a responsabilidade de garantir um fornecimento de energia estável e sem obstruções”, declarou o porta-voz. […]\nO post China evita confirmar envio de navios a Ormuz após pedido de Trump e pede cessar-fogo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-evita-confirmar-envio-de-navios-a-ormuz-apos-pedido-de-trump-e-pede-cessar-fogo/",
           "publishedOn": "2026-03-15T14:26:48.000Z",
-          "wordCount": 2708,
+          "wordCount": 2659,
           "title": "China evita confirmar envio de navios a Ormuz após pedido de Trump e pede cessar-fogo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121310123633358456810.jpg"
         }
