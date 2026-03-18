@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "itA86a",
+          "author": null,
+          "description": "A partir de denúncias anônimas de funcionários das cozinhas, nossa reportagem destaca o assédio moral constante e más condições de trabalho.",
+          "link": "https://jornalofuturo.com.br/artigo/itA86a-exploracao-brutal-nas-cozinhas-do-sesc-exige-resposta-organizada-dos-trabalhadores",
+          "publishedOn": "2026-03-17T21:00:00.000Z",
+          "wordCount": 3382,
+          "title": "Exploração brutal nas cozinhas do SESC exige resposta organizada dos trabalhadores",
+          "imageUrl": "https://media.jornalofuturo.com.br/cozinhasesc-730x410.jpg"
+        },
+        {
           "id": "1r2AJI",
           "author": null,
           "description": "O grupo privado que assumiu a refinaria atua principalmente na distribuição, não no refino. Refinar petróleo exige investimento contínuo, manutenção industrial e mão de obra qualificada. Em vez disso, a opção foi reduzir custos e maximizar lucros.",
@@ -459,7 +469,7 @@
           "description": "Eu sei que esse tema não é popular. Eu mesmo não dava muita bola até sentir na pele. Por isso, não posso ignorar. No sábado, 14, a ex-primeira-dama Michelle Bolsonaro compartilhou um vídeo que acusa, sem qualquer prova, jornalistas de “desejarem” a morte do ex-presidente Jair Bolsonaro enquanto cobriam sua internação no Hospital DF Star, […]\nO post Michelle impulsiona ameaças contra jornalistas e faz país lembrar como bolsonarismo trata a imprensa apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/17/michelle-bolsonaro-impulsiona-violencia-jornalismo/",
           "publishedOn": "2026-03-17T10:55:00.000Z",
-          "wordCount": 3767,
+          "wordCount": 3737,
           "title": "Michelle impulsiona ameaças contra jornalistas e faz país lembrar como bolsonarismo trata a imprensa",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-3.jpg",
@@ -512,21 +522,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442074",
-          "author": "Mauricio Moraes",
-          "description": "Big tech abriu ações judiciais contra um número minúsculo de criminosos no país para tentar limpar a sua imagem, mas continua a lucrar com milhares de anúncios fraudulentos.\nO post Ação da Meta contra golpes no Instagram e Facebook é só mais uma jogada de marketing apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/03/13/acao-meta-golpes-instagram-facebook-jogada-marketing/",
-          "publishedOn": "2026-03-13T10:00:00.000Z",
-          "wordCount": 3888,
-          "title": "Ação da Meta contra golpes no Instagram e Facebook é só mais uma jogada de marketing",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
-            "length": "5875086",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/03/2hCjIEcu-HeaderFeat.png"
         }
       ]
     },
@@ -600,13 +595,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=249628",
+          "author": "Raissa Neves",
+          "description": "A presidente do México, Claudia Sheinbaum, disse nesta terça-feira (17/03) que seu país está disposto a receber os jogos do Irã na Copa do Mundo, em decorrência das tensões políticas entre a República Islâmica e o presidente dos Estados Unidos, Donald Trump, devido ao conflito no Oriente Médio. Em sua clássica coletiva de imprensa matinal, […]\nO post Copa 2026: México se dispõe a sediar jogos do Irã que seriam nos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/cultura/copa-2026-mexico-se-dispoe-a-sediar-jogos-do-ira-que-seriam-nos-eua/",
+          "publishedOn": "2026-03-17T22:00:47.000Z",
+          "wordCount": 3038,
+          "title": "Copa 2026: México se dispõe a sediar jogos do Irã que seriam nos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-17-181942.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249575",
+          "author": "Tatiana Carlotti",
+          "description": "O governo iraniano confirmou a morte do chefe do Conselho Supremo de Segurança Nacional do país, Ali Larijani, durante ataques aéreos ocorridos na madrugada desta terça-feira (17/03). Aos 68 anos, Larijani era um dos nomes mais influentes da política iraniana e estava no comando do país, desde o assassinato do líder supremo, o aitolá Ali […]\nO post Irã confirma morte de Ali Larijani, chefe da Segurança Nacional; conheça trajetória apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-confirma-morte-de-ali-larijani-chefe-da-seguranca-nacional-conheca-trajetoria/",
+          "publishedOn": "2026-03-17T21:23:33.000Z",
+          "wordCount": 3723,
+          "title": "Irã confirma morte de Ali Larijani, chefe da Segurança Nacional; conheça trajetória",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-17-123045.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249623",
+          "author": "Rocio Paik",
+          "description": "A Agência Espanhola de Cooperação Internacional para o Desenvolvimento (AECID) anunciou nesta terça-feira (17/03) que ampliará as capacidades de sua resposta humanitária voltadas para Cuba, onde cerca de dez milhões de pessoas enfrentam uma crise de saúde, água, alimentos e energia agravada pelo bloqueio dos Estados Unidos. O novo pacote de ajuda inclui a entrega […]\nO post Espanha reforça ajuda humanitária a Cuba em meio ao bloqueio dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/espanha-reforca-ajuda-humanitaria-a-cuba-em-meio-ao-bloqueio-dos-eua/",
+          "publishedOn": "2026-03-17T21:10:23.000Z",
+          "wordCount": 3169,
+          "title": "Espanha reforça ajuda humanitária a Cuba em meio ao bloqueio dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/women-debris-cuba-hurricane-melissa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249611",
+          "author": "Rocio Paik",
+          "description": "O presidente da Colômbia, Gustavo Petro, informou nesta terça-feira (17/03) que os Estados Unidos devolveram, até o fim de seu mandato, em agosto, o seu visto, revogado no ano passado no auge de uma crise diplomática entre os países, intensificada à margem da Assembleia Geral das Nações Unidas (ONU), em Nova York.  “Meu visto norte-americano […]\nO post Petro diz que EUA devolveram visto até fim de mandato: ‘depois disso, não precisarei mais’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-diz-que-eua-devolveram-visto-ate-fim-de-mandato-depois-disso-nao-precisarei-mais/",
+          "publishedOn": "2026-03-17T20:30:28.000Z",
+          "wordCount": 2954,
+          "title": "Petro diz que EUA devolveram visto até fim de mandato: ‘depois disso, não precisarei mais’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/presidente_gustavo_petro_u-e1773773420988.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=249616",
           "author": "Victor Farinelli",
-          "description": "Milhares de trabalhadores de um frigorífico da empresa brasileira JBS, uma das maiores processadoras de carne do mundo, iniciaram uma greve no estado do Colorado, nos Estados Unidos, em meio a acusações de práticas trabalhistas injustas, baixos salários e condições de trabalho inseguras. A paralisação começou nesta semana na unidade da Swift Beef Co., em […]\nO post Trabalhadores da JBS nos EUA entram em greve por salários baixos e condições inseguras apareceu primeiro em Opera Mundi.",
+          "description": "Milhares de trabalhadores de um frigorífico da empresa brasileira JBS, uma das maiores processadoras de carne do mundo, iniciaram uma greve no estado do Colorado, nos Estados Unidos, em meio a acusações de práticas trabalhistas injustas, baixos salários e condições de trabalho inseguras. A paralisação começou nesta semana na unidade da Swift Beef Co., em […]\nO post Trabalhadores da JBS nos EUA entram em greve contra salários baixos e insalubridade apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trabalhadores-da-jbs-nos-eua-entram-em-greve-por-salarios-baixos-e-condicoes-inseguras/",
           "publishedOn": "2026-03-17T19:25:43.000Z",
-          "wordCount": 3969,
-          "title": "Trabalhadores da JBS nos EUA entram em greve por salários baixos e condições inseguras",
+          "wordCount": 3922,
+          "title": "Trabalhadores da JBS nos EUA entram em greve contra salários baixos e insalubridade",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/cartaz-1.jpg"
         },
         {
@@ -615,7 +650,7 @@
           "description": "Durante um tempo, muita gente tratou brindes corporativos como um detalhe quase automático: caneta aqui, bloco ali, sacola acolá. Só que o mercado mudou, e o comportamento das pessoas também. Em meio a uma rotina saturada por anúncios, pop-ups, e-mails promocionais e promessas iguais, o que é físico, útil e bem pensado voltou a chamar […]\nO post Brindes personalizados ganham força no marketing das empresas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opera-conteudo/brindes-personalizados-ganham-forca-no-marketing-das-empresas/",
           "publishedOn": "2026-03-17T19:23:47.000Z",
-          "wordCount": 6420,
+          "wordCount": 6371,
           "title": "Brindes personalizados ganham força no marketing das empresas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-17-161857.png"
         },
@@ -625,7 +660,7 @@
           "description": "O ministro do Comércio Exterior e Investimento Estrangeiro de Cuba, Oscar Pérez-Oliva, afirmou na segunda-feira (16/03) que “Cuba está aberta a manter uma relação comercial fluida com empresas norte-americanas e também com cubanos e seus descendentes que residem nos Estados Unidos”. O anúncio foi feito em um momento em que Cuba, sob embargo dos Estados […]\nO post Em meio ao bloqueio energético, Cuba anuncia abertura para negócios com empresas dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/em-meio-ao-bloqueio-energetico-cuba-anuncia-abertura-para-negocios-com-empresas-dos-eua/",
           "publishedOn": "2026-03-17T19:00:55.000Z",
-          "wordCount": 3464,
+          "wordCount": 3465,
           "title": "Em meio ao bloqueio energético, Cuba anuncia abertura para negócios com empresas dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/flag_of_cuba_at_el_morro.jpg"
         },
@@ -635,7 +670,7 @@
           "description": "20 mil pessoas participaram de uma manifestação em Roma para se opor às reformas no judiciário planejadas pelo governo de Giorgia Meloni, a serem votadas em referendo nos dias 22 e 23 de março. Os manifestantes – incluindo sindicatos de base, associações estudantis e redes antimilitaristas femininas – alertaram que a reforma corre o risco […]\nO post Manifestantes vão às ruas de Roma contra ‘reformas autoritárias’ de Meloni apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/manifestantes-vao-as-ruas-de-roma-contra-reformas-autoritarias-de-meloni/",
           "publishedOn": "2026-03-17T18:10:52.000Z",
-          "wordCount": 4118,
+          "wordCount": 4072,
           "title": "Manifestantes vão às ruas de Roma contra ‘reformas autoritárias’ de Meloni",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/usb-no-sociale-e1773678320237.jpg"
         },
@@ -645,59 +680,19 @@
           "description": "A cidade de Maiduguri, no estado de Borno, na região nordeste da Nigéria, foi cenário de uma série de atentados a bomba realizados entre a noite desta segunda-feira (16/03) e a madrugada desta terça-feira (17/03), que resultou em ao menos 23 pessoas mortas e mais de 100 feridas, segundo registros oficiais. As primeiras explosões, que […]\nO post Nigéria registra série de atentados com ao menos 23 mortes apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/nigeria-registra-serie-de-atentados-com-ao-menos-23-mortes/",
           "publishedOn": "2026-03-17T17:40:09.000Z",
-          "wordCount": 3087,
+          "wordCount": 3038,
           "title": "Nigéria registra série de atentados com ao menos 23 mortes",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/boko.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=249600",
           "author": "Raissa Neves",
-          "description": "Há 35 anos, em 17 de março de 1991, o governo da União Soviética realizava um referendo sobre o futuro do país. Os cidadãos soviéticos foram chamados às urnas para responder se desejavam preservar a URSS como uma federação de repúblicas soberanas, unidas sob um governo central. O referendo foi boicotado por 6 das 15 […]\nO post O fim da URSS: povo disse não apareceu primeiro em Opera Mundi.",
+          "description": "Há 35 anos, em 17 de março de 1991, o governo da União Soviética realizava um referendo sobre o futuro do país. Os cidadãos soviéticos foram chamados às urnas para responder se desejavam preservar a URSS como uma federação de repúblicas soberanas, unidas sob um governo central. O referendo foi boicotado por 6 das 15 […]\nO post O fim da URSS: povo disse não — mas foi ignorado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/fim-da-urss-o-povo-disse-nao-mas-foi-ignorado/",
           "publishedOn": "2026-03-17T17:20:31.000Z",
-          "wordCount": 5316,
-          "title": "O fim da URSS: povo disse não",
+          "wordCount": 5317,
+          "title": "O fim da URSS: povo disse não — mas foi ignorado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/rian_archive_422801_boris_yeltsin.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249561",
-          "author": "Tatiana Carlotti",
-          "description": "O governo do Iraque confirmou nesta terça-feira (17/03) que está em negociação com o Irã para viabilizar a passagem dos petroleiros iraquianos pelo Estreito de Ormuz. A região está fechada pelas forças iranianas desde o início da guerra dos Estados Unidos e de Israel contra o país, iniciada em 28 de fevereiro. Um quinto de […]\nO post Irã e Iraque negociam passagem de petroleiros pelo Estreito de Ormuz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-e-iraque-negociam-passagem-de-petroleiros-pelo-estreito-de-ormuz/",
-          "publishedOn": "2026-03-17T16:40:29.000Z",
-          "wordCount": 2830,
-          "title": "Irã e Iraque negociam passagem de petroleiros pelo Estreito de Ormuz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/captura-de-tela-2026-02-10-102903.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249588",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente colombiano, Gustavo Petro, denunciou nesta segunda-feira (16/03) que seu país foi alvo de bombardeios vindos do Equador. A declaração foi dada após a descoberta de uma bomba lançada perto da fronteira entre os dois países. “Uma bomba lançada de um avião apareceu. Vamos investigar isso da maneira correta, mas na fronteira com o […]\nO post Petro denuncia ataque a bomba contra Colômbia lançado do Equador: ‘vamos investigar’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petro-denuncia-ataque-a-bomba-contra-colombia-lancado-do-equador-vamos-investigar/",
-          "publishedOn": "2026-03-17T16:05:34.000Z",
-          "wordCount": 3348,
-          "title": "Petro denuncia ataque a bomba contra Colômbia lançado do Equador: ‘vamos investigar’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/54580127380_c24b02b87a_k.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249570",
-          "author": "Rocio Paik",
-          "description": "O Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) iraniano lançou nesta terça-feira (17/03) mais uma onda de ataques contra alvos estratégicos em Israel, incluindo a capital Tel Aviv. Durante a campanha de bombardeios, a agência estatal Tasnim informou que mísseis atingiram as proximidades do escritório do primeiro-ministro israelense Benjamin Netanyahu. Segundo a […]\nO post Mísseis iranianos atingem região próxima ao escritório de Netanyahu, diz agência apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/misseis-iranianos-atingem-regiao-proxima-ao-escritorio-de-netanyahu-diz-agencia/",
-          "publishedOn": "2026-03-17T15:40:39.000Z",
-          "wordCount": 2980,
-          "title": "Mísseis iranianos atingem região próxima ao escritório de Netanyahu, diz agência",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404122611543788536058524.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249571",
-          "author": "Tabitha Ramalho",
-          "description": "Joseph Kent, o chefe do Centro Nacional de Contraterrorismo dos Estados Unidos, anunciou nesta terça-feira (17/03) a renúncia ao cargo por críticas à conduta do governo Trump na guerra contra o Irã. Através de uma publicação no X, ele declarou que não pode em “sã consciência apoiar a guerra em curso no Irã”. Acrescentando que […]\nO post EUA: chefe do Contraterrorismo renuncia em protesto contra guerra de Trump no Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-chefe-do-contraterrorismo-renuncia-em-protesto-contra-guerra-de-trump-no-ira/",
-          "publishedOn": "2026-03-17T15:08:41.000Z",
-          "wordCount": 3115,
-          "title": "EUA: chefe do Contraterrorismo renuncia em protesto contra guerra de Trump no Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/official_portrait_of_the_director_of_the_national_counterterrorism_center_joe_kent-e1773762820849.jpg"
         }
       ]
     },
@@ -712,6 +707,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=222989",
+          "author": "Giovanna Maria",
+          "description": "Em perfeito conluio com o latifúndio e o “trabalho análogo a escravidão”, isso se soma ao que vem sendo denunciado como \"apagão\" por auditores fiscais.",
+          "link": "https://anovademocracia.com.br/rs-apos-trabalho-semi-servil-nos-olivais-guaranis-sao-abandonados-em-rodoviaria-de-pelotas-pelo-latifundio/",
+          "publishedOn": "2026-03-17T22:00:00.000Z",
+          "wordCount": null,
+          "title": "RS: Após trabalho semi-servil nos olivais, Guaranis são abandonados em rodoviária de Pelotas pelo latifúndio",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223013",
           "author": "Redação de AND",
@@ -801,16 +806,6 @@
           "wordCount": null,
           "title": "RS: Camponesas ocupam 400 hectares de terras do latifúndio em São Gabriel",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222944",
-          "author": "Giovanna Maria",
-          "description": "A atividade expressou solidariedade à luta do povo palestino e denunciou a ocupação israelense da Palestina e a política imperialista do Estados Unidos no Oriente Médio.",
-          "link": "https://anovademocracia.com.br/ato-pelo-dia-de-al-quds-em-brasilia-conta-com-embaixada-do-ira-e-organizacoes-populares-e-reafirma-solidariedade-a-resistencia-palestina/",
-          "publishedOn": "2026-03-16T17:44:02.000Z",
-          "wordCount": null,
-          "title": "Ato pelo Dia de Al-Quds em Brasília conta com embaixada do Irã e Cuba e Liga Anti-Imperialista; reafirma solidariedade à resistência palestina",
-          "imageUrl": null
         }
       ]
     },
@@ -857,6 +852,36 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3179508",
+          "author": "Antonio Martins",
+          "description": "Outras Palavras e FESPSP debatem, em seminários,  saídas para a crise brasileira. Ideia é vasculhar os escombros de quatro décadas de neoliberalismo, compreender por que o horizonte político se desfez e reunir elementos para uma alternativa\nThe post Para pensar, de novo, um projeto de país appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/para-pensar-de-novo-projeto-de-pais/",
+          "publishedOn": "2026-03-17T23:02:47.000Z",
+          "wordCount": 4921,
+          "title": "Para pensar, de novo, um projeto de país",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17200308/Brasil.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3179484",
+          "author": "Alfred W. McCoy",
+          "description": "Se a Crise de Suez, em 1956, marcou o fim do império britânico, talvez a aventura de Washington no Oriente Médio seja sintoma de seu declínio. Tudo saiu ao contrário do planejado. Talvez, no futuro, Trump seja lembrado como o maníaco que afundou os próprios EUA…  \nThe post Seria a guerra no Irã o começo do fim do Império? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/seria-a-guerra-no-ira-o-comeco-do-fim-do-imperio/",
+          "publishedOn": "2026-03-17T22:25:46.000Z",
+          "wordCount": 5760,
+          "title": "Seria a guerra no Irã o começo do fim do Império?",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17192540/Screenshot-2026-03-17-at-19-24-20-mw-694.webp-imagem-WEBP-694-%C3%97-462-pixels.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3179486",
+          "author": "Paulo Kliass",
+          "description": "Aumento de 12% no preço do diesel é ilógico. Autossuficiente, Brasil não está  exposto à especulação do mercado petroleiro com a guerra no Irã. Em vez das fortunas pagas aos acionistas, governo deveria restabelecer natureza pública da estatal e reestatizar a BR Distribuidora\nThe post Retomar a Petrobras para o Brasil appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/retomar-a-petrobras-para-o-brasil/",
+          "publishedOn": "2026-03-17T22:21:33.000Z",
+          "wordCount": 4279,
+          "title": "Retomar a Petrobras para o Brasil",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17192101/petroleo.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3179476",
           "author": "Antônio Celestino",
           "description": "“Morar no Centro” promete mitigar o grave déficit habitacional na capital. Modelo é distorcido: mercado tem vastos privilégios para lucrar, com dinheiro e patrimônios públicos, e prefeitura assume todos os riscos. Não houve debate social e gentrificação pode se perpetuar… \nThe post Recife: Quando a habitação social vai parar na Bolsa appeared first on Outras Palavras.",
@@ -892,7 +917,7 @@
           "description": "A sete meses das eleições, faltam horizonte e projeto em tema central. Do  encarceramento em massa à impunidade dos crimes policiais; da militarização aos salários arrochados dos PMs  – tudo precisa ser revisto. Eis uma proposta de roteiro\nThe post Segurança: Para tirar a esquerda do labirinto appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/seguranca-para-tirar-a-esquerda-do-labirinto/",
           "publishedOn": "2026-03-16T22:55:50.000Z",
-          "wordCount": 5926,
+          "wordCount": 6039,
           "title": "Segurança: Para tirar a esquerda do labirinto",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16195200/260316-Riel01b-1.jpg"
         },
@@ -925,36 +950,6 @@
           "wordCount": 4902,
           "title": "Onde você guarda o seu estuprador?",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16180658/Estate-of-William-Heick1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179381",
-          "author": "Caique Azael",
-          "description": "Há oito anos, brutal execução da então vereadora expôs um Brasil misógino e racista. Em resposta, projeto de sociedade que ela representava inspirou novas lideranças negras e periféricas. Justiça do caso dá força a sua memória, que tornou-se símbolo de um outro mundo possível\nThe post Wikifavelas: As sementes de Marielle Franco appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/feminismos/wikifavelas-as-sementes-de-marielle-franco/",
-          "publishedOn": "2026-03-16T20:47:38.000Z",
-          "wordCount": 5074,
-          "title": "Wikifavelas: As sementes de Marielle Franco",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/03/photo_5026256319794580420_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179374",
-          "author": "Marcio Pochmann",
-          "description": "Big techs tornaram-se capazes de oferecer a cada pessoa uma imagem distinta do que é a realidade comum e de fragmentar o espaço da política. A luta para reverter tal desastre exige dados estatísticos capazes de expressar a vida social em seus múltiplos aspectos\nThe post Pode o plano IBGE 2030 resistir à corrosão da esfera pública? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/pode-o-plano-ibge-2030-resistir-a-corrosao-da-esfera-publica/",
-          "publishedOn": "2026-03-16T18:50:09.000Z",
-          "wordCount": 3850,
-          "title": "Pode o plano IBGE 2030 resistir à corrosão da esfera pública?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16154830/photo_5026468306495409085_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179315",
-          "author": "Glauco Faria",
-          "description": "Radiografia do que as manchetes fustigam – e ocultam – no caso. O ardil do “combate à corrupção” retorna: vazamentos e ilações podem conturbar o ano eleitoral. E dão munição ao bolsonarismo, que tenta atacar STF, desgastar governo e implodir pautas como o fim da escala 6x1\nThe post Banco Master: As táticas da Lava Jato revisitadas appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/banco-master-taticas-da-lava-jato-revisitadas/",
-          "publishedOn": "2026-03-13T22:54:05.000Z",
-          "wordCount": 6317,
-          "title": "Banco Master: As táticas da Lava Jato revisitadas",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/13195617/photo_5017503919474675142_y-2.jpg"
         }
       ]
     },
@@ -1039,16 +1034,6 @@
           "wordCount": 14549,
           "title": "Marx e o quarto “golpe no narcisismo humano”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-9.png?fit=1200%2C779&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=61066",
-          "author": "Boitempo",
-          "description": "O que um adágio latino, a extrema direita, doenças tropicais, os títulos do Corinthians, duas canções de Chico Buarque e a cena teatral carioca podem ter em comum? Por uma série de associações, Mouzar Benedito revela afinidades eletivas (ou não) entre coisas tão distintas.",
-          "link": "https://blogdaboitempo.com.br/2026/03/13/cultura-inutil-de-parabelo-na-mao-onde-o-integralista-venceu-fiel-torcida-e-teatro-rebolado/",
-          "publishedOn": "2026-03-13T11:00:00.000Z",
-          "wordCount": 12437,
-          "title": "Cultura inútil | De parabelo na mão, onde o integralista venceu, fiel torcida e teatro rebolado",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-9.png?fit=1200%2C676&ssl=1"
         }
       ]
     }
