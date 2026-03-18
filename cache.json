@@ -21,9 +21,9 @@
           "description": "A partir de denúncias anônimas de funcionários das cozinhas, nossa reportagem destaca o assédio moral constante e más condições de trabalho.",
           "link": "https://jornalofuturo.com.br/artigo/itA86a-exploracao-brutal-nas-cozinhas-do-sesc-exige-resposta-organizada-dos-trabalhadores",
           "publishedOn": "2026-03-17T21:00:00.000Z",
-          "wordCount": 3382,
+          "wordCount": 3388,
           "title": "Exploração brutal nas cozinhas do SESC exige resposta organizada dos trabalhadores",
-          "imageUrl": "https://media.jornalofuturo.com.br/cozinhasesc-730x410.jpg"
+          "imageUrl": "https://media.jornalofuturo.com.br/SESC_Pompeia_-_S%C3%83%C2%A3o_Paulo_-_20220726143144-960x720.jpg"
         },
         {
           "id": "1r2AJI",
@@ -434,7 +434,7 @@
           "description": "Uma carta mostra representantes dos maiores estúdios americanos alimentando de informações um importante general brasileiro nos anos de chumbo\nO post O agente secreto de Hollywood que conversava com a ditadura no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/14/o-agente-secreto-de-hollywood-que-conversava-com-a-ditadura-no-brasil/",
           "publishedOn": "2026-03-14T10:00:00.000Z",
-          "wordCount": 3728,
+          "wordCount": 3758,
           "title": "O agente secreto de Hollywood que conversava com a ditadura no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-2.png",
@@ -450,6 +450,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=159150",
+          "author": "Catarina Duarte",
+          "description": "Jhonnatan Silva Barbosa espancou e asfixiou Gabriel da Silva Nascimento ao acusá-lo injustamente de ter furtado o próprio carro em Açailândia, no interior do Maranhão. Julgamento havia sido adiado diversas vezes. Réu está agora foragido\nO conteúdo Réu é condenado quatro anos após tentar matar jovem negro, mas foge do fórum Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/reu-e-condenado-quatro-anos-apos-tentar-matar-jovem-negro-mas-foge-do-forum/",
+          "publishedOn": "2026-03-18T18:49:59.000Z",
+          "wordCount": 5392,
+          "title": "Réu é condenado quatro anos após tentar matar jovem negro, mas foge do fórum",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2025/06/Jhonnatan-agrediu-Gabriel-com-chutes-e-tentou-asfixia-lo-acusando-o-injustamente-de-furto.webp"
+        },
         {
           "id": "https://ponte.org/?p=159133",
           "author": "Mariana Rosetti",
@@ -495,6 +505,76 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=249746",
+          "author": "Rocio Paik",
+          "description": "A presidente interina da Venezuela, Delcy Rodríguez, anunciou nesta quarta-feira (18/03) a nomeação do general Gustavo González López como novo ministro da Defesa do país, substituindo Vladimir Padrino López, que ocupava o cargo desde 2014 e era considerado peça-chave do governo chavista dentro da cúpula militar. “Informo hoje ao país que nomeei o general Gustavo […]\nO post Delcy Rodriguez substitui ministro da Defesa na Venezuela apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-substitui-ministro-da-defesa-na-venezuela/",
+          "publishedOn": "2026-03-18T20:15:59.000Z",
+          "wordCount": 3209,
+          "title": "Delcy Rodriguez substitui ministro da Defesa na Venezuela",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-18-170912.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249744",
+          "author": "Pedro Marin",
+          "description": "Aqueles familiarizados com as grandes empresas de tecnologia voltadas para o desenvolvimento de IA, especialmente na área militar e de governança, devem conhecer a empresa Palantir. O nome dessa empresa é diretamente inspirado no universo de J.R.R. Tolkien (escritor de ‘O Hobbit’ e ‘Senhor dos Anéis’, entre outros clássicos de fantasia), onde os Palantíri (no […]\nO post Alex Karp: de aluno em Frankfurt a CEO da Palantir apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/alex-karp-de-aluno-em-frankfurt-a-ceo-da-palantir/",
+          "publishedOn": "2026-03-18T20:06:21.000Z",
+          "wordCount": 5524,
+          "title": "Alex Karp: de aluno em Frankfurt a CEO da Palantir",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/palantir-alex-karp.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249725",
+          "author": "Rocio Paik",
+          "description": "No âmbito da escalada de tensões no Oriente Médio, um novo pedido do presidente norte-americano Donald Trump reacendeu o debate sobre os limites da autonomia estratégica da Coreia do Sul. A recente solicitação para que Seul envie navios de guerra ao Estreito de Ormuz, conforme o professor de Relações Internacionais, Yoo Inseok, do Departamento de […]\nO post ‘Ajudar Trump em Ormuz acarreta mais riscos do que vantagens à Coreia do Sul’, avalia especialista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/ajudar-trump-em-ormuz-acarreta-mais-riscos-do-que-vantagens-a-coreia-do-sul-avalia-especialista/",
+          "publishedOn": "2026-03-18T19:40:49.000Z",
+          "wordCount": 4348,
+          "title": "‘Ajudar Trump em Ormuz acarreta mais riscos do que vantagens à Coreia do Sul’, avalia especialista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/s6pu4l6qsfpo5ektsqiff3t4aq.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249735",
+          "author": "Raissa Neves",
+          "description": "Após sofrer ataques contra infraestruturas energéticas do país, o Irã emitiu um alerta, nesta terça-feira (18), para evacuação de cinco instalações de processamento de petróleo e gás no Catar, na Arábia Saudita, e nos Emirados Árabes Unidos. Os danos a esses complexos podem aprofundar a crise no mercado global. “Esses locais agora são alvos legítimos […]\nO post Irã anuncia retaliação contra petrolíferas no Golfo Pérsico após ataques dos EUA e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-alerta-sobre-possivel-ataque-a-instalacoes-de-petroleo-no-golfo/",
+          "publishedOn": "2026-03-18T19:40:15.000Z",
+          "wordCount": 3276,
+          "title": "Irã anuncia retaliação contra petrolíferas no Golfo Pérsico após ataques dos EUA e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/zbynek-burival-grmwvnvssdu-unsplash-1-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249727",
+          "author": "Victor Farinelli",
+          "description": "Parlamentares, dirigentes sindicais e representantes estudantis brasileiros participarão de uma caravana internacional de solidariedade a Cuba que pretende levar mais de 20 toneladas produtos para ajuda humanitária ao país caribenho. A delegação integra o Nuestra América Convoy a Cuba, iniciativa que reunirá comitivas de mais de uma dezena de países distribuídos em três continentes. A […]\nO post Caravana brasileira levará mais de 20 toneladas em ajuda humanitária a Cuba apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/caravana-brasileira-levara-mais-de-20-toneladas-em-ajuda-humanitaria-a-cuba/",
+          "publishedOn": "2026-03-18T19:00:56.000Z",
+          "wordCount": 3084,
+          "title": "Caravana brasileira levará mais de 20 toneladas em ajuda humanitária a Cuba",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/convoy.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249713",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério da Saúde do Líbano informou nesta quarta-feira (18/03) que o número de mortos em decorrência dos ataques aéreos israelenses ao amanhecer nas áreas de Basta e Zokak al-Blat, em Beirute, subiu para 10, com 27 feridos. Nesse contexto, a emissora Al-Manar, afiliada ao Hezbollah, informou que o diretor de sua programação política e […]\nO post Bombardeio israelense em Beirute mata diretor de emissora libanesa e esposa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/bombardeio-israelense-em-beirute-mata-diretor-de-emissora-libanesa-e-esposa/",
+          "publishedOn": "2026-03-18T18:20:17.000Z",
+          "wordCount": 2947,
+          "title": "Bombardeio israelense em Beirute mata diretor de emissora libanesa e esposa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/e45f8445-3a48-4d3d-b754-84479359ec33.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=249718",
+          "author": "Victor Farinelli",
+          "description": "Durante discurso em evento realizado em Bogotá, nesta terça-feira (17/03), o presidente da Colômbia, Gustavo Petro, criticou os governos da América Latina que, segundo ele, “pararam de falar com o mundo, porque estão de joelhos” para os Estados Unidos. Na declaração, Petro enfatizou que, segundo ele, a América Latina “precisa reconstruir eixos multilaterais que falem […]\nO post Petro questiona países da América Latina por estarem ‘de joelhos’ aos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-questiona-paises-da-america-latina-por-estarem-de-joelhos-aos-eua/",
+          "publishedOn": "2026-03-18T17:40:04.000Z",
+          "wordCount": 3068,
+          "title": "Petro questiona países da América Latina por estarem ‘de joelhos’ aos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/petro-1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=249700",
           "author": "Tatiana Carlotti",
           "description": "A economia chinesa iniciou 2026 superando as expectativas de crescimento e impulsionada pela produção industrial e pela recuperação parcial do consumo e do investimentos. Os dados são do Departamento Nacional de Estatística da China (NBS) e foram divulgados na última segunda-feira (16/03). Com base nos números de janeiro e fevereiro, o levantamento indica começo de ano […]\nO post China inicia 2026 com crescimento acima do esperado apareceu primeiro em Opera Mundi.",
@@ -510,7 +590,7 @@
           "description": "O presidente colombiano, Gustavo Petro, denunciou na terça-feira (17/03) que as operações aéreas militares realizadas pelo Equador na região da fronteira deixaram um saldo de 27 corpos carbonizados. O líder colombiano classificou como “inconcebível” a posição de seu homólogo equatoriano, Daniel Noboa, que minutos antes negara qualquer incursão em território colombiano. Em sua conta na […]\nO post Petro denuncia bombardeio do Equador em território colombiano: ’27 corpos carbonizados’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/petro-denuncia-bombardeio-do-equador-em-territorio-colombiano-27-corpos-carbonizados/",
           "publishedOn": "2026-03-18T16:10:35.000Z",
-          "wordCount": 3358,
+          "wordCount": 3345,
           "title": "Petro denuncia bombardeio do Equador em território colombiano: ’27 corpos carbonizados’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hdn012dxwaacoj7.jpg"
         },
@@ -520,79 +600,9 @@
           "description": "O governo de direita do presidente Daniel Noboa continua avançando sua agenda política e econômica neoliberal. Nas últimas semanas, o ministro do Trabalho Harold Burbano anunciou que o Acordo Ministerial MDT.2026-059 foi aprovado, permitindo um aumento na jornada de trabalho por meio de acordos que tornam as condições de trabalho mais flexíveis no Equador. Por […]\nO post Trabalhadores no Equador protestam contra jornada de trabalho de 10 horas diárias apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/trabalhadores-no-equador-protestam-contra-jornada-de-trabalho-de-10-horas-diarias/",
           "publishedOn": "2026-03-18T15:30:44.000Z",
-          "wordCount": 4567,
+          "wordCount": 4554,
           "title": "Trabalhadores no Equador protestam contra jornada de trabalho de 10 horas diárias",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/andres-quishpe-quito-contra-noboa-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249694",
-          "author": "Rocio Paik",
-          "description": "Ao menos três palestinos, incluindo uma criança, foram mortos na terça-feira (17/03) em um ataque aéreo israelense na Faixa de Gaza, informou o Crescente Vermelho Palestino, acrescentando que a ofensiva atingiu um veículo em Mawasi, uma área de acampamento de tendas localizada na região oeste de Khan Younis, sul do enclave. Outras 12 pessoas ficaram […]\nO post Em meio à guerra contra Irã, Israel mata três palestinos no sul de Gaza apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/em-meio-a-guerra-contra-ira-israel-mata-tres-palestinos-no-sul-de-gaza/",
-          "publishedOn": "2026-03-18T14:50:40.000Z",
-          "wordCount": 3007,
-          "title": "Em meio à guerra contra Irã, Israel mata três palestinos no sul de Gaza",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/damage_in_gaza_strip_during_the_october_2023_-_29-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249692",
-          "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro da Hungria, Viktor Orbán, voltou a elevar o tom contra o presidente ucraniano, Volodymyr Zelensky, ao condicionar o apoio financeiro da União Europeia a Kiev à retomada do trânsito de petróleo russo pelo oleoduto Druzhba. Zelensky busca a aprovação pelo bloco europeu de um empréstimo de 90 bilhões e euros para a reconstrução […]\nO post Premiê da Hungria adverte Zelensky: ‘sem petróleo, não há dinheiro’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/premie-da-hungria-adverte-zelenski-sem-petroleo-nao-ha-dinheiro/",
-          "publishedOn": "2026-03-18T14:06:58.000Z",
-          "wordCount": 3085,
-          "title": "Premiê da Hungria adverte Zelensky: ‘sem petróleo, não há dinheiro’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/fc77c191-185e-473d-a539-fd2465b1ddb0.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249680",
-          "author": "Tabitha Ramalho",
-          "description": "Há 50 anos, em 18 de março de 1976, desaparecia em Buenos Aires o pianista brasileiro Francisco Tenório Cerqueira Júnior, mais conhecido como Tenorinho. Ele era um dos ícones do samba jazz e da bossa nova e despontava como uma das grandes promessas de sua geração. Tenorinho estava na capital argentina acompanhando Vinícius de Moraes […]\nO post Crimes da ditadura: 50 anos do assassinato de Tenorinho apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/crimes-da-ditadura-50-anos-do-assassinato-de-tenorinho/",
-          "publishedOn": "2026-03-18T13:28:28.000Z",
-          "wordCount": 5054,
-          "title": "Crimes da ditadura: 50 anos do assassinato de Tenorinho",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tenorio-junior.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249679",
-          "author": "Tatiana Carlotti",
-          "description": "Uma cerimônia fúnebre de grandes proporções foi realizada nesta quarta-feira (18/03) em Teerã para  prestar a última homenagem ao alto oficial de segurança, Ali Larijani, e ao comandante das forças Basij, Gholam Reza Soleimani. Eles foram mortos em ataques aéreos nesta terça-feira (17/03), no contexto da guerra contra o Irã iniciada pelos Estados Unidos e […]\nO post Multidão acompanha funeral de líderes iranianos mortos em Teerã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/multidao-acompanha-funeral-de-lideres-iranianos-mortos-em-teera/",
-          "publishedOn": "2026-03-18T12:52:13.000Z",
-          "wordCount": 2863,
-          "title": "Multidão acompanha funeral de líderes iranianos mortos em Teerã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/abdolrahman-rafati-tasnim.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249658",
-          "author": "Tabitha Ramalho",
-          "description": "A presidente interina da Venezuela, Delcy Rodríguez, declarou esta quarta-feira (18/03) como “dia nacional de júbilo”, para que os venezuelanos pudessem comemorar o título da seleção de Beisebol no VI Clássico Mundial de Beisebol. Ao conquistar seu primeiro título, o time derrotou os Estados Unidos por 3 a 2 na grande final, disputada no LoanDepot […]\nO post Venezuela vence EUA e é campeã mundial de beisebol pela primeira vez apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/venezuela-vence-eua-e-e-campea-mundial-de-beisebol-pela-primeira-vez/",
-          "publishedOn": "2026-03-18T11:27:17.000Z",
-          "wordCount": 2858,
-          "title": "Venezuela vence EUA e é campeã mundial de beisebol pela primeira vez",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-18-at-08.05.22.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249659",
-          "author": "Tatiana Carlotti",
-          "description": "*Atualizada às 11h50 O ministro da Defesa de Israel, Israel Katz, afirmou que o ministro dos Serviços de Informações e Segurança do Irã, Esmail Khatib, foi assassinado em um ataque israelense na noite desta terça-feira (17/03). A informação foi confirmada, horas depois, pelo presidente iraniano, Masoud Pezeshkian. “O assassinato covarde dos meus queridos colegas Esmail […]\nO post Irã confirma morte de ministro da Inteligência por ataques israelenses apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/israel-diz-ter-matado-ministro-da-inteligencia-iraniano-teera-nao-confirma/",
-          "publishedOn": "2026-03-18T11:16:26.000Z",
-          "wordCount": 3027,
-          "title": "Irã confirma morte de ministro da Inteligência por ataques israelenses",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/ashtiani-khatib-rahimi_2024_cropped_2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=249649",
-          "author": "Tatiana Carlotti",
-          "description": "O assassinato de Ali Larijani, secretário do Conselho Supremo de Segurança Nacional do Irã, não irá abalar a estrutura política do país, afirmou o ministro das Relações Exteriores do Irã, Abbas Araghchi, em entrevista à Al Jazeera nesta quarta-feira (18/03). “Não sei por que os americanos e os israelenses ainda não entenderam este ponto: a […]\nO post Estrutura política do Irã permanece sólida, afirma chanceler iraniano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/estrutura-politica-do-ira-permanece-solida-afirma-chanceler-iraniano/",
-          "publishedOn": "2026-03-18T10:25:36.000Z",
-          "wordCount": 3564,
-          "title": "Estrutura política do Irã permanece sólida, afirma chanceler iraniano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1404071317193555634254064-e1770295286150.webp"
         }
       ]
     },
@@ -607,6 +617,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223037",
+          "author": "Giovanna Maria",
+          "description": "Andrea Marins Dias (61) voltava para sua casa, após visitar seus pais, quando policiais militares alvejaram a mulher, que morreu no local.",
+          "link": "https://anovademocracia.com.br/pms-assassinam-medica-em-cascadura/",
+          "publishedOn": "2026-03-18T20:10:16.000Z",
+          "wordCount": null,
+          "title": "RJ: PMs assassinam médica  na Zona Norte do RJ; crimes das forças de repressão só se acumulam",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223034",
           "author": "Giovanna Maria",
@@ -696,16 +716,6 @@
           "wordCount": null,
           "title": "Acre lidera taxa de feminicídios no país",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=222978",
-          "author": "Giovanna Maria",
-          "description": "Durante a marcha, representantes de movimentos, diretórios acadêmicos e organizações denunciaram efusivamente a violência sexual e doméstica constantes que sofrem as mulheres.",
-          "link": "https://anovademocracia.com.br/rs-grande-ato-politico-denuncia-a-opressao-da-mulher-em-passo-fundo-no-8-de-marco/",
-          "publishedOn": "2026-03-16T21:59:27.000Z",
-          "wordCount": null,
-          "title": "RS: Grande Ato Político denúncia a opressão da mulher em Passo Fundo no 8 de Março",
-          "imageUrl": null
         }
       ]
     },
@@ -732,12 +742,52 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3179566",
+          "author": "Fabiana Cunha, Henrique Pinto Coelho, Raquel Rachid e Hernán Poblete",
+          "description": "Startup que tem o Brasil como laboratório de monetização de dados propõe recompensar cidadãos por informações privadas. Mas onde ficará o real lucro? Que relações tem com o rentismo? Usando infraestrutura pública, como fica a soberania?\nThe post DrumWave: Uma agenda ainda obscura appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/drumwave-uma-agenda-obscura/",
+          "publishedOn": "2026-03-18T20:18:13.000Z",
+          "wordCount": 3785,
+          "title": "DrumWave: Uma agenda ainda obscura",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/18172003/photo_5033246357593983858_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3179578",
+          "author": "Sinésio Ferraz Bueno",
+          "description": "A humanidade transformada em uma mente coletiva: metáfora de comunhão global ou utopia totalitária? Série suscita debates filosóficos sobre a condição humana e o livre-arbítrio. E uma heroína nietzscheana sugere que a vida está, também, no acaso, sujeita a contingência e dores\nThe post Pluribus e o pior dos mundos possíveis appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/pluribus-e-o-pior-dos-mundos-possiveis/",
+          "publishedOn": "2026-03-18T20:00:48.000Z",
+          "wordCount": 4959,
+          "title": "Pluribus e o pior dos mundos possíveis",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/18165834/photo_5033246357593983856_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3179482",
+          "author": "Edgar Silva dos Anjos",
+          "description": "Nos últimos quatro anos, esquerda operou sob regime de emergência. Frentes amplas são decisivas em momentos críticos, mas falta presença territorial e traduzir programas em efeitos sentidos. Formar maiorias requer sustentar projetos para além de ciclo de governo\nThe post 2026: Por que não basta apenas <i>vencer</i> eleições  appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/2026-por-que-nao-basta-apenas-vencer-eleicoes/",
+          "publishedOn": "2026-03-18T19:23:30.000Z",
+          "wordCount": 3400,
+          "title": "2026: Por que não basta apenas vencer eleições",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/18162245/Screenshot-2026-03-18-at-16-22-35-_127431770_gettyimages-1437568688.jpg-imagem-JPEG-976-%C3%97-549-pixels.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3179554",
+          "author": "Celso Pinto de Melo",
+          "description": "Superar a crise do ensino brasileiro não será resultado espontâneo de reformas episódicas ou disputas fragmentadas. Compromisso público de longo prazo, exige a mesma relevância que a transição energética ou  soberania digital. Eis um plano, com horizonte para 2050\nThe post Reconhecer a Educação como <i>missão nacional</i> appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outrapolitica/reconhecer-a-educacao-como-missao-nacional/",
+          "publishedOn": "2026-03-18T19:08:26.000Z",
+          "wordCount": 4014,
+          "title": "Reconhecer a Educação como missão nacional",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/18135451/photo_5030843340571741385_w.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3179508",
           "author": "Antonio Martins",
           "description": "Outras Palavras e FESPSP debatem, em seminários,  saídas para a crise brasileira. Ideia é vasculhar os escombros de quatro décadas de neoliberalismo, compreender por que o horizonte político se desfez e reunir elementos para uma alternativa\nThe post Para pensar, de novo, um projeto de país appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/para-pensar-de-novo-projeto-de-pais/",
           "publishedOn": "2026-03-17T23:02:47.000Z",
-          "wordCount": 4918,
+          "wordCount": 4917,
           "title": "Para pensar, de novo, um projeto de país",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17200308/Brasil.jpg"
         },
@@ -777,7 +827,7 @@
           "description": "Historicamente precarizada, classe trabalhadora brasileira enfrenta mutações estruturais com novas tecnologias. Há riscos e oportunidades. Órgão recém-criado propõe acompanhar transformações em tempo real e lutar contra novas e antigas violações\nThe post Os porquês do Observatório do Trabalho Decente appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/os-porques-do-observatorio-do-trabalho-decente/",
           "publishedOn": "2026-03-17T19:08:47.000Z",
-          "wordCount": 4255,
+          "wordCount": 4252,
           "title": "Os porquês do Observatório do Trabalho Decente",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17160819/Construcao-civil.jpg"
         },
@@ -790,46 +840,6 @@
           "wordCount": 4836,
           "title": "Como a Igreja interfere nos direitos reprodutivos",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/17153554/Screenshot-2026-03-17-at-15-35-48-Telegram-Web.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179408",
-          "author": "Luiz Eduardo Soares",
-          "description": "A sete meses das eleições, faltam horizonte e projeto em tema central. Do  encarceramento em massa à impunidade dos crimes policiais; da militarização aos salários arrochados dos PMs  – tudo precisa ser revisto. Eis uma proposta de roteiro\nThe post Segurança: Para tirar a esquerda do labirinto appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/seguranca-para-tirar-a-esquerda-do-labirinto/",
-          "publishedOn": "2026-03-16T22:55:50.000Z",
-          "wordCount": 6039,
-          "title": "Segurança: Para tirar a esquerda do labirinto",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16195200/260316-Riel01b-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179403",
-          "author": "Thiago Gama",
-          "description": "Professor provoca: grande sintoma da crise política do Brasil é a perda dos “afetos democráticos”, hoje sequestrados pelo ódio. Mas, quando a desconfiança impera na sociedade, a saída passa por políticas públicas concretas, como a taxação dos super-ricos\nThe post Como frear a fúria destrutiva em 2026? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/como-frear-a-furia-destrutiva-em-2026/",
-          "publishedOn": "2026-03-16T22:43:40.000Z",
-          "wordCount": 7613,
-          "title": "Como frear a fúria destrutiva em 2026?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16194306/050-053_Entrev-Janine_308-0-1140.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179390",
-          "author": "Sara Goes",
-          "description": "O drama clínico do ex-presidente vai além da medicina. Seu corpo e o projeto político decadente do clã passam a funcionar do mesmo jeito: contaminados pelo próprio excesso. E a viabilidade eleitoral de seu herdeiro cresce das entranhas em decomposição do pai\nThe post O último refluxo de Jair appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/o-ultimo-refluxo-de-jair/",
-          "publishedOn": "2026-03-16T21:41:16.000Z",
-          "wordCount": 3520,
-          "title": "O último refluxo de Jair",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16183930/Screenshot-2026-03-16-at-18-39-23-Adicionar-post-%E2%80%B9-Outras-Palavras-%E2%80%94-WordPress.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3179391",
-          "author": "Danú Gontijo",
-          "description": "“Mandato da masculinidade” torna homens suscetíveis a praticar violência.  Gozo não é sexual; é de poder. E o machismo cotidiano é a argamassa do estupro. O silêncio e o “passar de pano” são onde se nutrem as violências sistemáticas contra as mulheres\nThe post Onde você guarda o seu estuprador? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/feminismos/onde-voce-guarda-o-seu-estuprador/",
-          "publishedOn": "2026-03-16T21:07:05.000Z",
-          "wordCount": 4902,
-          "title": "Onde você guarda o seu estuprador?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/16180658/Estate-of-William-Heick1.jpg"
         }
       ]
     },
@@ -888,10 +898,10 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=62718",
           "author": "Boitempo",
-          "description": "Ronaldo Tadeu: \"Assim, o que Marx e os marxistas – esses circunstancialmente, dado a presença de diversidades incontáveis de marxismos, autores e autoras filiados a ele – querem dizer quando recorrem à noção de materialidade? Para  além dos 100 volumes da obra completa de Marx e de Engels no projeto MEGA, podem-se citar a social-democracia alemã das origens, os comunistas italianos, Althusser, a Teoria Crítica da primeira geração, Frantz Fanon, os historiadores ingleses, os estudos culturais da Escola de Birmigham, os marxistas negros de Trinidad y Tobago (C.R.L James à frente), os bolcheviques, o marxismo ocidental brasileiro, Mariátegui, os Panteras Negras, Angela Davis, a New Left Review, o bolchevismo negro do Harlem com Hubert Harrinson etc. – o que todos eles querem dizer quando recorrem à noção de materialidade?\"",
+          "description": "Ronaldo Tadeu: \"Assim, o que Marx e os marxistas – esses circunstancialmente, dado a presença de diversidades incontáveis de marxismos, autores e autoras filiados a ele – querem dizer quando recorrem à noção de materialidade?\"",
           "link": "https://blogdaboitempo.com.br/2026/03/18/o-debate-nego-bispo-ou-o-que-e-materialidade-no-marxismo/",
           "publishedOn": "2026-03-18T15:00:00.000Z",
-          "wordCount": 15981,
+          "wordCount": 15827,
           "title": "O Debate Nêgo Bispo: ou o que é materialidade “no marxismo”?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-10.png?fit=1200%2C972&ssl=1"
         },
