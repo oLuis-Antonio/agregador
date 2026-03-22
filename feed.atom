@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-22T02:55:12.685Z</id>
+    <id>urn:2026-03-22T05:21:39.997Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-03-22T02:55:12.685Z</updated>
+    <updated>2026-03-22T05:21:39.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Congresso americano cria mentira para ameaçar o Brasil]]></title>
+        <id>https://averdade.org.br/?p=60965</id>
+        <link href="https://averdade.org.br/2026/03/congresso-americano-cria-mentira-para-ameacar-o-brasil/"/>
+        <updated>2026-03-22T03:02:34.000Z</updated>
+        <summary type="html"><![CDATA[O projeto liderado pela USP ergue uma das maiores antenas de radioastronomia do mundo, colocando o Brasil na vanguarda do conhecimento cientifico mundial. No entanto para a ala mais reacionária do Congresso dos EUA, o progresso científico do chamado ‘Sul Global’ é visto como um perigo para a sua hegemonia tecnológica. É o imperialismo americano […]]]></summary>
+        <author>
+            <name>Clóvis Maia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trabalhadores da limpeza urbana sofrem com precarização e escala 6×1]]></title>
         <id>https://averdade.org.br/?p=60976</id>
@@ -814,37 +824,6 @@ O post Manifesto de lançamento da pré-candidatura de Rejane de Oliveira ao gov
         <link href="https://jornalofuturo.com.br/artigo/itA86a-exploracao-brutal-nas-cozinhas-do-sesc-exige-resposta-organizada-dos-trabalhadores"/>
         <updated>2026-03-17T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[A partir de denúncias anônimas de funcionários das cozinhas, nossa reportagem destaca o assédio moral constante e más condições de trabalho.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boletim Poder Popular Março/Abril 2026]]></title>
-        <id>69b977f901e7cd37414cfa2d</id>
-        <link href="https://opoderpopular.com.br/boletim-poder-popular-marco-abril-2026/"/>
-        <updated>2026-03-17T15:52:05.000Z</updated>
-        <summary type="html"><![CDATA[BOLETIM OPP MAR ABR 26 - Versão PDF
-
-
-BOLETIM OPP MAR ABR 26.pdf
-337 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-
-
-💡
-Acompanhe todas as mídias do nosso jornal: https://linktr.ee/jornalopoderpopular e contribua pelo]]></summary>
-        <author>
-            <name>O Poder Popular</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privatização da Reman desmonta o refino, encarece combustíveis e ameaça a energia no Amazonas]]></title>
-        <id>1r2AJI</id>
-        <link href="https://jornalofuturo.com.br/artigo/1r2AJI-privatizacao-da-reman-desmonta-o-refino-encarece-combustiveis-e-ameaca-a-energia-no-amazonas"/>
-        <updated>2026-03-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[O grupo privado que assumiu a refinaria atua principalmente na distribuição, não no refino. Refinar petróleo exige investimento contínuo, manutenção industrial e mão de obra qualificada. Em vez disso, a opção foi reduzir custos e maximizar lucros.]]></summary>
         <author>
             <name>Jornal o Futuro</name>
         </author>
