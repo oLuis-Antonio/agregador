@@ -84,16 +84,6 @@
           "wordCount": 1546,
           "title": "Lei do Pai Presente avança, mas é necessária a licença parental de 395 dias",
           "imageUrl": "https://media.jornalofuturo.com.br/licencaparental-855x570.jpg"
-        },
-        {
-          "id": "itA86a",
-          "author": null,
-          "description": "A partir de denúncias anônimas de funcionários das cozinhas, nossa reportagem destaca o assédio moral constante e más condições de trabalho.",
-          "link": "https://jornalofuturo.com.br/artigo/itA86a-exploracao-brutal-nas-cozinhas-do-sesc-exige-resposta-organizada-dos-trabalhadores",
-          "publishedOn": "2026-03-17T21:00:00.000Z",
-          "wordCount": 3388,
-          "title": "Exploração brutal nas cozinhas do SESC exige resposta organizada dos trabalhadores",
-          "imageUrl": "https://media.jornalofuturo.com.br/SESC_Pompeia_-_S%C3%83%C2%A3o_Paulo_-_20220726143144-960x720.jpg"
         }
       ]
     },
@@ -319,7 +309,7 @@
           "description": "Parte da grande imprensa tem tratado o senador do Partido Liberal com benevolência, mas o bolsonarismo moderado não existe – e ele é tão golpista quanto seu pai, Jair Bolsonaro\nO post Candidatura de Flávio Bolsonaro é ameaça real à democracia apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/21/candidatura-de-flavio-bolsonaro-e-ameaca-real-a-democracia/",
           "publishedOn": "2026-03-21T10:00:00.000Z",
-          "wordCount": 3503,
+          "wordCount": 3533,
           "title": "Candidatura de Flávio Bolsonaro é ameaça real à democracia",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/Header2.jpg",
@@ -334,7 +324,7 @@
           "description": "Tentativa de moderar a figura do senador, que tem altíssimo índice de rejeição, já está em curso. Agora, ele é simplesmente Flávio. Candidamente Flávio. Mimosamente Flávio.\nO post Flávio Bolsonaro perde sobrenome nas manchetes: a maquiagem da imprensa para suavizar o ‘Zero Um’ apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/20/flavio-bolsonaro-perde-sobrenome-nas-manchetes/",
           "publishedOn": "2026-03-20T11:00:00.000Z",
-          "wordCount": 4289,
+          "wordCount": 4259,
           "title": "Flávio Bolsonaro perde sobrenome nas manchetes: a maquiagem da imprensa para suavizar o ‘Zero Um’",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -415,12 +405,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250061",
+          "author": "Victor Farinelli",
+          "description": "“Quando a política entra pela porta da magistratura, a justiça sai pela janela”. A frase é de Piero Calamandrei, jurista, antifascista, um dos homens que redigiu a Constituição italiana de 1948. Neste fim de semana, quase 70 anos depois, a Itália vai às urnas para decidir se essa porta vai ser aberta. Neste domingo (22/03), […]\nO post Referendo sobre reforma judicial vira termômetro para governo de Meloni na Itália apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/referendo-sobre-reforma-judicial-vira-termometro-para-governo-de-meloni-na-italia/",
+          "publishedOn": "2026-03-22T10:00:22.000Z",
+          "wordCount": 5185,
+          "title": "Referendo sobre reforma judicial vira termômetro para governo de Meloni na Itália",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/ano.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250017",
           "author": "Tatiana Carlotti",
           "description": "O presidente dos Estados Unidos, Donald Trump, anunciou no dia 7 de março, ao lado de governantes de direita e extrema direita da América Latina, uma coalização militar voltada a combater o narcotráfico e o crime organizado. Intitulada “Escudo das Américas”, essa coalização prevê que as Forças Armadas estadunidenses realizem operações conjuntas com as forças […]\nO post ‘Escudo das Américas ameaça paz entre nações sul-americanas’, afirmam especialistas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/escudo-das-americas-reacende-temor-de-conflitos-na-america-do-sul-avaliam-especialistas/",
           "publishedOn": "2026-03-21T20:40:24.000Z",
-          "wordCount": 6603,
+          "wordCount": 6553,
           "title": "‘Escudo das Américas ameaça paz entre nações sul-americanas’, afirmam especialistas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/55138033951_7be8193bc2_k.jpg"
         },
@@ -450,7 +450,7 @@
           "description": "As forças iranianas lançaram neste sábado (21/03) um míssil balístico à cidade de Dimona, no sul de Israel, que abriga o Centro de Pesquisa Nuclear do Negev, principal instalação nuclear do regime sionista. A ofensiva, que deixou pelo menos 20 feridos conforme a imprensa local, ocorreu após Tel Aviv e Washington atacarem a usina de […]\nO post Irã atinge cidade israelense que abriga principal instalação nuclear do país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-atinge-cidade-israelense-que-abriga-principal-instalacao-nuclear-do-pais/",
           "publishedOn": "2026-03-21T19:00:06.000Z",
-          "wordCount": 2987,
+          "wordCount": 3037,
           "title": "Irã atinge cidade israelense que abriga principal instalação nuclear do país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-21-150647.png"
         },
@@ -460,7 +460,7 @@
           "description": "O conflito entre Estados Unidos e Israel contra o Irã entra na sua quarta semana, em uma dinâmica na qual as mulheres iranianas estão entre as que mais têm sido afetadas, segundo Rosa Meneses, analista e investigadora especializada em Oriente Médio. “Elas são as primeiras vítimas porque a violência só gera mais violência e qualquer […]\nO post Atacar Irã para defender emancipação das mulheres é falácia, afirma pesquisadora apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/apoiar-guerra-ao-ira-em-nome-do-direito-das-mulheres-e-falacia-afirma-pesquisadora/",
           "publishedOn": "2026-03-21T18:10:23.000Z",
-          "wordCount": 3479,
+          "wordCount": 3429,
           "title": "Atacar Irã para defender emancipação das mulheres é falácia, afirma pesquisadora",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/amost.jpg"
         },
@@ -480,7 +480,7 @@
           "description": "Em meio ao bloqueio norte-americano, o presidente de Cuba, Miguel Díaz-Canel, recebeu na sexta-feira (20/03), no Palácio das Convenções em Havana, representantes da Caravana Nossa América (Our America Convoy, em inglês), que consistiu em cerca de 650 participantes de 33 países diferentes. No encontro, o líder cubano agradeceu a iniciativa não somente pela ajuda material, […]\nO post Díaz-Canel exalta apoio global contra bloqueio dos EUA: ‘Cuba não está sozinha’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-exalta-apoio-global-contra-bloqueio-dos-eua-cuba-nao-esta-sozinha/",
           "publishedOn": "2026-03-21T16:30:16.000Z",
-          "wordCount": 3330,
+          "wordCount": 3280,
           "title": "Díaz-Canel exalta apoio global contra bloqueio dos EUA: ‘Cuba não está sozinha’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-21-125246.png"
         },
@@ -490,7 +490,7 @@
           "description": "A instalação de enriquecimento nuclear de Natanz, uma das principais do Irã, foi alvo de um ataque aéreo conduzido pelos Estados Unidos e Israel neste sábado (21/03), noticiou inicialmente a agência de notícias Tasnim. De acordo com o veículo, a ofensiva não desencadeou nenhum vazamento de materiais radioativos, e não há risco para moradores próximos […]\nO post Irã reage com mísseis a base Diego Garcia após EUA e Israel atacarem central nuclear apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-reage-com-misseis-a-base-diego-garcia-apos-eua-e-israel-atacarem-central-nuclear/",
           "publishedOn": "2026-03-21T15:40:58.000Z",
-          "wordCount": 3141,
+          "wordCount": 3091,
           "title": "Irã reage com mísseis a base Diego Garcia após EUA e Israel atacarem central nuclear",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1405010115001329336127424.jpg"
         },
@@ -500,19 +500,9 @@
           "description": "O presidente brasileiro Luiz Inácio Lula da Silva revelou ter proposto à sua homóloga no México, Claudia Sheinbaum, uma aliança estratégica entre as estatais Petrobras e Pemex (Petróleos Mexicanos) para explorar jazidas de petróleo em águas profundas do Golfo do México. Durante sua agenda presidencial em Betim, Minas Gerais, na sexta-feira (20/03), dedicada para anunciar […]\nO post Lula propõe a Sheinbaum aliança estratégica no setor de petróleo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/lula-propoe-a-sheinbaum-alianca-estrategica-no-setor-de-petroleo/",
           "publishedOn": "2026-03-21T14:50:12.000Z",
-          "wordCount": 2897,
+          "wordCount": 2847,
           "title": "Lula propõe a Sheinbaum aliança estratégica no setor de petróleo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/139193-1024x576-1.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250027",
-          "author": "Rocio Paik",
-          "description": "Washington revogou sem explicação a licença que permitia à Venezuela financiar a representação legal de seu presidente, enquanto autorizava contratos de petróleo e comerciais com Caracas no mesmo período. O advogado Barry J. Pollack entrou na quinta-feira (19/03) no Tribunal Distrital dos EUA para o Distrito Sul de Nova York, sob o processo S4 11-CR-205 […]\nO post Advogados de Maduro exigem arquivamento de acusações contra presidente da Venezuela apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/advogados-de-maduro-exigem-arquivamento-de-acusacoes-contra-presidente-da-venezuela/",
-          "publishedOn": "2026-03-21T14:00:32.000Z",
-          "wordCount": 3999,
-          "title": "Advogados de Maduro exigem arquivamento de acusações contra presidente da Venezuela",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/maduro-saluda-prensa-1024x576.jpg.webp"
         }
       ]
     },
@@ -527,6 +517,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223112",
+          "author": "Giovanna Maria",
+          "description": "Prefeito e vereadores entram em embate nas redes sociais acerca da alteração da Lei Orgânica; moradores questionam a dignidade da Câmara e de seus membros",
+          "link": "https://anovademocracia.com.br/vereador-nova-friburgo-mesquinharia/",
+          "publishedOn": "2026-03-22T10:19:00.000Z",
+          "wordCount": null,
+          "title": "RJ: Vereadores de Nova Friburgo votam contra proposta do Prefeito; disputa eleitoreira se agrava",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223160",
           "author": "Giovanna Maria",
@@ -620,16 +620,6 @@
             "length": "6616755",
             "type": "video/mp4"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223068",
-          "author": "Giovanna Maria",
-          "description": "Os três roubos totalizaram mais de 700 quilos de crack e cocaína. Entre os policiais, estão três do Batalhão de Rondas Ostensivas de Natureza Especial (RONE) e um delegado.",
-          "link": "https://anovademocracia.com.br/pr-13-policiais-acusados-pelo-roubo-de-mais-de-700-quilos-de-cocaina-e-crack/",
-          "publishedOn": "2026-03-20T13:22:00.000Z",
-          "wordCount": null,
-          "title": "PR: 13 policiais acusados pelo roubo de mais de 700 quilos de cocaína e crack",
           "imageUrl": null
         }
       ]
