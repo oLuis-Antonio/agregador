@@ -68,7 +68,7 @@
           "description": "Humoristas Tiago Santineli e Luis Titoin são alvos de um cerco fascista e de racismo religioso promovido pela extrema direita em Belo Horizonte. Redação Minas Gerais BELO HORIZONTE – Na noite deste sábado (21), a capital mineira foi palco de um lamentável episódio de perseguição política e racismo religioso. O humorista Tiago Santineli, conhecido por […]",
           "link": "https://averdade.org.br/2026/03/fascismo-e-intolerancia-religiosa-humoristas-sao-perseguidos-pela-extrema-direita-em-belo-horizonte/",
           "publishedOn": "2026-03-22T23:24:54.000Z",
-          "wordCount": 6940,
+          "wordCount": 7003,
           "title": "Fascismo e Intolerância Religiosa: Humoristas são perseguidos pela extrema direita em Belo Horizonte",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-10.05.00-768x1024-1.jpeg"
         },
@@ -187,6 +187,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Estudantes-protestam-contra-o-leilao-de-suas-escolas-por-Zema-e-Simoes",
+          "author": "Redação",
+          "description": "Escolas têm manifestações protagonizadas pelos estudantes junto aos professores e comunidades, marcando seu posicionamento contrário qualquer PPP.\n23-03-2026\n\n/ Movimento Estudantil, Educação, Minas Gerais, Romeu Zema, Parceria público privada, Privatização da Educação",
+          "link": "https://www.esquerdadiario.com.br/Estudantes-protestam-contra-o-leilao-de-suas-escolas-por-Zema-e-Simoes",
+          "publishedOn": "2026-03-24T16:25:56.000Z",
+          "wordCount": null,
+          "title": "Estudantes protestam contra o leilão de suas escolas por Zema e Simões",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Indigenas-do-Xingu-completam-30-dias-de-ocupacao-na-Funai-em-defesa-do-rio-contra-a-mineracao",
           "author": "Redação",
           "description": "As mulheres indígenas do Médio Xingu completam 30 dias de ocupação na sede da Fundação Nacional dos Povos Indígenas (Funai), em Altamira, no Pará, em uma luta em defesa do rio Xingu e contra a instalação da mina de ouro da Belo Sun na Volta Grande do Xingu, a mesma região já devastada por Belo Monte. Mesmo sob condições precárias, dormindo em barracas, enfrentando doenças como dengue, febre e infecções pulmonares que já levaram crianças ao hospital, elas seguem firmes exigindo a suspensão da licença concedida ao projeto capitalista.\n23-03-2026\n\n/ Povos indígenas, Indígenas, resistência indígena, Luta indígena, Mineração, Pará, Crise ecológica, Usina Hidrelétrica de Belo Monte, Xingu",
@@ -197,10 +207,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-do-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
+          "id": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-da-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
           "author": "Nossa Classe Educação - Minas Gerais",
           "description": "Prestes a deixar a Prefeitura de Contagem, Marília Campos tenta aprovar o projeto que transforma o Previcon em autarquia, alterando o controle da previdência dos servidores, negando a participação dos trabalhadores e abrindo margem para conflitos de interesse. A autarquização está inserida em um cenário amplo de ataques, financeirização e fraudes às previdências públicas. É fundamental que o SindUTE Contagem respeite as decisões da categoria e organize a luta dos trabalhadores contra a (…)\n23-03-2026\n\n/ Classe trabalhadora, Educação, Reforma da Previdência, Contagem-MG, Minas Gerais, Marília Campos (PT)",
-          "link": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-do-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
+          "link": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-da-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
           "publishedOn": "2026-03-24T02:55:04.000Z",
           "wordCount": null,
           "title": "Contra a autarquização da Previcon: Por uma previdência sob controle dos trabalhadores",
@@ -304,12 +314,27 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=442157",
+          "author": "Cecília Olliveira",
+          "description": "Quatro comissões parlamentares em duas décadas já provaram que as armas do crime organizado saem do próprio estado; agora, com uma nova CPI no Senado, o Brasil tem a chance de parar de ignorar a corrupção no seu circuito legal de armamentos.\nO post Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/03/24/nova-cpi-do-crime-organizado/",
+          "publishedOn": "2026-03-24T15:00:00.000Z",
+          "wordCount": 3961,
+          "title": "Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/03/Header1.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/03/Header1.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=442172",
           "author": "Paulo Motoryn",
           "description": "Mensagem de subsecretária norte-americana dá ainda mais sentido à decisão de barrar entrada de assessor de Trump.\nO post Post sobre capivara reforça suspeita de interferência dos EUA no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/capivara-estados-unidos-brasil/",
           "publishedOn": "2026-03-24T11:00:00.000Z",
-          "wordCount": 3478,
+          "wordCount": 3448,
           "title": "Post sobre capivara reforça suspeita de interferência dos EUA no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat.jpg",
@@ -324,7 +349,7 @@
           "description": "Telegrama obtido pela Fiquem Sabendo e cedido ao Intercept revela detalhes de visita de políticos à empresa, que já esteve sob investigação do Cade por práticas anticoncorrenciais.\nO post Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/apple-reclamou-deputados-projeto-governo-lula-contra-monopolio-big-techs/",
           "publishedOn": "2026-03-24T10:00:00.000Z",
-          "wordCount": 4070,
+          "wordCount": 4100,
           "title": "Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -339,7 +364,7 @@
           "description": "Parte da grande imprensa tem tratado o senador do Partido Liberal com benevolência, mas o bolsonarismo moderado não existe – e ele é tão golpista quanto seu pai, Jair Bolsonaro\nO post Candidatura de Flávio Bolsonaro é ameaça real à democracia apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/21/candidatura-de-flavio-bolsonaro-e-ameaca-real-a-democracia/",
           "publishedOn": "2026-03-21T10:00:00.000Z",
-          "wordCount": 3526,
+          "wordCount": 3534,
           "title": "Candidatura de Flávio Bolsonaro é ameaça real à democracia",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/Header2.jpg",
@@ -354,7 +379,7 @@
           "description": "Tentativa de moderar a figura do senador, que tem altíssimo índice de rejeição, já está em curso. Agora, ele é simplesmente Flávio. Candidamente Flávio. Mimosamente Flávio.\nO post Flávio Bolsonaro perde sobrenome nas manchetes: a maquiagem da imprensa para suavizar o ‘Zero Um’ apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/20/flavio-bolsonaro-perde-sobrenome-nas-manchetes/",
           "publishedOn": "2026-03-20T11:00:00.000Z",
-          "wordCount": 4282,
+          "wordCount": 4290,
           "title": "Flávio Bolsonaro perde sobrenome nas manchetes: a maquiagem da imprensa para suavizar o ‘Zero Um’",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -415,12 +440,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250263",
+          "author": "Tatiana Carlotti",
+          "description": "O chicote está nas mãos do Irã e eles vão vencer, é o que afirma o historiador Alfred MacCoy, da Universidade de Wisconsin-Madison, em entrevista concedida ao Democracy Now, nesta segunda-feira (23/03). Ao avaliar os impactos globais da guerra iniciada pelos Estados Unidos e Israel, em 28 de fevereiro, ele afirma que o país persa […]\nO post ‘Irã está em posição dominante na guerra e vai vencer’, afirma historiador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-esta-em-posicao-dominante-na-guerra-e-vai-vencer-afirma-historiador/",
+          "publishedOn": "2026-03-24T17:00:52.000Z",
+          "wordCount": 3509,
+          "title": "‘Irã está em posição dominante na guerra e vai vencer’, afirma historiador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1405010410545988836151154.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250261",
+          "author": "Rocio Paik",
+          "description": "Diante da escalada militar no Oriente Médio e, como consequência, a instabilidade internacional, o líder norte-coreano Kim Jong Un sustentou que os “atos de terrorismo e agressão” cometidos pelos Estados Unidos em âmbito global é a prova mais clara da sabedoria da nação em não ceder às “forças hostis” e abandonar seu projeto nuclear. A […]\nO post Kim Jong Un diz que ‘acertou’ em não abandonar projeto nuclear diante do ‘terrorismo’ dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/kim-jong-un-diz-que-acertou-em-nao-abandonar-projeto-nuclear-diante-do-terrorismo-dos-eua/",
+          "publishedOn": "2026-03-24T16:09:30.000Z",
+          "wordCount": 3825,
+          "title": "Kim Jong Un diz que ‘acertou’ em não abandonar projeto nuclear diante do ‘terrorismo’ dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/44d7e309f4ef65cb44a11d1a0712ddf31a1a3022f3be1f18f917f4fddd55bc5eeecaf2e327101adf28e02c27df7546d5dca1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250255",
+          "author": "Tabitha Ramalho",
+          "description": "A Rússia e o Vietnã assinaram um acordo intergovernamental para a construção da primeira usina nuclear vietnamita, a Usina de Ninh Thuan 1, em cerimônia realizada em Moscou na presença dos primeiros-ministros Mikhail Mishustin e Pham Minh Tinh na segunda-feira (23/03). Os países acordaram a construção de duas unidades geradoras do modelo russo VVER-1200, com […]\nO post Primeira usina nuclear do Vietnã será construída em parceria com a Rússia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/primeira-usina-nuclear-do-vietna-sera-construida-em-parceria-com-a-russia/",
+          "publishedOn": "2026-03-24T15:30:49.000Z",
+          "wordCount": 4273,
+          "title": "Primeira usina nuclear do Vietnã será construída em parceria com a Rússia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1468947.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250248",
+          "author": "Tatiana Carlotti",
+          "description": "As monarquias do Golfo Pérsico manifestam descontentamento com a condução da ofensiva militar liderada pelos Estados Unidos e Israel contra o Irã, mas a Arábia Saudita e os Emirados Árabes Unidos consideram entrar diretamente na guerra, afirma The Wall Street Journal, nesta terça-feira (24/03). De acordo com fontes ouvidas pelo jornal, há uma unidade entre […]\nO post Arábia Saudita cogita entrar na guerra contra Irã e países do Golfo criticam postura dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/arabia-saudita-cogita-entrar-na-guerra-contra-ira-e-paises-do-golfo-criticam-postura-dos-eua/",
+          "publishedOn": "2026-03-24T14:55:59.000Z",
+          "wordCount": 3442,
+          "title": "Arábia Saudita cogita entrar na guerra contra Irã e países do Golfo criticam postura dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/uss_cape_st._george_cg_71_fires_a_tomahawk_missile_in_support_of_oif.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250249",
+          "author": "Rocio Paik",
+          "description": "O secretário-geral da Organização do Tratado do Atlântico Norte (OTAN), Mark Rutte, anunciou no domingo (22/03) que 22 países, incluindo membros do tratado, estão preparando uma iniciativa para reabrir “o mais rápido possível” a navegação pelo Estreito de Ormuz, bloqueada parcialmente pelo Irã após a guerra iniciada pelos Estados Unidos e Israel contra a nação […]\nO post Chefe da OTAN diz que 22 países preparam iniciativa para reabertura do Estreito de Ormuz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/chefe-da-otan-diz-que-22-paises-preparam-iniciativa-para-reabertura-do-estreito-de-ormuz/",
+          "publishedOn": "2026-03-24T14:05:00.000Z",
+          "wordCount": 3182,
+          "title": "Chefe da OTAN diz que 22 países preparam iniciativa para reabertura do Estreito de Ormuz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mark_rutte_2020.10.29_02.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250247",
+          "author": "Tabitha Ramalho",
+          "description": "O ministro da Defesa, Israel Katz, declarou que Israel controlará uma “zona de segurança” até o rio Litani, no Líbano, e que os moradores do sul do Líbano que foram deslocados à força pelos bombardeios israelenses na região não retornarão “até que a segurança seja garantida no norte de Israel”. Em uma avaliação militar divulgada […]\nO post Israel diz que irá controlar ‘todo sul’ do Líbano, e civis temem nova invasão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-diz-que-ira-controlar-todo-sul-do-libano-e-civis-temem-nova-invasao/",
+          "publishedOn": "2026-03-24T13:59:30.000Z",
+          "wordCount": 2919,
+          "title": "Israel diz que irá controlar ‘todo sul’ do Líbano, e civis temem nova invasão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/12/gx-holbweaajr57.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250239",
           "author": "Tabitha Ramalho",
           "description": "A Guarda Revolucionária do Irã alertou as forças armadas israelenses de que suas tropas ao longo da fronteira com o Líbano e na Faixa de Gaza serão alvejadas “sem qualquer limite” caso Israel ataque civis nos territórios palestinos e no Líbano. Segundo a Agência de Notícias da República Iraniana. Mais de um milhão de libaneses […]\nO post Irã adverte que tropas israelenses serão alvejadas ‘sem limites’ se continuarem atacando civis apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/ira-adverte-que-tropas-israelenses-serao-alvejadas-sem-limites-se-continuarem-atacando-civis-no-libano-e-gaza/",
           "publishedOn": "2026-03-24T12:36:58.000Z",
-          "wordCount": 3220,
+          "wordCount": 3183,
           "title": "Irã adverte que tropas israelenses serão alvejadas ‘sem limites’ se continuarem atacando civis",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/a06fdc52-5f69-4433-a7ce-93419e687d29.webp"
         },
@@ -430,7 +515,7 @@
           "description": "O general Mohammad Bager Zolqadr foi nomeado secretário do Conselho Supremo de Segurança Nacional da República Islâmica nesta terça-feira (24/03), após seu nome ser aprovado pelo líder supremo do país, Mojtaba Khamenei. Por meio de decreto do presidente iraniano Masoud Pezeshkian, o general de brigada assume o posto de Ali Larijani, assassinado por um ataque […]\nO post Irã nomeia novo chefe do Conselho de Segurança Nacional apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-nomeia-novo-chefe-do-conselho-de-seguranca/",
           "publishedOn": "2026-03-24T11:33:51.000Z",
-          "wordCount": 2642,
+          "wordCount": 2604,
           "title": "Irã nomeia novo chefe do Conselho de Segurança Nacional",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mohammad_bagher_zolghadr_2013-10-01.jpg"
         },
@@ -440,7 +525,7 @@
           "description": "Apesar das declarações do presidente norte-americano, Donald Trump, de que o país interromperia os ataques por cinco dias, a guerra continua nesta terça-feira (24/03), com forte ofensiva iraniana sobre Tel Aviv, em retaliação a ataques noturnos promovidos por Israel e Estados Unidos. Nesta manhã, mísseis iranianos atingiram diversas áreas da região central de Tel Aviv, […]\nO post Irã intensifica ofensiva contra Tel Aviv após ataques noturnos de Israel e EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-intensifica-ofensiva-contra-tel-aviv-apos-ataques-noturnos-de-israel-e-eua/",
           "publishedOn": "2026-03-24T10:27:50.000Z",
-          "wordCount": 3432,
+          "wordCount": 3444,
           "title": "Irã intensifica ofensiva contra Tel Aviv após ataques noturnos de Israel e EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121817570110335946994.jpg"
         },
@@ -450,83 +535,27 @@
           "description": "A Rússia está preocupada com o aumento das tensões em torno de Cuba e permanecerá solidária ao governo da ilha caribenha, declarou nesta terça-feira (24/03) o ministro das Relações Exteriores do país euroasiático, Sergey Lavrov. Durante seu discurso no Fundo Gorchakov para Diplomacia Pública, o ministro das Relações Exteriores afirmou que a crescente tensão em […]\nO post Rússia manifesta preocupação com escalada da tensão dos EUA contra Cuba apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/russia-manifesta-preocupacao-com-escalada-da-tensao-dos-eua-contra-cuba/",
           "publishedOn": "2026-03-24T10:02:33.000Z",
-          "wordCount": 2675,
+          "wordCount": 2632,
           "title": "Rússia manifesta preocupação com escalada da tensão dos EUA contra Cuba",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/g_6frtqxwae_sbw.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250210",
-          "author": "Victor Farinelli",
-          "description": "Nesta terça-feira (24/03), a Argentina recorda 50 anos do dia em que ocorreu o seu mais recente golpe de Estado cívico-militar, que instalou no poder a ditadura liderada pela junta militar presidida pelo general Jorge Rafael Videla. Segundo o jornal El Destape, o governo do presidente de extrema direita Javier Milei tentará se aproveitar da […]\nO post Após cinquenta anos de ditadura militar, Argentina vive ‘era da pós-democracia’, diz especialista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/apos-cinquenta-anos-de-ditadura-militar-argentina-vive-era-da-pos-democracia-diz-especialista/",
-          "publishedOn": "2026-03-24T10:00:39.000Z",
-          "wordCount": 4103,
-          "title": "Após cinquenta anos de ditadura militar, Argentina vive ‘era da pós-democracia’, diz especialista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/arg.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250215",
-          "author": "Tabitha Ramalho",
-          "description": "Segundo relatos da mídia estatal iraniana, os Estados Unidos e Israel atacaram instalações de energia nas cidades de Khorramchar e Isfahan nas primeiras horas da manhã desta terça-feira (24/03). Em Isfahan, cidade localizada na região central da República Islâmica, foram relatados danos ao prédio da administração de gás e à estação de redução de gás, […]\nO post Estados Unidos e Israel voltam a atacar instalações de energia iraniana apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/estados-unidos-e-israel-voltam-a-atacar-instalacoes-de-energia-iraniana/",
-          "publishedOn": "2026-03-24T09:47:33.000Z",
-          "wordCount": 2718,
-          "title": "Estados Unidos e Israel voltam a atacar instalações de energia iraniana",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/isr.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250207",
-          "author": "Victor Farinelli",
-          "description": "Ao longo desta segunda-feira (23/03), o Irã teria recebido ao menos sete propostas de países que se oferecem como possíveis mediadores de uma mesa de diálogo com o governo dos Estados Unidos visando um acordo que resulte no fim da guerra que envolve os dois países e Israel, e também no desbloqueio do Estreito de […]\nO post Irã recebe oferta de sete países para mediação de conflito com EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-recebe-oferta-de-sete-paises-para-mediacao-de-conflito-com-eua/",
-          "publishedOn": "2026-03-23T23:33:43.000Z",
-          "wordCount": 3189,
-          "title": "Irã recebe oferta de sete países para mediação de conflito com EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/abbas-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250197",
-          "author": "Raissa Neves",
-          "description": "A presidente do México, Claudia Sheinbaum, confirmou nesta segunda-feira (23/03) que um novo navio conduzindo ajuda humanitária partirá do México rumo a Cuba, além de enfatizar que seu governo manterá o apoio contínuo, destacando os esforços de mediação do México para incentivar o diálogo entre Havana e Washington. A mandatária mexicana, em sua tradicional coletiva […]\nO post México confirma quarto envio de ajuda humanitária a Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/mexico-confirma-quarto-envio-de-ajuda-humanitario-a-cuba/",
-          "publishedOn": "2026-03-23T22:12:55.000Z",
-          "wordCount": 3527,
-          "title": "México confirma quarto envio de ajuda humanitária a Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-23-183150.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250198",
-          "author": "Raissa Neves",
-          "description": "Nesta segunda-feira (23/03), Mohammad Bagher Ghalibaf, presidente do parlamento iraniano, contradisse o presidente dos Estados Unidos, Donald Trump, e afirmou que não há negociações em curso com os EUA. Mais cedo, Trump disse que decidiu adiar ataques militares contra o Irã após o que descreveu como conversas “muito boas e produtivas” entre os dois países. O republicano declarou […]\nO post Presidente do Parlamento do Irã nega negociação com Trump: ‘tentativa de escapar do atoleiro em que estão presos’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-do-parlamento-do-ira-nega-negociacao-com-trump-tentativa-de-escapar-do-atoleiro-em-que-estao-presos/",
-          "publishedOn": "2026-03-23T21:26:34.000Z",
-          "wordCount": 3251,
-          "title": "Presidente do Parlamento do Irã nega negociação com Trump: ‘tentativa de escapar do atoleiro em que estão presos’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mohammad-bagher-ghalibaf.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250194",
-          "author": "Rocio Paik",
-          "description": "Venezuelanos tomaram as principais avenidas da capital venezuelana Caracas desde as primeiras horas desta segunda-feira (23/03) exigindo o fim imediato das sanções econômicas impostas pelos Estados Unidos, a libertação do presidente Nicolás Maduro e da primeira-dama Cilia Flores, além de expressar apoio ao governo interino Delcy Rodríguez. A marcha faz parte dos apelos feitos pela […]\nO post Venezuelanos vão às ruas pelo fim imediato de sanções econômicas dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-vao-as-ruas-pelo-fim-imediato-de-sancoes-economicas-dos-eua/",
-          "publishedOn": "2026-03-23T20:57:53.000Z",
-          "wordCount": 3127,
-          "title": "Venezuelanos vão às ruas pelo fim imediato de sanções econômicas dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hehhaxxaiaazj3x.jpeg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223209",
+          "author": "Giovanna Maria",
+          "description": "Em conversa com trabalhadoras e trabalhadores, apuramos que existe ameaças para pressionar o fim da greve dentro da empresa.",
+          "link": "https://anovademocracia.com.br/sp-trabalhadores-da-limpeza-urbana-continuam-em-greve-na-baixada-santista/",
+          "publishedOn": "2026-03-24T14:00:00.000Z",
+          "wordCount": null,
+          "title": "SP: Trabalhadores da limpeza urbana continuam em greve na Baixada Santista",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223199",
           "author": "Giovanna Maria",
@@ -616,16 +645,6 @@
           "wordCount": null,
           "title": "DF: Operação Blackboard investiga desvio de R$ 46 milhões e atinge o coração do governo Ibaneis",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223112",
-          "author": "Giovanna Maria",
-          "description": "Prefeito e vereadores entram em embate nas redes sociais acerca da alteração da Lei Orgânica; moradores questionam a dignidade da Câmara e de seus membros",
-          "link": "https://anovademocracia.com.br/vereador-nova-friburgo-mesquinharia/",
-          "publishedOn": "2026-03-22T10:19:00.000Z",
-          "wordCount": null,
-          "title": "RJ: Vereadores de Nova Friburgo votam contra proposta do Prefeito; disputa eleitoreira se agrava",
-          "imageUrl": null
         }
       ]
     },
@@ -677,7 +696,7 @@
           "description": "Diante de adversário muito menos poderoso, porém coeso e sagaz, maior máquina militar da História sofre e hesita. O que isso revela sobre a mudança nos campos de batalha e – muito mais importante – a inconsistência dos planos de Trump\nThe post Como os EUA podem tornar-se potência obsoleta appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/eua-uma-potencia-obsoleta/",
           "publishedOn": "2026-03-23T22:33:26.000Z",
-          "wordCount": 5566,
+          "wordCount": 5633,
           "title": "Como os EUA podem tornar-se potência obsoleta",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/23192602/260323-Fuga.jpg"
         },
@@ -717,7 +736,7 @@
           "description": "A taxa de juros foi subindo até alcançar a estratosfera. Lá em cima, a inflação pode até parecer menor. Mas o investimento e projetos foram ficando pelo caminho: o ar é rarefeito até para alpinistas experientes. A economia deixou de subir: tenta apenas respirar... \nThe post Crônica de uma Selic no cume da montanha appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/cronica-de-uma-selic-no-cume-da-montanha/",
           "publishedOn": "2026-03-23T20:52:32.000Z",
-          "wordCount": 3263,
+          "wordCount": 3382,
           "title": "Crônica de uma Selic no cume da montanha",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/23175154/maxresdefault.jpg"
         },
@@ -744,12 +763,12 @@
         {
           "id": "https://outraspalavras.net/?p=3179975",
           "author": "Lucas Scatolini",
-          "description": "Verticalização avança à beira-mar. Leis urbanísticas são permissivas com a especulação imobiliária, o que pressiona o saneamento, altera a paisagem e expulsa moradores. Vida urbana é redesenhada somente para o turismo e elites. Balneário Camboriú e Santos são casos emblemáticos\nThe post Assim o capital abocanha orlas e céus nas cidades litorâneas appeared first on Outras Palavras.",
+          "description": "Arranha-céus avançam à beira-mar. Leis urbanas são permissivas com a especulação, pressionam o saneamento, deformam a paisagem e expulsa moradores. Vida nas cidades é redesenhada somente para o turismo e ricos. Balneário Camboriú é emblemático\nThe post Verticalização das orlas, farra imobiliária das elites appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/assim-o-capital-abocanha-orlas-e-ceus-das-cidades-litoraneas/",
           "publishedOn": "2026-03-21T19:11:30.000Z",
-          "wordCount": 4523,
-          "title": "Assim o capital abocanha orlas e céus nas cidades litorâneas",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/21161051/f52f934b-fab8-47a8-bafb-2beb6d193923.jpg"
+          "wordCount": null,
+          "title": "Verticalização das orlas, farra imobiliária das elites",
+          "imageUrl": null
         },
         {
           "id": "https://outraspalavras.net/?p=3179970",
@@ -821,7 +840,7 @@
           "description": "Evgeny Morozov: \"A IA surge como uma tecnologia cujos usos são descobertos após a implantação, cujos limites são porosos e cujos efeitos colaterais aparecem em lugares para os quais ninguém os projetou. ‘Generativa’ não é apenas uma palavra de marketing; ela nomeia uma instabilidade genuína. Para os socialistas, essa instabilidade coloca um desafio específico, exigindo mais do que redistribuição.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/23/socialismo-apos-a-ia/",
           "publishedOn": "2026-03-23T11:00:00.000Z",
-          "wordCount": 15818,
+          "wordCount": 15979,
           "title": "Socialismo após a IA",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-23.png?fit=1200%2C743&ssl=1"
         },
@@ -831,7 +850,7 @@
           "description": "Alysson Oliveira: \"Os prêmios são bem-vindos, mas não que ele precisasse deles para provar que é um dos maiores cineastas da atualidade. Sua carreira em longas começou há exatos 30 anos, com Jogada de Risco, um drama independente que já ensaiava suas marcas-registradas como diretor – seja no seu interesse por personagens à margem ou o uso da música, por exemplo. Mas, mas do que isso, em sua filmografia, Anderson é um cronista da história do seu país sob a estrutura de sentimento da pós-modernidade.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/21/o-cinema-inerente-de-paul-thomas-anderson/",
           "publishedOn": "2026-03-21T17:33:40.000Z",
-          "wordCount": 11967,
+          "wordCount": 12120,
           "title": "O cinema inerente de Paul Thomas Anderson",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-17.png"
         },
