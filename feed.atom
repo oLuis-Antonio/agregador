@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T05:26:11.225Z</id>
+    <id>urn:2026-03-25T09:00:38.130Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-03-25T05:26:11.225Z</updated>
+    <updated>2026-03-25T09:00:38.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BA: Estudantes protestam em meio a escalada da crise institucional na UFBA]]></title>
+        <id>https://anovademocracia.com.br/?p=223220</id>
+        <link href="https://anovademocracia.com.br/ba-estudantes-protestam-em-meio-a-escalada-da-crise-institucional-na-ufba/"/>
+        <updated>2026-03-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Protestos irrompem em toda a UFBA no meio de uma escalada da crise administrativa causado pelo sucateamento da universidade.]]></summary>
+        <author>
+            <name>Giovanna Maria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venezuelanos continuam luta contra intervenção imperialista dos EUA]]></title>
         <id>https://averdade.org.br/?p=60999</id>
@@ -442,16 +452,6 @@ O post Fim da escala 6×1 pode ajudar o pequeno comércio apareceu primeiro em O
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RJ: Movimentos populares marcham contra o “saldão” de Eduardo Paes em Botafogo]]></title>
-        <id>https://anovademocracia.com.br/?p=223191</id>
-        <link href="https://anovademocracia.com.br/rj-movimentos-populares-marcham-contra-o-saldao-de-eduardo-paes-em-botafogo/"/>
-        <updated>2026-03-23T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Para os movimentos, a medida não apenas ignora o déficit habitacional da cidade como também aprofunda a especulação imobiliária.]]></summary>
-        <author>
-            <name>Giovanna Maria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Devoradores de Estrelas: uma história sobre o futuro — e sobre o que torna possível escolher]]></title>
         <id>https://www.opiniaosocialista.com.br/?p=105575</id>
         <link href="https://www.opiniaosocialista.com.br/devoradores-de-estrelas-uma-historia-sobre-o-futuro-e-sobre-o-que-torna-possivel-escolher/"/>
@@ -769,27 +769,6 @@ O post Candidatura de Flávio Bolsonaro é ameaça real à democracia apareceu p
         <summary type="html"><![CDATA[s guerras raramente se decidem apenas no campo de batalha. As campanhas militares podem destruir cidades e matar grandes contingentes de pessoas, mas os resultados políticos são definidos pela resistência, pela legitimidade e pelas correntes históricas que fluem sob a violência imediata. Embora a guerra que o presidente dos Estados Unidos, Donald Trump, impôs ao […]]]></summary>
         <author>
             <name>Globetrotter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privatização da gestão do SUS avança silenciosamente em São José dos Campos (SP)]]></title>
-        <id>yBDJSA</id>
-        <link href="https://jornalofuturo.com.br/artigo/yBDJSA-privatizacao-da-gestao-do-sus-avanca-silenciosamente-em-sao-jose-dos-campos-sp"/>
-        <updated>2026-03-20T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intervenções administrativas, contratos milionários e troca sucessiva de gestoras revelam o avanço da gestão privada na rede pública municipal.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testemunha diz que PMs a pressionaram a mentir em caso de pichador morto em Sorocaba]]></title>
-        <id>https://ponte.org/?p=159072</id>
-        <link href="https://ponte.org/testemunha-diz-que-pms-a-pressionaram-a-mentir-em-caso-de-pichador-morto-em-sorocaba/"/>
-        <updated>2026-03-20T18:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Depoimento foi dado durante acareação com a mãe da vítima; mais de um ano após a morte de Reginaldo Júnior, o África Menor, investigação segue sem conclusão
-O conteúdo Testemunha diz que PMs a pressionaram a mentir em caso de pichador morto em Sorocaba Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Gil Luiz Mendes</name>
         </author>
     </entry>
 </feed>
