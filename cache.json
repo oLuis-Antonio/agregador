@@ -101,26 +101,6 @@
           "wordCount": 7774,
           "title": "Trabalhadores da limpeza urbana sofrem com precarização e escala 6×1",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P5-_-brigada-limpeza.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=60972",
-          "author": "Jesse Lisboa",
-          "description": "Sob a gestão de Tarcísio de Freitas (Republicanos), o Estado de São Paulo atravessa um acelerado processo de privatização que planeja extinguir a CPTM com o leilão da Linha 10-Turquesa em 2026. Lucas Marcelino e Mariana Rodrigues | São Paulo (SP) BRASIL – Os últimos quatro anos foram marcados por uma intensa política de privatização […]",
-          "link": "https://averdade.org.br/2026/03/privatizacao-em-sao-paulo-piora-os-servicos-e-quem-paga-e-o-povo/",
-          "publishedOn": "2026-03-22T00:42:17.000Z",
-          "wordCount": 7561,
-          "title": "Privatização em São Paulo piora os serviços e quem paga é o povo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P4-_-Turquesa.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=60966",
-          "author": "Jesse Lisboa",
-          "description": "Após as eleições presidenciais de 2026, marcadas pela menor abstenção em duas décadas, Portugal enfrentou um segundo turno decisivo entre o projeto fascista e a continuidade da social-democracia. Luan Almeida e Marcelo Gaspar | Portugal INTERNACIONAL – No dia 18 de janeiro de 2026, aconteceram as eleições presidenciais em Portugal com uma participação de 61,5% […]",
-          "link": "https://averdade.org.br/2026/03/candidato-fascista-e-derrotado-em-portugal/",
-          "publishedOn": "2026-03-22T00:32:51.000Z",
-          "wordCount": 6837,
-          "title": "Candidato fascista é derrotado em Portugal",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P9-_-Portugal-_-Caroline-Sabino.jpeg"
         }
       ]
     },
@@ -374,6 +354,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=442203",
+          "author": "Mauricio Moraes",
+          "description": "Pesquisador da Universidade de Viena defende que tecnologias não são politicamente neutras e que a comodidade oferecida por algoritmos remove o esforço crítico e torna as pessoas obedientes e dóceis.\nO post Entrevista: Como a IA abre caminho para o tecnofascismo apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/03/26/entrevista-como-a-ia-abre-caminho-para-o-tecnofascismo/",
+          "publishedOn": "2026-03-26T11:00:00.000Z",
+          "wordCount": 4877,
+          "title": "Entrevista: Como a IA abre caminho para o tecnofascismo",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=442200",
           "author": "Deborah Leão",
           "description": "Estratégia de segurança nacional dos EUA revela planos de Trump: retomar domínio da região com força militar e aliados de extrema direita.\nO post Trump mira na América Latina e os ataques estão só começando apareceu primeiro em Intercept Brasil.",
@@ -394,7 +389,7 @@
           "description": "Quatro comissões parlamentares em duas décadas já provaram que as armas do crime organizado saem do próprio estado; agora, com uma nova CPI no Senado, o Brasil tem a chance de parar de ignorar a corrupção no seu circuito legal de armamentos.\nO post Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/nova-cpi-do-crime-organizado/",
           "publishedOn": "2026-03-24T15:00:00.000Z",
-          "wordCount": 3822,
+          "wordCount": 3850,
           "title": "Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/Header1.jpg",
@@ -424,7 +419,7 @@
           "description": "Telegrama obtido pela Fiquem Sabendo e cedido ao Intercept revela detalhes de visita de políticos à empresa, que já esteve sob investigação do Cade por práticas anticoncorrenciais.\nO post Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/apple-reclamou-deputados-projeto-governo-lula-contra-monopolio-big-techs/",
           "publishedOn": "2026-03-24T10:00:00.000Z",
-          "wordCount": 3932,
+          "wordCount": 3935,
           "title": "Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -440,6 +435,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=159147",
+          "author": "Mariana Rosetti",
+          "description": "Péricles Monteiro Melo, 23, foi morto a tiros enquanto andava de moto na zona oeste de São Paulo; testemunha diz ter sido ameaçada e família relata agressões e falhas na ocorrência\nO conteúdo Entregador desarmado é morto por GCM em SP; família denuncia execução Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/desarmado-e-sem-ficha-criminal-gcm-mata-jovem-que-dava-grau/",
+          "publishedOn": "2026-03-26T13:24:46.000Z",
+          "wordCount": 6708,
+          "title": "Entregador desarmado é morto por GCM em SP; família denuncia execução",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/retrato-pericles-moto-objetos-daniel-arroyo.jpg.webp"
+        },
         {
           "id": "https://ponte.org/?p=159220",
           "author": "Catarina Duarte",
@@ -505,12 +510,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250455",
+          "author": "Tabitha Ramalho",
+          "description": "A Assembleia Geral da Organização das Nações Unidas (ONU) aprovou uma resolução nesta quarta-feira (25/03) que reconhece o tráfico transatlântico de africanos escravizados como o mais grave crime contra a humanidade já cometido. O texto aprovado pela maioria dos países estabelece que os Estados-Membros da ONU devem considerar a apresentação de desculpas pelo tráfico de […]\nO post ONU declara escravização de africanos ‘crime mais grave contra a humanidade’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/historia/onu-declara-escravizacao-de-africanos-crime-mais-grave-contra-a-humanidade/",
+          "publishedOn": "2026-03-26T13:28:45.000Z",
+          "wordCount": 3635,
+          "title": "ONU declara escravização de africanos ‘crime mais grave contra a humanidade’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/image1170x530cropped.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250445",
+          "author": "Tatiana Carlotti",
+          "description": "Um julgamento inédito em Los Angeles, nesta quarta-feira (26/03), contra a Meta e o YouTube concluiu que as duas empresas desenvolveram deliberadamente produtos com características viciantes que prejudicaram a saúde mental de uma jovem usuária, quando ela ainda era criança. Do painel de 12 jurados, 10 votaram a favor da jovem, em todas as questões. […]\nO post Meta e YouTube são condenadas por criarem plataformas viciantes apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/meta-e-youtube-sao-condenadas-por-criarem-plataformas-viciantes/",
+          "publishedOn": "2026-03-26T12:56:52.000Z",
+          "wordCount": 3293,
+          "title": "Meta e YouTube são condenadas por criarem plataformas viciantes",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/capa1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250438",
+          "author": "Tabitha Ramalho",
+          "description": "Segundo uma pesquisa do Pew Research Center divulgada na quarta-feira (25/03), 59% da população dos EUA acredita que a decisão de usar a força militar contra o Irã foi errada, enquanto 61% desaprovam a forma como o presidente Donald Trump lidou com o conflito. A pesquisa também revela que 45% das pessoas acreditam que os […]\nO post Maioria dos norte-americanos rejeita guerra de Trump contra o Irã, aponta pesquisa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/maioria-dos-norte-americanos-rejeita-guerra-de-trump-contra-o-ira-aponta-pesquisa/",
+          "publishedOn": "2026-03-26T12:40:12.000Z",
+          "wordCount": 2864,
+          "title": "Maioria dos norte-americanos rejeita guerra de Trump contra o Irã, aponta pesquisa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/54888958930_865b4c3823_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250439",
+          "author": "Tatiana Carlotti",
+          "description": "O secretário-geral do Conselho de Cooperação do Golfo (CCG), Jassim Mohammed Al-Budaiwi, afirmou em coletiva de imprensa em Riad, nesta quinta-feira (26/03), que apesar da escalada da guerra no Irã, a posição dos países do Golfo Pérsico “é por uma solução diplomática para o cessar dos ataques”. “Nossa principal mensagem para nossos parceiros no mundo […]\nO post Países do Golfo cobram solução diplomática para fim da guerra no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paises-do-golfo-cobram-solucao-diplomatica-para-fim-da-guerra-no-ira/",
+          "publishedOn": "2026-03-26T12:05:15.000Z",
+          "wordCount": 3673,
+          "title": "Países do Golfo cobram solução diplomática para fim da guerra no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1405010410545988836151154.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250425",
+          "author": "Tabitha Ramalho",
+          "description": "As forças armadas da República Islâmica do Irã, em coordenação com o Eixo da Resistência, intensificaram suas operações de retaliação contra alvos estratégicos de Israel e das forças de ocupação norte-americanas. Nesse contexto, Teerã rejeitou uma proposta de cessar-fogo dos EUA, denunciando a tentativa de Washington de impor termos de rendição previamente descartados. Desde o […]\nO post Hezbollah e resistência iraquiana se unem ao Irã em ofensiva contra forças dos EUA e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/hezbollah-e-resistencia-iraquiana-se-unem-ao-ira-em-ofensiva-contra-forcas-dos-eua-e-israel/",
+          "publishedOn": "2026-03-26T10:27:07.000Z",
+          "wordCount": 4903,
+          "title": "Hezbollah e resistência iraquiana se unem ao Irã em ofensiva contra forças dos EUA e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/heub9pjayaawsab-e1774520449492.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250426",
+          "author": "Tatiana Carlotti",
+          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, afirmou nesta quinta-feira (26/03) que Teerã não mantém negociações com os Estados Unidos e reiterou a política de resistência frente aos ataques norte-americanos e israelenses. “Não há negociações em curso. No momento, nossa política é continuar a resistência, e nenhuma negociação ocorreu”, declarou à Press TV. […]\nO post ‘Cessar-fogo sem garantias levará à repetição da guerra’, diz chanceler iraniano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/cessar-fogo-sem-garantias-levara-a-repeticao-da-guerra-diz-chanceler-iraniano/",
+          "publishedOn": "2026-03-26T10:18:56.000Z",
+          "wordCount": 3328,
+          "title": "‘Cessar-fogo sem garantias levará à repetição da guerra’, diz chanceler iraniano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/airna.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250422",
+          "author": "Tabitha Ramalho",
+          "description": "Nesta quinta-feira (26/03) poucos dias antes do aniversário de três meses do sequestro militar do presidente venezuelano Nicolás Maduro e de sua esposa, a deputada estadual Cilia Flores, uma ação orquestrada pelo Pentágono e perpetrada por tropas da Força Delta — a unidade de elite do Exército dos EUA —, a segunda audiência do julgamento […]\nO post Segunda audiência de Maduro acontece nesta quinta (26); entenda principais pontos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/segunda-audiencia-de-maduro-acontece-nesta-quinta-26-entenda-principais-pontos/",
+          "publishedOn": "2026-03-26T10:01:18.000Z",
+          "wordCount": 5295,
+          "title": "Segunda audiência de Maduro acontece nesta quinta (26); entenda principais pontos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/photo_2026-03-16_09-46-27-e1774518718595.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250418",
           "author": "Victor Farinelli",
           "description": "As redes sociais do ativista brasileiro Thiago Ávila confirmaram, por volta das 19h45 desta quarta-feira (25/03), que ele foi liberado pela polícia do Panamá, após ser submetido a mais de seis horas de interrogatório. Ávila foi detido durante uma conexão no Aeroporto Internacional de Tocumen, na Cidade do Panamá, quando retornava ao Brasil após estar […]\nO post Thiago Ávila é libertado após ser interrogado por mais de 6 horas no Panamá apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/thiago-avila-e-libertado-apos-ser-interrogado-por-mais-de-6-horas-no-panama/",
           "publishedOn": "2026-03-25T23:32:11.000Z",
-          "wordCount": 3277,
+          "wordCount": 3278,
           "title": "Thiago Ávila é libertado após ser interrogado por mais de 6 horas no Panamá",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/avila.jpg"
         },
@@ -520,7 +595,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva (PT) aparece à frente de todos os outros possíveis candidatos à Presidência da República para as eleições de 2026 nos cenários testados pela pesquisa AtlasIntel/Bloomberg divulgada nesta quarta-feira (25/03). Os dados indicam estabilidade do eleitorado de Lula entre os cenários, enquanto os adversários variam de acordo com a […]\nO post AtlasIntel: Lula lidera 1º turno para presidente; Flávio Bolsonaro aparece à frente no 2º apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/atlasintel-lula-lidera-1o-turno-para-presidente-flavio-bolsonaro-aparece-a-frente-no-2o/",
           "publishedOn": "2026-03-25T22:30:04.000Z",
-          "wordCount": 4152,
+          "wordCount": 4105,
           "title": "AtlasIntel: Lula lidera 1º turno para presidente; Flávio Bolsonaro aparece à frente no 2º",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/55163719637_4909516d97_k.jpg"
         },
@@ -530,79 +605,9 @@
           "description": "Mette Frederiksen anunciou nesta quarta-feira (25/03) sua renúncia ao cargo de primeira ministra da Dinamarca. A decisão foi tomada horas depois de uma reunião no palácio real dinamarquês com o monarca Frederik 10º, em que se discutiu os resultados das eleições gerais no país, realizadas nesta terça-feira (24/03). Segundo o órgão eleitoral da Dinamarca, o […]\nO post Prêmie da Dinamarca renuncia horas depois de vitória apertada nas eleições apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/premie-da-dinamarca-renuncia-horas-depois-de-vitoria-apertada-nas-eleicoes/",
           "publishedOn": "2026-03-25T22:00:31.000Z",
-          "wordCount": 2935,
+          "wordCount": 2938,
           "title": "Prêmie da Dinamarca renuncia horas depois de vitória apertada nas eleições",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mette.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250408",
-          "author": "Raissa Neves",
-          "description": "A Guarda Revolucionária do Irã afirmou nesta quarta-feira (25/03) ter atingido um caça F-18 da Marinha dos Estados Unidos com um míssil disparado por seu sistema integrado de defesa aérea, fazendo com que a aeronave caísse sobre a cidade iraniana de Chabahar, no sul do país. A informação foi divulgada pela emissora estatal IRIB, que […]\nO post Irã afirma ter atingido caça F-18 dos EUA em seu espaço aéreo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-ter-atingido-caca-f-18-dos-eua-em-seu-espaco-aereo/",
-          "publishedOn": "2026-03-25T21:40:46.000Z",
-          "wordCount": 2986,
-          "title": "Irã afirma ter atingido caça F-18 dos EUA em seu espaço aéreo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/487507047_1044154567759523_8071718396762915381_n.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250394",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, visitará Pequim entre os dias 14 e 15 de maio para se encontrar com seu homólogo chinês, Xi Jinping, de acordo com a Casa Branca nesta quarta-feira (25/03). Conforme o anúncio da porta-voz do governo norte-americano Karoline Leavitt, é também esperado que o líder asiático visite Washington ainda […]\nO post Trump viajará a Pequim para encontro com Xi Jinping entre 14 e 15 de maio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-viajara-a-pequim-para-encontro-com-xi-jinping-entre-14-e-15-de-maio/",
-          "publishedOn": "2026-03-25T21:10:37.000Z",
-          "wordCount": 3181,
-          "title": "Trump viajará a Pequim para encontro com Xi Jinping entre 14 e 15 de maio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/president_donald_trump_greets_chinese_president_xi_jinping_before_a_bilateral_meeting_at_the_gimhae_international_airport_terminal_54890669668.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250403",
-          "author": "Pedro Marin",
-          "description": "O caso do Banco Master, que arrasta consigo — ou deveria arrastar — a Faria Lima e muitas figuras e instituições da República, sobretudo o bolsonarismo e o Centrão, fez ressurgir um velho fantasma: a tentativa da direita liberal, abraçada ao bolsonarismo e a parte da mídia, de capturar a agenda nacional e usar o […]\nO post O caso Master e a captura da agenda nacional apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/o-caso-master-e-a-captura-da-agenda-nacional/",
-          "publishedOn": "2026-03-25T20:43:48.000Z",
-          "wordCount": 6131,
-          "title": "O caso Master e a captura da agenda nacional",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/master-vorcaro.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=248903",
-          "author": "Rocio Paik",
-          "description": "Em alguns dias da semana, pelo fim da tarde, um pequeno grupo de ativistas sul-coreanos se instala na tradicional Praça Gwanghwamun, em Seul. Os membros se posicionam em frente à Embaixada dos Estados Unidos, segurando placas como “FREE MADURO” e bandeiras. Eles condenam o intervencionismo militar norte-americano e gritam palavras de ordem “¡Maduro libre! ¡Maduro […]\nO post Conheça o partido sul-coreano que defende Maduro nas ruas de Seul apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/conheca-o-partido-sul-coreano-que-defende-maduro-nas-ruas-de-seul/",
-          "publishedOn": "2026-03-25T20:30:01.000Z",
-          "wordCount": 4736,
-          "title": "Conheça o partido sul-coreano que defende Maduro nas ruas de Seul",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/image-2026-02-03-230559-1024x768-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250391",
-          "author": "Raissa Neves",
-          "description": "Há 115 anos, em 25 de março de 1911, um incêndio de grandes proporções destruía as oficinas da Triangle Shirtwaist Company, uma fábrica de roupas localizada no bairro de Greenwich Village, em Nova York. O incêndio resultou na morte de 146 trabalhadores, sendo 123 mulheres e 23 homens. Eles estavam presos no interior do edifício […]\nO post Lucrando com a morte: 115 anos do Incêndio da Triangle Shirtwaist apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/lucrando-com-a-morte-115-anos-do-incendio-da-triangle-shirtwaist/",
-          "publishedOn": "2026-03-25T19:56:52.000Z",
-          "wordCount": 5351,
-          "title": "Lucrando com a morte: 115 anos do Incêndio da Triangle Shirtwaist",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/image_of_triangle_shirtwaist_factory_fire_on_march_25_-_1911.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250384",
-          "author": "Raissa Neves",
-          "description": "Israel lançou na quinta-feira (18/03) ataques no Mar Cáspio para interromper o envio de armas da Rússia ao Irã, segundo fontes próximas à operação. Os ataques atingiram navios, portos e instalações de manutenção, com o objetivo de limitar o contrabando de munições e drones Shahed usados pela Rússia na Ucrânia e pelo Irã em ataques […]\nO post Israel tenta interromper envio de armas russas ao Irã pelo Mar Cáspio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/israel-tenta-interromper-envio-de-armas-russas-ao-ira-pelo-mar-caspio/",
-          "publishedOn": "2026-03-25T19:23:10.000Z",
-          "wordCount": 3632,
-          "title": "Israel tenta interromper envio de armas russas ao Irã pelo Mar Cáspio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mar-caspio-647598886-1000x667-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250357",
-          "author": "Rocio Paik",
-          "description": "A missão permanente do Irã nas Nações Unidas (ONU) lançou um comunicado na terça-feira (24/03) reiterando que países “não hostis”, ou seja, que não apoiam a agressão conjunta dos Estados Unidos e de Israel contra a nação persa, podem cruzar o Estreito de Ormuz. A rota marítima, responsável pela passagem de cerca de 20% do […]\nO post Irã reitera que bloqueio de Ormuz se limita a ‘países hostis’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-reitera-que-bloqueio-de-ormuz-se-limita-a-paises-hostis/",
-          "publishedOn": "2026-03-25T18:40:50.000Z",
-          "wordCount": 3071,
-          "title": "Irã reitera que bloqueio de Ormuz se limita a ‘países hostis’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/flickr_-_official_u.s._navy_imagery_-_u.s._navy_ships_transit_the_strait_of_hormuz.jpg"
         }
       ]
     },
@@ -838,12 +843,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=158910",
+          "author": "Passa Palavra",
+          "description": "Marcelo D2, a indústria cultural e o espetáculo patético da crítica que não critica. Por Arthur Moura",
+          "link": "https://passapalavra.info/2026/03/158910/",
+          "publishedOn": "2026-03-26T10:39:57.000Z",
+          "wordCount": 6108,
+          "title": "O malandro de papel",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/03/Opera-do-Malandro-Chico-Buarque-1417296763.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=158908",
           "author": "FP",
           "description": "Depois de várias condenações por sonegação fiscal, a empresária pergunta para o advogado: “então, se continuar assim corro o risco de ser presa?”. “Sim”. “É, então tá na hora de sossegar o facho”. Passa Palavra",
           "link": "https://passapalavra.info/2026/03/158908/",
           "publishedOn": "2026-03-25T17:36:25.000Z",
-          "wordCount": 3788,
+          "wordCount": 3792,
           "title": "Gente rica sendo presa (5)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         },
@@ -874,6 +889,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=63047",
+          "author": "Boitempo",
+          "description": "Jeanne Marie Gagnebien: \"Querido diferencia com razão a diversidade e a amplitude do pensamento de Benjamin, que o tornam ao mesmo tempo inclassificável e sedutor, da pecha de incoerência ou mesmo de contradição. Nesse percurso, procura seguir um “fio vermelho” na obra labiríntica de Benjamin, “um pensamento destrutivamente produtivo”.",
+          "link": "https://blogdaboitempo.com.br/2026/03/26/por-onde-comecar-a-ler-walter-benjamin-um-trecho-da-orelha-de-walter-benjamin-uma-introducao/",
+          "publishedOn": "2026-03-26T11:00:00.000Z",
+          "wordCount": 12029,
+          "title": "Um manual para conhecer Walter Benjamin",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/banners-adc-2026-walter-benjamin-66_quote-benjamin-email-1.jpg?fit=1200%2C746&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=62611",
           "author": "Boitempo",
