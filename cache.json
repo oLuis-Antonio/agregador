@@ -69,6 +69,16 @@
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "https://www.opiniaosocialista.com.br/?p=105653",
+          "author": "PSTU-BA",
+          "description": "Diretório Municipal do PSTU – Salvador Neste domingo (29), Salvador completa 477 anos. Cartão-postal do Brasil, é frequentemente apresentada como símbolo de cultura, alegria e diversidade. No entanto, por trás dessa imagem, existe uma realidade marcada por desigualdade profunda, violência e exclusão social. Expressão concreta das contradições do capitalismo em uma das principais metrópoles do […]\nO post Salvador, 477 anos: a cidade da beleza que convive com a desigualdade social apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/salvador-477-anos-a-cidade-da-beleza-que-convive-com-a-desigualdade-social/",
+          "publishedOn": "2026-03-27T17:08:34.000Z",
+          "wordCount": 2427,
+          "title": "Salvador, 477 anos: a cidade da beleza que convive com a desigualdade social",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/desigualdade_salvador.png"
+        },
+        {
           "id": "https://www.opiniaosocialista.com.br/?p=105645",
           "author": "Hertz Dias",
           "description": "Na última semana, estive em Cuba. O país da revolução mais celebrada do continente, uma pequena ilha do Caribe que enfrentou um império e conquistou não só sua independência como também educação, saúde e, por alguns anos, uma economia planificada voltada às necessidades dos trabalhadores e povo cubano. Hoje, Cuba está ameaçada de ocupação militar […]\nO post Fora imperialismo ianque! Uma viagem em apoio ao povo cubano apareceu primeiro em Opinião Socialista.",
@@ -157,16 +167,6 @@
           "wordCount": 1440,
           "title": "ILAESE lança Anuário 2025/2026 em Pernambuco com quatro atividades e mais de 200 participantes",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/Anuario-Ilaeses-2025-2026-Recife.jpg"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=105599",
-          "author": "Redação",
-          "description": "O ataque iniciado pelos Estados Unidos e pelo Estado de Israel contra o Irã desatou uma alta no preço do petróleo em todo o mundo. Em um mês, a cotação internacional do barril subiu 55%. É a maior alta desde o ataque e invasão da Rússia à Ucrânia, em 2022, abrindo a ameaça de uma […]\nO post Alta do Diesel expõe dependência e retrocesso do Brasil apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/alta-do-diesel-expoe-dependencia-e-retrocesso-do-brasil/",
-          "publishedOn": "2026-03-25T17:04:45.000Z",
-          "wordCount": 2324,
-          "title": "Alta do Diesel expõe dependência e retrocesso do Brasil",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/Refinaria-Abreu-de-Lima-Foto-Fernando-Frazao_Agencia-Brasil-scaled.jpeg"
         }
       ]
     },
@@ -323,19 +323,34 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=442225",
+          "author": "Isabella Mota",
+          "description": "Tecnologia está sendo adotada para ações militares pelos Estados Unidos numa ação conjunta com as big techs, e abre caminho para retaliação pelo Irã com o bombardeio de data centers.\nO post Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/03/27/ia-nova-era-em-conflito-no-oriente-medio/",
+          "publishedOn": "2026-03-27T18:13:00.000Z",
+          "wordCount": 3919,
+          "title": "Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/03/32475105-high.jpeg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/03/32475105-high.jpeg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=442203",
           "author": "Mauricio Moraes",
           "description": "Pesquisador da Universidade de Viena defende que tecnologias não são politicamente neutras e que a comodidade oferecida por algoritmos remove o esforço crítico e torna as pessoas obedientes e dóceis.\nO post Entrevista: Como a IA abre caminho para o tecnofascismo apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/26/entrevista-como-a-ia-abre-caminho-para-o-tecnofascismo/",
           "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 4877,
+          "wordCount": 4881,
           "title": "Entrevista: Como a IA abre caminho para o tecnofascismo",
           "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png",
-            "length": "1",
-            "type": "image/png"
+            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
+            "length": "5875086",
+            "type": "video/mp4"
           },
-          "imageUrl": "https://uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png"
+          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png"
         },
         {
           "id": "https://www.intercept.com.br/?p=442200",
@@ -373,7 +388,7 @@
           "description": "Mensagem de subsecretária norte-americana dá ainda mais sentido à decisão de barrar entrada de assessor de Trump.\nO post Post sobre capivara reforça suspeita de interferência dos EUA no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/capivara-estados-unidos-brasil/",
           "publishedOn": "2026-03-24T11:00:00.000Z",
-          "wordCount": 3310,
+          "wordCount": 3340,
           "title": "Post sobre capivara reforça suspeita de interferência dos EUA no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat.jpg",
@@ -388,7 +403,7 @@
           "description": "Telegrama obtido pela Fiquem Sabendo e cedido ao Intercept revela detalhes de visita de políticos à empresa, que já esteve sob investigação do Cade por práticas anticoncorrenciais.\nO post Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/apple-reclamou-deputados-projeto-governo-lula-contra-monopolio-big-techs/",
           "publishedOn": "2026-03-24T10:00:00.000Z",
-          "wordCount": 3935,
+          "wordCount": 3939,
           "title": "Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -420,9 +435,9 @@
           "description": "Péricles Monteiro Melo, 23, foi morto a tiros enquanto andava de moto na zona oeste de São Paulo; testemunha diz ter sido ameaçada e família relata agressões e falhas na ocorrência\nO conteúdo Entregador desarmado é morto por GCM em SP; família denuncia execução Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/entregador-desarmado-e-morto-por-gcm-em-sp-familia-denuncia-execucao/",
           "publishedOn": "2026-03-26T13:24:46.000Z",
-          "wordCount": 6708,
+          "wordCount": 6738,
           "title": "Entregador desarmado é morto por GCM em SP; família denuncia execução",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/retrato-pericles-moto-objetos-daniel-arroyo.jpg.webp"
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/retrato-pericles-moto-familia-daniel-arroyo.jpg.webp"
         },
         {
           "id": "https://ponte.org/?p=159220",
@@ -499,12 +514,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250623",
+          "author": "Raissa Neves",
+          "description": "Há 109 anos, em 27 de março de 1917, eclodia em Moçambique a Revolta de Barué, uma das mais importantes insurreições contra o domínio colonial de Portugal. O levante teve início no antigo Reino de Barué, um dos últimos Estados africanos independentes no território de Moçambique, notável pela resistência aguerrida contra o avanço dos colonizadores. […]\nO post Revolta de Barué: moçambicanos em luta contra o colonialismo português apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/revolta-de-barue-mocambicanos-em-luta-contra-o-colonialismo-portugues/",
+          "publishedOn": "2026-03-27T20:00:19.000Z",
+          "wordCount": 5123,
+          "title": "Revolta de Barué: moçambicanos em luta contra o colonialismo português",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/revolta-de-barue.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250590",
+          "author": "Tatiana Carlotti",
+          "description": "Um grupo de 18 venezuelanos deportados pelos Estados Unidos para El Salvador apresentou uma petição à Comissão Interamericana de Direitos Humanos (CIDH) denunciando graves violações sofridas durante o período em que estiveram detidos no Centro de Confinamento do Terrorismo (Cecot), em El Salvador. A ação apresentada por grupos de direitos humanos, nesta quinta-feira (26/03), busca […]\nO post Venezuelanos deportados pelos EUA denunciam torturas e agressões em prisão de El Salvador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-deportados-pelos-eua-denunciam-torturas-e-agressoes-em-prisao-de-el-salvador/",
+          "publishedOn": "2026-03-27T19:30:57.000Z",
+          "wordCount": 3115,
+          "title": "Venezuelanos deportados pelos EUA denunciam torturas e agressões em prisão de El Salvador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/nayib_bukele_durante_una_visita_al_cecot.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250615",
+          "author": "Victor Farinelli",
+          "description": "Em paralelo à guerra empreendida contra o Irã, em conjunto com os Estados Unidos, Israel também tem atacado o território do Líbano desde o início de março, com a desculpa de estar perseguindo supostas células do Hezbollah, mas gerando consequências que afetam principalmente as infraestruturas básicas de algumas regiões, e devastam a vida de famílias […]\nO post Libaneses relatam luta pela vida em meio aos ataques de Israel: ‘se demorássemos mais três horas, não estaríamos aqui’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/libaneses-relatam-luta-pela-vida-em-meio-aos-ataques-de-israel-se-demorassemos-mais-tres-horas-nao-estariamos-aqui/",
+          "publishedOn": "2026-03-27T18:40:23.000Z",
+          "wordCount": 5954,
+          "title": "Libaneses relatam luta pela vida em meio aos ataques de Israel: ‘se demorássemos mais três horas, não estaríamos aqui’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/beirute-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250606",
+          "author": "Raissa Neves",
+          "description": "O presidente de Cuba, Miguel Díaz-Canel Bermúdez, expressou nesta sexta-feira (27/03) “profunda preocupação” com o desaparecimento de duas embarcações mexicanas, que, segundo ele, transportavam nove tripulantes de diversas nacionalidades e desapareceram a caminho de Havana. O mandatário cubano informou que esforços foram iniciados em Cuba para a busca e o resgate dos tripulantes, a quem […]\nO post Cuba expressa ‘profunda preocupação’ com embarcações mexicanas desaparecidas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/cuba-expressa-profunda-preocupacao-com-embarcacoes-mexicanas-desaparecidas/",
+          "publishedOn": "2026-03-27T17:42:24.000Z",
+          "wordCount": 3020,
+          "title": "Cuba expressa ‘profunda preocupação’ com embarcações mexicanas desaparecidas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/image-6-22-768x512.jpg.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250593",
           "author": "Tatiana Carlotti",
           "description": "A Marinha iraniana impediu três navios de passarem pelo Estreito de Ormuz nesta sexta-feira (27/03), reiterando às embarcações que tentarem atravessar a passagem, por onde escoa 20% do petróleo mundial, que a via permanece fechada aos “inimigos” do Irã. Os navios portavam bandeiras de diferentes nacionalidades e foram obrigados a recuar após interceptação da Marinha […]\nO post Irã mantém Estreito de Ormuz fechado e impede entrada de três navios apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-mantem-estreito-de-ormuz-fechado-e-impede-entrada-de-tres-navios/",
           "publishedOn": "2026-03-27T16:00:05.000Z",
-          "wordCount": 3063,
+          "wordCount": 3058,
           "title": "Irã mantém Estreito de Ormuz fechado e impede entrada de três navios",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/captura-de-tela-2026-02-10-102903.png"
         },
@@ -514,7 +569,7 @@
           "description": "A Assembleia Legislativa de El Salvador aprovou nesta quinta-feira (26/03) um pacote de reformas penais que inclui pena de prisão perpétua para menores de 18 anos considerados “assassinos, estupradores e terroristas”. A reforma do Código Penal Juvenil, parte da proposta do presidente salvadorenho, Nayib Bukele, para endurecer a legislação de combate ao crime, “incorpora a […]\nO post El Salvador aprova prisão perpétua para menores de idade apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/el-salvador-aprova-prisao-perpetua-para-menores-de-idade/",
           "publishedOn": "2026-03-27T15:20:11.000Z",
-          "wordCount": 3602,
+          "wordCount": 3592,
           "title": "El Salvador aprova prisão perpétua para menores de idade",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/73869738_303.jpg"
         },
@@ -524,7 +579,7 @@
           "description": "A Marinha mexicana, atuando como Guarda Costeira, acionou o Plano Marina nesta quinta-feira (26/03), com o objetivo de empregar ações de busca e salvamento para localizar dois veleiros com 9 tripulantes de diferentes nacionalidades que partiram do México em 20 de março com destino a Cuba, transportando ajuda humanitária, sobre os quais não há informações […]\nO post Marinha mexicana busca veleiros com ajuda humanitária a Cuba desaparecidos no Caribe apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/marinha-mexicana-busca-veleiros-com-ajuda-humanitaria-a-cuba-desaparecidos-no-caribe/",
           "publishedOn": "2026-03-27T14:40:28.000Z",
-          "wordCount": 2959,
+          "wordCount": 2949,
           "title": "Marinha mexicana busca veleiros com ajuda humanitária a Cuba desaparecidos no Caribe",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/heamfxgbsaayrk6.png"
         },
@@ -534,7 +589,7 @@
           "description": "O ex-presidente Jair Bolsonaro recebeu alta hospitalar nesta sexta-feira (27/03) e passou a cumprir pena em regime de prisão domiciliar humanitária, após duas semanas internado em Brasília, devido à pneumonia decorrente de broncoaspiração. Ao diagnosticar melhora clínica do ex-presidente, condenado a 27 anos de prisão por tentativa de Golpe de Estado, a equipe média autorizou […]\nO post Bolsonaro recebe alta hospitalar e cumpre pena em prisão domiciliar apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/bolsonaro-recebe-alta-hospitalar-e-cumpre-pena-em-prisao-domiciliar/",
           "publishedOn": "2026-03-27T14:00:22.000Z",
-          "wordCount": 2941,
+          "wordCount": 2886,
           "title": "Bolsonaro recebe alta hospitalar e cumpre pena em prisão domiciliar",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/14092025-pzzb3314-1.webp"
         },
@@ -544,7 +599,7 @@
           "description": "Estudantes do ensino médio e universitários realizaram um protesto massivo no centro de Santiago nesta quinta-feira (26/03) contra as políticas do governo do presidente José Antonio Kast, em um dia marcado pela repressão policial . Os Carabineros, força policial, tentaram dispersar a manifestação usando canhões de água e gás lacrimogêneo no centro da cidade. Os […]\nO post Com Kast, polícia chilena volta a reprimir protestos estudantis contra cortes e aumento do petróleo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/com-kast-policia-chilena-volta-a-reprimir-protestos-estudantis-contra-cortes-e-aumento-do-petroleo/",
           "publishedOn": "2026-03-27T13:40:01.000Z",
-          "wordCount": 3374,
+          "wordCount": 3364,
           "title": "Com Kast, polícia chilena volta a reprimir protestos estudantis contra cortes e aumento do petróleo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-27-103356.png"
         },
@@ -554,49 +609,9 @@
           "description": "O principal líder da oposição em Israel, Yair Lapid, acusou o governo do premiê Benjamin Netanyahu de conduzir Israel a um ‘desastre de segurança’ na guerra que trava contra o Irã e o Hezbollah no Líbano. A declaração ocorre um dia após o chefe do Estado-Maior das Forças de Defesa de Israel, Eyal Zamir, manifestar […]\nO post Líder da oposição adverte para ‘desastre da segurança’ em Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel/lider-da-oposicao-adverte-para-desastre-da-seguranca-em-israel/",
           "publishedOn": "2026-03-27T12:58:21.000Z",
-          "wordCount": 3072,
+          "wordCount": 3067,
           "title": "Líder da oposição adverte para ‘desastre da segurança’ em Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/redes-ok.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250550",
-          "author": "Tabitha Ramalho",
-          "description": "Em participação na cúpula do G7, na França, nesta quinta-feira (26/03), o ministro das Relações Exteriores do Brasil, Mauro Vieira, alertou para a “crise do multilateralismo” no mundo atualmente, diante da “maior concentração de conflitos desde a Segunda Guerra”. O chanceler ratificou ainda a postura do governo brasileiro em relação à necessidade de reformas e […]\nO post Mauro Vieira defende reforma de instituições para frear crise do multilateralismo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/mauro-vieira-defende-reforma-de-instituicoes-para-frear-crise-do-multilateralismo/",
-          "publishedOn": "2026-03-27T10:35:40.000Z",
-          "wordCount": 3596,
-          "title": "Mauro Vieira defende reforma de instituições para frear crise do multilateralismo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hewrgqnbyaecdtq.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250555",
-          "author": "Tatiana Carlotti",
-          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, participou, nesta sexta-feira (27/03), de uma sessão de emergência do Conselho de Direitos Humanos das Nações Unidas, onde acusou os Estados Unidos e Israel de cometerem um “crime de guerra” ao bombardear a escola primária feminina Shajareh Tayyebeh. “Mais de 175 alunas e professoras foram assassinadas […]\nO post Chanceler iraniano denuncia bombardeio à escola como ‘crime de guerra’ na ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/chanceler-iraniano-denuncia-bombardeio-a-escola-como-crime-de-guerra-na-onu/",
-          "publishedOn": "2026-03-27T10:27:53.000Z",
-          "wordCount": 3217,
-          "title": "Chanceler iraniano denuncia bombardeio à escola como ‘crime de guerra’ na ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121509224423435884304.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250547",
-          "author": "Tabitha Ramalho",
-          "description": "O Irã emitiu um ultimato ao setor hoteleiro do Oriente Médio advertindo os estabelecimentos que estejam hospedando militares norte-americanos que suas instalações poderão ser consideradas “alvos militares legítimos”. A informação foi divulgada pela agência iraniana Fars. Segundo a publicação, após ataques de retaliação conduzidos por Teerã e seus aliados, diversas bases militares dos Estados Unidos […]\nO post Irã emite ultimato a hotéis que hospedam soldados norte-americanos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-emite-ultimato-a-hoteis-que-hospedam-soldados-norte-americanos/",
-          "publishedOn": "2026-03-27T10:07:47.000Z",
-          "wordCount": 3035,
-          "title": "Irã emite ultimato a hotéis que hospedam soldados norte-americanos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1405010710470957636179064.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250479",
-          "author": "Tabitha Ramalho",
-          "description": "“O governo cubano sempre foi muito solidário com o resto do mundo. No Brasil, recebemos Médicos Sem Fronteiras. É um dever global prestar solidariedade ao povo cubano quando a sua soberania está sendo ameaçada pelo governo imperialista estadunidense”, denunciou a ativista brasileira Lisi Proença à Opera Mundi. O primeiro navio da flotilha humanitária Nuestra América […]\nO post ‘É dever global prestar solidariedade a Cuba’, diz ativista da flotilha Nuestra América apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/e-dever-global-prestar-solidariedade-a-cuba-diz-ativista-da-flotilha-nuestra-america/",
-          "publishedOn": "2026-03-27T10:00:59.000Z",
-          "wordCount": 4029,
-          "title": "‘É dever global prestar solidariedade a Cuba’, diz ativista da flotilha Nuestra América",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/diazcanelb.jpeg"
         }
       ]
     },
@@ -611,6 +626,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223330",
+          "author": "Giovanna Maria",
+          "description": "Além da flagrantes ilegalidades envolvidas no projeto de privatização, o debate promovido pelos setores mais ativos na campanha contra a privatização diz respeito à segurança de dados públicos sensíveis.",
+          "link": "https://anovademocracia.com.br/pr-mobilizacao-de-trabalhadores-barra-leilao-da-estatal-celepar/",
+          "publishedOn": "2026-03-27T18:01:38.000Z",
+          "wordCount": null,
+          "title": "PR: Mobilização de trabalhadores barra leilão da estatal Celepar",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223339",
           "author": "Redação de AND",
@@ -700,16 +725,6 @@
           "wordCount": null,
           "title": "Irã rejeita nova proposta do EUA e impõe condições para um cessar-fogo",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223256",
-          "author": "Giovanna Maria",
-          "description": "\"R$ 400,00 de água de um simples apartamento?! Essa empresa vem de fora e acha que a gente é besta?!\", denunciou um morador revoltado.",
-          "link": "https://anovademocracia.com.br/al-moradores-do-bairro-do-santa-amelia-erguem-barricadas-em-protesto-contra-a-brk-pelos-altos-valores-cobrados-nas-contas/",
-          "publishedOn": "2026-03-25T21:00:00.000Z",
-          "wordCount": null,
-          "title": "AL: Moradores do bairro do Santa Amélia erguem barricadas em protesto contra a BRK pelos altos valores cobrados nas contas",
-          "imageUrl": null
         }
       ]
     },
@@ -724,6 +739,56 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3180581",
+          "author": "Célio Turino",
+          "description": "Era 1917. Greves alastravam-se feito pólvora. Operários de Campinas,  em defesa de líder preso, colocaram-se em frente dos trilhos. Três foram fuzilados pela polícia. Uma criança, meu avô, viu tudo. Ao contar-me, percebo: a identidade de um povo também se faz das prosas em família\nThe post O massacre da Porteira da Capivara, oito décadas depois appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/o-massacre-da-porteira-da-capivara-oito-decadas-depois/",
+          "publishedOn": "2026-03-27T20:40:21.000Z",
+          "wordCount": 3645,
+          "title": "O massacre da Porteira da Capivara, oito décadas depois",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27173942/EV-JT-80-04.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180605",
+          "author": "Ricardo de Sousa Moretti",
+          "description": "Especulação viola e se apropria do Estatuto das Cidades. E camadas sociais empobrecidas submetem-se à “ilegalidade estratégica”, sob ameaça perpétua. Estrutural, a crise urbana não será revertida com pequenas reformas. Reflexões a partir da tragédia de Juiz de Fora\nThe post Saneamento: Recalcular o planejamento territorial appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/saneamento-recalcular-o-planejamento-territorial/",
+          "publishedOn": "2026-03-27T20:16:04.000Z",
+          "wordCount": 3911,
+          "title": "Saneamento: Recalcular o planejamento territorial",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27171427/photo_5060298677259275243_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180607",
+          "author": "Redação Outras Palavras",
+          "description": "Rede Sacix, parceria entre Outras Palavras e Coletivo Digital, oferece subsídios para a criação de cursos – da plataforma a utilizar à divulgação. Mostra que é possível transformar ideias e vivências em conteúdos educativos acessíveis\nThe post Como (e por que) montar seu próprio curso online  appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/agenda/como-e-por-que-montar-seu-proprio-curso-online/",
+          "publishedOn": "2026-03-27T18:58:22.000Z",
+          "wordCount": 3300,
+          "title": "Como (e por que) montar seu próprio curso online",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27155744/como-vender-cursos-online-1200x685-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180587",
+          "author": "Berenice Bento",
+          "description": "Ela não é mulher – tem pênis! A agressão à parlamentar, pela suposta ausência de um órgão definidor do seu ser, reitera um dos elementos estruturantes da misoginia: definir a mulher pela vagina. Aqui, machismo e transfobia, mais uma vez, caminham juntos\nThe post O corpo como sentença: a fogueira contra Erika Hilton appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/feminismos/o-corpo-como-sentenca-a-fogueira-contra-erika-hilton/",
+          "publishedOn": "2026-03-27T17:23:09.000Z",
+          "wordCount": 3700,
+          "title": "O corpo como sentença: a fogueira contra Erika Hilton",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27141851/Screenshot-2026-03-27-at-14-18-46-presidenta-da-comissao-de-defesa-dos-direitos-das-mulheres-deputada-erika-hilton-metropoles-3-scaled.webp-imagem-WEBP-900-%C3%97-600-pixels.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180582",
+          "author": "Almir Felitte",
+          "description": "No afã de voltar ao poder, ultradireita submete-se ainda mais a Washington. Tentativa de classificar PCC como “terrorista” obedece à Doutrina Donroe. Há um antídoto: defender soberania, em diálogo com a rejeição cada vez maior das maiorias aos EUA\nThe post Como Flávio Bolsonaro quer trazer guerra de Trump ao Brasil appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direita-assanhada/como-flavio-bolsonaro-quer-trazer-guerra-de-trump-ao-brasil/",
+          "publishedOn": "2026-03-27T17:10:13.000Z",
+          "wordCount": 4625,
+          "title": "Como Flávio Bolsonaro quer trazer guerra de Trump ao Brasil",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27140821/Screenshot-2026-03-27-at-14-08-15-flavio-bolsonaro-bonequinhos-trump-jair.jpg-imagem-JPEG-900-%C3%97-600-pixels.png"
+        },
         {
           "id": "https://outraspalavras.net/?p=3180517",
           "author": "Luiz Marques",
@@ -773,56 +838,6 @@
           "wordCount": 6638,
           "title": "Por um decolonialismo marxista",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/26170136/arton55007.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180413",
-          "author": "Edvaldo Fernandes da Silva",
-          "description": "Análise compara os dois projetos de redução da jornada em tramitação. Três problemas podem impedir que eles assegurem proteção jurídica para efetivar mudanças e favorecer chantagens patronais. O que aprender de experiências da França e Reino Unido \nThe post 6×1: A pressão que falta sobre o Congresso appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/6x1-a-pressao-que-falta-sobre-o-congresso/",
-          "publishedOn": "2026-03-26T19:39:04.000Z",
-          "wordCount": 7345,
-          "title": "6×1: A pressão que falta sobre o Congresso",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/26163825/photo_5057937927010192247_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180328",
-          "author": "Fabricio Solagna",
-          "description": "Por meio das novas tecnologias, especialmente a IA, o Ocidente tenta eternizar seu domínio. Mas sempre há algo incomputável. A reciclagem infinita do conhecimento abre brechas para que alguma desobediência subverta o algoritmo \nThe post A <i>cosmocomputação</i> contra o colonialismo digital appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/a-cosmocomputacao-contra-o-colonialismo-digital/",
-          "publishedOn": "2026-03-25T21:57:01.000Z",
-          "wordCount": 3778,
-          "title": "A cosmocomputação contra o colonialismo digital",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/25181858/photo_5055548855746759670_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180334",
-          "author": "Wolfgang Streeck",
-          "description": "Não haverá mais vida na Faixa – casas reconstruídas, escolas, hospitais –, porque Israel não pode tolerar a memória do que praticou. Igualmente brutais são a censura e o silêncio frente ao terror. Há redenção enquanto o sionismo existir?\nThe post Gaza: Há luz no fim do túnel para o Ocidente? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/gaza-luz-no-fim-do-tunel-para-o-ocidente/",
-          "publishedOn": "2026-03-25T21:43:31.000Z",
-          "wordCount": 9766,
-          "title": "Gaza: Há luz no fim do túnel para o Ocidente?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/25185444/WH7C2K6WKVAONOZP5LCJYJ3HIU.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180329",
-          "author": "Redação Outras Palavras",
-          "description": "Rede Sacix, parceria entre Outras Palavras e Coletivo Digital, analisará a crise da comunicação na Era Digital e o declínio das mídias corporativas. Propõe: diante do poder das big techs, é possível resgatar a esfera pública. E o jornalismo é arma poderosa\nThe post Curso: O que ameaça a democracia e o jornalismo? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/curso-o-que-ameaca-a-democracia-e-o-jornalismo/",
-          "publishedOn": "2026-03-25T20:46:52.000Z",
-          "wordCount": 3510,
-          "title": "Curso: O que ameaça a democracia e o jornalismo?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/25174622/image_processing20230104-11986-11p327k.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180295",
-          "author": "Renato Dagnino e Marco Baleeiro Alves",
-          "description": "Estado gasta quase 15% do PIB com bens e serviços de empresas. Mas e se direcionasse 0,5% para a economia solidária, fazendo-a um poderoso vetor de reindustrialização a partir da justiça social, sustentabilidade e – por que não?  – da formação política? \nThe post Redes solidárias para um projeto de país appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/alemdamercadoria/redes-solidarias-para-um-projeto-de-pais/",
-          "publishedOn": "2026-03-25T20:21:11.000Z",
-          "wordCount": 3514,
-          "title": "Redes solidárias para um projeto de país",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/25172049/activity-1477-2-2000-0-20250912173320.jpg"
         }
       ]
     },
@@ -879,12 +894,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=63023",
+          "author": "Boitempo",
+          "description": "Vincent Berthelier: \"Neste 14 de março de 2026, completam-se 143 anos do falecimento de Marx. Sabemos que a situação do marxismo e de seu projeto político nos dias de hoje é muito adversa – alguém duvida disso? Quem ocupa o primeiro plano da cena política é a extrema direita internacional, com seu ideário racista e xenofóbico, com sua exploração impiedosa da força de trabalho e ímpeto de devastação ambiental que ameaça a vida humana no planeta.\"",
+          "link": "https://blogdaboitempo.com.br/2026/03/27/sera-que-marx-era-estiloso-entrevista-com-vincent-berthelier/",
+          "publishedOn": "2026-03-27T18:26:15.000Z",
+          "wordCount": 19126,
+          "title": "Será que Marx era estiloso? Entrevista com Vincent Berthelier",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-27.png?fit=1200%2C799&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=62367",
           "author": "Boitempo",
           "description": "André Castro: \"Racionalidade instrumental e imaginação utópica, tudo junto e misturado na rotina do pregador mirim. Poderíamos dizer, sem muito espaço para controvérsias, que o documentário 'A voz de Deus' acontece em algumas passagens que montam uma sequência de sobreposições entre as imagens da fé e as agruras da vida.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/27/as-sequencias-brasileiras-de-a-voz-de-deus-notas-sobre-o-filme-de-miguel-antunes-ramos/",
           "publishedOn": "2026-03-27T15:00:00.000Z",
-          "wordCount": 15600,
+          "wordCount": 15745,
           "title": "As sequências brasileiras de “A voz de Deus”: notas sobre o filme de Miguel Antunes Ramos",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-12.png"
         },
@@ -904,7 +929,7 @@
           "description": "Daniela Mussi: \"O problema estratégico da forma petista de governar – e que a esquerda, em larga medida, aprendeu não apenas a reconhecer, mas também a naturalizar – reside no fato de que ela se orienta por uma dupla soberania. Trata-se de uma forma de exercício do poder que busca simultaneamente responder às expectativas de sua base social e às exigências de reprodução da ordem institucional e econômica vigente.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/27/sopravento-crise-politica-e-conflito-social-no-brasil-pos-2013/",
           "publishedOn": "2026-03-27T11:00:00.000Z",
-          "wordCount": 12125,
+          "wordCount": 12277,
           "title": "Sopravento: crise política e conflito social no Brasil pós-2013",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-25.png?fit=901%2C1200&ssl=1"
         },
@@ -934,7 +959,7 @@
           "description": "Evgeny Morozov: \"A IA surge como uma tecnologia cujos usos são descobertos após a implantação, cujos limites são porosos e cujos efeitos colaterais aparecem em lugares para os quais ninguém os projetou. ‘Generativa’ não é apenas uma palavra de marketing; ela nomeia uma instabilidade genuína. Para os socialistas, essa instabilidade coloca um desafio específico, exigindo mais do que redistribuição.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/23/socialismo-apos-a-ia/",
           "publishedOn": "2026-03-23T11:00:00.000Z",
-          "wordCount": 15919,
+          "wordCount": 15896,
           "title": "Socialismo após a IA",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-23.png?fit=1200%2C743&ssl=1"
         }
