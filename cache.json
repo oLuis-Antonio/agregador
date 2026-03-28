@@ -176,6 +176,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Um-negro-a-menos",
+          "author": "Philippe Alcoy",
+          "description": "Para os moradores dos bairros periféricos do imenso Brasil, a pena de morte está sempre presente, tanto quanto a pena de vida. E o necrotério nunca está muito longe.\n28-03-2026\n\n/ Luta Antirracista, Bahia, Nordeste, Racismo Policial, Brutalidade policial, polícia",
+          "link": "https://www.esquerdadiario.com.br/Um-negro-a-menos",
+          "publishedOn": "2026-03-28T13:12:11.000Z",
+          "wordCount": null,
+          "title": "Um negro a menos",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Reclamacoes-da-agora-privatizada-Sabesp-triplicaram-apos-a-privatizacao",
           "author": "José Pedro",
           "description": "Desde 2023, a Arsesp (Agência Reguladora de Serviços Públicos do Estado de São Paulo) subiu o registro de queixas de 3,7 mil para 10 mil. Casos na periferia de São Paulo chegaram a ter mais de 80 horas sem água. Isso equivale a um aumento de 162%. \n Só um ano depois da coleta de dados, o governador de extrema direita Tarcísio vendeu a Sabesp. A maior empresa de saneamento do Brasil atendendo 28 milhões de pessoas. Desde bairros e prédios comunitários até o Conjunto Residencial da USP (…)\nMatérias\n\n/ São Paulo (capital), Sociedade, Privatização, Privatização da Água, Grande São Paulo, Tarcísio de Freitas, São Paulo, Sabesp, Privatização da Sabesp, Governo Lula",
@@ -214,16 +224,6 @@
           "wordCount": null,
           "title": "Indígenas do Xingu completam 30 dias de ocupação na Funai em defesa do rio contra a mineração imperialista",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-da-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
-          "author": "Nossa Classe - MG",
-          "description": "Prestes a deixar a Prefeitura de Contagem, Marília Campos tenta aprovar o projeto que transforma o Previcon em autarquia, alterando o controle da previdência dos servidores, negando a participação dos trabalhadores e abrindo margem para conflitos de interesse. A autarquização está inserida em um cenário amplo de ataques, financeirização e fraudes às previdências públicas. É fundamental que o SindUTE Contagem respeite as decisões da categoria e organize a luta dos trabalhadores contra a (…)\n23-03-2026\n\n/ Classe trabalhadora, Educação, Reforma da Previdência, Contagem-MG, Minas Gerais, Marília Campos (PT)",
-          "link": "https://www.esquerdadiario.com.br/Contra-a-autarquizacao-da-Previcon-Por-uma-previdencia-sob-controle-dos-trabalhadores",
-          "publishedOn": "2026-03-24T02:55:04.000Z",
-          "wordCount": null,
-          "title": "Contra a autarquização da Previcon: Por uma previdência sob controle dos trabalhadores",
-          "imageUrl": null
         }
       ]
     },
@@ -238,7 +238,7 @@
           "description": "Com patrocínio da 7games.bet, ligada a aliados de Ciro Nogueira, perfis como Alfinetei operam um 'canhão eleitoral' que blinda Tarcísio e ataca o governo Lula sob o disfarce de entretenimento.\nO post Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/28/bet-ciro-nogueira-perfis-de-fofoca-extrema-direita/",
           "publishedOn": "2026-03-28T10:00:00.000Z",
-          "wordCount": 3429,
+          "wordCount": 3399,
           "title": "Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-3.png",
@@ -268,7 +268,7 @@
           "description": "Pesquisador da Universidade de Viena defende que tecnologias não são politicamente neutras e que a comodidade oferecida por algoritmos remove o esforço crítico e torna as pessoas obedientes e dóceis.\nO post Entrevista: Como a IA abre caminho para o tecnofascismo apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/26/entrevista-como-a-ia-abre-caminho-para-o-tecnofascismo/",
           "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 4851,
+          "wordCount": 4881,
           "title": "Entrevista: Como a IA abre caminho para o tecnofascismo",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -298,7 +298,7 @@
           "description": "Quatro comissões parlamentares em duas décadas já provaram que as armas do crime organizado saem do próprio estado; agora, com uma nova CPI no Senado, o Brasil tem a chance de parar de ignorar a corrupção no seu circuito legal de armamentos.\nO post Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/nova-cpi-do-crime-organizado/",
           "publishedOn": "2026-03-24T15:00:00.000Z",
-          "wordCount": 3822,
+          "wordCount": 3792,
           "title": "Nova CPI do crime organizado debate o que Brasil já sabe há 20 anos",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/Header1.jpg",
@@ -313,7 +313,7 @@
           "description": "Mensagem de subsecretária norte-americana dá ainda mais sentido à decisão de barrar entrada de assessor de Trump.\nO post Post sobre capivara reforça suspeita de interferência dos EUA no Brasil apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/capivara-estados-unidos-brasil/",
           "publishedOn": "2026-03-24T11:00:00.000Z",
-          "wordCount": 3310,
+          "wordCount": 3340,
           "title": "Post sobre capivara reforça suspeita de interferência dos EUA no Brasil",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat.jpg",
@@ -328,7 +328,7 @@
           "description": "Telegrama obtido pela Fiquem Sabendo e cedido ao Intercept revela detalhes de visita de políticos à empresa, que já esteve sob investigação do Cade por práticas anticoncorrenciais.\nO post Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/24/apple-reclamou-deputados-projeto-governo-lula-contra-monopolio-big-techs/",
           "publishedOn": "2026-03-24T10:00:00.000Z",
-          "wordCount": 3969,
+          "wordCount": 3939,
           "title": "Apple reclamou para deputados de projeto do governo Lula contra monopólio das big techs",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -439,12 +439,67 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250626",
+          "author": "Fernanda Oliveira",
+          "description": "No vídeo gravado por Ali Rida Sbeity, o repórter britânico Steve Sweeney aparece reportando os desdobramentos mais recentes no Líbano ao lado de uma cratera na ponte Qasemyah, localizada a cerca de 75 quilômetros ao sul de Beirute, quando um míssil israelense atinge poucos metros de onde ele está. Nas imagens, que rapidamente viralizaram nas […]\nO post ‘Exército de Israel gosta de matar jornalistas’, diz repórter que escapou de míssil no Líbano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/exercito-de-israel-gosta-de-matar-jornalistas-diz-reporter-que-escapou-de-missil-no-libano/",
+          "publishedOn": "2026-03-28T16:00:09.000Z",
+          "wordCount": 4850,
+          "title": "‘Exército de Israel gosta de matar jornalistas’, diz repórter que escapou de míssil no Líbano",
+          "enclosure": {
+            "url": "https://controle.operamundi.uol.com.br/wp-content/uploads/2026/03/reporter.mp4",
+            "length": "584702",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/images.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250668",
+          "author": "Tatiana Carlotti",
+          "description": "Os Emirados Árabes Unidos estão desempenhando um papel ativo na guerra dos Estados Unidos e Israel contra o Irã, afirmaram fontes iranianas de alto escalão ao Middle East Eye, acrescentando que o país já foi alertado de que poderá ser alvo caso ocorra uma invasão terrestre. Em comunicado nesta manhã, o Ministério da Defesa dos […]\nO post Irã denuncia envolvimento dos Emirados Árabes em ataques dos EUA e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-denuncia-envolvimento-dos-emirados-arabes-em-ataques-dos-eua-e-israel/",
+          "publishedOn": "2026-03-28T15:14:56.000Z",
+          "wordCount": 3155,
+          "title": "Irã denuncia envolvimento dos Emirados Árabes em ataques dos EUA e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mostafa-tehrani-tasnim.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250665",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente dos Estados Unidos, Donald Trump, disse nesta sexta-feira (27/3) que “Cuba é a próxima”, ao ser indagado se não teme que ações militares norte-americanas possam lhe custar apoio político. A ameaça vem menos de duas semanas depois de o político republicano dizer que terá “a honra de tomar Cuba”. Cuba enfrenta uma grave […]\nO post ‘Cuba é a próxima’, diz Trump em nova ameaça à ilha apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/cuba-e-a-proxima-diz-trump-em-nova-ameaca-a-ilha/",
+          "publishedOn": "2026-03-28T14:05:42.000Z",
+          "wordCount": 3209,
+          "title": "‘Cuba é a próxima’, diz Trump em nova ameaça à ilha",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/admin-ajax.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250653",
+          "author": "Fernanda Oliveira",
+          "description": "O segundo dia da I Conferência Internacional Antifascista, em Porto Alegre, debateu, entre outros temas, os comportamentos de ódio nas redes sociais, além da sociedade, e os perigos que a extrema direita representa para o Brasil. No painel “O Ódio como Projeto Político”, a deputada federal Maria do Rosário (PT/RS) falou sobre a disputa ideológica […]\nO post ‘Extrema direita usa ódio para disputar poder político’, diz Maria do Rosário apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/extrema-direita-usa-odio-para-disputar-poder-politico-diz-maria-do-rosario/",
+          "publishedOn": "2026-03-28T13:40:57.000Z",
+          "wordCount": 3552,
+          "title": "‘Extrema direita usa ódio para disputar poder político’, diz Maria do Rosário",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-27-at-20.28.05.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250658",
+          "author": "Tatiana Carlotti",
+          "description": "O movimento Houthi, do Iêmen, reivindicou neste sábado (28/03) a autoria de um ataque com mísseis balísticos contra Israel, marcando sua primeira ação direta na guerra que os Estados Unidos e Israel realizam contra o Irã. Os houthis afirmaram ter lançado “uma série de mísseis balísticos” contra “objetivos militares sensíveis”, em coordenação com ações do […]\nO post Houthis reivindicam ataque contra Israel e entram na guerra após um mês apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/houthis-reivindicam-ataque-contra-israel-e-entram-na-guerra-apos-um-mes/",
+          "publishedOn": "2026-03-28T13:38:40.000Z",
+          "wordCount": 3166,
+          "title": "Houthis reivindicam ataque contra Israel e entram na guerra após um mês",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/amin-ahouei-tasnim.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250645",
           "author": "Tatiana Carlotti",
-          "description": "Mais de 3 mil protestos contra o governo do presidente norte-americano, Donald Trump, estão programados em várias regiões dos Estados Unidos, neste sábado (28/03). Sob o lema “No Kings”, os atos visam denunciar a concentração de poder no Executivo e a condução de medidas consideradas agressivas em áreas como comércio, imigração e política externa. A […]\nO post ‘No Kings’: onda de protestos contra Trump toma as ruas dos EUA neste sábado apareceu primeiro em Opera Mundi.",
+          "description": "Mais de 3 mil protestos contra o governo do presidente norte-americano, Donald Trump, estão programados em várias regiões dos Estados Unidos, neste sábado (28/03). Sob o lema “No Kings”, os atos visam denunciar a concentração de poder no Executivo e a condução de medidas agressivas na política externa, comércio e imigração. A iniciativa reúne uma […]\nO post ‘No Kings’: onda de protestos contra Trump toma as ruas dos EUA neste sábado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/no-kings-onda-de-protestos-contra-trump-acontece-neste-sabado-nos-eua/",
           "publishedOn": "2026-03-28T12:49:03.000Z",
-          "wordCount": 3394,
+          "wordCount": 3367,
           "title": "‘No Kings’: onda de protestos contra Trump toma as ruas dos EUA neste sábado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-100046.png"
         },
@@ -454,7 +509,7 @@
           "description": "Em amistoso disputado nesta sexta-feira (27/03), na cidade de Antália, na Turquia, a seleção de futebol do Irã enfrentou a da Nigéria, em evento que chamou mais a atenção pelo que aconteceu minutos antes da partida começar. A surpresa aconteceu na entrada das equipes em campo, quando os jogadores iranianos apareceram levando mochilas escolares infantis […]\nO post Em amistoso, seleção do Irã homenageia meninas assassinadas por EUA e Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/em-amistoso-selecao-do-ira-homenageia-meninas-assassinadas-por-eua-e-israel/",
           "publishedOn": "2026-03-27T23:46:56.000Z",
-          "wordCount": 3138,
+          "wordCount": 3187,
           "title": "Em amistoso, seleção do Irã homenageia meninas assassinadas por EUA e Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mochilas.jpg"
         },
@@ -464,7 +519,7 @@
           "description": "Após três anos de espera, a Corte Especial do Superior Tribunal de Justiça (STJ) do Brasil marcou para 15 de abril o julgamento de homologação para que o ex-militar uruguaio Pedro Antonio Mato Narbondo cumpra pena no país. O pedido foi encaminhado pela Itália, que o condenou à prisão perpétua pela participação em crimes cometidos […]\nO post Após três anos, STJ marca julgamento sobre execução da pena de ex-militar uruguaio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/apos-tres-anos-stj-marca-julgamento-sobre-execucao-da-pena-de-ex-militar-uruguaio/",
           "publishedOn": "2026-03-27T22:00:04.000Z",
-          "wordCount": 3506,
+          "wordCount": 3508,
           "title": "Após três anos, STJ marca julgamento sobre execução da pena de ex-militar uruguaio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-27-at-18.10.44.jpeg"
         },
@@ -474,7 +529,7 @@
           "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, afirmou nesta sexta-feira (27/03) que os Estados Unidos e Israel “pagarão um preço alto” pelos ataques israelense a diversas instalações de infraestrutura importantes no país. A declaração aconteceu após mísseis israelenses atingirem as instalações nucleares civis de Arak e Yazd, nesta mesma sexta. Também foram alvejados […]\nO post Irã afirma que EUA e Israel ‘pagarão preço alto’ após novo ataque a locais estratégicos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-eua-e-israel-pagarao-preco-alto-apos-novo-ataque-a-locais-estrategicos/",
           "publishedOn": "2026-03-27T21:30:10.000Z",
-          "wordCount": 3045,
+          "wordCount": 3049,
           "title": "Irã afirma que EUA e Israel ‘pagarão preço alto’ após novo ataque a locais estratégicos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/abbas-2.jpg"
         },
@@ -484,59 +539,9 @@
           "description": "A distância geográfica nunca foi garantia de isolamento em um sistema internacional interdependente. O conflito entre Irã e Israel, intensificado em junho de 2025 com trocas diretas de mísseis e operações cibernéticas, evidencia essa realidade ao projetar efeitos concretos sobre o continente africano — ainda que fora do epicentro militar. O que está em jogo […]\nO post Guerra distante, custo imediato: o que está em jogo para a África no conflito Irã-Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/guerra-distante-custo-imediato-o-que-esta-em-jogo-para-a-africa-no-conflito-ira-israel/",
           "publishedOn": "2026-03-27T20:52:45.000Z",
-          "wordCount": 3653,
+          "wordCount": 3702,
           "title": "Guerra distante, custo imediato: o que está em jogo para a África no conflito Irã-Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/porto-ira.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250620",
-          "author": "Raissa Neves",
-          "description": "O Pentágono avalia enviar mais de 10 mil soldados ao Oriente Médio, em meio à tensão com o Irã na busca de acrescentar opções militares ao presidente dos Estados Unidos, Donald Trump, segundo foi divulgado nesta quinta-feira (26/01) pelo The Wall Street Journal. De acordo com o jornal norte-americano, a força incluiria soldados de infantaria […]\nO post Pentágono avalia enviar mais de 10 mil soldados ao Oriente Médio, diz jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pentagono-avalia-enviar-mais-de-10-mil-soldados-ao-oriente-medio-diz-jornal/",
-          "publishedOn": "2026-03-27T20:50:53.000Z",
-          "wordCount": 2963,
-          "title": "Pentágono avalia enviar mais de 10 mil soldados ao Oriente Médio, diz jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/saifee-art-yzgbdjdefbi-unsplash-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250623",
-          "author": "Raissa Neves",
-          "description": "Há 109 anos, em 27 de março de 1917, eclodia em Moçambique a Revolta de Barué, uma das mais importantes insurreições contra o domínio colonial de Portugal. O levante teve início no antigo Reino de Barué, um dos últimos Estados africanos independentes no território de Moçambique, notável pela resistência aguerrida contra o avanço dos colonizadores. […]\nO post Revolta de Barué: moçambicanos em luta contra o colonialismo português apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/revolta-de-barue-mocambicanos-em-luta-contra-o-colonialismo-portugues/",
-          "publishedOn": "2026-03-27T20:00:19.000Z",
-          "wordCount": 5134,
-          "title": "Revolta de Barué: moçambicanos em luta contra o colonialismo português",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/revolta-de-barue.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250590",
-          "author": "Tatiana Carlotti",
-          "description": "Um grupo de 18 venezuelanos deportados pelos Estados Unidos para El Salvador apresentou uma petição à Comissão Interamericana de Direitos Humanos (CIDH) denunciando graves violações sofridas durante o período em que estiveram detidos no Centro de Confinamento do Terrorismo (Cecot), em El Salvador. A ação apresentada por grupos de direitos humanos, nesta quinta-feira (26/03), busca […]\nO post Venezuelanos deportados pelos EUA denunciam torturas e agressões em prisão de El Salvador apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-deportados-pelos-eua-denunciam-torturas-e-agressoes-em-prisao-de-el-salvador/",
-          "publishedOn": "2026-03-27T19:30:57.000Z",
-          "wordCount": 3126,
-          "title": "Venezuelanos deportados pelos EUA denunciam torturas e agressões em prisão de El Salvador",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/nayib_bukele_durante_una_visita_al_cecot.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250615",
-          "author": "Victor Farinelli",
-          "description": "Em paralelo à guerra empreendida contra o Irã, em conjunto com os Estados Unidos, Israel também tem atacado o território do Líbano desde o início de março, com a desculpa de estar perseguindo supostas células do Hezbollah, mas gerando consequências que afetam principalmente as infraestruturas básicas de algumas regiões, e devastam a vida de famílias […]\nO post Libaneses relatam luta pela vida em meio aos ataques de Israel: ‘se demorássemos mais três horas, não estaríamos aqui’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/libaneses-relatam-luta-pela-vida-em-meio-aos-ataques-de-israel-se-demorassemos-mais-tres-horas-nao-estariamos-aqui/",
-          "publishedOn": "2026-03-27T18:40:23.000Z",
-          "wordCount": 5915,
-          "title": "Libaneses relatam luta pela vida em meio aos ataques de Israel: ‘se demorássemos mais três horas, não estaríamos aqui’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/beirute-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250606",
-          "author": "Raissa Neves",
-          "description": "O presidente de Cuba, Miguel Díaz-Canel Bermúdez, expressou nesta sexta-feira (27/03) “profunda preocupação” com o desaparecimento de duas embarcações mexicanas, que, segundo ele, transportavam nove tripulantes de diversas nacionalidades e desapareceram a caminho de Havana. O mandatário cubano informou que esforços foram iniciados em Cuba para a busca e o resgate dos tripulantes, a quem […]\nO post Cuba expressa ‘profunda preocupação’ com embarcações mexicanas desaparecidas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cuba-expressa-profunda-preocupacao-com-embarcacoes-mexicanas-desaparecidas/",
-          "publishedOn": "2026-03-27T17:42:24.000Z",
-          "wordCount": 3031,
-          "title": "Cuba expressa ‘profunda preocupação’ com embarcações mexicanas desaparecidas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/image-6-22-768x512.jpg.webp"
         }
       ]
     },
