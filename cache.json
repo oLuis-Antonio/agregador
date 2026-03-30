@@ -7,6 +7,23 @@
       "articles": []
     },
     {
+      "title": "Jornal A Verdade",
+      "feedUrl": "https://averdade.org.br/feed/",
+      "siteUrl": "https://averdade.org.br/",
+      "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61040",
+          "author": "Clóvis Maia",
+          "description": "Em sua primeira visita ao estado de Pernambuco, o novo embaixador cubano no Brasil, Víctor Manoel Cairo Palomo, foi recebido pelos movimentos sociais no Centro Cultural Manoel Lisboa em Recife, onde falou sobre a luta dos cubanos para manterem sua autonomia diante das recentes agressões dos EUA. Clóvis Maia| Redação Pernambuco INTERNACIONAL- O Centro Cultural […]",
+          "link": "https://averdade.org.br/2026/03/cuba-nao-quer-ser-parte-dos-eua-afirma-embaixador-cubano/",
+          "publishedOn": "2026-03-30T04:46:57.000Z",
+          "wordCount": 6906,
+          "title": "“Cuba não quer ser parte dos EUA”, afirma embaixador Cubano",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/DSC09434-2.jpg"
+        }
+      ]
+    },
+    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
@@ -119,11 +136,21 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Nos-EUA-Flavio-Bolsonaro-pede-intervencao-de-Trump-nas-eleicoes-e-promete-tornar-o-Brasil-sua",
+          "author": "Ítalo Gimenes",
+          "description": "Pedindo pressões diplomáticas dos EUA e de outras potências para garantir “eleições livres” e que a “vontade do povo” de o eleger prevaleça, Flávio Bolsonaro faz discurso a base trumpista oferecendo minerais críticos e o alinhamento automático do Brasil aos EUA na disputa com a China. Um discurso que torna patente que Flávio Bolsonaro não tem nada de “moderado” em comparação com o pai na sua proposta de submissão colonial do Brasil aos EUA, lambendo as botas de Trump para que ele o ajude a se eleger.\n30-03-2026\n\n/ Política, Estados Unidos, China, Donald Trump, Jair Bolsonaro, Imperialismo, Flavio Bolsonaro, Família Bolsonaro, Bolsonaro, Terras Raras, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Nos-EUA-Flavio-Bolsonaro-pede-intervencao-de-Trump-nas-eleicoes-e-promete-tornar-o-Brasil-sua",
+          "publishedOn": "2026-03-30T16:05:21.000Z",
+          "wordCount": null,
+          "title": "Nos EUA, Flávio Bolsonaro pede intervenção de Trump nas eleições e promete tornar o Brasil sua colônia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
-          "author": "Redação",
+          "author": "Faísca USP, Nossa Classe - USP",
           "description": "O novo reitor da USP, Aluísio Segurado, foi escolhido pelo governador Tarcísio de Freitas, não por mera formalidade. Ele era o candidato ideal para levar a frente o projeto de inovação da USP tal qual pensado pelas gestões anteriores como a de Vahan Agopyan, atual Secretário de Ciência e Tecnologia do governo estadual. O projeto de universidade defendido pela burocracia universitária cai como uma luva para o governo que quer privatizar até a última gota d'água.\n30-03-2026\n\n/ Classe trabalhadora, Juventude, USP, Movimento Nossa Classe, Faísca - Juventude Revolucionária e Anticapitalista",
           "link": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
-          "publishedOn": "2026-03-30T13:10:08.000Z",
+          "publishedOn": "2026-03-30T14:25:19.000Z",
           "wordCount": null,
           "title": "USP inova em novas formas de elitismo e exclusão: É preciso construir uma forte mobilização unificando estudantes e trabalhadores por novo projeto de universidade",
           "imageUrl": null
@@ -231,7 +258,7 @@
           "description": "Pesquisador da Universidade de Viena defende que tecnologias não são politicamente neutras e que a comodidade oferecida por algoritmos remove o esforço crítico e torna as pessoas obedientes e dóceis.\nO post Entrevista: Como a IA abre caminho para o tecnofascismo apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/26/entrevista-como-a-ia-abre-caminho-para-o-tecnofascismo/",
           "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 4851,
+          "wordCount": 4881,
           "title": "Entrevista: Como a IA abre caminho para o tecnofascismo",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -247,6 +274,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=159332",
+          "author": "Jessica Santos",
+          "description": "Enquanto parte da imprensa reproduz versões oficiais, a redação aposta em um jornalismo que ouve vítimas da violência de Estado e busca confronto com essas narrativas\nO conteúdo Da Redação | O trabalho da Ponte incomoda e vai continuar incomodando Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/o-trabalho-da-ponte-incomoda-e-vai-continuar-incomodando/",
+          "publishedOn": "2026-03-30T15:00:00.000Z",
+          "wordCount": 5438,
+          "title": "Da Redação | O trabalho da Ponte incomoda e vai continuar incomodando",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2019/12/daniel-arroyo-abordagem-pm-lucas-martins-jl.jpg"
+        },
         {
           "id": "https://ponte.org/?p=159288",
           "author": "Mariana Rosetti",
@@ -302,12 +339,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250864",
+          "author": "Rocio Paik",
+          "description": "O preço do petróleo global subiu drasticamente para US$ 116 (aproximadamente R$ 607) por barril nesta segunda-feira (30/03), após o presidente dos Estados Unidos, Donald Trump, ameaçar “destruir completamente” as usinas elétricas iranianas, poços de petróleo e seu centro de exportação, a Ilha Kharg, caso o Irã não concordasse com um acordo. A posição norte-americana […]\nO post Preço global do petróleo sobe após Trump ameaçar ‘destruir completamente’ usinas iranianas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-global-do-petroleo-sobe-apos-trump-ameacar-destruir-completamente-usinas-iranianas/",
+          "publishedOn": "2026-03-30T16:40:09.000Z",
+          "wordCount": 2973,
+          "title": "Preço global do petróleo sobe após Trump ameaçar ‘destruir completamente’ usinas iranianas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/russian_navy_tanker_iman.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250846",
+          "author": "Fernanda Oliveira",
+          "description": "A I Conferência Internacional Antifascista encerrou as atividades na noite deste domingo (29/03) com a participação de diversas personalidades de mais de 40 países, com 11 painéis propostos pelo Comitê Organizador, 150 atividades autogestionadas e a Feira de Artesanato Bella Ciao. Reunidos em Porto Alegre, os presentes afirmaram uma “unidade na diversidade” com um objetivo […]\nO post Conferência Antifascista encerra com proposta de frente global contra extrema direita apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/conferencia-antifascista-encerra-com-proposta-de-frente-global-contra-extrema-direita/",
+          "publishedOn": "2026-03-30T16:08:58.000Z",
+          "wordCount": 5659,
+          "title": "Conferência Antifascista encerra com proposta de frente global contra extrema direita",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-29-at-18.43.11.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250853",
+          "author": "Tabitha Ramalho",
+          "description": "Há 89 anos, em 30 de março de 1937, nascia José Celso Martinez Corrêa, o Zé Celso, um dos mais importantes dramaturgos e diretores de teatro da história do Brasil. Fundador do Teatro Oficina, Zé Celso foi uma figura chave no desenvolvimento do teatro brasileiro contemporâneo, destacando-se por sua produção original, irreverente e experimental, marcada […]\nO post Zé Celso: resistência, contracultura e liberdade nos palcos do Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/uncategorized/ze-celso-resistencia-contracultura-e-liberdade-nos-palcos-do-brasil/",
+          "publishedOn": "2026-03-30T15:40:07.000Z",
+          "wordCount": 4647,
+          "title": "Zé Celso: resistência, contracultura e liberdade nos palcos do Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/jose_celso_martinez_correa_4863122835.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250842",
+          "author": "Tatiana Carlotti",
+          "description": "O premiê de Israel, Benjamin Netanyahu, determinou que o cardeal Pierbattista Pizzaballa, patriarca latino de Jerusalém, tenha acesso “pleno e imediato” à Igreja do Santo Sepulcro. A medida foi anunciada pouco depois da meia-noite (horário israelense) desta segunda-feira (30/03), após o prelado italiano ter sido proibido de celebrar a missa do Domingo de Ramos em […]\nO post Após proibição, Israel permite acesso de cardeal à Igreja do Santo Sepulcro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/apos-proibicao-israel-permite-acesso-de-cardeal-a-igreja-do-santo-sepulcro/",
+          "publishedOn": "2026-03-30T15:06:53.000Z",
+          "wordCount": 3082,
+          "title": "Após proibição, Israel permite acesso de cardeal à Igreja do Santo Sepulcro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/the_church_of_the_holy_sepulchre-jerusalem.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250847",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente Donald Trump ameaçou nesta segunda-feira (30/03) destruir “completamente” a ilha de Kharg, principal centro de exportação de petróleo do Irã, e outros importantes locais de produção de energia no país, caso Teerã não concorde com um acordo de paz e não ponha fim ao bloqueio de fato do Estreito de Ormuz. Em uma […]\nO post Trump ameaça destruir ‘completamente’ ilha de Kharg e pressiona Teerã por acordo de paz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-destruir-completamente-ilha-de-kharg-e-pressiona-teera-por-acordo-de-paz/",
+          "publishedOn": "2026-03-30T14:34:36.000Z",
+          "wordCount": 2795,
+          "title": "Trump ameaça destruir ‘completamente’ ilha de Kharg e pressiona Teerã por acordo de paz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/960px-iss005-e-11900_lrg-e1773495821749.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250849",
+          "author": "Tatiana Carlotti",
+          "description": "Parlamentares de esquerda assinaram um projeto de lei, apresentado pela deputada Tabata Amaral (PSB), que visa incorporar as determinações da Aliança Internacional para a Memória do Holocausto (IHRA) na definição de antissemitismo no Brasil. O Projeto de Lei tem adesão de 45 parlamentares, incluindo representantes dos partidos de esquerda. Destacam-se, além da própria proponente, a […]\nO post Deputados de esquerda apoiam projeto que considera antissemitismo criticar Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/deputados-de-esquerda-apoiam-projeto-que-considera-antissemitismo-criticar-israel/",
+          "publishedOn": "2026-03-30T14:33:06.000Z",
+          "wordCount": 3826,
+          "title": "Deputados de esquerda apoiam projeto que considera antissemitismo criticar Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/pzzb8314.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250843",
           "author": "Tabitha Ramalho",
           "description": "Em 30 de março, os palestinos celebram o Dia da Terra, ou Yom al-Ard, relembrando os eventos de 50 anos atrás. Em 30 de março de 1976, seis palestinos desarmados foram mortos por forças israelenses e mais de 100 ficaram feridos durante protestos contra a confiscação ilegal de terras palestinas por Israel. Tel Aviv ordenou […]\nO post Palestinos celebram 50 anos do Dia da Terra em meio à escalada de violência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/palestinos-celebram-50-anos-do-dia-da-terra-em-meio-a-escalada-de-violencia/",
           "publishedOn": "2026-03-30T13:35:15.000Z",
-          "wordCount": 3445,
+          "wordCount": 3444,
           "title": "Palestinos celebram 50 anos do Dia da Terra em meio à escalada de violência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1280px-land_day_sakhneen.jpg"
         },
@@ -317,7 +414,7 @@
           "description": "O porta-voz da presidência russa, Dmitry Peskov, afirmou na segunda-feira (30/03) que a Rússia continuará trabalhando para fornecer mais petróleo a Cuba em meio à crise energética da ilha causada pelo embargo dos EUA. “Continuaremos trabalhando, repito, na situação desesperadora em que o povo cubano se encontra. Isso, é claro, não pode nos deixar indiferentes”, […]\nO post Rússia reafirma apoio a Cuba e promete mais petróleo em meio ao bloqueio dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/russia-reafirma-apoio-a-cuba-e-promete-mais-petroleo-em-meio-ao-bloqueio-dos-eua/",
           "publishedOn": "2026-03-30T12:17:26.000Z",
-          "wordCount": 2978,
+          "wordCount": 2927,
           "title": "Rússia reafirma apoio a Cuba e promete mais petróleo em meio ao bloqueio dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/69ca4698e9ff710ed35be4a7.jpg"
         },
@@ -327,7 +424,7 @@
           "description": "Um avião de vigilância aérea dos Estados Unidos foi destruído após um ataque iraniano à Base Aérea Príncipe Sultan, localizada na província de Al-Kharj, na Arábia Saudita. As imagens da aeronave, avaliada em US$ 270 milhões (R$ 1,4 bilhão), foram divulgadas pela agência iraniana Fars neste domingo (29/03). As imagens divulgadas mostram uma aeronave E-3 […]\nO post Irã destrói avião espião dos EUA avaliado em R$ 1,4 bilhão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-destroi-aviao-espiao-dos-eua-avaliado-em-14-bilhao/",
           "publishedOn": "2026-03-30T10:54:24.000Z",
-          "wordCount": 3072,
+          "wordCount": 3021,
           "title": "Irã destrói avião espião dos EUA avaliado em R$ 1,4 bilhão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/helf17cbeaavkxi.jpg"
         },
@@ -337,71 +434,17 @@
           "description": "Assim que os Estados Unidos, juntamente com Israel, atacaram o Irã em 28 de fevereiro, violando as negociações nucleares até então em curso, o presidente norte-americano Donald Trump deixou claro os seus objetivos, em coletiva: “eles nunca poderão ter uma arma nuclear”. A guerra contra a nação persa completou um mês, enquanto o republicano é […]\nO post Coreia do Norte, Rússia e Irã: programas nucleares se tornaram escudo contra os EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-e-russia-programas-nucleares-se-tornaram-escudo-contra-eua/",
           "publishedOn": "2026-03-30T10:13:34.000Z",
-          "wordCount": 5591,
+          "wordCount": 5590,
           "title": "Coreia do Norte, Rússia e Irã: programas nucleares se tornaram escudo contra os EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1421551.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250818",
-          "author": "Tabitha Ramalho",
-          "description": "Uma fábrica petroquímica, a Universidade de Tecnologia de Isfahan e parte da rede elétrica estavam entre os alvos atingidos por aeronaves norte-americanas e israelenses no domingo (29/03) no Irã, que atacaram a infraestrutura aérea de bases americanas no Oriente Médio e enfatizaram que suas tropas “aguardam os soldados” do Pentágono, em resposta a crescentes relatos […]\nO post Irã retalia alvos israelenses e norte-americanos após ataques à infraestrutura energética apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-retalia-alvos-israelenses-e-norte-americanos-apos-ataques-a-infraestrutura-energetica/",
-          "publishedOn": "2026-03-30T10:03:29.000Z",
-          "wordCount": 4934,
-          "title": "Irã retalia alvos israelenses e norte-americanos após ataques à infraestrutura energética",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tasnim-amin-ahouei-e1773741016269.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250815",
-          "author": "Tabitha Ramalho",
-          "description": "O petroleiro russo Anatoli Kolodkin chegou a Cuba e está aguardando para ser descarregado no porto de Matanzas, informou o Ministério dos Transportes da Rússia. O navio transporta aproximadamente 100 mil toneladas de petróleo para ajuda humanitária. O petroleiro navega sob bandeira russa e sem escolta militar. Ele foi escoltado por um navio de guerra […]\nO post Petroleiro russo chega a Cuba com 730 mil barris de petróleo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petroleiro-russo-chega-a-cuba-com-730-mil-barris-de-petroleo/",
-          "publishedOn": "2026-03-30T09:40:35.000Z",
-          "wordCount": 3268,
-          "title": "Petroleiro russo chega a Cuba com 730 mil barris de petróleo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/20130912ru107211_2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250805",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente da Coreia do Norte, Kim Jong-un, supervisionou neste domingo (29/03) o teste de um motor de míssil de combustível sólido de alta potência, considerado um avanço estratégico no desenvolvimento de mísseis. Durante a inspeção, Kim salientou que a Coreia do Norte vive uma nova fase da construção das suas forças estratégicas e que […]\nO post Coreia do Norte realiza teste com míssil visando ‘alto nível’ de poder militar apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-realiza-teste-com-missil-visando-alto-nivel-de-poder-militar/",
-          "publishedOn": "2026-03-29T20:38:33.000Z",
-          "wordCount": 2771,
-          "title": "Coreia do Norte realiza teste com míssil visando ‘alto nível’ de poder militar",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/44d7e309f4ef65cb44a11d1a0712ddf31a1a3022f3be1f18f917f4fddd55bc5eeecaf2e327101adf28e02c27df7546d5dca1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250803",
-          "author": "Tatiana Carlotti",
-          "description": "O navio Anatoly Kolodkin, que transporta 730 mil barris de petróleo bruto, tem chegada prevista para esta segunda-feira, 30 de março, ao porto de Matanzas, no oeste de Cuba. Essa medida desafia diretamente o bloqueio unilateral imposto pelo governo dos Estados Unidos, que intensificou as medidas coercitivas contra a ilha, buscando estrangular o fornecimento de […]\nO post Petroleiro russo segue em direção a Cuba e desafia bloqueio dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petroleiro-russo-segue-em-direcao-a-cuba-e-desafia-bloqueio-dos-eua/",
-          "publishedOn": "2026-03-29T19:52:05.000Z",
-          "wordCount": 3149,
-          "title": "Petroleiro russo segue em direção a Cuba e desafia bloqueio dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/moscow_stars.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250797",
-          "author": "Tatiana Carlotti",
-          "description": "Pesquisa divulgada pelo Instituto de Democracia de Israel revela que 68% dos israelenses apoiam a continuidade da guerra contra o Irã. O número, embora alto, caiu desde o início do conflito, em 28 de fevereiro, quando 81% da população respaldava as ações militares de Israel e dos Estados Unidos contra o país persa. Entre os […]\nO post Apoio dos israelenses à guerra recua após um mês, aponta pesquisa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/apoio-dos-israelenses-a-guerra-recua-apos-um-mes-aponta-pesquisa/",
-          "publishedOn": "2026-03-29T19:21:13.000Z",
-          "wordCount": 2981,
-          "title": "Apoio dos israelenses à guerra recua após um mês, aponta pesquisa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404071309091743734247494.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250788",
-          "author": "Tatiana Carlotti",
-          "description": "A Caminhada do Silêncio volta às ruas de São Paulo (SP) neste domingo (29/03) para a sua 6ª edição, com concentração às 16h diante do antigo DOI-Codi, na rua Tutóia, e cortejo mudo até o Monumento aos Mortos e Desaparecidos Políticos, no Ibirapuera. Criado em 2019, quando o governo de Jair Bolsonaro (PL) conclamava a […]\nO post Caminhada do Silêncio volta às ruas em memória das vítimas do regime militar apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/caminhada-do-silencio-volta-as-ruas-em-memoria-das-vitimas-do-regime-militar/",
-          "publishedOn": "2026-03-29T17:58:24.000Z",
-          "wordCount": 6361,
-          "title": "Caminhada do Silêncio volta às ruas em memória das vítimas do regime militar",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tuane-fernandes-instituto-vladimir-herzog.webp"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -409,13 +452,23 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=223446",
+          "author": "Giovanna Maria",
+          "description": "Toda a região do Norte de Minas e Sul da Bahia é marcada pela crescente ofensiva do latifúndio e consequente organização em autodefesa dos camponeses pobres.",
+          "link": "https://anovademocracia.com.br/mg-campones-denuncia-roubo-de-terras-e-de-agua-por-parte-do-grupo-veloso-que-produz-cafe-gourmet/",
+          "publishedOn": "2026-03-30T15:31:03.000Z",
+          "wordCount": null,
+          "title": "MG: Camponês denuncia roubo de terras e de água por parte do Grupo Veloso, que produz ‘café gourmet’",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=223405",
           "author": "Redação de AND",
           "description": "O representante de LAI no Brasil afirmou em sua fala de abertura: “Não há que ter ilusões com esse sistema. O sistema imperialista vai para a lata de lixo da história, ele vai ser varrido. Mas não será de forma espontânea, esse gigante de pés de barro precisa ser derrubado.”",
           "link": "https://anovademocracia.com.br/conferencia-nacional-liga-anti-imperialista/",
           "publishedOn": "2026-03-29T21:27:11.000Z",
           "wordCount": null,
-          "title": "Conferência Nacional da Liga Anti-imperialista Internacional reúne mais de 200 ativistas revolucionários no Rio de Janeiro",
+          "title": "Conferência Nacional da Liga Anti-imperialista Internacional reúne mais de 200 ativistas populares no Rio de Janeiro",
           "imageUrl": null
         },
         {
@@ -497,16 +550,6 @@
           "wordCount": null,
           "title": "Denúncia: mensagem anônima tenta intimidar o AND",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223318",
-          "author": "Redação de AND",
-          "description": "Neste episódio #357, receberemos o pesquisador Mansur Peixoto, fundador do projeto História Islâmica, para tratar dos desdobramentos da resistência nacional iraniana, que “dá as cartas” e impõe suas condições sobre os imperialistas e nazi-sionistas, que, por sua vez, derrotados estrategicamente e isolados politicamente, assestam contra a ilha de Kharg. Hoje (19/03), às 19h, ao vivo no YouTube:",
-          "link": "https://anovademocracia.com.br/trump-frustrado-pela-resistencia-iraniana/",
-          "publishedOn": "2026-03-26T20:33:07.000Z",
-          "wordCount": null,
-          "title": "ASSISTA: Trump é frustrado pela Resistência e planeja ocupar ilha iraniana – A Propósito #357",
-          "imageUrl": null
         }
       ]
     },
@@ -514,7 +557,18 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "69ca9b2401e7cd37414cfc1e",
+          "author": "O Poder Popular",
+          "description": "Por Pedro Veberling - Graduando em Ciências Econômicas pela UFVJM, pesquisador e militante da UJC BRASIL - https://ujc.org.br/\nPublicado originalmente na revista Aurora Operária, de Ipatinga (MG).\nSe o conhecimento é a principal ferramenta para a transformação da",
+          "link": "https://opoderpopular.com.br/o-sequestro-privado-da-educacao-brasileira/",
+          "publishedOn": "2026-03-30T15:54:11.000Z",
+          "wordCount": 1633,
+          "title": "O Sequestro Privado da Educação Brasileira",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/03/CADEIRAS.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
@@ -527,7 +581,7 @@
           "description": "Guerra ameaça a Economia do Ocidente. Cresce o abismo entre as declarações de vitória do presidente e sua incapacidade de sufocar o Irã. Pesadelo do Vietnã ressurge. Casa Branca passa a temer e ameaçar as eleições de novembro\nThe post E agora, falastrão? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/e-agora-falastrao/",
           "publishedOn": "2026-03-27T21:50:51.000Z",
-          "wordCount": 4330,
+          "wordCount": 4412,
           "title": "E agora, falastrão?",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27183844/photo_5059847409340451707_w1.jpg"
         },
@@ -629,12 +683,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=158928",
+          "author": "Vieira",
+          "description": "O ECA Digital aumenta a responsabilidade das empresas na identificação de quem usa suas plataformas, mas é importante que os responsáveis acompanhem tudo que as crianças e os adolescentes usam nesses equipamentos. Por Marcelo Tavares de Santana",
+          "link": "https://passapalavra.info/2026/03/158928/",
+          "publishedOn": "2026-03-30T16:50:00.000Z",
+          "wordCount": 4880,
+          "title": "ECA Digital e o desafio do controle parental",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_4.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=158923",
           "author": "Enzo Silva",
           "description": "Tribunal Popular organizado por entidades irá realizar julgamento sobre crimes cometidos em áreas de conflito agrário e contra advogados e defensores de direitos humanos. Por ABRAPO, CEBRASPO, COMSOLUTE, CPT, OPIROMA, MAB e LCP",
           "link": "https://passapalavra.info/2026/03/158923/",
           "publishedOn": "2026-03-29T22:43:20.000Z",
-          "wordCount": 4533,
+          "wordCount": 4541,
           "title": "[Rondônia] O latifúndio no banco dos réus",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2020/03/MOVIMENTO_LUTA-1.png"
         },
@@ -701,7 +765,7 @@
           "description": "Thais Klein: \"Vale lembrar que as mulheres são maioria do eleitorado. Isso significa que o ataque às mulheres não é apenas expressão de ódio, mas também tentativa de incidir sobre um campo político concreto, de desestabilizar, intimidar, silenciar. A violência de gênero, nesse contexto, não é exterior à democracia – ela a atravessa e a ameaça.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/27/misoginia-digital-o-ataque-as-mulheres-como-tatica-politica/",
           "publishedOn": "2026-03-27T13:00:00.000Z",
-          "wordCount": 12643,
+          "wordCount": 12486,
           "title": "Misoginia digital: o ataque às mulheres como tática política",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-26.png"
         },
