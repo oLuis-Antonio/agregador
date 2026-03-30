@@ -7,23 +7,6 @@
       "articles": []
     },
     {
-      "title": "Jornal A Verdade",
-      "feedUrl": "https://averdade.org.br/feed/",
-      "siteUrl": "https://averdade.org.br/",
-      "articles": [
-        {
-          "id": "https://averdade.org.br/?p=61040",
-          "author": "Clóvis Maia",
-          "description": "Em sua primeira visita ao estado de Pernambuco, o novo embaixador cubano no Brasil, Víctor Manoel Cairo Palomo, foi recebido pelos movimentos sociais no Centro Cultural Manoel Lisboa em Recife, onde falou sobre a luta dos cubanos para manterem sua autonomia diante das recentes agressões dos EUA. Clóvis Maia| Redação Pernambuco INTERNACIONAL- O Centro Cultural […]",
-          "link": "https://averdade.org.br/2026/03/cuba-nao-quer-ser-parte-dos-eua-afirma-embaixador-cubano/",
-          "publishedOn": "2026-03-30T04:46:57.000Z",
-          "wordCount": 6906,
-          "title": "“Cuba não quer ser parte dos EUA”, afirma embaixador Cubano",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/DSC09434-2.jpg"
-        }
-      ]
-    },
-    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
@@ -136,6 +119,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
+          "author": "Redação",
+          "description": "O novo reitor da USP, Aluísio Segurado, foi escolhido pelo governador Tarcísio de Freitas, não por mera formalidade. Ele era o candidato ideal para levar a frente o projeto de inovação da USP tal qual pensado pelas gestões anteriores como a de Vahan Agopyan, atual Secretário de Ciência e Tecnologia do governo estadual. O projeto de universidade defendido pela burocracia universitária cai como uma luva para o governo que quer privatizar até a última gota d'água.\n30-03-2026\n\n/ Classe trabalhadora, Juventude, USP, Movimento Nossa Classe, Faísca - Juventude Revolucionária e Anticapitalista",
+          "link": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
+          "publishedOn": "2026-03-30T13:10:08.000Z",
+          "wordCount": null,
+          "title": "USP inova em novas formas de elitismo e exclusão: É preciso construir uma forte mobilização unificando estudantes e trabalhadores por novo projeto de universidade",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Trabalhadoras-da-limpeza-do-Metro-SP-da-Brasanitas-sofrem-calote-e-nao-recebem-Hora-Extra",
           "author": "Redação",
           "description": "O Esquerda Diário recebeu a denúncia de que a empresa Brasanitas não está pagando Horas Extras aos seus funcionários. A empresa é mais uma que lucra com a precarização do trabalho, explorando seus funcionários com trabalho extenuante, pagando baixíssimos salários enquanto se vangloria pelo “Metrô mais limpo do mundo”, e faz isso recebendo rios de dinheiro do governo Tarcísio, bem como desrespeitando direitos trabalhistas.\n28-03-2026\n\n/ Metrô, Terceirização, Direitos Trabalhistas, efetivação terceirizados sem concurso, Tarcísio de Freitas, Privatização do metrô, Metrô de SP, Manifesto contra a terceirização e a precarização do trabalho",
@@ -194,26 +187,6 @@
           "wordCount": null,
           "title": "Um negro a menos",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Reclamacoes-da-agora-privatizada-Sabesp-triplicaram-apos-a-privatizacao",
-          "author": "José Pedro",
-          "description": "Desde 2023, a Arsesp (Agência Reguladora de Serviços Públicos do Estado de São Paulo) subiu o registro de queixas de 3,7 mil para 10 mil. Casos na periferia de São Paulo chegaram a ter mais de 80 horas sem água. Isso equivale a um aumento de 162%. \n Só um ano depois da coleta de dados, o governador de extrema direita Tarcísio vendeu a Sabesp. A maior empresa de saneamento do Brasil atendendo 28 milhões de pessoas. Desde bairros e prédios comunitários até o Conjunto Residencial da USP (…)\nMatérias\n\n/ São Paulo (capital), Sociedade, Privatização, Privatização da Água, Grande São Paulo, Tarcísio de Freitas, São Paulo, Sabesp, Privatização da Sabesp, Governo Lula",
-          "link": "https://www.esquerdadiario.com.br/Reclamacoes-da-agora-privatizada-Sabesp-triplicaram-apos-a-privatizacao",
-          "publishedOn": "2026-03-26T00:18:47.000Z",
-          "wordCount": null,
-          "title": "Reclamações da agora privatizada Sabesp triplicaram após a privatização",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/24-de-marco-passado-e-presente",
-          "author": "Christian Castillo",
-          "description": "O modelo entreguista da ditadura argentina e sua semelhança com o plano econômico de Javier Milei. Especulação financeira, dívida externa e resistência social. \n Traduzimos e reproduzimos a nota de Christian Castillo – deputado argentino da FIT-U (Frente Única de Trabalhadores - Unidade) e dirigente do PTS – publicada originalmente no jornal argentino LetraP. \n Chama a atenção a simetria de diferentes aspectos do passado ditatorial e do presente, especialmente no que diz respeito à (…)\nMatérias\n\n/ Internacional, Opinião, Argentina, Ditadura militar, PTS na FIT, Frente de Esquerda e dos Trabalhadores (FIT), FIT-U, Partido dos Trabalhadores Socialistas (PTS), Crise política na Argentina, Javier Milei",
-          "link": "https://www.esquerdadiario.com.br/24-de-marco-passado-e-presente",
-          "publishedOn": "2026-03-26T00:09:04.000Z",
-          "wordCount": null,
-          "title": "24 de março: passado e presente",
-          "imageUrl": null
         }
       ]
     },
@@ -228,7 +201,7 @@
           "description": "Com patrocínio da 7games.bet, ligada a aliados de Ciro Nogueira, perfis como Alfinetei operam um 'canhão eleitoral' que blinda Tarcísio e ataca o governo Lula sob o disfarce de entretenimento.\nO post Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/28/bet-ciro-nogueira-perfis-de-fofoca-extrema-direita/",
           "publishedOn": "2026-03-28T10:00:00.000Z",
-          "wordCount": 3399,
+          "wordCount": 3429,
           "title": "Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-3.png",
@@ -243,7 +216,7 @@
           "description": "Tecnologia está sendo adotada para ações militares pelos Estados Unidos numa ação conjunta com as big techs, e abre caminho para retaliação pelo Irã com o bombardeio de data centers.\nO post Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/27/ia-nova-era-em-conflito-no-oriente-medio/",
           "publishedOn": "2026-03-27T18:13:00.000Z",
-          "wordCount": 3919,
+          "wordCount": 3949,
           "title": "Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/32475105-high.jpeg",
@@ -266,6 +239,33 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png"
+        }
+      ]
+    },
+    {
+      "title": "Ponte Jornalismo",
+      "feedUrl": "https://ponte.org/feed/",
+      "siteUrl": "https://ponte.org/",
+      "articles": [
+        {
+          "id": "https://ponte.org/?p=159288",
+          "author": "Mariana Rosetti",
+          "description": "Jovens relatam agressões, falta de água e comida e são levados à delegacia; defesa afirma que policiais atuaram sem câmeras corporais\nO conteúdo PM usa spray de pimenta contra estudantes em ocupação na Secretaria da Educação de SP Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/pm-usa-spray-de-pimenta-contra-estudantes-em-ocupacao-na-secretaria-da-educacao-de-sp/",
+          "publishedOn": "2026-03-26T21:04:04.000Z",
+          "wordCount": 6135,
+          "title": "PM usa spray de pimenta contra estudantes em ocupação na Secretaria da Educação de SP",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/pm-spray-estudantes-seduc-sp.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=159147",
+          "author": "Mariana Rosetti",
+          "description": "Péricles Monteiro Melo, 23, foi morto a tiros enquanto andava de moto na zona oeste de São Paulo; testemunha diz ter sido ameaçada e família relata agressões e falhas na ocorrência\nO conteúdo Entregador desarmado é morto por GCM em SP; família denuncia execução Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/entregador-desarmado-e-morto-por-gcm-em-sp-familia-denuncia-execucao/",
+          "publishedOn": "2026-03-26T13:24:46.000Z",
+          "wordCount": 6730,
+          "title": "Entregador desarmado é morto por GCM em SP; família denuncia execução",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/retrato-pericles-moto-familia-daniel-arroyo.jpg.webp"
         }
       ]
     },
@@ -302,6 +302,66 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250843",
+          "author": "Tabitha Ramalho",
+          "description": "Em 30 de março, os palestinos celebram o Dia da Terra, ou Yom al-Ard, relembrando os eventos de 50 anos atrás. Em 30 de março de 1976, seis palestinos desarmados foram mortos por forças israelenses e mais de 100 ficaram feridos durante protestos contra a confiscação ilegal de terras palestinas por Israel. Tel Aviv ordenou […]\nO post Palestinos celebram 50 anos do Dia da Terra em meio à escalada de violência apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/palestinos-celebram-50-anos-do-dia-da-terra-em-meio-a-escalada-de-violencia/",
+          "publishedOn": "2026-03-30T13:35:15.000Z",
+          "wordCount": 3445,
+          "title": "Palestinos celebram 50 anos do Dia da Terra em meio à escalada de violência",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1280px-land_day_sakhneen.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250838",
+          "author": "Tabitha Ramalho",
+          "description": "O porta-voz da presidência russa, Dmitry Peskov, afirmou na segunda-feira (30/03) que a Rússia continuará trabalhando para fornecer mais petróleo a Cuba em meio à crise energética da ilha causada pelo embargo dos EUA. “Continuaremos trabalhando, repito, na situação desesperadora em que o povo cubano se encontra. Isso, é claro, não pode nos deixar indiferentes”, […]\nO post Rússia reafirma apoio a Cuba e promete mais petróleo em meio ao bloqueio dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/russia-reafirma-apoio-a-cuba-e-promete-mais-petroleo-em-meio-ao-bloqueio-dos-eua/",
+          "publishedOn": "2026-03-30T12:17:26.000Z",
+          "wordCount": 2978,
+          "title": "Rússia reafirma apoio a Cuba e promete mais petróleo em meio ao bloqueio dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/69ca4698e9ff710ed35be4a7.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250827",
+          "author": "Tatiana Carlotti",
+          "description": "Um avião de vigilância aérea dos Estados Unidos foi destruído após um ataque iraniano à Base Aérea Príncipe Sultan, localizada na província de Al-Kharj, na Arábia Saudita. As imagens da aeronave, avaliada em US$ 270 milhões (R$ 1,4 bilhão), foram divulgadas pela agência iraniana Fars neste domingo (29/03). As imagens divulgadas mostram uma aeronave E-3 […]\nO post Irã destrói avião espião dos EUA avaliado em R$ 1,4 bilhão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-destroi-aviao-espiao-dos-eua-avaliado-em-14-bilhao/",
+          "publishedOn": "2026-03-30T10:54:24.000Z",
+          "wordCount": 3072,
+          "title": "Irã destrói avião espião dos EUA avaliado em R$ 1,4 bilhão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/helf17cbeaavkxi.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250600",
+          "author": "Tabitha Ramalho",
+          "description": "Assim que os Estados Unidos, juntamente com Israel, atacaram o Irã em 28 de fevereiro, violando as negociações nucleares até então em curso, o presidente norte-americano Donald Trump deixou claro os seus objetivos, em coletiva: “eles nunca poderão ter uma arma nuclear”. A guerra contra a nação persa completou um mês, enquanto o republicano é […]\nO post Coreia do Norte, Rússia e Irã: programas nucleares se tornaram escudo contra os EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-e-russia-programas-nucleares-se-tornaram-escudo-contra-eua/",
+          "publishedOn": "2026-03-30T10:13:34.000Z",
+          "wordCount": 5591,
+          "title": "Coreia do Norte, Rússia e Irã: programas nucleares se tornaram escudo contra os EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1421551.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250818",
+          "author": "Tabitha Ramalho",
+          "description": "Uma fábrica petroquímica, a Universidade de Tecnologia de Isfahan e parte da rede elétrica estavam entre os alvos atingidos por aeronaves norte-americanas e israelenses no domingo (29/03) no Irã, que atacaram a infraestrutura aérea de bases americanas no Oriente Médio e enfatizaram que suas tropas “aguardam os soldados” do Pentágono, em resposta a crescentes relatos […]\nO post Irã retalia alvos israelenses e norte-americanos após ataques à infraestrutura energética apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-retalia-alvos-israelenses-e-norte-americanos-apos-ataques-a-infraestrutura-energetica/",
+          "publishedOn": "2026-03-30T10:03:29.000Z",
+          "wordCount": 4934,
+          "title": "Irã retalia alvos israelenses e norte-americanos após ataques à infraestrutura energética",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tasnim-amin-ahouei-e1773741016269.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250815",
+          "author": "Tabitha Ramalho",
+          "description": "O petroleiro russo Anatoli Kolodkin chegou a Cuba e está aguardando para ser descarregado no porto de Matanzas, informou o Ministério dos Transportes da Rússia. O navio transporta aproximadamente 100 mil toneladas de petróleo para ajuda humanitária. O petroleiro navega sob bandeira russa e sem escolta militar. Ele foi escoltado por um navio de guerra […]\nO post Petroleiro russo chega a Cuba com 730 mil barris de petróleo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petroleiro-russo-chega-a-cuba-com-730-mil-barris-de-petroleo/",
+          "publishedOn": "2026-03-30T09:40:35.000Z",
+          "wordCount": 3268,
+          "title": "Petroleiro russo chega a Cuba com 730 mil barris de petróleo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/20130912ru107211_2.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250805",
           "author": "Tatiana Carlotti",
           "description": "O presidente da Coreia do Norte, Kim Jong-un, supervisionou neste domingo (29/03) o teste de um motor de míssil de combustível sólido de alta potência, considerado um avanço estratégico no desenvolvimento de mísseis. Durante a inspeção, Kim salientou que a Coreia do Norte vive uma nova fase da construção das suas forças estratégicas e que […]\nO post Coreia do Norte realiza teste com míssil visando ‘alto nível’ de poder militar apareceu primeiro em Opera Mundi.",
@@ -317,7 +377,7 @@
           "description": "O navio Anatoly Kolodkin, que transporta 730 mil barris de petróleo bruto, tem chegada prevista para esta segunda-feira, 30 de março, ao porto de Matanzas, no oeste de Cuba. Essa medida desafia diretamente o bloqueio unilateral imposto pelo governo dos Estados Unidos, que intensificou as medidas coercitivas contra a ilha, buscando estrangular o fornecimento de […]\nO post Petroleiro russo segue em direção a Cuba e desafia bloqueio dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/petroleiro-russo-segue-em-direcao-a-cuba-e-desafia-bloqueio-dos-eua/",
           "publishedOn": "2026-03-29T19:52:05.000Z",
-          "wordCount": 3142,
+          "wordCount": 3149,
           "title": "Petroleiro russo segue em direção a Cuba e desafia bloqueio dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/moscow_stars.jpg"
         },
@@ -337,77 +397,11 @@
           "description": "A Caminhada do Silêncio volta às ruas de São Paulo (SP) neste domingo (29/03) para a sua 6ª edição, com concentração às 16h diante do antigo DOI-Codi, na rua Tutóia, e cortejo mudo até o Monumento aos Mortos e Desaparecidos Políticos, no Ibirapuera. Criado em 2019, quando o governo de Jair Bolsonaro (PL) conclamava a […]\nO post Caminhada do Silêncio volta às ruas em memória das vítimas do regime militar apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/caminhada-do-silencio-volta-as-ruas-em-memoria-das-vitimas-do-regime-militar/",
           "publishedOn": "2026-03-29T17:58:24.000Z",
-          "wordCount": 6359,
+          "wordCount": 6361,
           "title": "Caminhada do Silêncio volta às ruas em memória das vítimas do regime militar",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tuane-fernandes-instituto-vladimir-herzog.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250761",
-          "author": "Fernanda Oliveira",
-          "description": "Um grupo folclórico de dança e música palestinas formado por professores e funcionários de escolas estaduais do Rio Grande do Sul abriu os trabalhos da tarde do terceiro dia da I Conferência Internacional Antifascista. No Salão de Atos, mais de mil pessoas acompanharam o painel “A Resistência Palestina ao Genocídio e à Opressão do Estado […]\nO post ‘Temos que chamar genocídio de genocídio’, diz embaixador palestino em Porto Alegre apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/temos-que-chamar-genocidio-de-genocidio-diz-embaixador-palestino-em-porto-alegre/",
-          "publishedOn": "2026-03-29T17:49:47.000Z",
-          "wordCount": 4329,
-          "title": "‘Temos que chamar genocídio de genocídio’, diz embaixador palestino em Porto Alegre",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-28-at-19.47.47.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250784",
-          "author": "Tatiana Carlotti",
-          "description": "O papa Leão 14 afirmou neste domingo (29/03), na missa do Domingo de Ramos no Vaticano, que “ninguém pode usar Deus para justificar a guerra”. Em sua homilia na celebração que recorda a chegada de Jesus a Jerusalém, o líder da Igreja Católica disse que Cristo “não se armou, nem se defendeu, nem travou nenhuma […]\nO post ‘Ninguém pode usar Deus para justificar guerra’, diz papa Leão 14 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/sociedade/ninguem-pode-usar-deus-para-justificar-guerra-diz-papa-leao-14/",
-          "publishedOn": "2026-03-29T16:55:21.000Z",
-          "wordCount": 2926,
-          "title": "‘Ninguém pode usar Deus para justificar guerra’, diz papa Leão 14",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/papa-2.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250776",
-          "author": "Tatiana Carlotti",
-          "description": "Chanceleres da Turquia, Paquistão, Egito e Arábia Saudita se reuniram neste domingo (29/03) em Islamabad, capital paquistanesa, para discutir os possíveis caminhos de um cessar-fogo na guerra iniciada há um mês pelos Estados Unidos e Israel contra o Irã. Nesta manhã, os ministros das Relações Exteriores dos quatro países realizaram uma rodada de conversas, a […]\nO post Paquistão sedia cúpula com potências regionais em busca de acordo para fim da guerra no Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paquistao-sedia-cupula-com-potencias-regionais-em-busca-de-acordo-para-fim-da-guerra-no-ira/",
-          "publishedOn": "2026-03-29T16:30:52.000Z",
-          "wordCount": 3176,
-          "title": "Paquistão sedia cúpula com potências regionais em busca de acordo para fim da guerra no Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hek_sdkbyaarsib.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250774",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente do Parlamento iraniano, Mohammad Baqer Qalibaf, afirmou neste domingo (29/03) que qualquer tentativa dos Estados Unidos de lançar uma ofensiva terrestre contra o Irã provocará uma “punição severa” contra forças norte-americanas e israelenses. Ele acusou Washington de agir com duplicidade ao “enviar publicamente sinais de negociação enquanto, em segredo, planeja uma invasão terrestre”. […]\nO post Irã acusa EUA de planejarem ataques terrestres: ‘retaliação será severa’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-eua-de-planejarem-ataques-terrestres-retaliacao-sera-severa/",
-          "publishedOn": "2026-03-29T15:39:21.000Z",
-          "wordCount": 3024,
-          "title": "Irã acusa EUA de planejarem ataques terrestres: ‘retaliação será severa’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404121817570110335946994.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250769",
-          "author": "Tatiana Carlotti",
-          "description": "Pela primeira vez em séculos, a celebração do Domingo de Ramos na Igreja do Santo Sepulcro, em Jerusalém, foi interrompida por autoridades israelenses, impedindo a entrada das principais lideranças cristãs no local mais sagrado da fé cristã. A decisão, tomada em meio à escalada militar no Oriente Médio, provocou reação imediata do Vaticano e de […]\nO post Israel proíbe líderes cristãos de celebrar missa do Domingo de Ramos em Jerusalém apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-proibe-lideres-cristaos-de-celebrar-missa-do-domingo-de-ramos-em-jerusalem/",
-          "publishedOn": "2026-03-29T14:58:17.000Z",
-          "wordCount": 3653,
-          "title": "Israel proíbe líderes cristãos de celebrar missa do Domingo de Ramos em Jerusalém",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/the_church_of_the_holy_sepulchre-jerusalem.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250762",
-          "author": "Tatiana Carlotti",
-          "description": "Centenas de pessoas se reuniram no sul de Beirute neste domingo (29/03) no funeral dos três jornalistas libaneses mortos por um ataque israelense neste sábado (28/03). A correspondente da Al Mayadeen, Fatima Ftouni, o jornalista da Al-Manar, Ali Sheaib, e o cinegrafista Mohammad Ftouni foram atingidos quando estavam em um automóvel de imprensa identificado. “Estamos […]\nO post Jornalistas mortos por ataque israelense são sepultados no Sul do Líbano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/jornalistas-mortos-por-ataque-israelense-sao-sepultados-no-sul-do-libano/",
-          "publishedOn": "2026-03-29T14:36:04.000Z",
-          "wordCount": 3235,
-          "title": "Jornalistas mortos por ataque israelense são sepultados no Sul do Líbano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-29-113332.png"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -431,7 +425,7 @@
           "link": "https://anovademocracia.com.br/cem-ativistas-operacao-kagaar/",
           "publishedOn": "2026-03-29T21:05:10.000Z",
           "wordCount": null,
-          "title": "Mais de cem ativistas marcham contra a “Operação Kagaar” em convocação da Liga Anti-Imperialista",
+          "title": "Mais de cem ativistas marcham contra a ‘Operação Kagaar’ em convocação da Liga Anti-Imperialista",
           "imageUrl": null
         },
         {
@@ -672,6 +666,16 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=63127",
+          "author": "Boitempo",
+          "description": "Marcela Magalhães: \"A família é tratada como célula do Estado e a subordinação feminina como requisito para a ordem pública. A misoginia nazifascista, assim, é técnica de governo, porque controla sexualidade, regula reprodução, reorganiza o trabalho e produz um tipo de cidadania em que as mulheres aparecem sobretudo como meio biopolítico e não como sujeito pleno de participação e direção social.\"",
+          "link": "https://blogdaboitempo.com.br/2026/03/30/funcao-material-da-misoginia-no-projeto-reacionario/",
+          "publishedOn": "2026-03-30T11:00:00.000Z",
+          "wordCount": 15360,
+          "title": "Função material da misoginia no projeto reacionário",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-32.png?fit=1200%2C794&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=63023",
           "author": "Boitempo",
           "description": "Vincent Berthelier: \"O estilo, em Marx, adquire diferentes formas de expressão e essas formas remetem tanto a tarefas políticas distintas, quanto a problemas políticos difíceis de resolver. Eu não sou obviamente o primeiro a formular estas questões: elas já foram abordadas por outros críticos. Meu objetivo era também o de propor uma síntese. Mas, sobretudo, tratava-se de entrar não somente no pensamento de Marx – sobre o qual há bibliotecas inteiras – mas naquilo que seu estilo desenha como trajetória de engajamento.\"",
@@ -697,7 +701,7 @@
           "description": "Thais Klein: \"Vale lembrar que as mulheres são maioria do eleitorado. Isso significa que o ataque às mulheres não é apenas expressão de ódio, mas também tentativa de incidir sobre um campo político concreto, de desestabilizar, intimidar, silenciar. A violência de gênero, nesse contexto, não é exterior à democracia – ela a atravessa e a ameaça.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/27/misoginia-digital-o-ataque-as-mulheres-como-tatica-politica/",
           "publishedOn": "2026-03-27T13:00:00.000Z",
-          "wordCount": 12486,
+          "wordCount": 12643,
           "title": "Misoginia digital: o ataque às mulheres como tática política",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-26.png"
         },
