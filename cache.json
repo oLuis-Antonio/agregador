@@ -4,7 +4,18 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "tT7vo0",
+          "author": null,
+          "description": "O Tema 1389 do STF, que trata da pejotização, representa um retrocesso nos direitos trabalhistas ao legitimar contratos que precarizam a relação de trabalho. Esse julgamento tende a enfraquecer as garantias dos trabalhadores, ampliando a exploração e a informalidade.",
+          "link": "https://jornalofuturo.com.br/artigo/tT7vo0-avanco-da-pejotizacao-anula-direitos-trabalhistas-tema-esta-sendo-julgado-no-stf",
+          "publishedOn": "2026-03-30T21:00:00.000Z",
+          "wordCount": 3126,
+          "title": "Avanço da pejotização anula direitos trabalhistas: tema está sendo julgado no STF",
+          "imageUrl": "https://media.jornalofuturo.com.br/gilmarmendesstf-1024x613.jpg"
+        }
+      ]
     },
     {
       "title": "Jornal A Verdade",
@@ -12,12 +23,42 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61074",
+          "author": "Jesse Lisboa",
+          "description": "Graças à Assembleia Legislativa (Alerj) e do Governo Cláudio Castro, o Rio de Janeiro é o único estado que não cumpriu os critérios do Fundeb. Sara Melissa | Vice-presidente da AERJ JUVENTUDE – No Rio de Janeiro, o início do ano letivo nas escolas está sendo marcado pela redução do orçamento, falta de estrutura e […]",
+          "link": "https://averdade.org.br/2026/03/governo-claudio-castro-abandona-educacao-publica-no-rio-de-janeiro/",
+          "publishedOn": "2026-03-31T03:04:02.000Z",
+          "wordCount": 6814,
+          "title": "Governo Cláudio Castro abandona educação pública no Rio de Janeiro",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/EDSON-LUIS-RJ.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61071",
+          "author": "Jesse Lisboa",
+          "description": "Para tratar sobre o movimento estudantil e a situação das escolas públicas no Brasil, o jornal A Verdade entrevistou a estudante Yasmin Farias, militante da União da Juventude Rebelião (UJR) e diretora da Associação dos Estudantes Secundaristas do Estado do Rio de Janeiro (Aerj) e candidata à presidência da União Brasileira de Estudantes Secundaristas (Ubes). […]",
+          "link": "https://averdade.org.br/2026/03/o-que-acontece-nas-nossas-escolas-hoje-e-um-projeto-politico-de-desmonte-da-educacao/",
+          "publishedOn": "2026-03-31T02:31:38.000Z",
+          "wordCount": 7160,
+          "title": "“O que acontece nas nossas escolas hoje é um projeto político de desmonte da educação”",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/P7-_-Yasmin.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61054",
+          "author": "Felipe Annunziata",
+          "description": "Mulheres indígenas ocupam sede da Funai há 35 dias contra projeto de mineradora que quer destruir o Rio Xingu, no sudoeste do Pará. Ronni Souza | Redação Pará LUTA POPULAR – “Eu quero que a Belo Sun saia do nosso território!”, afirmou a liderança índigena Ngrenhkarati Xikrin em sua língua originária no último dia 20 […]",
+          "link": "https://averdade.org.br/2026/03/mulheres-indigenas-ocupam-sede-da-funai-ha-mais-de-um-mes-em-altamira-pa/",
+          "publishedOn": "2026-03-30T23:47:34.000Z",
+          "wordCount": 7179,
+          "title": "Mulheres indígenas ocupam sede da FUNAI há mais de um mês em Altamira (PA)",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/IMG-20260329-WA0037.jpg.webp"
+        },
+        {
           "id": "https://averdade.org.br/?p=61040",
           "author": "Clóvis Maia",
           "description": "Em sua primeira visita ao estado de Pernambuco, o novo embaixador cubano no Brasil, Víctor Manoel Cairo Palomo, foi recebido pelos movimentos sociais no Centro Cultural Manoel Lisboa em Recife, onde falou sobre a luta dos cubanos para manterem sua autonomia diante das recentes agressões dos EUA. Clóvis Maia| Redação Pernambuco INTERNACIONAL- O Centro Cultural […]",
           "link": "https://averdade.org.br/2026/03/cuba-nao-quer-ser-parte-dos-eua-afirma-embaixador-cubano/",
           "publishedOn": "2026-03-30T04:46:57.000Z",
-          "wordCount": 6906,
+          "wordCount": 6942,
           "title": "“Cuba não quer ser parte dos EUA”, afirma embaixador Cubano",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/03/DSC09434-2.jpg"
         }
@@ -136,13 +177,93 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
-          "id": "https://www.esquerdadiario.com.br/Matheus-Simoes-leiloa-escolas-estaduais-mineiras-para-o-mercado-financeiro",
+          "id": "https://www.esquerdadiario.com.br/Participe-das-plenarias-da-Faisca-Pao-e-Rosas-e-Quilombo-Vermelho-rumo-ao-Congresso-da-Conlutas",
           "author": "Redação",
-          "description": "Novo governador dá seguimento a projeto de Zema de privatização na educação e realiza o leilão de 95 escolas estaduais. Fundo de investimento vencedor do leilão é o mesmo que administra o hospital metropolitano Dr. Célio de Castro. \n A concessão foi vencida pelo fundo de investimento IG4 BTG Pactual Health Infra, que pagou 22,3 milhões de reais por 25 anos de concessão. O fundo, como o nome diz, é gerido pelo banco BTG Pactual, de André Esteves, que também foi um dos escolhidos para (…)\n30-03-2026\n\n/ Educação, Educação, Minas Gerais, Greve Educação MG, Romeu Zema, Privatização da Educação",
-          "link": "https://www.esquerdadiario.com.br/Matheus-Simoes-leiloa-escolas-estaduais-mineiras-para-o-mercado-financeiro",
-          "publishedOn": "2026-03-30T20:55:42.000Z",
+          "description": "Na quarta-feira, 01 de abril, a partir das 18 horas via Zoom, realizaremos plenárias dos movimentos de juventude (Faísca Revolucionária) e de luta contra as opressões (Pão e Rosas e Quilombo Vermelho) para eleição de delegades para o VI Congresso da Conlutas. Conheça mais nossas ideias e participe dessa batalha conosco!\n30-03-2026\n\n/ CSP-Conlutas, Congresso CSP-Conlutas",
+          "link": "https://www.esquerdadiario.com.br/Participe-das-plenarias-da-Faisca-Pao-e-Rosas-e-Quilombo-Vermelho-rumo-ao-Congresso-da-Conlutas",
+          "publishedOn": "2026-03-30T23:41:25.000Z",
           "wordCount": null,
-          "title": "Matheus Simões leiloa escolas estaduais mineiras para o mercado financeiro",
+          "title": "Participe das plenárias da Faísca, Pão e Rosas e Quilombo Vermelho rumo ao Congresso da Conlutas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Governo-Zema-leiloa-95-escolas-publicas-para-banco-em-ataque-privatista-a-educacao",
+          "author": "Nossa Classe - MG",
+          "description": "O projeto de Zema, Simões e Rossieli é transformar a educação pública em um espaço de lucro para os empresários e o mercado financeiro às custas do emprego de milhares de trabalhadores e da qualidade da educação para a população.\n30-03-2026\n\n/ Educação, Educação, Minas Gerais, Greve Educação MG, Romeu Zema, Rossieli Soares, Privatização da Educação, Mateus Simões",
+          "link": "https://www.esquerdadiario.com.br/Governo-Zema-leiloa-95-escolas-publicas-para-banco-em-ataque-privatista-a-educacao",
+          "publishedOn": "2026-03-30T23:32:50.000Z",
+          "wordCount": null,
+          "title": "Governo Zema leiloa 95 escolas públicas para banco em ataque privatista à educação",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Cinemateca-Brasileira-apresenta-mostra-cinematografica-Trabalho-em-Transe-nos-dias-1-a-5-de-Abril",
+          "author": "Redação",
+          "description": "A Cinemateca Brasileira apresenta a mostra Trabalho em Transe. O evento contará com a exibição de filmes e documentários acerca da realidade do trabalho, além de palestras com importantes intelectuais como Ricardo Antunes, Ruy Braga e Paulo Arantes. Compartilhamos para o público leitor do Esquerda Diário a apresentação, informações e divulgação do evento e incentivamos a participação de todos. O evento acontecerá entre os dias 1 e 5 de Abril e o endereço da cinemateca é Rua Largo Senador Raul Cardoso, 207, Vila Clementino/Vila Mariana, São Paulo - SP.\n30-03-2026\n\n/ Cultura, Cinema, Trabalho Precário, Cinemateca Brasileira, Trabalhadores da Cinemateca Brasileira, filme, Precarização do trabalho",
+          "link": "https://www.esquerdadiario.com.br/Cinemateca-Brasileira-apresenta-mostra-cinematografica-Trabalho-em-Transe-nos-dias-1-a-5-de-Abril",
+          "publishedOn": "2026-03-30T23:24:52.000Z",
+          "wordCount": null,
+          "title": "Cinemateca Brasileira apresenta mostra cinematográfica “Trabalho em Transe” nos dias 1 a 5 de Abril",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Operarios-do-Metro-SP-sofrem-intoxicacao-alimentar-ao-comer-marmitas-estragadas",
+          "author": "Redação de Denúncias Operárias",
+          "description": "O descaso do Metrô, do governo Tarcísio e das empresas terceirizadas (PowerChina e Mendes Júnior) revela a face perversa da precarização: até comida estragada é servida (e por uma empresa irregular!) \n Na quinta-feira (19), o canteiro de obras da Linha 2-Verde do Metrô de São Paulo se tornou palco de um episódio que sintetiza a violência da terceirização contra os trabalhadores. Mais de 30 operários, que atuam na expansão da linha, apresentaram quadros severos de intoxicação alimentar — (…)\n30-03-2026\n\n/ Classe trabalhadora, Metrô, Terceirização, Privatização, Trabalhadores Terceirizados, Tarcísio de Freitas, Privatização do metrô, Metrô de SP, Metrô de São Paulo, Construção civil",
+          "link": "https://www.esquerdadiario.com.br/Operarios-do-Metro-SP-sofrem-intoxicacao-alimentar-ao-comer-marmitas-estragadas",
+          "publishedOn": "2026-03-30T22:54:03.000Z",
+          "wordCount": null,
+          "title": "Operários do Metrô-SP sofrem intoxicação alimentar ao comer marmitas estragadas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/O-petroleo-volta-a-subir-apos-a-ameaca-de-Trump-de-uma-operacao-terrestre-no-Ira",
+          "author": "Redação",
+          "description": "Os mercados voltam a cair e o preço do petróleo sobe novamente nesta segunda-feira após a ameaça de Trump de iniciar uma operação terrestre no Irã, que poderia ir desde a ocupação da ilha de Kharg até uma incursão direta para “recuperar o urânio iraniano”. O chefe do Parlamento respondeu que estão esperando as tropas americanas para atear fogo nelas. No fim de semana, os houthis do Iêmen se somaram à guerra e começaram bombardeios contra Israel, ameaçando fechar o acesso ao Mar Vermelho.\n30-03-2026\n\n/ Internacional, Irã, Donald Trump, Petróleo, Guerra contra o Irã",
+          "link": "https://www.esquerdadiario.com.br/O-petroleo-volta-a-subir-apos-a-ameaca-de-Trump-de-uma-operacao-terrestre-no-Ira",
+          "publishedOn": "2026-03-30T22:35:42.000Z",
+          "wordCount": null,
+          "title": "O petróleo volta a subir após a ameaça de Trump de uma operação terrestre no Irã",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/O-passaro-morto-e-a-mulher-corajosa",
+          "author": "Iuri Tonelo",
+          "description": "Houve duas vezes que fiquei com um pássaro na cabeça. Uma foi quando assisti o filme de Hitchcock, “Pássaros”. Eu fiquei um pouco em choque, não muito, mas eu sonhei com aquilo. Terror tem suas complicações. Tinha um negócio dos pássaros virem de cima atacando, do céu, dava uma aflição.\n30-03-2026\n\n/ Opinião, Cultura, Literatura, Livro, Gênero e Sexualidade, filme",
+          "link": "https://www.esquerdadiario.com.br/O-passaro-morto-e-a-mulher-corajosa",
+          "publishedOn": "2026-03-30T21:59:54.000Z",
+          "wordCount": null,
+          "title": "O pássaro morto e a mulher corajosa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/A-capitulacao-ou-uma-perigosa-escalada-as-opcoes-de-Donald-Trump-se-estreitam",
+          "author": "Juan Chingo",
+          "description": "O conflito com o Irã expõe os limites da força americana e deixa Washington diante de uma escolha cada vez mais custosa.\n30-03-2026\n\n/ Internacional, Opinião, Estados Unidos, Israel, Donald Trump, Irã, Guerra contra o Irã",
+          "link": "https://www.esquerdadiario.com.br/A-capitulacao-ou-uma-perigosa-escalada-as-opcoes-de-Donald-Trump-se-estreitam",
+          "publishedOn": "2026-03-30T21:39:15.000Z",
+          "wordCount": null,
+          "title": "A capitulação ou uma perigosa escalada: as opções de Donald Trump se estreitam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Tecnico-administrativos-em-greve-fecham-portoes-da-UFCSPA-e-atividades-ficam-suspensas",
+          "author": "Redação Rio Grande do Sul",
+          "description": "Nesta segunda (30) desde o primeiro horário da manhã, servidores técnico-administrativos da UFCSPA, UFRGS e IF-RS bloquearam os portões da Universidade Federal das Ciências da Saúde de Porto Alegre como parte da greve nacional que está em curso na educação federal.\n30-03-2026\n\n/ Classe trabalhadora, Porto Alegre, Greve, TAEs, Greve das Federais",
+          "link": "https://www.esquerdadiario.com.br/Tecnico-administrativos-em-greve-fecham-portoes-da-UFCSPA-e-atividades-ficam-suspensas",
+          "publishedOn": "2026-03-30T21:22:58.000Z",
+          "wordCount": null,
+          "title": "Técnico-administrativos em greve fecham portões da UFCSPA e atividades ficam suspensas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Trabalhadores-da-Ebserh-iniciam-greve-em-hospitais-universitarios-pelo-pais-contra-o-arrocho",
+          "author": "Redação",
+          "description": "Trabalhadoras e trabalhadores da Empresa Brasileira de Serviços Hospitalares (Ebserh) em hospitais de todo o país iniciam greve nessa segunda-feira, 30 de março, frente a negativa da empresa em negociar com os trabalhadores. Eles estão em luta pelo Acordo Coletivo de Trabalho (ACT) 2026/2027, mas a empresa não fez nenhuma proposta econômica concreta, mantendo a categoria com as perdas salariais da inflação.\n30-03-2026\n\n/ Classe trabalhadora, Saúde, Trabalhadores da saúde, Saúde Pública, Hospital Público, Ebserh",
+          "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-Ebserh-iniciam-greve-em-hospitais-universitarios-pelo-pais-contra-o-arrocho",
+          "publishedOn": "2026-03-30T20:57:20.000Z",
+          "wordCount": null,
+          "title": "Trabalhadores da Ebserh iniciam greve em hospitais universitários pelo país contra o arrocho salarial",
           "imageUrl": null
         },
         {
@@ -258,7 +379,7 @@
           "description": "Com patrocínio da 7games.bet, ligada a aliados de Ciro Nogueira, perfis como Alfinetei operam um 'canhão eleitoral' que blinda Tarcísio e ataca o governo Lula sob o disfarce de entretenimento.\nO post Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/28/bet-ciro-nogueira-perfis-de-fofoca-extrema-direita/",
           "publishedOn": "2026-03-28T10:00:00.000Z",
-          "wordCount": 3399,
+          "wordCount": 3429,
           "title": "Bet de amigo de Ciro Nogueira usa perfis de fofoca para promover extrema direita",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/HeaderFeat-3.png",
@@ -273,7 +394,7 @@
           "description": "Tecnologia está sendo adotada para ações militares pelos Estados Unidos numa ação conjunta com as big techs, e abre caminho para retaliação pelo Irã com o bombardeio de data centers.\nO post Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/03/27/ia-nova-era-em-conflito-no-oriente-medio/",
           "publishedOn": "2026-03-27T18:13:00.000Z",
-          "wordCount": 3949,
+          "wordCount": 3919,
           "title": "Algoritmo de guerra: Como IA e big techs inauguram uma nova era em conflito no Oriente Médio",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/32475105-high.jpeg",
@@ -281,21 +402,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/03/32475105-high.jpeg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442203",
-          "author": "Mauricio Moraes",
-          "description": "Pesquisador da Universidade de Viena defende que tecnologias não são politicamente neutras e que a comodidade oferecida por algoritmos remove o esforço crítico e torna as pessoas obedientes e dóceis.\nO post Entrevista: Como a IA abre caminho para o tecnofascismo apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/03/26/entrevista-como-a-ia-abre-caminho-para-o-tecnofascismo/",
-          "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 4851,
-          "title": "Entrevista: Como a IA abre caminho para o tecnofascismo",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
-            "length": "5875086",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/03/o8S2uN70-Header-site-horizontal.png"
         }
       ]
     },
@@ -333,16 +439,6 @@
           "wordCount": 6135,
           "title": "PM usa spray de pimenta contra estudantes em ocupação na Secretaria da Educação de SP",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/pm-spray-estudantes-seduc-sp.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=159147",
-          "author": "Mariana Rosetti",
-          "description": "Péricles Monteiro Melo, 23, foi morto a tiros enquanto andava de moto na zona oeste de São Paulo; testemunha diz ter sido ameaçada e família relata agressões e falhas na ocorrência\nO conteúdo Entregador desarmado é morto por GCM em SP; família denuncia execução Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/entregador-desarmado-e-morto-por-gcm-em-sp-familia-denuncia-execucao/",
-          "publishedOn": "2026-03-26T13:24:46.000Z",
-          "wordCount": 6730,
-          "title": "Entregador desarmado é morto por GCM em SP; família denuncia execução",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/retrato-pericles-moto-familia-daniel-arroyo.jpg.webp"
         }
       ]
     },
@@ -387,7 +483,7 @@
           "description": "á meses que uma guerra se desenrola por todo o Iraque, sem o alarde que outrora acompanhava as campanhas militares americanas na região. Não há jornalistas incorporados fotografando comboios atravessando o deserto, nem discursos presidenciais em horário nobre. Na verdade, aviões de guerra e drones americanos têm desmantelado sistematicamente a infraestrutura das Forças de Mobilização […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/03/26/a-guerra-implacavel-contra-o-iraque/",
           "publishedOn": "2026-03-26T19:11:33.000Z",
-          "wordCount": 3368,
+          "wordCount": 3358,
           "title": "A guerra implacável contra o Iraque",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/03/PMF-badr-ira-iraque.webp"
         }
@@ -399,12 +495,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=250912",
+          "author": "Victor Farinelli",
+          "description": "Em liminar publicada nesta segunda-feira (30/03), o Tribunal Nacional do Trabalho da Argentina (JNT) determinou a suspensão provisória de 82 artigos da reforma trabalhista sancionada em fevereiro pelo governo de extrema direita do presidente Javier Milei. A decisão acata medida cautelar apresentada pela Confederação Geral do Trabalho (CGT), maior central sindical do país, que argumentou, […]\nO post Tribunal da Argentina suspende 82 artigos da reforma trabalhista de Milei apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/tribunal-da-argentina-suspende-82-artigos-da-reforma-trabalhista-de-milei/",
+          "publishedOn": "2026-03-30T23:29:02.000Z",
+          "wordCount": 2996,
+          "title": "Tribunal da Argentina suspende 82 artigos da reforma trabalhista de Milei",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/cgt.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=250905",
+          "author": "Raissa Neves",
+          "description": "O Parlamento de Israel aprovou nesta segunda-feira (30/03), de forma definitiva, o projeto de lei que estabelece pena de morte para palestinos condenados em tribunais militares por ataques que resultaram em mortes. A proposta foi promovida pelo ministro de Segurança Nacional, Itamar Ben-Gvir teve seu último e definitivo trâmite aprovado nesta segunda com 62 votos […]\nO post Israel aprova pena de morte contra palestinos da Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-aprova-pena-de-morte-contra-palestinos-da-cisjordania-ocupada/",
+          "publishedOn": "2026-03-30T22:12:05.000Z",
+          "wordCount": 3641,
+          "title": "Israel aprova pena de morte contra palestinos da Cisjordânia ocupada",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/netany.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=250890",
           "author": "Rocio Paik",
           "description": "Deputados federais da esquerda brasileira, incluindo dos partidos Rede e dos Trabalhadores, solicitaram nesta segunda-feira (30/03) a retirada de suas assinaturas do projeto de lei 1424/2026, apresentado em 26 de março por Tabata Amaral (PSB-SP), que adota os parâmetros da Aliança Internacional para a Memória do Holocausto (IHRA, na sigla em inglês) na definição de […]\nO post Deputados de esquerda retiram assinatura de projeto que considera antissemitismo criticar Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/deputados-de-esquerda-retiram-assinatura-de-projeto-que-considera-antissemitismo-criticar-israel/",
           "publishedOn": "2026-03-30T20:07:23.000Z",
-          "wordCount": 3951,
+          "wordCount": 3948,
           "title": "Deputados de esquerda retiram assinatura de projeto que considera antissemitismo criticar Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/49527146523_c5758b78f6_b.jpg"
         },
@@ -414,7 +530,7 @@
           "description": "O Comitê Central do Partido Comunista Chinês (PCCh) e o secretário-geral Xi Jinping convidaram a presidenta do partido opositor taiwanês Kuomintang (KMT), Zheng Liwen, para liderar uma delegação em visita à China continental entre os dias 7 e 12 de abril, passando pela província de Jiangsu, Xangai e Pequim. O anúncio foi feito nesta segunda-feira […]\nO post Líder do Kuomintang se reunirá com Xi Jinping em Pequim pela 1ª vez em décadas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/lider-do-kuomintang-se-reunira-com-xi-jinping-em-pequim-pela-1a-vez-em-decadas/",
           "publishedOn": "2026-03-30T19:54:39.000Z",
-          "wordCount": 3385,
+          "wordCount": 3332,
           "title": "Líder do Kuomintang se reunirá com Xi Jinping em Pequim pela 1ª vez em décadas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/presidenta-do-kuomintang-zheng-li-wen-cctv.webp"
         },
@@ -424,7 +540,7 @@
           "description": "Há pouco, um tripulante do Charles de Gaulle, único porta-aviões da marinha francesa e seu principal navio, revelou sua localização por estar usando o aplicativo Strava para registrar seus treinos. O fato foi revelado dias depois pela imprensa francesa, mas se até ela soube, é certo que iranianos, russos e chineses também soubessem. O porta-aviões […]\nO post A França de Macron e a encruzilhada política da única potência nuclear da Europa Ocidental apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-franca-de-macron-e-a-encruzilhada-politica-da-unica-potencia-nuclear-da-europa-ocidental/",
           "publishedOn": "2026-03-30T19:01:12.000Z",
-          "wordCount": 4598,
+          "wordCount": 4595,
           "title": "A França de Macron e a encruzilhada política da única potência nuclear da Europa Ocidental",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/franca.webp"
         },
@@ -434,7 +550,7 @@
           "description": "O presidente do Banco Central (BC), Gabriel Galípolo, avaliou nesta segunda-feira (30/03) que o Brasil está em uma posição mais favorável que outros países para encarar a volatilidade do preço do petróleo causada pela guerra no Oriente Médio. O executivo participou do J. Safra Macro Day, realizado nesta manhã na capital paulista. “É lógico que […]\nO post ‘Brasil está preparado para volatilidade do petróleo’, afirma presidente do BC apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-esta-preparado-para-volatilidade-do-petroleo-afirma-presidente-do-bc/",
           "publishedOn": "2026-03-30T18:22:30.000Z",
-          "wordCount": 3265,
+          "wordCount": 3262,
           "title": "‘Brasil está preparado para volatilidade do petróleo’, afirma presidente do BC",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/galipolo.jpg"
         },
@@ -444,7 +560,7 @@
           "description": "Em coletiva realizada neste domingo (29/03), o secretário de Guerra dos Estados Unidos, Pete Hegseth, apresentou um novo projeto de segurança nacional para estabelecer um mapa de influência estratégica de Washington sobre as Américas. O projeto foi batizado pelo seu departamento como “Grande América do Norte”, e segundo o próprio secretário, consistiria em promover medidas […]\nO post Governo Trump divulga projeto para criação da ‘Grande América do Norte’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-divulga-projeto-para-criacao-da-grande-america-do-norte/",
           "publishedOn": "2026-03-30T17:30:45.000Z",
-          "wordCount": 3176,
+          "wordCount": 3173,
           "title": "Governo Trump divulga projeto para criação da ‘Grande América do Norte’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/hegseth.jpg"
         },
@@ -454,7 +570,7 @@
           "description": "O preço do petróleo global subiu drasticamente para US$ 116 (aproximadamente R$ 607) por barril nesta segunda-feira (30/03), após o presidente dos Estados Unidos, Donald Trump, ameaçar “destruir completamente” as usinas elétricas iranianas, poços de petróleo e seu centro de exportação, a Ilha Kharg, caso o Irã não concordasse com um acordo. A posição norte-americana […]\nO post Preço global do petróleo sobe após Trump ameaçar ‘destruir completamente’ usinas iranianas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-global-do-petroleo-sobe-apos-trump-ameacar-destruir-completamente-usinas-iranianas/",
           "publishedOn": "2026-03-30T16:40:09.000Z",
-          "wordCount": 2970,
+          "wordCount": 2967,
           "title": "Preço global do petróleo sobe após Trump ameaçar ‘destruir completamente’ usinas iranianas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/russian_navy_tanker_iman.webp"
         },
@@ -464,7 +580,7 @@
           "description": "A I Conferência Internacional Antifascista encerrou as atividades na noite deste domingo (29/03) com a participação de diversas personalidades de mais de 40 países, com 11 painéis propostos pelo Comitê Organizador, 150 atividades autogestionadas e a Feira de Artesanato Bella Ciao. Reunidos em Porto Alegre, os presentes afirmaram uma “unidade na diversidade” com um objetivo […]\nO post Conferência Antifascista encerra com proposta de frente global contra extrema direita apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/conferencia-antifascista-encerra-com-proposta-de-frente-global-contra-extrema-direita/",
           "publishedOn": "2026-03-30T16:08:58.000Z",
-          "wordCount": 5654,
+          "wordCount": 5601,
           "title": "Conferência Antifascista encerra com proposta de frente global contra extrema direita",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-29-at-18.43.11.jpeg"
         },
@@ -474,29 +590,9 @@
           "description": "Há 89 anos, em 30 de março de 1937, nascia José Celso Martinez Corrêa, o Zé Celso, um dos mais importantes dramaturgos e diretores de teatro da história do Brasil. Fundador do Teatro Oficina, Zé Celso foi uma figura chave no desenvolvimento do teatro brasileiro contemporâneo, destacando-se por sua produção original, irreverente e experimental, marcada […]\nO post Zé Celso: resistência, contracultura e liberdade nos palcos do Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/uncategorized/ze-celso-resistencia-contracultura-e-liberdade-nos-palcos-do-brasil/",
           "publishedOn": "2026-03-30T15:40:07.000Z",
-          "wordCount": 4644,
+          "wordCount": 4641,
           "title": "Zé Celso: resistência, contracultura e liberdade nos palcos do Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/jose_celso_martinez_correa_4863122835.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250842",
-          "author": "Tatiana Carlotti",
-          "description": "O premiê de Israel, Benjamin Netanyahu, determinou que o cardeal Pierbattista Pizzaballa, patriarca latino de Jerusalém, tenha acesso “pleno e imediato” à Igreja do Santo Sepulcro. A medida foi anunciada pouco depois da meia-noite (horário israelense) desta segunda-feira (30/03), após o prelado italiano ter sido proibido de celebrar a missa do Domingo de Ramos em […]\nO post Após proibição, Israel permite acesso de cardeal à Igreja do Santo Sepulcro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/apos-proibicao-israel-permite-acesso-de-cardeal-a-igreja-do-santo-sepulcro/",
-          "publishedOn": "2026-03-30T15:06:53.000Z",
-          "wordCount": 3133,
-          "title": "Após proibição, Israel permite acesso de cardeal à Igreja do Santo Sepulcro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/the_church_of_the_holy_sepulchre-jerusalem.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=250847",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente Donald Trump ameaçou nesta segunda-feira (30/03) destruir “completamente” a ilha de Kharg, principal centro de exportação de petróleo do Irã, e outros importantes locais de produção de energia no país, caso Teerã não concorde com um acordo de paz e não ponha fim ao bloqueio de fato do Estreito de Ormuz. Em uma […]\nO post Trump ameaça destruir ‘completamente’ ilha de Kharg e pressiona Teerã por acordo de paz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-destruir-completamente-ilha-de-kharg-e-pressiona-teera-por-acordo-de-paz/",
-          "publishedOn": "2026-03-30T14:34:36.000Z",
-          "wordCount": 2842,
-          "title": "Trump ameaça destruir ‘completamente’ ilha de Kharg e pressiona Teerã por acordo de paz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/960px-iss005-e-11900_lrg-e1773495821749.webp"
         }
       ]
     },
@@ -511,6 +607,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223481",
+          "author": "Redação de AND",
+          "description": "O porta-voz da Guarda Revolucionária afirmou que a Guarda está fazendo “contagem regressiva” para a chegada dos invasores, confirmando que prepara uma série de emboscadas para aniquilar e capturar todos que ousarem invadir o território iraniano.",
+          "link": "https://anovademocracia.com.br/grande-sata-prepara-uma-invasao-terrestre-contra-ira-guarda-revolucionaria-esta-em-contagem-regressiva-na-espera-pelos-invasores/",
+          "publishedOn": "2026-03-30T22:00:35.000Z",
+          "wordCount": null,
+          "title": "Grande Satã prepara uma invasão terrestre contra Irã; Guarda Revolucionária está em ‘contagem regressiva’ na espera pelos invasores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223482",
+          "author": "Redação de AND",
+          "description": "“Estamos prontos e estamos esperando”. Essa foi a resposta do embaixador do Irã, o senhor Abdollah Nekounam Ghadiri, quando questionado pelo jornal A Nova Democracia, no dia 26 de março, sobre a possível agressão ianque, a mando do canibal Donald Trump, contra a Ilha de Kharg, um ponto estratégico do Irã de onde saem 90% das exportações de petróleo do país. Na entrevista, o sr. Ghadiri também comentou que os interesses de EUA na ilha demonstram a ambição do imperialismo ianque pelos recursos naturais iranianos. “É um alerta para todos os outros países que também tem riquezas naturais”, adendou o",
+          "link": "https://anovademocracia.com.br/assista-and-entrevista-embaixador/",
+          "publishedOn": "2026-03-30T21:54:06.000Z",
+          "wordCount": null,
+          "title": "ASSISTA: AND Entrevista Abdollah Nekounam Ghadirli, embaixador do Irã no Brasil",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223470",
           "author": "Giovanna Maria",
@@ -595,26 +711,6 @@
           "wordCount": null,
           "title": "‘Estamos prontos e estamos esperando’, diz Embaixador do Irã ao AND sobre possível agressão ianque à Ilha de Kharg",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223386",
-          "author": "Redação de AND",
-          "description": "Após sair da sessão de censura, Ávila publicou um vídeo se dirigindo diretamente ao Ministério de Relações Exteriores da entidade sionista de “Israel” afirmando que os povos livres do mundo “não tem medo” de suas práticas de terrorismo.",
-          "link": "https://anovademocracia.com.br/ativistas-da-flotilha-sao-interrogadas/",
-          "publishedOn": "2026-03-28T00:17:38.000Z",
-          "wordCount": null,
-          "title": "Ativistas da Flotilha são interrogados por agentes sionistas após missão de solidariedade à Cuba",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223356",
-          "author": "Giovanna Maria",
-          "description": "Nosso grande literato nos brindou com essa crônica. Vale a leitura.",
-          "link": "https://anovademocracia.com.br/resenha-viagem-de-graciliano-ramos/",
-          "publishedOn": "2026-03-27T22:26:12.000Z",
-          "wordCount": null,
-          "title": "Resenha: ‘Viagem’ de Graciliano Ramos",
-          "imageUrl": null
         }
       ]
     },
@@ -641,6 +737,46 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3180775",
+          "author": "Bernie Sanders",
+          "description": "Projeto de Trump entra em crise no front interno: 8 milhões saem às ruas contra a desigualdade, o autoritarismo e a guerra. Bernie Sanders diz à multidão: “Não basta denunciar um homem; é possível vencer o sistema que o produz”. Leia sua fala\nThe post <i>No Kings</i>: Revolta e luta no coração do Império appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/no-kings-revolta-e-luta-no-coracao-do-imperio/",
+          "publishedOn": "2026-03-30T22:41:04.000Z",
+          "wordCount": 5674,
+          "title": "No Kings: Revolta e luta no coração do Império",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30193505/8dd6dc3b-9ea4-4e71-aa99-8912dee47843-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180722",
+          "author": "Susana Prizendt",
+          "description": "Enquanto a IA consome uma insanidade de recursos naturais, pessoas reais e vivas perdem água e comida para chatbots. E bizarrice aumenta: já é possível que máquinas autônomas “aluguem” corpos de carne e osso para tarefas físicas\nThe post Data centers, gulosos e beberrões appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/terraeantropoceno/data-centers-gulosos-e-beberroes/",
+          "publishedOn": "2026-03-30T22:19:31.000Z",
+          "wordCount": 8575,
+          "title": "Data centers, gulosos e beberrões",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30191902/photo_5069047109029399490_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180759",
+          "author": "Thiago Gama",
+          "description": "Referência dos estudos da diáspora negra, sociólogo inglês aponta: Era Digital capturada pelas big techs ameaça dissolver a insurgência da cultura negra. A música é sintoma: antes potência política, hoje é marginalizada. A saída: o humanismo antirracista frente ao niilismo\nThe post O algorítimo contra a resistência afro appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/o-algoritimo-contra-a-resistencia-afro/",
+          "publishedOn": "2026-03-30T21:48:53.000Z",
+          "wordCount": 5231,
+          "title": "O algorítimo contra a resistência afro",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30184624/paul-gilroy-eivind-senneset.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180742",
+          "author": "Luiz Antonio de Souza",
+          "description": "Leis urbanísticas abrem brechas para prédios que escurecem, com suas sombras, a orla. Debate é mais que técnico e ambiental. Está em disputa o sentido da praia: patrimônio coletivo para recreação, identidade e direito à cidade ou ativo financeiro para poucos?\nThe post O direito ao sol sob disputa em Salvador appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/o-direito-ao-sol-sob-disputa-em-salvador/",
+          "publishedOn": "2026-03-30T21:32:52.000Z",
+          "wordCount": 4057,
+          "title": "O direito ao sol sob disputa em Salvador",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30183144/projecao-de-sombra-feita-na-praia-do-buracao-em-salvador-se-torres-forem-erguidas-1710185876226_v2_900x506.jpg-1.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3180732",
           "author": "Unidade contra o fascismo e soberania dos povos",
           "description": "Documento aprovado por centenas de organizações e movimentos sociais propõe luta comum contra a ultradireita, forma comitê internacional e propõe encontros nacionais e regionais – além de uma conferência latinoamericana, na Argentina\nThe post Eis a carta da Conferência Antifascista appeared first on Outras Palavras.",
@@ -659,6 +795,16 @@
           "wordCount": 3938,
           "title": "O fim de semana em que Porto Alegre voltou a ser rebelde",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30155911/WhatsApp-Image-2026-03-30-at-7.06.12-AM.jpeg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3180693",
+          "author": "James Görgen",
+          "description": "Estratégia é tirar proveito da dependência tecnológica do país para liberar deepfakes e praticar o ocultamento silencioso (shadow banning) de conteúdos de esquerda. Não há mais tempo para ação legislativa. Mas é possível uma mobilização contra-ofensiva, nos terrenos digital e jurídico\nThe post Eleições: como as big techs querem favorecer a ultradireita appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/como-big-techs-querem-favorecer-a-ultradireita/",
+          "publishedOn": "2026-03-30T18:41:15.000Z",
+          "wordCount": 3919,
+          "title": "Eleições: como as big techs querem favorecer a ultradireita",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/30182759/Captura-de-tela-2026-03-30-182738.png"
         },
         {
           "id": "https://outraspalavras.net/?p=3180657",
@@ -689,56 +835,6 @@
           "wordCount": 3645,
           "title": "O massacre da Porteira da Capivara, oito décadas depois",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27173942/EV-JT-80-04.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180605",
-          "author": "Ricardo de Sousa Moretti",
-          "description": "Especulação viola e se apropria do Estatuto das Cidades. E camadas sociais empobrecidas submetem-se à “ilegalidade estratégica”, sob ameaça perpétua. Estrutural, a crise urbana não será revertida com pequenas reformas. Reflexões a partir da tragédia de Juiz de Fora\nThe post Saneamento: Recalcular o planejamento territorial appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/saneamento-recalcular-o-planejamento-territorial/",
-          "publishedOn": "2026-03-27T20:16:04.000Z",
-          "wordCount": 3911,
-          "title": "Saneamento: Recalcular o planejamento territorial",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27171427/photo_5060298677259275243_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180607",
-          "author": "Redação Outras Palavras",
-          "description": "Rede Sacix, parceria entre Outras Palavras e Coletivo Digital, oferece subsídios para a criação de cursos – da plataforma a utilizar à divulgação. Mostra que é possível transformar ideias e vivências em conteúdos educativos acessíveis\nThe post Como (e por que) montar seu próprio curso online  appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/agenda/como-e-por-que-montar-seu-proprio-curso-online/",
-          "publishedOn": "2026-03-27T18:58:22.000Z",
-          "wordCount": 3300,
-          "title": "Como (e por que) montar seu próprio curso online",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27155744/como-vender-cursos-online-1200x685-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180587",
-          "author": "Berenice Bento",
-          "description": "Ela não é mulher – tem pênis! A agressão à parlamentar, pela suposta ausência de um órgão definidor do seu ser, reitera um dos elementos estruturantes da misoginia: definir a mulher pela vagina. Aqui, machismo e transfobia, mais uma vez, caminham juntos\nThe post O corpo como sentença: a fogueira contra Erika Hilton appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/feminismos/o-corpo-como-sentenca-a-fogueira-contra-erika-hilton/",
-          "publishedOn": "2026-03-27T17:23:09.000Z",
-          "wordCount": 3700,
-          "title": "O corpo como sentença: a fogueira contra Erika Hilton",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27141851/Screenshot-2026-03-27-at-14-18-46-presidenta-da-comissao-de-defesa-dos-direitos-das-mulheres-deputada-erika-hilton-metropoles-3-scaled.webp-imagem-WEBP-900-%C3%97-600-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180582",
-          "author": "Almir Felitte",
-          "description": "No afã de voltar ao poder, ultradireita submete-se ainda mais a Washington. Tentativa de classificar PCC como “terrorista” obedece à Doutrina Donroe. Há um antídoto: defender soberania, em diálogo com a rejeição cada vez maior das maiorias aos EUA\nThe post Como Flávio Bolsonaro quer trazer guerra de Trump ao Brasil appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/como-flavio-bolsonaro-quer-trazer-guerra-de-trump-ao-brasil/",
-          "publishedOn": "2026-03-27T17:10:13.000Z",
-          "wordCount": 4625,
-          "title": "Como Flávio Bolsonaro quer trazer guerra de Trump ao Brasil",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/27140821/Screenshot-2026-03-27-at-14-08-15-flavio-bolsonaro-bonequinhos-trump-jair.jpg-imagem-JPEG-900-%C3%97-600-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180517",
-          "author": "Luiz Marques",
-          "description": "Com Lula, desmatamento recuou de modo sensível – mas ainda insuficiente. Pior: Congresso está a um passo de lançar blitzkrieg contra a floresta. Uma grande mobilização social pode impedi-la e livrar o Legislativo das bancadas da devastação\nThe post Eleições: ainda é possível salvar a Amazônia? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/terraeantropoceno/eleicoes-ainda-possivel-salvar-a-amazonia/",
-          "publishedOn": "2026-03-26T22:09:25.000Z",
-          "wordCount": 5199,
-          "title": "Eleições: ainda é possível salvar a Amazônia?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/03/26192027/Screenshot-2026-03-26-at-19-20-12-Telegram-Web.png"
         }
       ]
     },
@@ -776,16 +872,6 @@
           "wordCount": 3792,
           "title": "Gente rica sendo presa (6)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=158910",
-          "author": "Passa Palavra",
-          "description": "Marcelo D2, a indústria cultural e o espetáculo patético da crítica que não critica. Por Arthur Moura",
-          "link": "https://passapalavra.info/2026/03/158910/",
-          "publishedOn": "2026-03-26T10:39:57.000Z",
-          "wordCount": 6262,
-          "title": "O malandro de papel",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/03/Opera-do-Malandro-Chico-Buarque-1417296763.jpg"
         }
       ]
     },
@@ -795,12 +881,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=63153",
+          "author": "Boitempo",
+          "description": "Entre os dias 1 e 5 de abril, a Cinemateca Brasileira recebe a mostra Trabalho em transe, que reúne uma seleção de filmes e debates dedicados a pensar as transformações do mundo do trabalho contemporâneo. A programação inclui conversas após as sessões com três dos principais pensadores do capitalismo e do mundo do trabalho no Brasil: Paulo Arantes, Ruy Braga e Ricardo Antunes.",
+          "link": "https://blogdaboitempo.com.br/2026/03/30/mostra-na-cinemateca-brasileira-reune-filmes-e-debates-sobre-a-crise-do-trabalho-contemporaneo-com-participacao-de-autores-da-boitempo/",
+          "publishedOn": "2026-03-30T21:06:33.000Z",
+          "wordCount": 12893,
+          "title": "Mostra na Cinemateca Brasileira reúne filmes e debates sobre a crise do trabalho contemporâneo, com participação de autores da Boitempo",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/banner-blog-boitempo-cinemateca_01-1.jpg"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=63127",
           "author": "Boitempo",
           "description": "Marcela Magalhães: \"A família é tratada como célula do Estado e a subordinação feminina como requisito para a ordem pública. A misoginia nazifascista, assim, é técnica de governo, porque controla sexualidade, regula reprodução, reorganiza o trabalho e produz um tipo de cidadania em que as mulheres aparecem sobretudo como meio biopolítico e não como sujeito pleno de participação e direção social.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/30/funcao-material-da-misoginia-no-projeto-reacionario/",
           "publishedOn": "2026-03-30T11:00:00.000Z",
-          "wordCount": 15360,
+          "wordCount": 15432,
           "title": "Função material da misoginia no projeto reacionário",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-32.png?fit=1200%2C794&ssl=1"
         },
@@ -810,7 +906,7 @@
           "description": "Vincent Berthelier: \"O estilo, em Marx, adquire diferentes formas de expressão e essas formas remetem tanto a tarefas políticas distintas, quanto a problemas políticos difíceis de resolver. Eu não sou obviamente o primeiro a formular estas questões: elas já foram abordadas por outros críticos. Meu objetivo era também o de propor uma síntese. Mas, sobretudo, tratava-se de entrar não somente no pensamento de Marx – sobre o qual há bibliotecas inteiras – mas naquilo que seu estilo desenha como trajetória de engajamento.\"",
           "link": "https://blogdaboitempo.com.br/2026/03/27/sera-que-marx-era-estiloso-entrevista-com-vincent-berthelier/",
           "publishedOn": "2026-03-27T18:26:15.000Z",
-          "wordCount": 19255,
+          "wordCount": 19286,
           "title": "Será que Marx era estiloso? Entrevista com Vincent Berthelier",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-27.png?fit=1200%2C799&ssl=1"
         },
@@ -843,16 +939,6 @@
           "wordCount": 12277,
           "title": "Sopravento: crise política e conflito social no Brasil pós-2013",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-25.png?fit=901%2C1200&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63047",
-          "author": "Boitempo",
-          "description": "Jeanne Marie Gagnebien: \"Querido diferencia com razão a diversidade e a amplitude do pensamento de Benjamin, que o tornam ao mesmo tempo inclassificável e sedutor, da pecha de incoerência ou mesmo de contradição. Nesse percurso, procura seguir um “fio vermelho” na obra labiríntica de Benjamin, “um pensamento destrutivamente produtivo”.",
-          "link": "https://blogdaboitempo.com.br/2026/03/26/por-onde-comecar-a-ler-walter-benjamin-um-trecho-da-orelha-de-walter-benjamin-uma-introducao/",
-          "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 12216,
-          "title": "Um manual para conhecer Walter Benjamin",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-30.png?fit=1200%2C761&ssl=1"
         }
       ]
     }
