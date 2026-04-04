@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "kEWZX3",
+          "author": null,
+          "description": "Estudantes do Campus Jorge Amado da universidade protestaram contra o ocorrido fechando a rodovia, após denunciar por anos as condições precárias de travessia da rodovia Ilhéus-Itabuna.",
+          "link": "https://jornalofuturo.com.br/artigo/kEWZX3-atropelamento-de-estudante-na-ufsb-escancara-descaso-com-a-seguranca-e-acesso-a-universidade",
+          "publishedOn": "2026-04-03T21:00:00.000Z",
+          "wordCount": 3835,
+          "title": "Atropelamento de estudante na UFSB escancara descaso com a segurança e acesso à universidade",
+          "imageUrl": "https://media.jornalofuturo.com.br/ufsbato1-1280x720.jpg"
+        },
+        {
           "id": "9ladAB",
           "author": null,
           "description": "Decisão histórica fortalece a luta pela democratização da universidade e amplia a participação da comunidade acadêmica nos espaços de decisão.",
@@ -495,16 +505,6 @@
           "wordCount": null,
           "title": "Nos EUA, Flávio Bolsonaro pede intervenção de Trump nas eleições e promete tornar o Brasil sua colônia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
-          "author": "Faísca USP, Nossa Classe - USP",
-          "description": "O novo reitor da USP, Aluísio Segurado, foi escolhido pelo governador Tarcísio de Freitas, não por mera formalidade. Ele era o candidato ideal para levar a frente o projeto de inovação da USP tal qual pensado pelas gestões anteriores como a de Vahan Agopyan, atual Secretário de Ciência e Tecnologia do governo estadual. O projeto de universidade defendido pela burocracia universitária cai como uma luva para o governo que quer privatizar até a última gota d'água.\n30-03-2026\n\n/ Classe trabalhadora, Juventude, USP, Movimento Nossa Classe, Faísca - Juventude Revolucionária e Anticapitalista",
-          "link": "https://www.esquerdadiario.com.br/USP-inova-em-novas-formas-de-elitismo-e-exclusao-E-preciso-construir-uma-forte-mobilizacao",
-          "publishedOn": "2026-03-30T14:25:19.000Z",
-          "wordCount": null,
-          "title": "USP inova em novas formas de elitismo e exclusão: É preciso construir uma forte mobilização unificando estudantes e trabalhadores por novo projeto de universidade",
-          "imageUrl": null
         }
       ]
     },
@@ -549,7 +549,7 @@
           "description": "Governo israelense fala abertamente em anexação e reprodução de métodos utilizados na Palestina, mas narrativa dominante insiste em ignorar expansão colonial.\nO post Israel repete no Líbano a estratégia genocida adotada em Gaza apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/01/israel-repete-libano-estrategia-genocida-adotada-gaza/",
           "publishedOn": "2026-04-01T10:00:00.000Z",
-          "wordCount": 3730,
+          "wordCount": 3700,
           "title": "Israel repete no Líbano a estratégia genocida adotada em Gaza",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/S8nSAFez-Header-site-horizontal.png",
@@ -685,6 +685,26 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251240",
+          "author": "Rocio Paik",
+          "description": "Pesquisa da Universidade Federal de São Paulo (Unifesp) identificou a cela em que agentes da ditadura militar simularam o suicídio do jornalista Vladimir Herzog. Ele foi torturado e assassinado em 25 de outubro de 1975, no DOI-Codi de São Paulo, órgão de repressão da ditadura militar subordinado ao Exército que funcionou entre 1969 e 1983. […]\nO post Pesquisa da Unifesp identifica cela em que ditadura simulou suicídio de Vladimir Herzog apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/pesquisa-da-unifesp-identifica-cela-em-que-ditadura-simulou-suicidio-de-vladimir-herzog/",
+          "publishedOn": "2026-04-03T21:20:15.000Z",
+          "wordCount": 4249,
+          "title": "Pesquisa da Unifesp identifica cela em que ditadura simulou suicídio de Vladimir Herzog",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cela-herzog.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251247",
+          "author": "Tabitha Ramalho",
+          "description": "Os ataques à deputada Erika Hilton após a escolha de seu nome para presidir uma comissão parlamentar federal com o objetivo de defender os direitos das mulheres são destaque no jornal francês Le Monde desta sexta-feira (03/04). A matéria contextualiza a eleição de Hilton para liderar a comissão, criada em 2016. É a primeira vez […]\nO post Le Monde destaca atuação de Erika Hilton como primeira pessoa trans a presidir comissão parlamentar apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/le-monde-destaca-atuacao-de-erika-hilton-como-primeira-pessoa-trans-a-presidir-comissao-parlamentar/",
+          "publishedOn": "2026-04-03T20:40:06.000Z",
+          "wordCount": 3409,
+          "title": "Le Monde destaca atuação de Erika Hilton como primeira pessoa trans a presidir comissão parlamentar",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/0d9a5782.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251243",
           "author": "Tabitha Ramalho",
           "description": "Os quatro astronautas do programa Artemis 2 acionaram os motores da espaçonave Orion para deixar a órbita da Terra, onde estavam há quase um dia, e partir rumo à Lua na noite de quinta-feira (02/04), um feito que a Nasa não realizava há mais de meio século. “A humanidade demonstrou mais uma vez do que […]\nO post Artemis 2 deixa a órbita da Terra e segue em direção à Lua apareceu primeiro em Opera Mundi.",
@@ -700,7 +720,7 @@
           "description": "Um avião de combate dos Estados Unidos foi derrubado no Irã, onde operações estão em andamento nesta sexta-feira (03/04) para localizar o piloto, segundo a imprensa norte-americana e iraniana. O Comando Central dos Estados Unidos para o Oriente Médio (Centcom) não comentou o incidente. A afiliada da televisão estatal iraniana em Kohgiluyeh e Boyer-Ahmad, no […]\nO post Irã afirma ter abatido caça dos EUA; Washington mobiliza resgate de tripulantes apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-ter-abatido-caca-dos-eua-washington-mobiliza-resgate-de-tripulantes/",
           "publishedOn": "2026-04-03T19:22:37.000Z",
-          "wordCount": 3774,
+          "wordCount": 3724,
           "title": "Irã afirma ter abatido caça dos EUA; Washington mobiliza resgate de tripulantes",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405011415164065836265534.jpg"
         },
@@ -730,7 +750,7 @@
           "description": "Em defesa do Líbano e de seu povo, os combatentes do Hezbollah lançaram uma ofensiva contra Israel nesta sexta-feira (03/04). A Resistência Islâmica detonou um dispositivo explosivo contra uma força israelense na área de Deir Hanna, na cidade de Al-Bayyada, causando baixas confirmadas. Um helicóptero interveio para evacuar os feridos, e em seguida os combatentes […]\nO post Hezbollah lança ofensiva contra Israel em retaliação após ataques no Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-lanca-ofensiva-contra-israel-em-retaliacao-a-ataques-no-libano/",
           "publishedOn": "2026-04-03T16:50:42.000Z",
-          "wordCount": 3069,
+          "wordCount": 3019,
           "title": "Hezbollah lança ofensiva contra Israel em retaliação após ataques no Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/2f07df34-abe6-4729-a119-ae18c22dc652.webp"
         },
@@ -760,29 +780,9 @@
           "description": "A líder do Partido Conservador britânico, Kemi Badenoch, declarou que Donald Trump desestabilizou o Oriente Médio, enquanto o líder do Reform UK, Nigel Farage, também criticou o presidente estadunidense. Em uma rara crítica ao líder norte-americano, a chefe conservadora afirmou que Trump não deve “abandonar” a região após iniciar a guerra, invocando a “regra da […]\nO post Líder da direita britânica critica Trump: ‘não deve abandonar a bagunça que ele mesmo criou’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lider-da-direita-britanica-critica-trump-nao-deve-abandonar-a-bagunca-que-ele-mesmo-criou/",
           "publishedOn": "2026-04-03T14:50:20.000Z",
-          "wordCount": 3659,
+          "wordCount": 3609,
           "title": "Líder da direita britânica critica Trump: ‘não deve abandonar a bagunça que ele mesmo criou’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/g7p1poow8aeqxto.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251224",
-          "author": "Rocio Paik",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmail Baghaei, declarou nesta sexta-feira (03/04) que os ataques dos Estados Unidos e de Israel dirigidos às pontes iranianas constituem um “crime de guerra terrorista”. A condenação ocorreu um dia após o presidente norte-americano Donald Trump anunciar a destruição da ponte B1 que interliga a capital […]\nO post Teerã condena ‘crime de guerra terrorista’ após EUA atacar maior ponte iraniana apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/teera-condena-crime-de-guerra-terrorista-apos-eua-atacar-maior-ponte-iraniana/",
-          "publishedOn": "2026-04-03T14:10:46.000Z",
-          "wordCount": 2930,
-          "title": "Teerã condena ‘crime de guerra terrorista’ após EUA atacar maior ponte iraniana",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/he-amnnwaaaeqwa.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251221",
-          "author": "Tabitha Ramalho",
-          "description": "Em resposta ao recente discurso do presidente dos EUA, Donald Trump, o Ministério das Relações Exteriores chinês enfatizou a necessidade de reduzir a intensidade do conflito no Oriente Médio, ao mesmo tempo em que denunciou a operação militar ilegal realizada contra o Irã como a causa principal da crise no Estreito de Ormuz. O Ministério […]\nO post China rejeita ação militar contra Irã e pede redução da tensão no Oriente Médio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-rejeita-acao-militar-contra-ira-e-pede-a-reducao-da-tensao-no-oriente-medio/",
-          "publishedOn": "2026-04-03T13:23:49.000Z",
-          "wordCount": 2959,
-          "title": "China rejeita ação militar contra Irã e pede redução da tensão no Oriente Médio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/chinaaaaaa-jpg.jpg.webp"
         }
       ]
     },
@@ -797,6 +797,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223709",
+          "author": "Giovanna Maria",
+          "description": "O assassinato da liderança se dá no contexto da disputa entre caudilhos indígenas armados pelo latifúndio em torno do arrendamento de terras, a situação de Erebango se arrasta desde o final de 2025 com o velho Estado atuando no prologamentos das disputas fortalecendo o avanço do latifúndio na terra indígena.",
+          "link": "https://anovademocracia.com.br/rs-lideranca-indigena-e-assassinada-em-meio-a-disputa-pelo-cacicado-em-erebango/",
+          "publishedOn": "2026-04-03T23:49:40.000Z",
+          "wordCount": null,
+          "title": "RS: Liderança indígena é assassinada em meio a disputa pelo cacicado em Erebango",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223705",
+          "author": "Redação de AND",
+          "description": "No dia 1 de abril, 2 dias após a aprovação da pena de morte para prisioneiros palestinos nos campos de detenção nazisionistas, Rawa Alsagheer, uma das principais ativistas solidarias a luta dos prisioneiros palestinos por sua liberdade, teve sua conta na rede digital  Instagram banida.   Rawa Alsagheer tem realizado um trabalho profícuo e de grande relevância denunciando a tentativa de exterminio do povo palestino após o após o Grande Dilúvio de Al Aqsa. Rawa tem uma atuação especial como coordenadora da rede Samidoun no Brasil. Trata-se de uma rede internacional de apoio a prisioneiros palestinos detidos nas masmorras do nazisionismo",
+          "link": "https://anovademocracia.com.br/rawa-alsagheer-coordenadora-da-rede-samidoun-de-solidariedade-aos-prisioneiros-palestino-tem-sua-conta-da-rede-digital-instagram-banida/",
+          "publishedOn": "2026-04-03T22:10:28.000Z",
+          "wordCount": null,
+          "title": "Rawa Alsagheer, Coordenadora da Rede Samidoun de Solidariedade aos Prisioneiros Palestino, tem sua conta da rede digital Instagram banida",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223698",
           "author": "Redação de AND",
@@ -876,26 +896,6 @@
           "wordCount": null,
           "title": "BA: Estudantes realizam ato pela volta da linha do ônibus interestadual entre Petrolina e Juazeiro",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223610",
-          "author": "Giovanna Maria",
-          "description": "O latifúndio foi condenado, assim como seus aliados, entre eles o ex-comandante geral da PM-RO, Régis Braguin, e o coronel José Hélio Cysneiros Pachá, comandante da PM responsável pelo que ficou conhecido como massacre de Corumbiara pelo monopólio de imprensa.",
-          "link": "https://anovademocracia.com.br/tribunal-popular-latifundio/",
-          "publishedOn": "2026-04-02T18:18:51.000Z",
-          "wordCount": null,
-          "title": "Vitorioso Tribunal Popular julga e condena crimes do latifúndio em Rondônia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223601",
-          "author": "Redação de AND",
-          "description": "O AND acompanhou tudo em tempo real e disponibiliza informações que desmentem ponto a ponto a declaração do chefete imperialista.",
-          "link": "https://anovademocracia.com.br/no-dia-da-mentira-o-canibal-donald-trump-volta-a-espalhar-boatos-sobre-a-agressao-contra-o-ira-dados-desmascaram-o-surto-imperialista/",
-          "publishedOn": "2026-04-02T10:34:15.000Z",
-          "wordCount": null,
-          "title": "No dia da mentira, o canibal Donald Trump volta a espalhar boatos sobre a agressão contra o Irã; dados desmascaram o surto imperialista",
-          "imageUrl": null
         }
       ]
     },
@@ -961,6 +961,26 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3181205",
+          "author": "Roberto Andrés",
+          "description": "Em cidades pequenas, a prefeitura banca tudo. Nas grandes, é preciso redistribuir o custo. Mas o empresariado nega contrapartidas justas e viáveis  – e sabota projetos com forte apoio popular. Como enfrentar as forças do atraso? Caso Belo Horizonte ilustra este desafio\nThe post Tarifa Zero: Por que trava nas metrópoles? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/tarifa-zero-por-que-trava-nas-metropoles/",
+          "publishedOn": "2026-04-03T22:12:02.000Z",
+          "wordCount": 4871,
+          "title": "Tarifa Zero: Por que trava nas metrópoles?",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/03190832/B-H-tarifa-zero-1536x864-2-768x432.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3181199",
+          "author": "Rôney Rodrigues",
+          "description": "SP tem recorde histórico: nunca tantas casas, pequenos prédios e comércios locais viraram escombros para dar lugar a novos empreendimentos. Quais os impactos da verticalização selvagem? Como afeta a memória, laços afetivos e infraestrutura da cidade?\nThe post Especulação: A ordem é demolir tudo! appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/especulacao-a-ordem-e-demolir-tudo/",
+          "publishedOn": "2026-04-03T21:44:13.000Z",
+          "wordCount": 4071,
+          "title": "Especulação: A ordem é demolir tudo!",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/03184336/demolicao-1-1-1.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3181146",
           "author": "Antonio Martins",
@@ -1040,26 +1060,6 @@
           "wordCount": 3531,
           "title": "Quando a taxa de juros faz terapia",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/01162322/photo_5073814982289460301_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181002",
-          "author": "Redação",
-          "description": "Curso que começa em 13/4 examina como Ocidente constrói a narrativa de “ameaça chinesa” diante da reconfiguração do poder em escala global. Também aborda o processo de desenvolvimento do país, a guerra comercial e tecnológica com os EUA e uma possível “Nova Guerra Fria”\nThe post Quem tem medo da China? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/quem-tem-medo-da-china/",
-          "publishedOn": "2026-04-01T19:10:15.000Z",
-          "wordCount": 3454,
-          "title": "Quem tem medo da China?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/01160545/china6.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3180982",
-          "author": "Roberto Rafael Dias da Silva",
-          "description": "Ampliação da oferta de vagas é muito importante, mas não basta. Enfrentar a desigualdade no ensino técnico exige reconhecer seu valor social, políticas de permanência, capilarização regional e currículo alinhado às transformações do mundo do trabalho\nThe post Os desafios da educação profissional e tecnológica appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outrapolitica/os-desafios-da-educacao-profissional-e-tecnologica/",
-          "publishedOn": "2026-04-01T19:01:14.000Z",
-          "wordCount": 4074,
-          "title": "Os desafios da educação profissional e tecnológica",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/01153417/fptfabrica_0eVCHSm.jpg"
         }
       ]
     },
@@ -1131,7 +1131,7 @@
           "description": "Alysson Oliveira comenta exibição de \"Não Espere Muito do Fim do Mundo\" e debate com Paulo Arantes na Cinemateca Brasileira: “O fim do mundo já ocorreu, e a única coisa que continua acontecendo é o trabalho”, apontou o filósofo Paulo Arantes após a exibição do longa. Apesar de todo catastrofismo do longa, lembra ele, “o filme ainda é otimista, pois se vale do humor para falar sobre isso.”",
           "link": "https://blogdaboitempo.com.br/2026/04/02/paulo-arantes-e-o-fim-do-mundo-segundo-radu-jude/",
           "publishedOn": "2026-04-02T20:30:59.000Z",
-          "wordCount": 11763,
+          "wordCount": 11908,
           "title": "Paulo Arantes e o fim do mundo segundo Radu Jude",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-02-at-17.07.18-edited-1.jpeg"
         },
@@ -1161,7 +1161,7 @@
           "description": "Anita Prestes analisa o contexto repressivo instaurado após 1935 e as condições de prisão de Luiz Carlos Prestes: “Se não foi torturado fisicamente, como aconteceu com centenas de outros presos, Prestes foi submetido a tortura psicológica, pois, além do isolamento, não podia receber notícias da família nem da situação de Olga. Ele sofreu o impacto da notícia da extradição dela para a Alemanha pela leitura de um jornal.”",
           "link": "https://blogdaboitempo.com.br/2026/04/02/1936-90-anos-da-prisao-de-luiz-carlos-prestes-e-da-criacao-do-tribunal-de-seguranca-nacional-tsn/",
           "publishedOn": "2026-04-02T16:16:58.000Z",
-          "wordCount": 27776,
+          "wordCount": 27921,
           "title": "1936: 90 anos da prisão de Luiz Carlos Prestes e da criação do Tribunal de Segurança Nacional (TSN)",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-24.png?fit=1200%2C923&ssl=1"
         },
@@ -1204,16 +1204,6 @@
           "wordCount": 12891,
           "title": "Mostra na Cinemateca Brasileira reúne filmes e debates sobre a crise do trabalho contemporâneo, com autores da Boitempo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/banner-blog-boitempo-cinemateca_01-1.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63127",
-          "author": "Boitempo",
-          "description": "Marcela Magalhães: \"A família é tratada como célula do Estado e a subordinação feminina como requisito para a ordem pública. A misoginia nazifascista, assim, é técnica de governo, porque controla sexualidade, regula reprodução, reorganiza o trabalho e produz um tipo de cidadania em que as mulheres aparecem sobretudo como meio biopolítico e não como sujeito pleno de participação e direção social.\"",
-          "link": "https://blogdaboitempo.com.br/2026/03/30/funcao-material-da-misoginia-no-projeto-reacionario/",
-          "publishedOn": "2026-03-30T11:00:00.000Z",
-          "wordCount": 15434,
-          "title": "Função material da misoginia no projeto reacionário",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-32.png?fit=1200%2C794&ssl=1"
         }
       ]
     }
