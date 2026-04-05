@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "dTntMk",
+          "author": null,
+          "description": "A remoção do horário de 22h30, conquista da luta de trabalhadores e estudantes do município, força os mesmos a gastar em torno de R$70 em transportes particulares para voltar para casa.",
+          "link": "https://jornalofuturo.com.br/artigo/dTntMk-rota-transportes-reduz-horarios-e-abandona-trabalhadores-de-buerarema",
+          "publishedOn": "2026-04-05T14:00:00.000Z",
+          "wordCount": 3273,
+          "title": "Rota Transportes reduz horários e abandona trabalhadores de Buerarema",
+          "imageUrl": "https://media.jornalofuturo.com.br/bueraremabaonibus-1280x961.jpg"
+        },
+        {
           "id": "7hajrc",
           "author": null,
           "description": "A decisão expressa o acúmulo de insatisfação com as condições de trabalho, a desvalorização profissional e o descumprimento de reivindicações históricas do magistério.",
@@ -168,16 +178,6 @@
           "wordCount": 4268,
           "title": "EUA: Manifestações “No Kings” (Sem Reis) levaram milhões às ruas",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/foto_ubh_idaho-1.png"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=105689",
-          "author": "Redação",
-          "description": "Enquanto Trump enfrenta uma surpreendente resistência aos seus ataques militares por parte do Irã, um outro front se reabre, desta vez interno. No último sábado, dia 28, milhões de pessoas saíram às ruas em praticamente todo o país na terceira grande marcha “No Kings” (“Sem Reis”). A onda de protestos repetiu temas das duas marchas […]\nO post Em meio a impasse na guerra contra o Irã, Trump enfrenta a maior onda de protestos de seu mandato apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/em-meio-a-impasse-na-guerra-contra-o-ira-trump-enfrenta-a-maior-onda-de-protestos-de-seu-mandato/",
-          "publishedOn": "2026-04-01T01:51:58.000Z",
-          "wordCount": 1437,
-          "title": "Em meio a impasse na guerra contra o Irã, Trump enfrenta a maior onda de protestos de seu mandato",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/03/probonophoto2-1.png"
         }
       ]
     },
@@ -239,7 +239,7 @@
           "description": "Uso militar dos data centers expõe infraestrutura tecnológica a ataques, comprometendo a segurança da população civil.\nO post Uso militar de IA transforma big techs em alvo de guerra apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/02/data-centers-guerra-big-techs/",
           "publishedOn": "2026-04-02T20:55:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4589,
           "title": "Uso militar de IA transforma big techs em alvo de guerra",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-Data-Centers-Guerra-Ira-Big-Techs.png",
@@ -254,7 +254,7 @@
           "description": "Governo israelense fala abertamente em anexação e reprodução de métodos utilizados na Palestina, mas narrativa dominante insiste em ignorar expansão colonial.\nO post Israel repete no Líbano a estratégia genocida adotada em Gaza apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/01/israel-repete-libano-estrategia-genocida-adotada-gaza/",
           "publishedOn": "2026-04-01T10:00:00.000Z",
-          "wordCount": 3700,
+          "wordCount": 3730,
           "title": "Israel repete no Líbano a estratégia genocida adotada em Gaza",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/03/S8nSAFez-Header-site-horizontal.png",
@@ -315,12 +315,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251324",
+          "author": "Rocio Paik",
+          "description": "Em uma publicação com palavrões e ofensas, o presidente dos EUA, Donald Trump, explicitou neste domingo (05/04) frustração com a continuidade do bloqueio do estreito de Ormuz e também reiterou suas ameaças de destruir a infraestrutura civil do Irã caso o regime não libere a passagem marítima. “Terça-feira será o Dia da Usina Elétrica e […]\nO post Trump expõe frustração com bloqueio de Ormuz: ‘abram essa p… de Estreito’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-expoe-frustracao-com-bloqueio-de-ormuz-abram-essa-p-de-estreito/",
+          "publishedOn": "2026-04-05T15:22:26.000Z",
+          "wordCount": 3851,
+          "title": "Trump expõe frustração com bloqueio de Ormuz: ‘abram essa p… de Estreito’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55154837839_19a267dda3_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251314",
+          "author": "Rocio Paik",
+          "description": "As autoridades de Cuba informaram no sábado (04/04) ter concluído a descarga das 100 mil toneladas de petróleo bruto do navio Anatoly Kolodkin, enviadas pela Rússia, na baia de Matanzas, no âmbito da crise energética que a ilha enfrenta sob a intensificação do bloqueio imposto pelos Estados Unidos. O recurso passa a ser refinado nos […]\nO post Cuba descarrega 100 mil toneladas de petróleo bruto enviadas pela Rússia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/cuba-descarrega-100-mil-toneladas-de-petroleo-bruto-enviadas-pela-russia/",
+          "publishedOn": "2026-04-05T14:30:40.000Z",
+          "wordCount": 3228,
+          "title": "Cuba descarrega 100 mil toneladas de petróleo bruto enviadas pela Rússia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cuba-rusia-combustible01-1024x627.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251311",
+          "author": "Rocio Paik",
+          "description": "As Forças Armadas do Irã anunciaram neste domingo (05/04) ter frustrado a tentativa norte-americana de resgatar o segundo piloto desaparecido do caça F-15E, que foi derrubado no sudoeste iraniano na sexta-feira (03/04). Segundo o comando central militar iraniano citado pela agência Tasnim, a operação de resgate de Washington foi “completamente frustrada” após o exército da […]\nO post Irã destrói aeronaves em Isfahan e contradiz Trump sobre resgate do 2º piloto desaparecido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-destroi-aeronaves-em-isfahan-e-nega-trump-sobre-resgate-do-2o-piloto-desaparecido/",
+          "publishedOn": "2026-04-05T13:43:58.000Z",
+          "wordCount": 3390,
+          "title": "Irã destrói aeronaves em Isfahan e contradiz Trump sobre resgate do 2º piloto desaparecido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405011610314357536284494.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251308",
           "author": "Tabitha Ramalho",
           "description": "O Comando da Frente Interna das Forças de Defesa de Israel (IDF) recusou um pedido de autorização para um protesto contra a guerra no Irã, com cerca de mil participantes, na Praça Habima, em Tel Aviv, previsto para o final do dia deste sábado (04/04), permitindo apenas uma reunião de até 150 pessoas. Segundo o […]\nO post Comando militar de Israel proíbe manifestação contra guerra no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/comando-militar-de-israel-proibe-manifestacao-contra-guerra-no-ira/",
           "publishedOn": "2026-04-04T20:59:03.000Z",
-          "wordCount": 2999,
+          "wordCount": 3008,
           "title": "Comando militar de Israel proíbe manifestação contra guerra no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/image-1-1.png"
         },
@@ -330,7 +360,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, voltou a dar prazo para que o Irã normalize o tráfego marítimo no Estreito de Ormuz. Ele afirmou que “o tempo está se esgotando” e disse que restam 48 horas dos dez dias que havia estabelecido para ampliar os ataques, caso o local continue fechado para a passagem […]\nO post Trump dá ultimato de 48 horas para reabertura de Ormuz, e Irã denúncia genocídio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-da-ultimato-de-48-horas-para-reabertura-de-ormuz-e-ira-denuncia-genocidio/",
           "publishedOn": "2026-04-04T20:07:36.000Z",
-          "wordCount": 3246,
+          "wordCount": 3255,
           "title": "Trump dá ultimato de 48 horas para reabertura de Ormuz, e Irã denúncia genocídio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/50423967117_e37412806e_c.jpg"
         },
@@ -340,7 +370,7 @@
           "description": "A sobrinha do ex-comandante militar iraniano Qassem Soleimani foi detida por agentes federais dos Estados Unidos após a revogação de seu status de residente permanente legal, em decisão anunciada pelo Secretário de Estado Marco Rubio. A medida também atingiu a filha da mulher, ambas agora sob custódia das autoridades migratórias estadunidenses. De acordo com o […]\nO post Sobrinha de Qassem Soleimani é detida nos EUA após revogação de green card por Marco Rubio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/sobrinha-de-qassem-soleimani-e-detida-nos-eua-apos-revogacao-de-green-card-por-marco-rubio/",
           "publishedOn": "2026-04-04T19:29:24.000Z",
-          "wordCount": 2868,
+          "wordCount": 2872,
           "title": "Sobrinha de Qassem Soleimani é detida nos EUA após revogação de green card por Marco Rubio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/42d35528-da80-45e8-957c-e2f5b84c0579.webp"
         },
@@ -350,7 +380,7 @@
           "description": "Em duas semanas, os peruanos irão às urnas para eleger seu próximo presidente e membros do Congresso. Um total de 35 candidatos disputam a presidência, embora poucos estejam com mais de 5% nas pesquisas. É difícil prever o que acontecerá, especialmente porque o sentimento de desilusão e apatia da população sempre pode impulsionar os votos […]\nO post Peru tem 35 candidatos a presidente e bate recorde de inscritos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-tem-35-candidatos-a-presidente-e-bate-recorde-de-inscritos/",
           "publishedOn": "2026-04-04T18:30:43.000Z",
-          "wordCount": 4501,
+          "wordCount": 4505,
           "title": "Peru tem 35 candidatos a presidente e bate recorde de inscritos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/presidential-debate-peru-2.jpg"
         },
@@ -360,7 +390,7 @@
           "description": "Acordo com a notícia de que meninas foram mortas numa escola iraniana. O resto do dia passa a girar em torno disso. A notícia fica. Fica com as imagens, com os comentários, com as versões interessadas, com a sensação de que o crime já entrou no mundo cercado de álibis e de que, no fim, […]\nO post Teerã é logo ali apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/teera-e-logo-ali/",
           "publishedOn": "2026-04-04T18:29:51.000Z",
-          "wordCount": 3908,
+          "wordCount": 3962,
           "title": "Teerã é logo ali",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/teera.webp"
         },
@@ -370,7 +400,7 @@
           "description": "No prédio da Universidade Libanesa, em Beirute, milhares de pessoas estão desalojadas por conta dos ataques de Israel contra o país. Entre elas, brasileiros. Opera Mundi visitou o local e conversou com Lindaura Hijazi, uma líbano-brasileira que hoje divide uma sala da instituição com o marido libanês, dois filhos e mais sete famílias. Ela foi […]\nO post Ataques de Israel na Sexta-Feira Santa atingem civis e deslocam milhares no Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/ataques-de-israel-na-sexta-feira-santa-atingem-civis-e-deslocam-milhares-no-libano/",
           "publishedOn": "2026-04-04T17:51:21.000Z",
-          "wordCount": 4372,
+          "wordCount": 4376,
           "title": "Ataques de Israel na Sexta-Feira Santa atingem civis e deslocam milhares no Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao.png"
         },
@@ -380,39 +410,9 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, propôs aumentar drasticamente os gastos militares do país para o próximo ano fiscal, com o objetivo de assegurar um valor recorde de US$ 1,5 trilhão na área de defesa. Para garantir, o valor, Trump propõe cortes em programas sociais, conforme consta da proposta orçamentária apresentada pela Casa Branca […]\nO post Trump quer cortes em programas sociais para turbinar gastos militares em 40% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-quer-cortes-em-programas-sociais-para-turbinar-gastos-militares-em-40/",
           "publishedOn": "2026-04-04T16:50:22.000Z",
-          "wordCount": 3187,
+          "wordCount": 3191,
           "title": "Trump quer cortes em programas sociais para turbinar gastos militares em 40%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76361075_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251274",
-          "author": "Tabitha Ramalho",
-          "description": "O Irã autorizou neste sábado (04/04) a passagem de navios que transportam bens essenciais e ajuda humanitária para seus portos através do Estreito de Ormuz, segundo a agência estatal iraniana Tasnim. A autorização foi concedida em uma carta que estabelece que as embarcações, incluindo as que já estão no Golfo de Omã, devem coordenar a […]\nO post Irã autoriza navios com ajuda humanitária em Ormuz, mas mantém bloqueio a EUA e Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-autoriza-navios-com-ajuda-humanitaria-em-ormuz-mas-mantem-bloqueio-a-eua-e-israel/",
-          "publishedOn": "2026-04-04T16:11:07.000Z",
-          "wordCount": 3344,
-          "title": "Irã autoriza navios com ajuda humanitária em Ormuz, mas mantém bloqueio a EUA e Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/strase_von_hormuz.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251270",
-          "author": "Tabitha Ramalho",
-          "description": "Qualquer agressão de Israel contra embaixadas ou centros diplomáticos iranianos provocará um ataque retaliatório imediato, alertou neste sábado (04/04) o Quartel-General Central Khatam al Anbiya, entidade central na cadeia de comando das Forças Armadas Iranianas. “Na sequência do aviso acima, reiteramos ao regime sionista enfraquecido e decadente que, em caso de agressão ou ataque contra […]\nO post Irã alerta Israel: ataque contra embaixadas provocará retaliação imediata apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-alerta-israel-ataque-contra-embaixadas-provocara-retaliacao-imediata/",
-          "publishedOn": "2026-04-04T14:40:54.000Z",
-          "wordCount": 2917,
-          "title": "Irã alerta Israel: ataque contra embaixadas provocará retaliação imediata",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/iranian_embassy_and_flag_budapest.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251266",
-          "author": "Tabitha Ramalho",
-          "description": "O Departamento de Defesa dos EUA está ocultando o número real de baixas militares no conflito com o Irã. Uma reportagem do veículo de mídia norte-americano The Intercept, baseada em fontes anônimas, revela que aproximadamente 750 militares foram mortos ou feridos na guerra no Oriente Médio desde outubro de 2023. A investigação indica que o […]\nO post The Intercepet: Pentágono oculta número real de baixas na guerra contra Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/the-intercepet-pentagono-oculta-numero-real-de-baixas-na-guerra-contra-ira/",
-          "publishedOn": "2026-04-04T14:09:34.000Z",
-          "wordCount": 3868,
-          "title": "The Intercepet: Pentágono oculta número real de baixas na guerra contra Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1280px-121115-f-rn544-035_8202276765.jpg"
         }
       ]
     },
@@ -761,7 +761,7 @@
           "description": "Aaron Benanav : \"O mundo em que vivemos é moldado pelas tecnologias que adotamos. As tecnologias não são meras ferramentas; elas reorganizam práticas sociais, remodelam identidades e aspirações e expandem o leque de futuros que as pessoas podem vislumbrar de forma significativa. Escolher a IA generativa ou a energia verde como o caminho tecnológico dominante alteraria profundamente a forma como vivemos e trabalhamos. \"",
           "link": "https://blogdaboitempo.com.br/2026/04/02/uma-real-economia-politica-da-tecnologia-replica-a-morozov-2/",
           "publishedOn": "2026-04-02T16:42:52.000Z",
-          "wordCount": 16522,
+          "wordCount": 16683,
           "title": "Uma real economia política da tecnologia: réplica a Morozov",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-40.png?fit=1200%2C748&ssl=1"
         },
