@@ -188,7 +188,7 @@
           "description": "Na semana de aniversário do golpe de 64, os dois pré-candidatos se sentiram livres para desprezar a democracia\nO post Flávio Bolsonaro e Ronaldo Caiado deixam golpismo à mostra apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/04/flavio-bolsonaro-caiado-desprezam-democracia/",
           "publishedOn": "2026-04-04T10:00:00.000Z",
-          "wordCount": 3265,
+          "wordCount": 3295,
           "title": "Flávio Bolsonaro e Ronaldo Caiado deixam golpismo à mostra",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderSite-1.jpg",
@@ -218,7 +218,7 @@
           "description": "Uso militar dos data centers expõe infraestrutura tecnológica a ataques, comprometendo a segurança da população civil.\nO post Uso militar de IA transforma big techs em alvo de guerra apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/02/data-centers-guerra-big-techs/",
           "publishedOn": "2026-04-02T20:55:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4589,
           "title": "Uso militar de IA transforma big techs em alvo de guerra",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-Data-Centers-Guerra-Ira-Big-Techs.png",
@@ -262,6 +262,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73426",
+          "author": "Frei Betto",
+          "description": "este ano de 2026, em que Fidel Castro completaria 100 anos, é importante lembrar que sua figura transcendeu as fronteiras de Cuba para se tornar um dos ícones determinantes da política internacional do século XX. Sua trajetória foi moldada por três eixos principais: relação de conflito permanente com os EUA, aliança estratégica com a União […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/06/fidel-castro-entre-a-guerra-fria-e-o-nao-alinhamento/",
+          "publishedOn": "2026-04-06T20:29:37.000Z",
+          "wordCount": 3308,
+          "title": "Fidel Castro entre a Guerra Fria e o não alinhamento",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2025/05/fidel-castro.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73422",
           "author": "Globetrotter",
           "description": "fácil não gostar de Trump. Ele tem um estilo grosseiro, uma atitude perante o mundo que, em um piscar de olhos, despreza as sutilezas da diplomacia e do direito internacional. “De um jeito ou de outro, vamos tomar a Groenlândia”, afirmou em meados de janeiro de 2026; “Acredito que terei a honra de tomar Cuba”, […]",
@@ -279,12 +289,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251413",
+          "author": "Victor Farinelli",
+          "description": "No programa 20 MINUTOS desta segunda-feira (06/04), o jornalista Breno Altman, fundador de Opera Mundi, entrevistou o jornalista e escritor Fernando Morais, autor de diversas biografias de grande sucesso e que está lançando recentemente a obra Lula, volume dois (Companhia das Letras), segunda parte da história do presidente Luiz Inácio Lula da Silva. A conversa […]\nO post Se reeleito, Lula escolherá por qual porta entrará para a história, afirma biógrafo Fernando Morais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/20-minutos/se-reeleito-lula-escolhera-por-qual-porta-entrara-para-a-historia-afirma-biografo-fernando-morais/",
+          "publishedOn": "2026-04-06T20:34:42.000Z",
+          "wordCount": 3034,
+          "title": "Se reeleito, Lula escolherá por qual porta entrará para a história, afirma biógrafo Fernando Morais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/morais.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251406",
+          "author": "Fernanda Oliveira",
+          "description": "Há 232 anos, em 6 de abril de 1794, nascia o revolucionário pernambucano José Inácio de Abreu e Lima, herói da luta pela independência da América espanhola. Perseguido pelas autoridades portuguesas após a Revolução Pernambucana, Abreu e Lima se exilou na Venezuela, onde se uniu ao Exército libertador de Simón Bolívar. Alçado ao posto de […]\nO post Abreu e Lima: um general brasileiro no Exército libertador de Bolívar apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/abreu-e-lima-um-general-brasileiro-no-exercito-libertador-de-bolivar/",
+          "publishedOn": "2026-04-06T20:00:06.000Z",
+          "wordCount": 6214,
+          "title": "Abreu e Lima: um general brasileiro no Exército libertador de Bolívar",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/general_abreu_e_lima-e1775504761487.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251399",
+          "author": "Rocio Paik",
+          "description": "O governo da Rússia anunciou a inclusão das vacinas russas para o tratamento contra o câncer dentro do sistema obrigatório do seguro de saúde, garantindo a gratuidade do serviço para a população. A informação foi fornecida nesta segunda-feira (06/04) pelo primeiro-ministro Mikhail Mishustin durante uma reunião com vice-primeiros-ministros, de acordo com a mídia local.  “Agora, […]\nO post Rússia anuncia gratuidade no tratamento de câncer com vacinas desenvolvidas no país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/russia-anuncia-gratuidade-no-tratamento-de-cancer-com-vacinas-desenvolvidas-no-pais/",
+          "publishedOn": "2026-04-06T19:00:02.000Z",
+          "wordCount": 2963,
+          "title": "Rússia anuncia gratuidade no tratamento de câncer com vacinas desenvolvidas no país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/behind_the_lab_work.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251398",
+          "author": "Pedro Marin",
+          "description": "Imagine uma sala hexagonal com dispositivos eletrônicos distribuídos pelas paredes, sete cadeiras brancas de estofado laranja, com design moderno, e botões embutidos para o controle de projeção de dados, refletindo hoje uma imagem que poderia ser chamada de retrô-futurista, digna de filmes e séries ficção científica — e que despertaria sentimentos utópicos, ou ucrônicos [1], […]\nO post Pistas históricas para outra digitalização (parte II): o Cybersyn chileno apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/pistas-historicas-para-outra-digitalizacao-parte-ii-o-cybersyn-chileno/",
+          "publishedOn": "2026-04-06T18:27:11.000Z",
+          "wordCount": 5938,
+          "title": "Pistas históricas para outra digitalização (parte II): o Cybersyn chileno",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cybersyn.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251390",
+          "author": "Victor Farinelli",
+          "description": "O governo do Irã divulgou nesta segunda-feira (06/04) um documento no qual rechaça a proposta feita pelos Estados Unidos para um cessar-fogo temporário na guerra entre os dois países – na qual também está envolvido Israel, como aliado do Washington – e apresenta uma lista de exigências para um acordo que resulte em uma interrupção […]\nO post Irã rejeita trégua de 45 dias e faz proposta para fim definitivo da guerra contra EUA e Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-rejeita-tregua-de-45-dias-e-faz-proposta-para-fim-definitivo-da-guerra-contra-eua-e-israel/",
+          "publishedOn": "2026-04-06T17:48:40.000Z",
+          "wordCount": 3290,
+          "title": "Irã rejeita trégua de 45 dias e faz proposta para fim definitivo da guerra contra EUA e Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/ainra.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251393",
+          "author": "Pedro Marin",
+          "description": "A aprovação, pela Knesset, de uma lei que institui a pena de morte para prisioneiros palestinos marca uma ruptura histórica na política penal israelense e um salto perigoso na institucionalização da violência estatal. Pela primeira vez em décadas, o Estado sionista formaliza a execução como instrumento regular de punição, estabelecendo a morte, inclusive por enforcamento, […]\nO post A política da morte nas prisões de Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-politica-da-morte-nas-prisoes-de-israel/",
+          "publishedOn": "2026-04-06T17:40:25.000Z",
+          "wordCount": 4010,
+          "title": "A política da morte nas prisões de Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/israel.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251377",
           "author": "Tabitha Ramalho",
           "description": "Os astronautas da missão Artemis 2 alcançaram a esfera gravitacional da Lua, fazendo com que a cápsula Orion seja mais fortemente afetada pela gravidade lunar do que pela da Terra, informou a Nasa nesta segunda-feira (06/04). Ao entrar na influência gravitacional da Lua, a espaçonave estava a cerca de 63 mil quilômetros da Lua e […]\nO post Missão Artemis 2 entra na influência gravitacional da Lua apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/sociedade/missao-artemis-2-entra-na-influencia-gravitacional-da-lua/",
           "publishedOn": "2026-04-06T16:20:31.000Z",
-          "wordCount": 3132,
+          "wordCount": 3090,
           "title": "Missão Artemis 2 entra na influência gravitacional da Lua",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76676735_303.jpg"
         },
@@ -294,7 +364,7 @@
           "description": "O Bar Partisan, localizado na Lapa, no centro do Rio de Janeiro, foi multado em R$ 9.520 pelo Procon Carioca no sábado (04/04) após instalar, do lado exterior do estabelecimento, uma placa em inglês dizendo que “cidadãos dos Estados Unidos e de Israel não são bem-vindos”. O órgão justificou que, nas conformidades do Código de […]\nO post ‘Placa era protesto contra agressão no Irã e genocídio em Gaza’, diz dono de bar multado no Rio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/placa-era-protesto-contra-agressao-no-ira-e-genocidio-em-gaza-diz-dono-de-bar-multado-no-rio/",
           "publishedOn": "2026-04-06T15:39:02.000Z",
-          "wordCount": 3876,
+          "wordCount": 3842,
           "title": "‘Placa era protesto contra agressão no Irã e genocídio em Gaza’, diz dono de bar multado no Rio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfgp1t0a0aa10kx-e1775487352739.jpeg"
         },
@@ -304,7 +374,7 @@
           "description": "O chefe do serviço de Inteligência da Guarda Revolucionária do Irã (IRGC, na sigla em inglês), major-general Seyed Majid Khademi, foi morto em um ataque conduzido pelos Estados Unidos e por Israel, confirmou nesta segunda-feira (06/04) a própria força iraniana citada pela agência Tasnim. De acordo com o veículo iraniano, Khademi foi “martirizado” nesta manhã […]\nO post Irã confirma morte de chefe de Inteligência da Guarda Revolucionária em ataque dos EUA e Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-confirma-morte-de-chefe-de-inteligencia-da-guarda-revolucionaria-em-ataque-dos-eua-e-israel/",
           "publishedOn": "2026-04-06T15:00:12.000Z",
-          "wordCount": 3050,
+          "wordCount": 3016,
           "title": "Irã confirma morte de chefe de Inteligência da Guarda Revolucionária em ataque dos EUA e Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1404112918540742435705864.jpg"
         },
@@ -314,69 +384,9 @@
           "description": "O grupo armado libanês Hezbollah afirma que seus combatentes lançaram ataques com foguetes em retaliação contra os assentamentos de Liman, Hurfeish, Shlomi e Nahariya, no norte de Israel. A Resistência Islâmica também realizou uma ofensiva contra um grupo de veículos e soldados do exército israelense no Portão de Fátima, na fronteira, e bombardeou as forças […]\nO post Hezbollah ataca assentamentos no norte de Israel em retaliação a bombardeios no Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-ataca-assentamentos-no-norte-de-israel-em-retaliacao-a-bombardeios-no-libano/",
           "publishedOn": "2026-04-06T14:10:13.000Z",
-          "wordCount": 2928,
+          "wordCount": 2886,
           "title": "Hezbollah ataca assentamentos no norte de Israel em retaliação a bombardeios no Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/69c3a75d59bf5b0acd6f566d.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251369",
-          "author": "Rocio Paik",
-          "description": "Em carta, o chefe da Organização de Energia Atômica do Irã (AEOI, na sigla em inglês), Mohammad Eslami, convocou nesta segunda-feira (06/04) a Agência Internacional de Energia Atômica (AIEA) a condenar explicitamente os recentes ataques conduzidos pelos Estados Unidos e por Israel nas proximidades da usina nuclear Bushehr, no sul da nação persa. O comunicado […]\nO post Governo iraniano critica ‘inação’ da agência nuclear ao acusar agressões contra instalações do país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/governo-iraniano-critica-inacao-da-agencia-nuclear-ao-acusar-agressoes-contra-instalacoes-do-pais/",
-          "publishedOn": "2026-04-06T13:30:10.000Z",
-          "wordCount": 3007,
-          "title": "Governo iraniano critica ‘inação’ da agência nuclear ao acusar agressões contra instalações do país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405011713062150336298124.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251364",
-          "author": "Rocio Paik",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, disse nesta segunda-feira (06/04) que há todavia “muitas perguntas e incertezas” referentes à operação de resgate lançada pelos Estados Unidos em busca do segundo piloto norte-americano que desapareceu após as forças iranianas abaterem o caça F-15E na sexta-feira (03/04), no sudoeste do país. “A […]\nO post Irã diz que resgate de piloto norte-americano foi ‘fachada’ para roubar urânio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-sugere-que-operacao-dos-eua-para-suposto-resgate-de-piloto-buscou-roubar-uranio/",
-          "publishedOn": "2026-04-06T12:50:35.000Z",
-          "wordCount": 3381,
-          "title": "Irã diz que resgate de piloto norte-americano foi ‘fachada’ para roubar urânio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/140501161031423036284494-e1775482935891.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251363",
-          "author": "Tabitha Ramalho",
-          "description": "O quartel-general Khatam al-Anbiya do Irã alertou nesta segunda-feira (06/04) que, se os ataques dos Estados Unidos e Israel contra alvos civis no país se repetirem, a resposta retaliatória será “muito mais forte e abrangente”, informou a mídia estatal IRNA. “Avisamos desde o início que qualquer ataque contra alvos civis provocaria uma resposta dupla contra […]\nO post Irã retalia base dos EUA no Kuwait e alerta que ataques contra civis será ‘muito mais forte’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-retalia-base-dos-eua-no-kuwait-e-alerta-que-ataques-contra-civis-sera-muito-mais-forte/",
-          "publishedOn": "2026-04-06T12:11:39.000Z",
-          "wordCount": 3344,
-          "title": "Irã retalia base dos EUA no Kuwait e alerta que ataques contra civis será ‘muito mais forte’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfftnqqwkaadjhy-e1775477448395.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251358",
-          "author": "Tabitha Ramalho",
-          "description": "O general Randy George, exonerado esta semana do cargo de Chefe do Estado-Maior do Exército dos Estados Unidos pelo Secretário da Guerra Pete Hegseth, afirmou em uma carta de despedida, citada neste domingo (05/04) pela mídia local, que a instituição merece “líderes de caráter”. Na mensagem, compartilhada no Reddit e confirmada por uma fonte militar […]\nO post Exonerado por Hegseth, general Randy George diz que Exército dos EUA merece ‘líderes de caráter’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/exonerado-por-hegseth-general-randy-george-diz-que-exercito-dos-eua-merece-lideres-de-carater/",
-          "publishedOn": "2026-04-06T10:59:04.000Z",
-          "wordCount": 3090,
-          "title": "Exonerado por Hegseth, general Randy George diz que Exército dos EUA merece ‘líderes de caráter’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/gen_randy_a._george-e1775228685470.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251355",
-          "author": "Tabitha Ramalho",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmail Baghaei, lembrou aos EUA e a Israel que “negociações são incompatíveis com ultimatos, crimes e ameaças de cometer crimes de guerra”. “Hoje completam-se 38 dias desde a guerra imposta pelos Estados Unidos e pelo regime sionista [Israel] contra o povo iraniano, onde, nesses 38 dias, […]\nO post ‘Negociações são incompatíveis com ultimatos, crimes e ameaças’, diz Teerã sobre falas de Trump apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-relembra-trump-negociacoes-sao-incompativeis-com-ultimatos-crimes-e-ameacas/",
-          "publishedOn": "2026-04-06T10:07:27.000Z",
-          "wordCount": 3044,
-          "title": "‘Negociações são incompatíveis com ultimatos, crimes e ameaças’, diz Teerã sobre falas de Trump",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/gwdbcjcwuaaneiq.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251116",
-          "author": "Tatiana Carlotti",
-          "description": "Com 45 anos de atraso, O Arcano da Reprodução chega ao Brasil (Editora Boitempo). O livro clássico do feminismo italiano, lançado pela socióloga Leopoldina Fortunati, em 1981, propõe uma reviravolta teórica ao demonstrar que os trabalhos doméstico e sexual, historicamente invisibilizados, são centrais para a reprodução do capitalismo. A Opera Mundi, Fortunati reconstrói o percurso […]\nO post ‘Extrema direita quer que mulheres voltem ao modelo de Adão e Eva’, diz feminista pioneira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-entrevista/extrema-direita-quer-que-mulheres-voltem-ao-modelo-de-adao-e-eva-diz-feminista-pioneira/",
-          "publishedOn": "2026-04-06T10:00:36.000Z",
-          "wordCount": 7208,
-          "title": "‘Extrema direita quer que mulheres voltem ao modelo de Adão e Eva’, diz feminista pioneira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-03-27-205344.png"
         }
       ]
     },
@@ -392,6 +402,66 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=223659",
+          "author": "Marcos Pedlowski",
+          "description": "A ofensiva conduzida por Estados Unidos e “Israel” contra o Irã insere-se em um movimento geopolítico mais amplo de controle sobre fluxos estratégicos de energia e de reconfiguração de alianças no Oriente Médio, particularmente em relação aos países que permanecem à margem dos Acordos de Abraão. Em termos militares convencionais, a assimetria de poder é evidente: EUA e “Israel” concentram superioridade tecnológica, capacidade aérea e infraestrutura logística que, em tese, colocariam o Irã em posição de desvantagem inalterável. Ainda assim, após mais de três semanas de confrontos, o Irã demonstra uma notável resiliência. Mais do que sustentar uma defesa prolongada,",
+          "link": "https://anovademocracia.com.br/entre-a-guerra-e-a-austeridade-o-dilema-de-luiz-inacio-diante-da-guerra-no-oriente-medio/",
+          "publishedOn": "2026-04-06T20:45:18.000Z",
+          "wordCount": null,
+          "title": "Entre a guerra e a austeridade: o dilema de Luiz Inácio diante da guerra no Oriente Médio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223808",
+          "author": "Redação de AND",
+          "description": "A trajetória de Bose remonta aos primórdios do movimento naxalita: pertence à geração de revolucionários que viu irromper, no fim dos anos 1960, o glorioso levante de Naxalbari – o histórico “Trovão da Primavera” sobre a Índia.",
+          "link": "https://anovademocracia.com.br/organizacoes-denunciam-assassinato-bose/",
+          "publishedOn": "2026-04-06T19:42:17.000Z",
+          "wordCount": null,
+          "title": "Organizações denunciam assassinato sob custódia de Prashant Bose, dirigente do PCI (Maoista), nas masmorras do velho Estado indiano",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223800",
+          "author": "Redação de AND",
+          "description": "Desesperado, o canídeo Donald Trump utilizou sua plataforma digital Truth Social para vomitar ameaças de crimes de guerra, fixando ultimatos absurdos para a noite desta terça-feira, 7 de abril.",
+          "link": "https://anovademocracia.com.br/ira-rejeita-proposta-ianque-cessar-fogo/",
+          "publishedOn": "2026-04-06T19:28:30.000Z",
+          "wordCount": null,
+          "title": "Irã rejeita desfavorável proposta de cessar-fogo: ‘Queremos o fim da guerra e medidas que impeçam sua repetição’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223789",
+          "author": "Giovanna Maria",
+          "description": "O Vale do Paraíba revela, em escala regional, as contradições mais profundas da condição semicolonial do País, no qual os custos da subserviência, no fim das contas, recaem integralmente sobre as massas populares.",
+          "link": "https://anovademocracia.com.br/sp-desindustrializacao-no-vale-do-paraiba-intensifica-demissoes-e-arrocho-salarial-social-imperialismo-chines-tem-culpa/",
+          "publishedOn": "2026-04-06T19:17:39.000Z",
+          "wordCount": null,
+          "title": "SP: Desindustrialização no Vale do Paraíba intensifica demissões e arrocho salarial; social-imperialismo chinês tem culpa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223791",
+          "author": "Giovanna Maria",
+          "description": "A manifestação ocorreu em decorrência dos 6 meses do assassinato de Kaique Reis, jovem de 16 anos, pela PM-BA.",
+          "link": "https://anovademocracia.com.br/ba-manifestacao-em-salvador-exige-justica-por-vitimas-da-policia-militar/",
+          "publishedOn": "2026-04-06T19:13:26.000Z",
+          "wordCount": null,
+          "title": "BA: Manifestação em Salvador exige justiça por vítimas da Polícia Militar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=223765",
+          "author": "Giovanna Maria",
+          "description": "Segundo denuncias dos moradores, o prefeito Johnny Maycon se utilizou do programa \"Agora Tem Especialistas\", do governo federal, como forma de dar uma resposta às cobranças pela morte de Isadora, criança de 8 anos que faleceu por falta de atendimento médico.",
+          "link": "https://anovademocracia.com.br/rj-prefeito-de-nova-friburgo-e-rechacado-apos-fazer-politicagem-com-programa-do-governo-federal/",
+          "publishedOn": "2026-04-06T16:58:38.000Z",
+          "wordCount": null,
+          "title": "RJ: Prefeito de Nova Friburgo é rechaçado após fazer politicagem com programa do Governo Federal",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=223760",
           "author": "Ana Nascimento",
           "description": "A atividade em Recife ocorre como parte da mobilização internacional convocadao pela FACAM e pela LAI. No curso de toda a panfletagem, os ativistas receberam apoio dos trabalhadores que passavam no local.",
@@ -404,11 +474,11 @@
         {
           "id": "https://anovademocracia.com.br/?p=223751",
           "author": "Redação de AND",
-          "description": "A juventude ocidental formada pela cultura pop estadunidense se baseia em valores como liberdade, combate à tirania, “resistência” e “revolução”. Porém, se faz necessário olhar para além dessas nuances artísticas e enxergar as referências ao mundo real, sobretudo nesse momento em que pipocam conflitos armados na Ásia Ocidental, e à instabilidade do imperialismo estadunidense.",
+          "description": "Se faz necessário olhar para além dessas nuances artísticas e enxergar as referências ao mundo real, sobretudo nesse momento em que pipocam conflitos armados na Ásia Ocidental.",
           "link": "https://anovademocracia.com.br/duna-ou-a-paranoia-ocidental-pela-jihad-global/",
           "publishedOn": "2026-04-06T15:14:41.000Z",
           "wordCount": null,
-          "title": "“Duna” ou a paranóia ocidental pela “Jihad Global”",
+          "title": "“Duna” ou a paranoia ocidental pela “Jihad Global”",
           "imageUrl": null
         },
         {
@@ -429,66 +499,6 @@
           "publishedOn": "2026-04-04T19:48:53.000Z",
           "wordCount": null,
           "title": "Milícias camponesas atingem helicópteros ianques nas montanhas do Irã; Trump exige orçamento maior para guerra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223717",
-          "author": "Redação de AND",
-          "description": "Estamos, e se comprova a cada dia, no século da vitória da Revolução Mundial com o varrimento do imperialismo, toda a reação e todos seus horrores da face da Terra. Questão de tempo!",
-          "link": "https://anovademocracia.com.br/revolucao-na-india-resistencia-nacional/",
-          "publishedOn": "2026-04-04T18:49:16.000Z",
-          "wordCount": null,
-          "title": "Editorial – Apoiar a Revolução na Índia e a Resistência Nacional da Palestina e do Irã é a mais alta tarefa dos anti-imperialistas de todo mundo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223712",
-          "author": "Giovanna Maria",
-          "description": "\"Essa situação é revoltante! Já são seis dias sem água! Não estou podendo nem cozinhar por conta dessa falta de água. É por essa razão que o pessoal fez o protesto!\", afirmou um morador ao AND.",
-          "link": "https://anovademocracia.com.br/al-moradores-de-ibateguara-e-colonia-leopoldina-protestam-contra-a-empresa-verde-alagoas-apos-varios-dias-sem-agua/",
-          "publishedOn": "2026-04-04T11:59:00.000Z",
-          "wordCount": null,
-          "title": "AL: Moradores de Ibateguara e Colônia Leopoldina protestam contra a empresa Verde Alagoas após vários dias sem água",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223709",
-          "author": "Giovanna Maria",
-          "description": "O assassinato da liderança se dá no contexto da disputa entre caudilhos indígenas armados pelo latifúndio em torno do arrendamento de terras, a situação de Erebango se arrasta desde o final de 2025 com o velho Estado atuando no prologamentos das disputas fortalecendo o avanço do latifúndio na terra indígena.",
-          "link": "https://anovademocracia.com.br/rs-lideranca-indigena-e-assassinada-em-meio-a-disputa-pelo-cacicado-em-erebango/",
-          "publishedOn": "2026-04-03T23:49:40.000Z",
-          "wordCount": null,
-          "title": "RS: Liderança indígena é assassinada em meio a disputa pelo cacicado em Erebango",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223705",
-          "author": "Redação de AND",
-          "description": "No dia 1 de abril, 2 dias após a aprovação da pena de morte para prisioneiros palestinos nos campos de detenção nazisionistas, Rawa Alsagheer, uma das principais ativistas solidarias a luta dos prisioneiros palestinos por sua liberdade, teve sua conta na rede digital  Instagram banida.   Rawa Alsagheer tem realizado um trabalho profícuo e de grande relevância denunciando a tentativa de exterminio do povo palestino após o após o Grande Dilúvio de Al Aqsa. Rawa tem uma atuação especial como coordenadora da rede Samidoun no Brasil. Trata-se de uma rede internacional de apoio a prisioneiros palestinos detidos nas masmorras do nazisionismo",
-          "link": "https://anovademocracia.com.br/rawa-alsagheer-coordenadora-da-rede-samidoun-de-solidariedade-aos-prisioneiros-palestino-tem-sua-conta-da-rede-digital-instagram-banida/",
-          "publishedOn": "2026-04-03T22:10:28.000Z",
-          "wordCount": null,
-          "title": "Rawa Alsagheer, Coordenadora da Rede Samidoun de Solidariedade aos Prisioneiros Palestino, tem sua conta da rede digital Instagram banida",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223698",
-          "author": "Redação de AND",
-          "description": "A Guarda Revolucionária Islâmica afirmou ter derrubado um segundo caça furtivo F-35 no espaço aéreo central do Irã, pertencente ao esquadrão Lakenheath.",
-          "link": "https://anovademocracia.com.br/ira-mantem-sua-ofensiva-com-novas-ondas/",
-          "publishedOn": "2026-04-03T19:18:49.000Z",
-          "wordCount": null,
-          "title": "Irã mantém sua ofensiva com novas ondas da ‘Operação Promessa Verdadeira 4’; resistência faz ataques do Iémen e Líbano",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223694",
-          "author": "Redação de AND",
-          "description": "Em sua performance, Flávio rifou a soberania nacional em troca de maiores intervenções do EUA no Brasil. Em sua fala, destacou a “necessidade” do EUA de intervir contra “organizações narco-terroristas” no Brasil. Em troca, entregaria de bom grado as chamadas “terras raras” brasileiras, sugerindo que o Brasil poderia se tornar peça-chave para o EUA na disputa estratégica contra a China nesse setor.",
-          "link": "https://anovademocracia.com.br/flavio-bolsonaro-vai-ao-eua-lamber-bota/",
-          "publishedOn": "2026-04-03T19:09:36.000Z",
-          "wordCount": null,
-          "title": "Seguindo os passos do pai, Flávio Bolsonaro vai ao EUA lamber a bota dos ianques",
           "imageUrl": null
         }
       ]
@@ -525,6 +535,46 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3181326",
+          "author": "Iara Vidal",
+          "description": "Uma visita à semana de moda de Beijing. Emerge um contraponto à extravagância da alta costura ocidental. Sua essência: roupas que funcionam no cotidiano, sustentabilidade como linguagem potente e a reflexão política de “comunidade de futuro compartilhado”\nThe post “O que vi na China Fashion Week” appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/o-que-vi-na-china-fashion-week/",
+          "publishedOn": "2026-04-06T20:34:38.000Z",
+          "wordCount": 4182,
+          "title": "“O que vi na China Fashion Week”",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/06173250/photo_5089167806745481074_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3181302",
+          "author": "Thiago Gama",
+          "description": "Antropólogo francês aponta: produzir “vidas invisíveis” é estratégia central da ordem global. Não basta ceifá-las, é preciso apagar o sofrimento na economia da atenção – e punir quem o denuncia, inclusive nos tribunais internacionais. Genocídio em Gaza é sintomático\nThe post O prolongado suicídio moral do Ocidente appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/o-prolongado-suicidio-moral-do-ocidente/",
+          "publishedOn": "2026-04-06T19:31:17.000Z",
+          "wordCount": 4968,
+          "title": "O prolongado suicídio moral do Ocidente",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/06162725/photo_5089623940862250104_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3181266",
+          "author": "Ricardo Queiroz Pinheiro",
+          "description": "Nações Unidas mediam um mundo que não existe mais. Foram impotentes para interromper o terror em Gaza e o ataque ao Irã. Mas o dinheiro faz soar o alarme: cresce, a partir dos EUA, “exigência” de resolução para reabrir Ormuz e retomar a circulação de combustíveis fósseis\nThe post A ONU e seus estreitos valores appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/a-onu-e-seus-estreitos-valores/",
+          "publishedOn": "2026-04-06T19:00:04.000Z",
+          "wordCount": 3461,
+          "title": "A ONU e seus estreitos valores",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/06155019/soh5.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3181254",
+          "author": "Haroldo Ceravolo",
+          "description": "Para apontar antissemitismo no episódio carioca, é preciso uma vasta subtração lógica. E, em especial, esquecer tanto a campanha BDS como um contexto marcado por genocídio e pela ameaça norte-americana e israelense de reduzir o Irã “à Idade da Pedra”\nThe post O interessante caso do bar Partisan, na Lapa appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/o-interessante-caso-do-bar-partisan-na-lapa/",
+          "publishedOn": "2026-04-06T18:00:50.000Z",
+          "wordCount": 4015,
+          "title": "O interessante caso do bar Partisan, na Lapa",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/06145741/photo_5089623940862250079_y.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3181205",
           "author": "Roberto Andrés",
@@ -584,16 +634,6 @@
           "wordCount": 4141,
           "title": "Remoções, artimanha contra a moradia popular",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/02163031/image_processing20220622-6633-18fa33t.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181078",
-          "author": "José Geraldo Couto",
-          "description": "Barba ensopada de sangue, baseado no premiado livro de Daniel Galera, retrata a obsessão de um jovem: desvendar a morte do avô em um povoado litorâneo. O jogo de contrastes é a força do filme: passado e hostilidade; o mar mítico e o cotidiano banal; a fábula e o pesadelo… \nThe post Cinema: Sangue e areia appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/cinema-sangue-e-areia/",
-          "publishedOn": "2026-04-02T17:49:02.000Z",
-          "wordCount": 3413,
-          "title": "Cinema: Sangue e areia",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/02144618/barba-ensopada-de-sangue-globoplay-1.jpg"
         }
       ]
     },
@@ -635,7 +675,7 @@
           "description": "Para melhorar nosso processo de pagamento, estamos migrando para um novo sistema. A plataforma anterior será desativada em abril e para continuar recebendo as caixas, você precisa migrar para um dos novos planos de assinatura:  Passo a passo para migrar:  1 – Escolha seu plano no site do Armas da Crítica aqui  2 – Insira seu e-mail cadastrado e clique no botão “esqueci minha senha”  3 – Cadastre uma nova senha e confirme no botão “salvar nova senha”  4 – Verifique se seu endereço de entrega está correto  5 – Clique no botão “ir para pagamento” e escolha entre as opções: Cartão de crédito, Pix ou Boleto e depois basta clicar no botão verde “finalizar compra”  6 – Pronto, você finalizou a migração e continuará recebendo as caixas do Armas da Crítica!   Continue no clube e apoie a produção e a disseminação de livros para interpretar e transformar o mundo!  Nossa equipe está disponível para ajudar. Qualquer dúvida, entre em contato conosco via chat, seção fale conosco do nosso site, pelo telefone (11) 3865-2937 ou WhatsApp (11) 99496-7599.  Se você já é assinante do plano anual, entre em contato para ganhar o brinde especial!   Equipe Boitempo",
           "link": "https://blogdaboitempo.com.br/2026/04/02/comunicado-para-os-assinantes-do-armas-da-critica/",
           "publishedOn": "2026-04-02T21:32:28.000Z",
-          "wordCount": 10782,
+          "wordCount": 10819,
           "title": "Comunicado para os assinantes do Armas da Crítica",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-5.png"
         },
