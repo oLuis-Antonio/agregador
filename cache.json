@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "21OHhb",
+          "author": null,
+          "description": "O episódio levanta questionamentos sobre o uso de espaços institucionais, como uma CPI destinada a investigar organizações criminosas, como instrumento de negociação política.",
+          "link": "https://jornalofuturo.com.br/artigo/21OHhb-sergio-moro-barra-convocacao-em-cpi-e-aproximacao-com-pl-expoe-bastidores-de-barganha-politica-no-parana",
+          "publishedOn": "2026-04-05T21:00:00.000Z",
+          "wordCount": 1337,
+          "title": "Sérgio Moro barra convocação em CPI e aproximação com PL expõe bastidores de barganha política no Paraná",
+          "imageUrl": "https://media.jornalofuturo.com.br/sergiomorogov-960x540.jpg"
+        },
+        {
           "id": "dTntMk",
           "author": null,
           "description": "A remoção do horário de 22h30, conquista da luta de trabalhadores e estudantes do município, força os mesmos a gastar em torno de R$70 em transportes particulares para voltar para casa.",
@@ -74,16 +84,6 @@
           "wordCount": 1811,
           "title": "Mesa diretora do SINTUPERJ abandona assembleia, mas não impede a luta dos trabalhadores",
           "imageUrl": "https://media.jornalofuturo.com.br/sintuperjgreve2026-1280x960.jpg"
-        },
-        {
-          "id": "l0Omi3",
-          "author": null,
-          "description": "Em um contexto de intensificação da luta ideológica, é fundamental armar nossa militância com teoria revolucionária e capacidade de intervenção prática, seja na disputa das entidades, nos locais de atuação e nos movimentos em que estamos inseridos.",
-          "link": "https://jornalofuturo.com.br/artigo/l0Omi3-editorial-memoria-luta-e-internacionalismo-o-caminho-de-abril",
-          "publishedOn": "2026-04-01T15:00:00.000Z",
-          "wordCount": 1697,
-          "title": "EDITORIAL: Memória, luta e internacionalismo: o caminho de abril",
-          "imageUrl": "https://media.jornalofuturo.com.br/img1969-1280x2075.jpg"
         }
       ]
     },
@@ -151,16 +151,6 @@
           "wordCount": 7292,
           "title": "Desmonte do INPI ameaça a soberania nacional",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-19.03.08.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61120",
-          "author": "Redação SP",
-          "description": "No Brasil 18 milhões de trabalhadores sofrem com problemas relacionados a ansiedade, segundo dados da OMS existe uma epidemia global de ansiedade que afeta milhões em todo o mundo. Além de prejudicar a qualidade de vida daqueles que produzem todas as riquezas, o adoecimento mental aumenta o poder e a exploração da burguesia Nathalia Vergara […]",
-          "link": "https://averdade.org.br/2026/04/exploracao-capitalista-afeta-saude-mental-de-milhoes-de-trabalhadores/",
-          "publishedOn": "2026-04-01T13:36:12.000Z",
-          "wordCount": 6999,
-          "title": "Exploração afeta saúde mental de milhões de trabalhadores",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-09.55.33.jpeg"
         }
       ]
     },
@@ -169,6 +159,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105710",
+          "author": "PSTU-SC",
+          "description": "Em assembleia realizada no dia 26 de março, no auditório da reitoria da Universidade Federal de Santa Catarina (UFSC), os técnicos-administrativos da Universidade Federal de Santa Catarina (UFSC) aprovaram greve e uniram-se a greve nacional da categoria organizada Federação de Sindicatos de Trabalhadores Técnico-administrativos em Educação das Instituições de Ensino Superior Públicas do Brasil (Fasubra), […]\nO post Técnicos da UFSC se unem à greve nacional por jornada de 30 horas semanais e cumprimento de acordos apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/tecnicos-da-ufsc-se-unem-a-greve-nacional-por-jornada-de-30-horas-semanais-e-cumprimento-de-acordos/",
+          "publishedOn": "2026-04-05T23:27:58.000Z",
+          "wordCount": 1535,
+          "title": "Técnicos da UFSC se unem à greve nacional por jornada de 30 horas semanais e cumprimento de acordos",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/greve-sintufsc.jpeg"
+        },
         {
           "id": "https://www.opiniaosocialista.com.br/?p=105702",
           "author": "Workers’ Voice",
@@ -209,7 +209,7 @@
           "description": "Na semana de aniversário do golpe de 64, os dois pré-candidatos se sentiram livres para desprezar a democracia\nO post Flávio Bolsonaro e Ronaldo Caiado deixam golpismo à mostra apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/04/flavio-bolsonaro-caiado-desprezam-democracia/",
           "publishedOn": "2026-04-04T10:00:00.000Z",
-          "wordCount": 3295,
+          "wordCount": 3265,
           "title": "Flávio Bolsonaro e Ronaldo Caiado deixam golpismo à mostra",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderSite-1.jpg",
@@ -224,7 +224,7 @@
           "description": "Modelos de inteligência artificial rompem a lógica do e-commerce e preparam-se para aproveitar conversas e interações com usuários para induzir compras.\nO post Os donos da IA também querem mandar no que você compra apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/03/donos-da-ia-mandar-voce-compra/",
           "publishedOn": "2026-04-03T10:00:00.000Z",
-          "wordCount": 4261,
+          "wordCount": 4231,
           "title": "Os donos da IA também querem mandar no que você compra",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderFeat.png",
@@ -247,21 +247,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/04/Header-Data-Centers-Guerra-Ira-Big-Techs.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442245",
-          "author": "Isabella Mota",
-          "description": "Governo israelense fala abertamente em anexação e reprodução de métodos utilizados na Palestina, mas narrativa dominante insiste em ignorar expansão colonial.\nO post Israel repete no Líbano a estratégia genocida adotada em Gaza apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/04/01/israel-repete-libano-estrategia-genocida-adotada-gaza/",
-          "publishedOn": "2026-04-01T10:00:00.000Z",
-          "wordCount": 3730,
-          "title": "Israel repete no Líbano a estratégia genocida adotada em Gaza",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/03/S8nSAFez-Header-site-horizontal.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/03/S8nSAFez-Header-site-horizontal.png"
         }
       ]
     },
@@ -279,16 +264,6 @@
           "wordCount": 6264,
           "title": "A morte e a morte de Gustavo: ‘Expuseram o meu filho sem ele poder se defender’",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/385AC065-7971-43B1-9DC7-E3F79EFCFE79.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=159343",
-          "author": "Paulo Batistella",
-          "description": "Jovem de 17 anos havia sido ameaçado por policiais dias antes. PM e IML impediram mãe de ver corpo dele. Ela precisou reconhecê-lo por uma foto\nO conteúdo PMSC mata adolescente que tentou correr de viatura, e moradores relatam execução Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/pmsc-mata-adolescente-que-tentou-correr-de-viatura-e-moradores-relatam-execucao/",
-          "publishedOn": "2026-04-01T14:58:33.000Z",
-          "wordCount": 6395,
-          "title": "PMSC mata adolescente que tentou correr de viatura, e moradores relatam execução",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/03/3462F931-BC76-45AD-944A-925536A3EA6F.webp"
         }
       ]
     },
@@ -315,13 +290,23 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251341",
+          "author": "Rocio Paik",
+          "description": "O presidente do Parlamento do Irã, Mohammad Baqer Qalibaf, advertiu neste domingo (05/04) o presidente dos Estados Unidos, Donald Trump, que suas “ações insensatas” ameaçam “toda a nossa região queimar”. A posição se deu após o republicano reiterar suas ameaças de destruir a infraestrutura civil iraniana caso o regime não libere o Estreito de Ormuz. […]\nO post Irã afirma que ‘ações insensatas’ de Trump ameaçam ‘queimar toda região’ do Oriente Médio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-acoes-insensatas-de-trump-ameacam-queimar-toda-regiao-do-oriente-medio/",
+          "publishedOn": "2026-04-05T20:40:41.000Z",
+          "wordCount": 3092,
+          "title": "Irã afirma que ‘ações insensatas’ de Trump ameaçam ‘queimar toda região’ do Oriente Médio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405011612221347936287104.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251336",
           "author": "Rocio Paik",
-          "description": "O ministro das Relações Exteriores da China, Wang Yi, realizou neste domingo (05/04) uma conversa telefônica com o seu homólogo russo, Sergei Lavrov, durante a qual apelou por um “cessar-fogo imediato” na guerra promovida pelos Estados Unidos e Israel contra o Irã, de acordo com informações divulgadas pela agência chinesa Xinhua. No telefonema, o chanceler […]\nO post Contra ação militar, China e Rússia reiteram ‘prontidão’ em busca de cessar-fogo no Oriente Médio apareceu primeiro em Opera Mundi.",
+          "description": "O ministro das Relações Exteriores da China, Wang Yi, realizou neste domingo (05/04) uma conversa telefônica com o seu homólogo russo, Sergei Lavrov, durante a qual apelou por um “cessar-fogo imediato” na guerra promovida pelos Estados Unidos e Israel contra o Irã, de acordo com informações divulgadas pela agência chinesa Xinhua. No telefonema, o chanceler […]\nO post China e Rússia reiteram ‘prontidão’ em busca de cessar-fogo no Oriente Médio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/contra-acao-militar-china-e-russia-reiteram-prontidao-em-busca-de-cessar-fogo-no-oriente-medio/",
           "publishedOn": "2026-04-05T20:20:41.000Z",
-          "wordCount": 3440,
-          "title": "Contra ação militar, China e Rússia reiteram ‘prontidão’ em busca de cessar-fogo no Oriente Médio",
+          "wordCount": 3427,
+          "title": "China e Rússia reiteram ‘prontidão’ em busca de cessar-fogo no Oriente Médio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/wang_yi_2025.jpg"
         },
         {
@@ -330,7 +315,7 @@
           "description": "O transporte público na capital do Paquistão e nas províncias mais populosas do país serão gratuitos durante um mês, anunciaram membros do governo nesta sexta-feira (03/04), após uma forte alta nos preços dos combustíveis devido à guerra no Oriente Médio. “Todo o transporte público em Islabamad [capital do Paquistão] será gratuito para o público em […]\nO post Paquistão zera tarifa no transporte público em meio à guerra no Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paquistao-anuncia-tarifa-zero-no-transporte-publico-em-meio-a-guerra-no-ira/",
           "publishedOn": "2026-04-05T19:40:30.000Z",
-          "wordCount": 2811,
+          "wordCount": 2807,
           "title": "Paquistão zera tarifa no transporte público em meio à guerra no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/he_1qm7a4aau7h1.jpeg"
         },
@@ -338,9 +323,9 @@
           "id": "https://operamundi.uol.com.br/?p=251328",
           "author": "Rocio Paik",
           "description": "O principal representante diplomático do Irã na Argentina deixou o país neste sábado (04/04), após o vencimento do prazo de 48 horas dado pelo governo de Javier Milei para sua saída. Mohsen Soltani Tehrani, encarregado de negócios iraniano em Buenos Aires, havia sido declarado “persona non grata” pela chancelaria argentina na quinta-feira (02/04). A saída […]\nO post Principal diplomata do Irã deixa Argentina após expulsão ordenada por Milei apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/uncategorized/principal-diplomata-do-ira-deixa-argentina-apos-expulsao-ordenada-por-milei/",
+          "link": "https://operamundi.uol.com.br/america-latina/principal-diplomata-do-ira-deixa-argentina-apos-expulsao-ordenada-por-milei/",
           "publishedOn": "2026-04-05T18:50:48.000Z",
-          "wordCount": 3186,
+          "wordCount": 3135,
           "title": "Principal diplomata do Irã deixa Argentina após expulsão ordenada por Milei",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/54823840739_3ed740d41c_k-1536x1024-1.webp"
         },
@@ -350,7 +335,7 @@
           "description": "O governo da China, liderado pelo presidente Xi Jinping, aprovou durante o mês de março o seu 15º Plano Quinquenal, cujas diretrizes serão aplicadas durante este ano até 2030, com ênfase em metas desenhadas para consolidar a modernização socialista do país. O texto foi ratificado durante as Duas Sessões de 2026 e estabelece a inovação […]\nO post Novo Plano Quinquenal visa consolidar modernização do modelo socialista chinês, diz especialista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/plano-quinquenal-consolida-modelo-socialista-chines-diz-especialista/",
           "publishedOn": "2026-04-05T18:00:08.000Z",
-          "wordCount": 4471,
+          "wordCount": 4470,
           "title": "Novo Plano Quinquenal visa consolidar modernização do modelo socialista chinês, diz especialista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/china_flag.jpg"
         },
@@ -360,7 +345,7 @@
           "description": "Neste domingo de Páscoa (05/04), o Papa Leão 14 celebrou a Urbi et Orbi, bênção mais solene proferida por um pontífice, e fez um pedido de paz em um contexto mundial de guerras e escalada de conflitos. Na sacada da Brasília de São Pedro, o papa celebrou a Missa da Ressurreição junto a milhares de […]\nO post ‘Quem tem armas, que as deponha’: Papa Leão 14 pede paz em mensagem de Páscoa no Vaticano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/quem-tem-armas-que-as-deponha-papa-leao-14-pede-paz-em-mensagem-de-pascoa-no-vaticano/",
           "publishedOn": "2026-04-05T17:00:53.000Z",
-          "wordCount": 2987,
+          "wordCount": 2983,
           "title": "‘Quem tem armas, que as deponha’: Papa Leão 14 pede paz em mensagem de Páscoa no Vaticano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/afp__20260405__a6tk39j__v1__midres__vaticanreligionpopeurbiorbi.webp"
         },
@@ -370,7 +355,7 @@
           "description": "Quatro palestinos foram mortos neste domingo (05/04) por um ataque aéreo israelense no leste da Cidade de Gaza, anunciaram os serviços de resgate locais e o Hospital Al-Shifa. Em paralelo, Israel bombardeou Beirute e os subúrbios do sul da cidade, um reduto do Hezbollah, e ameaçou a principal passagem de fronteira com a Síria, levando […]\nO post Ataques de Israel matam palestinos em Gaza e fecham fronteira entre Líbano e Síria apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/ataques-de-israel-matam-palestinos-em-gaza-e-fecham-fronteira-entre-libano-e-siria/",
           "publishedOn": "2026-04-05T16:10:06.000Z",
-          "wordCount": 3848,
+          "wordCount": 3797,
           "title": "Ataques de Israel matam palestinos em Gaza e fecham fronteira entre Líbano e Síria",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/he6klbuxgaahpiz-scaled.jpeg"
         },
@@ -380,7 +365,7 @@
           "description": "Em uma publicação com palavrões e ofensas, o presidente dos EUA, Donald Trump, explicitou neste domingo (05/04) frustração com a continuidade do bloqueio do estreito de Ormuz e também reiterou suas ameaças de destruir a infraestrutura civil do Irã caso o regime não libere a passagem marítima. “Terça-feira será o Dia da Usina Elétrica e […]\nO post Trump expõe frustração com bloqueio de Ormuz: ‘abram essa p… de Estreito’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-expoe-frustracao-com-bloqueio-de-ormuz-abram-essa-p-de-estreito/",
           "publishedOn": "2026-04-05T15:22:26.000Z",
-          "wordCount": 3856,
+          "wordCount": 3802,
           "title": "Trump expõe frustração com bloqueio de Ormuz: ‘abram essa p… de Estreito’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55154837839_19a267dda3_k.jpg"
         },
@@ -390,7 +375,7 @@
           "description": "As autoridades de Cuba informaram no sábado (04/04) ter concluído a descarga das 100 mil toneladas de petróleo bruto do navio Anatoly Kolodkin, enviadas pela Rússia, na baia de Matanzas, no âmbito da crise energética que a ilha enfrenta sob a intensificação do bloqueio imposto pelos Estados Unidos. O recurso passa a ser refinado nos […]\nO post Cuba descarrega 100 mil toneladas de petróleo bruto enviadas pela Rússia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cuba-descarrega-100-mil-toneladas-de-petroleo-bruto-enviadas-pela-russia/",
           "publishedOn": "2026-04-05T14:30:40.000Z",
-          "wordCount": 3235,
+          "wordCount": 3184,
           "title": "Cuba descarrega 100 mil toneladas de petróleo bruto enviadas pela Rússia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cuba-rusia-combustible01-1024x627.jpg.webp"
         },
@@ -400,19 +385,9 @@
           "description": "As Forças Armadas do Irã anunciaram neste domingo (05/04) ter frustrado a tentativa norte-americana de resgatar o segundo piloto desaparecido do caça F-15E, que foi derrubado no sudoeste iraniano na sexta-feira (03/04). Segundo o comando central militar iraniano citado pela agência Tasnim, a operação de resgate de Washington foi “completamente frustrada” após o exército da […]\nO post Irã destrói aeronaves em Isfahan e contradiz Trump sobre resgate do 2º piloto desaparecido apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-destroi-aeronaves-em-isfahan-e-nega-trump-sobre-resgate-do-2o-piloto-desaparecido/",
           "publishedOn": "2026-04-05T13:43:58.000Z",
-          "wordCount": 3395,
+          "wordCount": 3391,
           "title": "Irã destrói aeronaves em Isfahan e contradiz Trump sobre resgate do 2º piloto desaparecido",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405011610314357536284494.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251308",
-          "author": "Tabitha Ramalho",
-          "description": "O Comando da Frente Interna das Forças de Defesa de Israel (IDF) recusou um pedido de autorização para um protesto contra a guerra no Irã, com cerca de mil participantes, na Praça Habima, em Tel Aviv, previsto para o final do dia deste sábado (04/04), permitindo apenas uma reunião de até 150 pessoas. Segundo o […]\nO post Comando militar de Israel proíbe manifestação contra guerra no Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/comando-militar-de-israel-proibe-manifestacao-contra-guerra-no-ira/",
-          "publishedOn": "2026-04-04T20:59:03.000Z",
-          "wordCount": 3013,
-          "title": "Comando militar de Israel proíbe manifestação contra guerra no Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/image-1-1.png"
         }
       ]
     },
@@ -771,7 +746,7 @@
           "description": "Anita Prestes analisa o contexto repressivo instaurado após 1935 e as condições de prisão de Luiz Carlos Prestes: “Se não foi torturado fisicamente, como aconteceu com centenas de outros presos, Prestes foi submetido a tortura psicológica, pois, além do isolamento, não podia receber notícias da família nem da situação de Olga. Ele sofreu o impacto da notícia da extradição dela para a Alemanha pela leitura de um jornal.”",
           "link": "https://blogdaboitempo.com.br/2026/04/02/1936-90-anos-da-prisao-de-luiz-carlos-prestes-e-da-criacao-do-tribunal-de-seguranca-nacional-tsn/",
           "publishedOn": "2026-04-02T16:16:58.000Z",
-          "wordCount": 27776,
+          "wordCount": 27921,
           "title": "1936: 90 anos da prisão de Luiz Carlos Prestes e da criação do Tribunal de Segurança Nacional (TSN)",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/03/image-24.png?fit=1200%2C923&ssl=1"
         },
@@ -784,16 +759,6 @@
           "wordCount": 15897,
           "title": "Dez anos do golpe de 2016: crise, conflito e reorganização da luta de classes no Brasil",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-39.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63197",
-          "author": "Boitempo",
-          "description": "Edson Teles:  \"Desde o feminicídio e o crime racial até as tentativas de golpe, o contexto histórico nos mostra que se não houver imaginação e coragem para enfrentar o problema da violência de Estado, não me parece que seja possível construir uma democracia ou impedir que o fascismo se aposse do Estado de direito. \"",
-          "link": "https://blogdaboitempo.com.br/2026/04/01/a-violencia-e-a-maior-marca-do-estado-brasileiro/",
-          "publishedOn": "2026-04-01T11:00:00.000Z",
-          "wordCount": 12739,
-          "title": "A violência é a maior marca do Estado brasileiro",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-36.png"
         }
       ]
     }
