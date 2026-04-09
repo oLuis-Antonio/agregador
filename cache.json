@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "j2zaHm",
+          "author": null,
+          "description": "O crescimento do endividamento está diretamente ligado à estagnação dos salários, ao aumento do custo de vida e à precarização das relações de trabalho.",
+          "link": "https://jornalofuturo.com.br/artigo/j2zaHm-familias-trabalhadoras-sufocadas-por-dividas-recorde-historico-expoe-limites-do-sistema-financeiro",
+          "publishedOn": "2026-04-09T14:30:00.000Z",
+          "wordCount": 1890,
+          "title": "Famílias trabalhadoras sufocadas por dívidas: recorde histórico expõe limites do sistema financeiro",
+          "imageUrl": "https://media.jornalofuturo.com.br/endividamentofamiliar-840x500.jpg"
+        },
+        {
           "id": "8N9UUv",
           "author": null,
           "description": "Cerca de 7 mil indígenas de 200 povos ocupam a capital federal para denunciar projetos que afetam seus territórios e pressionar pela demarcação de terras.",
@@ -94,16 +104,6 @@
           "wordCount": 1337,
           "title": "Sérgio Moro barra convocação em CPI e aproximação com PL expõe bastidores de barganha política no Paraná",
           "imageUrl": "https://media.jornalofuturo.com.br/sergiomorogov-960x540.jpg"
-        },
-        {
-          "id": "dTntMk",
-          "author": null,
-          "description": "A remoção do horário de 22h30, conquista da luta de trabalhadores e estudantes do município, força os mesmos a gastar em torno de R$70 em transportes particulares para voltar para casa.",
-          "link": "https://jornalofuturo.com.br/artigo/dTntMk-rota-transportes-reduz-horarios-e-abandona-trabalhadores-de-buerarema",
-          "publishedOn": "2026-04-05T14:00:00.000Z",
-          "wordCount": 3273,
-          "title": "Rota Transportes reduz horários e abandona trabalhadores de Buerarema",
-          "imageUrl": "https://media.jornalofuturo.com.br/bueraremabaonibus-1280x961.jpg"
         }
       ]
     },
@@ -113,12 +113,32 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61206",
+          "author": "Gabriela Torres",
+          "description": "Repressão violenta da polícia militar escancara contradição do serviço público na defesa da propriedade privada. Julia Marinho e Lohan Cota | Redação Paraná TRABALHADOR UNIDO – No final de dezembro de 2025, os operários da unidade da metalúrgica multinacional Brose localizada em São José dos Pinhais, região metropolitana de Curitiba, cansados das péssimas condições de […]",
+          "link": "https://averdade.org.br/2026/04/greve-na-brose-e-exemplo-de-forca-e-coragem-da-classe-operaria/",
+          "publishedOn": "2026-04-09T14:29:24.000Z",
+          "wordCount": 6932,
+          "title": "Greve na Brose é exemplo de força e coragem da classe operária",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Brose-Metalurgica-Sao-Jose-Pinhais.jpeg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61209",
+          "author": "Leonardo de Paula",
+          "description": "Em meio a afastamentos em massa de professores por questões de saúde mental, a decisão foi tomada pela categoria que, no governo Tarcisio (Republicanos) têm enfrentado uma piora nas condições de trabalho. Uma assembleia está marcada para a sexta-feira (10) no vão livre do MASP, na Avenida Paulista, para debater os rumos da greve. Luís […]",
+          "link": "https://averdade.org.br/2026/04/professores-de-sao-paulo-organizam-greve-contra-governo-de-tarcisio/",
+          "publishedOn": "2026-04-09T14:15:59.000Z",
+          "wordCount": 6828,
+          "title": "Professores de São Paulo organizam greve contra Governo de Tarcisio",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/54137418526_8f81cb43f8_c.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61185",
           "author": "Redação SP",
           "description": "Inspirado na construção civil soviética, João Filgueiras de Lima mostrou que é possível usar a arquitetura a favor do povo trabalhador.",
           "link": "https://averdade.org.br/2026/04/lele-o-arquiteto-que-defendeu-uma-construcao-civil-a-servico-do-povo/",
           "publishedOn": "2026-04-08T13:21:23.000Z",
-          "wordCount": 7753,
+          "wordCount": 7759,
           "title": "Lelé, o arquiteto que defendeu uma construção civil a serviço do povo",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Lele-Rede-Sarah.jpg"
         },
@@ -128,7 +148,7 @@
           "description": "Após grandes mobilizações dos trabalhadores em todo o país, o Congresso Nacional se movimenta para votar em maio a redução da jornada 6×1 sem redução de salários. Leonardo de Paula | São Paulo Brasil – Em todo o Brasil, trabalhadores tomam às ruas para lutar contra a desumana escala 6×1. No último dia 24 de […]",
           "link": "https://averdade.org.br/2026/04/pressao-de-trabalhadores-leva-pauta-da-reducao-da-escala-6x1-a-congresso-nacional/",
           "publishedOn": "2026-04-08T13:14:20.000Z",
-          "wordCount": 7003,
+          "wordCount": 6999,
           "title": "Pressão de trabalhadores leva pauta da redução da escala 6×1 à congresso nacional",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FOTO-Victor-Gabriel-1.jpg"
         },
@@ -148,7 +168,7 @@
           "description": "Na noite do dia 04 de abril, a polícia militar fascista do governador Tarcísio de Freitas (Republicanos) assassinou Thawanna Salamázio na zona leste da capital paulista. A trabalhadora foi morta após ser agredida, receber um disparo de uma policial e ter seu atendimento negado pela PM. Os trabalhadores da zona leste, em especial da Cidade […]",
           "link": "https://averdade.org.br/2026/04/isso-e-uma-comunidade-so-queremos-paz-policia-militar-de-tarcisio-assassina-trabalhadora-na-zona-leste-de-sp/",
           "publishedOn": "2026-04-07T23:00:24.000Z",
-          "wordCount": 7134,
+          "wordCount": 7136,
           "title": "“Isso é uma comunidade. Só queremos paz”. Polícia militar de Tarcísio assassina trabalhadora na zona leste de SP",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-17.31.57.jpeg"
         },
@@ -158,7 +178,7 @@
           "description": "A história ‘oficial’ esconde as inúmeras manifestações, greves e levantes populares dos trabalhadores brasileiros. Essa política de banimento é proposital. A ultima coisa que os poderosos querem é que seja cada vez mais espalhado que a origem da nossa classe operária foi nas lutas. Natanael Sarmento| Redação Pernambuco HISTÓRIA- (Parte 3) – Nos primórdios da […]",
           "link": "https://averdade.org.br/2026/04/greves-e-revoltas-populares-no-brasil-entre-1900-e-1905/",
           "publishedOn": "2026-04-07T21:34:04.000Z",
-          "wordCount": 7343,
+          "wordCount": 7329,
           "title": "Greves e revoltas populares no Brasil entre 1900 e 1905",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/MULHER1-1024x741-1.webp"
         },
@@ -168,7 +188,7 @@
           "description": "Estivadores do porto de Santos iniciaram no dia 25/03 um calendário de greves e paralisações contra o PL 733 de autoria de Leur Normando (União Brasil), que prevê ataques à categoria além do aumento dos processos de terceirização no maior porto da América Latina   Blanca Fernandes e Henry Amorin | Santos (SP) Trabalhador Unido – […]",
           "link": "https://averdade.org.br/2026/04/estivadores-de-santos-fazem-greve-contra-a-privatizacao-do-porto/",
           "publishedOn": "2026-04-07T13:59:42.000Z",
-          "wordCount": 7140,
+          "wordCount": 7118,
           "title": "Estivadores de Santos fazem greve contra a privatização do Porto",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1000451654.jpg"
         },
@@ -178,7 +198,7 @@
           "description": "No dia 04 de março, as trabalhadoras tercerizadas da empresa Normatel, responsável pela limpeza do Edifício Santos, o EDISA, sede administrativa da Petrobras, paralisaram as atividades reinvindicando melhores condições de trabalho. Maíra de Souza | Santos (SP) Trabalhador Unido – No mesmo edifício onde trabalhadores garantem a produção de 48% do Petróleo no país, cerca […]",
           "link": "https://averdade.org.br/2026/04/trabalhadoras-da-limpeza-entram-em-greve-em-santos/",
           "publishedOn": "2026-04-07T01:30:26.000Z",
-          "wordCount": 6831,
+          "wordCount": 6818,
           "title": "Trabalhadoras da limpeza entram em greve em Santos",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-31-at-20.33.36-1.jpeg"
         },
@@ -188,7 +208,7 @@
           "description": "Na contramão do mundo, projeto da Prefeitura traz mais riscos ambientais e piora a vida das comunidades enquanto enche os bolsos das empresas privadas",
           "link": "https://averdade.org.br/2026/04/incineradores-de-lixo-agravam-crise-ambiental-em-sao-paulo/",
           "publishedOn": "2026-04-06T23:29:05.000Z",
-          "wordCount": 7156,
+          "wordCount": 7142,
           "title": "Incineradores de lixo agravam crise ambiental em São Paulo",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-31-at-20.24.48.jpeg"
         }
@@ -479,7 +499,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5070,
+          "wordCount": 5100,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -494,7 +514,7 @@
           "description": "Guerra de Trump no Oriente Médio não tem apenas explicação geopolítica: cristãos nacionalistas enxergam oportunidade de iniciar apocalipse.\nO post O culto ao apocalipse por trás da guerra de Trump contra o Irã apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/07/guerra-trump-ira-apocalipse-religiao/",
           "publishedOn": "2026-04-07T20:04:16.000Z",
-          "wordCount": 4155,
+          "wordCount": 4185,
           "title": "O culto ao apocalipse por trás da guerra de Trump contra o Irã",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-Trump-Guerra-Apocalipse-Ira.png",
@@ -610,12 +630,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251658",
+          "author": "Rocio Paik",
+          "description": "A Força de Defesa de Israel (IDF, na sigla em inglês) assassinou três jornalistas em um dia, sendo um na Faixa de Gaza e dois no Líbano. Com isso, chega a sete o número de jornalistas mortos por bombardeios israelenses no Líbano desde o día 2 de março, gerando críticas de entidades representantes dos jornalistas. […]\nO post Em 24 horas, Israel mata mais três jornalistas no Líbano e Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/em-24-horas-israel-mata-mais-tres-jornalistas-no-libano-e-gaza/",
+          "publishedOn": "2026-04-09T16:50:37.000Z",
+          "wordCount": 3217,
+          "title": "Em 24 horas, Israel mata mais três jornalistas no Líbano e Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/250825_khan_yunis_zu_0014.jpg-c50c686e-d205-45ef-b344-73c44c34a9fd.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251664",
+          "author": "Raissa Neves",
+          "description": "O antissemitismo voltou ao centro do debate público no Brasil nas últimas semanas, impulsionado tanto pelo precário Projeto de Lei da deputada Tabata Amaral (PSB-SP), quanto pela controvérsia envolvendo o bar antifascista Partisan, na Lapa, no Rio de Janeiro, por uma placa em que dizia que cidadãos dos EUA e de Israel não eram bem-vindos. […]\nO post O antissemitismo como arma para silenciar críticos de Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-antissemitismo-como-arma-para-silenciar-criticos-de-israel/",
+          "publishedOn": "2026-04-09T16:28:18.000Z",
+          "wordCount": 4031,
+          "title": "O antissemitismo como arma para silenciar críticos de Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/antissemitismo.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251663",
+          "author": "Tabitha Ramalho",
+          "description": "O gabinete do primeiro-ministro israelense, Benjamin Netanyahu informou nesta quinta-feira (09/04) ter dado instruções para iniciar negociações diretas com o Líbano “o mais rápido possível”, após o que, segundo ele, foram ‘repetidos apelos de Beirute para a abertura das negociações’. Entretanto, em um telefonema na quarta-feira (08/04), o presidente dos EUA, Donald Trump, pediu ao […]\nO post Netanyahu diz que Israel vai iniciar negociações com Líbano após pedido de Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/netanyahu-diz-que-israel-vai-iniciar-negociacoes-com-libano-apos-pedido-de-trump/",
+          "publishedOn": "2026-04-09T16:22:53.000Z",
+          "wordCount": 3242,
+          "title": "Netanyahu diz que Israel vai iniciar negociações com Líbano após pedido de Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/49451988208_d1a9b22899_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251656",
+          "author": "Tabitha Ramalho",
+          "description": "A Guarda Revolucionária Islâmica do Irã (IRGC) divulgou um mapa que mostra rotas alternativas de navegação no Estreito de Ormuz para que os navios possam evitar minas navais, afirma a mídia iraniana. Segundo os dados de rastreamento de navios da MarineTraffic, às 14h00 BST desta quinta-feira (09/04), apenas onze navios (três petroleiros, um navio porta-contentores […]\nO post Irã divulga mapa com rotas alternativas em Ormuz para navios evitarem minas navais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-divulga-mapa-com-rotas-alternativas-em-ormuz-para-navios-evitarem-minas-navais/",
+          "publishedOn": "2026-04-09T15:30:01.000Z",
+          "wordCount": 3047,
+          "title": "Irã divulga mapa com rotas alternativas em Ormuz para navios evitarem minas navais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/s1-1775729826.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251648",
+          "author": "Rocio Paik",
+          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, condenou os ataques israelenses ao Líbano e considerou como uma tentativa deliberada de prolongar o conflito no Oriente Médio e atrapalhar esforços diplomáticos, de acordo com as informações divulgadas nesta quinta-feira (09/04) pela agência estatal IRNA. Segundo o veículo, o chanceler iraniano abordou a questão com […]\nO post Irã acusa Israel de sabotar cessar-fogo e esforços diplomáticos ao atacar Líbano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-israel-de-sabotar-cessar-fogo-e-esforcos-diplomaticos-ao-atacar-libano/",
+          "publishedOn": "2026-04-09T14:50:12.000Z",
+          "wordCount": 2892,
+          "title": "Irã acusa Israel de sabotar cessar-fogo e esforços diplomáticos ao atacar Líbano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/abbas-2.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251642",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente da Espanha, Pedro Sánchez, condenou os ataques israelenses realizados no Líbano nesta quarta-feira (08/04), que, segundo o Ministério da Saúde libanês, deixaram 203 mortos e mais de 1.000 feridos, após bombardeios atingirem mais de 60 localidades, incluindo a capital Beirute. Sánchez criticou duramente a ofensiva genocida de Israel e questionou o respeito às […]\nO post Espanha defende inclusão do Líbano no cessar-fogo e pede que UE rompa com Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/espanha-defende-inclusao-do-libano-no-cessar-fogo-e-pede-que-ue-rompa-com-israel/",
+          "publishedOn": "2026-04-09T14:11:12.000Z",
+          "wordCount": 3588,
+          "title": "Espanha defende inclusão do Líbano no cessar-fogo e pede que UE rompa com Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/49418515722_4f4bf10b06_c.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251641",
           "author": "Rocio Paik",
           "description": "A presidente interina da Venezuela, Delcy Rodríguez, emitiu na quarta-feira (08/04) uma mensagem a nível nacional, do Palácio de Miraflores, durante a qual convocou uma “Grande Peregrinação” – uma mobilização que visa unificar a voz da população para exigir o fim definitivo das medidas coercitivas unilaterais, incluindo bloqueio econômico e sanções, impostas pelo governo dos […]\nO post Delcy Rodríguez mobiliza país pelo fim do bloqueio e condiciona reformas à recuperação de ativos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-mobiliza-pais-pelo-fim-do-bloqueio-e-condiciona-reformas-a-recuperacao-de-ativos/",
           "publishedOn": "2026-04-09T13:17:42.000Z",
-          "wordCount": 3497,
+          "wordCount": 3498,
           "title": "Delcy Rodríguez mobiliza país pelo fim do bloqueio e condiciona reformas à recuperação de ativos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/aimg-prin31962.png"
         },
@@ -625,18 +705,18 @@
           "description": "O presidente dos EUA, Donald Trump, está considerando um plano para punir membros da Organização do Tratado do Atlântico Norte (OTAN) que teriam relutado em cooperar com Washington durante a guerra contra o Irã. A proposta envolveria a retirada das tropas norte-americanas dos países considerados pouco úteis ao esforço de guerra e seu remanejamento para […]\nO post Trump cogita punir países da OTAN por falta de apoio no Irã, diz jornal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-cogita-punir-paises-da-otan-por-falta-de-apoio-no-ira-diz-jornal/",
           "publishedOn": "2026-04-09T12:35:01.000Z",
-          "wordCount": 3225,
+          "wordCount": 3226,
           "title": "Trump cogita punir países da OTAN por falta de apoio no Irã, diz jornal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/49690314653_a965ab95bb_c.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=251630",
           "author": "Tabitha Ramalho",
-          "description": "O Hezbollah classificou os ataques contínuos de Israel ao Líbano como uma violação do acordo EUA-Irã. Nesse sentido, a Resistência Islâmica anunciou que retaliou, nesta manhã de quinta-feira (09/04), um veículo Nemera na cidade de Taybeh com um míssil guiado e uma força israelense posicionada dentro de uma casa no Projeto Taybeh com um drone […]\nO post Hezbollah classifica ataques de Israel ao Líbano como violação de cessar-fogo EUA-Irã e lança retaliação apareceu primeiro em Opera Mundi.",
+          "description": "O Hezbollah classificou os ataques contínuos de Israel ao Líbano como uma violação do acordo EUA-Irã. Nesse sentido, a Resistência Islâmica anunciou que retaliou, nesta manhã de quinta-feira (09/04), um veículo Nemera na cidade de Taybeh com um míssil guiado e uma força israelense posicionada dentro de uma casa no Projeto Taybeh com um drone […]\nO post Hezbollah classifica ataques de Israel ao Líbano como violação de cessar-fogo e lança retaliação apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-classifica-ataques-de-israel-ao-libano-como-violacao-de-cessar-fogo-eua-ira-e-lanca-retaliacao/",
           "publishedOn": "2026-04-09T10:32:07.000Z",
-          "wordCount": 3498,
-          "title": "Hezbollah classifica ataques de Israel ao Líbano como violação de cessar-fogo EUA-Irã e lança retaliação",
+          "wordCount": 3443,
+          "title": "Hezbollah classifica ataques de Israel ao Líbano como violação de cessar-fogo e lança retaliação",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/9af1659b-c3e9-4bd9-b052-b7d4650ef0d3.webp"
         },
         {
@@ -645,69 +725,9 @@
           "description": "O deputado da oposição israelense Ofer Cassif, integrante da coalizão Hadash, liderada pelo Partido Comunista, classificou como “uma lei de genocídio” o projeto aprovado pelo Knesset (Parlamento de Israel) que prevê pena de morte para palestinos residentes na Cisjordânia ocupada. A Opera Mundi, o parlamentar classificou a legislação como “flagrantemente racista” porque se aplica exclusivamente […]\nO post ‘Lei que prevê pena de morte aos palestinos é genocida e racista’, diz deputado israelense apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/lei-que-preve-pena-de-morte-aos-palestinos-e-genocida-e-racista-diz-deputado-israelense/",
           "publishedOn": "2026-04-09T10:00:55.000Z",
-          "wordCount": 5444,
+          "wordCount": 5445,
           "title": "‘Lei que prevê pena de morte aos palestinos é genocida e racista’, diz deputado israelense",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/e5f91407-1803-47f1-b018-b90726780f43-libano-3.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251627",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente iraniano, Masoud Pezeshkian, advertiu na quarta-feira (08/04) que Teerã responderá com força a qualquer agressão ou violação do acordo de cessar-fogo com os Estados Unidos, após relatos de ataques às ilhas de Lavan e Siri. “A República Islâmica do Irã responderá decisivamente a qualquer agressão”, enfatizou o presidente iraniano. Durante uma conversa telefônica […]\nO post Irã adverte que responderá ‘com força’ a qualquer violação de trégua cessar-fogo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-adverte-que-respondera-com-forca-a-qualquer-violacao-de-tregua-cessar-fogo/",
-          "publishedOn": "2026-04-09T09:33:45.000Z",
-          "wordCount": 3543,
-          "title": "Irã adverte que responderá ‘com força’ a qualquer violação de trégua cessar-fogo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hddi7p2xeaasayx.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251624",
-          "author": "Victor Farinelli",
-          "description": "“Um acordo bem sujo”, é dessa forma que Sônia Coelho, integrante da Sempreviva Organização Feminista (SOF) e militante da Marcha Mundial das Mulheres define a retirada de pauta do Projeto de Lei 896/2023, que criminaliza a misoginia. “A prática dos deputados, junto com o Hugo Motta, é que nada que trate de direito às mulheres, […]\nO post Mulheres criticam Hugo Motta por barrar votação de PL da Misoginia: ‘acordo sujo’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/mulheres-criticam-hugo-motta-por-barrar-votacao-de-pl-da-misoginia-acordo-sujo/",
-          "publishedOn": "2026-04-08T22:40:54.000Z",
-          "wordCount": 4252,
-          "title": "Mulheres criticam Hugo Motta por barrar votação de PL da Misoginia: ‘acordo sujo’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/senadoras.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251610",
-          "author": "Raissa Neves",
-          "description": "O cantor Chico Buarque viajou para Cuba nesta terça-feira (07/04) para prestar solidariedade ao povo cubano e gravar uma música com Silvio Rodríguez, músico e ex-deputado da Assembleia Nacional do Poder Popular. A visita é feita em contexto de endurecimento das sanções estadunidenses contra Cuba e agravamento das crises econômica e energética. Chico e Rodríguez regravarão […]\nO post Chico Buarque visita Cuba e regrava música com Sílvio Rodríguez apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/chico-buarque-visita-cuba-e-regrava-musica-com-silvio-rodriguez/",
-          "publishedOn": "2026-04-08T22:00:49.000Z",
-          "wordCount": 2725,
-          "title": "Chico Buarque visita Cuba e regrava música com Sílvio Rodríguez",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/saveclip.app_658212154_18402440533196509_7596328359732569652_n.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251606",
-          "author": "Raissa Neves",
-          "description": "O presidente do Brasil, Luiz Inácio Lula da Silva, defendeu nesta quarta-feira (08/04) que o Irã possa enriquecer urânio para fins pacíficos e ironizou o fato de apenas alguns países possuírem armas nucleares. Em entrevista ao portal ICL Notícias, o mandatário brasileiro afirmou que “o Brasil não abre mão de defender para o Irã um […]\nO post Lula defende que Irã possa enriquecer urânio para fins pacíficos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-defende-que-ira-possa-enriquecer-uranio-para-fins-pacificos/",
-          "publishedOn": "2026-04-08T21:20:31.000Z",
-          "wordCount": 3149,
-          "title": "Lula defende que Irã possa enriquecer urânio para fins pacíficos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55195293549_4645de49b5_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251611",
-          "author": "Fernanda Oliveira",
-          "description": "O acordo de cessar-fogo entre Estados Unidos e Irã, mediado pelo Paquistão, não incluiu o Líbano, gerando apreensão imediata na capital libanesa. O temor de novos bombardeios se concretizou às 14h20 (horário local) desta quarta-feira (08/04), quando uma intensa onda de ataques israelenses atingiu o país. Em apenas 10 minutos, foram registrados 100 bombardeios coordenados […]\nO post Libaneses temem que Israel intensifique ofensiva após acordo EUA-Irã e maior onda de ataques apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libaneses-temem-que-israel-expanda-ofensiva-apos-acordo-eua-ira-e-maior-onda-de-ataques/",
-          "publishedOn": "2026-04-08T20:31:06.000Z",
-          "wordCount": 3267,
-          "title": "Libaneses temem que Israel intensifique ofensiva após acordo EUA-Irã e maior onda de ataques",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-08-at-17.25.41.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251568",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente de Cuba, Miguel Díaz-Canel, afirmou que a ilha não representa ameaça aos Estados Unidos e defendeu a retomada do diálogo bilateral com base no respeito à soberania e na cooperação em diversas áreas. Em entrevista, ele destacou que é possível alcançar acordos entre os dois países, apesar das tensões históricas e das dificuldades […]\nO post ‘Cuba não representa ameaça aos EUA’, afirma Díaz-Canel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cuba-nao-representa-ameaca-aos-eua-afirma-diaz-canel/",
-          "publishedOn": "2026-04-08T19:40:26.000Z",
-          "wordCount": 3760,
-          "title": "‘Cuba não representa ameaça aos EUA’, afirma Díaz-Canel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-08-at-10.39.08.jpeg"
         }
       ]
     },
@@ -722,6 +742,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=223969",
+          "author": "Giovanna Maria",
+          "description": "A mineradora Braskem mantém o controle sobre as plataformas de dados geológicos e geotécnicos, sendo responsável por autorizar ou não novos acessos, o que levanta sérias preocupações sobre a transparência e conflito de interesses.",
+          "link": "https://anovademocracia.com.br/al-braskem-limita-acesso-as-informacoes-sobre-o-solo-de-maceio/",
+          "publishedOn": "2026-04-09T16:23:42.000Z",
+          "wordCount": null,
+          "title": "AL: Braskem limita acesso às informações sobre o solo de Maceió",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=223941",
           "author": "André Queiroz",
@@ -816,16 +846,6 @@
           "wordCount": null,
           "title": "RS: 166 municípios sofrem com a falta de Diesel",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223864",
-          "author": "Redação de AND",
-          "description": "Diante da resistência nacional, a campanha militar sionista no Líbano se encontra sem planos viáveis de expansão.",
-          "link": "https://anovademocracia.com.br/hezbollah-frustra-planos-da-campanha-libano/",
-          "publishedOn": "2026-04-07T18:55:00.000Z",
-          "wordCount": null,
-          "title": "Hezbollah frustra planos da campanha militar de ‘Israel’ e impõe baixas a soldados sionistas no sul do Líbano",
-          "imageUrl": null
         }
       ]
     },
@@ -833,7 +853,28 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "69d7bae201e7cd37414cff47",
+          "author": "O Poder Popular",
+          "description": "Pesquisa revela distância entre estatísticas e sentimento da população. Maior ocupação não equivale a qualidade. Predomina a insegurança em relação ao futuro. Menor taxa de desemprego da série histórica",
+          "link": "https://opoderpopular.com.br/o-paradoxo-no-mercado-de-trabalho-brasileiro/",
+          "publishedOn": "2026-04-09T14:47:55.000Z",
+          "wordCount": 3796,
+          "title": "O paradoxo no mercado de trabalho brasileiro",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/04/Screenshot-2026-03-25-at-17-00-37-Emprego-informal-representa-70-dos-novos-empregos-na-America-Latina-Vermelho.png"
+        },
+        {
+          "id": "69d7ba1e01e7cd37414cfecf",
+          "author": "O Poder Popular",
+          "description": "COLETIVO LGBT COMUNISTA DE MATO GROSSO DO SUL\n No dia 29 de março, movimentos sociais da luta LGBTI+ de Campo Grande/MS se reuniram para um ato de protesto em frente a um imóvel da União teoricamente destinado à Casa de Acolhimento LGBTI+",
+          "link": "https://opoderpopular.com.br/nasce-a-transocupacao-marcela-aguiar/",
+          "publishedOn": "2026-04-09T14:42:13.000Z",
+          "wordCount": 1499,
+          "title": "NASCE A TRANSOCUPAÇÃO MARCELA AGUIAR!",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/04/298799902_486408576824035_6675726856310978443_n.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
@@ -846,7 +887,7 @@
           "description": "Ocidente vê teocracia extremista em Teerã. Mas exame dos líderes de Washington e Tel Aviv revela psicopatia, narcisismo maligno e paranoia. Dizem-se “agentes de Deus”. Propõem a “violência descomunal”. Evocam as Cruzadas. Estão perdendo\nThe post Eis os fanáticos que o Irã está vencendo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/eis-os-fanaticos-que-o-ira-esta-vencendo/",
           "publishedOn": "2026-04-08T21:24:38.000Z",
-          "wordCount": 5722,
+          "wordCount": 5805,
           "title": "Eis os fanáticos que o Irã está vencendo",
           "enclosure": {
             "url": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08190336/WhatsApp-Video-2026-04-08-at-18.53.31.mp4",
@@ -881,7 +922,7 @@
           "description": "O broche do ministro israelense tem forma de forca. Israel leva ao Líbano a limpeza étnica praticada em Gaza. Um bebê palestino é torturado por dez horas. O horror praticado por Telaviv caracteriza a comunidade judaica? Por que a deputada quer criminalizar quem o rejeita?\nThe post Tabata Amaral, censura sionista e a legitimação do extermínio appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/tabata-amaral-censura-sionista-e-a-legitimacao-do-exterminio/",
           "publishedOn": "2026-04-08T19:53:06.000Z",
-          "wordCount": 3563,
+          "wordCount": 3592,
           "title": "Tabata Amaral, censura sionista e a legitimação do extermínio",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08165206/photo_5096147888810691716_w-1.jpg"
         },
@@ -891,7 +932,7 @@
           "description": "Um pequeno experimento dá pistas para entender as “emoções políticas” nas redes. Diante de posições divergentes, à esquerda ou à direita, a reflexão crítica dá lugar à busca de identidades coletivas. Neste contexto, pesquisas eleitorais viram arma de reafirmação de identidades… \nThe post Eleições: O efeito de manada nas redes sociais appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-o-efeito-de-manada-nas-redes-sociais/",
           "publishedOn": "2026-04-08T19:25:05.000Z",
-          "wordCount": 3379,
+          "wordCount": 3508,
           "title": "Eleições: O efeito de manada nas redes sociais",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08162106/02_misinformation.jpg"
         },
@@ -901,7 +942,7 @@
           "description": "Destruição de campos de petróleo e refinarias no Golfo pode gerar crise energética sem precedentes. Estados se protegem. Na contramão, presidente argentino oferece abastecer Europa, enquanto país sofre com alta de combustíveis e desindustrialização acelerada\nThe post Na guerra, a vassalagem de Javier Milei appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/na-guerra-a-vassalagem-de-javier-milei/",
           "publishedOn": "2026-04-08T19:02:28.000Z",
-          "wordCount": 4470,
+          "wordCount": 4539,
           "title": "Na guerra, a vassalagem de Javier Milei",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08155103/1200x_0.278070001769860481-1.jpg"
         },
@@ -985,7 +1026,7 @@
           "description": "Matheus Cosmo escreve sobre \"Hora do Recreio\", documentário de Lucia Murat: \"Hora do Recreio revela ao espectador que a incorporação discursiva das pautas progressistas ainda não alterou a materialidade dos processos sociais, que são mesmo historicamente lentos e demorados. Por ora, conseguimos conviver muito bem juntando bandeiras de diversidade e acolhimento a práticas de exclusão e silenciamento.\"",
           "link": "https://blogdaboitempo.com.br/2026/04/09/educacao-e-violencia-da-sala-de-aula-a-hora-do-recreio/",
           "publishedOn": "2026-04-09T11:00:00.000Z",
-          "wordCount": 13618,
+          "wordCount": 13477,
           "title": "Educação e violência: da sala de aula à “Hora do Recreio”",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-37.png"
         },
