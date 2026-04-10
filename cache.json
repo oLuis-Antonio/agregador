@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "hRu2p8",
+          "author": null,
+          "description": "Governo de São Paulo, estado responsável pela maior parte desse número, alega problema no método de contabilização.",
+          "link": "https://jornalofuturo.com.br/artigo/hRu2p8-censo-escolar-registra-queda-de-1-milhao-de-matriculas-no-ensino-basico",
+          "publishedOn": "2026-04-09T21:00:00.000Z",
+          "wordCount": 2453,
+          "title": "Censo Escolar registra queda de 1 milhão de matrículas no ensino básico",
+          "imageUrl": "https://media.jornalofuturo.com.br/censoescolar-1170x700.jpg"
+        },
+        {
           "id": "j2zaHm",
           "author": null,
           "description": "O crescimento do endividamento está diretamente ligado à estagnação dos salários, ao aumento do custo de vida e à precarização das relações de trabalho.",
@@ -94,16 +104,6 @@
           "wordCount": 1351,
           "title": "Agentes de saúde intensificam mobilização pela aprovação da PEC 14/2021 e exigem valorização da categoria",
           "imageUrl": "https://media.jornalofuturo.com.br/agentesaude-1024x576.jpg"
-        },
-        {
-          "id": "21OHhb",
-          "author": null,
-          "description": "O episódio levanta questionamentos sobre o uso de espaços institucionais, como uma CPI destinada a investigar organizações criminosas, como instrumento de negociação política.",
-          "link": "https://jornalofuturo.com.br/artigo/21OHhb-sergio-moro-barra-convocacao-em-cpi-e-aproximacao-com-pl-expoe-bastidores-de-barganha-politica-no-parana",
-          "publishedOn": "2026-04-05T21:00:00.000Z",
-          "wordCount": 1337,
-          "title": "Sérgio Moro barra convocação em CPI e aproximação com PL expõe bastidores de barganha política no Paraná",
-          "imageUrl": "https://media.jornalofuturo.com.br/sergiomorogov-960x540.jpg"
         }
       ]
     },
@@ -113,12 +113,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61216",
+          "author": "Felipe Annunziata",
+          "description": "STF pode decidir que povo não tem direito a eleger o governador interino do RIo. Após o governo assassino de Cláudio Castro, povo repudia a crise no RJ e organizações de esquerda, como a Unidade Popular anunciam pré-candidaturas ao governo. Maíra Maximiano, Gabriel Puga, Yann Waise e Felipe Annunziata | Redação RJ BRASIL – O […]",
+          "link": "https://averdade.org.br/2026/04/povo-exige-eleicoes-diretas-no-rj-apos-fim-do-governo-mais-assassino-da-historia/",
+          "publishedOn": "2026-04-10T00:48:05.000Z",
+          "wordCount": 7777,
+          "title": "Povo exige eleições diretas no RJ após fim do governo mais assassino da história",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-21.44.27.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61206",
           "author": "Gabriela Torres",
           "description": "Repressão violenta da polícia militar escancara contradição do serviço público na defesa da propriedade privada. Julia Marinho e Lohan Cota | Redação Paraná TRABALHADOR UNIDO – No final de dezembro de 2025, os operários da unidade da metalúrgica multinacional Brose localizada em São José dos Pinhais, região metropolitana de Curitiba, cansados das péssimas condições de […]",
           "link": "https://averdade.org.br/2026/04/greve-na-brose-e-exemplo-de-forca-e-coragem-da-classe-operaria/",
           "publishedOn": "2026-04-09T14:29:24.000Z",
-          "wordCount": 6932,
+          "wordCount": 6944,
           "title": "Greve na Brose é exemplo de força e coragem da classe operária",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Brose-Metalurgica-Sao-Jose-Pinhais.jpeg"
         },
@@ -128,7 +138,7 @@
           "description": "Em meio a afastamentos em massa de professores por questões de saúde mental, a decisão foi tomada pela categoria que, no governo Tarcisio (Republicanos) têm enfrentado uma piora nas condições de trabalho. Uma assembleia está marcada para a sexta-feira (10) no vão livre do MASP, na Avenida Paulista, para debater os rumos da greve. Luís […]",
           "link": "https://averdade.org.br/2026/04/professores-de-sao-paulo-organizam-greve-contra-governo-de-tarcisio/",
           "publishedOn": "2026-04-09T14:15:59.000Z",
-          "wordCount": 6828,
+          "wordCount": 6826,
           "title": "Professores de São Paulo organizam greve contra Governo de Tarcisio",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/54137418526_8f81cb43f8_c.jpg"
         },
@@ -138,7 +148,7 @@
           "description": "Inspirado na construção civil soviética, João Filgueiras de Lima mostrou que é possível usar a arquitetura a favor do povo trabalhador.",
           "link": "https://averdade.org.br/2026/04/lele-o-arquiteto-que-defendeu-uma-construcao-civil-a-servico-do-povo/",
           "publishedOn": "2026-04-08T13:21:23.000Z",
-          "wordCount": 7759,
+          "wordCount": 7757,
           "title": "Lelé, o arquiteto que defendeu uma construção civil a serviço do povo",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Lele-Rede-Sarah.jpg"
         },
@@ -148,7 +158,7 @@
           "description": "Após grandes mobilizações dos trabalhadores em todo o país, o Congresso Nacional se movimenta para votar em maio a redução da jornada 6×1 sem redução de salários. Leonardo de Paula | São Paulo Brasil – Em todo o Brasil, trabalhadores tomam às ruas para lutar contra a desumana escala 6×1. No último dia 24 de […]",
           "link": "https://averdade.org.br/2026/04/pressao-de-trabalhadores-leva-pauta-da-reducao-da-escala-6x1-a-congresso-nacional/",
           "publishedOn": "2026-04-08T13:14:20.000Z",
-          "wordCount": 6999,
+          "wordCount": 7007,
           "title": "Pressão de trabalhadores leva pauta da redução da escala 6×1 à congresso nacional",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FOTO-Victor-Gabriel-1.jpg"
         },
@@ -158,7 +168,7 @@
           "description": "A terceirização nas escolas de BH avança com o Novo Integral, precarizando o trabalho docente e atacando o direito à educação pública gratuita. Sob o comando da prefeitura, a gestão substitui profissionais concursados por mão de obra superexplorada e transforma o ensino em mercadoria. Diante do sucateamento da rede municipal e do confisco de direitos, […]",
           "link": "https://averdade.org.br/2026/04/a-educacao-nao-e-mercadoria-barrar-a-terceirizacao-nas-escolas-de-bh/",
           "publishedOn": "2026-04-08T10:00:58.000Z",
-          "wordCount": 7014,
+          "wordCount": 7011,
           "title": "A educação não é mercadoria: barrar a terceirização nas escolas de BH!",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMAGEM-PROTESTO.jpg"
         },
@@ -168,7 +178,7 @@
           "description": "Na noite do dia 04 de abril, a polícia militar fascista do governador Tarcísio de Freitas (Republicanos) assassinou Thawanna Salamázio na zona leste da capital paulista. A trabalhadora foi morta após ser agredida, receber um disparo de uma policial e ter seu atendimento negado pela PM. Os trabalhadores da zona leste, em especial da Cidade […]",
           "link": "https://averdade.org.br/2026/04/isso-e-uma-comunidade-so-queremos-paz-policia-militar-de-tarcisio-assassina-trabalhadora-na-zona-leste-de-sp/",
           "publishedOn": "2026-04-07T23:00:24.000Z",
-          "wordCount": 7136,
+          "wordCount": 7143,
           "title": "“Isso é uma comunidade. Só queremos paz”. Polícia militar de Tarcísio assassina trabalhadora na zona leste de SP",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-17.31.57.jpeg"
         },
@@ -178,7 +188,7 @@
           "description": "A história ‘oficial’ esconde as inúmeras manifestações, greves e levantes populares dos trabalhadores brasileiros. Essa política de banimento é proposital. A ultima coisa que os poderosos querem é que seja cada vez mais espalhado que a origem da nossa classe operária foi nas lutas. Natanael Sarmento| Redação Pernambuco HISTÓRIA- (Parte 3) – Nos primórdios da […]",
           "link": "https://averdade.org.br/2026/04/greves-e-revoltas-populares-no-brasil-entre-1900-e-1905/",
           "publishedOn": "2026-04-07T21:34:04.000Z",
-          "wordCount": 7329,
+          "wordCount": 7332,
           "title": "Greves e revoltas populares no Brasil entre 1900 e 1905",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/MULHER1-1024x741-1.webp"
         },
@@ -188,7 +198,7 @@
           "description": "Estivadores do porto de Santos iniciaram no dia 25/03 um calendário de greves e paralisações contra o PL 733 de autoria de Leur Normando (União Brasil), que prevê ataques à categoria além do aumento dos processos de terceirização no maior porto da América Latina   Blanca Fernandes e Henry Amorin | Santos (SP) Trabalhador Unido – […]",
           "link": "https://averdade.org.br/2026/04/estivadores-de-santos-fazem-greve-contra-a-privatizacao-do-porto/",
           "publishedOn": "2026-04-07T13:59:42.000Z",
-          "wordCount": 7118,
+          "wordCount": 7122,
           "title": "Estivadores de Santos fazem greve contra a privatização do Porto",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1000451654.jpg"
         },
@@ -198,19 +208,9 @@
           "description": "No dia 04 de março, as trabalhadoras tercerizadas da empresa Normatel, responsável pela limpeza do Edifício Santos, o EDISA, sede administrativa da Petrobras, paralisaram as atividades reinvindicando melhores condições de trabalho. Maíra de Souza | Santos (SP) Trabalhador Unido – No mesmo edifício onde trabalhadores garantem a produção de 48% do Petróleo no país, cerca […]",
           "link": "https://averdade.org.br/2026/04/trabalhadoras-da-limpeza-entram-em-greve-em-santos/",
           "publishedOn": "2026-04-07T01:30:26.000Z",
-          "wordCount": 6818,
+          "wordCount": 6821,
           "title": "Trabalhadoras da limpeza entram em greve em Santos",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-31-at-20.33.36-1.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61156",
-          "author": "Redação SP",
-          "description": "Na contramão do mundo, projeto da Prefeitura traz mais riscos ambientais e piora a vida das comunidades enquanto enche os bolsos das empresas privadas",
-          "link": "https://averdade.org.br/2026/04/incineradores-de-lixo-agravam-crise-ambiental-em-sao-paulo/",
-          "publishedOn": "2026-04-06T23:29:05.000Z",
-          "wordCount": 7142,
-          "title": "Incineradores de lixo agravam crise ambiental em São Paulo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-31-at-20.24.48.jpeg"
         }
       ]
     },
@@ -219,6 +219,26 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105770",
+          "author": "PSTU-RS",
+          "description": "A decisão de Lula de impor, via Diretório Nacional, uma frente ampla no Rio Grande do Sul, com Juliana Brizola (PDT) como candidata a governadora, forçando Edegar Pretto (PT) a retirar sua candidatura, abriu uma enorme crise na aliança então estabelecida. Um dos articuladores da intervenção, segundo a imprensa, foi o pré-candidato ao Senado pelo […]\nO post A Frente Ampla e a intervenção no PT do Rio Grande do Sul apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/a-frente-ampla-e-a-intervencao-no-pt-do-rio-grande-do-sul/",
+          "publishedOn": "2026-04-09T23:21:42.000Z",
+          "wordCount": 2185,
+          "title": "A Frente Ampla e a intervenção no PT do Rio Grande do Sul",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/5035774_d03174e962630aa.jpg.jpeg"
+        },
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105767",
+          "author": "Érika Andreassy",
+          "description": "Imagine a cena. Eu, chegando no gabinete de um ministro do Supremo Tribunal Federal. Sem crachá de empresária, sem convite VIP, sem sobrenome importante. Só eu mesma — e, vá lá, representando milhões de trabalhadoras que acordam às 5 da manhã, pegam ônibus lotado e sustentam esse país nas costas. Chego educadamente e digo: “Ministro, […]\nO post Aceita pix? apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/aceita-pix/",
+          "publishedOn": "2026-04-09T21:46:24.000Z",
+          "wordCount": 1423,
+          "title": "Aceita pix?",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/stf-1.png"
+        },
         {
           "id": "https://www.opiniaosocialista.com.br/?p=105757",
           "author": "Fábio Bosco, de São Paulo (SP)",
@@ -514,7 +534,7 @@
           "description": "Guerra de Trump no Oriente Médio não tem apenas explicação geopolítica: cristãos nacionalistas enxergam oportunidade de iniciar apocalipse.\nO post O culto ao apocalipse por trás da guerra de Trump contra o Irã apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/07/guerra-trump-ira-apocalipse-religiao/",
           "publishedOn": "2026-04-07T20:04:16.000Z",
-          "wordCount": 4185,
+          "wordCount": 4155,
           "title": "O culto ao apocalipse por trás da guerra de Trump contra o Irã",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-Trump-Guerra-Apocalipse-Ira.png",
@@ -603,6 +623,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73444",
+          "author": "Middle East Monitor",
+          "description": "assassinato do aiatolá Ali Khamenei na fase inicial da guerra dos EUA e de Israel contra o Irã gerou um debate marcante tanto nos círculos estratégicos quanto nos teológicos: sua morte pode ter eliminado não apenas um líder político, mas um freio normativo à possível marcha do Irã rumo às armas nucleares. Relatos indicam que, […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/09/a-bomba-e-o-aiatola-a-guerra-justa-islamica-e-a-questao-nuclear-no-ira-pos-khamenei/",
+          "publishedOn": "2026-04-09T23:09:39.000Z",
+          "wordCount": 3648,
+          "title": "A bomba e o aiatolá: a guerra justa islâmica e a questão nuclear no Irã pós-Khamenei",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/khamenei-1.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73436",
           "author": "Middle East Monitor",
           "description": "qbal Ahmad, um dos mais notáveis intelectuais públicos do Paquistão do século XX, propôs um teste decisivo e implacável para a decadência imperial em “Como saber se os rebeldes venceram”: ignore o que o poder diz – observe o que seus inimigos ousam fazer. Quando aqueles que antes eram obrigados a se ajoelhar começam a […]",
@@ -640,13 +670,33 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251694",
+          "author": "Victor Farinelli",
+          "description": "O presidente da Rússia, Vladimir Putin, anunciou nesta quinta-feira (09/04) que as Forças Armadas do país realizarão um cessar-fogo de curto prazo na guerra contra a Ucrânia durante o período da Páscoa da Igreja Ortodoxa. O período de trégua durará menos de 48 horas: entre as 16h (horário local) deste sábado (11/04) e as 23h59 […]\nO post Rússia anuncia cessar-fogo temporário durante Páscoa ortodoxa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-anuncia-cessar-fogo-temporario-durante-pascoa-ortodoxa/",
+          "publishedOn": "2026-04-09T21:30:20.000Z",
+          "wordCount": 2771,
+          "title": "Rússia anuncia cessar-fogo temporário durante Páscoa ortodoxa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/putin.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251677",
+          "author": "Raissa Neves",
+          "description": "Em declaração dada nesta quinta-feira (09/04), a primeira-ministra da Itália, Giorgia Meloni, rechaçou apoiar o presidente dos Estados Unidos, Donald Trump, ressaltando que seu governo não concorda com a guerra contra o Irã. A postura de Meloni foi expressada durante audiência na Câmara dos Deputados. A premiê apresentou um relatório sobre as ações realizadas em […]\nO post Meloni reafirma posição da Itália contra guerra no Irã e nega subordinação a Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/meloni-reafirma-posicao-da-italia-contra-guerra-no-ira-e-nega-subordinacao-a-trump/",
+          "publishedOn": "2026-04-09T21:10:19.000Z",
+          "wordCount": 3045,
+          "title": "Meloni reafirma posição da Itália contra guerra no Irã e nega subordinação a Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-09-155903.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251686",
           "author": "Victor Farinelli",
-          "description": "Um vídeo divulgado recentemente pela deputada federal Tábata Amaral (PSB-SP) em defesa do Projeto de Lei (PL) 1424/26, que criminaliza críticas ao sionismo, gerou críticas por parte do coletivo Articulação Judaica de Esquerda, que considerou que a parlamentar mentiu ao afirmar que o projeto supostamente estaria enfocado em “políticas educacionais. No vídeo, a deputada do […]\nO post Tabata ‘mente’ sobre objetivo de PL que criminaliza críticas ao sionismo, diz coletivo judeu apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/tabata-mente-sobre-objetivo-de-pl-que-criminaliza-criticas-ao-sionismo-diz-coletivo-judeu/",
+          "description": "Um vídeo divulgado recentemente pela deputada federal Tábata Amaral (PSB-SP) em defesa do Projeto de Lei (PL) 1424/26, que criminaliza críticas ao sionismo, gerou críticas por parte do coletivo Articulação Judaica de Esquerda, que considerou que a parlamentar mentiu ao afirmar que o projeto supostamente estaria enfocado em “políticas educacionais. No vídeo, a deputada do […]\nO post ‘Tabata mente’ sobre objetivo de PL que criminaliza críticas ao sionismo, diz coletivo judeu apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/tabata-mente-sobre-pl-diz-coletivo-judeu/",
           "publishedOn": "2026-04-09T20:25:36.000Z",
           "wordCount": 3417,
-          "title": "Tabata ‘mente’ sobre objetivo de PL que criminaliza críticas ao sionismo, diz coletivo judeu",
+          "title": "‘Tabata mente’ sobre objetivo de PL que criminaliza críticas ao sionismo, diz coletivo judeu",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/tab-amaral.jpg"
         },
         {
@@ -655,7 +705,7 @@
           "description": "Há 78 anos, em 9 de abril de 1948, forças paramilitares sionistas iniciavam o assassinato em massa dos moradores de Deir Yassin, um vilarejo palestino nos arredores de Jerusalém. Embora fosse uma aldeia pacífica e possuísse um histórico de convivência harmoniosa com as comunidades judias da região, Deir Yassin tornou-se alvo da cobiça dos oficiais […]\nO post Atrocidades do sionismo: 78 anos do Massacre de Deir Yassin apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/atrocidades-do-sionismo-78-anos-do-massacre-de-deir-yassin/",
           "publishedOn": "2026-04-09T19:43:57.000Z",
-          "wordCount": 5941,
+          "wordCount": 5890,
           "title": "Atrocidades do sionismo: 78 anos do Massacre de Deir Yassin",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/jewish_militias_in_the_village_of_deir_yassin_april_1948_cropped_and_edited.jpg"
         },
@@ -665,7 +715,7 @@
           "description": "O diretor da Organização de Energia Atômica do Irã, Mohammad Eslami, declarou nesta quinta-feira (09/04) que nenhuma autoridade conseguirá impedir o programa de enriquecimento de urânio no país. “As alegações dos inimigos [EUA e Israel] de que podem parar são ilusões que irão para a cova”, afirmou, ressaltando que “nenhuma lei ou indivíduo pode nos […]\nO post Chefe da agência nuclear iraniana diz que ‘ninguém’ impedirá país de enriquecer urânio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/chefe-da-agencia-nuclear-iraniana-diz-que-ninguem-impedira-pais-de-enriquecer-uranio/",
           "publishedOn": "2026-04-09T19:20:04.000Z",
-          "wordCount": 2818,
+          "wordCount": 2817,
           "title": "Chefe da agência nuclear iraniana diz que ‘ninguém’ impedirá país de enriquecer urânio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1404100413044021535146314.jpg"
         },
@@ -675,7 +725,7 @@
           "description": "Cuba continua a enfrentar uma grave escassez de petróleo. O embargo dos Estados Unidos, em vigor há seis décadas, foi reforçado em janeiro com a imposição de um bloqueio petrolífero. Diante desse cenário, a Organização das Nações Unidas (ONU), que não dispõe de insumos energéticos suficientes para distribuir ajuda humanitária no país, está e preparando […]\nO post Pela primeira vez em sua história, ONU importará combustível para distribuir ajuda a Cuba apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/pela-primeira-vez-em-sua-historia-onu-importara-combustivel-para-distribuir-ajuda-a-cuba/",
           "publishedOn": "2026-04-09T18:43:35.000Z",
-          "wordCount": 3352,
+          "wordCount": 3348,
           "title": "Pela primeira vez em sua história, ONU importará combustível para distribuir ajuda a Cuba",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cuba.jpg"
         },
@@ -685,7 +735,7 @@
           "description": "O ator George Clooney disse que o presidente dos EUA havia cometido um crime de guerra com sua ameaça ao Irã de que “toda uma civilização morrerá esta noite”. “Alguns dizem que Donald Trump está bem”, disse na quarta-feira (08/04) a estudantes em um evento organizado pela Fundação Clooney para a Justiça. “Mas se alguém […]\nO post George Clooney acusa Trump de crime de guerra por ameaças ao Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/george-clooney-acusa-trump-de-crime-de-guerra-por-ameacas-ao-ira/",
           "publishedOn": "2026-04-09T17:30:33.000Z",
-          "wordCount": 2968,
+          "wordCount": 2967,
           "title": "George Clooney acusa Trump de crime de guerra por ameaças ao Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1280px-george_clooney.jpg"
         },
@@ -695,7 +745,7 @@
           "description": "A Força de Defesa de Israel (IDF, na sigla em inglês) assassinou três jornalistas em um dia, sendo um na Faixa de Gaza e dois no Líbano. Com isso, chega a sete o número de jornalistas mortos por bombardeios israelenses no Líbano desde o día 2 de março, gerando críticas de entidades representantes dos jornalistas. […]\nO post Em 24 horas, Israel mata mais três jornalistas no Líbano e Gaza apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/em-24-horas-israel-mata-mais-tres-jornalistas-no-libano-e-gaza/",
           "publishedOn": "2026-04-09T16:50:37.000Z",
-          "wordCount": 3225,
+          "wordCount": 3224,
           "title": "Em 24 horas, Israel mata mais três jornalistas no Líbano e Gaza",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/250825_khan_yunis_zu_0014.jpg-c50c686e-d205-45ef-b344-73c44c34a9fd.webp"
         },
@@ -705,7 +755,7 @@
           "description": "O antissemitismo voltou ao centro do debate público no Brasil nas últimas semanas, impulsionado tanto pelo precário Projeto de Lei da deputada Tabata Amaral (PSB-SP), quanto pela controvérsia envolvendo o bar antifascista Partisan, na Lapa, no Rio de Janeiro, por uma placa em que dizia que cidadãos dos EUA e de Israel não eram bem-vindos. […]\nO post O antissemitismo como arma para silenciar críticos de Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-antissemitismo-como-arma-para-silenciar-criticos-de-israel/",
           "publishedOn": "2026-04-09T16:28:18.000Z",
-          "wordCount": 4043,
+          "wordCount": 4042,
           "title": "O antissemitismo como arma para silenciar críticos de Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/antissemitismo.jpg"
         },
@@ -715,29 +765,9 @@
           "description": "O gabinete do primeiro-ministro israelense, Benjamin Netanyahu informou nesta quinta-feira (09/04) ter dado instruções para iniciar negociações diretas com o Líbano “o mais rápido possível”, após o que, segundo ele, foram ‘repetidos apelos de Beirute para a abertura das negociações’. Entretanto, em um telefonema na quarta-feira (08/04), o presidente dos EUA, Donald Trump, pediu ao […]\nO post Netanyahu diz que Israel vai iniciar negociações com Líbano após pedido de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/netanyahu-diz-que-israel-vai-iniciar-negociacoes-com-libano-apos-pedido-de-trump/",
           "publishedOn": "2026-04-09T16:22:53.000Z",
-          "wordCount": 3300,
+          "wordCount": 3249,
           "title": "Netanyahu diz que Israel vai iniciar negociações com Líbano após pedido de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/49451988208_d1a9b22899_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251656",
-          "author": "Tabitha Ramalho",
-          "description": "A Guarda Revolucionária Islâmica do Irã (IRGC) divulgou um mapa que mostra rotas alternativas de navegação no Estreito de Ormuz para que os navios possam evitar minas navais, afirma a mídia iraniana. Segundo os dados de rastreamento de navios da MarineTraffic, às 14h00 BST desta quinta-feira (09/04), apenas onze navios (três petroleiros, um navio porta-contentores […]\nO post Irã divulga mapa com rotas alternativas em Ormuz para navios evitarem minas navais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-divulga-mapa-com-rotas-alternativas-em-ormuz-para-navios-evitarem-minas-navais/",
-          "publishedOn": "2026-04-09T15:30:01.000Z",
-          "wordCount": 3055,
-          "title": "Irã divulga mapa com rotas alternativas em Ormuz para navios evitarem minas navais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/s1-1775729826.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251648",
-          "author": "Rocio Paik",
-          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, condenou os ataques israelenses ao Líbano e considerou como uma tentativa deliberada de prolongar o conflito no Oriente Médio e atrapalhar esforços diplomáticos, de acordo com as informações divulgadas nesta quinta-feira (09/04) pela agência estatal IRNA. Segundo o veículo, o chanceler iraniano abordou a questão com […]\nO post Irã acusa Israel de sabotar cessar-fogo e esforços diplomáticos ao atacar Líbano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-israel-de-sabotar-cessar-fogo-e-esforcos-diplomaticos-ao-atacar-libano/",
-          "publishedOn": "2026-04-09T14:50:12.000Z",
-          "wordCount": 2900,
-          "title": "Irã acusa Israel de sabotar cessar-fogo e esforços diplomáticos ao atacar Líbano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/abbas-2.webp"
         }
       ]
     },
@@ -892,6 +922,26 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3181729",
+          "author": "Fábio Caetano",
+          "description": "Se aceitar ato de Temer, STF abrirá caminho à Ferrogrão e Arco Norte, que ameaçam reduzir floresta a mar de soja. Sete mil mulheres e homens iniciaram uma marcha. Estão convencidos de que a região merece outro projeto e futuro\nThe post Amazônia: por que os indígenas voltam à luta appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/",
+          "publishedOn": "2026-04-09T22:01:26.000Z",
+          "wordCount": 4499,
+          "title": "Amazônia: por que os indígenas voltam à luta",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09191235/photo_5098478849166609425_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3181711",
+          "author": "Michael Roberts",
+          "description": "Não é só óleo e gás: também fertilizantes, petroquímicos, alumínio, aço e hélio seguem afetados pela aventura insana de Trump. Economistas projetam três cenários. Há grande risco de escassez de alimentos. Sul Global precisa agir: dos 17 países mais vulneráveis, treze são africanos\nThe post Todos os caminhos da guerra levam à recessão appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/todos-os-caminhos-da-guerra-levam-a-recessao/",
+          "publishedOn": "2026-04-09T21:33:10.000Z",
+          "wordCount": 4950,
+          "title": "Todos os caminhos da guerra levam à recessão",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09183247/photo_5098478849166609420_y.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3181676",
           "author": "André Leirner e Miguel Fiorelli",
           "description": "Apesar de SP ter um plano específico, nele as demandas populares reais são esvaziadas. Traduzi-las em diretrizes concretas é um grande desafio. Orçamento participativo, que pode  dar \"substância social\" ao planejamento urbano, abre uma brecha\nThe post Bairros: Como dar voz aos territórios? appeared first on Outras Palavras.",
@@ -899,7 +949,7 @@
           "publishedOn": "2026-04-09T20:40:28.000Z",
           "wordCount": 4885,
           "title": "Bairros: Como dar voz aos territórios?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09173848/redacao-injustica-social.jpg"
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09194124/epidemia.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3181690",
@@ -927,9 +977,9 @@
           "description": "De um jovem violinista nos tempos da covid às contradições de um chefão do tráfico, Cinco tipos de medo é uma narrativa em espiral que se passa em Cuiabá. Mostra que as formas de violência se renovam, mas isso não deve apagar a aposta essencial na vida\nThe post Cinema: O violino e a arma appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/cinema-o-violino-e-a-arma/",
           "publishedOn": "2026-04-09T17:36:34.000Z",
-          "wordCount": 3579,
+          "wordCount": 3581,
           "title": "Cinema: O violino e a arma",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09142949/WhatsApp-Image-2025-08-22-at-08.46.07.jpeg"
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09183500/photo_5098478849166609421_y.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3181599",
@@ -975,26 +1025,6 @@
           "wordCount": 3592,
           "title": "Tabata Amaral, censura sionista e a legitimação do extermínio",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08165206/photo_5096147888810691716_w-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181353",
-          "author": "Rudá Ricci",
-          "description": "Um pequeno experimento dá pistas para entender as “emoções políticas” nas redes. Diante de posições divergentes, à esquerda ou à direita, a reflexão crítica dá lugar à busca de identidades coletivas. Neste contexto, pesquisas eleitorais viram arma de reafirmação de identidades… \nThe post Eleições: O efeito de manada nas redes sociais appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-o-efeito-de-manada-nas-redes-sociais/",
-          "publishedOn": "2026-04-08T19:25:05.000Z",
-          "wordCount": 3508,
-          "title": "Eleições: O efeito de manada nas redes sociais",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08162106/02_misinformation.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181538",
-          "author": "Nicolás Malinovsky",
-          "description": "Destruição de campos de petróleo e refinarias no Golfo pode gerar crise energética sem precedentes. Estados se protegem. Na contramão, presidente argentino oferece abastecer Europa, enquanto país sofre com alta de combustíveis e desindustrialização acelerada\nThe post Na guerra, a vassalagem de Javier Milei appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/na-guerra-a-vassalagem-de-javier-milei/",
-          "publishedOn": "2026-04-08T19:02:28.000Z",
-          "wordCount": 4539,
-          "title": "Na guerra, a vassalagem de Javier Milei",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/08155103/1200x_0.278070001769860481-1.jpg"
         }
       ]
     },
@@ -1036,7 +1066,7 @@
           "description": "Matheus Cosmo escreve sobre \"Hora do Recreio\", documentário de Lucia Murat: \"Hora do Recreio revela ao espectador que a incorporação discursiva das pautas progressistas ainda não alterou a materialidade dos processos sociais, que são mesmo historicamente lentos e demorados. Por ora, conseguimos conviver muito bem juntando bandeiras de diversidade e acolhimento a práticas de exclusão e silenciamento.\"",
           "link": "https://blogdaboitempo.com.br/2026/04/09/educacao-e-violencia-da-sala-de-aula-a-hora-do-recreio/",
           "publishedOn": "2026-04-09T11:00:00.000Z",
-          "wordCount": 13618,
+          "wordCount": 13477,
           "title": "Educação e violência: da sala de aula à “Hora do Recreio”",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-37.png"
         },
@@ -1046,7 +1076,7 @@
           "description": "Erik Gomes: \"O que está em jogo é a própria configuração da classe trabalhadora contemporânea, fragmentada, dispersa, submetida a formas múltiplas e combinadas de subordinação que vão do chão da fábrica ao algoritmo, do contrato de experiência à pejotização compulsória. A pergunta que a mobilização contra a escala 6x1 recoloca, sob forma popular e concreta, é a mesma que atravessa toda a tradição crítica da economia política: quem controla o tempo social?\"",
           "link": "https://blogdaboitempo.com.br/2026/04/08/a-nova-luta-de-classes-e-uma-luta-pelo-tempo-da-escala-6x1-a-gestao-algoritmica-da-vida/",
           "publishedOn": "2026-04-08T11:00:00.000Z",
-          "wordCount": 14483,
+          "wordCount": 14628,
           "title": "A nova luta de classes é uma luta pelo tempo: da escala 6×1 à gestão algorítmica da vida",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/04/image-24-edited.png?fit=1200%2C900&ssl=1"
         }
