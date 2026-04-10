@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "pj7GVW",
+          "author": null,
+          "description": "Aprovação consolida uma agenda que amplia penas, cria novos tipos penais e expande o aparato policial, aprofundando uma lógica punitivista que já orienta a política de segurança pública no Brasil há décadas.",
+          "link": "https://jornalofuturo.com.br/artigo/pj7GVW-pl-antifaccao-e-pec-da-seguranca-consolidam-avanco-do-punitivismo",
+          "publishedOn": "2026-04-10T15:00:00.000Z",
+          "wordCount": 2646,
+          "title": "PL Antifacção e PEC da Segurança consolidam avanço do punitivismo",
+          "imageUrl": "https://media.jornalofuturo.com.br/plantifaccao-1280x674.jpg"
+        },
+        {
           "id": "hRu2p8",
           "author": null,
           "description": "Governo de São Paulo, estado responsável pela maior parte desse número, alega problema no método de contabilização.",
@@ -94,16 +104,6 @@
           "wordCount": 3847,
           "title": "Em crise hídrica, Governo de São Paulo pretende privatizar rios do interior do estado",
           "imageUrl": "https://media.jornalofuturo.com.br/audienciacampinas-1024x576.jpg"
-        },
-        {
-          "id": "Ga8W6O",
-          "author": null,
-          "description": "A proposta é vista pela categoria como um passo fundamental rumo à conquista da aposentadoria especial, ao reconhecimento profissional e à consolidação de direitos historicamente negados.",
-          "link": "https://jornalofuturo.com.br/artigo/Ga8W6O-agentes-de-saude-intensificam-mobilizacao-pela-aprovacao-da-pec-142021-e-exigem-valorizacao-da-categoria",
-          "publishedOn": "2026-04-06T15:00:00.000Z",
-          "wordCount": 1351,
-          "title": "Agentes de saúde intensificam mobilização pela aprovação da PEC 14/2021 e exigem valorização da categoria",
-          "imageUrl": "https://media.jornalofuturo.com.br/agentesaude-1024x576.jpg"
         }
       ]
     },
@@ -534,7 +534,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5085,
+          "wordCount": 5115,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -685,23 +685,83 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251740",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente chinês Xi Jinping recebeu, nesta sexta-feira (10/04) em Pequim, a presidenta do Kuomintang (KMT, o Partido Nacional Chinês), Cheng Li-wun, no primeiro encontro entre um líder do KMT e um mandatário chinês em dez anos. Na reunião, Xi, que também é secretário-geral do Partido Comunista da China (PCCh), afirmou que a “independência de […]\nO post Xi Jinping se reúne com líder do Kuomintang e diz que ‘independência’ de Taiwan ‘mina paz’ na região apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-se-reune-com-lider-do-kuomintang-e-diz-que-independencia-de-taiwan-mina-paz-na-regiao/",
+          "publishedOn": "2026-04-10T16:50:56.000Z",
+          "wordCount": 4045,
+          "title": "Xi Jinping se reúne com líder do Kuomintang e diz que ‘independência’ de Taiwan ‘mina paz’ na região",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/69d8ab1659bf5b766141e3a3.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251737",
+          "author": "Rocio Paik",
+          "description": "Mais de nove milhões de eleitores foram removidos do cadastro em Bengala Ocidental após uma Revisão Especial Intensiva (SIR) na lista da Comissão Eleitoral da Índia (ECI), dias antes das eleições para a Assembleia Legislativa Estadual. Os nomes removidos representam uma redução de 12% no total de eleitores do estado, que ultrapassa 76,6 milhões, com […]\nO post Milhões na Índia estão inaptos a votar para eleições estaduais; esquerda denuncia fraude apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/milhoes-na-india-estao-inaptos-a-votar-para-eleicoes-estaduais-esquerda-denuncia-fraude/",
+          "publishedOn": "2026-04-10T16:10:07.000Z",
+          "wordCount": 4697,
+          "title": "Milhões na Índia estão inaptos a votar para eleições estaduais; esquerda denuncia fraude",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/protests-against-manipulation-of-voter-roles-ahead-of-elections-in-india-1.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251728",
+          "author": "Rocio Paik",
+          "description": "O vice-ministro das Relações Exteriores da Rússia, Sergei Ryabkov, declarou nesta sexta-feira (10/04) que o país nunca abandonará Cuba, ressaltando que planeja ajudar o país a enfrentar a crise energética agravada pelo embargo dos Estados Unidos. A posição se deu após a reunião com o presidente cubano Miguel Díaz-Canel no Centro de Convenções de Havana, […]\nO post Rússia diz que ‘nunca abandonará’ Cuba e denuncia ‘obsessão’ dos EUA contra ilha apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/russia-diz-que-nunca-abandonara-cuba-e-denuncia-obsessao-dos-eua-contra-ilha/",
+          "publishedOn": "2026-04-10T15:30:44.000Z",
+          "wordCount": 3178,
+          "title": "Rússia diz que ‘nunca abandonará’ Cuba e denuncia ‘obsessão’ dos EUA contra ilha",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1470733.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251727",
+          "author": "Tabitha Ramalho",
+          "description": "Aproximadamente 500 manifestantes, liderados pela organização “Voz Judaica pela Paz”, reuniram-se na quarta-feira (07/04) em frente ao escritório do Controlador da Cidade de Nova York, Mark Levine. A manifestação rejeitou os planos de investir fundos de pensão da cidade em títulos israelenses, instrumentos financeiros que fornecem recursos para intervenções militares na Palestina, no Líbano e […]\nO post Manifestantes vão às ruas de Nova York contra investimento em títulos israelenses apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/manifestantes-vao-as-ruas-de-nova-york-contra-investimento-em-titulos-israelenses/",
+          "publishedOn": "2026-04-10T14:47:47.000Z",
+          "wordCount": 3495,
+          "title": "Manifestantes vão às ruas de Nova York contra investimento em títulos israelenses",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-10-at-11.40.37.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251722",
+          "author": "Victor Farinelli",
+          "description": "A extrema direita chilena foi sacudida nesta quinta-feira (09/04) por reportagens publicadas em diferentes meios de comunicação nas quais a senadora de extrema direita Camila Flores é acusada de se apropriar de dois terços dos salários de alguns dos seus assessores. A informação teria surgido de fontes anônimas, supostamente os próprios assessores ou figuras próximas […]\nO post Parlamentar chilena é denunciada por esquema de ‘rachadinha’ similar ao atribuído à família Bolsonaro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/parlamentar-chilena-e-denunciada-por-esquema-de-rachadinha-similar-ao-atribuido-a-familia-bolsonaro/",
+          "publishedOn": "2026-04-10T14:20:51.000Z",
+          "wordCount": 3513,
+          "title": "Parlamentar chilena é denunciada por esquema de ‘rachadinha’ similar ao atribuído à família Bolsonaro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/flores.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251716",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério das Relações Exteriores (MRE) condenou os ataques de Israel contra o Líbano realizados um dia após o cessar-fogo anunciado por Irã e Estados Unidos (EUA) no Oriente Médio. “A intensificação dessa ofensiva ocorre na sequência do anúncio, na última noite, de cessar-fogo no conflito armado no Oriente Médio e ameaça envolver a região […]\nO post Brasil condena agressão de Israel contra Líbano em meio a cessar-fogo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/brasil-condena-agressao-de-israel-contra-libano-em-meio-a-cessar-fogo/",
+          "publishedOn": "2026-04-10T13:40:46.000Z",
+          "wordCount": 3592,
+          "title": "Brasil condena agressão de Israel contra Líbano em meio a cessar-fogo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/pzzb1916_0.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251714",
           "author": "Rocio Paik",
           "description": "A capital paquistanesa Islamabad recebe nesta sexta-feira (10/04) as delegações do Irã e dos Estados Unidos para sediar as negociações de paz na guerra iniciada pelos norte-americanos e israelenses em 28 de fevereiro. As partes estão em meio a um cessar-fogo de duas semanas anunciado nesta semana, período durante o qual serão realizados esforços diplomáticos […]\nO post Paquistão esvazia ruas para receber delegações do Irã e EUA visando negociações de paz apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paquistao-esvazia-ruas-para-receber-delegacoes-do-ira-e-eua-visando-negociacoes-de-paz/",
           "publishedOn": "2026-04-10T13:00:04.000Z",
-          "wordCount": 3115,
+          "wordCount": 3111,
           "title": "Paquistão esvazia ruas para receber delegações do Irã e EUA visando negociações de paz",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/aad2a919-3f43-473c-a288-5468f526ba70-g33kboxwuaavsbv.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=251712",
           "author": "Tabitha Ramalho",
-          "description": "O vice-presidente do Partido Socialista Unido da Venezuela (PSUV), Diosdado Cabello, liderou mobilização em Caracas nesta quinta-feira (09/04) em comemoração ao vigésimo aniversário da Lei Orgânica dos Conselhos Comunais. Ele defendeu o modelo de democracia direta promovido pelo ex-presidente Hugo Chávez em 2006, destacando que o país já possui 5.336 comunas ativas e projetos que […]\nO post Caracas celebra 20 anos da lei que criou Conselhos Comunais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/caracas-celebra-20-anos-da-lei-que-criou-conselhos-comunais/",
+          "description": "O vice-presidente do Partido Socialista Unido da Venezuela (PSUV), Diosdado Cabello, liderou mobilização em Caracas nesta quinta-feira (09/04) em comemoração ao vigésimo aniversário da Lei Orgânica dos Conselhos Comunais. Ele defendeu o modelo de democracia direta promovido pelo ex-presidente Hugo Chávez em 2006, destacando que o país já possui 5.336 comunas ativas e projetos que […]\nO post Caracas celebra vinte anos da lei que criou conselhos comunais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/caracas-celebra-vinte-anos-da-lei-que-criou-conselhos-comunais/",
           "publishedOn": "2026-04-10T12:14:45.000Z",
-          "wordCount": 3428,
-          "title": "Caracas celebra 20 anos da lei que criou Conselhos Comunais",
+          "wordCount": 3435,
+          "title": "Caracas celebra vinte anos da lei que criou conselhos comunais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cabellinho.webp"
         },
         {
@@ -710,79 +770,19 @@
           "description": "Diante das agressões do regime sionista de Israel no Líbano, o grupo da Resistência Islâmica, Hezbollah, retaliou contra posições israelenses e declarou que “a resposta continuará até que a agressão israelense-americana contra o nosso país e o nosso povo cesse”. Em resposta à campanha de bombardeios maciços de Tel Aviv, que já deixou centenas de […]\nO post Hezbollah retalia contra Israel e declara: ‘resposta continuará até que agressão cesse’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-retalia-contra-israel-e-declara-resposta-continuara-ate-que-agressao-cesse/",
           "publishedOn": "2026-04-10T11:15:51.000Z",
-          "wordCount": 3657,
+          "wordCount": 3602,
           "title": "Hezbollah retalia contra Israel e declara: ‘resposta continuará até que agressão cesse’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/a80bb38e-bc94-49eb-8905-a63b8a4bfe91.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=251706",
           "author": "Tabitha Ramalho",
-          "description": "O novo líder da Revolução Islâmica, aiatolá Seyyed Mokhtaba Khamenei, exortou o povo iraniano na quinta-feira (09/04) a permanecer vigilante contra qualquer ameaça, mesmo enquanto negociações estão em andamento com os Estados Unidos e a entidade sionista de Israel, ao mesmo tempo em que apelou à unidade nacional e à resistência, no 40º dia desde […]\nO post Líder supremo iraniano pede unidade nacional e vigilância durante negociações com EUA e Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lider-supremo-iraniano-pede-unidade-nacional-e-vigilancia-durante-negociacoes-com-eua-e-israel/",
+          "description": "O novo líder da Revolução Islâmica, aiatolá Seyyed Mokhtaba Khamenei, exortou o povo iraniano na quinta-feira (09/04) a permanecer vigilante contra qualquer ameaça, mesmo enquanto negociações estão em andamento com os Estados Unidos e a entidade sionista de Israel, ao mesmo tempo em que apelou à unidade nacional e à resistência, no 40º dia desde […]\nO post Líder supremo iraniano pede unidade e vigilância durante negociações com EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lider-supremo-iraniano-pede-unidade-nacional-e-vigilancia-durante-negociacoes-com-eua/",
           "publishedOn": "2026-04-10T10:13:03.000Z",
-          "wordCount": 4473,
-          "title": "Líder supremo iraniano pede unidade nacional e vigilância durante negociações com EUA e Israel",
+          "wordCount": 4464,
+          "title": "Líder supremo iraniano pede unidade e vigilância durante negociações com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/mohammadhosein-movahedinejad-e1775815756835.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251703",
-          "author": "Tabitha Ramalho",
-          "description": "O Fundo das Nações Unidas para a Infância (UNICEF) denunciou na quinta-feira (09/04) que a escalada da guerra de Israel contra o Líbano está causando um “custo desumano e devastador para as crianças”, após relatar que, somente nas últimas horas, ataques aéreos mataram 33 crianças e feriram 153. Desde 2 de março, o número de […]\nO post UNICEF denuncia agressão de Israel contra Líbano: ‘custo desumano e devastador para as crianças’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/unicef-denuncia-agressao-de-israel-contra-libano-custo-desumano-e-devastador-para-as-criancas/",
-          "publishedOn": "2026-04-10T09:36:09.000Z",
-          "wordCount": 3573,
-          "title": "UNICEF denuncia agressão de Israel contra Líbano: ‘custo desumano e devastador para as crianças’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/lebanon-image.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251688",
-          "author": "Raissa Neves",
-          "description": "Depois de aprovar na madrugada desta quinta-feira (09/04) a reforma da Lei de Glaciares, o governo de Javier Milei abriu uma nova frente no Congresso: a mudança da Lei de Terras, que atualmente restringe a compra de áreas rurais por estrangeiros. A reforma dos glaciares foi sancionada por 137 votos a favor, 111 contra e […]\nO post Milei avança em mudanças sobre Lei de Terras na Argentina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/milei-avanca-em-mudancas-sobre-lei-de-terras-na-argentina/",
-          "publishedOn": "2026-04-09T21:50:01.000Z",
-          "wordCount": 4746,
-          "title": "Milei avança em mudanças sobre Lei de Terras na Argentina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/protestos-argentina-@cgtoficialok-1024x576-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251694",
-          "author": "Victor Farinelli",
-          "description": "O presidente da Rússia, Vladimir Putin, anunciou nesta quinta-feira (09/04) que as Forças Armadas do país realizarão um cessar-fogo de curto prazo na guerra contra a Ucrânia durante o período da Páscoa da Igreja Ortodoxa. O período de trégua durará menos de 48 horas: entre as 16h (horário local) deste sábado (11/04) e as 23h59 […]\nO post Rússia anuncia cessar-fogo temporário durante Páscoa ortodoxa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-anuncia-cessar-fogo-temporario-durante-pascoa-ortodoxa/",
-          "publishedOn": "2026-04-09T21:30:20.000Z",
-          "wordCount": 2723,
-          "title": "Rússia anuncia cessar-fogo temporário durante Páscoa ortodoxa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/putin.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251677",
-          "author": "Raissa Neves",
-          "description": "Em declaração dada nesta quinta-feira (09/04), a primeira-ministra da Itália, Giorgia Meloni, rechaçou apoiar o presidente dos Estados Unidos, Donald Trump, ressaltando que seu governo não concorda com a guerra contra o Irã. A postura de Meloni foi expressada durante audiência na Câmara dos Deputados. A premiê apresentou um relatório sobre as ações realizadas em […]\nO post Meloni reafirma posição da Itália contra guerra no Irã e nega subordinação a Trump apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/meloni-reafirma-posicao-da-italia-contra-guerra-no-ira-e-nega-subordinacao-a-trump/",
-          "publishedOn": "2026-04-09T21:10:19.000Z",
-          "wordCount": 2997,
-          "title": "Meloni reafirma posição da Itália contra guerra no Irã e nega subordinação a Trump",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-09-155903.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251686",
-          "author": "Victor Farinelli",
-          "description": "Um vídeo divulgado recentemente pela deputada federal Tábata Amaral (PSB-SP) em defesa do Projeto de Lei (PL) 1424/26, que criminaliza críticas ao sionismo, gerou críticas por parte do coletivo Articulação Judaica de Esquerda, que considerou que a parlamentar mentiu ao afirmar que o projeto supostamente estaria enfocado em “políticas educacionais. No vídeo, a deputada do […]\nO post ‘Tabata mente sobre objetivo de PL que criminaliza críticas ao sionismo’, diz coletivo judeu apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/tabata-mente-sobre-pl-sionismo-diz-coletivo-judeu/",
-          "publishedOn": "2026-04-09T20:25:36.000Z",
-          "wordCount": 3371,
-          "title": "‘Tabata mente sobre objetivo de PL que criminaliza críticas ao sionismo’, diz coletivo judeu",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/tab-amaral.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251681",
-          "author": "Raissa Neves",
-          "description": "Há 78 anos, em 9 de abril de 1948, forças paramilitares sionistas iniciavam o assassinato em massa dos moradores de Deir Yassin, um vilarejo palestino nos arredores de Jerusalém. Embora fosse uma aldeia pacífica e possuísse um histórico de convivência harmoniosa com as comunidades judias da região, Deir Yassin tornou-se alvo da cobiça dos oficiais […]\nO post Atrocidades do sionismo: 78 anos do Massacre de Deir Yassin apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/atrocidades-do-sionismo-78-anos-do-massacre-de-deir-yassin/",
-          "publishedOn": "2026-04-09T19:43:57.000Z",
-          "wordCount": 5942,
-          "title": "Atrocidades do sionismo: 78 anos do Massacre de Deir Yassin",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/jewish_militias_in_the_village_of_deir_yassin_april_1948_cropped_and_edited.jpg"
         }
       ]
     },
@@ -910,12 +910,22 @@
       "siteUrl": "https://opoderpopular.com.br/",
       "articles": [
         {
+          "id": "69d9083701e7cd37414cffe8",
+          "author": "O Poder Popular",
+          "description": "Mateus Felipe, militante da UJC em MG, para o Instituto Aurora Operária \nNão é de hoje que propostas “bem-intencionadas” chegam ao Congresso embaladas em boas causas, mas com consequências que precisam ser olhadas com mais cuidado. O PL 1424/2026 entra exatamente",
+          "link": "https://opoderpopular.com.br/pl-1424-combate-ao-antisemitismo-ou-censura-pro-sionista-velada/",
+          "publishedOn": "2026-04-10T14:26:59.000Z",
+          "wordCount": 1388,
+          "title": "PL 1424: Combate ao antisemitismo ou Censura pró-sionista Velada ?",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/04/1775053886913233-0.jpg"
+        },
+        {
           "id": "69d7bae201e7cd37414cff47",
           "author": "O Poder Popular",
           "description": "Pesquisa revela distância entre estatísticas e sentimento da população. Maior ocupação não equivale a qualidade. Predomina a insegurança em relação ao futuro. Menor taxa de desemprego da série histórica",
           "link": "https://opoderpopular.com.br/o-paradoxo-no-mercado-de-trabalho-brasileiro/",
           "publishedOn": "2026-04-09T14:47:55.000Z",
-          "wordCount": 3796,
+          "wordCount": 3797,
           "title": "O paradoxo no mercado de trabalho brasileiro",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/04/Screenshot-2026-03-25-at-17-00-37-Emprego-informal-representa-70-dos-novos-empregos-na-America-Latina-Vermelho.png"
         },
@@ -925,7 +935,7 @@
           "description": "COLETIVO LGBT COMUNISTA DE MATO GROSSO DO SUL\n No dia 29 de março, movimentos sociais da luta LGBTI+ de Campo Grande/MS se reuniram para um ato de protesto em frente a um imóvel da União teoricamente destinado à Casa de Acolhimento LGBTI+",
           "link": "https://opoderpopular.com.br/nasce-a-transocupacao-marcela-aguiar/",
           "publishedOn": "2026-04-09T14:42:13.000Z",
-          "wordCount": 1499,
+          "wordCount": 1500,
           "title": "NASCE A TRANSOCUPAÇÃO MARCELA AGUIAR!",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/04/298799902_486408576824035_6675726856310978443_n.jpg"
         }
@@ -960,9 +970,9 @@
           "id": "https://outraspalavras.net/?p=3181676",
           "author": "André Leirner e Miguel Fiorelli",
           "description": "Apesar de SP ter um plano específico, nele as demandas populares reais são esvaziadas. Traduzi-las em diretrizes concretas é um grande desafio. Orçamento participativo, que pode  dar \"substância social\" ao planejamento urbano, abre uma brecha\nThe post Bairros: Como dar voz aos territórios? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/bairros-como-dar-voz-aos-territorios/",
+          "link": "https://outraspalavras.net/outras-cidades/bairros-como-dar-voz-ao-territorios/",
           "publishedOn": "2026-04-09T20:40:28.000Z",
-          "wordCount": 4885,
+          "wordCount": 4888,
           "title": "Bairros: Como dar voz aos territórios?",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/09194124/epidemia.jpg"
         },
@@ -1091,7 +1101,7 @@
           "description": "Breno Mendoza entrevista a candidata à deputada peruana Milagros Samillán: \"O que buscamos, como familiares, é que nenhum dos culpados fique impune, como ocorreu com Alberto Fujimori – que não sejamos obrigados a ver nossos entes queridos partirem sem que a justiça seja feita. Essa é a luta que travamos: garantir que nunca mais se repitam assassinatos como os que vêm ocorrendo ano após ano.\"",
           "link": "https://blogdaboitempo.com.br/2026/04/10/entre-massacres-e-eleicoes-a-voz-indigena-do-sul-andino-com-milagros-samillan/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
-          "wordCount": 14641,
+          "wordCount": 14500,
           "title": "Entre massacres e eleições: a voz indígena do sul andino com Milagros Samillán",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-7.png"
         },
