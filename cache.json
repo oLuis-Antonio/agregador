@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "QGkPdi",
+          "author": null,
+          "description": "As mobilizações terão continuidade, por meio da greve dos funcionários aprovada na assembleia do SINTUSP no dia 09/04 e por meio de um calendário de lutas dos estudantes, aprovado no Conselho de Centros Acadêmicos (CCA).",
+          "link": "https://jornalofuturo.com.br/artigo/QGkPdi-funcionarios-da-usp-paralisam-atividades-frente-a-falta-de-reajustes-e-gratificacao-a-docentes",
+          "publishedOn": "2026-04-11T18:00:00.000Z",
+          "wordCount": 3636,
+          "title": "Funcionários da USP paralisam atividades frente à falta de reajustes e gratificação a docentes",
+          "imageUrl": "https://media.jornalofuturo.com.br/paralisacaousp3103-957x655.jpg"
+        },
+        {
           "id": "0UbMVo",
           "author": null,
           "description": "Governo federal de Lula e estados coordenam projeto unificado de entrega do patrimônio nacional para garantir as taxas de lucros dos setores empresariais.",
@@ -94,16 +104,6 @@
           "wordCount": 1517,
           "title": "A luta da enfermagem pela aprovação da PEC 19/2024: valorização profissional e justiça na jornada de trabalho",
           "imageUrl": "https://media.jornalofuturo.com.br/enfermagempiso-1280x854.jpg"
-        },
-        {
-          "id": "DQTF5X",
-          "author": null,
-          "description": "Da gestão de parques à financeirização da cidade: como as concessões públicas reorganizam o espaço urbano em ativo econômico — e por que a disputa vai além de São José dos Campos (SP).",
-          "link": "https://jornalofuturo.com.br/artigo/DQTF5X-concessoes-de-parques-e-a-nova-engrenagem-do-rentismo-urbano",
-          "publishedOn": "2026-04-07T15:00:00.000Z",
-          "wordCount": 3506,
-          "title": "Concessões de parques e a nova engrenagem do rentismo urbano",
-          "imageUrl": "https://media.jornalofuturo.com.br/ilustrabertolucci_sjc-1280x853.jpg"
         }
       ]
     },
@@ -554,7 +554,7 @@
           "description": "Os pesquisadores Fernando Filgueiras e Virgilio Almeida, autores do livro “Política dos algoritmos - Instituições e as transformações da vida social”, explicam como os códigos de computador criam novas normas de convivência social e por que eles são um risco nas eleições.\nO post Entrevista: Os riscos da IA e dos algoritmos nas eleições de 2026 apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/10/entrevista-riscos-ia-algoritmos-eleicoes-2026/",
           "publishedOn": "2026-04-10T10:00:00.000Z",
-          "wordCount": 5009,
+          "wordCount": 4979,
           "title": "Entrevista: Os riscos da IA e dos algoritmos nas eleições de 2026",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -569,7 +569,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5077,
+          "wordCount": 5107,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -584,7 +584,7 @@
           "description": "Guerra de Trump no Oriente Médio não tem apenas explicação geopolítica: cristãos nacionalistas enxergam oportunidade de iniciar apocalipse.\nO post O culto ao apocalipse por trás da guerra de Trump contra o Irã apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/07/guerra-trump-ira-apocalipse-religiao/",
           "publishedOn": "2026-04-07T20:04:16.000Z",
-          "wordCount": 4192,
+          "wordCount": 4162,
           "title": "O culto ao apocalipse por trás da guerra de Trump contra o Irã",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-Trump-Guerra-Apocalipse-Ira.png",
@@ -599,7 +599,7 @@
           "description": "Nise Yamaguchi, que participou de encontros secretos no Ministério da Saúde, é alçada ao palanque pelo bolsonarismo.\nO post Médica que defendeu ‘tratamento precoce’ na pandemia entra no PL e ganha vídeo de Flávio Bolsonaro apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/07/nise-yamaguchi-flavio-bolsonaro/",
           "publishedOn": "2026-04-07T10:40:00.000Z",
-          "wordCount": 3593,
+          "wordCount": 3623,
           "title": "Médica que defendeu ‘tratamento precoce’ na pandemia entra no PL e ganha vídeo de Flávio Bolsonaro",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderFeat-4.jpg",
@@ -663,6 +663,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73450",
+          "author": "Pedro Marin",
+          "description": "o ano de 1978, sob a ditadura recém-inaugurada de Jorge Rafael Videla, a Argentina sediaria a Copa do Mundo de Futebol. Ao contrário dos exilados que tentavam organizar um boicote ao mundial, a organização guerrilheira Montoneros tomou a diretiva de aproveitar o evento para realizar ações de propaganda armada e “desnudar” a Argentina dos milicos, […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/11/duas-cancoes-guerrilheiras/",
+          "publishedOn": "2026-04-11T19:41:45.000Z",
+          "wordCount": 3189,
+          "title": "Duas canções guerrilheiras",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/guerrilheiras.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73444",
           "author": "Middle East Monitor",
           "description": "assassinato do aiatolá Ali Khamenei na fase inicial da guerra dos EUA e de Israel contra o Irã gerou um debate marcante tanto nos círculos estratégicos quanto nos teológicos: sua morte pode ter eliminado não apenas um líder político, mas um freio normativo à possível marcha do Irã rumo às armas nucleares. Relatos indicam que, […]",
@@ -700,6 +710,66 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251805",
+          "author": "Fernanda Oliveira",
+          "description": "Milhares de pessoas saíram às ruas de Beirute neste sábado (11/04), em frente à sede do governo, para protestar contra as negociações do Líbano com Israel. Opera Mundi esteve presente na manifestação convocada pelo Hezbollah em parceria com o partido Amal, legenda do presidente do Parlamento Nabih Berri. Os manifestantes agitavam bandeiras dos partidos, gritavam […]\nO post Manifestação em Beirute reforça apoio ao Hezbollah e rejeita acordo com Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/manifestacao-em-beirute-reforca-apoio-ao-hezbollah-e-rejeita-acordo-com-israel/",
+          "publishedOn": "2026-04-11T20:00:55.000Z",
+          "wordCount": 3220,
+          "title": "Manifestação em Beirute reforça apoio ao Hezbollah e rejeita acordo com Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao-2.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251789",
+          "author": "Tabitha Ramalho",
+          "description": "Cinco parlamentares, prefeitos e vereadores negros, todos do partido França Insubmissa (LFI, sigla da esquerda radical), apresentaram queixas à Justiça francesa após serem alvo de cartas e pichações com conteúdo racista, em episódios distintos registrados na região de Paris e no sudoeste do país. De acordo com informações obtidas pela agência AFP junto à advogada […]\nO post Parlamentares negros da França Insubmissa denunciam racismo após serem alvos de cartas e pichações discriminatórias apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/parlamentares-negros-da-franca-insubmissa-denunciam-racismo-apos-serem-alvos-de-cartas-e-pichacoes-discriminatorias/",
+          "publishedOn": "2026-04-11T20:00:17.000Z",
+          "wordCount": 3661,
+          "title": "Parlamentares negros da França Insubmissa denunciam racismo após serem alvos de cartas e pichações discriminatórias",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfe0rbxwwaao49o.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251801",
+          "author": "Tabitha Ramalho",
+          "description": "As negociações entre os EUA e o Irã sobre o Estreito de Ormuz estão paralisadas, segundo o Financial Times. No entanto, de acordo com diversas autoridades que pediram para permanecer anônimas, alguns progressos foram feitos em questões como os ataques israelenses contra o Líbano, o desbloqueio de ativos iranianos e o próprio Estreito de Ormuz, […]\nO post Exigências excessivas de Washington dificultam acordo de cessar-fogo, diz agência iraniana apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/exigencias-excessivas-de-washington-dificultam-acordo-de-cessar-fogo-diz-agencia-iraniana/",
+          "publishedOn": "2026-04-11T18:58:39.000Z",
+          "wordCount": 3394,
+          "title": "Exigências excessivas de Washington dificultam acordo de cessar-fogo, diz agência iraniana",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfn-fcjakaeaonz.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251799",
+          "author": "Tabitha Ramalho",
+          "description": "Em janeiro de 2027, a população mexicana começará a ser atendida por uma rede semelhante ao Sistema Único de Saúde (SUS). A primeira fase, de cadastramento dos usuários com mais de 85 anos de idade e um acompanhante ou cuidador, terá início na próxima segunda-feira (13/04) e término em 30 de abril. Um dos mecanismos […]\nO post México anuncia sistema de saúde inspirado no SUS a partir de 2027 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/mexico-implementara-modelo-parecido-com-o-sus-a-partir-de-2027/",
+          "publishedOn": "2026-04-11T18:32:45.000Z",
+          "wordCount": 3562,
+          "title": "México anuncia sistema de saúde inspirado no SUS a partir de 2027",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/52261554328_8e96121333_b.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251795",
+          "author": "Tabitha Ramalho",
+          "description": "A guerra comercial entre Equador e Colômbia, intensificada pelo aumento recíproco das tarifas para 100%, começou a ser sentida nesta sexta-feira na fronteira binacional, onde autoridades e representantes do setor alertaram para perdas “gigantescas” e riscos para milhares de empregos. “Infelizmente, não podemos chegar a acordos com aqueles que não compartilham o mesmo compromisso com […]\nO post Guerra comercial entre Equador e Colômbia ameaça 12 mil famílias na fronteira com tarifas de 100% apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/guerra-comercial-entre-equador-e-colombia-ameaca-12-mil-familias-na-fronteira-com-tarifas-de-100/",
+          "publishedOn": "2026-04-11T18:00:06.000Z",
+          "wordCount": 3365,
+          "title": "Guerra comercial entre Equador e Colômbia ameaça 12 mil famílias na fronteira com tarifas de 100%",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao-1-1.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251785",
+          "author": "Tabitha Ramalho",
+          "description": "O regime de Kiev realizou uma série de ataques contra duas províncias russas no sábado (11/04), deixando vários feridos, apenas uma hora após o início da trégua proposta pela Rússia para o feriado da Páscoa Ortodoxa. Um morador da província russa de Kherson ficou ferido em um ataque de drone ucraniano, segundo Vladimir Oganiosov, chefe […]\nO post Ucrânia viola trégua de Páscoa proposta pela Rússia e ataca regiões civis apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-viola-tregua-de-pascoa-proposta-pela-russia-e-ataca-regioes-civis/",
+          "publishedOn": "2026-04-11T17:30:49.000Z",
+          "wordCount": 2807,
+          "title": "Ucrânia viola trégua de Páscoa proposta pela Rússia e ataca regiões civis",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1470803.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251773",
           "author": "Victor Farinelli",
           "description": "Após 40 dias de guerra dos Estados Unidos e Israel contra o Irã, o cenário geopolítico tem apresentado alguns indícios de que mudanças importantes podem ser produzidas em função desse conflito. Na avaliação do professor Reginaldo Nasser, professor de Relações Internacionais da Pontifícia Universidade Católica de São Paulo (PUC-SP), o status dos países no tabuleiro […]\nO post Guerra afasta Irã de vizinhos do Golfo e aproxima Paquistão e China, avalia especialista apareceu primeiro em Opera Mundi.",
@@ -715,18 +785,18 @@
           "description": "A capital venezuelana é uma cidade de contrastes. E talvez o maior deles seja unir passado e presente num mesmo tempo histórico. A Caracas moderna, nova, viva, contrasta com os registros de uma história que ainda deixa marcas profundas na sociedade venezuelana. Em 2002, há 24 anos, o país foi o palco de um dos […]\nO post Venezuelanos rememoram golpe contra Chávez e projetam novas vitórias sobre imperialismo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-rememoram-golpe-contra-chavez-e-projetam-novas-vitorias-sobre-imperialismo/",
           "publishedOn": "2026-04-11T15:05:09.000Z",
-          "wordCount": 3856,
+          "wordCount": 3865,
           "title": "Venezuelanos rememoram golpe contra Chávez e projetam novas vitórias sobre imperialismo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1280px-hugo_chavez_in_brazil-1861.jpeg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=251778",
           "author": "Tabitha Ramalho",
-          "description": "A Presidência libanesa informou que na sexta-feira (10/04) houve a primeira comunicação telefônica direta com Israel, por meio dos embaixadores dos dois países nos Estados Unidos. Nessa conversa, ficou agendada uma reunião para próxima terça-feira (14/04) na sede do Departamento de Estado em Washington. O gabinete de imprensa da presidência informou que a embaixadora do […]\nO post Líbano e Israel têm primeira conversa direta para discutir cessar-fogo; reunião será em Washington apareceu primeiro em Opera Mundi.",
+          "description": "A Presidência libanesa informou que na sexta-feira (10/04) houve a primeira comunicação telefônica direta com Israel, por meio dos embaixadores dos dois países nos Estados Unidos. Nessa conversa, ficou agendada uma reunião para próxima terça-feira (14/04) na sede do Departamento de Estado em Washington. O gabinete de imprensa da presidência informou que a embaixadora do […]\nO post Líbano e Israel têm primeira conversa direta para discutir cessar-fogo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libano-e-israel-tem-primeira-conversa-direta-para-discutir-cessar-fogo-reuniao-sera-em-washington/",
           "publishedOn": "2026-04-11T14:46:23.000Z",
-          "wordCount": 2972,
-          "title": "Líbano e Israel têm primeira conversa direta para discutir cessar-fogo; reunião será em Washington",
+          "wordCount": 2955,
+          "title": "Líbano e Israel têm primeira conversa direta para discutir cessar-fogo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1500x500-e1775918737819.jpg"
         },
         {
@@ -738,66 +808,6 @@
           "wordCount": 3563,
           "title": "Irã pede indenização aos EUA por ataques e descongelamento de ativos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfn-e6zakaa9_bn.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251765",
-          "author": "Victor Farinelli",
-          "description": "O Bar Partisan promove na tarde deste sábado (11/04) um encontro cultural com diversas figuras do mundo artístico, do jornalismo, da defesa dos direitos humanos e entidades políticas. Com música, dança, teatro, poesia e debates, o encontro ocorre após os ataques e multa pelo Procon do Rio de Janeiro em função de uma placa que […]\nO post Bar Partisan promove atividade cultural pró-palestina no RJ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/bar-partisan-promove-atividade-cultural-pro-palestina-no-rj/",
-          "publishedOn": "2026-04-10T21:50:54.000Z",
-          "wordCount": 3422,
-          "title": "Bar Partisan promove atividade cultural pró-palestina no RJ",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/partisan.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251760",
-          "author": "Victor Farinelli",
-          "description": "Brasil e Estados Unidos anunciaram um acordo de cooperação mútua visando o combate ao tráfico internacional de armas e drogas. A parceria prevê, de maneira constante, por meio digital, o compartilhamento de informações sobre apreensões feitas nas aduanas dos dois países, de forma a viabilizar uma investigação célere de padrões, rotas e vínculos […]\nO post Brasil e EUA anunciam acordo de combate ao tráfico de armas e drogas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/brasil-e-eua-anunciam-acordo-de-combate-ao-trafico-de-armas-e-drogas/",
-          "publishedOn": "2026-04-10T21:00:17.000Z",
-          "wordCount": 3329,
-          "title": "Brasil e EUA anunciam acordo de combate ao tráfico de armas e drogas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/pf.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251759",
-          "author": "Raissa Neves",
-          "description": "Há 33 anos, em 10 de abril de 1993, o líder revolucionário Chris Hani era assassinado na África do Sul. Ele foi executado a tiros por Janusz Walus, um supremacista branco ligado ao Partido Conservador, incomodado com o processo de redemocratização no país. Dirigente do Partido Comunista Sul-Africano, Chris Hani foi um dos maiores líderes […]\nO post Chris Hani: um mártir da luta contra o apartheid apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/chris-hani-um-martir-da-luta-contra-o-apartheid/",
-          "publishedOn": "2026-04-10T20:19:19.000Z",
-          "wordCount": 6091,
-          "title": "Chris Hani: um mártir da luta contra o apartheid",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/csm_chrishani_b062cf6407.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251756",
-          "author": "Victor Farinelli",
-          "description": "Em declaração difundida nesta sexta-feira (10/04), o presidente dos Estados Unidos, Donald Trump, voltou a fazer ameaças ao Irã e alusões a uma possível destruição de grandes proporções ao país persa, caso as negociações que vão se realizar no Paquistão terminem sem um acordo para o fim da guerra e sem o desbloqueio do Estreito […]\nO post Trump faz novas ameaças ao Irã: ‘só deixamos vivos para poderem negociar’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-faz-novas-ameacas-ao-ira-so-deixamos-vivos-para-poderem-negociar/",
-          "publishedOn": "2026-04-10T19:30:57.000Z",
-          "wordCount": 3075,
-          "title": "Trump faz novas ameaças ao Irã: ‘só deixamos vivos para poderem negociar’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251753",
-          "author": "Rocio Paik",
-          "description": "O gabinete de segurança israelense aprovou secretamente, no mês passado, a legalização de 34 novos assentamentos e fazendas na Cisjordânia ocupada, segundo relatos da imprensa e de uma ONG. Ao contrário de decisões semelhantes no passado, a aprovação não foi anunciada publicamente pelo Ministro da Defesa israelense, Israel Katz, nem pelo Ministro das Finanças, Bezalel […]\nO post Israel aprova secretamente 34 novos assentamentos na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-aprova-secretamente-34-novos-assentamentos-na-cisjordania/",
-          "publishedOn": "2026-04-10T18:50:33.000Z",
-          "wordCount": 3326,
-          "title": "Israel aprova secretamente 34 novos assentamentos na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/arrest_of_islamic_jihad_activists_in_judea_and_samaria_august_2022_xvi.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251750",
-          "author": "Rocio Paik",
-          "description": "O presidente da Colômbia, Gustavo Petro, ordenou nesta sexta-feira (10/04) o retorno imediato da embaixadora do país em Quito, María Antonia Velasco Guerrero, em resposta à decisão do governo do Equador, de extrema direita, de elevar para 100% as tarifas sobre produtos colombianos. De acordo com o mandatário, as medidas tomadas pelo vizinho no dia […]\nO post Petro convoca embaixadora após Equador aumentar tarifas à Colômbia para 100% apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petro-convoca-embaixadora-apos-equador-aumentar-tarifas-a-colombia-para-100/",
-          "publishedOn": "2026-04-10T18:10:18.000Z",
-          "wordCount": 3186,
-          "title": "Petro convoca embaixadora após Equador aumentar tarifas à Colômbia para 100%",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/gustavopetro-nuevoesquemadepasaportes2026.jpg"
         }
       ]
     },
@@ -812,6 +822,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=224092",
+          "author": "Ana Nascimento",
+          "description": "No dia 27 de março o movimento Maruí promoveu na Universidade Federal de Santa Catarina (UFSC) o evento “Das Retomadas de Terra ao Anti-Imperialismo: O Papel Estudantil nas Lutas Democráticas”, como parte de sua agenda de recepção aos calouros de 2026 da universidade.",
+          "link": "https://anovademocracia.com.br/sc-movimento-marui-realiza-evento-na-ufsc-sobre-o-papel-dos-estudantes-na-luta-anti-imperialista/",
+          "publishedOn": "2026-04-11T18:00:00.000Z",
+          "wordCount": null,
+          "title": "SC: Movimento Maruí realiza evento na UFSC sobre o papel dos estudantes na luta anti-imperialista",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224048",
+          "author": "Giovanna Maria",
+          "description": "O AND trouxe, em primeira mão, uma entrevista com o venezuelano internacionalista Nelson, acerca dos recentes acontecimentos em seu país natal.",
+          "link": "https://anovademocracia.com.br/entrevista-coordenador-do-grupo-de-solidariedade-aos-imigrantes-do-sudoeste-do-parana-conversa-com-o-and/",
+          "publishedOn": "2026-04-11T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Entrevista: Coordenador do Grupo de Solidariedade aos Imigrantes do Sudoeste do Paraná conversa com o AND",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=224088",
           "author": "Ana Nascimento",
@@ -895,26 +925,6 @@
           "publishedOn": "2026-04-09T19:55:59.000Z",
           "wordCount": null,
           "title": "Duas ativistas populares flipinas são presas pelo governo de Ferdinand Marcos Jr.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223999",
-          "author": "Redação de AND",
-          "description": "Apenas os quatro maiores bancos que operam no país – Itaú, Bradesco, Banco do Brasil e Santander – registraram lucro líquido somado de R$ 107,8 bilhões em 2025. Parte desse resultado está associada à expansão das carteiras de crédito e às margens obtidas sobre operações com cartão de crédito e crédito pessoal.",
-          "link": "https://anovademocracia.com.br/povo-se-endivida-enquanto-governo-burguesia/",
-          "publishedOn": "2026-04-09T19:43:58.000Z",
-          "wordCount": null,
-          "title": "Povo se endivida enquanto governo pavimenta os lucros para grande burguesia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=223979",
-          "author": "Redação de AND",
-          "description": "\"Lembre-se: Nós somos a sombra no coração de seu comando; Tudo que você tem um dia será exposto para todo o mundo ver\". Afirmou o grupo referindo-se ao general nazi-sionista.",
-          "link": "https://anovademocracia.com.br/grupo-handala-vaza-confidenciais-israel/",
-          "publishedOn": "2026-04-09T19:06:46.000Z",
-          "wordCount": null,
-          "title": "Grupo Handala vaza dados confidenciais do ex-chefe do Estado-Maior de ‘Israel’",
           "imageUrl": null
         }
       ]
@@ -1121,7 +1131,7 @@
           "description": "Mouzar Benedito reúne um bom punhado de frases sobre gente pedante, soberba, enfatuada, fumosa, panturra... e outros nomes mais!",
           "link": "https://blogdaboitempo.com.br/2026/04/10/cultura-inutil-arrogantes-cada-vez-mais-abundantes/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
-          "wordCount": 12095,
+          "wordCount": 12244,
           "title": "Cultura inútil | Arrogantes cada vez mais abundantes",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-11.png"
         },
