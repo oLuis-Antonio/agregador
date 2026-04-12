@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "ZdNrvc",
+          "author": null,
+          "description": "Em meio ao cenário de subfinanciamento das universidades públicas, Boeing firma um novo ciclo de parcerias com universidades brasileiras, e reforça sua postura predatória com a produção científica nacional.",
+          "link": "https://jornalofuturo.com.br/artigo/ZdNrvc-falta-de-recursos-nas-universidades-estimula-parcerias-privadas-com-empresas-como-a-boeing",
+          "publishedOn": "2026-04-11T21:00:00.000Z",
+          "wordCount": 2440,
+          "title": "Falta de recursos nas universidades estimula parcerias privadas com empresas como a Boeing",
+          "imageUrl": "https://media.jornalofuturo.com.br/embraerboingprotesto-901x501.jpg"
+        },
+        {
           "id": "QGkPdi",
           "author": null,
           "description": "As mobilizações terão continuidade, por meio da greve dos funcionários aprovada na assembleia do SINTUSP no dia 09/04 e por meio de um calendário de lutas dos estudantes, aprovado no Conselho de Centros Acadêmicos (CCA).",
@@ -94,16 +104,6 @@
           "wordCount": 2273,
           "title": "Departamento de “Desestatização” anuncia possibilidade de concessão privada do prédio da Secretaria de Ação Social em Franca (SP)",
           "imageUrl": "https://media.jornalofuturo.com.br/assistsocialfranca-1280x703.jpg"
-        },
-        {
-          "id": "eDt65L",
-          "author": null,
-          "description": "A resistência à aprovação da PEC 19/2024 revela o conflito entre os interesses das trabalhadoras e dos trabalhadores e as prioridades de setores que tratam a saúde como custo, e não como investimento social",
-          "link": "https://jornalofuturo.com.br/artigo/eDt65L-a-luta-da-enfermagem-pela-aprovacao-da-pec-192024-valorizacao-profissional-e-justica-na-jornada-de-trabalho",
-          "publishedOn": "2026-04-07T21:00:00.000Z",
-          "wordCount": 1517,
-          "title": "A luta da enfermagem pela aprovação da PEC 19/2024: valorização profissional e justiça na jornada de trabalho",
-          "imageUrl": "https://media.jornalofuturo.com.br/enfermagempiso-1280x854.jpg"
         }
       ]
     },
@@ -113,12 +113,72 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61249",
+          "author": "Jesse Lisboa",
+          "description": "Militantes do Movimento Luta de Classes (MLC) e da Unidade Popular (UP) ocuparam mais de 14 shoppings em todas as regiões do país nesta jornada de lutas contra a escala 6×1. Leonardo de Paula | São Paulo (SP) TRABALHADOR UNIDO – Dando continuidade à jornada de lutas contra a escala 6×1, que, no dia 4 […]",
+          "link": "https://averdade.org.br/2026/04/trabalhadores-ocupam-shoppings-de-todo-o-pais-para-exigir-fim-da-escala-6x1/",
+          "publishedOn": "2026-04-12T02:08:14.000Z",
+          "wordCount": 7098,
+          "title": "Trabalhadores ocupam shoppings de todo o país para exigir fim da escala 6×1",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P5-_-24M-POA.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61245",
+          "author": "Jesse Lisboa",
+          "description": "As mais de 10 mil operárias da Guararapes, em Natal (RN), enfrentam um cenário de precarização que contrasta com o lucro milionário da maior fábrica de moda da América Latina. Redação RN TRABALHADOR UNIDO – A realidade imposta às operárias no Brasil é extremamente cruel: jornadas exaustivas, assédios, salários baixos, altas pressões por metas. No […]",
+          "link": "https://averdade.org.br/2026/04/fabrica-guararapes-lucra-milhoes-enquanto-operarias-recebem-auxilio-alimentacao-de-40-reais/",
+          "publishedOn": "2026-04-12T01:59:39.000Z",
+          "wordCount": 7032,
+          "title": "Fábrica Guararapes lucra milhões, enquanto operárias recebem auxílio-alimentação de 40 reais",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FABRICA-GUARARAPES.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61242",
+          "author": "Jesse Lisboa",
+          "description": "O setor de call center consolidou-se em 2025 como um dos principais eixos de adoecimento mental no Brasil, registrando mais de 40 mil afastamentos por transtornos psiquiátricos. Ignis Medina | Fortaleza (CE) TRABALHADOR UNIDO – Todos conhecemos companheiros, colegas, amigos ou familiares que trabalham em algum call center. Apesar de seus patrões estarem de bolsos […]",
+          "link": "https://averdade.org.br/2026/04/trabalho-adoecido-e-luta-de-classes-no-call-center/",
+          "publishedOn": "2026-04-12T01:53:08.000Z",
+          "wordCount": 7018,
+          "title": "Trabalho adoecido e luta de classes no call center",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P4-_-call-center.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61238",
+          "author": "Jesse Lisboa",
+          "description": "O governo de Donald Trump solicitou ao Congresso dos EUA um aporte de US$ 200 bilhões (cerca de R$ 1 trilhão) para financiar a escalada militar e a campanha de bombardeios contra o Irã pelos próximos quatro meses. Felipe Annunziata | Rio de Janeiro (RJ) INTERNACIONAL – Cerca de US$ 200 bilhões: esta é a […]",
+          "link": "https://averdade.org.br/2026/04/empresas-de-armas-lucram-bilhoes-com-bombardeios-no-oriente-medio/",
+          "publishedOn": "2026-04-12T01:46:53.000Z",
+          "wordCount": 6916,
+          "title": "Empresas de armas lucram bilhões com bombardeios no Oriente Médio",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P2-_-ISRAEL-1024x674.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61230",
+          "author": "Clóvis Maia",
+          "description": "Prédio histórico se encontra abandonado e é mostra de como nossa sociedade não preserva sua memória. Augusto Costa| Recife (PE) HISTÓRIA- O prédio localizado no bairro da Boa Vista foi palco de grandes batalhas pela educação e pela democracia na história de Pernambuco: foi graças a luta dos estudantes de engenharia que a primeira sede […]",
+          "link": "https://averdade.org.br/2026/04/antiga-escola-de-engenharia-de-pernambuco-esta-em-estado-de-abandono/",
+          "publishedOn": "2026-04-12T01:38:34.000Z",
+          "wordCount": 6734,
+          "title": "Antiga Escola de Engenharia de Pernambuco está em estado de abandono",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/escola-de-engenharia.png"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61232",
+          "author": "Jesse Lisboa",
+          "description": "Sob o pretexto de cooperação militar e combate ao crime, os Estados Unidos avançam sobre os recursos naturais da América Latina, mirando especialmente as reservas brasileiras de terras raras. Bia Reis e Cadu Machado (Com Redação) INTERNACIONAL – Vivemos um agravamento das contradições fundamentais do sistema capitalista, que, em sua fase final, o imperialismo, está […]",
+          "link": "https://averdade.org.br/2026/04/estados-unidos-querem-tomar-conta-das-riquezas-da-america-latina/",
+          "publishedOn": "2026-04-12T01:35:07.000Z",
+          "wordCount": 7818,
+          "title": "Estados Unidos querem tomar conta das riquezas da América Latina",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P3-_-protesto-EUA-1024x683.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61224",
           "author": "Clóvis Maia",
           "description": "Surgido nas redes sociais e ganhando cada vez mais espaço entre os setores mais reacionários da sociedade, o movimento ‘redpill’ representa o momento de violência contra as mulheres de todo o mundo. E é preciso aprofundar aquilo que tem por trás de tudo isso.  Júlia Lisboa| Paraíba MULHERES- A ideologia conhecida como redpill (do inglês, […]",
           "link": "https://averdade.org.br/2026/04/a-pilula-vermelha-do-ressentimento-pessoal-ao-odio-institucionalizado/",
           "publishedOn": "2026-04-11T02:08:43.000Z",
-          "wordCount": 7591,
+          "wordCount": 7602,
           "title": "A “pílula vermelha”: do ressentimento pessoal ao ódio institucionalizado",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1683801794645cc6c2d11bb_1683801794_3x2_md.jpg"
         },
@@ -128,7 +188,7 @@
           "description": "Heloisa Araújo | São Paulo Camarada Verdade, Meu fiel companheiro Andas comigo de noite, Mas também o dia inteiro. Não poderia te trocar Por qualquer outro folheto Pois você possui mais profundidade Do que um oceano inteiro. Quando eu chego de manhã na fábrica Tenho você em minhas mãos Mas logo vai para as de […]",
           "link": "https://averdade.org.br/2026/04/poema-homenagem-ao-jornal-a-verdade/",
           "publishedOn": "2026-04-10T20:55:12.000Z",
-          "wordCount": 6498,
+          "wordCount": 6493,
           "title": "Poema: Homenagem ao Jornal A Verdade",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/54312913481_e3916f0a09_o.jpg"
         },
@@ -138,7 +198,7 @@
           "description": "STF pode decidir que povo não tem direito a eleger o governador interino do RIo. Após o governo assassino de Cláudio Castro, povo repudia a crise no RJ e organizações de esquerda, como a Unidade Popular anunciam pré-candidaturas ao governo. Maíra Maximiano, Gabriel Puga, Yann Waise e Felipe Annunziata | Redação RJ BRASIL – O […]",
           "link": "https://averdade.org.br/2026/04/povo-exige-eleicoes-diretas-no-rj-apos-fim-do-governo-mais-assassino-da-historia/",
           "publishedOn": "2026-04-10T00:48:05.000Z",
-          "wordCount": 7756,
+          "wordCount": 7767,
           "title": "Povo exige eleições diretas no RJ após fim do governo mais assassino da história",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-21.44.27.jpeg"
         },
@@ -148,69 +208,9 @@
           "description": "Repressão violenta da polícia militar escancara contradição do serviço público na defesa da propriedade privada. Julia Marinho e Lohan Cota | Redação Paraná TRABALHADOR UNIDO – No final de dezembro de 2025, os operários da unidade da metalúrgica multinacional Brose localizada em São José dos Pinhais, região metropolitana de Curitiba, cansados das péssimas condições de […]",
           "link": "https://averdade.org.br/2026/04/greve-na-brose-e-exemplo-de-forca-e-coragem-da-classe-operaria/",
           "publishedOn": "2026-04-09T14:29:24.000Z",
-          "wordCount": 6924,
+          "wordCount": 6932,
           "title": "Greve na Brose é exemplo de força e coragem da classe operária",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Brose-Metalurgica-Sao-Jose-Pinhais.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61209",
-          "author": "Leonardo de Paula",
-          "description": "Em meio a afastamentos em massa de professores por questões de saúde mental, a decisão foi tomada pela categoria que, no governo Tarcisio (Republicanos) têm enfrentado uma piora nas condições de trabalho. Uma assembleia está marcada para a sexta-feira (10) no vão livre do MASP, na Avenida Paulista, para debater os rumos da greve. Luís […]",
-          "link": "https://averdade.org.br/2026/04/professores-de-sao-paulo-organizam-greve-contra-governo-de-tarcisio/",
-          "publishedOn": "2026-04-09T14:15:59.000Z",
-          "wordCount": 6806,
-          "title": "Professores de São Paulo organizam greve contra Governo de Tarcisio",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/54137418526_8f81cb43f8_c.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61185",
-          "author": "Redação SP",
-          "description": "Inspirado na construção civil soviética, João Filgueiras de Lima mostrou que é possível usar a arquitetura a favor do povo trabalhador.",
-          "link": "https://averdade.org.br/2026/04/lele-o-arquiteto-que-defendeu-uma-construcao-civil-a-servico-do-povo/",
-          "publishedOn": "2026-04-08T13:21:23.000Z",
-          "wordCount": 7734,
-          "title": "Lelé, o arquiteto que defendeu uma construção civil a serviço do povo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Lele-Rede-Sarah.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61198",
-          "author": "Leonardo de Paula",
-          "description": "Após grandes mobilizações dos trabalhadores em todo o país, o Congresso Nacional se movimenta para votar em maio a redução da jornada 6×1 sem redução de salários. Leonardo de Paula | São Paulo Brasil – Em todo o Brasil, trabalhadores tomam às ruas para lutar contra a desumana escala 6×1. No último dia 24 de […]",
-          "link": "https://averdade.org.br/2026/04/pressao-de-trabalhadores-leva-pauta-da-reducao-da-escala-6x1-a-congresso-nacional/",
-          "publishedOn": "2026-04-08T13:14:20.000Z",
-          "wordCount": 6984,
-          "title": "Pressão de trabalhadores leva pauta da redução da escala 6×1 à congresso nacional",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FOTO-Victor-Gabriel-1.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61194",
-          "author": "Redação MG",
-          "description": "A terceirização nas escolas de BH avança com o Novo Integral, precarizando o trabalho docente e atacando o direito à educação pública gratuita. Sob o comando da prefeitura, a gestão substitui profissionais concursados por mão de obra superexplorada e transforma o ensino em mercadoria. Diante do sucateamento da rede municipal e do confisco de direitos, […]",
-          "link": "https://averdade.org.br/2026/04/a-educacao-nao-e-mercadoria-barrar-a-terceirizacao-nas-escolas-de-bh/",
-          "publishedOn": "2026-04-08T10:00:58.000Z",
-          "wordCount": 6980,
-          "title": "A educação não é mercadoria: barrar a terceirização nas escolas de BH!",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMAGEM-PROTESTO.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61177",
-          "author": "Leonardo de Paula",
-          "description": "Na noite do dia 04 de abril, a polícia militar fascista do governador Tarcísio de Freitas (Republicanos) assassinou Thawanna Salamázio na zona leste da capital paulista. A trabalhadora foi morta após ser agredida, receber um disparo de uma policial e ter seu atendimento negado pela PM. Os trabalhadores da zona leste, em especial da Cidade […]",
-          "link": "https://averdade.org.br/2026/04/isso-e-uma-comunidade-so-queremos-paz-policia-militar-de-tarcisio-assassina-trabalhadora-na-zona-leste-de-sp/",
-          "publishedOn": "2026-04-07T23:00:24.000Z",
-          "wordCount": 7041,
-          "title": "Polícia militar de Tarcísio assassina trabalhadora na zona leste de SP",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-17.31.57.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61178",
-          "author": "Clóvis Maia",
-          "description": "A história ‘oficial’ esconde as inúmeras manifestações, greves e levantes populares dos trabalhadores brasileiros. Essa política de banimento é proposital. A ultima coisa que os poderosos querem é que seja cada vez mais espalhado que a origem da nossa classe operária foi nas lutas. Natanael Sarmento| Redação Pernambuco HISTÓRIA- (Parte 3) – Nos primórdios da […]",
-          "link": "https://averdade.org.br/2026/04/greves-e-revoltas-populares-no-brasil-entre-1900-e-1905/",
-          "publishedOn": "2026-04-07T21:34:04.000Z",
-          "wordCount": 7308,
-          "title": "Greves e revoltas populares no Brasil entre 1900 e 1905",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/MULHER1-1024x741-1.webp"
         }
       ]
     },
@@ -515,16 +515,6 @@
           "wordCount": null,
           "title": "Iranianos vão às ruas em resposta às ameaças de Trump de que \"toda uma civilização morrerá esta noite\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Uma-batalha-de-ideias-em-escala-internacional",
-          "author": "Comitê Editorial",
-          "description": "Companheires das juventudes da Corrente Revolução Permanente (CRP) de distintas partes do mundo se reuniram em 22 de março. O objetivo era avançar em uma maior articulação entre as juventudes batalham no terreno das ideias, no marco de uma das resoluções da última conferência da CRP em São Paulo, no final do ano passado. \n Companheires das juventudes da Corrente Revolução Permanente (CRP) de distintas partes do mundo se reuniram em 22 de março. Participaram camaradas da França, Argentina, (…)\n07-04-2026\n\n/ Internacional, Faísca - Juventude Revolucionária e Anticapitalista, ideologia, Ideias de Esquerda, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
-          "link": "https://www.esquerdadiario.com.br/Uma-batalha-de-ideias-em-escala-internacional",
-          "publishedOn": "2026-04-07T14:52:29.000Z",
-          "wordCount": null,
-          "title": "Uma batalha de ideias em escala internacional",
-          "imageUrl": null
         }
       ]
     },
@@ -569,7 +559,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5077,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -592,21 +582,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/04/Header-Trump-Guerra-Apocalipse-Ira.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442287",
-          "author": "Paulo Motoryn",
-          "description": "Nise Yamaguchi, que participou de encontros secretos no Ministério da Saúde, é alçada ao palanque pelo bolsonarismo.\nO post Médica que defendeu ‘tratamento precoce’ na pandemia entra no PL e ganha vídeo de Flávio Bolsonaro apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/04/07/nise-yamaguchi-flavio-bolsonaro/",
-          "publishedOn": "2026-04-07T10:40:00.000Z",
-          "wordCount": 3623,
-          "title": "Médica que defendeu ‘tratamento precoce’ na pandemia entra no PL e ganha vídeo de Flávio Bolsonaro",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/04/HeaderFeat-4.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/04/HeaderFeat-4.jpg"
         }
       ]
     },
@@ -654,160 +629,6 @@
           "wordCount": 5361,
           "title": "Dez dias após morte de adolescente, ação da PM deixa um morto na favela do Siri",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-19.51.34.webp"
-        }
-      ]
-    },
-    {
-      "title": "Revista Opera",
-      "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
-      "siteUrl": "https://revistaopera.operamundi.uol.com.br",
-      "articles": [
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73450",
-          "author": "Pedro Marin",
-          "description": "o ano de 1978, sob a ditadura recém-inaugurada de Jorge Rafael Videla, a Argentina sediaria a Copa do Mundo de Futebol. Ao contrário dos exilados que tentavam organizar um boicote ao mundial, a organização guerrilheira Montoneros tomou a diretiva de aproveitar o evento para realizar ações de propaganda armada e “desnudar” a Argentina dos milicos, […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/11/duas-cancoes-guerrilheiras/",
-          "publishedOn": "2026-04-11T19:41:45.000Z",
-          "wordCount": 3189,
-          "title": "Duas canções guerrilheiras",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/guerrilheiras.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73444",
-          "author": "Middle East Monitor",
-          "description": "assassinato do aiatolá Ali Khamenei na fase inicial da guerra dos EUA e de Israel contra o Irã gerou um debate marcante tanto nos círculos estratégicos quanto nos teológicos: sua morte pode ter eliminado não apenas um líder político, mas um freio normativo à possível marcha do Irã rumo às armas nucleares. Relatos indicam que, […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/09/a-bomba-e-o-aiatola-a-guerra-justa-islamica-e-a-questao-nuclear-no-ira-pos-khamenei/",
-          "publishedOn": "2026-04-09T23:09:39.000Z",
-          "wordCount": 3648,
-          "title": "A bomba e o aiatolá: a guerra justa islâmica e a questão nuclear no Irã pós-Khamenei",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/khamenei-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73436",
-          "author": "Middle East Monitor",
-          "description": "qbal Ahmad, um dos mais notáveis intelectuais públicos do Paquistão do século XX, propôs um teste decisivo e implacável para a decadência imperial em “Como saber se os rebeldes venceram”: ignore o que o poder diz – observe o que seus inimigos ousam fazer. Quando aqueles que antes eram obrigados a se ajoelhar começam a […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/08/como-saber-se-os-rebeldes-venceram-a-derrota-estrutural-do-imperio-no-ira/",
-          "publishedOn": "2026-04-08T22:58:54.000Z",
-          "wordCount": 3204,
-          "title": "Como saber se os rebeldes venceram: a derrota estrutural do império no Irã",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/ira-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73431",
-          "author": "El Salto",
-          "description": "início da guerra dos EUA e de Israel contra o Irã, no dia 28 de fevereiro, foi surpreendente, tendo ocorrido menos de quatro dias após o discurso sobre o Estado da União, no qual Donald Trump mal mencionou o Irã. Em uma perspectiva de longo prazo, essa guerra não deveria ser uma surpresa. A guerra […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/07/ira-uma-guerra-anunciada/",
-          "publishedOn": "2026-04-07T23:21:41.000Z",
-          "wordCount": 5405,
-          "title": "Irã: uma guerra anunciada",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/ira.webp"
-        }
-      ]
-    },
-    {
-      "title": "Opera Mundi",
-      "feedUrl": "https://operamundi.uol.com.br/feed",
-      "siteUrl": "https://operamundi.uol.com.br/",
-      "articles": [
-        {
-          "id": "https://operamundi.uol.com.br/?p=251805",
-          "author": "Fernanda Oliveira",
-          "description": "Milhares de pessoas saíram às ruas de Beirute neste sábado (11/04), em frente à sede do governo, para protestar contra as negociações do Líbano com Israel. Opera Mundi esteve presente na manifestação convocada pelo Hezbollah em parceria com o partido Amal, legenda do presidente do Parlamento Nabih Berri. Os manifestantes agitavam bandeiras dos partidos, gritavam […]\nO post Manifestação em Beirute reforça apoio ao Hezbollah e rejeita acordo com Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/manifestacao-em-beirute-reforca-apoio-ao-hezbollah-e-rejeita-acordo-com-israel/",
-          "publishedOn": "2026-04-11T20:00:55.000Z",
-          "wordCount": 3220,
-          "title": "Manifestação em Beirute reforça apoio ao Hezbollah e rejeita acordo com Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao-2.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251789",
-          "author": "Tabitha Ramalho",
-          "description": "Cinco parlamentares, prefeitos e vereadores negros, todos do partido França Insubmissa (LFI, sigla da esquerda radical), apresentaram queixas à Justiça francesa após serem alvo de cartas e pichações com conteúdo racista, em episódios distintos registrados na região de Paris e no sudoeste do país. De acordo com informações obtidas pela agência AFP junto à advogada […]\nO post Parlamentares negros da França Insubmissa denunciam racismo após serem alvos de cartas e pichações discriminatórias apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/parlamentares-negros-da-franca-insubmissa-denunciam-racismo-apos-serem-alvos-de-cartas-e-pichacoes-discriminatorias/",
-          "publishedOn": "2026-04-11T20:00:17.000Z",
-          "wordCount": 3661,
-          "title": "Parlamentares negros da França Insubmissa denunciam racismo após serem alvos de cartas e pichações discriminatórias",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfe0rbxwwaao49o.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251801",
-          "author": "Tabitha Ramalho",
-          "description": "As negociações entre os EUA e o Irã sobre o Estreito de Ormuz estão paralisadas, segundo o Financial Times. No entanto, de acordo com diversas autoridades que pediram para permanecer anônimas, alguns progressos foram feitos em questões como os ataques israelenses contra o Líbano, o desbloqueio de ativos iranianos e o próprio Estreito de Ormuz, […]\nO post Exigências excessivas de Washington dificultam acordo de cessar-fogo, diz agência iraniana apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/exigencias-excessivas-de-washington-dificultam-acordo-de-cessar-fogo-diz-agencia-iraniana/",
-          "publishedOn": "2026-04-11T18:58:39.000Z",
-          "wordCount": 3394,
-          "title": "Exigências excessivas de Washington dificultam acordo de cessar-fogo, diz agência iraniana",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfn-fcjakaeaonz.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251799",
-          "author": "Tabitha Ramalho",
-          "description": "Em janeiro de 2027, a população mexicana começará a ser atendida por uma rede semelhante ao Sistema Único de Saúde (SUS). A primeira fase, de cadastramento dos usuários com mais de 85 anos de idade e um acompanhante ou cuidador, terá início na próxima segunda-feira (13/04) e término em 30 de abril. Um dos mecanismos […]\nO post México anuncia sistema de saúde inspirado no SUS a partir de 2027 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/mexico-implementara-modelo-parecido-com-o-sus-a-partir-de-2027/",
-          "publishedOn": "2026-04-11T18:32:45.000Z",
-          "wordCount": 3562,
-          "title": "México anuncia sistema de saúde inspirado no SUS a partir de 2027",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/52261554328_8e96121333_b.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251795",
-          "author": "Tabitha Ramalho",
-          "description": "A guerra comercial entre Equador e Colômbia, intensificada pelo aumento recíproco das tarifas para 100%, começou a ser sentida nesta sexta-feira na fronteira binacional, onde autoridades e representantes do setor alertaram para perdas “gigantescas” e riscos para milhares de empregos. “Infelizmente, não podemos chegar a acordos com aqueles que não compartilham o mesmo compromisso com […]\nO post Guerra comercial entre Equador e Colômbia ameaça 12 mil famílias na fronteira com tarifas de 100% apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/guerra-comercial-entre-equador-e-colombia-ameaca-12-mil-familias-na-fronteira-com-tarifas-de-100/",
-          "publishedOn": "2026-04-11T18:00:06.000Z",
-          "wordCount": 3365,
-          "title": "Guerra comercial entre Equador e Colômbia ameaça 12 mil famílias na fronteira com tarifas de 100%",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao-1-1.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251785",
-          "author": "Tabitha Ramalho",
-          "description": "O regime de Kiev realizou uma série de ataques contra duas províncias russas no sábado (11/04), deixando vários feridos, apenas uma hora após o início da trégua proposta pela Rússia para o feriado da Páscoa Ortodoxa. Um morador da província russa de Kherson ficou ferido em um ataque de drone ucraniano, segundo Vladimir Oganiosov, chefe […]\nO post Ucrânia viola trégua de Páscoa proposta pela Rússia e ataca regiões civis apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-viola-tregua-de-pascoa-proposta-pela-russia-e-ataca-regioes-civis/",
-          "publishedOn": "2026-04-11T17:30:49.000Z",
-          "wordCount": 2807,
-          "title": "Ucrânia viola trégua de Páscoa proposta pela Rússia e ataca regiões civis",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1470803.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251773",
-          "author": "Victor Farinelli",
-          "description": "Após 40 dias de guerra dos Estados Unidos e Israel contra o Irã, o cenário geopolítico tem apresentado alguns indícios de que mudanças importantes podem ser produzidas em função desse conflito. Na avaliação do professor Reginaldo Nasser, professor de Relações Internacionais da Pontifícia Universidade Católica de São Paulo (PUC-SP), o status dos países no tabuleiro […]\nO post Guerra afasta Irã de vizinhos do Golfo e aproxima Paquistão e China, avalia especialista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/guerra-afasta-ira-de-vizinhos-do-golfo-e-aproxima-paquistao-e-china/",
-          "publishedOn": "2026-04-11T16:30:00.000Z",
-          "wordCount": 3908,
-          "title": "Guerra afasta Irã de vizinhos do Golfo e aproxima Paquistão e China, avalia especialista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/ae575f37-d1b2-4634-a4c3-8271ae549f4f.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251781",
-          "author": "Tabitha Ramalho",
-          "description": "A capital venezuelana é uma cidade de contrastes. E talvez o maior deles seja unir passado e presente num mesmo tempo histórico. A Caracas moderna, nova, viva, contrasta com os registros de uma história que ainda deixa marcas profundas na sociedade venezuelana. Em 2002, há 24 anos, o país foi o palco de um dos […]\nO post Venezuelanos rememoram golpe contra Chávez e projetam novas vitórias sobre imperialismo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-rememoram-golpe-contra-chavez-e-projetam-novas-vitorias-sobre-imperialismo/",
-          "publishedOn": "2026-04-11T15:05:09.000Z",
-          "wordCount": 3865,
-          "title": "Venezuelanos rememoram golpe contra Chávez e projetam novas vitórias sobre imperialismo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1280px-hugo_chavez_in_brazil-1861.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251778",
-          "author": "Tabitha Ramalho",
-          "description": "A Presidência libanesa informou que na sexta-feira (10/04) houve a primeira comunicação telefônica direta com Israel, por meio dos embaixadores dos dois países nos Estados Unidos. Nessa conversa, ficou agendada uma reunião para próxima terça-feira (14/04) na sede do Departamento de Estado em Washington. O gabinete de imprensa da presidência informou que a embaixadora do […]\nO post Líbano e Israel têm primeira conversa direta para discutir cessar-fogo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libano-e-israel-tem-primeira-conversa-direta-para-discutir-cessar-fogo-reuniao-sera-em-washington/",
-          "publishedOn": "2026-04-11T14:46:23.000Z",
-          "wordCount": 2955,
-          "title": "Líbano e Israel têm primeira conversa direta para discutir cessar-fogo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1500x500-e1775918737819.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251775",
-          "author": "Tabitha Ramalho",
-          "description": "A delegação iraniana apresentou termos para negociar a paz na guerra travada pelos Estados Unidos contra o Irã. Dentre eles, solicitaram ao primeiro-ministro paquistanês, Shehbaz Sharif, uma indenização pelos ataques conjuntos de Washington e Israel em fevereiro e o descongelamento dos ativos iranianos no exterior. As informações foram confirmadas pela televisão estatal iraniana. Acompanhado do […]\nO post Irã pede indenização aos EUA por ataques e descongelamento de ativos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-pede-indenizacao-aos-eua-por-ataques-e-descongelamento-de-ativos/",
-          "publishedOn": "2026-04-11T13:56:46.000Z",
-          "wordCount": 3563,
-          "title": "Irã pede indenização aos EUA por ataques e descongelamento de ativos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfn-e6zakaa9_bn.jpg"
         }
       ]
     },
@@ -1079,12 +900,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=158981",
+          "author": "FP",
+          "description": "A advogada comenta: “é por isso que eu não faço nada de errado. Imagina não poder tomar banho de água quente!”. Passa Palavra",
+          "link": "https://passapalavra.info/2026/04/158981/",
+          "publishedOn": "2026-04-11T21:12:47.000Z",
+          "wordCount": 3782,
+          "title": "Gente rica sendo presa (9)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=158969",
           "author": "Passa Palavra",
           "description": "Se houve um tempo em que o intelectual se imaginava à frente dos outros, esse tempo já não é o de hoje. Por Rafael Leopoldo",
           "link": "https://passapalavra.info/2026/04/158969/",
           "publishedOn": "2026-04-09T12:55:53.000Z",
-          "wordCount": 5403,
+          "wordCount": 5408,
           "title": "Intelectual dissidente: Quem é o intelectual hoje?",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/04/2018_NYR_15459_0054_000alfredo_volpi_bandeirinhas-300365207-scaled.jpg"
         },
@@ -1131,7 +962,7 @@
           "description": "Mouzar Benedito reúne um bom punhado de frases sobre gente pedante, soberba, enfatuada, fumosa, panturra... e outros nomes mais!",
           "link": "https://blogdaboitempo.com.br/2026/04/10/cultura-inutil-arrogantes-cada-vez-mais-abundantes/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
-          "wordCount": 12244,
+          "wordCount": 12095,
           "title": "Cultura inútil | Arrogantes cada vez mais abundantes",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-11.png"
         },
