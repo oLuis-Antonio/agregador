@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "bKzS0r",
+          "author": null,
+          "description": "Em janeiro, no mês do ataque dos EUA à Venezuela, o presidente Lula, o Ministro da Defesa e os comandantes do Exército, da Marinha e da Aeronáutica se reuniram no Palácio do Planalto para discutirem a atribuição de R$ 800 bilhões à Defesa Nacional.",
+          "link": "https://jornalofuturo.com.br/artigo/bKzS0r-comando-das-forcas-armadas-demanda-quase-r-1-trilhao-em-verbas-a-lula",
+          "publishedOn": "2026-04-12T21:00:00.000Z",
+          "wordCount": 2599,
+          "title": "Comando das Forças Armadas demanda quase R$ 1 trilhão em verbas a Lula",
+          "imageUrl": "https://media.jornalofuturo.com.br/facomandoverba-1280x904.jpg"
+        },
+        {
           "id": "JwGC1D",
           "author": null,
           "description": "Desde antes da ofensiva estadunidense em janeiro de 2026, o PSUV, partido de Maduro, vinha adotando medidas antioperárias e antipopulares.",
@@ -94,16 +104,6 @@
           "wordCount": 1581,
           "title": "ATL 2026: Indígenas ocupam Brasília contra privatizações por sua sobrevivência",
           "imageUrl": "https://media.jornalofuturo.com.br/5096379318828469235-1280x853.jpg"
-        },
-        {
-          "id": "ukV4jc",
-          "author": null,
-          "description": "Grandes propriedades improdutivas continuam ocupando milhões de hectares enquanto trabalhadoras e trabalhadores rurais, agricultores familiares, povos indígenas, quilombolas e comunidades tradicionais enfrentam uma insegurança territorial permanente.",
-          "link": "https://jornalofuturo.com.br/artigo/ukV4jc-em-3-anos-governo-lula-desapropria-menos-terras-que-temer-e-mantem-intocada-a-estrutura-fundiaria-brasileira",
-          "publishedOn": "2026-04-08T21:00:00.000Z",
-          "wordCount": 2006,
-          "title": "Em 3 anos, governo Lula desapropria menos terras que Temer e mantém intocada a estrutura fundiária brasileira",
-          "imageUrl": "https://media.jornalofuturo.com.br/lulaterras-932x621.jpg"
         }
       ]
     },
@@ -113,12 +113,62 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61267",
+          "author": "Jesse Lisboa",
+          "description": "Com o objetivo de transformar a indignação popular em organização revolucionária do povo nas periferias, o MLB propõe a intensificação do trabalho de base através das Plenárias do Socialismo, da circulação do jornal A Verdade e de escolas de formação. Coordenação Nacional do MLB LUTA POPULAR – A cada dia, tornam-se mais evidentes as contradições […]",
+          "link": "https://averdade.org.br/2026/04/organizar-o-povo-pobre-nas-periferias-e-uma-tarefa-do-mlb/",
+          "publishedOn": "2026-04-13T02:05:42.000Z",
+          "wordCount": 7014,
+          "title": "Organizar o povo pobre nas periferias é uma tarefa do MLB",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/09/IMG_7592.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61264",
+          "author": "Jesse Lisboa",
+          "description": "Com um déficit de sete milhões de moradias, aumento no preço dos aluguéis e cerca de 49 milhões de pessoas vivendo em condições inadequadas, o Brasil enfrenta crise onde o direito à cidade é sufocado pela especulação imobiliária e pela lógica do lucro. Vitória Rodrigues | Belém (PA) LUTA POPULAR – Em entrevista recente, o […]",
+          "link": "https://averdade.org.br/2026/04/trabalhadores-sao-os-que-mais-sofrem-com-o-aumento-no-preco-dos-alugueis/",
+          "publishedOn": "2026-04-13T01:42:56.000Z",
+          "wordCount": 7032,
+          "title": "Trabalhadores são os que mais sofrem com o aumento no preço dos aluguéis",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P8-_-especulacao.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61260",
+          "author": "Jesse Lisboa",
+          "description": "No último dia 26 de março, milhares de estudantes secundaristas ocuparam as ruas das principais capitais brasileiras em uma jornada de lutas que homenageou o legado de Edson Luís, assassinado pela ditadura militar em 1968. Yasmin Farias (Rebele-se) e Daniel Tito (Fenet) JUVENTUDE – No dia 26 de março, milhares de estudantes foram às ruas […]",
+          "link": "https://averdade.org.br/2026/04/edson-luis-e-homenageado-em-protestos-por-melhorias-nas-escolas-publicas/",
+          "publishedOn": "2026-04-12T23:24:56.000Z",
+          "wordCount": 7347,
+          "title": "Edson Luís é homenageado em protestos por melhorias nas escolas públicas",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P7-_-atos-26M.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61257",
+          "author": "Jesse Lisboa",
+          "description": "Onze meses após o assassinato de Barbara Kelly, o terror nas comunidades pobres com a violência policial retornou à mesma rua com a execução de Richardson, de 23 anos. Júlio Lira | Natal (RN) BRASIL – No último dia 12 de março, completaram-se 11 meses do assassinato de Barbara Kelly, trabalhadora 6×1 morta na frente […]",
+          "link": "https://averdade.org.br/2026/04/terror-nas-comunidades-pobres-do-brasil-e-projeto-politico-da-burguesia/",
+          "publishedOn": "2026-04-12T23:09:19.000Z",
+          "wordCount": 6706,
+          "title": "Terror nas comunidades pobres do Brasil é projeto político da burguesia",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/ISABELLA-TANAJURA.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61254",
+          "author": "Jesse Lisboa",
+          "description": "As fortes chuvas que atingiram a Zona da Mata Mineira no último mês deixaram um rastro de mais de 70 mortos e 8 mil desabrigados, concentrados especialmente em Juiz de Fora e Ubá. Manoel Vieira | Belo Horizonte (MG) BRASIL – No último mês, Minas Gerais foi atingida por fortes chuvas, principalmente na Zona da […]",
+          "link": "https://averdade.org.br/2026/04/negligencia-do-estado-deixa-mortos-e-desabrigados-na-zona-da-mata-mineira/",
+          "publishedOn": "2026-04-12T22:52:15.000Z",
+          "wordCount": 7232,
+          "title": "Negligência do Estado deixa mortos e desabrigados na Zona da Mata Mineira",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P6-_-Juiz-de-Fora-_-331.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61249",
           "author": "Jesse Lisboa",
           "description": "Militantes do Movimento Luta de Classes (MLC) e da Unidade Popular (UP) ocuparam mais de 14 shoppings em todas as regiões do país nesta jornada de lutas contra a escala 6×1. Leonardo de Paula | São Paulo (SP) TRABALHADOR UNIDO – Dando continuidade à jornada de lutas contra a escala 6×1, que, no dia 4 […]",
           "link": "https://averdade.org.br/2026/04/trabalhadores-ocupam-shoppings-de-todo-o-pais-para-exigir-fim-da-escala-6x1/",
           "publishedOn": "2026-04-12T02:08:14.000Z",
-          "wordCount": 7098,
+          "wordCount": 7127,
           "title": "Trabalhadores ocupam shoppings de todo o país para exigir fim da escala 6×1",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P5-_-24M-POA.jpg"
         },
@@ -128,7 +178,7 @@
           "description": "As mais de 10 mil operárias da Guararapes, em Natal (RN), enfrentam um cenário de precarização que contrasta com o lucro milionário da maior fábrica de moda da América Latina. Redação RN TRABALHADOR UNIDO – A realidade imposta às operárias no Brasil é extremamente cruel: jornadas exaustivas, assédios, salários baixos, altas pressões por metas. No […]",
           "link": "https://averdade.org.br/2026/04/fabrica-guararapes-lucra-milhoes-enquanto-operarias-recebem-auxilio-alimentacao-de-40-reais/",
           "publishedOn": "2026-04-12T01:59:39.000Z",
-          "wordCount": 7032,
+          "wordCount": 7043,
           "title": "Fábrica Guararapes lucra milhões, enquanto operárias recebem auxílio-alimentação de 40 reais",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FABRICA-GUARARAPES.webp"
         },
@@ -138,7 +188,7 @@
           "description": "O setor de call center consolidou-se em 2025 como um dos principais eixos de adoecimento mental no Brasil, registrando mais de 40 mil afastamentos por transtornos psiquiátricos. Ignis Medina | Fortaleza (CE) TRABALHADOR UNIDO – Todos conhecemos companheiros, colegas, amigos ou familiares que trabalham em algum call center. Apesar de seus patrões estarem de bolsos […]",
           "link": "https://averdade.org.br/2026/04/trabalho-adoecido-e-luta-de-classes-no-call-center/",
           "publishedOn": "2026-04-12T01:53:08.000Z",
-          "wordCount": 7018,
+          "wordCount": 7023,
           "title": "Trabalho adoecido e luta de classes no call center",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P4-_-call-center.jpg"
         },
@@ -148,7 +198,7 @@
           "description": "O governo de Donald Trump solicitou ao Congresso dos EUA um aporte de US$ 200 bilhões (cerca de R$ 1 trilhão) para financiar a escalada militar e a campanha de bombardeios contra o Irã pelos próximos quatro meses. Felipe Annunziata | Rio de Janeiro (RJ) INTERNACIONAL – Cerca de US$ 200 bilhões: esta é a […]",
           "link": "https://averdade.org.br/2026/04/empresas-de-armas-lucram-bilhoes-com-bombardeios-no-oriente-medio/",
           "publishedOn": "2026-04-12T01:46:53.000Z",
-          "wordCount": 6916,
+          "wordCount": 6924,
           "title": "Empresas de armas lucram bilhões com bombardeios no Oriente Médio",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P2-_-ISRAEL-1024x674.jpg"
         },
@@ -158,59 +208,9 @@
           "description": "Prédio histórico se encontra abandonado e é mostra de como nossa sociedade não preserva sua memória. Augusto Costa| Recife (PE) HISTÓRIA- O prédio localizado no bairro da Boa Vista foi palco de grandes batalhas pela educação e pela democracia na história de Pernambuco: foi graças a luta dos estudantes de engenharia que a primeira sede […]",
           "link": "https://averdade.org.br/2026/04/antiga-escola-de-engenharia-de-pernambuco-esta-em-estado-de-abandono/",
           "publishedOn": "2026-04-12T01:38:34.000Z",
-          "wordCount": 6734,
+          "wordCount": 6742,
           "title": "Antiga Escola de Engenharia de Pernambuco está em estado de abandono",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/escola-de-engenharia.png"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61232",
-          "author": "Jesse Lisboa",
-          "description": "Sob o pretexto de cooperação militar e combate ao crime, os Estados Unidos avançam sobre os recursos naturais da América Latina, mirando especialmente as reservas brasileiras de terras raras. Bia Reis e Cadu Machado (Com Redação) INTERNACIONAL – Vivemos um agravamento das contradições fundamentais do sistema capitalista, que, em sua fase final, o imperialismo, está […]",
-          "link": "https://averdade.org.br/2026/04/estados-unidos-querem-tomar-conta-das-riquezas-da-america-latina/",
-          "publishedOn": "2026-04-12T01:35:07.000Z",
-          "wordCount": 7818,
-          "title": "Estados Unidos querem tomar conta das riquezas da América Latina",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P3-_-protesto-EUA-1024x683.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61224",
-          "author": "Clóvis Maia",
-          "description": "Surgido nas redes sociais e ganhando cada vez mais espaço entre os setores mais reacionários da sociedade, o movimento ‘redpill’ representa o momento de violência contra as mulheres de todo o mundo. E é preciso aprofundar aquilo que tem por trás de tudo isso.  Júlia Lisboa| Paraíba MULHERES- A ideologia conhecida como redpill (do inglês, […]",
-          "link": "https://averdade.org.br/2026/04/a-pilula-vermelha-do-ressentimento-pessoal-ao-odio-institucionalizado/",
-          "publishedOn": "2026-04-11T02:08:43.000Z",
-          "wordCount": 7602,
-          "title": "A “pílula vermelha”: do ressentimento pessoal ao ódio institucionalizado",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1683801794645cc6c2d11bb_1683801794_3x2_md.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61219",
-          "author": "Leonardo de Paula",
-          "description": "Heloisa Araújo | São Paulo Camarada Verdade, Meu fiel companheiro Andas comigo de noite, Mas também o dia inteiro. Não poderia te trocar Por qualquer outro folheto Pois você possui mais profundidade Do que um oceano inteiro. Quando eu chego de manhã na fábrica Tenho você em minhas mãos Mas logo vai para as de […]",
-          "link": "https://averdade.org.br/2026/04/poema-homenagem-ao-jornal-a-verdade/",
-          "publishedOn": "2026-04-10T20:55:12.000Z",
-          "wordCount": 6493,
-          "title": "Poema: Homenagem ao Jornal A Verdade",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/54312913481_e3916f0a09_o.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61216",
-          "author": "Felipe Annunziata",
-          "description": "STF pode decidir que povo não tem direito a eleger o governador interino do RIo. Após o governo assassino de Cláudio Castro, povo repudia a crise no RJ e organizações de esquerda, como a Unidade Popular anunciam pré-candidaturas ao governo. Maíra Maximiano, Gabriel Puga, Yann Waise e Felipe Annunziata | Redação RJ BRASIL – O […]",
-          "link": "https://averdade.org.br/2026/04/povo-exige-eleicoes-diretas-no-rj-apos-fim-do-governo-mais-assassino-da-historia/",
-          "publishedOn": "2026-04-10T00:48:05.000Z",
-          "wordCount": 7767,
-          "title": "Povo exige eleições diretas no RJ após fim do governo mais assassino da história",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-21.44.27.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61206",
-          "author": "Gabriela Torres",
-          "description": "Repressão violenta da polícia militar escancara contradição do serviço público na defesa da propriedade privada. Julia Marinho e Lohan Cota | Redação Paraná TRABALHADOR UNIDO – No final de dezembro de 2025, os operários da unidade da metalúrgica multinacional Brose localizada em São José dos Pinhais, região metropolitana de Curitiba, cansados das péssimas condições de […]",
-          "link": "https://averdade.org.br/2026/04/greve-na-brose-e-exemplo-de-forca-e-coragem-da-classe-operaria/",
-          "publishedOn": "2026-04-09T14:29:24.000Z",
-          "wordCount": 6932,
-          "title": "Greve na Brose é exemplo de força e coragem da classe operária",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Brose-Metalurgica-Sao-Jose-Pinhais.jpeg"
         }
       ]
     },
@@ -308,16 +308,6 @@
           "wordCount": 1521,
           "title": "RN: PSTU anuncia Dário Barbosa como pré-candidato a governador; jornalista Fernanda Soares é a vice",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-10.16.42.jpeg"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=105733",
-          "author": "PSTU-SP",
-          "description": "Nesta terça-feira, dia 7 de abril, a luta por emprego de professoras e professores estaduais de São Paulo teve uma vitória importante. Coroando a batalha que se arrasta desde o começo de 2026, as barreiras que impediam a atribuição de aulas foram derrubadas. Um contingente que, em dado momento, chegou a 40 mil profissionais desempregados […]\nO post SP: Professores estaduais conquistam direito a trabalhar, em derrota para Tarcísio apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/sp-professores-estaduais-conquistam-direito-a-trabalhar-em-derrota-para-tarcisio/",
-          "publishedOn": "2026-04-08T15:16:59.000Z",
-          "wordCount": 1479,
-          "title": "SP: Professores estaduais conquistam direito a trabalhar, em derrota para Tarcísio",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.32.48-e1775662434628.jpeg"
         }
       ]
     },
@@ -405,16 +395,6 @@
           "wordCount": null,
           "title": "5 motivos para lutar contra as PPPs de Eduardo Leite na educação",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Mortos-no-Pilar-escancaram-quem-e-excluido-dos-planos-urbanisticos-de-Joao-Campos-e-Raquel-Lyra",
-          "author": "Gabriel Girão",
-          "description": "Na noite de segunda-feira, duas pessoas morreram após o desabamento de um paredão após uma chuva na comunidade do Pilar, no centro do Recife. Na comunidade, há centenas de famílias que esperam desde 2009 pela alocação em outras moradias.\n08-04-2026\n\n/ Classe trabalhadora, Nordeste, Pernambuco, Crise ecológica",
-          "link": "https://www.esquerdadiario.com.br/Mortos-no-Pilar-escancaram-quem-e-excluido-dos-planos-urbanisticos-de-Joao-Campos-e-Raquel-Lyra",
-          "publishedOn": "2026-04-08T12:42:57.000Z",
-          "wordCount": null,
-          "title": "Mortos no Pilar escancaram quem é excluído dos planos urbanísticos de João Campos e Raquel Lyra",
-          "imageUrl": null
         }
       ]
     },
@@ -459,7 +439,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5077,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -550,12 +530,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251861",
+          "author": "Victor Farinelli",
+          "description": "As pesquisas de boca de urna sobre o primeiro turno das eleições presidenciais do Peru, que foi realizado neste domingo (12/04), apontam a candidata de extrema direita Keiko Fujimori, do partido Força Popular, como a candidatura com mais chance de chegar ao segundo turno. Duas medições foram divulgadas logo após o fechamento das urnas, por […]\nO post Boca de urna indica Keiko Fujimori em segundo turno no Peru contra adversário indefinido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/boca-de-urna-indica-keiko-fujimori-em-segundo-turno-no-peru-contra-adversario-indefinido/",
+          "publishedOn": "2026-04-13T01:47:55.000Z",
+          "wordCount": 3256,
+          "title": "Boca de urna indica Keiko Fujimori em segundo turno no Peru contra adversário indefinido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/keiko.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=251857",
+          "author": "Tabitha Ramalho",
+          "description": "O Peru vivenciou um dia de eleições neste domingo (12/04) marcado por longas filas e atrasos na votação devido à abertura tardia das seções eleitorais. Cidadãos reunidos em seções eleitorais em diversos distritos, tanto da classe trabalhadora quanto da classe alta, expressaram sua indignação com a situação, relatando esperas de 20 a 30 minutos e […]\nO post Peruanos sofrem com filas e atrasos em eleição presidencial apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/peruanos-sofrem-com-filas-e-atrasos-em-eleicao-presidencial/",
+          "publishedOn": "2026-04-12T20:59:49.000Z",
+          "wordCount": 3333,
+          "title": "Peruanos sofrem com filas e atrasos em eleição presidencial",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hft6nklxeaazfrc.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251853",
           "author": "Tabitha Ramalho",
           "description": "O primeiro-ministro da Hungria, Viktor Orbán, reconheceu a derrota nas eleições deste domingo (12/04), após as primeiras apurações mostrarem uma ampla vantagem do líder oposicionista de centro-direita, Péter Magyar, cujo partido — o Partido pelo Respeito e pela Liberdade (Tisza) — dominava a Assembleia Nacional com mais de dois terços das cadeiras. “O resultado das […]\nO post Orbán reconhece derrota e deixa poder na Hungria após 16 anos: ‘resultado claro’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/orban-reconhece-derrota-e-deixa-poder-na-hungria-apos-16-anos-resultado-claro/",
           "publishedOn": "2026-04-12T20:17:02.000Z",
-          "wordCount": 2962,
+          "wordCount": 2958,
           "title": "Orbán reconhece derrota e deixa poder na Hungria após 16 anos: ‘resultado claro’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-12-at-16.59.50.jpeg"
         },
@@ -565,7 +565,7 @@
           "description": "A participação brasileira na etapa de Tashkent (Uzbequistão) da Copa do Mundo de Ginástica Rítmica chegou ao fim com duas medalhas. Neste domingo (12/04), a capixaba Geovanna Santos, a Jojô, conquistou o bronze na exibição com a fita. Já no conjunto, a série mista – em que as atletas se apresentam com três arcos e […]\nO post Brasil conquista duas medalhas na Copa do Mundo de ginástica rítmica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-conquista-duas-medalhas-na-copa-do-mundo-de-ginastica-ritmica/",
           "publishedOn": "2026-04-12T19:46:16.000Z",
-          "wordCount": 3006,
+          "wordCount": 2954,
           "title": "Brasil conquista duas medalhas na Copa do Mundo de ginástica rítmica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/brasil_disputa_cinco_finais_em_copa_do_mundo_de_ginastica_ritmica.webp"
         },
@@ -575,7 +575,7 @@
           "description": "O ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, de extrema-direita, invadiu o complexo da Mesquita de Al-Aqsa na Cidade Velha de Jerusalém Oriental ocupada — a terceira incursão no terceiro local mais sagrado do Islã neste ano — enquanto o exército de Tel Aviv prendia pelo menos 18 palestinos na Cisjordânia ocupada neste domingo […]\nO post Grupos repudiam invasão da Mesquita de Al-Aqsa promovida por Ben-Gvir apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/grupos-repudiam-invasao-da-mesquita-de-al-aqsa-promovida-por-ben-gvir/",
           "publishedOn": "2026-04-12T19:22:57.000Z",
-          "wordCount": 3486,
+          "wordCount": 3434,
           "title": "Grupos repudiam invasão da Mesquita de Al-Aqsa promovida por Ben-Gvir",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1280px-jerusalem_dome_of_the_rock_bw_3.jpg"
         },
@@ -585,7 +585,7 @@
           "description": "O presidente russo, Vladimir Putin, conversou por telefone neste domingo (12/04) com seu homólogo iraniano, Masoud Pezeshkian, sobre os últimos acontecimentos no Oriente Médio, informou o Kremlin. “O presidente iraniano valorizou as negociações entre o Irã e os EUA realizadas em 11 de abril em Islamabad e expressou seu apreço pela postura de princípio da […]\nO post Putin liga para presidente do Irã e reafirma compromisso com país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/putin-liga-para-presidente-do-ira-e-reafirma-compromisso-com-pais/",
           "publishedOn": "2026-04-12T19:00:05.000Z",
-          "wordCount": 2758,
+          "wordCount": 2756,
           "title": "Putin liga para presidente do Irã e reafirma compromisso com país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/image.png"
         },
@@ -595,7 +595,7 @@
           "description": "O Ministério das Relações Exteriores da Turquia condenou fortemente o primeiro-ministro israelense Benjamin Netanyahu, descrevendo-o como uma figura responsável por crimes graves e acusando-o de tentar sabotar os esforços de paz na região para evitar consequências legais. Em um comunicado divulgado no sábado (11), o ministério afirmou que Netanyahu “tem sido descrito como o Hitler […]\nO post Turquia condena Netanyahu e o descreve como ‘Hitler de nosso tempo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/turquia-condena-netanyahu-e-o-descreve-como-hitler-de-nosso-tempo/",
           "publishedOn": "2026-04-12T18:10:23.000Z",
-          "wordCount": 3153,
+          "wordCount": 3151,
           "title": "Turquia condena Netanyahu e o descreve como ‘Hitler de nosso tempo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/3dbef732-0f9f-4d14-baee-201382ae4cb4-netag.webp"
         },
@@ -605,7 +605,7 @@
           "description": "A Global Sumud Flotilla partiu neste domingo (12/04) de Barcelona com destino a Gaza, em uma nova missão internacional que busca romper o cerco imposto por Israel e levar ajuda humanitária ao povo palestino. A iniciativa reúne centenas de ativistas, médicos, advogados e jornalistas de dezenas de países, que transportam alimentos, medicamentos e expressam, sobretudo, […]\nO post Flotilha parte rumo a Gaza em terceira tentativa de romper cerco israelense apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/flotilha-parte-rumo-a-gaza-em-terceira-tentativa-de-romper-cerco-israelense/",
           "publishedOn": "2026-04-12T17:20:21.000Z",
-          "wordCount": 3164,
+          "wordCount": 3162,
           "title": "Flotilha parte rumo a Gaza em terceira tentativa de romper cerco israelense",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-12-at-13.29.53.jpeg"
         },
@@ -615,7 +615,7 @@
           "description": "O Bar Partisan, no centro do Rio de Janeiro, foi palco de um encontro, na noite deste sábado (11/04), contra a criminalização da causa palestina. O evento reuniu grande público e teve casa cheia e foi convocado após a repercussão do caso no qual o mesmo estabelecimento foi punido com uma multa, por ter colocado […]\nO post Encontro contra criminalização da causa palestina lota Bar Partisan, no Rio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/encontro-contra-criminalizacao-da-causa-palestina-lota-bar-partisan-no-rio/",
           "publishedOn": "2026-04-12T16:30:56.000Z",
-          "wordCount": 3386,
+          "wordCount": 3434,
           "title": "Encontro contra criminalização da causa palestina lota Bar Partisan, no Rio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/partisan-2.jpg"
         },
@@ -625,37 +625,11 @@
           "description": "Mais de 5.000 pessoas se manifestaram neste sábado (11/04) em Tel Aviv e centenas em pelo menos 16 outros locais em Israel para exigir o fim da guerra regional. A organização pacifista Standing Together convocou as manifestações em cidades como Jerusalém e Haifa, marcando os primeiros protestos desde a entrada em vigor do cessar-fogo com […]\nO post Milhares protestam em Israel contra guerra enquanto bombardeios continuam no Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/milhares-protestam-em-israel-contra-guerra-enquanto-bombardeios-continuam-no-libano/",
           "publishedOn": "2026-04-12T15:30:14.000Z",
-          "wordCount": 3060,
+          "wordCount": 3058,
           "title": "Milhares protestam em Israel contra guerra enquanto bombardeios continuam no Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfpbvsnw0aeki7n.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251826",
-          "author": "Tabitha Ramalho",
-          "description": "As urnas abriram na Hungria para as eleições parlamentares deste domingo (12/04), em meio a intensa controvérsia em torno das acusações de interferência estrangeira contra o primeiro-ministro Viktor Orbán. As eleições estão sendo acompanhadas de perto em todo o mundo devido à postura independente de Budapeste no conflito russo-ucraniano, entre outras questões internacionais, o que […]\nO post Hungria vai às urnas em eleição decisiva marcada por acusações de interferência estrangeira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/hungria-vai-as-urnas-em-eleicao-decisiva-marcada-por-acusacoes-de-interferencia-estrangeira/",
-          "publishedOn": "2026-04-12T14:32:03.000Z",
-          "wordCount": 4717,
-          "title": "Hungria vai às urnas em eleição decisiva marcada por acusações de interferência estrangeira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfshd6bxcaey7eu-1-scaled-e1776004290454.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251820",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente do Parlamento iraniano, Mohammad Bagher Ghalibaf, que liderou a delegação de seu país nas negociações com os EUA no Paquistão, declarou neste domingo (12/04) que Washington “não conseguiu conquistar a confiança” de Teerã. Por meio de sua conta no X, o negociador-chefe reiterou que, “devido às experiências das duas guerras anteriores”, Teerã desconfia […]\nO post ‘EUA não conquistaram nossa confiança’, afirma Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-nao-conquistaram-nossa-confianca-afirma-ira/",
-          "publishedOn": "2026-04-12T13:59:20.000Z",
-          "wordCount": 3609,
-          "title": "‘EUA não conquistaram nossa confiança’, afirma Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfn-exbakaa9t4u.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -984,16 +958,6 @@
           "wordCount": 13477,
           "title": "Educação e violência: da sala de aula à “Hora do Recreio”",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-37.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63525",
-          "author": "Boitempo",
-          "description": "Erik Gomes: \"O que está em jogo é a própria configuração da classe trabalhadora contemporânea, fragmentada, dispersa, submetida a formas múltiplas e combinadas de subordinação que vão do chão da fábrica ao algoritmo, do contrato de experiência à pejotização compulsória. A pergunta que a mobilização contra a escala 6x1 recoloca, sob forma popular e concreta, é a mesma que atravessa toda a tradição crítica da economia política: quem controla o tempo social?\"",
-          "link": "https://blogdaboitempo.com.br/2026/04/08/a-nova-luta-de-classes-e-uma-luta-pelo-tempo-da-escala-6x1-a-gestao-algoritmica-da-vida/",
-          "publishedOn": "2026-04-08T11:00:00.000Z",
-          "wordCount": 14483,
-          "title": "A nova luta de classes é uma luta pelo tempo: da escala 6×1 à gestão algorítmica da vida",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/04/image-24-edited.png?fit=1200%2C900&ssl=1"
         }
       ]
     }
