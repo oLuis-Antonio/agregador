@@ -345,26 +345,6 @@
           "wordCount": null,
           "title": "Jovem que foi esfaqueada 15 vezes em tentativa de feminicídio convoca a luta por justiça",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Rio-sem-governador-a-podridao-do-regime-politico-do-RJ",
-          "author": "Carolina Cacau",
-          "description": "A vacância no cargo de governador do Estado do Rio de Janeiro, a disputa em torno das eleições direta ou indireta, expressam uma enorme crise política e o quão podre é o regime político carioca.\n08-04-2026\n\n/ Política, Rio de Janeiro, Eleições Rio de Janeiro, Crise no Rio de Janeiro, Crise política, Eduardo Paes, Cláudio Castro",
-          "link": "https://www.esquerdadiario.com.br/Rio-sem-governador-a-podridao-do-regime-politico-do-RJ",
-          "publishedOn": "2026-04-08T19:13:24.000Z",
-          "wordCount": null,
-          "title": "Rio sem governador: a podridão do regime político do RJ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Mais-de-2-500-professores-votaram-greve-em-Curitiba-todo-o-apoio-aos-educadores-contra-a",
-          "author": "Redação",
-          "description": "No dia de hoje (8) deu-se início uma greve de professores da rede pública em Curitiba, aprovada ontem (7) em uma assembleia on-line com mais de 2.500 trabalhadores da educação, que buscam melhores condições de ensino e trabalho se enfrentando diretamente com a prefeitura, o governo de Ratinho Jr. e o judiciário paranense, que busca rechaçar a greve a considerando ilegal. \n A situação do ensino público em Curitiba é precária. Há mais de uma década, os professores não têm avanço na carreira, (…)\n08-04-2026\n\n/ Educação, Greve professores Paraná, Paraná, Greve de professores, Curitiba",
-          "link": "https://www.esquerdadiario.com.br/Mais-de-2-500-professores-votaram-greve-em-Curitiba-todo-o-apoio-aos-educadores-contra-a",
-          "publishedOn": "2026-04-08T19:05:09.000Z",
-          "wordCount": null,
-          "title": "Mais de 2.500 professores votaram greve em Curitiba: todo o apoio aos educadores contra a precarização do ensino e do trabalho!",
-          "imageUrl": null
         }
       ]
     },
@@ -374,12 +354,27 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=442346",
+          "author": "Isabella Mota",
+          "description": "Endividamento, inadimplência e falta de perspectiva de mudanças para os jovens estão entre os fatores que têm feito a insatisfação com o governo Lula crescer.\nO post Endividamento das famílias e frustração da juventude impactam popularidade de Lula apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/04/13/endividamento-das-familias-popularidade-de-lula/",
+          "publishedOn": "2026-04-13T10:00:00.000Z",
+          "wordCount": 3823,
+          "title": "Endividamento das famílias e frustração da juventude impactam popularidade de Lula",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/04/Header.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/04/Header.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=442355",
           "author": "Bianca Pyl",
           "description": "Proposta apresentada pela deputada confunde antissionismo com antissemitismo para calar críticas às ações do governo de Benjamin Netanyahu em Israel\nO post O projeto de Tabata Amaral e o fascismo que não pode ser nomeado apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/11/tabata-amaral-fascismo-que-nao-pode-ser-nomeado/",
           "publishedOn": "2026-04-11T10:00:00.000Z",
-          "wordCount": 3198,
+          "wordCount": 3174,
           "title": "O projeto de Tabata Amaral e o fascismo que não pode ser nomeado",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Wando.jpg",
@@ -409,7 +404,7 @@
           "description": "Conflitos que envolvem exclusão do acesso a fontes de energia, como os ataques de Estados Unidos e Israel ao Irã, produzem uma crise orquestrada para dominar a periferia global. O Brasil não está imune.\nO post Quando a falta de energia é projeto de poder apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/09/quando-a-falta-de-energia-e-projeto-de-poder/",
           "publishedOn": "2026-04-09T10:00:00.000Z",
-          "wordCount": 5077,
+          "wordCount": 5113,
           "title": "Quando a falta de energia é projeto de poder",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.png",
@@ -444,16 +439,6 @@
           "wordCount": 6081,
           "title": "‘Deixaram ela pedindo socorro, agonizando’, denuncia companheiro de mulher morta pela PM em SP",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/Caso-Thawanna.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=159469",
-          "author": "Paulo Batistella",
-          "description": "Estado teve três mulheres vítimas de morte decorrente de intervenção policial em um mesmo mês, algo sem precedentes desde 2013. Gestão Tarcísio teve alta da letalidade policial contra mulheres e concentra 39% dos casos já registrados\nO conteúdo Fevereiro é o mês com mais mulheres mortas pelas polícias de SP em ao menos 14 anos Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/fevereiro-e-o-mes-com-mais-mulheres-mortas-pelas-policias-de-sp-em-ao-menos-14-anos/",
-          "publishedOn": "2026-04-08T19:48:56.000Z",
-          "wordCount": 6379,
-          "title": "Fevereiro é o mês com mais mulheres mortas pelas polícias de SP em ao menos 14 anos",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/policia-militar-sp-formacao.jpg.webp"
         }
       ]
     },
@@ -500,12 +485,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=251866",
+          "author": "Tabitha Ramalho",
+          "description": "O Escritório Nacional de Processos Eleitorais do Peru já divulgou os primeiros resultados das eleições gerais realizadas no domingo (12/04), que definirão o próximo presidente para o mandato de 2026-2031. De acordo com os números, com 48,41% das urnas apuradas, Filha do ditador Alberto Fujimori, Keiko Fujimori, do partido Fuerza Popular, lidera com 17% dos […]\nO post Eleições no Peru: direitistas Keiko Fujimori e Rafael Aliaga lideram disputa para segundo turno apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/eleicoes-no-peru-direitistas-keiko-fujimori-e-rafael-aliaga-lideram-disputa-para-segundo-turno/",
+          "publishedOn": "2026-04-13T09:53:29.000Z",
+          "wordCount": 3066,
+          "title": "Eleições no Peru: direitistas Keiko Fujimori e Rafael Aliaga lideram disputa para segundo turno",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/copia-de-nao-deletar-fotos-pb-breno-redacao-2-1.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=251861",
           "author": "Victor Farinelli",
           "description": "As pesquisas de boca de urna sobre o primeiro turno das eleições presidenciais do Peru, que foi realizado neste domingo (12/04), apontam a candidata de extrema direita Keiko Fujimori, do partido Força Popular, como a candidatura com mais chance de chegar ao segundo turno. Duas medições foram divulgadas logo após o fechamento das urnas, por […]\nO post Boca de urna indica Keiko Fujimori em segundo turno no Peru contra adversário indefinido apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/boca-de-urna-indica-keiko-fujimori-em-segundo-turno-no-peru-contra-adversario-indefinido/",
           "publishedOn": "2026-04-13T01:47:55.000Z",
-          "wordCount": 3256,
+          "wordCount": 3266,
           "title": "Boca de urna indica Keiko Fujimori em segundo turno no Peru contra adversário indefinido",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/keiko.jpg"
         },
@@ -515,7 +510,7 @@
           "description": "O Peru vivenciou um dia de eleições neste domingo (12/04) marcado por longas filas e atrasos na votação devido à abertura tardia das seções eleitorais. Cidadãos reunidos em seções eleitorais em diversos distritos, tanto da classe trabalhadora quanto da classe alta, expressaram sua indignação com a situação, relatando esperas de 20 a 30 minutos e […]\nO post Peruanos sofrem com filas e atrasos em eleição presidencial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peruanos-sofrem-com-filas-e-atrasos-em-eleicao-presidencial/",
           "publishedOn": "2026-04-12T20:59:49.000Z",
-          "wordCount": 3333,
+          "wordCount": 3343,
           "title": "Peruanos sofrem com filas e atrasos em eleição presidencial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hft6nklxeaazfrc.jpg"
         },
@@ -525,7 +520,7 @@
           "description": "O primeiro-ministro da Hungria, Viktor Orbán, reconheceu a derrota nas eleições deste domingo (12/04), após as primeiras apurações mostrarem uma ampla vantagem do líder oposicionista de centro-direita, Péter Magyar, cujo partido — o Partido pelo Respeito e pela Liberdade (Tisza) — dominava a Assembleia Nacional com mais de dois terços das cadeiras. “O resultado das […]\nO post Orbán reconhece derrota e deixa poder na Hungria após 16 anos: ‘resultado claro’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/orban-reconhece-derrota-e-deixa-poder-na-hungria-apos-16-anos-resultado-claro/",
           "publishedOn": "2026-04-12T20:17:02.000Z",
-          "wordCount": 2958,
+          "wordCount": 2965,
           "title": "Orbán reconhece derrota e deixa poder na Hungria após 16 anos: ‘resultado claro’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-12-at-16.59.50.jpeg"
         },
@@ -535,7 +530,7 @@
           "description": "A participação brasileira na etapa de Tashkent (Uzbequistão) da Copa do Mundo de Ginástica Rítmica chegou ao fim com duas medalhas. Neste domingo (12/04), a capixaba Geovanna Santos, a Jojô, conquistou o bronze na exibição com a fita. Já no conjunto, a série mista – em que as atletas se apresentam com três arcos e […]\nO post Brasil conquista duas medalhas na Copa do Mundo de ginástica rítmica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-conquista-duas-medalhas-na-copa-do-mundo-de-ginastica-ritmica/",
           "publishedOn": "2026-04-12T19:46:16.000Z",
-          "wordCount": 3004,
+          "wordCount": 3011,
           "title": "Brasil conquista duas medalhas na Copa do Mundo de ginástica rítmica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/brasil_disputa_cinco_finais_em_copa_do_mundo_de_ginastica_ritmica.webp"
         },
@@ -545,7 +540,7 @@
           "description": "O ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, de extrema-direita, invadiu o complexo da Mesquita de Al-Aqsa na Cidade Velha de Jerusalém Oriental ocupada — a terceira incursão no terceiro local mais sagrado do Islã neste ano — enquanto o exército de Tel Aviv prendia pelo menos 18 palestinos na Cisjordânia ocupada neste domingo […]\nO post Grupos repudiam invasão da Mesquita de Al-Aqsa promovida por Ben-Gvir apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/grupos-repudiam-invasao-da-mesquita-de-al-aqsa-promovida-por-ben-gvir/",
           "publishedOn": "2026-04-12T19:22:57.000Z",
-          "wordCount": 3484,
+          "wordCount": 3491,
           "title": "Grupos repudiam invasão da Mesquita de Al-Aqsa promovida por Ben-Gvir",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1280px-jerusalem_dome_of_the_rock_bw_3.jpg"
         },
@@ -555,7 +550,7 @@
           "description": "O presidente russo, Vladimir Putin, conversou por telefone neste domingo (12/04) com seu homólogo iraniano, Masoud Pezeshkian, sobre os últimos acontecimentos no Oriente Médio, informou o Kremlin. “O presidente iraniano valorizou as negociações entre o Irã e os EUA realizadas em 11 de abril em Islamabad e expressou seu apreço pela postura de princípio da […]\nO post Putin liga para presidente do Irã e reafirma compromisso com país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/putin-liga-para-presidente-do-ira-e-reafirma-compromisso-com-pais/",
           "publishedOn": "2026-04-12T19:00:05.000Z",
-          "wordCount": 2756,
+          "wordCount": 2763,
           "title": "Putin liga para presidente do Irã e reafirma compromisso com país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/image.png"
         },
@@ -565,7 +560,7 @@
           "description": "O Ministério das Relações Exteriores da Turquia condenou fortemente o primeiro-ministro israelense Benjamin Netanyahu, descrevendo-o como uma figura responsável por crimes graves e acusando-o de tentar sabotar os esforços de paz na região para evitar consequências legais. Em um comunicado divulgado no sábado (11), o ministério afirmou que Netanyahu “tem sido descrito como o Hitler […]\nO post Turquia condena Netanyahu e o descreve como ‘Hitler de nosso tempo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/turquia-condena-netanyahu-e-o-descreve-como-hitler-de-nosso-tempo/",
           "publishedOn": "2026-04-12T18:10:23.000Z",
-          "wordCount": 3151,
+          "wordCount": 3158,
           "title": "Turquia condena Netanyahu e o descreve como ‘Hitler de nosso tempo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/3dbef732-0f9f-4d14-baee-201382ae4cb4-netag.webp"
         },
@@ -575,7 +570,7 @@
           "description": "A Global Sumud Flotilla partiu neste domingo (12/04) de Barcelona com destino a Gaza, em uma nova missão internacional que busca romper o cerco imposto por Israel e levar ajuda humanitária ao povo palestino. A iniciativa reúne centenas de ativistas, médicos, advogados e jornalistas de dezenas de países, que transportam alimentos, medicamentos e expressam, sobretudo, […]\nO post Flotilha parte rumo a Gaza em terceira tentativa de romper cerco israelense apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/flotilha-parte-rumo-a-gaza-em-terceira-tentativa-de-romper-cerco-israelense/",
           "publishedOn": "2026-04-12T17:20:21.000Z",
-          "wordCount": 3162,
+          "wordCount": 3169,
           "title": "Flotilha parte rumo a Gaza em terceira tentativa de romper cerco israelense",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-12-at-13.29.53.jpeg"
         },
@@ -585,19 +580,9 @@
           "description": "O Bar Partisan, no centro do Rio de Janeiro, foi palco de um encontro, na noite deste sábado (11/04), contra a criminalização da causa palestina. O evento reuniu grande público e teve casa cheia e foi convocado após a repercussão do caso no qual o mesmo estabelecimento foi punido com uma multa, por ter colocado […]\nO post Encontro contra criminalização da causa palestina lota Bar Partisan, no Rio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/encontro-contra-criminalizacao-da-causa-palestina-lota-bar-partisan-no-rio/",
           "publishedOn": "2026-04-12T16:30:56.000Z",
-          "wordCount": 3434,
+          "wordCount": 3441,
           "title": "Encontro contra criminalização da causa palestina lota Bar Partisan, no Rio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/partisan-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251830",
-          "author": "Tabitha Ramalho",
-          "description": "Mais de 5.000 pessoas se manifestaram neste sábado (11/04) em Tel Aviv e centenas em pelo menos 16 outros locais em Israel para exigir o fim da guerra regional. A organização pacifista Standing Together convocou as manifestações em cidades como Jerusalém e Haifa, marcando os primeiros protestos desde a entrada em vigor do cessar-fogo com […]\nO post Milhares protestam em Israel contra guerra enquanto bombardeios continuam no Líbano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/milhares-protestam-em-israel-contra-guerra-enquanto-bombardeios-continuam-no-libano/",
-          "publishedOn": "2026-04-12T15:30:14.000Z",
-          "wordCount": 3108,
-          "title": "Milhares protestam em Israel contra guerra enquanto bombardeios continuam no Líbano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfpbvsnw0aeki7n.jpg"
         }
       ]
     },
@@ -892,7 +877,7 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=63513",
           "author": "Boitempo",
-          "description": "João Pedro Piza e Vitor Forini Lima: \"Pensar o jornalismo como prática dialógica exige abandonar a ideia de diálogo como harmonia, consenso ou simples soma de vozes. O diálogo, aqui, não se confunde com interação nem com engajamento. Comentários, curtidas e compartilhamentos não constituem, por si só, práticas dialógicas. Tampouco o pluralismo formal – entendido como a equivalência entre posições estruturalmente desiguais – garante diálogo democrático.\"",
+          "description": "João Pedro Piza e Vitor Forini Lima: \"Pensar o jornalismo como prática dialógica exige abandonar a ideia de diálogo como harmonia, consenso ou simples soma de vozes. O diálogo, aqui, não se confunde com interação nem com engajamento. Comentários, curtidas e compartilhamentos não constituem, por si só, práticas dialógicas. Tampouco o pluralismo formal – entendido como a equivalência entre posições estruturalmente desiguais – garante diálogo democrático.\" … Continue lendo →",
           "link": "https://blogdaboitempo.com.br/2026/04/10/o-jornalismo-alternativo-como-alternativa/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
           "wordCount": 12514,
@@ -902,7 +887,7 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=63462",
           "author": "Boitempo",
-          "description": "Breno Mendoza entrevista a candidata à deputada peruana Milagros Samillán: \"O que buscamos, como familiares, é que nenhum dos culpados fique impune, como ocorreu com Alberto Fujimori – que não sejamos obrigados a ver nossos entes queridos partirem sem que a justiça seja feita. Essa é a luta que travamos: garantir que nunca mais se repitam assassinatos como os que vêm ocorrendo ano após ano.\"",
+          "description": "Breno Mendoza entrevista a candidata à deputada peruana Milagros Samillán: \"O que buscamos, como familiares, é que nenhum dos culpados fique impune, como ocorreu com Alberto Fujimori – que não sejamos obrigados a ver nossos entes queridos partirem sem que a justiça seja feita. Essa é a luta que travamos: garantir que nunca mais se repitam assassinatos como os que vêm ocorrendo ano após ano.\" … Continue lendo →",
           "link": "https://blogdaboitempo.com.br/2026/04/10/entre-massacres-e-eleicoes-a-voz-indigena-do-sul-andino-com-milagros-samillan/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
           "wordCount": 14500,
@@ -912,7 +897,7 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=62801",
           "author": "Boitempo",
-          "description": "Mouzar Benedito reúne um bom punhado de frases sobre gente pedante, soberba, enfatuada, fumosa, panturra... e outros nomes mais!",
+          "description": "Mouzar Benedito reúne um bom punhado de frases sobre gente pedante, soberba, enfatuada, fumosa, panturra... e outros nomes mais! … Continue lendo →",
           "link": "https://blogdaboitempo.com.br/2026/04/10/cultura-inutil-arrogantes-cada-vez-mais-abundantes/",
           "publishedOn": "2026-04-10T11:00:00.000Z",
           "wordCount": 12095,
@@ -922,7 +907,7 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=63209",
           "author": "Boitempo",
-          "description": "Matheus Cosmo escreve sobre \"Hora do Recreio\", documentário de Lucia Murat: \"Hora do Recreio revela ao espectador que a incorporação discursiva das pautas progressistas ainda não alterou a materialidade dos processos sociais, que são mesmo historicamente lentos e demorados. Por ora, conseguimos conviver muito bem juntando bandeiras de diversidade e acolhimento a práticas de exclusão e silenciamento.\"",
+          "description": "Matheus Cosmo escreve sobre \"Hora do Recreio\", documentário de Lucia Murat: \"Hora do Recreio revela ao espectador que a incorporação discursiva das pautas progressistas ainda não alterou a materialidade dos processos sociais, que são mesmo historicamente lentos e demorados. Por ora, conseguimos conviver muito bem juntando bandeiras de diversidade e acolhimento a práticas de exclusão e silenciamento.\" … Continue lendo →",
           "link": "https://blogdaboitempo.com.br/2026/04/09/educacao-e-violencia-da-sala-de-aula-a-hora-do-recreio/",
           "publishedOn": "2026-04-09T11:00:00.000Z",
           "wordCount": 13477,
