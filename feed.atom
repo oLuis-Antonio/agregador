@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T06:05:55.388Z</id>
+    <id>urn:2026-04-14T09:27:18.864Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-04-14T06:05:55.388Z</updated>
+    <updated>2026-04-14T09:27:18.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[O futebol, a memória e o cemitério]]></title>
+        <id>https://passapalavra.info/?p=158984</id>
+        <link href="https://passapalavra.info/2026/04/158984/"/>
+        <updated>2026-04-14T08:55:23.000Z</updated>
+        <summary type="html"><![CDATA[O leitor deve estar se perguntando sobre o futebol e o cemitério, presentes no título da coluna. Então, vamos lá. Por Jan Cenek]]></summary>
+        <author>
+            <name>Edinilson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SP: É hora de unir as lutas e derrotar Tarcísio de Freitas]]></title>
         <id>https://www.opiniaosocialista.com.br/?p=105813</id>
@@ -988,27 +998,6 @@ O post A Frente Ampla e a intervenção no PT do Rio Grande do Sul apareceu prim
 O post Aceita pix? apareceu primeiro em Opinião Socialista.]]></summary>
         <author>
             <name>Érika Andreassy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Censo Escolar registra queda de 1 milhão de matrículas no ensino básico]]></title>
-        <id>hRu2p8</id>
-        <link href="https://jornalofuturo.com.br/artigo/hRu2p8-censo-escolar-registra-queda-de-1-milhao-de-matriculas-no-ensino-basico"/>
-        <updated>2026-04-09T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Governo de São Paulo, estado responsável pela maior parte desse número, alega problema no método de contabilização.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justiça pede buscas contra única testemunha e família de pichador morto pela PM no interior de SP]]></title>
-        <id>https://ponte.org/?p=159546</id>
-        <link href="https://ponte.org/justica-pede-buscas-contra-unica-testemunha-e-familia-de-pichador-morto-pela-pm-no-interior-de-sp/"/>
-        <updated>2026-04-09T19:47:26.000Z</updated>
-        <summary type="html"><![CDATA[A pedido do MPSP, mandados autorizam apreensão de celulares e busca por "armas de fogo e munições" contra pessoas próximas à vítima. Policiais militares que assumiram o caso nunca foram alvos de medidas parecidas na investigação
-O conteúdo Justiça pede buscas contra única testemunha e família de pichador morto pela PM no interior de SP Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Catarina Duarte</name>
         </author>
     </entry>
 </feed>
