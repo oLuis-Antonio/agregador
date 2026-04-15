@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "OIroZS",
+          "author": null,
+          "description": "Secundaristas disputam O Futuro no 46° CONUBES, que ocorrerá entre os dias 16 e 19 de abril, em São Bernardo do Campo (SP).",
+          "link": "https://jornalofuturo.com.br/artigo/OIroZS-retomar-a-ubes-para-a-luta",
+          "publishedOn": "2026-04-15T15:00:00.000Z",
+          "wordCount": 2694,
+          "title": "Retomar a UBES para a luta!",
+          "imageUrl": "https://media.jornalofuturo.com.br/ujc_eng_niteroi-1200x1600.jpg"
+        },
+        {
           "id": "WEDkgc",
           "author": null,
           "description": "Prevista para entrar em vigor em três semanas, a alteração de escala gerará prejuízos financeiros e sociais aos servidores. A mobilização é uma resposta a tentativa da gestão Barros e da Secretaria de Saúde em alterar a escala de trabalho.",
@@ -94,16 +104,6 @@
           "wordCount": 3636,
           "title": "Funcionários da USP paralisam atividades frente à falta de reajustes e gratificação a docentes",
           "imageUrl": "https://media.jornalofuturo.com.br/paralisacaousp3103-957x655.jpg"
-        },
-        {
-          "id": "0UbMVo",
-          "author": null,
-          "description": "Governo federal de Lula e estados coordenam projeto unificado de entrega do patrimônio nacional para garantir as taxas de lucros dos setores empresariais.",
-          "link": "https://jornalofuturo.com.br/artigo/0UbMVo-privatizacoes-no-brasil-um-relatorio-inicial-sobre-a-transferencia-de-valores-para-o-setor-privado",
-          "publishedOn": "2026-04-11T15:00:00.000Z",
-          "wordCount": 3087,
-          "title": "Privatizações no Brasil: um relatório inicial sobre a transferência de valores para o setor privado",
-          "imageUrl": "https://media.jornalofuturo.com.br/privatiza%C3%83%C2%A7%C3%83%C2%B5escsn-695x466.jpg"
         }
       ]
     },
@@ -113,12 +113,32 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61208",
+          "author": "Gabriela Torres",
+          "description": "2.800 pessoas foram mortas no Paraná como resultado da política fascista de Ratinho Júnior e da polícia militar contra a juventude periférica. A pré-candidatura à presidência de Samara Martins da Unidade Popular pelo socialismo deve ser a resposta do povo contra essa violência. André Peixe e Davi Duarte | Redação Paraná LUTA POPULAR – Na […]",
+          "link": "https://averdade.org.br/2026/04/violencia-policial-marca-governo-ratinho-junior-no-parana/",
+          "publishedOn": "2026-04-15T16:41:33.000Z",
+          "wordCount": 6923,
+          "title": "Violência policial marca governo Ratinho Júnior no Paraná",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/rato-maldito.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61277",
+          "author": "Clóvis Maia",
+          "description": "Passadas as primeiras mobilizações e levantes populares, a classe operária brasileira, cada vez mais numerosa e tomando consciência de sua importância para a construção da nação, continua as lutas de maneira cada vez mais organizada. Esse é o quarto capítulo da série “A história oficial Versus as lutas do proletariado brasileiro” exclusiva para o jornal […]",
+          "link": "https://averdade.org.br/2026/04/lutas-populares-no-brasil-1906-1910-a-classe-operaria-comeca-sua-organizacao/",
+          "publishedOn": "2026-04-15T14:48:50.000Z",
+          "wordCount": 7713,
+          "title": "Lutas Populares no Brasil (1906-1910): a classe operária começa sua organização",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/greve-ferroviaria-1908.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61267",
           "author": "Jesse Lisboa",
           "description": "Com o objetivo de transformar a indignação popular em organização revolucionária do povo nas periferias, o MLB propõe a intensificação do trabalho de base através das Plenárias do Socialismo, da circulação do jornal A Verdade e de escolas de formação. Coordenação Nacional do MLB LUTA POPULAR – A cada dia, tornam-se mais evidentes as contradições […]",
           "link": "https://averdade.org.br/2026/04/organizar-o-povo-pobre-nas-periferias-e-uma-tarefa-do-mlb/",
           "publishedOn": "2026-04-13T02:05:42.000Z",
-          "wordCount": 7014,
+          "wordCount": 7012,
           "title": "Organizar o povo pobre nas periferias é uma tarefa do MLB",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/09/IMG_7592.jpg"
         },
@@ -128,7 +148,7 @@
           "description": "Com um déficit de sete milhões de moradias, aumento no preço dos aluguéis e cerca de 49 milhões de pessoas vivendo em condições inadequadas, o Brasil enfrenta crise onde o direito à cidade é sufocado pela especulação imobiliária e pela lógica do lucro. Vitória Rodrigues | Belém (PA) LUTA POPULAR – Em entrevista recente, o […]",
           "link": "https://averdade.org.br/2026/04/trabalhadores-sao-os-que-mais-sofrem-com-o-aumento-no-preco-dos-alugueis/",
           "publishedOn": "2026-04-13T01:42:56.000Z",
-          "wordCount": 7032,
+          "wordCount": 7019,
           "title": "Trabalhadores são os que mais sofrem com o aumento no preço dos aluguéis",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P8-_-especulacao.jpg"
         },
@@ -138,7 +158,7 @@
           "description": "No último dia 26 de março, milhares de estudantes secundaristas ocuparam as ruas das principais capitais brasileiras em uma jornada de lutas que homenageou o legado de Edson Luís, assassinado pela ditadura militar em 1968. Yasmin Farias (Rebele-se) e Daniel Tito (Fenet) JUVENTUDE – No dia 26 de março, milhares de estudantes foram às ruas […]",
           "link": "https://averdade.org.br/2026/04/edson-luis-e-homenageado-em-protestos-por-melhorias-nas-escolas-publicas/",
           "publishedOn": "2026-04-12T23:24:56.000Z",
-          "wordCount": 7347,
+          "wordCount": 7337,
           "title": "Edson Luís é homenageado em protestos por melhorias nas escolas públicas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P7-_-atos-26M.jpg"
         },
@@ -148,7 +168,7 @@
           "description": "Onze meses após o assassinato de Barbara Kelly, o terror nas comunidades pobres com a violência policial retornou à mesma rua com a execução de Richardson, de 23 anos. Júlio Lira | Natal (RN) BRASIL – No último dia 12 de março, completaram-se 11 meses do assassinato de Barbara Kelly, trabalhadora 6×1 morta na frente […]",
           "link": "https://averdade.org.br/2026/04/terror-nas-comunidades-pobres-do-brasil-e-projeto-politico-da-burguesia/",
           "publishedOn": "2026-04-12T23:09:19.000Z",
-          "wordCount": 6706,
+          "wordCount": 6696,
           "title": "Terror nas comunidades pobres do Brasil é projeto político da burguesia",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/ISABELLA-TANAJURA.jpg"
         },
@@ -158,7 +178,7 @@
           "description": "As fortes chuvas que atingiram a Zona da Mata Mineira no último mês deixaram um rastro de mais de 70 mortos e 8 mil desabrigados, concentrados especialmente em Juiz de Fora e Ubá. Manoel Vieira | Belo Horizonte (MG) BRASIL – No último mês, Minas Gerais foi atingida por fortes chuvas, principalmente na Zona da […]",
           "link": "https://averdade.org.br/2026/04/negligencia-do-estado-deixa-mortos-e-desabrigados-na-zona-da-mata-mineira/",
           "publishedOn": "2026-04-12T22:52:15.000Z",
-          "wordCount": 7232,
+          "wordCount": 7224,
           "title": "Negligência do Estado deixa mortos e desabrigados na Zona da Mata Mineira",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P6-_-Juiz-de-Fora-_-331.jpg"
         },
@@ -168,7 +188,7 @@
           "description": "Militantes do Movimento Luta de Classes (MLC) e da Unidade Popular (UP) ocuparam mais de 14 shoppings em todas as regiões do país nesta jornada de lutas contra a escala 6×1. Leonardo de Paula | São Paulo (SP) TRABALHADOR UNIDO – Dando continuidade à jornada de lutas contra a escala 6×1, que, no dia 4 […]",
           "link": "https://averdade.org.br/2026/04/trabalhadores-ocupam-shoppings-de-todo-o-pais-para-exigir-fim-da-escala-6x1/",
           "publishedOn": "2026-04-12T02:08:14.000Z",
-          "wordCount": 7127,
+          "wordCount": 7120,
           "title": "Trabalhadores ocupam shoppings de todo o país para exigir fim da escala 6×1",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P5-_-24M-POA.jpg"
         },
@@ -178,7 +198,7 @@
           "description": "As mais de 10 mil operárias da Guararapes, em Natal (RN), enfrentam um cenário de precarização que contrasta com o lucro milionário da maior fábrica de moda da América Latina. Redação RN TRABALHADOR UNIDO – A realidade imposta às operárias no Brasil é extremamente cruel: jornadas exaustivas, assédios, salários baixos, altas pressões por metas. No […]",
           "link": "https://averdade.org.br/2026/04/fabrica-guararapes-lucra-milhoes-enquanto-operarias-recebem-auxilio-alimentacao-de-40-reais/",
           "publishedOn": "2026-04-12T01:59:39.000Z",
-          "wordCount": 7043,
+          "wordCount": 7036,
           "title": "Fábrica Guararapes lucra milhões, enquanto operárias recebem auxílio-alimentação de 40 reais",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FABRICA-GUARARAPES.webp"
         },
@@ -188,29 +208,9 @@
           "description": "O setor de call center consolidou-se em 2025 como um dos principais eixos de adoecimento mental no Brasil, registrando mais de 40 mil afastamentos por transtornos psiquiátricos. Ignis Medina | Fortaleza (CE) TRABALHADOR UNIDO – Todos conhecemos companheiros, colegas, amigos ou familiares que trabalham em algum call center. Apesar de seus patrões estarem de bolsos […]",
           "link": "https://averdade.org.br/2026/04/trabalho-adoecido-e-luta-de-classes-no-call-center/",
           "publishedOn": "2026-04-12T01:53:08.000Z",
-          "wordCount": 7023,
+          "wordCount": 7016,
           "title": "Trabalho adoecido e luta de classes no call center",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P4-_-call-center.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61238",
-          "author": "Jesse Lisboa",
-          "description": "O governo de Donald Trump solicitou ao Congresso dos EUA um aporte de US$ 200 bilhões (cerca de R$ 1 trilhão) para financiar a escalada militar e a campanha de bombardeios contra o Irã pelos próximos quatro meses. Felipe Annunziata | Rio de Janeiro (RJ) INTERNACIONAL – Cerca de US$ 200 bilhões: esta é a […]",
-          "link": "https://averdade.org.br/2026/04/empresas-de-armas-lucram-bilhoes-com-bombardeios-no-oriente-medio/",
-          "publishedOn": "2026-04-12T01:46:53.000Z",
-          "wordCount": 6924,
-          "title": "Empresas de armas lucram bilhões com bombardeios no Oriente Médio",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P2-_-ISRAEL-1024x674.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61230",
-          "author": "Clóvis Maia",
-          "description": "Prédio histórico se encontra abandonado e é mostra de como nossa sociedade não preserva sua memória. Augusto Costa| Recife (PE) HISTÓRIA- O prédio localizado no bairro da Boa Vista foi palco de grandes batalhas pela educação e pela democracia na história de Pernambuco: foi graças a luta dos estudantes de engenharia que a primeira sede […]",
-          "link": "https://averdade.org.br/2026/04/antiga-escola-de-engenharia-de-pernambuco-esta-em-estado-de-abandono/",
-          "publishedOn": "2026-04-12T01:38:34.000Z",
-          "wordCount": 6759,
-          "title": "Antiga Escola de Engenharia de Pernambuco está em estado de abandono",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/escola-de-engenharia.png"
         }
       ]
     },
@@ -219,6 +219,26 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105831",
+          "author": "Atnágoras Lopes",
+          "description": "Atnágoras Lopes, diretor do Sindicato dos Trabalhadores da Construção Civil de Belém e da membro da direção nacional do PSTU Lula vem dialogando com líderes e presidentes de diversos países, além da imprensa nacional, sobre o tema dos minerais críticos e das terras raras. Em um discurso no exterior, como tem sido prática de seu […]\nO post Terras raras: Lula fala uma coisa lá fora e, aqui, seu governo faz outra! apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/terras-raras-lula-fala-uma-coisa-la-fora-e-aqui-seu-governo-faz-outra/",
+          "publishedOn": "2026-04-15T15:51:16.000Z",
+          "wordCount": 1647,
+          "title": "Terras raras: Lula fala uma coisa lá fora e, aqui, seu governo faz outra!",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/terras-raras-em-Minas-Gerais.png"
+        },
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=105824",
+          "author": "Rosi Pantoja, de Belém (PA)",
+          "description": "Esta cova em que estás, com palmos medida É a conta menor que tiraste em vida É a conta menor que tiraste em vida É de bom tamanho, nem largo nem fundo É a parte que te cabe deste latifúndio É a parte que te cabe deste latifúndio Não é cova grande, é cova medida […]\nO post Onde há agronegócio, há conflito: 30 anos do Massacre de Eldorado dos Carajás apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/onde-ha-agronegocio-ha-conflito-30-anos-do-massacre-de-eldorado-dos-carajas/",
+          "publishedOn": "2026-04-15T15:15:58.000Z",
+          "wordCount": 2413,
+          "title": "Onde há agronegócio, há conflito: 30 anos do Massacre de Eldorado dos Carajás",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/massacre-eldorado-dos-carajas.png"
+        },
         {
           "id": "https://www.opiniaosocialista.com.br/?p=105821",
           "author": "Renata França",
@@ -509,7 +529,7 @@
           "description": "Guerra de Trump ameaça expansão da indústria tecnológica e até negócios como a compra da Warner Bros., que dependem de recursos do Golfo.\nO post Guerra no Irã ameaça investimentos em IA e venda da Warner Bros apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/13/guerra-ira-investimentos-ia-warner-bros/",
           "publishedOn": "2026-04-13T20:59:00.000Z",
-          "wordCount": 4274,
+          "wordCount": 4304,
           "title": "Guerra no Irã ameaça investimentos em IA e venda da Warner Bros",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-guerra-ira-fundos-golfo-warner.png",
@@ -524,7 +544,7 @@
           "description": "Endividamento, inadimplência e falta de perspectiva de mudanças para os jovens estão entre os fatores que têm feito a insatisfação com o governo Lula crescer.\nO post Endividamento das famílias e frustração da juventude impactam popularidade de Lula apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/13/endividamento-das-familias-popularidade-de-lula/",
           "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": 3839,
+          "wordCount": 3809,
           "title": "Endividamento das famílias e frustração da juventude impactam popularidade de Lula",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header.jpg",
@@ -561,7 +581,7 @@
           "description": "SSP-SP não responde se soldado Matheus Almeida Rodrigues pode ter sido atingido por disparo acidental ou mesmo por ação de outro policial. Além do agente de 28 anos, outras três pessoas foram mortas na ocorrência em Sorocaba (SP)\nO conteúdo PM morto em SP foi baleado um minuto após disparos feitos por colegas contra assaltantes Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/pm-morto-em-sp-foi-baleado-um-minuto-apos-disparos-feitos-por-colegas-contra-assaltantes/",
           "publishedOn": "2026-04-14T21:17:42.000Z",
-          "wordCount": 5937,
+          "wordCount": 5982,
           "title": "PM morto em SP foi baleado um minuto após disparos feitos por colegas contra assaltantes",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/matheus-pm-morto-tiroteiro-sorocaba.webp"
         },
@@ -620,12 +640,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=252071",
+          "author": "Raissa Neves",
+          "description": "A linguagem da mídia hegemônica não apenas descreve o mundo. Ela o organiza, o hierarquiza e, sobretudo, o disciplina. No vocabulário dominante das relações internacionais, certas palavras são mobilizadas de forma sistemática para legitimar aliados e deslegitimar adversários. Não se trata de um detalhe semântico, mas de uma engrenagem central na produção de consenso em […]\nO post A linguagem da mídia como arma de guerra apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-linguagem-da-midia-como-arma-de-guerra/",
+          "publishedOn": "2026-04-15T16:41:28.000Z",
+          "wordCount": 4074,
+          "title": "A linguagem da mídia como arma de guerra",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump-pointing-at-the-press-ca5d38-1024.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252066",
+          "author": "Victor Farinelli",
+          "description": "O presidente Luiz Inácio Lula da Silva enviou ao Congresso Nacional, na noite desta terça-feira (14/04), o projeto de lei que prevê o fim com a escala de seis dias trabalhados para um de descanso, a chamada escala 6×1. A proposta também defende a redução da jornada de trabalho para, no máximo, 40 horas semanais. […]\nO post Lula envia ao Congresso projeto de lei pelo fim da escala 6×1 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-envia-ao-congresso-projeto-de-lei-pelo-fim-da-escala-6x1/",
+          "publishedOn": "2026-04-15T16:20:36.000Z",
+          "wordCount": 3164,
+          "title": "Lula envia ao Congresso projeto de lei pelo fim da escala 6×1",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/lula-5x2-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252063",
+          "author": "Victor Farinelli",
+          "description": "Em comunicado divulgado nesta quarta-feira (15/04), o governo do Irã afirmou que se o bloqueio naval dos Estados Unidos aos portos do país for mantido, o Exército iraniano bloqueará rotas comerciais no Golfo Pérsico, no Mar de Omã e no Mar Vermelho. Segundo a agência iraniana IRNA, o major-general Ali Abdollahi, comandante do quartel-general central […]\nO post Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ameaca-bloquear-golfo-persico-e-mar-vermelho-em-retaliacao-aos-eua/",
+          "publishedOn": "2026-04-15T15:40:38.000Z",
+          "wordCount": 3104,
+          "title": "Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/tasnim.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252060",
+          "author": "Rocio Paik",
+          "description": "Com pouco mais de 90% das urnas apuradas na manhã desta quarta-feira (15/04), o candidato de esquerda do Juntos por el Perú, Roberto Sánchez (12,037%) havia desbancado o extremista de direita Rafael López Aliaga (11,900%), da Renovación Popular, ocupando o segundo lugar nas eleições presidenciais. Por sua vez, Keiko Fujimori, filha do ditador Alberto Fujimori, […]\nO post Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/peru-esquerdista-roberto-sanchez-desbanca-lopez-aliaga-e-assume-2o-lugar-na-apuracao/",
+          "publishedOn": "2026-04-15T14:57:05.000Z",
+          "wordCount": 3028,
+          "title": "Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfi4uwxxyaa1ldp.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252057",
+          "author": "Rocio Paik",
+          "description": "Os governos da Rússia e da China declararam que continuarão apoiando Cuba, país que historicamente vem sofrendo uma crise humanitária e energética devido ao bloqueio imposto pelos Estados Unidos. A posição se deu na quarta-feira (14/04) em Pequim, capital do país asiático, onde o ministro das Relações Exteriores russo, Serguei Lavrov, realizou uma visita de […]\nO post Rússia e China reiteram apoio a Cuba e exigem que EUA abandonem bloqueio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/russia-e-china-reiteram-apoio-a-cuba-e-exigem-que-eua-abandonem-politica-de-opressao/",
+          "publishedOn": "2026-04-15T13:53:38.000Z",
+          "wordCount": 3203,
+          "title": "Rússia e China reiteram apoio a Cuba e exigem que EUA abandonem bloqueio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/photo_2026-04-14_15-18-24.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=252053",
           "author": "Rocio Paik",
           "description": "O chefe de Estado brasileiro Luiz Inácio Lula da Silva garantiu na terça-feira (14/04) que não teme eventuais interferências do governo dos Estados Unidos de Donald Trump nas eleições presidenciais de outubro, quando deve concorrer a seu quarto mandato no Palácio do Planalto. “Receio, eu não tenho. Acho até que ele [Trump] me ajudaria muito […]\nO post Lula diz que não teme interferência dos EUA nas eleições: ‘me ajudaria se fizesse’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-diz-que-nao-teme-interferencia-dos-eua-nas-eleicoes-me-ajudaria-muito-se-fizesse/",
           "publishedOn": "2026-04-15T12:37:21.000Z",
-          "wordCount": 3432,
+          "wordCount": 3433,
           "title": "Lula diz que não teme interferência dos EUA nas eleições: ‘me ajudaria se fizesse’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55207777607_e16ff2028e_k.jpg"
         },
@@ -645,7 +715,7 @@
           "description": "O Hezbollah disparou cerca de 30 foguetes em direção ao norte de Israel após dois bombardeios israelenses no sul de Beirute nesta quarta-feira (15/04). Os ataques ocorreram no dia seguinte à rodada histórica de negociações em Washington entre Israel e o Líbano, primeira etapa de um ciclo de discussões diretas entre os dois países com […]\nO post Israel retoma ataques ao Líbano após primeira rodada de negociações; Hezbollah reage apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-retoma-ataques-ao-libano-apos-rodada-de-negociacoes-hezbollah-reage/",
           "publishedOn": "2026-04-15T11:18:29.000Z",
-          "wordCount": 3784,
+          "wordCount": 3734,
           "title": "Israel retoma ataques ao Líbano após primeira rodada de negociações; Hezbollah reage",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hdjhmyuw0aeg0bv.jpeg"
         },
@@ -665,59 +735,9 @@
           "description": "A presidente do México, Claudia Sheinbaum, anunciou nesta terça-feira (14/04) que seu governo entrará com uma denúncia perante a Comissão Interamericana de Direitos Humanos (CIDH) com o objetivo de denunciar as condições dos centros de detenção dos Estados Unidos após a morte de mexicanos sob custódia do Serviço de Imigração e Alfândega (ICE, por sua […]\nO post Sheinbaum anuncia ação judicial contra mortes de mexicanos sob custódia do ICE apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/sheinbaum-anuncia-acao-judicial-contra-mortes-de-mexicanos-sob-custodia-do-ice/",
           "publishedOn": "2026-04-14T21:10:54.000Z",
-          "wordCount": 3032,
+          "wordCount": 3049,
           "title": "Sheinbaum anuncia ação judicial contra mortes de mexicanos sob custódia do ICE",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-14-180304.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252025",
-          "author": "Raissa Neves",
-          "description": "O presidente dos Estados Unidos, Donald Trump, criticou nesta terça-feira (14/04) a primeira-ministra da Itália, Giorgia Meloni, questionando seu desinteresse em ajudar na guerra contra o Irã, afirmando estar “chocado”, e acrescentando que “achava que ela tinha coragem, mas me enganei” Em entrevista ao jornal italiano Corriere della Sera, Trump disse que não fala “há […]\nO post Trump critica Meloni sobre possicionamento na guerra contra o Irã, e diz que premiê italiana ‘não tem coragem’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-critica-meloni-sobre-possicionamento-na-guerra-contra-o-ira-e-diz-que-premie-italiana-nao-tem-coragem/",
-          "publishedOn": "2026-04-14T20:30:54.000Z",
-          "wordCount": 3266,
-          "title": "Trump critica Meloni sobre possicionamento na guerra contra o Irã, e diz que premiê italiana ‘não tem coragem’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/54460430315_4c68b65a2a_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252026",
-          "author": "Raissa Neves",
-          "description": "Há 81 anos, em 14 de abril de 1945, os soldados da Força Expedicionária Brasileira atacavam as tropas da Alemanha nazista durante a Batalha de Montese. Parte da ofensiva final dos Aliados durante a Campanha da Itália, o conflito se estendeu por quatro dias e terminou com a vitória dos pracinhas brasileiros. A Batalha de […]\nO post Brasil contra os nazistas: 81 anos da Batalha de Montese apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/brasil-contra-os-nazistas-81-anos-da-batalha-de-montese/",
-          "publishedOn": "2026-04-14T19:50:24.000Z",
-          "wordCount": 4436,
-          "title": "Brasil contra os nazistas: 81 anos da Batalha de Montese",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/soldati_brasiliani_a_montese.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252022",
-          "author": "Rocio Paik",
-          "description": "O ministro das Relações Exteriores da Turquia, Hakan Fidan, afirmou que Israel pode tentar designar a sua nação como um novo alvo após o Irã, já que o regime sionista “não pode viver sem um inimigo”. A declaração foi dada em entrevista à agência estatal Anadolu, divulgada na segunda-feira (13/04), durante a qual acrescentou que […]\nO post Turquia diz que pode virar ‘próximo alvo’ de Israel após guerra contra Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/turquia-diz-que-pode-virar-proximo-alvo-de-israel-apos-guerra-contra-ira/",
-          "publishedOn": "2026-04-14T19:20:10.000Z",
-          "wordCount": 2935,
-          "title": "Turquia diz que pode virar ‘próximo alvo’ de Israel após guerra contra Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hakan_fidan_2025.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252016",
-          "author": "Victor Farinelli",
-          "description": "O presidente Luiz Inácio Lula da Silva afirmou, nesta terça-feira (14/04), que a guerra dos Estados Unidos, liderada por Donald Trump, contra o Irã é inconsequente e que o presidente estadunidense não precisa ameaçar o mundo. Lula também foi solidário ao papa Leão 14, que trocou críticas com Trump esta semana. Para o presidente Lula, […]\nO post Lula critica falas de Trump contra papa Leão 14: ‘não faz bem para a democracia’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-critica-falas-de-trump-contra-papa-leao-14-nao-faz-bem-para-a-democracia/",
-          "publishedOn": "2026-04-14T18:40:58.000Z",
-          "wordCount": 3394,
-          "title": "Lula critica falas de Trump contra papa Leão 14: ‘não faz bem para a democracia’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/lula.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252019",
-          "author": "Victor Farinelli",
-          "description": "O relatório final da CPI do Crime Organizado, que foi apresentado nesta terça-feira (14/04), solicita o indiciamento de três ministros do Supremo Tribunal Federal (STF) por supostos crimes de responsabilidade vinculados ao caso do Banco Master. Os três ministros em questão são Alexandre de Moraes, Dias Toffoli e Gilmar Mendes. Também foi pedido o indiciamento […]\nO post CPI do Crime livra Campos Neto e pede indiciamento de PGR e ministros do STF apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/cpi-do-crime-livra-campos-neto-e-pede-indiciamento-de-pgr-e-ministros-do-stf/",
-          "publishedOn": "2026-04-14T18:00:43.000Z",
-          "wordCount": 2972,
-          "title": "CPI do Crime livra Campos Neto e pede indiciamento de PGR e ministros do STF",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/stf.jpg"
         }
       ]
     },
