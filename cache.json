@@ -327,6 +327,26 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Direcao-do-SindUTE-MG-nega-a-assembleia-requisitada-em-carta-assinada-por-mais-mais-80-professores",
+          "author": "Redação Minas Gerais",
+          "description": "No último Conselho Geral do SindUTE-MG a direção estadual do sindicato reafirmou sua postura antidemocrática negando à base um espaço elementar de discussão e deliberação.\nMatérias\n\n/ Educação, precarização, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação, SindUTE-MG",
+          "link": "https://www.esquerdadiario.com.br/Direcao-do-SindUTE-MG-nega-a-assembleia-requisitada-em-carta-assinada-por-mais-mais-80-professores",
+          "publishedOn": "2026-04-15T18:56:47.000Z",
+          "wordCount": null,
+          "title": "Direção do SindUTE-MG nega a assembleia requisitada em carta assinada por mais mais 80 professores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Trabalhadores-da-USP-aprovam-continuidade-da-greve-em-enorme-assembleia",
+          "author": "Redação",
+          "description": "A greve segue após arrancar uma primeira reunião com o reitor, e conta com ato marcado amanhã, às 14h30 em frente à Reitoria. \n Centenas de trabalhadores da Universidade de São Paulo se reuniram no auditório Milton Santos, na FFLCH (Faculdade de Filosofia, Letras e Ciências Humanas) para debater e aprovar a continuidade da greve dos funcionários da USP, que, em seu segundo dia já deu fortes exemplos de luta por isonomia, contra os Parâmetros de Sustentabilidade da USP e a reitoria gerida (…)\nMatérias\n\n/ USP, Educação, Movimento Nossa Classe, SINTUSP, Reitoria USP, São Paulo, Assembleia, Faísca Revolucionária, Greve na USP",
+          "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-USP-aprovam-continuidade-da-greve-em-enorme-assembleia",
+          "publishedOn": "2026-04-15T18:12:07.000Z",
+          "wordCount": null,
+          "title": "Trabalhadores da USP aprovam continuidade da greve em enorme assembleia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Estudantes-da-USP-decretam-estado-de-greve-e-FAUD-e-a-primeira-a-aderir",
           "author": "Redação",
           "description": "Em ato com milhares, estudantes da USP decretaram estado de greve estudantil, e os estudantes da FAUD votaram por iniciar sua greve ja agora, levantando pautas dos trabalhadores e estudantes. \n14-04-2026\n\n/ Juventude, USP, Educação, Reitoria USP, São Paulo, DCE USP, Greve na USP",
@@ -514,7 +534,7 @@
           "description": "Flávio Bolsonaro herda a base do pai, mas foca em um grupo muito mais conectado ao confronto nas ruas.\nO post Análise: Flávio Bolsonaro quer fazer das PM’s sua base armada nas ruas apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/14/flavio-bolsonaro-candidato-policia-militar/",
           "publishedOn": "2026-04-14T10:59:00.000Z",
-          "wordCount": 3368,
+          "wordCount": 3338,
           "title": "Análise: Flávio Bolsonaro quer fazer das PM’s sua base armada nas ruas",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderFeat-5.jpg",
@@ -544,7 +564,7 @@
           "description": "Endividamento, inadimplência e falta de perspectiva de mudanças para os jovens estão entre os fatores que têm feito a insatisfação com o governo Lula crescer.\nO post Endividamento das famílias e frustração da juventude impactam popularidade de Lula apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/13/endividamento-das-familias-popularidade-de-lula/",
           "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": 3809,
+          "wordCount": 3839,
           "title": "Endividamento das famílias e frustração da juventude impactam popularidade de Lula",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header.jpg",
@@ -576,12 +596,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=159624",
+          "author": "Manuela Rached Pereira",
+          "description": "Vídeo mostra publicitário sendo agredido após acusação injusta de furto na zona norte de SP; mulher que confessou agressões não foi indiciada\nO conteúdo Polícia indicia apenas um dos agressores de jovem negro linchado em SP Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/policia-indicia-apenas-um-dos-agressores-de-jovem-negro-linchado-em-sp/",
+          "publishedOn": "2026-04-15T17:41:35.000Z",
+          "wordCount": 5772,
+          "title": "Polícia indicia apenas um dos agressores de jovem negro linchado em SP",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2025/07/Yuri-Cavalcanti.webp"
+        },
+        {
           "id": "https://ponte.org/?p=159586",
           "author": "Paulo Batistella",
           "description": "SSP-SP não responde se soldado Matheus Almeida Rodrigues pode ter sido atingido por disparo acidental ou mesmo por ação de outro policial. Além do agente de 28 anos, outras três pessoas foram mortas na ocorrência em Sorocaba (SP)\nO conteúdo PM morto em SP foi baleado um minuto após disparos feitos por colegas contra assaltantes Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/pm-morto-em-sp-foi-baleado-um-minuto-apos-disparos-feitos-por-colegas-contra-assaltantes/",
           "publishedOn": "2026-04-14T21:17:42.000Z",
-          "wordCount": 5982,
+          "wordCount": 5849,
           "title": "PM morto em SP foi baleado um minuto após disparos feitos por colegas contra assaltantes",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/matheus-pm-morto-tiroteiro-sorocaba.webp"
         },
@@ -602,6 +632,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73471",
+          "author": "El Salto",
+          "description": "“Pessoalmente, não tenho arrependimentos. Se houve erros, houve erros. Mas um homem tem de ter uma profissão, não?” – Klaus Barbie uando Klaus Barbie passou a integrar o quadro de uma agência de inteligência norte-americana em 1947, já havia vivido várias encarnações de maldade. Barbie havia caçado opositores dos nazistas na Holanda, perseguindo-os com cães. […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/15/as-origens-nazistas-do-trafico-de-drogas-na-america-latina-klaus-barbie-a-cocaina-e-a-cia/",
+          "publishedOn": "2026-04-15T20:52:15.000Z",
+          "wordCount": 10102,
+          "title": "As origens nazistas do tráfico de drogas na América Latina: Klaus Barbie, a cocaína e a CIA",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/nazista.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73464",
           "author": "Struggle-La Lucha",
@@ -640,12 +680,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=252094",
+          "author": "Raissa Neves",
+          "description": "Há 187 anos, em 15 de abril de 1839, nascia Francisco José do Nascimento, o Dragão do Mar. Descendente de escravizados, ele se tornou um dos mais importantes nomes do movimento abolicionista no Brasil. Em 1881, Francisco se consagrou como um símbolo da luta contra a escravidão ao liderar uma greve de jangadeiros que se […]\nO post Dragão do Mar: a luta de um jangadeiro contra a escravidão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/dragao-do-mar-a-luta-de-um-jangadeiro-contra-a-escravidao/",
+          "publishedOn": "2026-04-15T20:30:03.000Z",
+          "wordCount": 5195,
+          "title": "Dragão do Mar: a luta de um jangadeiro contra a escravidão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/francisco_nascimento_1884_revista_illustrada_376_cropped.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252090",
+          "author": "Rocio Paik",
+          "description": "A presidenta interina da Venezuela, Delcy Rodríguez, recebeu uma delegação do Departamento de Energia dos Estados Unidos no Palácio de Miraflores nesta terça (15/04). O encontro com o subsecretário Kyle Haustveit aconteceu pouco depois de o governo de Donald Trump suspender sanções contra o sistema bancário público do país. Durante a reunião, a mandatária defendeu […]\nO post Venezuela recebe delegação de Trump e pede fim de sanções petrolíferas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/venezuela-recebe-delegacao-de-trump-e-pede-fim-de-sancoes-petroliferas/",
+          "publishedOn": "2026-04-15T19:50:55.000Z",
+          "wordCount": 2998,
+          "title": "Venezuela recebe delegação de Trump e pede fim de sanções petrolíferas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/prensa-pres.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252084",
+          "author": "Victor Farinelli",
+          "description": "Durante reunião com ministros, nesta terça-feira (14/04), o presidente da Colômbia, Gustavo Petro, denunciou a existência de uma conspiração entre setores da direita colombiana e o governo do Equador, encabeçado pelo presidente Daniel Noboa, também de direita. Segundo Petro, a articulação teria como objetivo interferir na eleição presidencial do país, cujo primeiro turno acontecerá no […]\nO post Petro denuncia conspiração entre direita colombiana e governo do Equador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-denuncia-conspiracao-entre-direita-colombiana-e-governo-do-equador/",
+          "publishedOn": "2026-04-15T19:10:47.000Z",
+          "wordCount": 3130,
+          "title": "Petro denuncia conspiração entre direita colombiana e governo do Equador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/petro.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252079",
+          "author": "Rocio Paik",
+          "description": "O Pentágono enviará cerca de 10 mil soldados adicionais ao Oriente Médio nos próximos dias, enquanto o governo de Donald Trump busca pressionar o Irã para um acordo de cessar-fogo, de acordo com o jornal norte-americano Washington Post nesta quarta-feira (15/04) citando autoridades locais. O reforço militar irá se unir aos cerca de 50 mil […]\nO post Pentágono enviará dez mil soldados adicionais ao Oriente Médio, diz jornal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pentagono-enviara-dez-mil-soldados-adicionais-ao-oriente-medio-diz-jornal/",
+          "publishedOn": "2026-04-15T18:28:00.000Z",
+          "wordCount": 3236,
+          "title": "Pentágono enviará dez mil soldados adicionais ao Oriente Médio, diz jornal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/65592ee1-eef2-455c-beeb-1eb4aadfb3f8-captura-de-tela-2026-04-06-as-19.27.05-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252076",
+          "author": "Victor Farinelli",
+          "description": "Em coletiva realizada nesta quarta-feira (15/04), a chefe da Comissão de Expansão da União Europeia, Marta Kos, disse que a queda de Viktor Orbán do cargo de primeiro-ministro da Hungria poder resultar na liberação de uma ajuda militar de 90 bilhões de euros para a Ucrânia. Segundo a diplomata eslovena que comanda a comissão, a […]\nO post Derrota de Orbán na Hungria pode destravar ajuda militar à Ucrânia, afirma UE apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/derrota-de-orban-na-hungria-pode-destravar-ajuda-militar-a-ucrania-afirma-ue/",
+          "publishedOn": "2026-04-15T17:40:58.000Z",
+          "wordCount": 3235,
+          "title": "Derrota de Orbán na Hungria pode destravar ajuda militar à Ucrânia, afirma UE",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/kos.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252069",
+          "author": "Rocio Paik",
+          "description": "O jornal Haaretz teve acesso a documentos históricos arquivados pelo Estado de Israel e revelou, em reportagem publicada na terça-feira (14/04), que durante a Segunda Guerra Mundial o grupo paramilitar sionista Lehi, liderado por Avraham “Yair” Stern, realizou tentativas de contato com autoridades da Alemanha nazista, propondo uma aliança militar e política contra a Grã-Bretanha.  […]\nO post Arquivos expõem aliança de milícia sionista com nazistas na Segunda Guerra Mundial apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/arquivos-expoem-alianca-de-milicia-sionista-com-nazistas-na-segunda-guerra-mundial/",
+          "publishedOn": "2026-04-15T17:00:25.000Z",
+          "wordCount": 3459,
+          "title": "Arquivos expõem aliança de milícia sionista com nazistas na Segunda Guerra Mundial",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/31f8acdff7d9026b38669fc96970f093e1b9138e.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=252071",
           "author": "Raissa Neves",
           "description": "A linguagem da mídia hegemônica não apenas descreve o mundo. Ela o organiza, o hierarquiza e, sobretudo, o disciplina. No vocabulário dominante das relações internacionais, certas palavras são mobilizadas de forma sistemática para legitimar aliados e deslegitimar adversários. Não se trata de um detalhe semântico, mas de uma engrenagem central na produção de consenso em […]\nO post A linguagem da mídia como arma de guerra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-linguagem-da-midia-como-arma-de-guerra/",
           "publishedOn": "2026-04-15T16:41:28.000Z",
-          "wordCount": 4074,
+          "wordCount": 4069,
           "title": "A linguagem da mídia como arma de guerra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump-pointing-at-the-press-ca5d38-1024.jpg"
         },
@@ -655,7 +755,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva enviou ao Congresso Nacional, na noite desta terça-feira (14/04), o projeto de lei que prevê o fim com a escala de seis dias trabalhados para um de descanso, a chamada escala 6×1. A proposta também defende a redução da jornada de trabalho para, no máximo, 40 horas semanais. […]\nO post Lula envia ao Congresso projeto de lei pelo fim da escala 6×1 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-envia-ao-congresso-projeto-de-lei-pelo-fim-da-escala-6x1/",
           "publishedOn": "2026-04-15T16:20:36.000Z",
-          "wordCount": 3164,
+          "wordCount": 3159,
           "title": "Lula envia ao Congresso projeto de lei pelo fim da escala 6×1",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/lula-5x2-1.jpg"
         },
@@ -665,7 +765,7 @@
           "description": "Em comunicado divulgado nesta quarta-feira (15/04), o governo do Irã afirmou que se o bloqueio naval dos Estados Unidos aos portos do país for mantido, o Exército iraniano bloqueará rotas comerciais no Golfo Pérsico, no Mar de Omã e no Mar Vermelho. Segundo a agência iraniana IRNA, o major-general Ali Abdollahi, comandante do quartel-general central […]\nO post Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ameaca-bloquear-golfo-persico-e-mar-vermelho-em-retaliacao-aos-eua/",
           "publishedOn": "2026-04-15T15:40:38.000Z",
-          "wordCount": 3104,
+          "wordCount": 3095,
           "title": "Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/tasnim.jpg"
         },
@@ -675,69 +775,9 @@
           "description": "Com pouco mais de 90% das urnas apuradas na manhã desta quarta-feira (15/04), o candidato de esquerda do Juntos por el Perú, Roberto Sánchez (12,037%) havia desbancado o extremista de direita Rafael López Aliaga (11,900%), da Renovación Popular, ocupando o segundo lugar nas eleições presidenciais. Por sua vez, Keiko Fujimori, filha do ditador Alberto Fujimori, […]\nO post Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-esquerdista-roberto-sanchez-desbanca-lopez-aliaga-e-assume-2o-lugar-na-apuracao/",
           "publishedOn": "2026-04-15T14:57:05.000Z",
-          "wordCount": 3028,
+          "wordCount": 3021,
           "title": "Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfi4uwxxyaa1ldp.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252057",
-          "author": "Rocio Paik",
-          "description": "Os governos da Rússia e da China declararam que continuarão apoiando Cuba, país que historicamente vem sofrendo uma crise humanitária e energética devido ao bloqueio imposto pelos Estados Unidos. A posição se deu na quarta-feira (14/04) em Pequim, capital do país asiático, onde o ministro das Relações Exteriores russo, Serguei Lavrov, realizou uma visita de […]\nO post Rússia e China reiteram apoio a Cuba e exigem que EUA abandonem bloqueio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/russia-e-china-reiteram-apoio-a-cuba-e-exigem-que-eua-abandonem-politica-de-opressao/",
-          "publishedOn": "2026-04-15T13:53:38.000Z",
-          "wordCount": 3203,
-          "title": "Rússia e China reiteram apoio a Cuba e exigem que EUA abandonem bloqueio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/photo_2026-04-14_15-18-24.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252053",
-          "author": "Rocio Paik",
-          "description": "O chefe de Estado brasileiro Luiz Inácio Lula da Silva garantiu na terça-feira (14/04) que não teme eventuais interferências do governo dos Estados Unidos de Donald Trump nas eleições presidenciais de outubro, quando deve concorrer a seu quarto mandato no Palácio do Planalto. “Receio, eu não tenho. Acho até que ele [Trump] me ajudaria muito […]\nO post Lula diz que não teme interferência dos EUA nas eleições: ‘me ajudaria se fizesse’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-diz-que-nao-teme-interferencia-dos-eua-nas-eleicoes-me-ajudaria-muito-se-fizesse/",
-          "publishedOn": "2026-04-15T12:37:21.000Z",
-          "wordCount": 3433,
-          "title": "Lula diz que não teme interferência dos EUA nas eleições: ‘me ajudaria se fizesse’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55207777607_e16ff2028e_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252050",
-          "author": "Rocio Paik",
-          "description": "O Hezbollah afirmou nesta quarta-feira (15/04) que a decisão do governo do Líbano de realizar negociações diretas com Israel foi “um pecado nacional” que ampliaria as divisões no país. De acordo com Hassan Fadlallah, membro do Parlamento do movimento, a reunião mediada pelos Estados Unidos no dia anterior, entre os representantes libaneses e israelenses, não […]\nO post Hezbollah rechaça negociações do Líbano com Israel: ‘pecado nacional que aumenta divisões’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-rechaca-negociacoes-do-libano-com-israel-pecado-nacional-que-aumenta-divisoes/",
-          "publishedOn": "2026-04-15T11:50:00.000Z",
-          "wordCount": 3154,
-          "title": "Hezbollah rechaça negociações do Líbano com Israel: ‘pecado nacional que aumenta divisões’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/g_mqlwvxmaahn2l.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252046",
-          "author": "Rocio Paik",
-          "description": "O Hezbollah disparou cerca de 30 foguetes em direção ao norte de Israel após dois bombardeios israelenses no sul de Beirute nesta quarta-feira (15/04). Os ataques ocorreram no dia seguinte à rodada histórica de negociações em Washington entre Israel e o Líbano, primeira etapa de um ciclo de discussões diretas entre os dois países com […]\nO post Israel retoma ataques ao Líbano após primeira rodada de negociações; Hezbollah reage apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-retoma-ataques-ao-libano-apos-rodada-de-negociacoes-hezbollah-reage/",
-          "publishedOn": "2026-04-15T11:18:29.000Z",
-          "wordCount": 3734,
-          "title": "Israel retoma ataques ao Líbano após primeira rodada de negociações; Hezbollah reage",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hdjhmyuw0aeg0bv.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252040",
-          "author": "Victor Farinelli",
-          "description": "O governo dos Estados Unidos anunciou nesta terça-feira (14/04) a derrubada de duas sanções econômicas contra a Venezuela. A medida foi tomada pelo Escritório de Controle de Ativos Estrangeiros (OFAC, por sua sigla em inglês), agência ligada ao Departamento do Tesouro norte-americano. Uma das sanções derrubadas proibia o governo venezuelano a iniciar negociações comerciais com […]\nO post EUA suspendem duas sanções contra Venezuela, mas mantêm controle sobre contratos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/eua-suspendem-duas-sancoes-contra-venezuela-mas-mantem-controle-sobre-contratos/",
-          "publishedOn": "2026-04-14T21:50:36.000Z",
-          "wordCount": 3250,
-          "title": "EUA suspendem duas sanções contra Venezuela, mas mantêm controle sobre contratos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/banco-del-tesoso.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252037",
-          "author": "Raissa Neves",
-          "description": "A presidente do México, Claudia Sheinbaum, anunciou nesta terça-feira (14/04) que seu governo entrará com uma denúncia perante a Comissão Interamericana de Direitos Humanos (CIDH) com o objetivo de denunciar as condições dos centros de detenção dos Estados Unidos após a morte de mexicanos sob custódia do Serviço de Imigração e Alfândega (ICE, por sua […]\nO post Sheinbaum anuncia ação judicial contra mortes de mexicanos sob custódia do ICE apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/sheinbaum-anuncia-acao-judicial-contra-mortes-de-mexicanos-sob-custodia-do-ice/",
-          "publishedOn": "2026-04-14T21:10:54.000Z",
-          "wordCount": 3049,
-          "title": "Sheinbaum anuncia ação judicial contra mortes de mexicanos sob custódia do ICE",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-14-180304.png"
         }
       ]
     },
@@ -752,6 +792,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=224259",
+          "author": "Redação de AND",
+          "description": "Essa não é a primeira acusação contra a LCP. O latifundiário João Martins, sobrinho de “Galo Velho”, e conhecido como o influencer do agro rondoniense e responsável pela contratação ilegal de policiais para serviços de pistolagem, também acusou a LCP de promover uma emboscada em sua caminhonete em novembro de 2025.",
+          "link": "https://anovademocracia.com.br/imprensa-lixo-acusa-lcp-promover-emboscada/",
+          "publishedOn": "2026-04-15T19:47:19.000Z",
+          "wordCount": null,
+          "title": "Imprensa lixo acusa LCP de promover ‘emboscada com dez homens armados com fuzis’ e ‘executar policial civil’",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=224173",
           "author": "Ana Nascimento",
@@ -841,16 +891,6 @@
           "wordCount": null,
           "title": "RJ: CineMosquito reúne cerca de 15 pessoas em primeira edição nas ruas de Mesquita",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224158",
-          "author": "Giovanna Maria",
-          "description": "A atividade expressou solidariedade à luta do povo saarauí, denunciou a ocupação marroquina no Saara Ocidental e a política intervencionista do imperialismo ianque e europeu no continente africano.",
-          "link": "https://anovademocracia.com.br/50-anos-da-republica-arabe-saaraui-democratica-sao-celebrados-em-brasilia-reafirmando-solidariedade-a-luta-do-povo-saaraui/",
-          "publishedOn": "2026-04-13T20:54:15.000Z",
-          "wordCount": null,
-          "title": "50 anos da República Árabe Saarauí Democrática são celebrados em Brasília, reafirmando solidariedade à luta do povo saarauí",
-          "imageUrl": null
         }
       ]
     },
@@ -876,6 +916,46 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3182286",
+          "author": "Berenice Bento",
+          "description": "Livro provocador entrevista pessoas judias que romperam com o sionismo, e investiga os dispositivos subjetivos do Estado de Israel. Como esta ruptura ressignifica suas vidas – e desdobra-se no engajamento público com a causa palestina?\nThe post Quem são os judeus dissidentes do sionismo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/quem-sao-os-judeus-dissidentes-do-sionismo/",
+          "publishedOn": "2026-04-15T20:48:20.000Z",
+          "wordCount": 7308,
+          "title": "Quem são os judeus dissidentes do sionismo",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15174457/ASC_8193-1200x802-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182271",
+          "author": "Fabricio Solagna",
+          "description": "Há uma lógica das plataformas por trás da política anti-imigração de Trump: super-explorar mão de obra à distância. Deportados continuarão a servir o mercado estadunidense, porém mais precarizados e sob vigilância intensa. Setor de call center no México revela essa dinâmica\nThe post EUA: Os deportados e a geografia da exploração appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/eua-os-deportados-e-a-geografia-da-exploracao/",
+          "publishedOn": "2026-04-15T19:35:31.000Z",
+          "wordCount": 4350,
+          "title": "EUA: Os deportados e a geografia da exploração",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15163205/callcenter.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182235",
+          "author": "Alex Delouya",
+          "description": "Governo envia projeto de lei em regime de urgência para pressionar pela aprovação da redução da jornada, que Centrão e bolsonaristas tentaram enterrar. Debate entre patrões e trabalhadores reaquece. Poderia um 1º de maio de mobilizações levar à conquista histórica?\nThe post Escala 6×1: o novo capítulo da luta appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/escala-6x1-o-novo-capitulo-da-luta/",
+          "publishedOn": "2026-04-15T18:20:59.000Z",
+          "wordCount": 6763,
+          "title": "Escala 6×1: o novo capítulo da luta",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15152021/Screenshot-2026-04-15-at-15-20-14-movimento-vat-convocou-atos-pelo-brasil-contra-a-escala-6x1-1731678760055_v2_900x506.jpg.webp-imagem-WEBP-900-%C3%97-506-pixels.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182243",
+          "author": "Henrique Morrone",
+          "description": "Há os que dizem que a competição, inclusive entre pessoas, é chave para o sucesso. Mas o desenvolvimento das nações e sociedades depende mais de cooperação e reciprocidade. Desafio: criar mecanismos concretos de articulação e fazer da diversidade uma força produtiva\nThe post Economia brasileira: O que não falta é competição appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/economia-brasileira-o-que-nao-falta-e-competicao/",
+          "publishedOn": "2026-04-15T18:12:28.000Z",
+          "wordCount": 3355,
+          "title": "Economia brasileira: O que não falta é competição",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15151040/1_knGrgxfbmb6Q6jvgYw74KA.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3181991",
           "author": "Uirá Porã",
@@ -935,46 +1015,6 @@
           "wordCount": 3269,
           "title": "Portugal: os direitos transgêneros ameaçados",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/14163737/2074657.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182109",
-          "author": "Júnior Freitas",
-          "description": "Trabalhadores de apps protestam em todo o país contra o PLP 152, apoiado pelo Centrão e big techs. Texto ardiloso ignora demandas de taxa mínima por serviço e beneficia plataformas com repasse de até 30% por corridas. Governo tem proposta alternativa\nThe post Por que entregadores e motoristas voltaram à luta? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/por-que-entregadores-e-motoristas-voltaram-a-luta/",
-          "publishedOn": "2026-04-14T17:14:36.000Z",
-          "wordCount": 3322,
-          "title": "Por que entregadores e motoristas voltaram à luta?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/14140946/WhatsApp-Image-2025-03-31-at-16.18.09-1140x815-1.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182009",
-          "author": "Imre Szijarto",
-          "description": "Queda de Orbán enfraquece projeto de Trump, Milei e Bolsonaros. Quem é e o que defende Magyar, o futuro premiê. Qual a situação da esquerda. Por que mobilização social será decisiva para desfazer legado autoritário do governo derrotado nas urnas\nThe post Como a Hungria derrubou a ultradireita appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/como-a-hungria-derrubou-a-ultradireita/",
-          "publishedOn": "2026-04-13T21:49:48.000Z",
-          "wordCount": 5282,
-          "title": "Como a Hungria derrubou a ultradireita",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/13184939/photo_5112052015268826285_w1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181993",
-          "author": "Rafael Evangelista",
-          "description": "As big techs trancaram as formas de se relacionar, espalham ódio e ameaçam democracias. Refém, Brasil já foi vanguarda em políticas de incentivo ao software livre – e poderia fazê-lo novamente. Conheça a rede social que oferece autonomia na prática\nThe post Soberania Digital: por que ocupar o Fediverso? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/soberania-digital-por-que-ocupar-o-fediverso/",
-          "publishedOn": "2026-04-13T21:07:41.000Z",
-          "wordCount": 5040,
-          "title": "Soberania Digital: por que ocupar o Fediverso?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/13180408/fedi.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3181971",
-          "author": "Thiago Gama",
-          "description": "Os impactos do novo cerco de Trump. A resiliência do povo frente às tentativas de recolonização A relação com o governo Lula. E a solidariedade internacional que a Revolução sempre praticou – nas guerras anticoloniais ao apoio com médicos – e de que hoje tanto necessita\nThe post Embaixador cubano narra “resistência criativa” do país appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/embaixador-cubano-narra-resistencia-criativa-do-pais/",
-          "publishedOn": "2026-04-13T20:54:20.000Z",
-          "wordCount": 5648,
-          "title": "Embaixador cubano narra “resistência criativa” do país",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/13175324/187922b826f845d9d0b6fcfd01450ffdbbb1fe54w-1-960x540-1.jpg"
         }
       ]
     },
@@ -984,12 +1024,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=158992",
+          "author": "FP",
+          "description": "O marido era da direção do partido e a esposa era da base. Constantemente, com a perspicácia e a coragem que ele nunca as teve, ela divergia das posições da direção, o que deixava ele mais que furioso. Um dia, em privado, ele disse a ela que suas posições eram reacionárias, e que na revolução […]",
+          "link": "https://passapalavra.info/2026/04/158992/",
+          "publishedOn": "2026-04-15T17:15:11.000Z",
+          "wordCount": 3824,
+          "title": "Dormindo com o inimigo",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=158984",
           "author": "Edinilson",
           "description": "O leitor deve estar se perguntando sobre o futebol e o cemitério, presentes no título da coluna. Então, vamos lá. Por Jan Cenek",
           "link": "https://passapalavra.info/2026/04/158984/",
           "publishedOn": "2026-04-14T08:55:23.000Z",
-          "wordCount": 4495,
+          "wordCount": 4499,
           "title": "O futebol, a memória e o cemitério",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_3.jpg"
         },
@@ -999,7 +1049,7 @@
           "description": "A advogada comenta: “é por isso que eu não faço nada de errado. Imagina não poder tomar banho de água quente!”. Passa Palavra",
           "link": "https://passapalavra.info/2026/04/158981/",
           "publishedOn": "2026-04-11T21:12:47.000Z",
-          "wordCount": 3790,
+          "wordCount": 3789,
           "title": "Gente rica sendo presa (9)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         }
@@ -1026,7 +1076,7 @@
           "description": "Camila Galetti e Nathaly Royer: \"Pode-se afirmar que a disputa em torno da criminalização da misoginia revela, portanto, uma dimensão mais profunda: trata-se de uma disputa sobre a própria inteligibilidade da violência. Nomear a misoginia não é apenas um ato descritivo, mas um gesto político que torna visível aquilo que determinados projetos de poder buscam ocultar. \"",
           "link": "https://blogdaboitempo.com.br/2026/04/13/a-criminalizacao-da-misoginia-e-a-fabricacao-da-perseguicao-aos-homens/",
           "publishedOn": "2026-04-13T11:00:00.000Z",
-          "wordCount": 14674,
+          "wordCount": 14819,
           "title": "A criminalização da misoginia e a fabricação da perseguição aos homens",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-6.png"
         }
