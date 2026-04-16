@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "TsrOqZ",
+          "author": null,
+          "description": "Para as trabalhadoras e os trabalhadores do Paraná, entretanto, a política salarial adotada revela uma escolha política: manter o arrocho sobre quem sustenta diariamente os serviços públicos ofertados ao povo trabalhador paranaense.",
+          "link": "https://jornalofuturo.com.br/artigo/TsrOqZ-ratinho-jr-propoe-reajuste-de-apenas-5-diante-de-perdas-salariais-superiores-a-50",
+          "publishedOn": "2026-04-15T21:00:00.000Z",
+          "wordCount": 1670,
+          "title": "Ratinho Jr. propõe reajuste de apenas 5% diante de perdas salariais superiores a 50%",
+          "imageUrl": "https://media.jornalofuturo.com.br/ratinhojrsalario-960x540.jpg"
+        },
+        {
           "id": "OIroZS",
           "author": null,
           "description": "Secundaristas disputam O Futuro no 46° CONUBES, que ocorrerá entre os dias 16 e 19 de abril, em São Bernardo do Campo (SP).",
@@ -94,16 +104,6 @@
           "wordCount": 2440,
           "title": "Falta de recursos nas universidades estimula parcerias privadas com empresas como a Boeing",
           "imageUrl": "https://media.jornalofuturo.com.br/embraerboingprotesto-901x501.jpg"
-        },
-        {
-          "id": "QGkPdi",
-          "author": null,
-          "description": "As mobilizações terão continuidade, por meio da greve dos funcionários aprovada na assembleia do SINTUSP no dia 09/04 e por meio de um calendário de lutas dos estudantes, aprovado no Conselho de Centros Acadêmicos (CCA).",
-          "link": "https://jornalofuturo.com.br/artigo/QGkPdi-funcionarios-da-usp-paralisam-atividades-frente-a-falta-de-reajustes-e-gratificacao-a-docentes",
-          "publishedOn": "2026-04-11T18:00:00.000Z",
-          "wordCount": 3636,
-          "title": "Funcionários da USP paralisam atividades frente à falta de reajustes e gratificação a docentes",
-          "imageUrl": "https://media.jornalofuturo.com.br/paralisacaousp3103-957x655.jpg"
         }
       ]
     },
@@ -308,16 +308,6 @@
           "wordCount": 1453,
           "title": "Flotilha internacional com brasileiros parte de Barcelona rumo a Gaza em missão humanitária",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/partida_flotilha.png"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=105784",
-          "author": "PSTU-RS",
-          "description": "Há um ano (11 de abril de 2025) chorávamos e ficávamos tristes pela perda do nosso camarada Paulo Rigo, dor e ausência que seguem com toda a nossa militância. No velório, em ato de homenagem à grande contribuição e dedicação de sua vida à militância revolucionária, na construção da Liga Internacional dos Trabalhadores -Quarta Internacional […]\nO post Um ano da perda do camarada Paulo Rigo apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/um-ano-da-perda-do-camarada-paulo-rigo/",
-          "publishedOn": "2026-04-11T12:16:23.000Z",
-          "wordCount": 1223,
-          "title": "Um ano da perda do camarada Paulo Rigo",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/31c67704-8a7e-4051-bd55-5cdefce37983.jpeg"
         }
       ]
     },
@@ -519,7 +509,7 @@
           "description": "O filósofo, que está lançando o livro ‘A ameaça interna – Psicanálise dos novos fascismos globais’, defende que o campo progressista precisa dar uma guinada à esquerda e pensar em novas propostas para combater Bolsonaro, Trump e Milei.\nO post Safatle: ‘Vivemos em fascismos restritos e não em democracias liberais’ apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/15/safatle-vivemos-em-fascismos-restritos-e-nao-em-democracias-liberais/",
           "publishedOn": "2026-04-15T10:00:00.000Z",
-          "wordCount": 6083,
+          "wordCount": 6053,
           "title": "Safatle: ‘Vivemos em fascismos restritos e não em democracias liberais’",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
@@ -534,7 +524,7 @@
           "description": "Flávio Bolsonaro herda a base do pai, mas foca em um grupo muito mais conectado ao confronto nas ruas.\nO post Análise: Flávio Bolsonaro quer fazer das PM’s sua base armada nas ruas apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/14/flavio-bolsonaro-candidato-policia-militar/",
           "publishedOn": "2026-04-14T10:59:00.000Z",
-          "wordCount": 3338,
+          "wordCount": 3368,
           "title": "Análise: Flávio Bolsonaro quer fazer das PM’s sua base armada nas ruas",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/HeaderFeat-5.jpg",
@@ -549,7 +539,7 @@
           "description": "Guerra de Trump ameaça expansão da indústria tecnológica e até negócios como a compra da Warner Bros., que dependem de recursos do Golfo.\nO post Guerra no Irã ameaça investimentos em IA e venda da Warner Bros apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/13/guerra-ira-investimentos-ia-warner-bros/",
           "publishedOn": "2026-04-13T20:59:00.000Z",
-          "wordCount": 4304,
+          "wordCount": 4274,
           "title": "Guerra no Irã ameaça investimentos em IA e venda da Warner Bros",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header-site-guerra-ira-fundos-golfo-warner.png",
@@ -564,7 +554,7 @@
           "description": "Endividamento, inadimplência e falta de perspectiva de mudanças para os jovens estão entre os fatores que têm feito a insatisfação com o governo Lula crescer.\nO post Endividamento das famílias e frustração da juventude impactam popularidade de Lula apareceu primeiro em Intercept Brasil.",
           "link": "https://www.intercept.com.br/2026/04/13/endividamento-das-familias-popularidade-de-lula/",
           "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": 3839,
+          "wordCount": 3809,
           "title": "Endividamento das famílias e frustração da juventude impactam popularidade de Lula",
           "enclosure": {
             "url": "https://uploads.intercept.com.br/2026/04/Header.jpg",
@@ -572,21 +562,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/04/Header.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442355",
-          "author": "Bianca Pyl",
-          "description": "Proposta apresentada pela deputada confunde antissionismo com antissemitismo para calar críticas às ações do governo de Benjamin Netanyahu em Israel\nO post O projeto de Tabata Amaral e o fascismo que não pode ser nomeado apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/04/11/tabata-amaral-fascismo-que-nao-pode-ser-nomeado/",
-          "publishedOn": "2026-04-11T10:00:00.000Z",
-          "wordCount": 3217,
-          "title": "O projeto de Tabata Amaral e o fascismo que não pode ser nomeado",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/04/Wando.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/04/Wando.jpg"
         }
       ]
     },
@@ -680,12 +655,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=252082",
+          "author": "Raissa Neves",
+          "description": "A primeira-ministra da Itália, Giorgia Meloni, afirmou nesta quarta-feira (15/04), durante seu encontro com o presidente da Ucrânia, Volodymyr Zelensky, em Roma, que “um Ocidente dividido seria um presente para a Rússia”. “A Itália pretende manter a sua parte para alcançar soluções comuns que protejam a soberania de Kiev e garantam a solidez da aliança […]\nO post Em encontro com Zelensky, Meloni diz que divisão do Ocidente seria ‘presente pra Rússia’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/em-encontro-com-zelensky-meloni-diz-que-divisao-do-ocidente-seria-presente-pra-russia/",
+          "publishedOn": "2026-04-15T22:22:01.000Z",
+          "wordCount": 3246,
+          "title": "Em encontro com Zelensky, Meloni diz que divisão do Ocidente seria ‘presente pra Rússia’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/54975690399_a0a5eda61a_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252097",
+          "author": "Raissa Neves",
+          "description": "A secretária de Imprensa da Casa Branca, Karoline Leavitt, afirmou nesta quarta-feira (15/04) a repórteres que as notícias de que os Estados Unidos e o Irã estão em conversas para um possível cessar-fogo são falsas. Em uma coletiva de imprensa na Casa Branca, Leavitt disse que a realização de uma segunda rodada de negociações com […]\nO post Casa Branca nega negociações de cessar-fogo entre Estados Unidos e Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/casa-branca-nega-negociacoes-de-cessar-fogo-entre-estados-unidos-e-ira/",
+          "publishedOn": "2026-04-15T22:18:23.000Z",
+          "wordCount": 2846,
+          "title": "Casa Branca nega negociações de cessar-fogo entre Estados Unidos e Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/54359746781_7083a6d68d_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252105",
+          "author": "Victor Farinelli",
+          "description": "O Fundo Monetário Internacional (FMI) autorizou um novo desembolso de US$ 1 bilhão (cerca de R$ 5 bilhões) para a Argentina, como parte da segunda revisão do Programa de Financiamento Ampliado pactado em abril de 2025 entre a instituição financeira e o governo de extrema direita de Javier Milei. Em seu texto original, o Programa […]\nO post FMI libera mais R$ 5 bilhões à Argentina e aumenta dívida acumulada por governo Milei apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/fmi-libera-mais-r-5-bilhoes-a-argentina-e-aumenta-divida-acumulada-por-governo-milei/",
+          "publishedOn": "2026-04-15T22:12:26.000Z",
+          "wordCount": 3196,
+          "title": "FMI libera mais R$ 5 bilhões à Argentina e aumenta dívida acumulada por governo Milei",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/rosada.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=252094",
           "author": "Raissa Neves",
           "description": "Há 187 anos, em 15 de abril de 1839, nascia Francisco José do Nascimento, o Dragão do Mar. Descendente de escravizados, ele se tornou um dos mais importantes nomes do movimento abolicionista no Brasil. Em 1881, Francisco se consagrou como um símbolo da luta contra a escravidão ao liderar uma greve de jangadeiros que se […]\nO post Dragão do Mar: a luta de um jangadeiro contra a escravidão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/dragao-do-mar-a-luta-de-um-jangadeiro-contra-a-escravidao/",
           "publishedOn": "2026-04-15T20:30:03.000Z",
-          "wordCount": 5195,
+          "wordCount": 5187,
           "title": "Dragão do Mar: a luta de um jangadeiro contra a escravidão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/francisco_nascimento_1884_revista_illustrada_376_cropped.jpg"
         },
@@ -695,7 +700,7 @@
           "description": "A presidenta interina da Venezuela, Delcy Rodríguez, recebeu uma delegação do Departamento de Energia dos Estados Unidos no Palácio de Miraflores nesta terça (15/04). O encontro com o subsecretário Kyle Haustveit aconteceu pouco depois de o governo de Donald Trump suspender sanções contra o sistema bancário público do país. Durante a reunião, a mandatária defendeu […]\nO post Venezuela recebe delegação de Trump e pede fim de sanções petrolíferas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/venezuela-recebe-delegacao-de-trump-e-pede-fim-de-sancoes-petroliferas/",
           "publishedOn": "2026-04-15T19:50:55.000Z",
-          "wordCount": 2998,
+          "wordCount": 2990,
           "title": "Venezuela recebe delegação de Trump e pede fim de sanções petrolíferas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/prensa-pres.webp"
         },
@@ -705,7 +710,7 @@
           "description": "Durante reunião com ministros, nesta terça-feira (14/04), o presidente da Colômbia, Gustavo Petro, denunciou a existência de uma conspiração entre setores da direita colombiana e o governo do Equador, encabeçado pelo presidente Daniel Noboa, também de direita. Segundo Petro, a articulação teria como objetivo interferir na eleição presidencial do país, cujo primeiro turno acontecerá no […]\nO post Petro denuncia conspiração entre direita colombiana e governo do Equador apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/petro-denuncia-conspiracao-entre-direita-colombiana-e-governo-do-equador/",
           "publishedOn": "2026-04-15T19:10:47.000Z",
-          "wordCount": 3130,
+          "wordCount": 3076,
           "title": "Petro denuncia conspiração entre direita colombiana e governo do Equador",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/petro.jpg"
         },
@@ -715,7 +720,7 @@
           "description": "O Pentágono enviará cerca de 10 mil soldados adicionais ao Oriente Médio nos próximos dias, enquanto o governo de Donald Trump busca pressionar o Irã para um acordo de cessar-fogo, de acordo com o jornal norte-americano Washington Post nesta quarta-feira (15/04) citando autoridades locais. O reforço militar irá se unir aos cerca de 50 mil […]\nO post Pentágono enviará dez mil soldados adicionais ao Oriente Médio, diz jornal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pentagono-enviara-dez-mil-soldados-adicionais-ao-oriente-medio-diz-jornal/",
           "publishedOn": "2026-04-15T18:28:00.000Z",
-          "wordCount": 3236,
+          "wordCount": 3227,
           "title": "Pentágono enviará dez mil soldados adicionais ao Oriente Médio, diz jornal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/65592ee1-eef2-455c-beeb-1eb4aadfb3f8-captura-de-tela-2026-04-06-as-19.27.05-1.webp"
         },
@@ -725,7 +730,7 @@
           "description": "Em coletiva realizada nesta quarta-feira (15/04), a chefe da Comissão de Expansão da União Europeia, Marta Kos, disse que a queda de Viktor Orbán do cargo de primeiro-ministro da Hungria poder resultar na liberação de uma ajuda militar de 90 bilhões de euros para a Ucrânia. Segundo a diplomata eslovena que comanda a comissão, a […]\nO post Derrota de Orbán na Hungria pode destravar ajuda militar à Ucrânia, afirma UE apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/derrota-de-orban-na-hungria-pode-destravar-ajuda-militar-a-ucrania-afirma-ue/",
           "publishedOn": "2026-04-15T17:40:58.000Z",
-          "wordCount": 3235,
+          "wordCount": 3229,
           "title": "Derrota de Orbán na Hungria pode destravar ajuda militar à Ucrânia, afirma UE",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/kos.jpg"
         },
@@ -735,7 +740,7 @@
           "description": "O jornal Haaretz teve acesso a documentos históricos arquivados pelo Estado de Israel e revelou, em reportagem publicada na terça-feira (14/04), que durante a Segunda Guerra Mundial o grupo paramilitar sionista Lehi, liderado por Avraham “Yair” Stern, realizou tentativas de contato com autoridades da Alemanha nazista, propondo uma aliança militar e política contra a Grã-Bretanha.  […]\nO post Arquivos expõem aliança de milícia sionista com nazistas na Segunda Guerra Mundial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/arquivos-expoem-alianca-de-milicia-sionista-com-nazistas-na-segunda-guerra-mundial/",
           "publishedOn": "2026-04-15T17:00:25.000Z",
-          "wordCount": 3459,
+          "wordCount": 3451,
           "title": "Arquivos expõem aliança de milícia sionista com nazistas na Segunda Guerra Mundial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/31f8acdff7d9026b38669fc96970f093e1b9138e.webp"
         },
@@ -745,39 +750,9 @@
           "description": "A linguagem da mídia hegemônica não apenas descreve o mundo. Ela o organiza, o hierarquiza e, sobretudo, o disciplina. No vocabulário dominante das relações internacionais, certas palavras são mobilizadas de forma sistemática para legitimar aliados e deslegitimar adversários. Não se trata de um detalhe semântico, mas de uma engrenagem central na produção de consenso em […]\nO post A linguagem da mídia como arma de guerra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-linguagem-da-midia-como-arma-de-guerra/",
           "publishedOn": "2026-04-15T16:41:28.000Z",
-          "wordCount": 4069,
+          "wordCount": 4061,
           "title": "A linguagem da mídia como arma de guerra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump-pointing-at-the-press-ca5d38-1024.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252066",
-          "author": "Victor Farinelli",
-          "description": "O presidente Luiz Inácio Lula da Silva enviou ao Congresso Nacional, na noite desta terça-feira (14/04), o projeto de lei que prevê o fim com a escala de seis dias trabalhados para um de descanso, a chamada escala 6×1. A proposta também defende a redução da jornada de trabalho para, no máximo, 40 horas semanais. […]\nO post Lula envia ao Congresso projeto de lei pelo fim da escala 6×1 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-envia-ao-congresso-projeto-de-lei-pelo-fim-da-escala-6x1/",
-          "publishedOn": "2026-04-15T16:20:36.000Z",
-          "wordCount": 3159,
-          "title": "Lula envia ao Congresso projeto de lei pelo fim da escala 6×1",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/lula-5x2-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252063",
-          "author": "Victor Farinelli",
-          "description": "Em comunicado divulgado nesta quarta-feira (15/04), o governo do Irã afirmou que se o bloqueio naval dos Estados Unidos aos portos do país for mantido, o Exército iraniano bloqueará rotas comerciais no Golfo Pérsico, no Mar de Omã e no Mar Vermelho. Segundo a agência iraniana IRNA, o major-general Ali Abdollahi, comandante do quartel-general central […]\nO post Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ameaca-bloquear-golfo-persico-e-mar-vermelho-em-retaliacao-aos-eua/",
-          "publishedOn": "2026-04-15T15:40:38.000Z",
-          "wordCount": 3095,
-          "title": "Irã ameaça bloquear Golfo Pérsico e Mar Vermelho em retaliação aos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/tasnim.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252060",
-          "author": "Rocio Paik",
-          "description": "Com pouco mais de 90% das urnas apuradas na manhã desta quarta-feira (15/04), o candidato de esquerda do Juntos por el Perú, Roberto Sánchez (12,037%) havia desbancado o extremista de direita Rafael López Aliaga (11,900%), da Renovación Popular, ocupando o segundo lugar nas eleições presidenciais. Por sua vez, Keiko Fujimori, filha do ditador Alberto Fujimori, […]\nO post Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/peru-esquerdista-roberto-sanchez-desbanca-lopez-aliaga-e-assume-2o-lugar-na-apuracao/",
-          "publishedOn": "2026-04-15T14:57:05.000Z",
-          "wordCount": 3021,
-          "title": "Peru: esquerdista Roberto Sánchez desbanca López Aliaga e assume 2º lugar na apuração",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfi4uwxxyaa1ldp.jpeg"
         }
       ]
     },
@@ -917,6 +892,26 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3182325",
+          "author": "Marcio Pochmann",
+          "description": "Estamos sob o neopatrimonialismo. Antigos favores do Estado deram lugar à captura em massa da riqueza pública por juros, privatizações, concessões e PPPs. O rentista “moderno” substituiu o senhor – mas sob seu domínio, o país regrediu como nunca\nThe post As novas faces da oligarquia brasileira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/novas-faces-da-oligarquia-brasileira/",
+          "publishedOn": "2026-04-15T22:09:33.000Z",
+          "wordCount": 4277,
+          "title": "As novas faces da oligarquia brasileira",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15190920/photo_5116393548600249372_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182241",
+          "author": "Daniel Barreiros",
+          "description": "Para estabelecer  a supremacia atômica, Trump quer blindagem total do país contra mísseis. Poderia atacar sem temer retaliações. Mas há  limitações concretas e fragilidades no projeto. Implantá-lo poderá acelerar uma corrida armamentista catastrófica\nThe post EUA: Os furos no escudo nuclear  appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/eua-os-furos-no-escudo-nuclear/",
+          "publishedOn": "2026-04-15T21:28:18.000Z",
+          "wordCount": 4160,
+          "title": "EUA: Os furos no escudo nuclear",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/15182755/Screenshot-2026-04-15-at-18-27-48-dn_2025-05-23_3pngcp1d_DOC.20250520.45006835.12120791.avif-imagem-AVIF-1200-%C3%97-675-pixels-Redimensionada-92.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3182286",
           "author": "Berenice Bento",
           "description": "Livro provocador entrevista pessoas judias que romperam com o sionismo, e investiga os dispositivos subjetivos do Estado de Israel. Como esta ruptura ressignifica suas vidas – e desdobra-se no engajamento público com a causa palestina?\nThe post Quem são os judeus dissidentes do sionismo appeared first on Outras Palavras.",
@@ -995,26 +990,6 @@
           "wordCount": 4470,
           "title": "Energia e IA: para tirar o Brasil da pasmaceira",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/14174427/rtx13uef-scaled.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182133",
-          "author": "Sara Goes e Paola Jochimsen",
-          "description": "No Ceará, o emparedamento político de Luizianne Lins revela a força opressora dos acordos masculinos de poder. Sua trajetória insurgente foi sabotada pelo “pragmatismo eleitoral”. Como Ariadne, da mitologia grega, é a heroína descartada\nThe post O labirinto da política devora mulheres fortes appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/feminismos/o-labirinto-da-politica-devora-mulheres-fortes/",
-          "publishedOn": "2026-04-14T19:58:00.000Z",
-          "wordCount": 4532,
-          "title": "O labirinto da política devora mulheres fortes",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/14165538/luizianne_lins_anuncia_pre_candidatura_34-23156642.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182129",
-          "author": "Camila Miranda Evangelista",
-          "description": "Ultradireita age para aprovar três retrocessos, que incluem a obrigação de laudo médico e psicológico para mudança de gênero. A proposta é revogar lei que buscava despatologizar a questão – e contraria as próprias orientações da UE sobre autodeterminação sobre corpos\nThe post Portugal: os direitos transgêneros ameaçados appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/portugal-os-direitos-transgeneros-ameacados/",
-          "publishedOn": "2026-04-14T19:30:31.000Z",
-          "wordCount": 3269,
-          "title": "Portugal: os direitos transgêneros ameaçados",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/14163737/2074657.jpeg"
         }
       ]
     },
@@ -1076,7 +1051,7 @@
           "description": "Camila Galetti e Nathaly Royer: \"Pode-se afirmar que a disputa em torno da criminalização da misoginia revela, portanto, uma dimensão mais profunda: trata-se de uma disputa sobre a própria inteligibilidade da violência. Nomear a misoginia não é apenas um ato descritivo, mas um gesto político que torna visível aquilo que determinados projetos de poder buscam ocultar. \"",
           "link": "https://blogdaboitempo.com.br/2026/04/13/a-criminalizacao-da-misoginia-e-a-fabricacao-da-perseguicao-aos-homens/",
           "publishedOn": "2026-04-13T11:00:00.000Z",
-          "wordCount": 14819,
+          "wordCount": 14674,
           "title": "A criminalização da misoginia e a fabricação da perseguição aos homens",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-6.png"
         }
