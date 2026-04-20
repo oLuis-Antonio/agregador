@@ -6,12 +6,22 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "SLuggN",
+          "author": null,
+          "description": "O centro do sistema capitalista mantém para si o desenvolvimento científico, a pesquisa e as tecnologias de ponta, enquanto exporta etapas mais intensivas em recursos naturais e com maior impacto ambiental, como é o caso da água.",
+          "link": "https://jornalofuturo.com.br/artigo/SLuggN-datacenters-dependencia-tecnologica-e-o-novo-extrativismo-digital-no-brasil",
+          "publishedOn": "2026-04-19T21:00:00.000Z",
+          "wordCount": 1782,
+          "title": "Datacenters, dependência tecnológica e o novo extrativismo digital no Brasil",
+          "imageUrl": "https://media.jornalofuturo.com.br/microsoftdatacenter-800x450.jpg"
+        },
+        {
           "id": "HASlL8",
           "author": null,
           "description": "Marcada pela resistência indígena e a tentativa de invisibilização pela mídia, mobilização denunciou falhas no licenciamento, pressionou autoridades e levou luta para Brasília.",
           "link": "https://jornalofuturo.com.br/artigo/HASlL8-liderada-por-mulheres-indigenas-ocupacao-em-altamira-pa-denuncia-projeto-de-mineradora-belo-sun",
           "publishedOn": "2026-04-19T18:00:00.000Z",
-          "wordCount": 2081,
+          "wordCount": 2090,
           "title": "Liderada por mulheres indígenas, ocupação em Altamira (PA) denuncia projeto de mineradora Belo Sun",
           "imageUrl": "https://media.jornalofuturo.com.br/belonsunocupa%C3%83%C2%A7%C3%83%C2%A3o-1200x900.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "A Câmara de Vereadores de Maringá se mostra, mais uma vez, interessada apenas em agradar os interesses das elites locais e dos seus aliados políticos, enquanto age de maneira repressiva contra estudantes exercendo seu direito à crítica.",
           "link": "https://jornalofuturo.com.br/artigo/oBcyUA-programa-olho-vivo-articulado-por-guto-silva-opera-na-ilegalidade-no-parana",
           "publishedOn": "2026-04-19T15:00:00.000Z",
-          "wordCount": 1801,
+          "wordCount": 1810,
           "title": "Programa Olho Vivo, articulado por Guto Silva, opera na ilegalidade no Paraná",
           "imageUrl": "https://media.jornalofuturo.com.br/guto_ratinho-860x606.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Sem mecanismos públicos fortes de regulação, o mercado redefine valores rapidamente, anulando o impacto fiscal e transferindo recursos públicos para ampliar lucros privados.",
           "link": "https://jornalofuturo.com.br/artigo/UnCb6t-margens-de-lucro-dos-postos-e-distribuidoras-disparam-ate-103-e-expoem-limites-da-politica-de-zerar-impostos",
           "publishedOn": "2026-04-18T21:00:00.000Z",
-          "wordCount": 1972,
+          "wordCount": 1981,
           "title": "Margens de lucro dos postos e distribuidoras disparam até 103% e expõem limites da política de zerar impostos",
           "imageUrl": "https://media.jornalofuturo.com.br/lucropostos-669x400.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "O aporte, no valor de 6 bilhões de reais, realizado pela empresa norte-americana RT-one apresentou como previsão inicial a instalação do projeto em um período estimado de 12 meses.",
           "link": "https://jornalofuturo.com.br/artigo/VXYfAI-construcao-de-data-center-em-uberlandia-mg-explicita-as-contradicoes-do-lobby-de-inteligencia-artificial-ia",
           "publishedOn": "2026-04-18T15:00:00.000Z",
-          "wordCount": 4712,
+          "wordCount": 4721,
           "title": "Construção de Data center em Uberlândia (MG) explicita as contradições do lobby de Inteligência Artificial (IA)",
           "imageUrl": "https://media.jornalofuturo.com.br/datacenteruberlandia-1280x853.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "A constitucionalização do SUAS reduz a vulnerabilidade da política pública a cortes orçamentários e desestruturações decorrentes de mudanças de governo.",
           "link": "https://jornalofuturo.com.br/artigo/qp7QX3-camara-aprova-pec-do-suas-apesar-de-votos-contrarios-do-pl-e-novo",
           "publishedOn": "2026-04-17T21:00:00.000Z",
-          "wordCount": 1423,
+          "wordCount": 1432,
           "title": "Câmara aprova PEC do SUAS apesar de votos contrários do PL e Novo",
           "imageUrl": "https://media.jornalofuturo.com.br/suas-1047x720.jpg"
         },
@@ -61,7 +71,7 @@
           "description": "O Conselho de Defesa do Patrimônio Cultural de Campinas (Condepacc) havia determinado a retirada de 52 bancas do centro da cidade, mas a decisão foi revogada após mobilização dos permissionários.",
           "link": "https://jornalofuturo.com.br/artigo/A8t0kb-prefeitura-de-campinas-ataca-bancas-e-recua-rapidamente-enquanto-discurso-higienista-se-fortalece",
           "publishedOn": "2026-04-17T15:00:00.000Z",
-          "wordCount": 1731,
+          "wordCount": 1740,
           "title": "Prefeitura de Campinas ataca bancas e recua rapidamente, enquanto discurso higienista se fortalece",
           "imageUrl": "https://media.jornalofuturo.com.br/bancascampinas-1140x570.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "A defesa nacional exige a ruptura com a lógica de subordinação imperialista e a construção de um projeto estratégico próprio.",
           "link": "https://jornalofuturo.com.br/artigo/ZdHrvc-eua-enviam-porta-avioes-para-exercicios-navais-no-brasil-e-aprofundam-submissao-militar-do-pais",
           "publishedOn": "2026-04-16T21:00:00.000Z",
-          "wordCount": 1988,
+          "wordCount": 1997,
           "title": "EUA enviam porta-aviões para exercícios navais no Brasil e aprofundam submissão militar do país",
           "imageUrl": "https://media.jornalofuturo.com.br/portaavioeseua-960x540.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "A simples afirmação de um aspecto figurativo de igualdade racial por parte de ações pontuais da prefeitura não demonstra uma efetividade de condições de eliminação das opressões.",
           "link": "https://jornalofuturo.com.br/artigo/ivl86a-farsa-do-antirracismo-na-gestao-de-emilia-correa-na-prefeitura-de-aracaju-se",
           "publishedOn": "2026-04-16T15:00:00.000Z",
-          "wordCount": 1813,
+          "wordCount": 1825,
           "title": "Farsa do antirracismo na gestão \rde Emília Corrêa na Prefeitura de Aracaju (SE)",
           "imageUrl": "https://media.jornalofuturo.com.br/aracaju-1-1280x853.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "Para as trabalhadoras e os trabalhadores do Paraná, entretanto, a política salarial adotada revela uma escolha política: manter o arrocho sobre quem sustenta diariamente os serviços públicos ofertados ao povo trabalhador paranaense.",
           "link": "https://jornalofuturo.com.br/artigo/TsrOqZ-ratinho-jr-propoe-reajuste-de-apenas-5-diante-de-perdas-salariais-superiores-a-50",
           "publishedOn": "2026-04-15T21:00:00.000Z",
-          "wordCount": 1670,
+          "wordCount": 1679,
           "title": "Ratinho Jr. propõe reajuste de apenas 5% diante de perdas salariais superiores a 50%",
           "imageUrl": "https://media.jornalofuturo.com.br/ratinhojrsalario-960x540.jpg"
-        },
-        {
-          "id": "OIroZS",
-          "author": null,
-          "description": "Secundaristas disputam O Futuro no 46° CONUBES, que ocorrerá entre os dias 16 e 19 de abril, em São Bernardo do Campo (SP).",
-          "link": "https://jornalofuturo.com.br/artigo/OIroZS-retomar-a-ubes-para-a-luta",
-          "publishedOn": "2026-04-15T15:00:00.000Z",
-          "wordCount": 2694,
-          "title": "Retomar a UBES para a luta!",
-          "imageUrl": "https://media.jornalofuturo.com.br/ujc_eng_niteroi-1200x1600.jpg"
         }
       ]
     },
@@ -113,12 +113,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61341",
+          "author": "Leonardo de Paula",
+          "description": "O último dia do congresso da União Brasileira de Estudantes Secundaristas (UBES) foi marcado pela continuidade da plenária final e um ato político em solidariedade à Cuba. A bancada do Rebele-se evidencia a continuidade das lutas do movimento estudantil pela educação, contra o imobilismo da UBES e contra o imperialismo estadunidense. Nathalia Vergara | São […]",
+          "link": "https://averdade.org.br/2026/04/a-luta-contra-o-imperialismo-e-o-calendario-de-novas-mobilizacoes-foram-destaques-no-ultimo-dia-do-46o-conubes/",
+          "publishedOn": "2026-04-20T01:30:59.000Z",
+          "wordCount": 7814,
+          "title": "A luta contra o imperialismo e o calendário de novas mobilizações foram destaques no último dia do 46º CONUBES",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Vinicius-Joao.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61333",
           "author": "Felipe Annunziata",
           "description": "Primeiro dia de Plenária Final do 46º CONUBES foi marcado pelas defesas das teses de conjuntura, educação e movimento estudantil dos movimentos de oposição à direção imobilista da entidade. Leonardo de Paula e Nathalia Vergara | São Bernardo do Campo (SP) JUVENTUDE – O início do terceiro dia do 46° Congresso da UBES foi marcado […]",
           "link": "https://averdade.org.br/2026/04/oposicao-defende-ubes-na-luta-contra-o-imperialismo/",
           "publishedOn": "2026-04-18T20:50:16.000Z",
-          "wordCount": 7311,
+          "wordCount": 7352,
           "title": "Oposição defende UBES na luta anti-imperialista e antifascista no terceiro dia de Congresso",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG_3611.jpg"
         },
@@ -128,7 +138,7 @@
           "description": "Delegados do campo de oposição do CONUBES, liderado pelo Movimento Rebele-se, denunciam a falta de democracia na entidade e fazem a defesa das reivindicações dos estudantes, principalmente o fim da militarização das escolas.  Felipe Annunziata e Leonardo de Paula | São Bernardo do Campo (SP) JUVENTUDE – O segundo dia do 46º Congresso da UBES […]",
           "link": "https://averdade.org.br/2026/04/segundo-dia-do-conubes-e-marcado-por-denuncia-da-militarizacao-das-escolas/",
           "publishedOn": "2026-04-18T12:31:04.000Z",
-          "wordCount": 7222,
+          "wordCount": 7244,
           "title": "Segundo dia do CONUBES é marcado por denúncia da militarização das escolas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG_7307.jpg"
         },
@@ -138,7 +148,7 @@
           "description": "Em Itabirito (MG), o Sindsemi convoca eleições sindicais e o MLC apresenta nome para a disputa. As inscrições de chapas começam nesta sexta. Thomás Toledo – Itabirito (MG) O Sindicato dos Servidores Públicos Municipais de Itabirito-MG, por meio de publicação de Edital, decreta que serão realizadas eleições sindicais para escolha dos membros dos órgãos de […]",
           "link": "https://averdade.org.br/2026/04/itabirito-mg-sindsemi-publica-edital-de-eleicoes-sindicais-inscricoes-comecam-nesta-sexta-17-04/",
           "publishedOn": "2026-04-17T15:19:38.000Z",
-          "wordCount": 6960,
+          "wordCount": 6977,
           "title": "Itabirito (MG): Sindsemi publica edital de eleições sindicais; inscrições começam nesta sexta (17/04)",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/0d74f7cc-e751-4f11-a67f-b23f221fc624.jpg"
         },
@@ -148,7 +158,7 @@
           "description": "Milhares de estudantes se reunirão em São Bernardo do Campo (SP) para participar do Congresso da União Brasileira dos Estudantes Secundaristas (UBES), que acontecerá entre os dias 16 a 19 de abril de 2026. O CONUBES é o maior congresso estudantil da América Latina e receberá a juventude para debater o orçamento da educação, a […]",
           "link": "https://averdade.org.br/2026/04/abertura-do-46-conubes-defende-soberania-e-luta-organizada-nas-escolas/",
           "publishedOn": "2026-04-16T23:41:18.000Z",
-          "wordCount": 7032,
+          "wordCount": 7061,
           "title": "Oposição reafirma luta pelo fim imediato da escala 6×1 na abertura do 46° CONUBES",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG_0704-1.jpg"
         },
@@ -158,7 +168,7 @@
           "description": "Na manhã desta quinta-feira (16) as moradoras da Ocupação Helenira Preta: Por Gabriela Mariel Silvério! foram acordadas pela Polícia Militar, com escudos e cassetetes nas mãos, reintegrando a ocupação. Larissa Mayumi | São Paulo Mulheres – O Movimentou de Mulheres Olga Benario, que possui dezenas de ocupações como essa em todo o Brasil, esteve em […]",
           "link": "https://averdade.org.br/2026/04/prefeitura-de-maua-despeja-ilegalmente-ocupacao-helenira-preta/",
           "publishedOn": "2026-04-16T21:23:23.000Z",
-          "wordCount": 6864,
+          "wordCount": 6874,
           "title": "Prefeitura de Mauá despeja ocupação Helenira Preta",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-17.54.49.jpeg"
         },
@@ -168,7 +178,7 @@
           "description": "Ação para despejar Ocupação Dona Ilda Lameu, que organizava uma casa de referência para a mulher vítima de violência em Duque de Caxias (RJ), foi realizada para atender interesse de empresa milionária que quer construir shopping. Redação RJ MULHERES – Um dia após de ter completado um mês de existência, a Ocupação Dona llda Lameu, […]",
           "link": "https://averdade.org.br/2026/04/ocupacao-de-mulheres-dona-ilda-lameu-e-despejada-covardemente-em-duque-de-caxias-rj/",
           "publishedOn": "2026-04-16T20:33:29.000Z",
-          "wordCount": 7568,
+          "wordCount": 7585,
           "title": "Ocupação de mulheres Dona Ilda Lameu é despejada covardemente em Duque de Caxias (RJ)",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-17.30.40.jpeg"
         },
@@ -178,7 +188,7 @@
           "description": "Fruto de uma jornada nacional, a Ocupação de Mulheres Maria Augusta Thomaz é um espaço de acolhimento à mulheres e combate à violência de gênero, e a primeira em Goiânia organizada pelo Movimento de Mulheres Olga Benario Movimento Olga Benario | Goiânia (GO) MULHERES – O dia 14 de março de 2026 foi marcado nacionalmente […]",
           "link": "https://averdade.org.br/2026/04/ocupacao-maria-augusta-thomaz-e-a-primeira-ocupacao-de-mulheres-de-goiania-go/",
           "publishedOn": "2026-04-16T20:33:13.000Z",
-          "wordCount": 7037,
+          "wordCount": 7054,
           "title": "Ocupação Maria Augusta Thomaz é a primeira Ocupação de Mulheres de Goiânia (GO)",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-07.30.50.jpeg"
         },
@@ -188,19 +198,9 @@
           "description": "2.800 pessoas foram mortas no Paraná como resultado da política fascista de Ratinho Júnior e da polícia militar contra a juventude periférica. A pré-candidatura à presidência de Samara Martins da Unidade Popular pelo socialismo deve ser a resposta do povo contra essa violência. André Peixe e Davi Duarte | Redação Paraná LUTA POPULAR – Na […]",
           "link": "https://averdade.org.br/2026/04/violencia-policial-marca-governo-ratinho-junior-no-parana/",
           "publishedOn": "2026-04-15T16:41:33.000Z",
-          "wordCount": 6946,
+          "wordCount": 6963,
           "title": "Violência policial marca governo Ratinho Júnior no Paraná",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/rato-maldito.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61277",
-          "author": "Clóvis Maia",
-          "description": "Passadas as primeiras mobilizações e levantes populares, a classe operária brasileira, cada vez mais numerosa e tomando consciência de sua importância para a construção da nação, continua as lutas de maneira cada vez mais organizada. Esse é o quarto capítulo da série “A história oficial Versus as lutas do proletariado brasileiro” exclusiva para o jornal […]",
-          "link": "https://averdade.org.br/2026/04/lutas-populares-no-brasil-1906-1910-a-classe-operaria-comeca-sua-organizacao/",
-          "publishedOn": "2026-04-15T14:48:50.000Z",
-          "wordCount": 7727,
-          "title": "Lutas Populares no Brasil (1906-1910): a classe operária começa sua organização",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/greve-ferroviaria-1908.jpg"
         }
       ]
     },
@@ -317,12 +317,22 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Exercito-repassou-R-39-milhoes-ao-Banco-Master-em-um-ano-e-agora-os-generais-se-veem-metidos-no",
+          "author": "Redação",
+          "description": "A nova revelação sobre o caso do Banco Master mostra que o escândalo de fato atingiu todo o regime político e os militares não ficaram de fora. Segundo relatório de inteligência financeira do Coaf, revelado pela Folha de S.Paulo, o Exército credenciou o Banco Master para operar empréstimos consignados a militares da ativa e da reserva e repassou R$39 milhões ao banco entre agosto de 2024 e outubro de 2025, pouco mais de um ano. Com a liquidação do Master pelo Banco Central em novembro de 2025, o contrato foi rescindido poucos dias depois.\n19-04-2026\n\n/ Política, Capital financeiro, Militares na política, Militares, Banco Master",
+          "link": "https://www.esquerdadiario.com.br/Exercito-repassou-R-39-milhoes-ao-Banco-Master-em-um-ano-e-agora-os-generais-se-veem-metidos-no",
+          "publishedOn": "2026-04-19T22:31:52.000Z",
+          "wordCount": 8452,
+          "title": "Exército repassou R$39 milhões ao Banco Master em um ano e agora os generais se veem metidos no escândalo",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2025-08-20-at-06.03_59.webp?1776637880"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Bruno-Gilga-A-tarefa-que-unifica-todos-os-povos-oprimidos-do-mundo-e-a-nossa-classe-e-enfrentar-o",
           "author": "Redação",
           "description": "Neste domingo ocorreu a Mesa de Debate de Conjuntura Nacional, Internacional e Plano de Lutas no 6º Congresso da CSP-Conlutas. Veja a intervenção de Bruno Gilga, trabalhador da USP em greve que representou o Movimento Nossa Classe na mesa.\n19-04-2026\n\n/ Classe trabalhadora, CSP-Conlutas, Movimento Nossa Classe, PSTU, Classe Trabalhadora, Congresso CSP-Conlutas",
           "link": "https://www.esquerdadiario.com.br/Bruno-Gilga-A-tarefa-que-unifica-todos-os-povos-oprimidos-do-mundo-e-a-nossa-classe-e-enfrentar-o",
           "publishedOn": "2026-04-19T17:15:44.000Z",
-          "wordCount": 7837,
+          "wordCount": 7836,
           "title": "Bruno Gilga: \"A tarefa que unifica todos os povos oprimidos do mundo e a nossa classe é enfrentar o imperialismo\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000351794.jpg?1776615915"
         },
@@ -332,7 +342,7 @@
           "description": "Um grave episódio de violência foi registrado no bairro de Lagoa Nova, no conjunto Potilândia, nas imediações do Centro Cultural do coletivo\n16-04-2024\n\n/ Cultura, Violência policial, Arte, cultura, Rio Grande do Norte, Nordeste, Rio Grande do Norte, arte urbana, Natal, Fátima Bezerra (PT), Brasil, Repressão policial, Brutalidade policial, Polícia Militar, Coltracultura",
           "link": "https://www.esquerdadiario.com.br/Policial-a-paisana-atira-contra-artistas-em-acao-cultural-em-bairro-nobre-de-Natal",
           "publishedOn": "2026-04-16T17:43:52.000Z",
-          "wordCount": 8269,
+          "wordCount": 8266,
           "title": "Policial à paisana atira contra artistas em ação cultural em bairro nobre de Natal",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-16_at_14.37_08.jpg?1776361411"
         },
@@ -342,7 +352,7 @@
           "description": "No último Conselho Geral do SindUTE-MG a direção estadual do sindicato reafirmou sua postura antidemocrática negando à base um espaço elementar de discussão e deliberação.\nMatérias\n\n/ Educação, precarização, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação, SindUTE-MG",
           "link": "https://www.esquerdadiario.com.br/Direcao-do-SindUTE-MG-nega-a-assembleia-requisitada-em-carta-assinada-por-mais-mais-80-professores",
           "publishedOn": "2026-04-15T18:56:47.000Z",
-          "wordCount": 8312,
+          "wordCount": 8315,
           "title": "Direção do SindUTE-MG nega a assembleia requisitada em carta assinada por mais mais 80 professores",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-15_at_15.54_41.jpg?1776279403"
         },
@@ -352,7 +362,7 @@
           "description": "A greve segue após arrancar uma primeira reunião com o reitor, e conta com ato marcado amanhã, às 14h30 em frente à Reitoria. \n Centenas de trabalhadores da Universidade de São Paulo se reuniram no auditório Milton Santos, na FFLCH (Faculdade de Filosofia, Letras e Ciências Humanas) para debater e aprovar a continuidade da greve dos funcionários da USP, que, em seu segundo dia já deu fortes exemplos de luta por isonomia, contra os Parâmetros de Sustentabilidade da USP e a reitoria gerida (…)\nMatérias\n\n/ USP, Educação, Movimento Nossa Classe, SINTUSP, Reitoria USP, São Paulo, Assembleia, Faísca Revolucionária, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-USP-aprovam-continuidade-da-greve-em-enorme-assembleia",
           "publishedOn": "2026-04-15T18:12:07.000Z",
-          "wordCount": 8116,
+          "wordCount": 8121,
           "title": "Trabalhadores da USP aprovam continuidade da greve em enorme assembleia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-15_at_14.25_32.jpg?1776276466"
         }
@@ -392,21 +402,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/04/Header-site-horizontal-1.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442380",
-          "author": "Eduardo Lima",
-          "description": "O filósofo, que está lançando o livro ‘A ameaça interna – Psicanálise dos novos fascismos globais’, defende que o campo progressista precisa dar uma guinada à esquerda e pensar em novas propostas para combater Bolsonaro, Trump e Milei.\nO post Safatle: ‘Vivemos em fascismos restritos e não em democracias liberais’ apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/04/15/safatle-vivemos-em-fascismos-restritos-e-nao-em-democracias-liberais/",
-          "publishedOn": "2026-04-15T10:00:00.000Z",
-          "wordCount": 6146,
-          "title": "Safatle: ‘Vivemos em fascismos restritos e não em democracias liberais’",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2025/12/Shortcode_760x430.mp4",
-            "length": "5875086",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2026/04/SafatleFeat.jpg"
         }
       ]
     },
@@ -495,7 +490,7 @@
           "description": "O governo do Irã rejeitou neste domingo (19/04) uma segunda rodada de negociações com os Estados Unidos em meio a “exigências excessivas” e demandas “irracionais e pouco realistas” por parte da nação inimiga, além da manutenção do bloqueio naval no Estreito de Ormuz para impedir a locomoção de embarcações iranianas. “Nessas condições, não se vislumbra […]\nO post Irã nega novas negociações com EUA ao criticar ‘exigências excessivas’ e bloqueio naval em Ormuz apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-nega-novas-negociacoes-com-eua-ao-criticar-exigencias-excessivas-e-bloqueio-naval-em-ormuz/",
           "publishedOn": "2026-04-19T19:40:39.000Z",
-          "wordCount": 3315,
+          "wordCount": 3265,
           "title": "Irã nega novas negociações com EUA ao criticar ‘exigências excessivas’ e bloqueio naval em Ormuz",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/140402211040015732813064-1.jpg"
         },
@@ -505,7 +500,7 @@
           "description": "O ministro da Defesa de Israel, Israel Katz, declarou neste domingo (19/04) que o Exército recebeu instruções para usar “toda a sua força” no Líbano, apesar do cessar-fogo, caso as tropas israelenses sejam alvo de ameaças. “O primeiro-ministro Benjamin Netanyahu e eu instruímos as Forças de Defesa de Israel a agir com toda a sua […]\nO post Apesar do cessar-fogo, Israel promete usar ‘toda a força’ no Líbano contra ‘qualquer ameaça’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/apesar-do-cessar-fogo-israel-promete-usar-toda-a-forca-no-libano-contra-qualquer-ameaca/",
           "publishedOn": "2026-04-19T18:50:55.000Z",
-          "wordCount": 3604,
+          "wordCount": 3554,
           "title": "Apesar do cessar-fogo, Israel promete usar ‘toda a força’ no Líbano contra ‘qualquer ameaça’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/he90xvbaqaawnjj.jpeg"
         },
@@ -515,7 +510,7 @@
           "description": "O Júri Nacional das Eleições do Peru (JNE) estimou no sábado (18/04) que os resultados do primeiro turno das eleições presidenciais estarão disponíveis até meados de maio, tendo, assim, a definição dos dois candidatos que disputarão o pleito final em 7 de junho. A conservadora Keiko Fujimori, filha do ditador Alberto Fujimori, já tem sua […]\nO post Justiça eleitoral do Peru diz que resultado do primeiro turno deve sair em maio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/justica-eleitoral-do-peru-diz-que-resultado-do-primeiro-turno-deve-sair-em-maio/",
           "publishedOn": "2026-04-19T18:00:43.000Z",
-          "wordCount": 3235,
+          "wordCount": 3185,
           "title": "Justiça eleitoral do Peru diz que resultado do primeiro turno deve sair em maio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/f22c0211-09f4-4c39-88ed-0bc6a44788a3.jpg.webp"
         },
@@ -525,7 +520,7 @@
           "description": "Parlamentares do Partido Democrata pressionam pela destituição de Donald Trump do cargo de presidente com base na 25ª Emenda da Constituição dos Estados Unidos, após ele ameaçar exterminar “uma civilização inteira” caso o Irã não recuasse – declaração que muitos descreveram como um potencial crime de guerra. A forma como o presidente dos EUA lidou […]\nO post Democratas e ex-aliados debatem possível destituição de Trump nos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/democratas-e-ex-aliados-debatem-possivel-destituicao-de-trump-nos-eua/",
           "publishedOn": "2026-04-19T17:10:54.000Z",
-          "wordCount": 4619,
+          "wordCount": 4569,
           "title": "Democratas e ex-aliados debatem possível destituição de Trump nos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/image-3-e1776091221186.png"
         },
@@ -934,16 +929,6 @@
           "wordCount": 11752,
           "title": "“O Drama”: o que fazer com as cinzas?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/177550686769d415b336dd3_1775506867_3x2_md.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63505",
-          "author": "Boitempo",
-          "description": "Michel Goulart da Silva : \"Marx e Engels esboçaram, dentro de sua compreensão, também indicações de escrita da História. Para tanto, negaram as compreensões idealistas, fossem aquelas que vissem a história como um processo linear, fossem aquelas que se limitassem à descrição superficial de processos políticos. Com isso, apontaram para uma forma inovadora não apenas de compreender como de escrever a História, enquanto processo marcado pela luta de classes.\"",
-          "link": "https://blogdaboitempo.com.br/2026/04/15/marx-engels-e-a-escrita-da-historia/",
-          "publishedOn": "2026-04-15T11:00:00.000Z",
-          "wordCount": 14441,
-          "title": "Marx, Engels e a escrita da História",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/01/image-18.png"
         }
       ]
     }
