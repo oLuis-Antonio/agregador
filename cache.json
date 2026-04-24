@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "1iHAJI",
+          "author": null,
+          "description": "A redução abrupta da capacidade de armazenamento compromete o acesso a grandes bases de dados científicos, incluindo sequenciamentos genômicos, registros epidemiológicos e projetos colaborativos internacionais.",
+          "link": "https://jornalofuturo.com.br/artigo/1iHAJI-microsoft-corta-98-do-armazenamento-da-fiocruz-e-ameaca-pesquisas-cientificas-estrategicas",
+          "publishedOn": "2026-04-23T21:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Microsoft corta 98% do armazenamento da Fiocruz e ameaça pesquisas científicas estratégicas",
+          "imageUrl": "https://media.jornalofuturo.com.br/fiocruz-530x367.jpg"
+        },
+        {
           "id": "4ZYRV3",
           "author": null,
           "description": "A defesa abstrata da unidade, quando desvinculada do conteúdo político e de classe dessa unidade, deixa de ser uma posição marxista para tornar-se mera justificativa de oportunismo.",
@@ -94,16 +104,6 @@
           "wordCount": 2090,
           "title": "Liderada por mulheres indígenas, ocupação em Altamira (PA) denuncia projeto de mineradora Belo Sun",
           "imageUrl": "https://media.jornalofuturo.com.br/belonsunocupa%C3%83%C2%A7%C3%83%C2%A3o-1200x900.jpg"
-        },
-        {
-          "id": "oBcyUA",
-          "author": null,
-          "description": "A Câmara de Vereadores de Maringá se mostra, mais uma vez, interessada apenas em agradar os interesses das elites locais e dos seus aliados políticos, enquanto age de maneira repressiva contra estudantes exercendo seu direito à crítica.",
-          "link": "https://jornalofuturo.com.br/artigo/oBcyUA-programa-olho-vivo-articulado-por-guto-silva-opera-na-ilegalidade-no-parana",
-          "publishedOn": "2026-04-19T15:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Programa Olho Vivo, articulado por Guto Silva, opera na ilegalidade no Paraná",
-          "imageUrl": "https://media.jornalofuturo.com.br/guto_ratinho-860x606.jpg"
         }
       ]
     },
@@ -113,24 +113,34 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61398",
+          "author": "Clóvis Maia",
+          "description": "Os estudantes de Pedagogia da Universidade de Pernambuco (UPE) em Petrolina, sertão pernambucano, receberam uma aula com a participação da Frente Negra Revolucionária (FNR) sobre a participação e resistência da militância negra durante as duas décadas de regime militar no Brasil André Luiz| Redação Petrolina SOCIEDADE- A Frente Negra Revolucionária (FNR) participou de uma aula […]",
+          "link": "https://averdade.org.br/2026/04/aula-debate-resistencia-negra-durante-da-ditadura-militar-brasileira/",
+          "publishedOn": "2026-04-23T23:58:16.000Z",
+          "wordCount": 6725,
+          "title": "Aula debate resistência negra durante da ditadura militar brasileira",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/FNR-petrolina-editada.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61393",
+          "author": "Leonardo de Paula",
+          "description": "Para atingirmos nosso objetivo de realizar uma revolução socialista em nosso país, socializar as riquezas e conquistar o Poder político junto à classe trabalhadora, devemos aprofundar nosso trabalho revolucionário entre as massas. Só com uma profunda influência entre as massas é que podemos ser vitoriosos.  Valentina Spedine – São Paulo Teoria Marxista – Da mesma […]",
+          "link": "https://averdade.org.br/2026/04/que-trabalho-de-massas-precisamos/",
+          "publishedOn": "2026-04-23T18:44:49.000Z",
+          "wordCount": 7549,
+          "title": "Que trabalho de massas precisamos?",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/53457951416_a76e23ac3f_c.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61390",
           "author": "Leonardo de Paula",
           "description": "No dia 30/03, trabalhadores de saúde do munícipio de Campinas no estado de São Paulo, paralisaram as atividades em denúncia ao desmonte do setor público da cidade na gestão do atual prefeito Dário Saadi (Republicanos) Vinnicius de Aguiar | Campinas (SP) Saúde – Resultado do desmonte do serviço público, diversos trabalhadores têm sentido na própria […]",
           "link": "https://averdade.org.br/2026/04/trabalhadores-da-saude-de-campinas-sp-denunciam-desmonte-da-saude-na-cidade/",
           "publishedOn": "2026-04-23T16:36:39.000Z",
-          "wordCount": 6925,
+          "wordCount": 6929,
           "title": "Trabalhadores da saúde de Campinas (SP) denunciam desmonte da saúde  na cidade",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-09.55.28-2-1.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61384",
-          "author": "Clóvis Maia",
-          "description": "O jornal a verdade entrevistou Augusto Alves, militante da Unidade Popular em Pernambuco e membro da Primeira Igreja Batista em Bultrins, Olinda, que há mais de vinte anos desenvolve um trabalho junto à toda comunidade. Na entrevista, Augusto fala um pouco da experiência desenvolvida com a igreja e como a fé é importante em nosso […]",
-          "link": "https://averdade.org.br/2026/04/o-papel-da-igreja-e-acolher-nao-excluir/",
-          "publishedOn": "2026-04-23T14:29:26.000Z",
-          "wordCount": 7870,
-          "title": "“O papel da Igreja é acolher, não excluir”",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260310-WA0012.jpg"
         },
         {
           "id": "https://averdade.org.br/?p=61381",
@@ -148,7 +158,7 @@
           "description": "Os comunistas desencadeiam a luta revolucionária anticapitalista e anti-imperialista, lutam pelo socialismo e pelo comunismo no mundo. Natanael Sarmento | Diretório Nacional da UP TEORIA MARXISTA-LENINISTA – Os comunistas, historicamente, são os mais radicais e consequentes combatentes pela paz mundial. Na defesa classista dos interesses e da vida dos trabalhadores, combatem as guerras imperialistas de […]",
           "link": "https://averdade.org.br/2026/04/os-comunistas-as-guerras-e-a-questao-da-paz/",
           "publishedOn": "2026-04-22T17:54:07.000Z",
-          "wordCount": 7771,
+          "wordCount": 7759,
           "title": "Os comunistas, as guerras e a questão da paz",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/P12-_-Trump-_-Diogo-Romao.jpg"
         },
@@ -158,7 +168,7 @@
           "description": "O filme O Agente Secreto, chamou atenção por se tratar de mais uma obra cinematográfica que expõe e aprofunda uma das questões mais delicadas de nossa história recente: a ditadura militar de 1964.  Rafael Freire | Recife (PE) CULTURA – “PERNA CABELUDA ROUBA PERNA NO IML”. Esta manchete de jornal exemplifica perfeitamente como o real e […]",
           "link": "https://averdade.org.br/2026/04/o-agente-secreto-denuncia-crimes-da-ditadura-militar/",
           "publishedOn": "2026-04-22T17:45:23.000Z",
-          "wordCount": 7894,
+          "wordCount": 7889,
           "title": "O Agente Secreto denuncia crimes da ditadura militar",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/12/o-agente-secreto-1-1024x593-1.jpg"
         },
@@ -168,7 +178,7 @@
           "description": "Durante  21 anos de ditadura os militares fascistas usaram a vigilância e o medo para perseguir, torturar e assassinar aqueles que lutavam. As grandes empresas nacionais e multinacionais cumpriram um papel fundamental na contribuição com a ditadura militar, é o caso da General Motors, localizada em São Caetano do Sul Isabella Leal | São Paulo […]",
           "link": "https://averdade.org.br/2026/04/general-motors-e-ditadura-perseguiram-e-assassinaram-operarios/",
           "publishedOn": "2026-04-21T21:01:12.000Z",
-          "wordCount": 7187,
+          "wordCount": 7182,
           "title": "General Motors e ditadura perseguiram e assassinaram operários",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG_1042-1.jpeg"
         },
@@ -178,7 +188,7 @@
           "description": "Chegamos ao 5º capítulo da série “A história oficial Versus as lutas do proletariado brasileiro”, justamente em um dos momentos mais emblemáticos de nossa história nacional e uma das mobilizações mais importantes da classe trabalhadora no país: a Revolta da Chibata.   Natanael Sarmento – Redação Pernambuco HISTÓRIA (Parte 5) – Predominava a produção agrária […]",
           "link": "https://averdade.org.br/2026/04/1910-marinheiros-em-armas/",
           "publishedOn": "2026-04-21T15:34:35.000Z",
-          "wordCount": 7230,
+          "wordCount": 7225,
           "title": "1910: Marinheiros em armas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/revolta-da-chibata-2.webp"
         },
@@ -188,7 +198,7 @@
           "description": "A aula ocorreu no Parque Treze de Maio, centro do Recife, e de bateu sobre os 65 anos da vitória dos cubanos contra uma tentativa de invasão patrocinada pelo imperialismo americano. Augusto Costa| Recife HISTÓRIA- A Unidade Popular e o Comitê Pernambucano de Solidariedade com Cuba em Pernambuco promoveram nesse último domingo (19/04), na cidade […]",
           "link": "https://averdade.org.br/2026/04/solidariedade-marca-aula-publica-sobre-cuba-em-recife/",
           "publishedOn": "2026-04-20T11:41:04.000Z",
-          "wordCount": 7058,
+          "wordCount": 7053,
           "title": "Solidariedade marca aula pública sobre Cuba em Recife",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260419-WA0019.jpg"
         },
@@ -198,7 +208,7 @@
           "description": "O último dia do congresso da União Brasileira de Estudantes Secundaristas (UBES) foi marcado pela continuidade da plenária final e um ato político em solidariedade à Cuba. A bancada do Rebele-se dá continuidade às lutas pela educação, contra o imobilismo da UBES e contra o imperialismo. Nathalia Vergara | São Bernardo do Campo (SP) JUVENTUDE […]",
           "link": "https://averdade.org.br/2026/04/a-luta-contra-o-imperialismo-e-o-calendario-de-novas-mobilizacoes-foram-destaques-no-ultimo-dia-do-46o-conubes/",
           "publishedOn": "2026-04-20T01:30:59.000Z",
-          "wordCount": 7792,
+          "wordCount": 7778,
           "title": "A luta contra o imperialismo e o calendário de novas mobilizações foram destaques no último dia do 46º CONUBES",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Vinicius-Joao.jpeg"
         }
@@ -456,6 +466,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=159796",
+          "author": "Manuela Rached Pereira",
+          "description": "Julgamento dos réus acusados de matar Guilherme Silva Guedes, em 2020, após falsa acusação de roubo em SP, foi remarcado após advogado de defesa apresentar novo atestado médico dias antes da audiência; mãe da vítima critica demora e cobra justiça\nO conteúdo ‘Conseguiram me torturar de novo’, diz mãe após 4º adiamento de júri de ex-PMs acusados de matar adolescente Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/juri-de-ex-pms-acusados-de-matar-adolescente-em-sp-e-adiado-pela-4a-vez/",
+          "publishedOn": "2026-04-23T21:41:06.000Z",
+          "wordCount": 5957,
+          "title": "‘Conseguiram me torturar de novo’, diz mãe após 4º adiamento de júri de ex-PMs acusados de matar adolescente",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2025/07/Guilherme-Silva-Guedes.webp"
+        },
+        {
           "id": "https://ponte.org/?p=159659",
           "author": "Paulo Batistella",
           "description": "Em 2026, governador distribuiu R$ 440 milhões em \"bonificação por resultados\" para a PM. Valor é vinculado a metas que só são definidas após o período em que teriam de ser cumpridas, o que abre margem para manipulação e uso político\nO conteúdo Tarcísio já paga bônus a PMs em ano eleitoral maior do que a todos os outros servidores juntos Pode ser acessado em Ponte Jornalismo.",
@@ -482,6 +502,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73511",
+          "author": "Mondoweiss",
+          "description": "o último domingo (19), promotores israelenses acusaram dois cidadãos israelenses de espionagem a favor do Irã: Sagi Haik, de 19 anos, que mantinha contato com um agente iraniano há meses pelo aplicativo de mensagens Telegram, e Asaf Shitrit, de 21 anos, que teria sido recrutado por Haik para realizar tarefas sob orientação iraniana. O contato, […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/23/a-epidemia-de-espioes-iranianos-em-israel/",
+          "publishedOn": "2026-04-23T21:45:25.000Z",
+          "wordCount": 3778,
+          "title": "A “epidemia” de espiões iranianos em Israel",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/israel.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73507",
           "author": "Pedro Marin",
@@ -540,6 +570,76 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=252873",
+          "author": "Raissa Neves",
+          "description": "O Festival Eurovision da Canção vem sendo boicotado por mais de mil assinaturas de artistas, após anunciarem a participação da emissora israelense KAN, considerada cúmplice de crimes contra a humanidade. A declaração publicada pelo movimento “Sem Música para o Genocídio” solicitou ao setor cultural a rejeição do apartheid, da ocupação e do genocídio contra os […]\nO post Artistas solicitam boicote ao Eurovision por presença de Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/artistas-solicitam-boicote-ao-festival-eurovisao-da-cancao-por-presenca-de-israel-durante-conflito-em-gaza/",
+          "publishedOn": "2026-04-23T21:33:33.000Z",
+          "wordCount": 3090,
+          "title": "Artistas solicitam boicote ao Eurovision por presença de Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/esc-stadthalle-beklebung-01-width800-width800-768x489.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252870",
+          "author": "Victor Farinelli",
+          "description": "O governo do presidente argentino Javier Milei proibiu nesta quinta-feira (23/04) o acesso de jornalistas credenciados à Casa Rosada, sede do Executivo, alegando “espionagem ilegal” após a exibição de imagens gravadas com óculos inteligentes por uma emissora de televisão. A medida, classificada como preventiva, provocou reação imediata dos profissionais de imprensa, que denunciam violação grave […]\nO post Milei barra imprensa na Casa Rosada e acusa jornalistas de espionagem apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/milei-barra-imprensa-na-casa-rosada-e-acusa-jornalistas-de-espionagem/",
+          "publishedOn": "2026-04-23T21:10:48.000Z",
+          "wordCount": 3089,
+          "title": "Milei barra imprensa na Casa Rosada e acusa jornalistas de espionagem",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/milei-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252858",
+          "author": "Victor Farinelli",
+          "description": "O Ministério da Saúde emitiu alerta sobre o risco iminente de reintrodução e disseminação do sarampo no Brasil em razão do fluxo intenso de viajantes para a Copa do Mundo 2026. Neste ano, a competição será sediada a partir de junho pelos Estados Unidos, Canadá e México, países que enfrentam surtos da doença. A nota […]\nO post Ministério da Saúde alerta para risco de surto de sarampo após Copa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/ministerio-da-saude-alerta-para-risco-de-surto-de-sarampo-apos-copa/",
+          "publishedOn": "2026-04-23T20:30:35.000Z",
+          "wordCount": 5285,
+          "title": "Ministério da Saúde alerta para risco de surto de sarampo após Copa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/vacina.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252863",
+          "author": "Raissa Neves",
+          "description": "Há 120 anos, em meados de abril de 1906, ocorria no Rio de Janeiro o Primeiro Congresso Operário Brasileiro. O encontro foi o primeiro grande esforço de articulação nacional do movimento operário, reunindo 28 sindicatos e associações para discutir estratégias de luta por melhores condições de trabalho, redução da jornada, aumento de salários e direito […]\nO post Classe trabalhadora vai à luta: 120 anos do Primeiro Congresso Operário Brasileiro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/classe-trabalhadora-vai-a-luta-120-anos-do-primeiro-congresso-operario-brasileiro/",
+          "publishedOn": "2026-04-23T19:34:19.000Z",
+          "wordCount": 4662,
+          "title": "Classe trabalhadora vai à luta: 120 anos do Primeiro Congresso Operário Brasileiro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/delegados_primeiro_congresso_operario_brasileiro.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252850",
+          "author": "Rocio Paik",
+          "description": "O governo do Irã confirmou nesta quinta-feira (23/04) ter recebido a primeira receita proveniente de pedágios em navios que transitam pelo Estreito de Ormuz. A confirmação foi feita pelo vice-presidente do Parlamento iraniano, Hamidreza Haji Babaei, citado pela agência de notícias Tasnim. “As primeiras receitas obtidas com o pedágio do Estreito de Ormuz foram depositadas […]\nO post Irã começa a receber pedágios por passagem no Estreito de Ormuz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-comeca-a-receber-pedagios-por-passagem-no-estreito-de-ormuz/",
+          "publishedOn": "2026-04-23T19:20:09.000Z",
+          "wordCount": 3070,
+          "title": "Irã começa a receber pedágios por passagem no Estreito de Ormuz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/u_s_forces_start_mine_clearance_mission_in_strait_of_hormuz_9609002.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252846",
+          "author": "Victor Farinelli",
+          "description": "Enquanto aguarda a definição do cenário de primeiro turno das eleições presidenciais, o Peru pode vir a perder outro presidente interino, ameaçado por um processo de impeachment. O Congresso peruano analisa um novo pedido de moção de censura (instrumento similar ao do impeachment) contra José María Balcázar, que está no cargo há apenas dois meses, […]\nO post Peru analisa moção de censura a presidente interino enquanto apuração do primeiro turno segue indefinida apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/peru-analisa-mocao-de-censura-a-presidente-interino-enquanto-apuracao-do-primeiro-turno-segue-indefinida/",
+          "publishedOn": "2026-04-23T18:40:04.000Z",
+          "wordCount": 3875,
+          "title": "Peru analisa moção de censura a presidente interino enquanto apuração do primeiro turno segue indefinida",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/balcazar.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=252842",
+          "author": "Rocio Paik",
+          "description": "O vice-primeiro-ministro russo, Alexander Novak, confirmou, na última quarta-feira (22/04), que Moscou pretende bloquear o trânsito do petróleo que vem do Cazaquistão para a Alemanha por meio do oleoduto Druzhba a partir de 1º de maio. A informação sobre a interrupção do trânsito do petróleo foi anteriormente divulgada pelas autoridades cazaques e alemãs. De acordo […]\nO post Rússia anuncia bloqueio do trânsito de petróleo do Cazaquistão para Alemanha apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-anuncia-bloqueio-do-transito-de-petroleo-do-cazaquistao-para-alemanha/",
+          "publishedOn": "2026-04-23T18:00:54.000Z",
+          "wordCount": 3313,
+          "title": "Rússia anuncia bloqueio do trânsito de petróleo do Cazaquistão para Alemanha",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1471997.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=252831",
           "author": "Tatiana Carlotti",
           "description": "Deir el-Balah, cidade localizada no centro da Faixa de Gaza, realiza no próximo sábado (25/04) as primeiras eleições municipais do território em mais de duas décadas. O município foi escolhido por ter sofrido menos danos estruturais durante a guerra e por não estar sob ocupação terrestre de Israel. Reportagem da Al Jazeera sobre o pleito […]\nO post Cidade palestina Deir el-Balah realiza primeira eleição municipal em 21 anos apareceu primeiro em Opera Mundi.",
@@ -552,11 +652,11 @@
         {
           "id": "https://operamundi.uol.com.br/?p=252828",
           "author": "Victor Farinelli",
-          "description": "Em decisão proferida nesta quarta-feira (22/04), a Justiça Federal de Guarulhos concedeu liminar em habeas corpus para determinar a entrada imediata ao Brasil de uma família palestina que teve seu ingresso ao país impedido por ação dos agentes alfandegários do Aeroporto Internacional de Guarulhos, em São Paulo. Na decisão, o tribunal acatou um pedido da […]\nO post Após seis dias barrados no aeroporto de Guarulhos, casal palestino é autorizado a entrar no Brasil apareceu primeiro em Opera Mundi.",
+          "description": "Em decisão proferida nesta quarta-feira (22/04), a Justiça Federal de Guarulhos concedeu liminar em habeas corpus para determinar a entrada imediata ao Brasil de uma família palestina que teve seu ingresso ao país impedido por ação dos agentes alfandegários do Aeroporto Internacional de Guarulhos, em São Paulo. Na decisão, o tribunal acatou um pedido da […]\nO post Após seis dias retido no aeroporto de Guarulhos, casal palestino é autorizado a entrar no Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/apos-seis-dias-barrados-no-aeroporto-de-guarulhos-casal-palestino-e-autorizado-a-entrar-no-brasil/",
           "publishedOn": "2026-04-23T16:40:31.000Z",
-          "wordCount": 3572,
-          "title": "Após seis dias barrados no aeroporto de Guarulhos, casal palestino é autorizado a entrar no Brasil",
+          "wordCount": 3556,
+          "title": "Após seis dias retido no aeroporto de Guarulhos, casal palestino é autorizado a entrar no Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/casal.jpg"
         },
         {
@@ -568,90 +668,44 @@
           "wordCount": 5588,
           "title": "A tecnologia como totalidade",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/inteligencia-artificial-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252827",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, informou nesta quinta-feira (23/04) ter ordenado à Marinha norte-americana para que “atire e mate” contra qualquer embarcação “que esteja colocando minas nas águas do Estreito de Ormuz“, independente de seu porte.  “Além disso, nossos ‘varredores de minas’ estão limpando o Estreito neste momento”, escreveu Trump na plataforma Truth […]\nO post Trump ordena Marinha ‘atirar e matar’ contra qualquer embarcação que instale minas em Ormuz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ordena-marinha-atirar-e-matar-contra-qualquer-embarcacao-que-instale-minas-em-ormuz/",
-          "publishedOn": "2026-04-23T16:00:15.000Z",
-          "wordCount": 3070,
-          "title": "Trump ordena Marinha ‘atirar e matar’ contra qualquer embarcação que instale minas em Ormuz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/uscgc_maui.webp.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252825",
-          "author": "Tatiana Carlotti",
-          "description": "A União Europeia oficializou nesta quinta-feira (23/04) a liberação do empréstimo de € 90 bilhões (R$ 523 bilhões) para a Ucrânia, acompanhado do 20º pacote de sanções contra a Rússia. A decisão foi viabilizada pela retirada do veto pela Hungria. O destravamento ocorre após Kiev permitir a retomada do fluxo de petróleo do oleoduto russo […]\nO post União Europeia aprova empréstimo de R$ 523 bilhões à Ucrânia; Moscou critica decisão apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/uniao-europeia-aprova-emprestimo-de-r-523-bilhoes-a-ucrania-moscou-critica-decisao/",
-          "publishedOn": "2026-04-23T15:20:28.000Z",
-          "wordCount": 3430,
-          "title": "União Europeia aprova empréstimo de R$ 523 bilhões à Ucrânia; Moscou critica decisão",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/president_of_ukraine_volodymyr_zelenskyy_makes_a_speech_in_the_national_assembly_of_the_republic_of_korea.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252821",
-          "author": "Rocio Paik",
-          "description": "Um alto enviado do presidente dos Estados Unidos, Donald Trump, teria pedido à FIFA que substitua o Irã pela Itália na Copa do Mundo, informou o Financial Times nesta quarta-feira (22/04). De acordo com a reportagem, o objetivo seria melhorar as relações entre o republicano e a primeira-ministra italiana, Giorgia Meloni, estremecidas depois de Trump […]\nO post Enviado de Trump sugere que FIFA troque Irã por Itália na Copa do Mundo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/enviado-de-trump-sugere-que-fifa-troque-ira-por-italia-na-copa-do-mundo/",
-          "publishedOn": "2026-04-23T14:40:52.000Z",
-          "wordCount": 3674,
-          "title": "Enviado de Trump sugere que FIFA troque Irã por Itália na Copa do Mundo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/54743641022_29b923b2e2_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252813",
-          "author": "Rocio Paik",
-          "description": "O primeiro-ministro do Líbano, Nawaf Salam, declarou nesta quinta-feira (23/04) que não pode assinar nenhum acordo que não inclua uma “retirada total” das Forças de Defesa de Israel (IDF, na sigla em inglês) do país. A posição foi dada horas antes de mais uma rodada de negociações a serem realizadas em Washington, que preveem debater […]\nO post Líbano recusa acordo que não inclua ‘retirada total’ das forças de Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libano-recusa-acordo-que-nao-inclua-retirada-total-das-forcas-de-israel/",
-          "publishedOn": "2026-04-23T14:00:48.000Z",
-          "wordCount": 3890,
-          "title": "Líbano recusa acordo que não inclua ‘retirada total’ das forças de Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hdl4ldxwwaagv0m-1.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252812",
-          "author": "Tatiana Carlotti",
-          "description": "O Pentágono anunciou nesta quarta-feira (23/04) que John Phelan, secretário da Marinha dos Estados Unidos, deixou o cargo. Em seu lugar, assume o posto de forma interina, o subsecretário Hung Cao. A troca de comando ocorre semanas após a demissão do principal oficial do Exército e em meio às operações de bloqueio a portos iranianos. […]\nO post Pentágono anuncia ‘saída imediata’ de secretário da Marinha apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/pentagono-anuncia-saida-imediata-de-secretario-da-marinha/",
-          "publishedOn": "2026-04-23T13:32:03.000Z",
-          "wordCount": 3092,
-          "title": "Pentágono anuncia ‘saída imediata’ de secretário da Marinha",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/pentagono.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252804",
-          "author": "Tatiana Carlotti",
-          "description": "Dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) e da Câmara de Comércio Árabe-Brasil (CCAB) apontam a redução em 31,47 % das exportações brasileiras aos países do golfo Pérsico, como Arábia Saudita e Emirados Árabes Unidos, os mais compradores dos produtos brasileiros, além do Qatar, Kuwait, Bahrein e Omã. A informação é da […]\nO post Bloqueio de Ormuz reduz exportações brasileiras ao golfo Pérsico apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/bloqueio-de-ormuz-reduz-exportacoes-brasileiras-ao-golfo-persico/",
-          "publishedOn": "2026-04-23T12:26:59.000Z",
-          "wordCount": 3161,
-          "title": "Bloqueio de Ormuz reduz exportações brasileiras ao golfo Pérsico",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/cana-de-acucar.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=252783",
-          "author": "Tatiana Carlotti",
-          "description": "Segundo diversas autoridades norte-americanas familiarizadas com avaliações de inteligência citadas pela CBS News, o Irã possui mais capacidades militares do que a Casa Branca e o Departamento de Guerra admitiram publicamente. Segundo três dessas fontes, no início do cessar-fogo, no começo de abril, aproximadamente metade do arsenal de mísseis balísticos do Irã e seus sistemas […]\nO post Poderio militar do Irã é ‘muito maior’ do que EUA reconhecem, diz CBS apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/poderio-militar-do-ira-e-muito-maior-do-que-eua-reconhecem-diz-cbs/",
-          "publishedOn": "2026-04-23T09:49:39.000Z",
-          "wordCount": 3414,
-          "title": "Poderio militar do Irã é ‘muito maior’ do que EUA reconhecem, diz CBS",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404071309091743734247494.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=224649",
+          "author": "Redação de AND",
+          "description": "Neste episódio, contaremos com a participação de Jorge Moreno – juiz e secretário-geral do Comitê de Solidariedade à Luta pela Terra (Comsolute) – e Maria Petronila Neto – integrante da Coordenação Executiva Nacional da Comissão Pastoral da Terra (CPT) – para tratar dos novos desdobramentos da luta pela terra em Rondônia. A conversa repercutirá a denúncia dos camponeses pobres contra o “bando do Jed” – grupo armado de delinquentes ligados ao latifúndio – e a nova campanha de criminalização da luta pela terra. Em seguida, no Plantão Irã, receberemos Reda Soueid – especialista em Relações Internacionais com pesquisa sobre o",
+          "link": "https://anovademocracia.com.br/ao-vivo-a-proposito-361/",
+          "publishedOn": "2026-04-23T22:38:28.000Z",
+          "wordCount": null,
+          "title": "Plantão Irã / Camponeses denunciam criminalização da luta pela terra em Rondônia – A Propósito #361",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224640",
+          "author": "Redação de AND",
+          "description": "A resistência dos povos do Oriente Médio, principalmente a manutenção do fechamento do Estreito, se mantém como elemento central de enfrentamento, com a luta contra a agressão imperialista sendo travada em múltiplas frentes.",
+          "link": "https://anovademocracia.com.br/bloqueio-ofensiva-continuidade-guerra/",
+          "publishedOn": "2026-04-23T21:36:30.000Z",
+          "wordCount": null,
+          "title": "Bloqueio ianque no Golfo Pérsico e ofensiva sionista no Líbano expõem continuidade da guerra durante cessar-fogo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224631",
+          "author": "Redação de AND",
+          "description": "O velho Estado, seja sob Stroessner ou sob o lacaio Santiago Peña, continua a ser o guardião do latifúndio. Para o povo do campo paraguaio, a atual \"democracia\" é uma ficção que não ultrapassa as letras mortas da lei, e a Revolução Agrária é o caminho para uma nova e verdadeira democracia.",
+          "link": "https://anovademocracia.com.br/paraguai-pascoa-dolorosa-atualidade-revolucao-agraria/",
+          "publishedOn": "2026-04-23T20:39:52.000Z",
+          "wordCount": null,
+          "title": "Paraguai: 50 anos da ‘Páscoa Dolorosa’ e a atualidade da Revolução Agrária",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=224601",
           "author": "Ana Nascimento",
@@ -731,36 +785,6 @@
           "wordCount": null,
           "title": "AM: Memorial de luta por moradia é saqueado em Manaus",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224546",
-          "author": "Giovanna Maria",
-          "description": "O ato se soma à mobilização nacional em memória dos mortos no massacre de Eldorado dos Carajás. Já são 30 anos da escandalosa chacina de 21 camponeses pela polícia militar do Pará a serviço do latifúndio. Os camponeses realizavam uma manifestação exigindo a desapropriação de um latifúndio de mais 40 mil hectares, quando foram surpreendidos por uma tropa de 164 policiais. Até hoje, os mandantes do massacre continuam impunes.",
-          "link": "https://anovademocracia.com.br/go-camponeses-realizam-ato-em-memoria-ao-massacre-de-eldorado-dos-carajas-vereador-dirigente-do-mst-sao-detidos-pela-pm/",
-          "publishedOn": "2026-04-22T13:56:06.000Z",
-          "wordCount": null,
-          "title": "GO: Camponeses realizam ato em memória ao massacre de Eldorado dos Carajás; vereador e dirigente do MST são detidos pela PM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224537",
-          "author": "Redação de AND",
-          "description": "Nomeação recoloca à frente da Sesdec um oficial condenado no Tribunal Popular por seus crimes a serviço do latifúndio, enquanto seguem abertas apurações sobre contratos da pasta e novas investigações sobre assassinatos de camponeses em Rondônia.",
-          "link": "https://anovademocracia.com.br/condenado-no-tribunal-popular-por-crimes-contra-o-povo-carniceiro-cysneiros-pacha-reassume-seguranca-de-rondonia/",
-          "publishedOn": "2026-04-21T23:47:44.000Z",
-          "wordCount": null,
-          "title": "Condenado no Tribunal Popular por crimes contra o povo, ‘carniceiro’ Cysneiros Pachá reassume Segurança de Rondônia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224515",
-          "author": "Redação de AND",
-          "description": "Negócio bilionário e contrato de 15 anos coroam ofensiva já em curso do imperialismo ianque sobre minerais críticos do Brasil, em contraste com o palavrório “soberanista” do governo oportunista.",
-          "link": "https://anovademocracia.com.br/serra-verde-imperialismo-ianque-terras-raras/",
-          "publishedOn": "2026-04-21T22:25:33.000Z",
-          "wordCount": null,
-          "title": "Com compra da Serra Verde, imperialismo ianque avança sobre as ‘terras raras’ brasileiras",
-          "imageUrl": null
         }
       ]
     },
@@ -775,6 +799,66 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3182926",
+          "author": "Fernando Rosso",
+          "description": "A inflação perdura, o consumo despenca e o desemprego assombra. Em meio a escândalos, a retórica do presidente perde força – e ele nunca foi tão impopular. Mas esperar a implosão é arriscado: ultradireita só será vencida com alternativas\nThe post Milei em seu pior momento appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direita-assanhada/argentina-milei-em-seu-pior-momento/",
+          "publishedOn": "2026-04-23T21:13:38.000Z",
+          "wordCount": 4492,
+          "title": "Milei em seu pior momento",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23181556/Screenshot-2026-04-23-at-18-15-03-4209bd0b51f62341e581cb287fa64e6346e.webp-imagem-WEBP-770-%C3%97-480-pixels.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182914",
+          "author": "James Görgen",
+          "description": "Cade reconhece, enfim: há sinais claros de que corporação apropria-se de conteúdos jornalísticos, manipula-os, monetiza-os e engorda seus lucros com ele. A quem produz, restam apenas os custos. Empresa será investigada. Pode ser primeiro passo para ampla regulação das big techs\nThe post O dia em que o Brasil ousou encarar o Google appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/o-dia-em-que-o-brasil-ousou-encarar-o-google/",
+          "publishedOn": "2026-04-23T20:34:01.000Z",
+          "wordCount": 6547,
+          "title": "O dia em que o Brasil ousou encarar o Google",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23173050/photo_5141226478275070952_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182898",
+          "author": "Jorge Almeida",
+          "description": "EUA sairão desmoralizados da guerra, militar e politicamente. País paga o preço dos atos de Trump – que não conteve a ascensão chinesa e se enfraqueceu eleitoralmente. Israel sabota a trégua negociada, do mesmo modo que fez contra o “Conselho de Paz de Gaza” \nThe post Chumbo na asa da “Águia Americana” appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/chumbo-na-asa-da-aguia-americana/",
+          "publishedOn": "2026-04-23T20:04:08.000Z",
+          "wordCount": 7152,
+          "title": "Chumbo na asa da “Águia Americana”",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23170306/photo_5141226478275070945_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182892",
+          "author": "Erik Chiconelli Gomes",
+          "description": "É preciso uma leitura crítica dos dados da recente pesquisa que mostra que 95% dos trabalhadores se declaram satisfeitos. Diante da informalidade elevada, qualquer emprego é visto como “superação” da falta de alternativas. Seria, então, uma adaptação à precariedade?\nThe post Estariam os brasileiros felizes com o trabalho? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/estariam-os-brasileiros-felizes-com-o-trabalho/",
+          "publishedOn": "2026-04-23T19:12:44.000Z",
+          "wordCount": 5547,
+          "title": "Estariam os brasileiros felizes com o trabalho?",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23160831/Cartao-Horizontal-de-Aniversario-Infantil-Rosa-768x545-1.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182879",
+          "author": "José Geraldo Couto",
+          "description": "Documentário retrata o singular ano de 2021 em Olinda e Recife, quando a folia não saiu às ruas devido a pandemia – e o retorno dionísico do frevo em 2023. O obra explora o sincretismo cultural e religioso da festa e  contada pelos olhos de quem a faz acontecer\nThe post Cinema: O carnaval do fim do mundo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/cinema-o-carnaval-do-fim-do-mundo/",
+          "publishedOn": "2026-04-23T18:19:44.000Z",
+          "wordCount": 3386,
+          "title": "Cinema: O carnaval do fim do mundo",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23151734/daniel-enquadramento-capa-2026-02-13t184505614.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3182857",
+          "author": "Fernando Henrique Ferreira",
+          "description": "Anatomia de “Pedagogia do Abandono”. Como o documentário serve-se de imagens fragmentadas, trilha sonora sutil e suspense para difundir o medo diante da escola. O que isso revela sobre as novas estratégias da ultradireita para a “guerra cultural”\nThe post Como o Brasil Paralelo ataca a educação appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direita-assanhada/como-o-brasil-paralelo-ataca-a-educacao/",
+          "publishedOn": "2026-04-23T17:55:25.000Z",
+          "wordCount": 4882,
+          "title": "Como o Brasil Paralelo ataca a educação",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/23145247/473668841_910859144364248_3081003036517847877_n-1024x613-1.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3182795",
           "author": "Luiz Martins de Melo",
@@ -798,10 +882,10 @@
         {
           "id": "https://outraspalavras.net/?p=3182773",
           "author": "Paulo Nogueira Batista Jr",
-          "description": "Criticar o sionismo é condenar um projeto político, não o povo judeu. Muitos sionistas influentes sequer são judaicos: a extrema direita, no Brasil, é um exemplo. E a principal foça antissemita, hoje, é Israel – que dá continuidade a uma tradição do Norte global\nThe post Antissionismo e Antissemitismo: distinções didáticas appeared first on Outras Palavras.",
+          "description": "Criticar o sionismo é condenar um projeto político, não o povo judeu. Muitos sionistas influentes sequer são judaicos: a extrema direita, no Brasil, é um exemplo. E a principal força antissemita, hoje, é Israel – que dá continuidade a uma tradição do Norte global\nThe post Antissionismo e Antissemitismo: distinções didáticas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/antissionismo-e-antissemitismo-distincoes-didaticas/",
           "publishedOn": "2026-04-22T21:08:53.000Z",
-          "wordCount": 3957,
+          "wordCount": 3962,
           "title": "Antissionismo e Antissemitismo: distinções didáticas",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/22180613/673a28811d17e.jpeg"
         },
@@ -814,36 +898,6 @@
           "wordCount": 5046,
           "title": "Varoufakis analisa o manifesto distópico da Palantir",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/22172934/istockphoto-2063425288-612x612-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182713",
-          "author": "Paulo Kliass",
-          "description": "Proposta de imposto sobre grandes fortunas ressurge neste ano eleitoral: tem potencial de arrecadar R$ 30 bi por ano, mas é limitada e governo Lula dá pouco destaque em sua campanha. Por que não abraçar internamente este tema, como fez no G20 e na ONU?\nThe post É séria a proposta de tributar os super ricos? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/e-seria-a-proposta-de-tributar-os-super-ricos/",
-          "publishedOn": "2026-04-22T19:52:00.000Z",
-          "wordCount": 4139,
-          "title": "É séria a proposta de tributar os super ricos?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/22165112/dr.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182734",
-          "author": "Nora Krawczyk e Rogério de Souza",
-          "description": "Alta rotatividade de professores, fechamento de salas de aula e perda de autonomia caminham junto à implantação de escolas cívico-militares. Precarização revela projeto de desmonte pedagógico de Tarcísio: docentes do estado estão entre os mais mal pagos do país\nThe post Educação: em SP, greve expõe um colapso appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/alemdamercadoria/educacao-em-sp-greve-expoe-um-colapso/",
-          "publishedOn": "2026-04-22T19:32:36.000Z",
-          "wordCount": 3883,
-          "title": "Educação: em SP, greve expõe um colapso",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/22163002/systemuploadsnews128cab44cf9a2cb17c6-700x460xfit-4eff1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3182707",
-          "author": "Márcio Moretto Ribeiro e Roberta Silva de Lima",
-          "description": "Plataformas tornaram-se infraestrutura central da circulação pública de ideias, mas reduzem instituições a meras usuárias. Resposta deve ser estrutural: criar uma rede federada, soberana, e que proteja o valor do debate e da ciência\nThe post Podem as universidades construir suas redes sociais? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/podem-as-universidades-construir-suas-redes-sociais/",
-          "publishedOn": "2026-04-22T19:04:30.000Z",
-          "wordCount": 4371,
-          "title": "Podem as universidades construir suas redes sociais?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/22151304/chronicle.brightspotcdn.jpeg"
         }
       ]
     },
@@ -853,12 +907,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159113",
+          "author": "Aníbal",
+          "description": "Essa transformação é a síntese da dialética da traição: quanto mais visibilidade ganha o ícone negro, menos visível se torna a estrutura que oprime os negros como classe.Por Arthur Moura",
+          "link": "https://passapalavra.info/2026/04/159113/",
+          "publishedOn": "2026-04-23T19:23:04.000Z",
+          "wordCount": 11616,
+          "title": "Mano Brown: a dialética da traição",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/04/ppdesc.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159105",
           "author": "FP",
           "description": "“Cansei de ser inteligente.” Dizia em tom de brincadeira o homem ainda novo que passara vários anos no seminário, havia desistido de ser padre, era um enxadrista aplicado, e estava concluindo a formação universitária onde todos o consideravam o melhor aluno do curso na época. Dizia ainda, contrariando a expectativa de todos os seus professores […]",
           "link": "https://passapalavra.info/2026/04/159105/",
           "publishedOn": "2026-04-22T19:23:58.000Z",
-          "wordCount": 3839,
+          "wordCount": 3845,
           "title": "O cansado",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         },
@@ -895,7 +959,7 @@
           "description": "Douglas Barros: \"O que a fala de Paulo Galo revela é justamente um imaginário do trabalhador cuja genealogia se liga à noção protestante do que é ser trabalhador. Numa sociedade como a brasileira – cujas raízes coloniais permanecem operando os modos de distribuição dos corpos – esse trabalhador imaginário será branco, e sua sexualidade, marcada pela normatividade. Quem dá o cu, supostamente, não trabalha.\"",
           "link": "https://blogdaboitempo.com.br/2026/04/23/o-macho-e-o-cu/",
           "publishedOn": "2026-04-23T14:00:00.000Z",
-          "wordCount": 12385,
+          "wordCount": 12530,
           "title": "O macho e o cu",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-31.png"
         },
