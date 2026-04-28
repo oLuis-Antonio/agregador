@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T03:54:03.777Z</id>
+    <id>urn:2026-04-28T06:36:45.602Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-04-28T03:54:03.777Z</updated>
+    <updated>2026-04-28T06:36:45.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Melancolia e crítica à ditadura em Cazuza]]></title>
+        <id>https://passapalavra.info/?p=159134</id>
+        <link href="https://passapalavra.info/2026/04/159134/"/>
+        <updated>2026-04-28T06:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Cazuza expressa a frustração com uma transição política que trocou o nome do regime, mas permaneceu com a mesma estrutura. Por Michel Goulart da Silva]]></summary>
+        <author>
+            <name>Enzo Silva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Congresso extraordinário da UP fortalece lutas em Pernambuco]]></title>
         <id>https://averdade.org.br/?p=61461</id>
@@ -914,17 +924,6 @@ O conteúdo ‘Conseguiram me torturar de novo’, diz mãe após 4º adiamento 
         <summary type="html"><![CDATA[Essa transformação é a síntese da dialética da traição: quanto mais visibilidade ganha o ícone negro, menos visível se torna a estrutura que oprime os negros como classe.Por Arthur Moura]]></summary>
         <author>
             <name>Aníbal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RN: Na cidade de Natal, temos mais uma vítima da barbárie que o capitalismo provoca às mulheres]]></title>
-        <id>https://www.opiniaosocialista.com.br/?p=105998</id>
-        <link href="https://www.opiniaosocialista.com.br/rn-na-cidade-de-natal-temos-mais-uma-vitima-da-barbarie-que-o-capitalismo-provoca-as-mulheres/"/>
-        <updated>2026-04-23T16:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Érica Guarani, de Natal (RN) Pétala Yonah Silva Nunes estava desaparecida desde a tarde do domingo (19), quando saiu de casa. Depois de muita procura, ex-padrasto da criança confessou que violentou sexualmente, a matou Pétala e enterrou o corpo no próprio quintal de casa. Ele foi preso na segunda-feira (20). O assassinato da pequena Pétala, […]
-O post RN: Na cidade de Natal, temos mais uma vítima da barbárie que o capitalismo provoca às mulheres apareceu primeiro em Opinião Socialista.]]></summary>
-        <author>
-            <name>PSTU-RN</name>
         </author>
     </entry>
 </feed>
