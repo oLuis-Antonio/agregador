@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "Elg9vf",
+          "author": null,
+          "description": "No centro das reivindicações está o avanço do Projeto de Lei nº 1827, de 2019, que foi aprovado, no último dia 14 (terça-feira), na Comissão de Constituição e Justiça (CCJ) da Câmara dos Deputados, que trata da instituição do piso salarial nacional da categoria.",
+          "link": "https://jornalofuturo.com.br/artigo/Elg9vf-assistentes-sociais-intensificam-mobilizacao-nacional-pelo-piso-salarial-jornada-de-30h-e-financiamento-do-suas",
+          "publishedOn": "2026-04-27T21:00:00.000Z",
+          "wordCount": 1512,
+          "title": "Assistentes sociais intensificam mobilização nacional pelo piso salarial, jornada de 30h e financiamento do SUAS",
+          "imageUrl": "https://media.jornalofuturo.com.br/assistsocialmobilizacao-1280x853.jpg"
+        },
+        {
           "id": "k9IZX3",
           "author": null,
           "description": "As chapas em disputa eram a chapa de situação, ligada à Contraf-CUT, e a chapa da Alternativa Bancária do DF (ABDF), encabeçada pelo bancário do BB e dirigente local do PCBR, Rhuan Maciel.",
@@ -84,16 +94,113 @@
           "wordCount": 1509,
           "title": "Microsoft corta 98% do armazenamento da Fiocruz e ameaça pesquisas científicas estratégicas",
           "imageUrl": "https://media.jornalofuturo.com.br/fiocruz-530x367.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Jornal A Verdade",
+      "feedUrl": "https://averdade.org.br/feed/",
+      "siteUrl": "https://averdade.org.br/",
+      "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61461",
+          "author": "Clóvis Maia",
+          "description": "Realizado no último domingo (26), o congresso da Unidade Popular contou com um ato de lançamento da pré-candidatura de Samara Martins para a presidência da república e de Camila Falcão, para disputar a governadoria do estado esse ano. Redação Pernambuco  Brasil- No último domingo (26/04) a Unidade Popular em Pernambuco realizou seu congresso extraordinário. A […]",
+          "link": "https://averdade.org.br/2026/04/congresso-extraordinario-da-up-fortalece-lutas-em-pernambuco/",
+          "publishedOn": "2026-04-28T00:32:18.000Z",
+          "wordCount": 7089,
+          "title": "Congresso extraordinário da UP fortalece lutas em Pernambuco",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/congresso-UP-PE.jpg"
         },
         {
-          "id": "4ZYRV3",
-          "author": null,
-          "description": "A defesa abstrata da unidade, quando desvinculada do conteúdo político e de classe dessa unidade, deixa de ser uma posição marxista para tornar-se mera justificativa de oportunismo.",
-          "link": "https://jornalofuturo.com.br/artigo/4ZYRV3-unidade-nao-e-diluicao-contra-o-oportunismo-travestido-de-realismo-politico",
-          "publishedOn": "2026-04-23T15:00:00.000Z",
-          "wordCount": 3138,
-          "title": "Unidade não é diluição: contra o oportunismo travestido de “realismo político”",
-          "imageUrl": "https://media.jornalofuturo.com.br/unidadeprotesto-1200x800.jpg"
+          "id": "https://averdade.org.br/?p=61429",
+          "author": "Clóvis Maia",
+          "description": "O Jornal A Verdade entrevistou Hans Lisboa, membro do Comitê Pernambucano de Solidariedade com Cuba e apoiador das brigadas de solidariedade com o país caribenho. Hans esteve em Cuba em 11 ocasiões diferentes e, nessa entrevista, fala sobre as suas impressões sobre a ilha e as mobilizações que tem sido realizadas em todo o Brasil […]",
+          "link": "https://averdade.org.br/2026/04/cuba-resistira-a-todas-as-ameacas-do-imperialismo/",
+          "publishedOn": "2026-04-27T23:56:40.000Z",
+          "wordCount": 8554,
+          "title": "“Cuba resistirá a todas as ameaças do imperialismo”",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260320-WA0040.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61424",
+          "author": "Clóvis Maia",
+          "description": "No último 14 de abril, dois dos seis acusados pelo assassinado de Mãe Bernadete foram condenados na Bahia, após quase três anos do assassinato da líder quilombola. O julgamento representa um avanço nas lutas sociais no país, mas ainda precisa ser concluído na garantia dos direitos humanos no Brasil. Redação SOCIEDADE- O Tribunal do júri […]",
+          "link": "https://averdade.org.br/2026/04/assassinos-de-mae-bernadete-sao-condenados-na-bahia/",
+          "publishedOn": "2026-04-27T23:12:07.000Z",
+          "wordCount": 6963,
+          "title": "Assassinos de Mãe Bernadete são condenados na Bahia",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Mae-Bernadete.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61452",
+          "author": "Redação MG",
+          "description": "Estudantes do curso de medicina da Universidade Federal de São João del-Rei (UFSJ) travam luta pela criação de um hospital universitário, importante medida para a melhora da saúde na cidade e para o avanço da pesquisa e da formação na área. Victor de Ávila Todaro | São João del-Rei (MG) A saúde pública da cidade […]",
+          "link": "https://averdade.org.br/2026/04/estudantes-da-ufsj-lutam-por-criacao-de-hospital-universitario-em-sao-joao-del-rei-mg/",
+          "publishedOn": "2026-04-27T22:08:47.000Z",
+          "wordCount": 6873,
+          "title": "Estudantes da UFSJ lutam por criação de hospital universitário em São João del-Rei (MG)",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/image1.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61448",
+          "author": "Felipe Annunziata",
+          "description": "Com a 2ª Rede de Atenção Psicossocial (RAPS) mais precária do país, a classe trabalhadora do DF atravessa uma crise estrutural em que seu direito básico ao acesso à saúde mental é repetidamente negado. Saul Prado | Brasília (DF) BRASIL – Sem as menores condições de oferecer um tratamento digno à população candanga, a perversa […]",
+          "link": "https://averdade.org.br/2026/04/crise-no-acesso-a-saude-mental-no-df-e-resultado-da-privatizacao-do-sus/",
+          "publishedOn": "2026-04-27T12:15:45.000Z",
+          "wordCount": 7279,
+          "title": "Crise no acesso à saúde mental no DF é resultado da privatização do SUS",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Fotos-Jhonatan-Cantarelle-Agencia-Saude-DF-05.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61432",
+          "author": "Felipe Annunziata",
+          "description": "Milhares de portugueses e imigrantes tomaram as ruas neste sábado (25/04) para celebrar os 52 anos da vitória da Revolução dos Cravos contra o fascismo. Luan Almeida e Larissa Santos | Lisboa (Portugal) INTERNACIONAL – 52 anos depois da Revolução dos Cravos, milhares de pessoas tomaram as ruas portuguesas para celebrar o fim da ditadura fascista […]",
+          "link": "https://averdade.org.br/2026/04/povo-se-mobiliza-nas-ruas-nos-52-anos-da-revolucao-dos-cravos-em-portugal/",
+          "publishedOn": "2026-04-26T01:22:22.000Z",
+          "wordCount": 6882,
+          "title": "Povo se mobiliza nas ruas nos 52 anos da Revolução dos Cravos em Portugal",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/250425_JCC-51o-25-Abril-Desfile-Av-Liberdade-05.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61421",
+          "author": "Clóvis Maia",
+          "description": "Estatal atuou contra o interesse dos trabalhadores e levou-os à greve. Mobilização mostrou que só a luta pode garantir conquistas para os servidores brasileiros.  Movimento Luta de Classes | Rio de Janeiro TRABALHADOR UNIDO – Entre 30 de março e 7 de abril, trabalhadores da EBSERH (Empresa Brasileira de Serviços Hospitalares, agora chamada HUBrasil) que […]",
+          "link": "https://averdade.org.br/2026/04/a-greve-da-hubrasil-ex-ebserh-e-a-importancia-da-organizacao-da-classe-trabalhadora/",
+          "publishedOn": "2026-04-24T21:46:18.000Z",
+          "wordCount": 7710,
+          "title": "A greve da HUBrasil (Ex EBSERH) e a importância da organização da classe trabalhadora",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/Ato-unificado-01-04-26-055.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61402",
+          "author": "Clóvis Maia",
+          "description": "Trabalhadores da limpeza urbana em Jaboatão dos Guararapes, região metropolitana do Recife, decidiram paralisar os serviços após inúmeras dificuldades como falta de EPIs, vale-refeição sem reajuste há mais de dois anos e a luta pela aprovação da PEC dos Garis.  Redação Pernambuco TRABALHADOR UNIDO- Os trabalhadores da limpeza urbana de Jaboatão dos Guararapes, região metropolitana […]",
+          "link": "https://averdade.org.br/2026/04/trabalhadoresdalimpezaurbanadejaboataofazemparalisacao/",
+          "publishedOn": "2026-04-24T20:35:53.000Z",
+          "wordCount": 6891,
+          "title": "Trabalhadores da limpeza urbana em Jaboatão dos Guararapes (PE) realizam paralisação",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260423-WA0004.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61411",
+          "author": "Leonardo de Paula",
+          "description": "Para enfrentar o bloqueio criminoso imposto à ilha de Cuba, movimentos sociais e trabalhadores de todo o país vão às ruas exigir que o governo brasileiro envie petróleo ao povo cubano que sofre com a intensificação do bloqueio econômico Mariana Rodrigues | São Paulo Trabalhador Unido – Com o objetivo de impor seu imperialismo aos […]",
+          "link": "https://averdade.org.br/2026/04/61411/",
+          "publishedOn": "2026-04-24T16:09:41.000Z",
+          "wordCount": 6762,
+          "title": "Movimentos sociais cobram do Governo Federal o envio de petróleo para Cuba",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-13.07.33.jpeg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61408",
+          "author": "Leonardo de Paula",
+          "description": "O funcionário terceirizado da empresa “Novabrico Construções, Energia e Meio Ambiente”, Rafael Gomes de Abreu, morreu soterrado durante uma obra dentro do campus da Universidade de São Paulo (USP) em Piracicaba (SP), na última quinta-feira, dia 16. Estudantes e trabalhadores realizaram um ato na reitoria para denunciar a morte de Rafael Mariana Rodrigues | São […]",
+          "link": "https://averdade.org.br/2026/04/trabalhador-da-usp-morre-em-acidente-de-trabalho-rafael-gomes-presente/",
+          "publishedOn": "2026-04-24T15:53:40.000Z",
+          "wordCount": 6666,
+          "title": "Trabalhador da USP morre em acidente de trabalho. Rafael Gomes presente!",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-20.29.51.jpeg"
         }
       ]
     },
@@ -210,12 +317,32 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Mae-e-filha-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
+          "author": "Tatiane Lopes",
+          "description": "Mãe e filha, uma criança de 11 anos, brasileiras são assassinadas pelo exército genocida de Israel no Líbano enquanto ofensiva colonialista quer transformar o país em uma nova Gaza.\n27-04-2026\n\n/ Internacional, Israel, Palestina, Líbano , Exército de Israel, Palestina Livre, Genocídio, Nenhuma gota de petróleo do Brasil e da Petrobras para o genocídio",
+          "link": "https://www.esquerdadiario.com.br/Mae-e-filha-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
+          "publishedOn": "2026-04-28T00:05:10.000Z",
+          "wordCount": 8356,
+          "title": "Mãe e filha brasileiras são assassinadas pelo exército genocida de Israel no Líbano",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/libano-2.jpg?1777336959"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
+          "author": "Redação",
+          "description": "Neste 27 de abril, Dia Nacional da Empregada Doméstica, lutemos por Sônia Maria livre! Sônia Maria é uma mulher negra que foi escravizada por quase 40 anos pelo desembargador do Tribunal de Justiça de Santa Catarina especialista em Direito do Trabalho, Jorge Luiz de Borba. Após ter sido libertada, foi reescravizada por decisão do juiz do STF, André Mendonça. Isso não foi em 1800, foi em 2025, pela primeira vez desde a Lei Áurea que uma pessoa resgatada de uma situação de trabalho a escravidão é reescravizada e a mando do próprio Estado.\n27-04-2026\n\n/ Luta Antirracista, Poder Judiciário, STF, Trabalho Escravo, Racismo, Escravidão , Racismo de Estado, Trabalho análogo à escravidão, Escravidão moderna, Sônia Livre!",
+          "link": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
+          "publishedOn": "2026-04-27T23:17:47.000Z",
+          "wordCount": 8359,
+          "title": "Lutar por Sônia Livre, mulher negra escravizada pelo judiciário racista",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_09.36_42_1_.jpg?1777331782"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Ira-oferece-reabrir-o-estreito-de-Ormuz-se-os-Estados-Unidos-encerrarem-seu-bloqueio",
           "author": "Redação",
           "description": "Após o fracasso da última rodada de negociações no Paquistão neste fim de semana, para a qual Trump não enviou comitiva oficial, o Irã ofereceu nesta segunda-feira reabrir o estreito de Ormuz se os Estados Unidos suspenderem seu bloqueio. Israel continua atacando o Líbano apesar da negociação de cessar-fogo.\n27-04-2026\n\n/ Internacional, Oriente Médio, Irã, Donald Trump, Líbano , Guerra contra o Irã",
           "link": "https://www.esquerdadiario.com.br/Ira-oferece-reabrir-o-estreito-de-Ormuz-se-os-Estados-Unidos-encerrarem-seu-bloqueio",
           "publishedOn": "2026-04-27T20:23:05.000Z",
-          "wordCount": 8114,
+          "wordCount": 8106,
           "title": "Irã oferece reabrir o estreito de Ormuz se os Estados Unidos encerrarem seu bloqueio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ormuzzzzzzzzzzzzzzzzzzz-c2e1f.jpg?1777321352"
         },
@@ -225,7 +352,7 @@
           "description": "Neste domingo, 26 de abril, a Flotilha Global Sumud voltou a zarpar com destino a Gaza, após sua parada na Sicília, Itália.\n27-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/A-Global-Sumud-Flotilha-voltou-a-zarpar-da-Sicilia",
           "publishedOn": "2026-04-27T16:17:21.000Z",
-          "wordCount": 8101,
+          "wordCount": 8099,
           "title": "A Global Sumud Flotilha voltou a zarpar da Sicília",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flot.jpg?1777306460"
         },
@@ -235,7 +362,7 @@
           "description": "Dos mesmos criadores de \"o fim da escravidão vai quebrar a economia\", agronegócio critica fim da escala 6x1 dizendo que vai arruinar a economia. É o que disseram lideranças do agronegócio na Expozebu em Uberaba (MG), neste sábado, 25.\n27-04-2026\n\n/ Política, Agronegócio, Trabalho Escravo, Romeu Zema, Escravidão , Ronaldo Caiado, Trabalho análogo à escravidão, Escravidão moderna, jornada 6x1, Agro",
           "link": "https://www.esquerdadiario.com.br/Lideres-do-agro-reafirmam-sua-mentalidade-escravista-e-criticam-fim-da-escala-6x1",
           "publishedOn": "2026-04-27T15:56:50.000Z",
-          "wordCount": 9212,
+          "wordCount": 9204,
           "title": "Líderes do agro reafirmam sua mentalidade escravista e criticam fim da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_12.55_52.jpg?1777305363"
         },
@@ -245,7 +372,7 @@
           "description": "Gabriel de Jesus Firmino, serralheiro de 28 anos, morreu neste domingo (26) durante a montagem do palco do show da cantora Shakira, em Copacabana, na Zona Sul do Rio de Janeiro. A prefeitura do RJ, promotora do evento, e as empresas MG Coutinho Serviços Cenográficos e Bonustrack precarizam o trabalho e são responsáveis pela morte do trabalhador!\n27-04-2026\n\n/ Classe trabalhadora, Rio de Janeiro, Terceirização, Acidentes de Trabalho, Artistas, Lazer, Shakira",
           "link": "https://www.esquerdadiario.com.br/Trabalhador-morre-em-montagem-do-show-da-Shakira-por-culpa-das-empresas-e-da-prefeitura-do-RJ",
           "publishedOn": "2026-04-27T13:20:49.000Z",
-          "wordCount": 8332,
+          "wordCount": 8325,
           "title": "Trabalhador morre em montagem do show da Shakira por culpa das empresas e da prefeitura do RJ",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/morte-palco-shakira_bdb010-960x540.webp?1777295982"
         },
@@ -255,7 +382,7 @@
           "description": "No dia 20 de abril, foi anunciada a compra da empresa Serra Verde, que administra a jazida de minérios críticos Pela Ema, em Minaçu, no Goiás. A empresa compradora é a USA Rare Earth (USAR), uma empresa americana apoiada pelo presidente Donald Trump nessa operação. O impacto desse fato não pode passar despercebido, pois não se trata de mais uma negociação de ativos entre capitalistas. Por trás dessa ação está o projeto de segurança nacional elaborado por Donald Trump, junto a grandes corporações imperialistas, que poderá ter o controle de uma das principais jazidas de terras raras do Brasil e do mundo para buscar superar superar a sua dependência da China de acesso a esse recurso estratégico e da alta tecnologia produzida a partir dele. O Brasil, com contribuição da direita de Caiado e Flávio Bolsonaro, das grandes mineradoras da mídia, mas também do governo Lula, passa a estar no centro da política de segurança nacional dos americanos, o que não é nada bom para os trabalhadores e os povos indígenas que se enfrentam com a política imperialista de Donald Trump.\n25-04-2026\n\n/ Política, Donald Trump, Estados Unidos, Imperialismo, Mineração, Terras Raras, Capitalismo Verde, Soberania Nacional",
           "link": "https://www.esquerdadiario.com.br/As-terras-raras-do-Brasil-nao-podem-ser-entregues-ao-projeto-de-seguranca-nacional-dos-EUA",
           "publishedOn": "2026-04-25T12:36:52.000Z",
-          "wordCount": 10388,
+          "wordCount": 10387,
           "title": "As terras raras do Brasil não podem ser entregues ao projeto de segurança nacional dos EUA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/design_sem_nome_6_.jpg?1777120824"
         },
@@ -265,7 +392,7 @@
           "description": "As comemorações dos cinquenta anos da Constituição portuguesa reacenderam uma polémica entre a extrema-direita revisionista do Chega, e os defensores do regime de 1976. No entanto, para além de uma defesa abstrata das instituições democráticas, reivindicar hoje o legado de Abril implica reconhecer que suas conquistas foram fruto de um processo revolucionário e sobretudo inspirar-se nas lutas sociais, liderada pelos trabalhadores e seus métodos, para conquistar novos direitos.\n25-04-2026",
           "link": "https://www.esquerdadiario.com.br/25-de-Abril-a-memoria-tambem-e-um-campo-de-batalha",
           "publishedOn": "2026-04-25T11:35:02.000Z",
-          "wordCount": 8441,
+          "wordCount": 8435,
           "title": "25 de Abril: a memória também é um campo de batalha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-25_at_08.43_24.jpg?1777117492"
         }
@@ -361,6 +488,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73527",
+          "author": "Agência Pública",
+          "description": "s conflitos de terra nas áreas rurais do Brasil foram o palco de 26 assassinatos em 2025 registrados pela Comissão Pastoral da Terra (CPT). O número representa um salto de 100% na comparação com o ano anterior, quando 13 homicídios foram anotados. Os dados fazem parte do relatório Conflitos no Campo Brasil 2025, lançado pela […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/27/conflitos-no-campo-assassinatos-dobram-no-brasil-em-um-ano-aponta-pastoral-da-terra/",
+          "publishedOn": "2026-04-27T22:06:45.000Z",
+          "wordCount": 3292,
+          "title": "Conflitos no campo: assassinatos dobram no Brasil em um ano, aponta Pastoral da Terra",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/campo2.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73521",
           "author": "Africa is a Country",
           "description": "esde a guerra da OTAN contra a Líbia em 2011, o outrora próspero país norte-africano tem sido marcado pela pobreza extrema, pela disfunção institucional e pela constante ameaça de guerra civil. Muitos líbios anseiam pelo retorno da funcionalidade do Estado. Esse anseio frequentemente se manifesta em forma de nostalgia pelo período da Jamahiriya, quando a […]",
@@ -389,16 +526,6 @@
           "wordCount": 3778,
           "title": "A “epidemia” de espiões iranianos em Israel",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/israel.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73507",
-          "author": "Pedro Marin",
-          "description": "e declarar seu ódio por anúncios a lançá-los no ChatGPT, Sam Altman percorreu um longo caminho. Mas essas mudanças repentinas e inesperadas de opinião são comuns no Vale do Silício – e oferecem a melhor pista sobre para onde Altman e sua empresa estão prestes a nos levar. Assim como candidatos à presidência dos Estados […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/23/sam-altman-do-odio-aos-anuncios-a-sua-promocao/",
-          "publishedOn": "2026-04-23T14:32:21.000Z",
-          "wordCount": 3944,
-          "title": "Sam Altman, do ódio aos anúncios à sua promoção",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/sam-altman.webp"
         }
       ]
     },
@@ -407,6 +534,46 @@
       "feedUrl": "https://operamundi.uol.com.br/feed",
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
+        {
+          "id": "https://operamundi.uol.com.br/?p=253221",
+          "author": "Raissa Neves",
+          "description": "A presidente do México, Claudia Sheinbaum, comunicou em nota diplomática nesta segunda-feira (27/04) que a participação de autoridades norte-americanas em uma operação antidrogas no estado de Chihuahua, no norte do país, não deve se repetir. O incidente ganhou repercussão após a morte de dois funcionários norte-americanos e dois mexicanos em um acidente de carro em […]\nO post Sheinbaum critica atuação dos EUA em operação antidrogas no México apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/sheinbaum-critica-atuacao-dos-eua-em-operacao-antidrogas-no-mexico/",
+          "publishedOn": "2026-04-27T22:40:54.000Z",
+          "wordCount": 2960,
+          "title": "Sheinbaum critica atuação dos EUA em operação antidrogas no México",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/52346130603_a67a62f381_c-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253224",
+          "author": "Rocio Paik",
+          "description": "A oposição de esquerda no Equador denunciou o governo de extrema direita de Daniel Noboa de manipular as regras eleitorais a sete meses do pleito local. O estopim foi a anulação de outros dois partidos oposicionistas anunciada no domingo (26/04), que se soma à suspensão da principal força oposicionista, a Revolução Cidadã. O Conselho Nacional […]\nO post Esquerda do Equador acusa governo Noboa de manipulação eleitoral apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/esquerda-do-equador-acusa-governo-noboa-de-manipulacao-eleitoral/",
+          "publishedOn": "2026-04-27T22:20:12.000Z",
+          "wordCount": 3503,
+          "title": "Esquerda do Equador acusa governo Noboa de manipulação eleitoral",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/continuacion_de_la_sesion_del_pleno_776_de_la_asamblea_nacional._ecuador_19_de_julio_de_2022_52227840728.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253229",
+          "author": "Victor Farinelli",
+          "description": "O Tribunal de Justiça de Washington realizou nesta segunda-feira (27/04) a primeira audiência de Cole Tomas Allen, homem de 31 anos que foi preso no último sábado (25/04) enquanto tenta realizar um ataque a tiros durante um jantar com correspondentes internacionais, evento que contava com a presença do presidente do país, Donald Trump. A promotoria […]\nO post Procuradoria dos EUA acusa atirador de tentar matar Trump em jantar com jornalistas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/procuradoria-acusa-atirador-de-tentar-matar-trump-em-jantar-com-jornalistas/",
+          "publishedOn": "2026-04-27T21:50:35.000Z",
+          "wordCount": 3192,
+          "title": "Procuradoria dos EUA acusa atirador de tentar matar Trump em jantar com jornalistas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/allen.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253211",
+          "author": "Victor Farinelli",
+          "description": "A Comissão Pastoral da Terra (CPT) lançou, nesta segunda-feira (27/04), a 40ª edição do relatório Conflitos no Campo Brasil. Houve uma queda de 28% nas ocorrências: foram 1.593 em 2025, contra 2.207 em 2024. Porém, os assassinatos de trabalhadores e de povos da terra, das águas e das florestas dobraram: passaram de 13 para 26 […]\nO post Brasil: Pastoral da Terra denuncia aumento de assassinatos e casos trabalho escravo no campo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/brasil-pastoral-da-terra-denuncia-aumento-de-assassinatos-e-casos-trabalho-escravo-no-campo/",
+          "publishedOn": "2026-04-27T21:10:18.000Z",
+          "wordCount": 4001,
+          "title": "Brasil: Pastoral da Terra denuncia aumento de assassinatos e casos trabalho escravo no campo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/fn.jpg"
+        },
         {
           "id": "https://operamundi.uol.com.br/?p=253215",
           "author": "Rocio Paik",
@@ -423,7 +590,7 @@
           "description": "Conhecidos pelo potencial para impulsionar a transição energética, terras raras, minerais estratégicos e minerais críticos vêm ganhando cada vez mais protagonismo global. Embora frequentemente tratados como sinônimos, os três conceitos cumprem papéis diferentes na geopolítica e na economia global. Segundo o Serviço Geológico do Brasil (SGB), órgão do governo federal responsável por avaliar o potencial […]\nO post Terras raras, minerais estratégicos e críticos: entenda as diferenças apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/terras-raras-minerais-estrategicos-e-criticos-entenda-as-diferencas/",
           "publishedOn": "2026-04-27T19:30:18.000Z",
-          "wordCount": 4084,
+          "wordCount": 4086,
           "title": "Terras raras, minerais estratégicos e críticos: entenda as diferenças",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/sigma-lithium-litio-jequitinhonh.webp"
         },
@@ -453,7 +620,7 @@
           "description": "Em 1980 o projeto Kalunga promoveu o intercâmbio entre músicos, poetas, pintores, políticos e outras personalidades brasileiras em Luanda, a convite do governo de Angola, que na época acabava de sair de uma guerra civil. Brasil e Angola, então, se reaproximavam como dois irmãos separados no nascimento. O clima era de reconstrução, lá e aqui, […]\nO post Precisamos de um novo projeto Kalunga apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/precisamos-de-um-novo-projeto-kalunga/",
           "publishedOn": "2026-04-27T17:54:25.000Z",
-          "wordCount": 3133,
+          "wordCount": 3083,
           "title": "Precisamos de um novo projeto Kalunga",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/53142985744_d9d67b6af4_c.jpg"
         },
@@ -463,49 +630,9 @@
           "description": "O Brasil foi o país latino-americano que mais ampliou suas despesas militares em 2025, com alta de 13%, totalizando 23,9 bilhões de dólares (R$ 119,6 bilhões), segundo relatório do Instituto Internacional de Pesquisa para a Paz de Estocolmo (Sipri, na sigla em inglês). No mundo, os gastos militares atingiram cerca de 2,9 trilhões de dólares […]\nO post Brasil ampliou gastos militares em 13% e liderou aumento na América Latina em 2025, aponta relatório apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/brasil-ampliou-gastos-militares-em-13-e-liderou-aumento-na-america-latina-em-2025-aponta-relatorio/",
           "publishedOn": "2026-04-27T17:40:57.000Z",
-          "wordCount": 4052,
+          "wordCount": 4097,
           "title": "Brasil ampliou gastos militares em 13% e liderou aumento na América Latina em 2025, aponta relatório",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/gnptmwvxiaac4hy-2.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253184",
-          "author": "Tatiana Carlotti",
-          "description": "O depoimento do primeiro-ministro de Israel, Benjamin Netanyahu, previsto para esta segunda-feira (27/04), foi cancelado 90 minutos antes do início da audiência no julgamento que ele responde por corrupção. O advogado do premiê israelense, Amit Hadad, alegou razões de segurança para justificar o adiamento, sem adicionar mais detalhes. O depoimento aconteceria no Tribunal Distrital de […]\nO post Audiência de Netanyahu em julgamento por corrupção é cancelada de última hora apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/audiencia-de-netanyahu-em-julgamento-por-corrupcao-e-cancelada-de-ultima-hora/",
-          "publishedOn": "2026-04-27T17:00:25.000Z",
-          "wordCount": 3006,
-          "title": "Audiência de Netanyahu em julgamento por corrupção é cancelada de última hora",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-27-114141.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253198",
-          "author": "Raissa Neves",
-          "description": "O presidente dos EUA, Donald Trump, afirmou numa entrevista que não ficou preocupado durante o ataque a tiros que levou forças de segurança a retirá-lo às pressas de um evento de gala com jornalistas em Washington, no sábado passado (25/04). “Não fiquei preocupado. Compreendo a vida. Vivemos num mundo louco”, afirmou Trump numa entrevista ao […]\nO post Trump diz que não ficou preocupado durante ataque em Washington apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-diz-que-nao-ficou-preocupado-durante-ataque-em-washington/",
-          "publishedOn": "2026-04-27T17:00:21.000Z",
-          "wordCount": 3328,
-          "title": "Trump diz que não ficou preocupado durante ataque em Washington",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76940578_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253194",
-          "author": "Rocio Paik",
-          "description": "O presidente da Rússia, Vladimir Putin, garantiu ao ministro das Relações Exteriores do Irã, Abbas Araghchi, que Moscou está pronta para “fazer o possível para garantir a paz” no Oriente Médio “o mais rápido possível”. A declaração foi dada durante encontro em São Petersburgo nesta segunda-feira (27/04), de acordo com a agência TASS, quando o […]\nO post Putin diz fazer ‘todo possível’ pela paz no Oriente Médio após receber mensagem do aiatolá iraniano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/putin-diz-fazer-todo-possivel-pela-paz-no-oriente-medio-apos-receber-mensagem-do-aiatola-iraniano/",
-          "publishedOn": "2026-04-27T16:20:03.000Z",
-          "wordCount": 3496,
-          "title": "Putin diz fazer ‘todo possível’ pela paz no Oriente Médio após receber mensagem do aiatolá iraniano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hg6_dtnbwaaojoq.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253173",
-          "author": "Tabitha Ramalho",
-          "description": "O líder centrista da oposição israelense, Yair Lapid, e o ex-primeiro-ministro de direita, Naftali Bennett, anunciaram no domingo (26/04) que unirão forças nas eleições ainda este ano contra o primeiro-ministro Benjamin Netanyahu. Bennett e Lapid disseram que seus dois partidos — Bennett 2026 e Yesh Atid — se uniriam em um partido chamado Yachad (que […]\nO post Naftali Bennett e Yair Lapid anunciam aliança contra Netanyahu para eleições israelenses apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/naftali-bennett-e-yair-lapid-anunciam-alianca-contra-netanyahu-para-eleicoes-israelenses/",
-          "publishedOn": "2026-04-27T15:40:12.000Z",
-          "wordCount": 3628,
-          "title": "Naftali Bennett e Yair Lapid anunciam aliança contra Netanyahu para eleições israelenses",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hg2um7abwaeg-ay.jpg"
         }
       ]
     },
@@ -655,12 +782,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3183293",
+          "author": "Ann Pettifor",
+          "description": "Em novo livro, geógrafo volta a Marx, mas polemiza com parte de seus seguidores. Sustenta: combater o capital exige, hoje, entender a financeirização e o rentismo, apontar as ameaças e repensar programas e sujeitos capazes de superar o sistema\nThe post O Capitalismo segundo David Harvey appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/pos-capitalismo/o-capitalismo-segundo-david-harvey/",
+          "publishedOn": "2026-04-27T21:26:54.000Z",
+          "wordCount": 4264,
+          "title": "O Capitalismo segundo David Harvey",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/27183218/harvey_61.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3183236",
+          "author": "Ygor Diego Delgado Alves e Pedro Paulo Gomes Pereira",
+          "description": "Dispersão do fluxo no centro de SP não acabou com problema: o que antes era unidade visível, se tornou uma rede fragmentada e instável – e com grande impacto na cidade. Hoje, diagnósticos e possíveis intervenções públicas são desafios ainda maiores\nThe post “Fim da Cracolândia”, uma ilusão conveniente appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/fim-da-cracolandia-uma-ilusao-conveniente/",
+          "publishedOn": "2026-04-27T21:11:52.000Z",
+          "wordCount": 6516,
+          "title": "“Fim da Cracolândia”, uma ilusão conveniente",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/27180258/Screenshot-2026-04-27-at-18-02-47-Forca-tarefa-quer-reunir-provas-e-relatos-sobre-o-%E2%80%98desaparecimento-da-Cracolandia-Brasil-de-Fato.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3183188",
           "author": "Carlos Aguiar de Medeiros",
           "description": "Sanções de Trump ajudaram a redesenhar o comércio chinês, que buscou outros mercados e atingiu marca recorde de exportações em 2025. Política industrial e autonomia tecnológicas foram estimuladas. E país ampliou os níveis de consumo interno\nThe post Como a China contornou o <i>tarifaço</i> appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/como-a-china-contornou-o-tarifaco/",
           "publishedOn": "2026-04-27T20:45:47.000Z",
-          "wordCount": 4307,
+          "wordCount": 4316,
           "title": "Como a China contornou o tarifaço",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/27175038/2024-06-05T114902Z_1_LYNXMPEK540IA_RTROPTP_4_MACRO-CHINA-EXPORTACOES.jpeg"
         },
@@ -670,7 +817,7 @@
           "description": "Sociólogo francês Geoffroy de Lagasnerie provoca: se instituições jurídicas promovem lawfare, a esquerda deveria combatê-lo com a defesa de uma “justiça neutra”? Qual o papel do intelectual público diante da banalização da barbárie que corrói as democracias ocidentais?\nThe post <i>Atitude reconstrutiva</i>: Como ir além da crítica política? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/atitude-reconstrutiva-como-ir-alem-da-critica-politica/",
           "publishedOn": "2026-04-27T20:30:32.000Z",
-          "wordCount": 6759,
+          "wordCount": 6765,
           "title": "Atitude reconstrutiva: Como ir além da crítica política?",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/27172708/m2iwndcwnzmtnji4ns00mjkzltgyzditothlmjdmmja2mte3_geoffroy-1-1-scaled.jpg"
         },
@@ -680,7 +827,7 @@
           "description": "Uma análise da cidade que tem o maior e mais desigual mercado formal do país. 60% ganham menos de dois salários mínimos. Na outra ponta, cargos mais valorizados são pejotizados. No vácuo de estabilidade, intermitência avança: maiores empresas têm menos CLT’s\nThe post Trabalho: segregação e desigualdade em SP appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/trabalho-segregacao-e-desigualdade-em-sp/",
           "publishedOn": "2026-04-27T18:45:52.000Z",
-          "wordCount": 5121,
+          "wordCount": 5128,
           "title": "Trabalho: segregação e desigualdade em SP",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/27154407/Silhouette-image-of-cleaning-service-people-sweeping-floor-with-mop-952104312_2121x1414-qmr0x1jpqfsx.jpeg"
         },
@@ -733,26 +880,6 @@
           "wordCount": 4495,
           "title": "Entregadores: como a Europa enquadrou as plataformas",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/24152222/ekaterina-bogdan-rupsxwwhorw-unsplash.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3183006",
-          "author": "Heloísa Starling",
-          "description": "Na semana em que se celebra Tiradentes, retomamos cenas e ideias que circularam nas cidades mineiras no primeiro movimento republicano da colônia portuguesa. Antecedeu a Revolução Francesa. E chegou a pensar o fim do escravismo para dar clareza ao ideal de liberdade\nThe post A Conjuração Mineira e suas luzes appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/a-conjuracao-mineira-e-suas-luzes/",
-          "publishedOn": "2026-04-24T16:32:31.000Z",
-          "wordCount": 5167,
-          "title": "A Conjuração Mineira e suas luzes",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/24132253/Screenshot-2026-04-24-at-13-21-03-2-Obra-Tiradentes-de-Candido-Portinari-part-1.png-imagem-WEBP-580-%C3%97-297-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3183001",
-          "author": "Luiz Filgueiras",
-          "description": "País continua preso ao padrão de desenvolvimento liberal-periférico inaugurado por FHC. É preciso examinar sua natureza, as regressões que produziu e as classes que colocou no poder – porque a esquerda precisa vencer o fascismo, mas não pode lutar sem sair do lugar\nThe post Lula e o neoliberalismo. E agora? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/lula-e-o-neoliberalismo-e-agora/",
-          "publishedOn": "2026-04-24T16:00:18.000Z",
-          "wordCount": 5482,
-          "title": "Lula e o neoliberalismo. E agora?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/24125149/Captura-de-Tela-2024-12-04-as-08.28.40.png"
         }
       ]
     },
@@ -801,7 +928,7 @@
         {
           "id": "http://blogdaboitempo.com.br/?p=63951",
           "author": "Boitempo",
-          "description": "Nos 89 do falecimento de Antonio Gramsci, a estudiosa e tradutora Rita Matos Coitinho lista as razões que fazem sua obra permanecer viva e compartilha dicas de leituras para adultos e crianças.",
+          "description": "Nos 89 anos do falecimento de Antonio Gramsci, a estudiosa e tradutora Rita Matos Coitinho lista as razões que fazem sua obra permanecer viva e compartilha dicas de leituras para adultos e crianças.",
           "link": "https://blogdaboitempo.com.br/2026/04/27/por-que-ler-gramsci-hoje-licoes-do-revolucionario-italiano-para-todas-as-idades-e-dicas-imperdiveis-de-leitura/",
           "publishedOn": "2026-04-27T11:00:00.000Z",
           "wordCount": 12852,
@@ -824,7 +951,7 @@
           "description": "Desta vez, as comemorações do aniversário de Marx começam no Rio de Janeiro! Com o tema \"MARX, O INCONTORNÁVEL: IDEIAS PARA ENFRENTAR 2026 \", reuniremos no Armazém da Utopia, em 9 de maio, nomes de peso como Aaron Benanav, José Paulo Netto, Elias Jabbour e Virginia Fontes. Confira a programação carioca completa e mais detalhes sobre os eventos e promoções do DIA M 2026 no resto do país.",
           "link": "https://blogdaboitempo.com.br/2026/04/24/o-dia-m-2026-esta-chegando-confira-a-programacao-da-festa-de-aniversario-do-marx-no-rio-de-janeiro/",
           "publishedOn": "2026-04-24T21:29:33.000Z",
-          "wordCount": 11612,
+          "wordCount": 11662,
           "title": "O DIA M 2026 está chegando: confira a programação da Festa de Aniversário do Marx no Rio de Janeiro",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/04-banner-blog-rio-aniversario-marx_01.jpg"
         },
@@ -837,16 +964,6 @@
           "wordCount": 14350,
           "title": "A pequena política ficou menor",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-32.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63891",
-          "author": "Boitempo",
-          "description": "Douglas Barros: \"O que a fala de Paulo Galo revela é justamente um imaginário do trabalhador cuja genealogia se liga à noção protestante do que é ser trabalhador. Numa sociedade como a brasileira – cujas raízes coloniais permanecem operando os modos de distribuição dos corpos – esse trabalhador imaginário será branco, e sua sexualidade, marcada pela normatividade. Quem dá o cu, supostamente, não trabalha.\"",
-          "link": "https://blogdaboitempo.com.br/2026/04/23/o-macho-e-o-cu/",
-          "publishedOn": "2026-04-23T14:00:00.000Z",
-          "wordCount": 12609,
-          "title": "O macho e o cu",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-31.png"
         }
       ]
     }
