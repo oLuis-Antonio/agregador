@@ -6,12 +6,22 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "JVWC1D",
+          "author": null,
+          "description": "A adoção da escala 12x36, com a justificativa de flexibilidade e modernização, ignora as demandas de contratação e valorização para que a empresa realmente consiga prestar um melhor serviço.",
+          "link": "https://jornalofuturo.com.br/artigo/JVWC1D-escala-12x36-nos-correios-precariza-condicoes-de-trabalho",
+          "publishedOn": "2026-06-01T15:00:00.000Z",
+          "wordCount": 1612,
+          "title": "Escala 12x36 nos Correios precariza condições de trabalho",
+          "imageUrl": "https://media.jornalofuturo.com.br/assembleiacorreios-1280x853.jpg"
+        },
+        {
           "id": "Ztnrvc",
           "author": null,
           "description": "Com o aumento do número de mortos e bairros inteiramente destruídos, as tropas israelenses visam ocupar o sul do Líbano em nova ofensiva.",
           "link": "https://jornalofuturo.com.br/artigo/Ztnrvc-ignorando-o-cessar-fogo-israel-avanca-no-sul-do-libano",
           "publishedOn": "2026-06-01T00:00:00.000Z",
-          "wordCount": 1865,
+          "wordCount": 1882,
           "title": "Ignorando o “cessar-fogo”, Israel avança no sul do Líbano",
           "imageUrl": "https://media.jornalofuturo.com.br/libanoataque-1200x675.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "Greve unificada entre estudantes da Unesp, USP e Unicamp reivindicam melhores condições de permanência e mais orçamento para a educação pública, enquanto articulam luta com demais setores da sociedade.",
           "link": "https://jornalofuturo.com.br/artigo/QWZPdi-greve-unificada-dos-estudantes-das-universidades-estaduais-mobilizam-todo-o-estado-de-sao-paulo",
           "publishedOn": "2026-05-31T21:00:00.000Z",
-          "wordCount": 3487,
+          "wordCount": 3504,
           "title": "Greve unificada dos estudantes das Universidades Estaduais mobilizam todo o estado de São Paulo",
           "imageUrl": "https://media.jornalofuturo.com.br/ato11msp-1280x853.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Em greve durante todo mês de maio, trabalhadores da educação da rede municipal da terceira capital mais rica do país enfrentam a engrenagem de austeridade fiscal que, em todo o país, transfere recursos do serviço público para a iniciativa privada.",
           "link": "https://jornalofuturo.com.br/artigo/0bSMVo-greve-de-professores-em-bh-escancara-austeridade-como-projeto-estrutural-de-precarizacao",
           "publishedOn": "2026-05-30T21:00:00.000Z",
-          "wordCount": 2619,
+          "wordCount": 2636,
           "title": "Greve de professores em BH escancara austeridade como projeto estrutural de precarização",
           "imageUrl": "https://media.jornalofuturo.com.br/grevebheduca26-1-1280x960.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Sob o pretexto de combater o crime organizado, os Estados Unidos avançam em classificação do PCC e do CV como organizações terroristas, em medida que pode ampliar os mecanismos de ingerência e pressão política dos EUA sobre o Brasil.",
           "link": "https://jornalofuturo.com.br/artigo/pajGVW-eua-anuncia-classificacao-do-pcc-e-cv-como-grupos-terroristas",
           "publishedOn": "2026-05-29T21:00:00.000Z",
-          "wordCount": 2755,
+          "wordCount": 2772,
           "title": "EUA anuncia classificação do PCC e CV como grupos terroristas",
           "imageUrl": "https://media.jornalofuturo.com.br/trumplula-1280x853.jpg"
         },
@@ -61,7 +71,7 @@
           "description": "Porta-aviões estadunidense chega ao Caribe após Departamento de Justiça dos EUA denunciar Raul Castro por ter batido aviões que violaram o espaço aéreo de Cuba em 1996.",
           "link": "https://jornalofuturo.com.br/artigo/h142p8-eua-forja-acusacoes-contra-raul-castro-para-justificar-agressao-militar-contra-cuba",
           "publishedOn": "2026-05-29T15:00:00.000Z",
-          "wordCount": 2169,
+          "wordCount": 2186,
           "title": "EUA forja acusações contra Raúl Castro para justificar agressão militar contra Cuba",
           "imageUrl": "https://media.jornalofuturo.com.br/65cubasocialista-1024x682.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "A resposta do governo boliviano, que apostou na violência para reprimir os movimentos, rapidamente fez com que a luta política unificasse todos os movimentos sob a demanda pela renúncia de Rodrigo Paz.",
           "link": "https://jornalofuturo.com.br/artigo/jHYaHm-operarios-camponeses-e-indigenas-unificam-luta-politica-contra-o-governo-paz-na-bolivia",
           "publishedOn": "2026-05-28T15:00:00.000Z",
-          "wordCount": 1484,
+          "wordCount": 1501,
           "title": "Operários, camponeses e indígenas unificam luta política contra o Governo Paz na Bolívia",
           "imageUrl": "https://media.jornalofuturo.com.br/boliviaprotesto-900x600.jpg"
         }
@@ -88,9 +98,9 @@
           "description": "Inaugurada na última quarta-feira (27), a Ocupação Maria Águeda é a 1ª na cidade de Guaratuba e 48ª ocupação do Movimento de Mulheres Olga Benario em todo o país.  Gabriela Torres | Redação Paraná MULHERES – O Movimento Olga Benario realizou a primeira ocupação de mulheres em Guaratuba, a Ocupação Maria Águeda. A casa de […]",
           "link": "https://averdade.org.br/2026/05/movimento-olga-ocupa-imovel-abandonado-em-guaratuba-para-criar-centro-de-referencia-para-as-mulheres/",
           "publishedOn": "2026-05-30T10:39:59.000Z",
-          "wordCount": 5961,
+          "wordCount": 5965,
           "title": "Movimento Olga ocupa imóvel abandonado em Guaratuba para criar Centro de Referência para as mulheres",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2021/09/e2e25b52-base-01-thumbnail-para-facebook.png"
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-31-at-17.32.40.jpeg"
         },
         {
           "id": "https://averdade.org.br/?p=61996",
@@ -180,6 +190,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a1dacc7f86e9e026f7a218e",
+          "author": "Redação",
+          "description": "Marcelo Soares, sociólogo e ativista ambiental\nPode parecer deboche, e na verdade não deixa de ser, embora o nome de Projeto Natureza para a nova fábrica que a CMPC (Compañia Manufacturera de Papeles y Cartones), grupo chileno que se inclui entre as",
+          "link": "https://opiniaosocialista.com.br/a-nova-fabrica-da-cmpc-e-o-avanco-do-deserto-verde-no-pampa-gaucho/",
+          "publishedOn": "2026-06-01T16:11:15.000Z",
+          "wordCount": 2527,
+          "title": "A nova fábrica da CMPC e o avanço do deserto verde no pampa gaúcho",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Capa_Fabrica-de-celulose-da-CMPC-em-Guaiba-no-Rio-Grande-do-Sul.webp"
+        },
+        {
           "id": "6a18e200f86e9e026f7a20c5",
           "author": "Diego Cruz",
           "description": "Votação mostra que trabalhadores devem confiar em suas próprias forças, e não em acordos com o centrão e a direita",
@@ -197,12 +217,52 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/6x1-PEC-dos-Patroes-no-Senado-quer-escala-7x0-e-e-conduzida-pela-campanha-de-Flavio-Bolsonaro",
+          "author": "Redação",
+          "description": "Encabeçada pelo senador Rogério Marinho (PL-RN), coordenador da campanha de Flávio Bolsonaro, que é senador e assinou o projeto, a PEC 12/2016 é uma reação patronal à aprovação do fim da escala 6x1 (com transição de 1 ano) na Câmara dos Deputados. Em nome da \"modernização\", Flávio Bolsonaro e seu braço direito agora querem aprovar, na prática a escala 7x0 e a remuneração por horas trabalhadas.\n01-06-2026\n\n/ Classe trabalhadora, Michel Temer, Reforma Trabalhista, Flavio Bolsonaro, bolsonarismo, jornada 6x1",
+          "link": "https://www.esquerdadiario.com.br/6x1-PEC-dos-Patroes-no-Senado-quer-escala-7x0-e-e-conduzida-pela-campanha-de-Flavio-Bolsonaro",
+          "publishedOn": "2026-06-01T16:58:25.000Z",
+          "wordCount": 8246,
+          "title": "6x1: PEC dos Patrões no Senado quer escala 7x0 e é conduzida pela campanha de Flávio Bolsonaro",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flavio-bolsonaro-rogerio-marinho-1080-848x477.png?1780333033"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Fora-Aluisio-Enfrentar-a-intransigencia-da-reitoria-e-de-toda-estrutura-de-poder-da-USP-pela-base",
+          "author": "Faísca USP",
+          "description": "Com esta nota, nós da Faísca Revolucionária queremos contribuir com a nossa visão da greve, uma luta que somos parte de construir desde o início buscando a mais profunda unidade na ação contra a reitoria e o governo Tarcísio. Para isso, colocamos essas propostas e debates. Chamamos aqueles que concordam com essa visão a debater conosco e se organizar na Faísca a serviço dessa perspectiva para a greve e para a nossa universidade.\n01-06-2026\n\n/ USP, Movimento Estudantil, Greve na USP",
+          "link": "https://www.esquerdadiario.com.br/Fora-Aluisio-Enfrentar-a-intransigencia-da-reitoria-e-de-toda-estrutura-de-poder-da-USP-pela-base",
+          "publishedOn": "2026-06-01T14:53:27.000Z",
+          "wordCount": 9721,
+          "title": "Fora Aluísio! Enfrentar a intransigência da reitoria e de toda estrutura de poder da USP pela base",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/greve-usp1.jpg?1780325602"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Israel-aprofunda-sua-ofensiva-no-Libano-buscando-condicionar-o-acordo-de-paz-entre-Ira-e-Estados",
+          "author": "Diego Iung",
+          "description": "O Estado de Israel multiplicou os ataques sobre o Líbano durante os últimos dias, incluindo uma ofensiva terrestre que já está causando dezenas de mortos. Os ataques são dirigidos inclusive ao norte do rio Litani. A ofensiva israelense recrudesce enquanto aumenta a expectativa por um iminente acordo de paz entre Estados Unidos e Irã.\n01-06-2026\n\n/ Internacional, Israel, Donald Trump, Líbano , Benjamin Netanyahu",
+          "link": "https://www.esquerdadiario.com.br/Israel-aprofunda-sua-ofensiva-no-Libano-buscando-condicionar-o-acordo-de-paz-entre-Ira-e-Estados",
+          "publishedOn": "2026-06-01T14:49:08.000Z",
+          "wordCount": 8453,
+          "title": "Israel aprofunda sua ofensiva no Líbano, buscando condicionar o acordo de paz entre Irã e Estados Unidos",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nabatieh-89536.jpg?1780325199"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Lula-preserva-Trump-e-foca-apenas-em-Rubio-no-tema-da-ingerencia-dos-EUA-na-seguranca-publica",
+          "author": "Redação",
+          "description": "Na sexta-feira, 29 de maio, Lula reagiu à decisão do governo dos Estados Unidos de classificar o Primeiro Comando da Capital e o Comando Vermelho como organizações terroristas.\n01-06-2026\n\n/ Donald Trump, Crime Organizado, PL Antiterrorismo, Governo Lula",
+          "link": "https://www.esquerdadiario.com.br/Lula-preserva-Trump-e-foca-apenas-em-Rubio-no-tema-da-ingerencia-dos-EUA-na-seguranca-publica",
+          "publishedOn": "2026-06-01T14:47:43.000Z",
+          "wordCount": 8268,
+          "title": "Lula preserva Trump e foca apenas em Rubio no tema da ingerência dos EUA na segurança pública",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/screenshot_20251007_133801_google-rcv6hn9bbxf5g834nw5gomatfij8w0s3ea2rg870xs.jpg?1780325213"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Colombia-primeiro-turno-polarizacao-social-e-a-disputa-aberta-rumo-ao-segundo-turno",
           "author": "Milton D'León",
           "description": "O primeiro turno presidencial de 31 de maio confirmou uma das tendências mais profundas da situação política colombiana, marcada pela polarização política. Os resultados provisórios colocaram o candidato de extrema direita, Abelardo de la Espriella, em primeiro lugar, com cerca de 43,7% dos votos, seguido de muito perto por Iván Cepeda, candidato do Pacto Histórico, com aproximadamente 41%. Petro e Cepeda questionam o resultado anunciado.\n01-06-2026\n\n/ Internacional, ELN Colômbia, Colombia, Álvaro Uribe, Gustavo Petro",
           "link": "https://www.esquerdadiario.com.br/Colombia-primeiro-turno-polarizacao-social-e-a-disputa-aberta-rumo-ao-segundo-turno",
           "publishedOn": "2026-06-01T13:11:42.000Z",
-          "wordCount": 9027,
+          "wordCount": 9092,
           "title": "Colômbia: primeiro turno, polarização social e a disputa aberta rumo ao segundo turno",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/elecciones-presidenciales-1536x864.jpg?1780319451"
         },
@@ -212,7 +272,7 @@
           "description": "Segundo informaram ambas as instituições, na reunião foram abordados “assuntos de segurança operacional” no perímetro da base naval que os EUA ocupam ilegalmente desde 1903.\n01-06-2026\n\n/ Internacional, Acordo Cuba-EUA, Donald Trump, Revolução Cubana, Cuba, Bloqueio a Cuba",
           "link": "https://www.esquerdadiario.com.br/Em-meio-a-ameaca-militar-e-ao-bloqueio-cupulas-militares-de-Cuba-e-do-Comando-Sul-se-reunem-em",
           "publishedOn": "2026-06-01T13:01:42.000Z",
-          "wordCount": 8686,
+          "wordCount": 8692,
           "title": "Em meio à ameaça militar e ao bloqueio, cúpulas militares de Cuba e do Comando Sul se reúnem em Guantánamo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/fgsdfga-dfa60.jpg?1780318769"
         },
@@ -222,7 +282,7 @@
           "description": "Uma reunião ampliada da Central Operária Boliviana decidiu que se mantêm firmes na reivindicação da renúncia de Rodrigo Paz, rejeitaram qualquer ida ao diálogo e chamam a manter os bloqueios.\n01-06-2026\n\n/ Internacional, Bolívia, Greve Geral, Política Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Greve geral na Bolívia",
           "link": "https://www.esquerdadiario.com.br/A-Central-Operaria-Boliviana-rejeita-o-dialogo-e-exige-a-renuncia-de-Rodrigo-Paz-mas-nao-efetiva-a",
           "publishedOn": "2026-06-01T12:30:39.000Z",
-          "wordCount": 8062,
+          "wordCount": 8063,
           "title": "A Central Operária Boliviana rejeita o diálogo e exige a renúncia de Rodrigo Paz, mas não efetiva a greve geral",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/710755197_1409707114514060_1655553398013432903_n.jpg?1780315395"
         },
@@ -232,7 +292,7 @@
           "description": "Apresentaremos aqui as elaborações do Instituto Casa Marx e do Quilombo Vermelho do Brasil e de Angola publicadas no dossiê África e Marxismo, nesta semana do último Dia da África de 2026. O Dossiê é uma iniciativa de diversos companheiros e companheiras do Brasil, Angola e Guiné-Bissau para resgatar a tradição marxista no continente africano, fazendo um balanço das lutas de libertação, com a perspectiva de construir um programa socialista e revolucionário para o continente.\n30-05-2026\n\n/ Movimento Negro, África, Questão Negra, Mali, antirracismo, Angola, Guiné-Bissau, Guiné-Bissau , Angola , Dossiê África",
           "link": "https://www.esquerdadiario.com.br/Leia-o-DOSSIE-AFRICA-E-MARXISMO-61517",
           "publishedOn": "2026-06-01T00:32:43.000Z",
-          "wordCount": 7955,
+          "wordCount": 7964,
           "title": "Leia o DOSSIÊ ÁFRICA E MARXISMO",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/3c9e14a0e3bc414b9642351d37c6ab8a-ace7a.jpg?1780273884"
         },
@@ -242,7 +302,7 @@
           "description": "Defender a permanência estudantil, enfrentar o machismo, o racismo e a LGBTfobia dentro e fora da universidade, construir greve geral pelo fim da 6x1 contra as manobras do senado, defender os trabalhadores terceirizados, estar ao lado das greves e da revolta boliviana para enfrentar qualquer ingerência de Trump e dos imperialistas, sem ilusão na conciliação. São muitos os desafios diante de um fim de semestre atravessado por cobranças produtivista e eleições estudantis, por isso, defendemos (…)\n30-05-2026\n\n/ UFMG, Minas Gerais, DCE UFMG, Faísca Revolucionária, Oposição de esquerda",
           "link": "https://www.esquerdadiario.com.br/Por-uma-Plenaria-Programatica-unificada-e-aberta-da-oposicao-de-esquerda-na-UFMG-para-debater-os",
           "publishedOn": "2026-06-01T00:08:13.000Z",
-          "wordCount": 9125,
+          "wordCount": 9134,
           "title": "Por uma Plenária Programática unificada e aberta da oposição de esquerda na UFMG para debater os desafios do movimento estudantil",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-31_at_21.04_05.jpg?1780272372"
         },
@@ -252,7 +312,7 @@
           "description": "Nós, do Movimento Nossa Classe, composto por petroleiras e petroleiros do operacional e administrativos, da base da categoria e companheiros que formam parte minoritária da direção do Sindipetro-RJ, chamamos todas e todos os petroleiros a defenderem a filiação de nosso sindicato à CSP-Conlutas.\n30-05-2026\n\n/ CSP-Conlutas, Movimento Nossa Classe, Petrobras, Classe Trabalhadora, Petroleiros, Independência de classe, SINDIPETRO-RJ",
           "link": "https://www.esquerdadiario.com.br/Pela-filiacao-do-Sindipetro-RJ-a-CSP-Conlutas",
           "publishedOn": "2026-05-30T19:32:45.000Z",
-          "wordCount": 9080,
+          "wordCount": 9083,
           "title": "Pela filiação do Sindipetro-RJ à CSP-Conlutas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nossa_classe_-_petroleiros_capas_1_-2.png?1780168765"
         },
@@ -262,17 +322,17 @@
           "description": "Enquanto a Bolívia vive uma das maiores crises políticas e sociais dos últimos anos, o governo de Rodrigo Paz tenta construir uma saída por cima que lhe permita recuperar margens de governabilidade. Em meio a bloqueios, greves, desabastecimento e uma crescente rebelião operária, camponesa, indígena e popular, o chamado \"Conselho Econômico-Social\" impulsionado pelo governo terminou fracassando como instância de diálogo, mas serviu para anunciar o avanço das negociações para um endividamento (…)\n30-05-2026\n\n/ Internacional, Bolivia, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Fracassa-o-dialogo-de-Rodrigo-Paz-e-cresce-a-ameaca-de-estado-de-sitio-Impulsionemos-uma",
           "publishedOn": "2026-05-30T16:27:46.000Z",
-          "wordCount": 9478,
+          "wordCount": 9503,
           "title": "Fracassa o diálogo de Rodrigo Paz e cresce a ameaça de estado de sítio. Impulsionemos uma coordenação nacional dos setores em luta",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/maricas_bolivia-b9d3c.jpg?1780158413"
         },
         {
           "id": "https://www.esquerdadiario.com.br/O-Porto-nao-pode-ser-palco-da-extrema-direita-europeia",
           "author": "O Imigrante",
-          "description": "O Porto não pode ser palco da extrema-direita europeia. No próximo dia 30 de maio, a cidade receberá o chamado “Remigration Summit”, encontro organizado por figuras e grupos ligados à extrema-direita identitária europeia, unidos por uma agenda racista, xenófoba e autoritária que defende a deportação em massa de imigrantes, cidadãos naturalizados e descendentes de migrantes sob o eufemismo de “remigração”\n28-05-2026\n\n/ Europa, Extrema direita, Portugal, Portugal",
+          "description": "O Porto não pode ser palco da extrema-direita europeia. No próximo dia 30 de maio, a cidade receberá o chamado “Remigration Summit”, encontro organizado por figuras e grupos ligados à extrema-direita identitária europeia, unidos por uma agenda racista, xenófoba e autoritária que defende a deportação em massa de imigrantes, cidadãos naturalizados e descendentes de migrantes sob o eufemismo de “remigração”\n28-05-2026\n\n/ Internacional, Europa, Extrema direita, Portugal, Portugal",
           "link": "https://www.esquerdadiario.com.br/O-Porto-nao-pode-ser-palco-da-extrema-direita-europeia",
           "publishedOn": "2026-05-29T17:35:28.000Z",
-          "wordCount": 8183,
+          "wordCount": 8261,
           "title": "O Porto não pode ser palco da extrema-direita europeia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/porto.jpg?1780075192"
         },
@@ -282,7 +342,7 @@
           "description": "Na ultima quarta feira (27), a reitoria da Unicamp sentou com a mesa de negociação dos estudantes grevistas e apresentou uma contraproposta “fake” às demandas estudantis. Com um documento preparado por IA, a reitoria sequer leu as demandas estudantis, e apresentou temas racistas, como “Semana Branca”, para se referir a uma semana sem avaliações após a greve \n O cinismo das reitorias não tem limites. Enquanto estudantes, trabalhadores e docentes se organizam em uma greve unificada, exigindo (…)\n28-05-2026\n\n/ Unicamp, Greve das estaduais paulistas, Reitoria Unicamp, Estudantes Unicamp, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Reitoria-da-Unicamp-faz-carta-de-contraproposta-a-greve-por-IA-e-propoe-Semana-Branca",
           "publishedOn": "2026-05-29T15:04:44.000Z",
-          "wordCount": 7829,
+          "wordCount": 7838,
           "title": "Reitoria da Unicamp faz carta de contraproposta à greve por IA e propõe “Semana Branca”",
           "enclosure": {
             "url": "https://www.esquerdadiario.com.br/IMG/jpg/images-20.jpg",
@@ -297,7 +357,7 @@
           "description": "Este texto analisa o conto \"Um ilegítimo desejo\" do livro “Mornas eram as noites”, de Dina Salústio (escritora cabo-verdiana), analisando como a narrativa transforma o trauma social da prostituição em Cabo Verde em uma denúncia contra as violências do cotidiano no capitalismo, destacando o papel central das mulheres na luta por uma emancipação social ainda não concluída pós-independência.\n28-05-2026\n\n/ África, Feminismo, poema",
           "link": "https://www.esquerdadiario.com.br/Mornas-que-incendeiam-uma-analise-do-conto-Um-ilegitimo-desejo-de-Dina-Salustio",
           "publishedOn": "2026-05-29T14:50:47.000Z",
-          "wordCount": 9159,
+          "wordCount": 9168,
           "title": "Mornas que incendeiam: uma análise do conto “Um ilegítimo desejo”, de Dina Salústio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-29_at_07.33_21.jpg?1780066109"
         },
@@ -307,7 +367,7 @@
           "description": "Luciano Hang, o velho da Havan, ostenta nas suas lojas a estátua da liberdade, mas deveria erguer a bandeira dos confederados, os escravocratas derrotados na guerra civil dos EUA que aboliu a escravidão. Em entrevista à Folha, o empresário criticou até a folga das mulheres aos domingos\n28-05-2026\n\n/ Classe trabalhadora, Greve Geral, Veio da Havan, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Luciano-Hang-o-velho-da-Havan-ameaca-tirar-lojas-do-Brasil-com-o-fim-da-6x1-Ja-vai-tarde",
           "publishedOn": "2026-05-29T14:13:06.000Z",
-          "wordCount": 8394,
+          "wordCount": 8407,
           "title": "Luciano Hang, o velho da Havan, ameaça tirar lojas do Brasil com o fim da 6x1. Já vai tarde",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/havan.jpg?1780063939"
         },
@@ -317,7 +377,7 @@
           "description": "O Departamento de Estado dos EUA anunciou nesta quinta-feira (28) que o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) passam a ser considerados “Terroristas Globais Especialmente Designados”, criando um pretexto para ampliar a intervenção política e militar no Brasil, inclusive no período eleitoral. Flávio Bolsonaro comemorou e declarou ter pedido pessoalmente a Trump a medida, reforçando o já conhecido capachismo da família “Dark Horse”. \n Essa medida tem possibilidade de (…)\n28-05-2026\n\n/ Política, Donald Trump, Imperialismo, Flavio Bolsonaro",
           "link": "https://www.esquerdadiario.com.br/EUA-classificam-PCC-e-CV-como-terroristas-para-justificar-ingerencia-no-Brasil",
           "publishedOn": "2026-05-29T01:00:13.000Z",
-          "wordCount": 7936,
+          "wordCount": 7953,
           "title": "EUA classificam PCC e CV como “terroristas” para justificar ingerência no Brasil",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ffff.jpg?1780016396"
         },
@@ -327,7 +387,7 @@
           "description": "O anúncio do premiê sionista escancara que o chamado cessar-fogo nunca significou fim dos assassinatos e roubo de terras. Depois de mais ataques sanguinários na véspera do feriado religioso do Eid, agora o processo continuado de genocídio tem como passo o roubo de mais território. Pela imediata ruptura de todas as relações do Brasil com Israel! \n Netanyahu ordenou a IOF nesta quinta-feira (28) que ocupe 70% da Faixa de Gaza, avançando ainda mais sobre o território palestino e violando os (…)\n28-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, Campanha pela ruptura de todas das relações Brasil-Israel, Genocídio, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Netanyahu-anuncia-ocupacao-e-roubo-de-70-do-territorio-de-Gaza",
           "publishedOn": "2026-05-28T22:58:16.000Z",
-          "wordCount": 7921,
+          "wordCount": 7907,
           "title": "Netanyahu anuncia ocupação e roubo de 70% do território de Gaza",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ffb2d12f-3653-47ef-b688-e07bfe6ebb69.jpg?1780009063"
         },
@@ -337,7 +397,7 @@
           "description": "Whisky, vinho, carne de ouro, feijoada e camarote. É assim que aparece a relação de Cláudio Castro com Daniel Vorcaro, banqueiro do Master, no mesmo período em que o Rioprevidência colocou bilhões em fundos ligados ao banco falido. Enquanto aposentados e pensionistas do Rio dependem de uma folha previdenciária de mais de R$ 2 bilhões por mês para sobreviver, o governador das chacinas se encontrava com banqueiro em ambiente de extremo luxo, em uma relação que a própria investigação aponta (…)\n28-05-2026\n\n/ Política, Rio de Janeiro, Corrupção, Violência policial, Assembleia Constituinte Livre e Soberana, Cláudio Castro, Chacina, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Whisky-carne-de-ouro-e-chacina-Claudio-Castro-desiste-do-Senado-cercado-por-escandalos",
           "publishedOn": "2026-05-28T22:31:52.000Z",
-          "wordCount": 8479,
+          "wordCount": 8491,
           "title": "Whisky, carne de ouro e chacina: Cláudio Castro desiste do Senado cercado por escândalos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/castro-vorcaro.jpg?1780007350"
         },
@@ -347,7 +407,7 @@
           "description": "Estudantes, professores e lutadores do Brasil e de Angola fizeram esta live para debater como fortalecer a luta do movimento estudantil internacionalmente contra o racismo, o imperialismo e o capitalismo, em meio ao processo de greve nas universidades estaduais paulistas no Brasil. Em um momento em que o capitalismo demonstra escancaradamente toda a sua crise e arrasta a humanidade para guerras, genocídio, miséria e destruição é ainda mais urgente a busca de uma alternativa (…)\n28-05-2026\n\n/ Luta Antirracista, Movimento Estudantil, Universidade, África, Greve Estudantil, Imperialismo, Anti-imperialista, Angola",
           "link": "https://www.esquerdadiario.com.br/Greve-das-universidades-brasileiras-e-a-luta-estudantil-em-Angola",
           "publishedOn": "2026-05-28T21:44:29.000Z",
-          "wordCount": 7710,
+          "wordCount": 7721,
           "title": "Greve das universidades brasileiras e a luta estudantil em Angola",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/6e172a82-79ad-447b-8ea5-42728fe81993.jpg?1780004635"
         },
@@ -357,7 +417,7 @@
           "description": "Nesta segunda-feira, 25 de maio, uma imagem tomou os grupos de estudantes da UFPE. Uma pessoa cadeirante só conseguiu acessar os andares superiores do prédio do Centro de Filosofia e Humanidades (CFCH) com a mobilização de um conjunto de alunos que o auxiliaram a subir as escadas. Há meses os elevadores não funcionam. Algumas horas depois desse episódio, no mesmo dia, uma mulher ficou presa no elevador no mesmo prédio.\n26-05-2026\n\n/ Educação, Teto de Gastos, Pernambuco, UFPE, Arcabouço Fiscal",
           "link": "https://www.esquerdadiario.com.br/Na-melhor-universidade-do-Nordeste-cadeirante-e-obrigado-a-usar-as-escadas-por-ausencia-de",
           "publishedOn": "2026-05-28T20:41:52.000Z",
-          "wordCount": 8625,
+          "wordCount": 8637,
           "title": "Na melhor universidade do Nordeste, cadeirante é obrigado a usar as escadas por ausência de acessibilidade",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-26_at_22.00_16.jpg?1779849357"
         },
@@ -367,7 +427,7 @@
           "description": "Em 2004, o crítico James Quandt, em artigo publicado pela revista Artforum, descreveu negativamente a onda de filmes franceses lançados na virada do milênio, dando-lhes a alcunha de “New French Extremity” (Novo Extremismo Francês, na tradução). Apesar de não ser um movimento pré concebido de diretores, essas obras buscavam superar a barreira entre o cinema autoral e de gênero, através da violência explícita para quebrar tabus sociais, com forte influência do existencialismo francês.\n28-05-2026\n\n/ Cultura",
           "link": "https://www.esquerdadiario.com.br/O-pessimismo-existencialista-do-New-French-Extremity",
           "publishedOn": "2026-05-28T20:07:56.000Z",
-          "wordCount": 8527,
+          "wordCount": 8536,
           "title": "O pessimismo existencialista do “New French Extremity”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/martyrsed1.jpg?1779998435"
         },
@@ -377,7 +437,7 @@
           "description": "Na manhã desta quarta-feira (27) em São Gonçalo, na região metropolitana do Rio de Janeiro, a Polícia Militar assassinou covardemente Marcelo da Cruz Silva e Edvan Felipe de Assis, dois colegas de trabalho que carregavam materiais de construção para uma obra. \n Em mais um capítulo do racismo da Polícia Militar do Rio de Janeiro, dois trabalhadores foram assassinados à luz do dia a caminho do trabalho. Não se trata de um caso isolado, a mesma polícia que já matou um garçom por portar um (…)\n28-05-2026\n\n/ Luta Antirracista, Rio de Janeiro, Racismo, Racismo Policial, Brutalidade policial, Baixada Fluminense, Polícia Militar",
           "link": "https://www.esquerdadiario.com.br/Foi-uma-covardia-que-fizeram-com-dois-trabalhadores-diz-amigo-dos-pedreiros-assassinados-em-plena",
           "publishedOn": "2026-05-28T19:09:18.000Z",
-          "wordCount": 8085,
+          "wordCount": 8092,
           "title": "‘Foi uma covardia que fizeram com dois trabalhadores', diz amigo dos pedreiros assassinados em plena luz do dia pela PMRJ",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/racismo.jpg?1779995356"
         },
@@ -387,7 +447,7 @@
           "description": "A PEC pelo fim da 6x1, que prevê um ano de transição, nem tinha terminado de ser votada na Câmara e o Senado já começava a atacar os trabalhadores. O bolsonarista Rogério Marinho (PL-RN) apresentou outra PEC para impor redução salarial e incluir a jornada nas negociações individuais entre patrões e empregados.\n28-05-2026\n\n/ Política, Senado, Extrema direita, Flavio Bolsonaro, bolsonarismo, Conciliação de classes, Partido Liberal (PL), jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Bolsonarismo-no-Senado-apresenta-PEC-contra-o-fim-da-6x1-para-garantir-ainda-mais-exploracao-e",
           "publishedOn": "2026-05-28T18:05:14.000Z",
-          "wordCount": 7969,
+          "wordCount": 7978,
           "title": "Bolsonarismo no Senado apresenta PEC contra o fim da 6x1 para garantir ainda mais exploração e redução salarial",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/d94134fb-aae7-4eac-9833-7ce6214ae32b.jpg?1779991511"
         },
@@ -397,7 +457,7 @@
           "description": "Na última quarta(27), a Câmara dos Deputados aprovou o fim da escala 6x1, mas com uma absurda transição de um ano. Se essa votação aconteceu, não foi por boa vontade do Congresso, do governo ou dos patrões. Foi resultado da enorme pressão e da indignação da classe trabalhadora, que vem colocando cada vez mais força na luta contra um regime de exploração que destrói a saúde, a vida e o direito ao descanso de milhões. A oposição no Senado já se articula para atacar essa proposta.\n28-05-2026\n\n/ Classe trabalhadora, Política, Senado, Câmara dos Deputados, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Greve-geral-para-garantir-ja-o-fim-da-6x1-sem-transicao-e-enfrentar-a-tentativa-de-ataque-a-pauta",
           "publishedOn": "2026-05-28T16:33:20.000Z",
-          "wordCount": 8339,
+          "wordCount": 8353,
           "title": "Greve geral para garantir já o fim da 6x1 sem transição e enfrentar a tentativa de ataque à pauta no Senado!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000393098.jpg?1779985835"
         },
@@ -407,19 +467,9 @@
           "description": "Como ação aprovada no comando de greve dos estudantes da Unicamp, hoje os estudantes colocaram uma faixa na rodovia Zeferino Vaz mostrando que sua luta também é pelo fim imediato da escala 6x1, importante pauta da classe trabalhadora que teve projeto aprovado ontem na Câmara dos deputados, com uma regra de transição, e agora segue para o senado.\n27-05-2026\n\n/ Educação, Unicamp, DCE Unicamp, Estudantes Unicamp, Comitê em Defesa das Terceirizadas - Unicamp",
           "link": "https://www.esquerdadiario.com.br/Estudantes-em-greve-da-Unicamp-colocam-faixa-em-rodovia-pelo-fim-imediato-da-escala-6x1",
           "publishedOn": "2026-05-28T15:25:38.000Z",
-          "wordCount": 7994,
+          "wordCount": 8000,
           "title": "Estudantes em greve da Unicamp colocam faixa em rodovia pelo fim imediato da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-28_at_07.16_58.jpg?1779981913"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Ato-do-Dia-da-Africa-e-realizado-em-Sao-Paulo-pela-comunidade-imigrante-e-movimento-negro",
-          "author": "Djennifer Queiroz, Quilombo Vermelho",
-          "description": "No dia 25 de Maio foi comemorado o Dia da África, a comunidade imigrante africana, junto ao movimento negro, organizou um ato em São Paulo, nesta data que rememora, celebra e reivindica processos de independência na década de 1960, a partir da fundação da Organização da União Africana.\n27-05-2026\n\n/ Imigração, África, Imigrantes, Anti-imperialista, Angola",
-          "link": "https://www.esquerdadiario.com.br/Ato-do-Dia-da-Africa-e-realizado-em-Sao-Paulo-pela-comunidade-imigrante-e-movimento-negro",
-          "publishedOn": "2026-05-28T02:45:46.000Z",
-          "wordCount": 7875,
-          "title": "Ato do Dia da África é realizado em São Paulo pela comunidade imigrante e movimento negro",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_23.42_26.jpg?1779936251"
         }
       ]
     },
@@ -526,6 +576,26 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=160614",
+          "author": "Paulo Batistella",
+          "description": "Marcelo da Cruz Silva estava empolgado com mudança e reformava imóvel que pretendia pagar aos poucos. Ele e o vizinho, o ajudante de obras Edivan Felipe de Assis, foram mortos por policiais quando iam trabalhar em uma construção\nO conteúdo ‘Era um trabalhador com sonhos’: pedreiro morto pela PM no Rio comprou casa própria há um mês Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/era-um-trabalhador-com-sonhos-pedreiro-morto-pela-pm-no-rio-comprou-casa-propria-ha-um-mes/",
+          "publishedOn": "2026-06-01T16:10:01.000Z",
+          "wordCount": 5916,
+          "title": "‘Era um trabalhador com sonhos’: pedreiro morto pela PM no Rio comprou casa própria há um mês",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/Marcelo-e-Edivan-moradores-do-Jardim-Catarina-em-Sao-Goncalo-mortos-pela-PM.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=160658",
+          "author": "Catarina Duarte",
+          "description": "Atlas da Violência 2026 reforça concentração dos homicídios no Norte e Nordeste e expõe aprofundamento das desigualdades raciais no país\nO conteúdo Da Redação | O deslocamento da morte  Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/da-redacao-o-deslocamento-da-morte/",
+          "publishedOn": "2026-06-01T15:34:20.000Z",
+          "wordCount": 5336,
+          "title": "Da Redação | O deslocamento da morte",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2023/07/mortos_policia_BA.jpg"
+        },
+        {
           "id": "https://ponte.org/?p=160624",
           "author": "Mariana Rosetti",
           "description": "Especialistas alertam que a medida abre brecha legal para operações policiais dos EUA no Brasil e sanções financeiras, servindo como manobra geopolítica e palanque eleitoral\nO conteúdo O que muda para o Brasil com a decisão dos EUA de tratar PCC e CV como terroristas Pode ser acessado em Ponte Jornalismo.",
@@ -590,12 +660,92 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256286",
+          "author": "Raissa Neves",
+          "description": "Durante meses, Gaza foi/é transformada num campo de ruínas e num lugar quase inabitável. Bairros inteiros desapareceram, hospitais ficaram destruídos, escolas e campos de refugiados foram bombardeados, jornalistas e profissionais de saúde foram assassinados pelas IDF, e centenas de milhares de pessoas são empurradas para a fome, o deslocamento forçado e uma luta diária pela […]\nO post A Europa ‘descobriu’ a indignação quando a violência sionista atingiu europeus apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-europa-descobriu-a-indignacao-quando-a-violencia-sionista-atingiu-europeus/",
+          "publishedOn": "2026-06-01T19:20:06.000Z",
+          "wordCount": 4635,
+          "title": "A Europa ‘descobriu’ a indignação quando a violência sionista atingiu europeus",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/14852083542_4bb24ca172_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256278",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente dos EUA, Donald Trump, disse nesta segunda-feira (01/06) que Israel e o movimento Hezbollah concordaram em pôr fim aos ataques mútuos. “Tive uma conversa muito produtiva com o primeiro-ministro israelense [Benjamin] ‘Bibi’ Netanyahu, e nenhuma tropa será enviada a Beirute”, escreveu o presidente dos EUA em sua conta no Truth Social. Líbano e […]\nO post Hezbollah e Israel concordaram em pôr fim aos ataques mútuos, diz Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-e-israel-concordaram-em-por-fim-aos-ataques-mutuos-diz-trump/",
+          "publishedOn": "2026-06-01T18:51:45.000Z",
+          "wordCount": 3234,
+          "title": "Hezbollah e Israel concordaram em pôr fim aos ataques mútuos, diz Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/10/g3iu_jdxqaab_4o-scaled.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256234",
+          "author": "Victor Farinelli",
+          "description": "A cidade milenar de Tiro foi transformada em um verdadeiro cenário de guerra e devastação. O movimento do comércio e turismo deu lugar a ruas fantasmas, habitadas pelos ruídos dos bombardeios e sirenes das ambulâncias, na sequência de um aviso de evacuação forçada emitido pelo exército israelense. O alerta também incluiu outras localidades da região, […]\nO post Crianças e idosos sobrevivem em hospital do Líbano enquanto Israel promete destruir ‘10 prédios por cada drone’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/criancas-e-idosos-sobrevivem-em-hospital-do-libano-enquanto-israel-promete-destruir-10-predios-por-cada-drone/",
+          "publishedOn": "2026-06-01T17:40:34.000Z",
+          "wordCount": 4821,
+          "title": "Crianças e idosos sobrevivem em hospital do Líbano enquanto Israel promete destruir ‘10 prédios por cada drone’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/sc-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256263",
+          "author": "Raissa Neves",
+          "description": "A Polícia Civil de São Paulo faz na manhã desta segunda-feira (01/06) a Operação Wi-Fi Livre no Instituto Conhecer Brasil, organização não governamental (ONG) de propriedade de Karina Ferreira da Gama, da produtora Go UP, que produziu o filme Dark Horse, sobre a vida do ex-presidente Jair Bolsonaro. A ONG é suspeita de fraude em contrato […]\nO post Produtora de filme sobre Bolsonaro é alvo de investigação por suspeita de fraude apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/produtora-de-filme-sobre-bolsonaro-e-alvo-de-investigacao-por-suspeita-de-fraude/",
+          "publishedOn": "2026-06-01T17:00:35.000Z",
+          "wordCount": 3075,
+          "title": "Produtora de filme sobre Bolsonaro é alvo de investigação por suspeita de fraude",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/policia-civil-sao-paulo.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256253",
+          "author": "Tabitha Ramalho",
+          "description": "A presidente mexicana, Claudia Sheinbaum, fez um forte alerta sobre a possibilidade de o Departamento de Justiça dos EUA se tornar “o principal eleitor” nas eleições de seu país. “Sejamos claros: primeiro vêm buscar alguns, depois outros, até que os escritórios do Ministério Público se tornem o principal eleitorado no México. Não podemos permitir isso”, […]\nO post Sheinbaum alerta que Departamento de Justiça dos EUA pode se tornar ‘principal eleitor’ no México apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/sheinbaum-alerta-que-departamento-de-justica-dos-eua-pode-se-tornar-principal-eleitor-no-mexico/",
+          "publishedOn": "2026-06-01T16:20:07.000Z",
+          "wordCount": 3397,
+          "title": "Sheinbaum alerta que Departamento de Justiça dos EUA pode se tornar ‘principal eleitor’ no México",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hiecvp9xeaelxj7-scaled-e1780329338427.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256241",
+          "author": "Tabitha Ramalho",
+          "description": "O vice-presidente chinês, Han Zheng, reuniu-se com o ministro das Relações Exteriores brasileiro, Mauro Vieira, em Pequim, nesta segunda-feira (01/06), segundo a agência Xinhua. Zheng afirmou que, sob a orientação estratégica dos presidentes Xi Jinping e Luiz Inácio Lula da Silva, a construção de uma comunidade com futuro compartilhado entre as duas nações está progredindo […]\nO post ‘Lula e Xi reforçaram cooperação sino-brasileira de alto nível’, diz vice chinês apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-e-xi-reforcaram-cooperacao-sino-brasileira-de-alto-nivel-diz-vice-chines/",
+          "publishedOn": "2026-06-01T15:40:53.000Z",
+          "wordCount": 3178,
+          "title": "‘Lula e Xi reforçaram cooperação sino-brasileira de alto nível’, diz vice chinês",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/jlezae8hqrxwelrv.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256252",
+          "author": "Tatiana Carlotti",
+          "description": "O Irã anunciou a suspensão das negociações com os Estados Unidos frente à escalada da ofensiva israelense no sul de Beirute, nesta segunda-feira (01/06). Segundo a agência de notícias Tasnim, a retomada de qualquer diálogo a partir de agora está condicionada ao encerramento das operações militares israelenses no Líbano e na Faixa de Gaza. De […]\nO post Irã suspende negociações com EUA até que Israel cesse ataques contra Líbano e Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-suspende-negociacoes-com-eua-ate-que-israel-cesse-ataques-contra-libano-e-gaza/",
+          "publishedOn": "2026-06-01T15:27:01.000Z",
+          "wordCount": 3086,
+          "title": "Irã suspende negociações com EUA até que Israel cesse ataques contra Líbano e Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/mostafa-tehrani-tasnim.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256235",
+          "author": "Tatiana Carlotti",
+          "description": "Os candidatos à Presidência do Peru, Keiko Fujimori (Fuerza Popular) e Roberto Sánchez (Juntos por el Perú), participaram neste domingo (31/05), no Centro de Convenções de Lima, do último debate antes do segundo turno eleitoral que acontece no próximo dia 7. Filha do ex-presidente Alberto Fujimori, Keiko disputa a Presidência pela quarta vez e venceu […]\nO post Roberto Sánchez e Keiko Fujimori participam do último debate antes das eleições no Peru apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/sanchez-e-fujimori-participam-do-ultimo-debate-antes-das-eleicoes-no-peru/",
+          "publishedOn": "2026-06-01T15:00:53.000Z",
+          "wordCount": 3999,
+          "title": "Roberto Sánchez e Keiko Fujimori participam do último debate antes das eleições no Peru",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-01-113658.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256232",
           "author": "Tatiana Carlotti",
           "description": "O governo iraniano voltou a afirmar nesta segunda-feira (01/06) que o cessar-fogo firmado com os Estados Unidos abrange todas as frentes de conflito no Oriente Médio, incluindo o Líbano, e advertiu que qualquer ação militar israelense ou norte-americana contra o território libanês representa uma violação do acordo. As declarações foram feitas após o primeiro-ministro israelense, […]\nO post Irã afirma que cessar-fogo no Líbano é ‘condição fundamental’ para negociações com EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-cessar-fogo-no-libano-e-condicao-fundamental-para-negociacoes-com-eua/",
           "publishedOn": "2026-06-01T12:58:00.000Z",
-          "wordCount": 3413,
+          "wordCount": 3412,
           "title": "Irã afirma que cessar-fogo no Líbano é ‘condição fundamental’ para negociações com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1404071317193555634254064-e1770295286150.webp"
         },
@@ -605,89 +755,9 @@
           "description": "Tramita no Congresso dos Estados Unidos uma proposta que defende a revisão da legislação de segurança e defesa do país, com o objetivo de questionar os dispositivos que baseiam a cooperação militar do país norte-americano com Israel. A iniciativa é promovida por um grupo bipartidário, liderado por Ro Khanna, do Partido Democrata, e por Thomas […]\nO post EUA: grupo bipartidário defende revisão da cooperação militar com Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-grupo-bipartidario-defende-revisao-da-cooperacao-militar-com-israel/",
           "publishedOn": "2026-06-01T12:19:52.000Z",
-          "wordCount": 3009,
+          "wordCount": 2923,
           "title": "EUA: grupo bipartidário defende revisão da cooperação militar com Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/eua.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256223",
-          "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, ordenou nesta segunda-feira (01/06) a escalada dos ataques nos subúrbios ao sul de Beirute, provocando um deslocamento em massa de civis na capital libanesa. A medida ocorre apesar do cessar-fogo anunciado em 17 de abril, pelos Estados Unidos. “Ordenei às Forças de Defesa de Israel, em conjunto com o […]\nO post Netanyahu escala ofensiva militar no sul de Beirute apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/netanyahu-escala-ofensiva-militar-no-sul-de-beirute/",
-          "publishedOn": "2026-06-01T11:46:19.000Z",
-          "wordCount": 3353,
-          "title": "Netanyahu escala ofensiva militar no sul de Beirute",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/3cebf939-a866-4162-887d-ba8d80edfc6d-e1772714959365-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256213",
-          "author": "Tatiana Carlotti",
-          "description": "As forças norte-americanas e iranianas voltaram a entrar em confronto neste final de semana, apesar do cessar-fogo formalmente em vigor desde o início de abril. O novo episódio de tensão ocorre em meio às negociações em curso e acusações de Teerã de que o presidente norte-americano Donald Trump mais uma vez “traiu a diplomacia”, enquanto […]\nO post EUA e Irã trocam ataques em meio às negociações de cessar-fogo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-ira-trocam-ataques-em-meio-as-negociacoes-de-cessar-fogo/",
-          "publishedOn": "2026-06-01T09:57:47.000Z",
-          "wordCount": 4040,
-          "title": "EUA e Irã trocam ataques em meio às negociações de cessar-fogo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/amin-ahouei-tasnim.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256209",
-          "author": "Tatiana Carlotti",
-          "description": "O candidato presidencial do Pacto Histórico, Iván Cepeda, denunciou graves irregularidades eleitorais cometidas durante o dia de votação deste domingo (31/05) na Colômbia, alertando também para pressões de setores tradicionais ligados a interesses geoestratégicos e interferência dos Estados Unidos. As forças progressistas consolidaram sua posição como a principal força política do país, obtendo quase 10 […]\nO post Cepeda denuncia irregularidades eleitorais e alerta para interferência estrangeira na Colômbia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cepeda-denuncia-irregularidades-eleitorais-e-alerta-para-interferencia-estrangeira-na-colombia/",
-          "publishedOn": "2026-06-01T09:35:54.000Z",
-          "wordCount": 3905,
-          "title": "Cepeda denuncia irregularidades eleitorais e alerta para interferência estrangeira na Colômbia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/colombia-elecciones.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256200",
-          "author": "Victor Farinelli",
-          "description": "O presidente da Colômbia, Gustavo Petro, questionou o resultado apresentado pelo Registro Nacional Eleitoral sobre o primeiro turno das eleições presidenciais realizadas neste domingo (31/05). Em mensagem publicada neste mesmo domingo, o mandatário disse que as estatísticas apresentadas até o momento se referem à chamada “contagem rápida”, que “não tem força legal e não são […]\nO post Petro questiona resultados do primeiro turno na Colômbia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petro-questiona-resultados-do-primeiro-turno-na-colombia/",
-          "publishedOn": "2026-06-01T02:44:59.000Z",
-          "wordCount": 3150,
-          "title": "Petro questiona resultados do primeiro turno na Colômbia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/petro.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256197",
-          "author": "Tabitha Ramalho",
-          "description": "O advogado de ultradireita Abelardo de la Espriella (Defensores de la Patria) comemorou a vitória do primeiro turno para as eleições presidenciais da Colômbia, realizado neste domingo (31/05), afirmando que vai “derrotar a tirania e o absolutismo” do atual partido governista de esquerda, comandado por Gustavo Petro – responsável pela estratégia de “paz total” para […]\nO post Abelardo de la Espriella comemora vitória no primeiro turno e chama Petro de ‘tirano’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/abelardo-de-la-espriella-comemora-vitoria-no-primeiro-turno-e-chama-petro-de-tirano/",
-          "publishedOn": "2026-06-01T00:10:12.000Z",
-          "wordCount": 3379,
-          "title": "Abelardo de la Espriella comemora vitória no primeiro turno e chama Petro de ‘tirano’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-31-at-20.02.02.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256190",
-          "author": "Tabitha Ramalho",
-          "description": "O advogado de ultradireita Abelardo de la Espriella (Defensores de La Pátria) foi o mais votado no primeiro turno das eleições presidenciais da Colômbia, realizado neste domingo (31/05). Com 98,70% do total já contabilizado, o ultraliberal aparece com 10,2 milhões de votos, equivalentes a 43,73%, e não pode mais ser ultrapassado pelos demais candidatos. Em […]\nO post Abelardo de la Espriella surpreende Iván Cepeda e sai na frente nas eleições da Colômbia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/abelardo-de-la-espriella-surpreende-cepeda-e-sai-na-frente-nas-eleicoes-da-colombia/",
-          "publishedOn": "2026-05-31T22:57:03.000Z",
-          "wordCount": 3455,
-          "title": "Abelardo de la Espriella surpreende Iván Cepeda e sai na frente nas eleições da Colômbia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-31-at-19.44.35.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256186",
-          "author": "Tabitha Ramalho",
-          "description": "Colombianos seguem a caminho das urnas neste domingo (31/05) em um pleito presidencial marcado pela preocupação com a segurança e a transparência. A votação para escolher o sucessor do presidente Gustavo Petro começou às 8h da manhã do horário de Bogotá (11h no horário de Brasília) e se encerra às 16h no horário local (19h […]\nO post Eleições na Colômbia são marcadas pela ampliação de observadores internacionais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eleicoes-na-colombia-sao-marcadas-pela-ampliacao-de-observadores-internacionais/",
-          "publishedOn": "2026-05-31T20:30:44.000Z",
-          "wordCount": 3301,
-          "title": "Eleições na Colômbia são marcadas pela ampliação de observadores internacionais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hjgtahnwiamzr2p-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256183",
-          "author": "Tabitha Ramalho",
-          "description": "A França solicitou neste domingo (31/05) uma reunião de emergência do Conselho de Segurança da ONU após a recente escalada de violência por parte de Israel no Líbano. “Nada justifica a continuação das operações militares israelenses no Líbano e uma ocupação cada vez mais profunda do território libanês”, afirmou o chanceler Jean-Noël Barrot ao canal […]\nO post França convoca Conselho de Segurança após escalada de Israel no Líbano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/franca-pede-reuniao-de-emergencia-na-onu-apos-escalada-de-israel-no-libano/",
-          "publishedOn": "2026-05-31T19:47:50.000Z",
-          "wordCount": 3331,
-          "title": "França convoca Conselho de Segurança após escalada de Israel no Líbano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/71b88072-d2f9-46f1-9bd6-0f4e236c1ce2.webp"
         }
       ]
     },
@@ -702,6 +772,46 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226983",
+          "author": "Redação de AND",
+          "description": "Essa diretriz reflete a análise de Teerã de que os conflitos no Líbano e na Palestina são partes integrantes de uma mesma luta contra o projeto de dominação imperialista.",
+          "link": "https://anovademocracia.com.br/ira-acordo-cessar-fogo-libano-gaza/",
+          "publishedOn": "2026-06-01T20:10:07.000Z",
+          "wordCount": null,
+          "title": "‘Violação em uma frente é violação em todas’: Irã condiciona acordo a cessar-fogo no Líbano e em Gaza",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226957",
+          "author": "Giovanna Maria",
+          "description": "A sentença condena de forma veemente a apropriação criminosa de terras públicas pelo latifúndio, além de responsabilizar a cumplicidade de agentes do velho Estado.",
+          "link": "https://anovademocracia.com.br/sentenca-final-tribunal-popular-rondonia/",
+          "publishedOn": "2026-06-01T19:36:45.000Z",
+          "wordCount": null,
+          "title": "Sentença final do Tribunal Popular condena latifúndio e responsabiliza coronéis da PM em Rondônia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226956",
+          "author": "Redação de AND",
+          "description": "Em entrevista ao AND, pesquisadora do Cesit/IE-Unicamp afirmou que o fim da escala 6 por 1 e diminuição da jornada semanal, sendo importantes, não bastam: é necessário estarmos atentos ao risco de burla por banco de horas, pejotização, informalidade e contratos precários.",
+          "link": "https://anovademocracia.com.br/and-entrevista-marilane-teixeira-6-por-1/",
+          "publishedOn": "2026-06-01T19:08:45.000Z",
+          "wordCount": null,
+          "title": "O grande capital ‘vai tentar burlar o fim da escala 6 por 1 e redução da jornada’ amparado na ‘reforma trabalhista’, destaca Marilane Teixeira em entrevista ao AND",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226937",
+          "author": "Redação de AND",
+          "description": "Levantamento da própria imprensa militar expõe imóveis de alto padrão usados por generais e almirantes, que pagam cerca de R$ 650 a R$ 750 mensais por residências que poderiam custar até R$ 40 mil de aluguel; privilégios se somam a pensões milionárias, supersalários e suspeitas de corrupção na caserna.",
+          "link": "https://anovademocracia.com.br/cupula-militar-imoveis-publicos-de-luxo/",
+          "publishedOn": "2026-06-01T15:49:41.000Z",
+          "wordCount": null,
+          "title": "‘Da caserna aos palacetes’: cúpula militar vive em imóveis públicos de luxo com aluguel irrisório e serviços pagos pela União",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=226904",
           "author": "Redação de AND",
@@ -760,46 +870,6 @@
           "publishedOn": "2026-05-30T20:00:00.000Z",
           "wordCount": null,
           "title": "Estado ordena recolhimento de edições do jornal turco ‘Nova Democracia’ e de sete livros",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226801",
-          "author": "Rosana Bond",
-          "description": "Aquilo que se poderia chamar, até com certa ironia e humor, de “fenômeno inca brasileiro” surgiu há algum tempo devido provavelmente ao fato de o capitalismo entender como mais lucrativo e charmoso atribuir curiosos achados brasileiros e obras indígenas (e não indígenas) à impressionante civilização inca peruana. Por isso tem sido comum a ocorrência de “vestígios incas” pelo país inteiro. Em todas nossas regiões tem surgido tal anomalia e autêntica ilusão, já que o IPHAN (Instituto Histórico e Artístico Nacional) e entidades arqueológicas já descartaram a presença dos antigos habitantes de Cusco e Machu Picchu aqui em solo nacional. O primeiro",
-          "link": "https://anovademocracia.com.br/indigenismo-invisivel-ilusao-incas-4/",
-          "publishedOn": "2026-05-30T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Indigenismo invisível e a ilusão dos Incas (parte 4)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226785",
-          "author": "Redação de AND",
-          "description": "Revista britânica afirma que uma operação militar real contra Cuba “seria altamente arriscada”, enquanto Axios revela planos de contingência do governo Trump para eventual instabilidade na ilha; chefe do Comando Sul reuniu-se com militares cubanos em Guantánamo em meio à escalada.",
-          "link": "https://anovademocracia.com.br/operacao-militar-cuba-altamente-arriscada/",
-          "publishedOn": "2026-05-30T13:00:00.000Z",
-          "wordCount": null,
-          "title": "‘Operação militar real’ contra Cuba ‘seria altamente arriscada’, alerta The Economist",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226835",
-          "author": "Redação de AND",
-          "description": "No 965º dia desde o Dilúvio de Al-Aqsa, o genocida Benjamin Netanyahu ordenou que tropas da entidade nazi-sionista ampliem o controle sobre Gaza de 60% para 70% do território. A ONU respondeu que “100% de Gaza” deve pertencer ao povo palestino, enquanto “Israel” manteve ataques contra a Faixa, o Hezbollah atingiu tanques Merkava no Líbano e a ONU incluiu a entidade sionista em lista de violência sexual em conflitos.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-29-05-2026/",
-          "publishedOn": "2026-05-30T02:16:09.000Z",
-          "wordCount": null,
-          "title": "Plantão Palestina (29/05): Genocida Netanyahu ordena tomar 70% de Gaza; ONU diz que território é palestino",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226814",
-          "author": "Redação de AND",
-          "description": "Após pedido de Flávio Bolsonaro a Trump, extrema direita celebra classificação de PCC e CV como “terroristas”; ouvido por AND, André Matheus afirma que bolsonaristas “terceirizam pressão política” para Washington e abrem caminho para sanções, monitoramento e ingerência ianque",
-          "link": "https://anovademocracia.com.br/extrema-direita-presta-continencia-trump/",
-          "publishedOn": "2026-05-30T00:16:40.000Z",
-          "wordCount": null,
-          "title": "‘Sim, senhor’: extrema direita vassala faz fila para prestar continência a Trump por ingerência sobre ‘narcoterrorismo’",
           "imageUrl": null
         }
       ]
@@ -872,7 +942,7 @@
           "description": "Ele não é extensão contínua do presente, mas rompimento. Não acontece, é construído  – coletivamente. Financismo, big techs, extrativistas e militarismo tentam colonizá-lo. E a emancipação passa pela batalha de ideias e esperança como prática. Marx e Ernest Bloch dão pistas\nThe post Futuro, sua filosofia e disputa appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/futuro-sua-filosofia-e-disputa/",
           "publishedOn": "2026-05-29T20:06:25.000Z",
-          "wordCount": 11714,
+          "wordCount": 11745,
           "title": "Futuro, sua filosofia e disputa",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/antonio-berni-argentinaweb-c6855779-1.jpg"
         },
@@ -882,7 +952,7 @@
           "description": "Anúncio de Trump que classifica o PCC e CV como terroristas é uma interferência pesada na soberania brasileira. O eleitorado sabe disso. Por isso, esquerda não deve ceder ao pânico, nem enterrar a recuperação de Lula e as batalhas reais no Congresso\nThe post Sem desespero nessa hora appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/sem-desespero-nessa-hora/",
           "publishedOn": "2026-05-29T19:51:26.000Z",
-          "wordCount": 3382,
+          "wordCount": 3572,
           "title": "Sem desespero nessa hora",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/photo_4958644622498401248_y1.jpg"
         },
@@ -922,7 +992,7 @@
           "description": "Com Petro, salário mínimo subiu 39% e pobreza caiu para um dígito. Presidente foi além, com reformas estruturais. Obstáculos: as oligarquias no Congresso e os rentistas, que controlam o Banco Central. Domingo, o futuro estará em jogo\nThe post Colômbia: Um governo que não se rendeu appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/colombia-um-governo-que-nao-se-rendeu/",
           "publishedOn": "2026-05-28T21:23:39.000Z",
-          "wordCount": 8615,
+          "wordCount": 8648,
           "title": "Colômbia: Um governo que não se rendeu",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/260528-Petro11b.jpg"
         },
@@ -932,7 +1002,7 @@
           "description": "Como ansiedade, precarização, endividamento e captura do tempo levam milhões ao consumo de ultraprocessados? Quais as conexões entre indústria alimentícia, rentismo e big techs? Por que é preciso apostar em alternativas radicais, como a agroecologia?\nThe post Doenças e dívidas crônicas: o duplo veneno  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/doencas-e-dividas-cronicas-o-duplo-veneno/",
           "publishedOn": "2026-05-28T20:53:44.000Z",
-          "wordCount": 8834,
+          "wordCount": 8856,
           "title": "Doenças e dívidas crônicas: o duplo veneno",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/00129777.jpg"
         }
@@ -976,7 +1046,7 @@
           "description": "Ederson Duda: \"Parafraseando Lênin, pode-se dizer que, na sociedade atual, trabalhadoras e trabalhadores, economicamente escravizados pelo capital, não podem dominar politicamente e viver uma vida digna se não quebrarem as correntes que os prendem ao capital. A luta pela redução da jornada aparece, assim, também como uma luta pelas condições materiais necessárias à organização política da classe trabalhadora.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/29/quando-a-classe-trabalhadora-volta-a-mover-a-historia/",
           "publishedOn": "2026-05-29T11:00:00.000Z",
-          "wordCount": 13408,
+          "wordCount": 13562,
           "title": "Quando a classe trabalhadora volta a mover a história",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-22.png"
         }
