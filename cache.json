@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "W9Fkgc",
+          "author": null,
+          "description": "Militante comunista por várias décadas, Amadeu dedicou sua vida à organização da classe trabalhadora, à defesa do marxismo-leninismo e à construção do Partido Comunista como um instrumento de transformação social.",
+          "link": "https://jornalofuturo.com.br/artigo/W9Fkgc-amadeu-felipe-5-anos-sem-um-comunista-que-nunca-mudou-de-lado",
+          "publishedOn": "2026-06-05T15:00:00.000Z",
+          "wordCount": 2265,
+          "title": "Amadeu Felipe: 5 anos sem um comunista que nunca mudou de lado",
+          "imageUrl": "https://media.jornalofuturo.com.br/amadeufelipe-620x310.jpg"
+        },
+        {
           "id": "rvYicK",
           "author": null,
           "description": "Enquanto a população em geral enfrenta inflação, risco de escassez e até mesmo a morte, alguns poucos encontram espaço para ampliar seus ganhos.",
@@ -382,7 +392,7 @@
           "description": "Servidores Municipais de Taubaté iniciaram sua greve hoje, manifestação do movimento grevista ocorre no Paço Municipal.\n02-06-2026\n\n/ Classe trabalhadora, Teto de Gastos, São Paulo",
           "link": "https://www.esquerdadiario.com.br/Servidores-de-Taubate-iniciam-sua-greve-hoje-com-manifestacao-no-Paco-Municipal",
           "publishedOn": "2026-06-02T15:00:29.000Z",
-          "wordCount": 7974,
+          "wordCount": 7972,
           "title": "Servidores de Taubaté iniciam sua greve hoje, com manifestação no Paço Municipal",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/captura_de_tela_de_2026-06-02_12-12-45.jpg?1780412425"
         },
@@ -503,6 +513,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=443433",
+          "author": "Isabella Mota",
+          "description": "O investimento em inteligência policial foi substituído pelo populismo penal. O resultado é um sistema que serve ao grande encarceramento, mas não ao encarceramento dos grandes.\nO post Juiz ou combatente? Por que o rigor seletivo dos tribunais não gera segurança  apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/06/05/rigor-seletivo-tribunais-nao-gera-seguranca/",
+          "publishedOn": "2026-06-05T17:46:05.000Z",
+          "wordCount": null,
+          "title": "Juiz ou combatente? Por que o rigor seletivo dos tribunais não gera segurança",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/05/3.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/05/3.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=443640",
           "author": "Deborah Leão",
@@ -725,14 +750,44 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256689",
+          "author": "Tatiana Carlotti",
+          "description": "O governo do Irã acusou os Estados Unidos e Israel de cometer crimes de guerra ao realizar ataques contra instalações nucleares iranianas e pediu à comunidade internacional que adote uma política de “tolerância zero” contra ações militares dirigidas a programas nucleares civis. A denúncia foi apresentada durante uma reunião especial do Conselho de Governadores da […]\nO post Irã acusa EUA e Israel por crimes de guerra em ataques a usinas nucleares apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-eua-e-israel-por-crimes-de-guerra-em-ataques-a-usinas-nucleares/",
+          "publishedOn": "2026-06-05T17:40:54.000Z",
+          "wordCount": 3197,
+          "title": "Irã acusa EUA e Israel por crimes de guerra em ataques a usinas nucleares",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/bushehr_nuclear_plant.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256683",
+          "author": "Rocio Paik",
+          "description": "O presidente chinês Xi Jinping fará uma visita de Estado à República Popular Democrática da Coreia (RPDC) nos dias 8 e 9 de junho, a convite de Kim Jong Un, anunciou nesta quinta-feira (05/06) um porta-voz do Departamento Internacional do Comitê Central do Partido Comunista da China (PCCh). Kim Jong Un é presidente da Comissão […]\nO post Xi Jinping visita Coreia do Norte nos 65 anos do único tratado de defesa mútua da diplomacia chinesa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-visita-coreia-do-norte-nos-65-anos-do-unico-tratado-de-defesa-mutua-da-diplomacia-chinesa/",
+          "publishedOn": "2026-06-05T17:00:47.000Z",
+          "wordCount": 3529,
+          "title": "Xi Jinping visita Coreia do Norte nos 65 anos do único tratado de defesa mútua da diplomacia chinesa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/xi_kju_sep4kcna-1255x670-1.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256677",
+          "author": "Tatiana Carlotti",
+          "description": "Os ataques israelenses no sul do Líbano continuam nesta sexta-feira (05/06), apesar do anúncio do cessar-fogo entre os países, mediado pelos Estados Unidos, nesta semana. Pelo menos cinco mortes foram registradas em meio a bombardeios e disparos de artilharia pelas forças de Israel. Em meio às agressões, o primeiro-ministro libanês, Nawaf Salam, lançou um plano […]\nO post Ataques israelenses continuam no sul do Líbano, apesar de cessar-fogo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/ataques-israelenses-continuam-no-sul-libano-apesar-de-cessar-fogo/",
+          "publishedOn": "2026-06-05T16:20:37.000Z",
+          "wordCount": 3264,
+          "title": "Ataques israelenses continuam no sul do Líbano, apesar de cessar-fogo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/6f49c975-d7b9-4f6f-bc72-fc23731a4530-1.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256674",
           "author": "Rocio Paik",
-          "description": "O Kremlin informou nesta sexta-feira (05/06) que o presidente da Rússia, Vladimir Putin, leu a carta aberta do seu homólogo ucraniano Volodymyr Zelensky que propõe um encontro para negociar o encerramento da guerra. O porta-voz presidencial Dmitry Peskov confirmou que o líder russo já “recebeu um relatório” sobre a proposta e sugeriu que a retomada […]\nO post Putin recebeu carta de Zelensky que propõe encontro para negociações, confirma Kremlin apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-recebeu-carta-de-zelensky-que-propoe-encontro-para-negociacoes-confirma-kremlin/",
+          "description": "Atualizada às 13h32 O presidente da Rússia, Vladimir Putin, declarou nesta sexta-feira (05/06) que, no momento, não vê “sentido” em realizar um encontro pessoal com seu homólogo ucraniano, Volodymyr Zelensky. A posição se deu em meio à sessão plenária do Fórum Econômico Internacional de São Petersburgo (SPIEF, na sigla em inglês). Mais cedo o Kremlin […]\nO post Putin diz que ‘não vê sentido’ para encontro proposto por Zelensky apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-diz-que-nao-ve-sentido-para-encontro-proposto-por-zelensky/",
           "publishedOn": "2026-06-05T15:17:42.000Z",
-          "wordCount": 3419,
-          "title": "Putin recebeu carta de Zelensky que propõe encontro para negociações, confirma Kremlin",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1476825.jpg"
+          "wordCount": 3467,
+          "title": "Putin diz que ‘não vê sentido’ para encontro proposto por Zelensky",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1476871.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=256670",
@@ -740,7 +795,7 @@
           "description": "Depois de horas de debate, o Senado da Bolívia aprovou nesta quinta-feira (04/06) um projeto de lei que regulamenta os estados de exceção no país. A votação ocorreu um dia após o presidente Rodrigo Paz anunciar o envio da proposta ao Congresso. O governo agora pode recorrer ao estado de sítio para conter manifestações. A […]\nO post Senado da Bolívia amplia poder de repressão do governo para reprimir protestos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/senado-da-bolivia-amplia-poder-de-repressao-do-governo-para-reprimir-protestos/",
           "publishedOn": "2026-06-05T14:49:51.000Z",
-          "wordCount": 3258,
+          "wordCount": 3259,
           "title": "Senado da Bolívia amplia poder de repressão do governo para reprimir protestos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/mcm_0360.jpg-e1780670543610.webp"
         },
@@ -760,7 +815,7 @@
           "description": "Os candidatos à Presidência do Peru, Keiko Fujimori e Roberto Sánchez, encerraram suas campanhas nesta quinta-feira (05/06), antes do segundo turno das eleições marcadas para o próximo domingo (07/06). Fujimori, do partido de direita Força Popular, focou na questão da insegurança e na “guerra” contra o crime, enquanto, na cidade de Arequipa, o candidato da […]\nO post Sánchez e Fujimori encerram campanhas eleitorais no Peru apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/sanchez-e-fujimori-encerram-campanhas-eleitorais-para-segundo-turno-no-peru/",
           "publishedOn": "2026-06-05T12:17:08.000Z",
-          "wordCount": 3809,
+          "wordCount": 3808,
           "title": "Sánchez e Fujimori encerram campanhas eleitorais no Peru",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/peru-protest-in-defense-of-vote-2-1140x641-1.webp"
         },
@@ -770,7 +825,7 @@
           "description": "O presidente cubano, Miguel Díaz-Canel, condenou as novas ameaças da administração de Donald Trump contra a ilha, bem como a ampliação das sanções econômicas impostas a autoridades cubanas e seus familiares. Em suas redes sociais, o líder cubano alertou que as ameaças do governo norte-americano e o endurecimento das sanções econômicas têm como objetivo reforçar […]\nO post Diáz-Canel acusa ‘cegueira política’ e ‘perversão’ do governo Trump, após anúncio de novas sanções apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-acusa-cegueira-politica-e-perversao-do-governo-trump-apos-anuncio-de-novas-sancoes/",
           "publishedOn": "2026-06-05T11:54:26.000Z",
-          "wordCount": 3520,
+          "wordCount": 3521,
           "title": "Diáz-Canel acusa ‘cegueira política’ e ‘perversão’ do governo Trump, após anúncio de novas sanções",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/diaz-canel-xdiazcanelb.jpg"
         },
@@ -780,7 +835,7 @@
           "description": "O presidente dos EUA, Donald Trump, disse nesta quinta-feira (04/06) que, depois do Irã, Washington lidará com Cuba, enquanto a nação caribenha passou meses denunciando a crescente pressão norte-americana e a promoção de uma narrativa para justificar sua agressão e o bloqueio da ilha. “Vamos cuidar disso (Cuba) assim que terminarmos (com o Irã). Eu […]\nO post Trump diz que EUA lidarão com Cuba ‘assim que terminarmos com Irã’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/trump-diz-que-eua-lidarao-com-cuba-assim-que-terminarmos-com-ira/",
           "publishedOn": "2026-06-04T21:50:23.000Z",
-          "wordCount": 3840,
+          "wordCount": 3839,
           "title": "Trump diz que EUA lidarão com Cuba ‘assim que terminarmos com Irã’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55307523498_03c611b02e_c.jpg"
         },
@@ -790,41 +845,17 @@
           "description": "Instituições de defesa dos direitos humanos fizeram um alerta nesta quarta-feira (03/06) sobre a segurança dos jornalistas e torcedores que irão participar da Copa do Mundo nos Estados Unidos, já que a Fifa não mobilizou ações de segurança suficientes, o que pode causar um “clima de medo distintamente perigoso”, diante das recentes mobilizações do ICE. […]\nO post Grupo de direitos humanos alerta sobre mobilizações do ICE na Copa do Mundo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/grupo-de-direitos-humanos-alertam-sobre-mobilizacoes-do-ice-na-copa-do-mundo/",
           "publishedOn": "2026-06-04T21:20:49.000Z",
-          "wordCount": 3306,
+          "wordCount": 3307,
           "title": "Grupo de direitos humanos alerta sobre mobilizações do ICE na Copa do Mundo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/38994216165_5a3159d33d_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256629",
-          "author": "Tabitha Ramalho",
-          "description": "A seleção nacional de futebol do Irã recebeu vistos para viajar ao México, onde ficará concentrada durante a Copa do Mundo de 2026, anunciou a televisão estatal do país, segundo o jornal mexicano La Jornada. “Os vistos para os jogadores de futebol iranianos foram emitidos em 48 horas, sem a presença física deles e sem […]\nO post Copa do Mundo: México concede vistos para seleção iraniana apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/copa-do-mundo-mexico-concede-vistos-para-selecao-iraniana/",
-          "publishedOn": "2026-06-04T20:40:41.000Z",
-          "wordCount": 2783,
-          "title": "Copa do Mundo: México concede vistos para seleção iraniana",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/ir-iran-celebrate-qualifying-for-the-2026-fifa-world-cup.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256609",
-          "author": "Raissa Neves",
-          "description": "A escritora, ilustradora e realizadora franco-iraniana Marjane Satrapi, que alcançou renome internacional com o quadrinho autobiográfica Persépolis, que virou filme posteriormente, morreu nesta quinta-feira (04/06) em Paris aos 56 anos, segundo um comunicado de sua família. “Marjane Satrapi morreu de tristeza pouco mais de um ano após a morte de Mattias Ripa, seu marido e o amor de sua […]\nO post Marjane Satrapi, autora de “Persépolis”, morre aos 56 anos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/obituario/marjane-satrapi-autora-de-persepolis-morre-aos-56-anos/",
-          "publishedOn": "2026-06-04T20:00:20.000Z",
-          "wordCount": 3836,
-          "title": "Marjane Satrapi, autora de “Persépolis”, morre aos 56 anos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/77420872_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256639",
-          "author": "Raissa Neves",
-          "description": "Nos anos 2000, era publicado um texto do filósofo francês Jacques Rancière chamado A Partilha do Sensível, onde o autor elaborou e explicitou elementos definidores desse conceito que havia sido apresentado anteriormente, em seu livro O Desentendimento. Em sua obra, Racière trabalha a relação entre estética e política, demonstrando uma indissociabilidade fundamental entre ambas que […]\nO post A partilha digital do sensível apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-partilha-digital-do-sensivel/",
-          "publishedOn": "2026-06-04T19:47:39.000Z",
-          "wordCount": 4723,
-          "title": "A partilha digital do sensível",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/ya-feng-6jsxg1j05fq-unsplash-1-scaled.jpg"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -1125,7 +1156,7 @@
           "description": "Mauro Iasi: \"A crise da esquerda revolucionária é uma expressão da derrota dos trabalhadores na arena da luta de classes, assim como, da mesma forma, a “esquerda institucional da ordem” (ou como queiram chamar sua degeneração) é igualmente expressão e sujeito dessa derrota.\"",
           "link": "https://blogdaboitempo.com.br/2026/06/05/a-revolucao-e-impossivel-palavras-de-um-morto-irresponsavel/",
           "publishedOn": "2026-06-05T11:00:00.000Z",
-          "wordCount": 13505,
+          "wordCount": 13685,
           "title": "A revolução é impossível (palavras de um morto irresponsável)",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-23.png"
         },
@@ -1165,7 +1196,7 @@
           "description": "\"Os valores do socialismo cubano nunca podem ser deixados de lado e devem sempre andar junto com as deliberações econômicas.\" Luiz Bernardo Pericás destrincha o processo de planificação da economia em Cuba, histórico fundamental para iluminar alguns dos dilemas atualmente enfrentados na ilha.",
           "link": "https://blogdaboitempo.com.br/2026/06/01/cuba-economia-e-planificacao-entre-1970-e-1980/",
           "publishedOn": "2026-06-01T11:00:00.000Z",
-          "wordCount": 19465,
+          "wordCount": 19621,
           "title": "Cuba: economia e planificação entre 1970 e 1980",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/04/image-35.png?fit=1200%2C788&ssl=1"
         }
