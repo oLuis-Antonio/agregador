@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-05T04:36:49.563Z</id>
+    <id>urn:2026-06-05T11:33:58.859Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-06-05T04:36:49.563Z</updated>
+    <updated>2026-06-05T11:33:58.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A revolução é impossível (palavras de um morto irresponsável)]]></title>
+        <id>http://blogdaboitempo.com.br/?p=64761</id>
+        <link href="https://blogdaboitempo.com.br/2026/06/05/a-revolucao-e-impossivel-palavras-de-um-morto-irresponsavel/"/>
+        <updated>2026-06-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mauro Iasi: "A crise da esquerda revolucionária é uma expressão da derrota dos trabalhadores na arena da luta de classes, assim como, da mesma forma, a “esquerda institucional da ordem” (ou como queiram chamar sua degeneração) é igualmente expressão e sujeito dessa derrota."]]></summary>
+        <author>
+            <name>Boitempo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Direto da Bolívia: COB mantém os protestos e reafirma a luta pelo Fora Paz]]></title>
         <id>6a223e54f526f61b4f27d5bb</id>
@@ -1172,16 +1182,6 @@ O post Dados desmontam a fala de Luciano Huck sobre o Bolsa Família apareceu pr
         <link href="https://jornalofuturo.com.br/artigo/Ztnrvc-ignorando-o-cessar-fogo-israel-avanca-no-sul-do-libano"/>
         <updated>2026-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Com o aumento do número de mortos e bairros inteiramente destruídos, as tropas israelenses visam ocupar o sul do Líbano em nova ofensiva.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greve unificada dos estudantes das Universidades Estaduais mobilizam todo o estado de São Paulo]]></title>
-        <id>QWZPdi</id>
-        <link href="https://jornalofuturo.com.br/artigo/QWZPdi-greve-unificada-dos-estudantes-das-universidades-estaduais-mobilizam-todo-o-estado-de-sao-paulo"/>
-        <updated>2026-05-31T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Greve unificada entre estudantes da Unesp, USP e Unicamp reivindicam melhores condições de permanência e mais orçamento para a educação pública, enquanto articulam luta com demais setores da sociedade.]]></summary>
         <author>
             <name>Jornal o Futuro</name>
         </author>
