@@ -64,16 +64,6 @@
           "wordCount": 2281,
           "title": "10 anos da MP do Novo Ensino Médio: da resistência secundarista à continuidade da reforma empresarial na educação",
           "imageUrl": "https://media.jornalofuturo.com.br/ocupasecundas10anos-774x553.jpg"
-        },
-        {
-          "id": "MS7sfY",
-          "author": null,
-          "description": "No centenário do nascimento de Fidel Castro, devemos aprofundar nossa solidariedade com Cuba socialista e defender o legado da Revolução Cubana, pela paz e contra a agressão imperialista.",
-          "link": "https://jornalofuturo.com.br/artigo/MS7sfY-eipco-acontece-em-agosto-em-cuba-e-reforca-a-solidariedade-proletaria",
-          "publishedOn": "2026-06-02T15:00:00.000Z",
-          "wordCount": 1565,
-          "title": "EIPCO acontece em agosto, em Cuba, e reforça a solidariedade proletária",
-          "imageUrl": "https://media.jornalofuturo.com.br/havanadiadotrabalhador2022-1024x683.jpg"
         }
       ]
     },
@@ -83,12 +73,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=62031",
+          "author": "Redação SP",
+          "description": "Localizada no centro de São Paulo, a EMEI Pagu é exemplo de educação emancipatória, e por isso tornou-se alvo das mentiras do Brasil Paralelo",
+          "link": "https://averdade.org.br/2026/06/escola-de-sao-paulo-resiste-a-ataque-de-grupo-comunicacional-fascista/",
+          "publishedOn": "2026-06-06T21:47:42.000Z",
+          "wordCount": 6521,
+          "title": "Escola de São Paulo resiste a ataque de grupo comunicacional fascista",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2021/09/e2e25b52-base-01-thumbnail-para-facebook.png"
+        },
+        {
           "id": "https://averdade.org.br/?p=62035",
           "author": "Clóvis Maia",
           "description": "Em abril desse ano a justiça eleitoral do Equador, aliada do governo de Daniel Noboa, cassou o registro eleitoral da Unidad Popular para impedir o partido de participar das futuras eleições em novembro. Após muita mobilização e denúncias, a decisão foi anulada.  Redação INTERNACIONAL- Após a o Conselho Nacional Eleitoral (CNE) do Equador cassar o […]",
           "link": "https://averdade.org.br/2026/06/apos-mobilizacoes-up-do-equador-consegue-reverter-cassacao-de-registro/",
           "publishedOn": "2026-06-06T02:29:48.000Z",
-          "wordCount": 6102,
+          "wordCount": 6108,
           "title": "Após mobilizações UP do Equador consegue reverter cassação de registro",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/partido_unidad_popular.webp"
         },
@@ -98,29 +98,9 @@
           "description": "Após o Projeto de Emenda à Constituição que acaba com a escala 6X1 ser aprovada na Câmara dos Deputados, empresários e senadores trataram de organizar uma outra PEC, dessa vez no Senado que, se aprovada, vai atacar direitos como FGTS, férias e 13°, conquistas garantidas pela CLT. Redação TRABALHADOR UNIDO- Nem bem o Projeto de […]",
           "link": "https://averdade.org.br/2026/06/senadores-querem-aprovar-pec-da-escala-7x0-e-atacar-direitos-trabalhistas/",
           "publishedOn": "2026-06-03T01:36:45.000Z",
-          "wordCount": 6666,
+          "wordCount": 7261,
           "title": "Senadores querem aprovar PEC da escala 7X0 e atacar direitos trabalhistas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/flavio-b.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=62018",
-          "author": "Clóvis Maia",
-          "description": "O Acampamento Terra Livre (ATL) é a maior assembleia dos povos indígenas do Brasil, e é realizada anualmente em Brasília. Diante de tantas ameaças, climáticas e políticas, é importante refletir sobre a importância e a significação de um encontro como esse para o futuro de nossa nação. Mick Aimirim Poti | Caruaru (PE) CARTAS- O […]",
-          "link": "https://averdade.org.br/2026/06/memorial-da-retomada-por-um-futuro-ancestral-contra-a-politica-de-morte-e-o-capitalismo/",
-          "publishedOn": "2026-06-02T14:06:01.000Z",
-          "wordCount": 6718,
-          "title": "Memorial da Retomada: por um futuro ancestral contra a política de morte e o capitalismo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/acamamento-terra-livre.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61790",
-          "author": "Clóvis Maia",
-          "description": "No décimo capítulo de nossa série chegamos a um dos grandes movimentos de contestação, crítica e transformação da ordem vigente. A Coluna Prestes foi um retrato de como estava a luta de classes num Brasil que crescia, ao mesmo tempo em que via esse crescimento escancarar as contradições deixadas desde o nosso ‘descobrimento’. Natanael Sarmento| […]",
-          "link": "https://averdade.org.br/2026/06/da-coluna-prestes-ate-a-lei-celerada-o-brasil-de-1925-1927/",
-          "publishedOn": "2026-06-02T10:00:55.000Z",
-          "wordCount": 6833,
-          "title": "Da Coluna Prestes até a Lei Celerada. O Brasil de 1925-1927",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/coluna-prestes.jpg"
         }
       ]
     },
@@ -208,16 +188,6 @@
           "wordCount": 2957,
           "title": "É hora de romper as engrenagens do sistema capitalista! Enfrentar os bilionários, Paraná para quem trabalha!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/manifesto_PR.webp"
-        },
-        {
-          "id": "6a1de751f86e9e026f7a21ec",
-          "author": "Redação",
-          "description": "Aline Boneberg, estudante do curso Ciências Econômicas da UNESP-Araraquara e militante do Coletivo Rebeldia\nO prefeito de Araraquara, Lapena (PL), aliado fiel e lambe-botas de Tarcísio de Freitas, segue preparando o terreno para entregar o DAAE (Departamento Autônomo de Água e",
-          "link": "https://opiniaosocialista.com.br/o-daae-de-araraquara-esta-sob-ameaca-de-privatizacao/",
-          "publishedOn": "2026-06-02T13:51:31.000Z",
-          "wordCount": 1707,
-          "title": "O DAAE de Araraquara está sob ameaça de privatização",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/daae-protesto.webp"
         }
       ]
     },
@@ -252,7 +222,7 @@
           "description": "Rodrigo Paz enviou à Assembleia Legislativa um projeto de lei para regulamentar estados de exceção. Sob uma linguagem mentirosa “humanitária”, o presidente aposta em usar a Polícia e o Exército contra os bloqueios e mobilizações que há mais de um mês sacodem o país. É preciso enfrentar a saída repressiva que Paz prepara junto com a direita cívica.\n05-06-2026\n\n/ Internacional, Bolívia, Central Obrera Boliviana (COB), Estado de Exceção, Rodrigo Paz",
           "link": "https://www.esquerdadiario.com.br/Na-Bolivia-Paz-ameaca-com-o-estado-de-excecao-preparemos-a-resistencia-contra-a-tentativa",
           "publishedOn": "2026-06-05T12:23:42.000Z",
-          "wordCount": 8967,
+          "wordCount": 8963,
           "title": "Na Bolívia, Paz ameaça com o estado de exceção: preparemos a resistência contra a tentativa repressiva e a direita cívica",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/amenaza_estado_excepcion-b3a02.jpg?1780662149"
         },
@@ -282,7 +252,7 @@
           "description": "Sejamos parte de exigir e impor que as centrais sindicais patronais e governistas saiam de suas paralisias e organizem a verdadeira luta necessária para por fim já à escala 6x1, sem nenhum \"período de transição\" ou compensação aos patrões, bem como pelo direito de todas e todos os embarcados à escala 14x21, contra as jornadas massacrantes e por vida além do trabalho!\n03-06-2026\n\n/ Classe trabalhadora, Terceirização, efetivação terceirizados sem concurso, Trabalhadores Terceirizados, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Pelo-fim-imediato-da-escala-6x1-e-por-14x21-para-todos-os-embarcados-sem-transicao-ou-compensacao",
           "publishedOn": "2026-06-03T20:27:08.000Z",
-          "wordCount": 8548,
+          "wordCount": 8564,
           "title": "Pelo fim imediato da escala 6x1 e por 14x21 para todos os embarcados, sem “transição” ou compensação aos patrões!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/484606166_1219750043047089_4523768558942059179_n.jpg?1780518413"
         },
@@ -332,7 +302,7 @@
           "description": "Imigrantes e refugiados africanos são sequestrados na Líbia por grupos de milícias, exploração e escravização de imigrantes e refugiados tem a conivência da União Européia.\n02-06-2026\n\n/ Internacional, África, Racismo, colonialismo, Escravidão , Escravidão moderna",
           "link": "https://www.esquerdadiario.com.br/Prisao-em-massa-de-imigrantes-e-refugiados-africanos-na-Libia-tem-a-conivencia-da-Europa",
           "publishedOn": "2026-06-02T23:59:35.000Z",
-          "wordCount": 8003,
+          "wordCount": 7998,
           "title": "Prisão em massa de imigrantes e refugiados africanos na Líbia tem a conivência da Europa",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/migrantes_libia_0.jpg?1780442889"
         },
@@ -362,7 +332,7 @@
           "description": "Damares, à frente da extrema direita conservadora, ataca crianças e adolescentes, e facilita, por outro lado, a re vitimização da criança ou adolescente que foi vítima de estupro.\n02-06-2026\n\n/ Gênero e sexualidade, Direito ao aborto, Estupro, Aborto, Legalização do Aborto, Damares Alves, Direito ao Aborto Legal, Seguro e Gratuito",
           "link": "https://www.esquerdadiario.com.br/Abaixo-o-PDL-da-Pedofilia-que-nega-direito-ao-aborto-legal-as-criancas-vitimas-de-estupro",
           "publishedOn": "2026-06-02T20:01:59.000Z",
-          "wordCount": 8066,
+          "wordCount": 8058,
           "title": "Abaixo o PDL da Pedofilia, que nega direito ao aborto legal às crianças vítimas de estupro!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/imagem_materia-3.jpg?1780430516"
         },
@@ -375,36 +345,6 @@
           "wordCount": 8598,
           "title": "O patriotismo em Washington do bolsonarismo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flavio-bolsonaro-660x372.jpg?1780422712"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Trump-anuncia-mais-punicao-ao-Brasil-com-tarifas-de-25",
-          "author": "Maré",
-          "description": "A Casa Branca anunciou a conclusão de investigação iniciada no “tarifaço” de 2025 contra o Brasil, que aponta uma suposta “deslealdade” com o mercado norte-americano, com centro no PIX e demagogia sobre o desmatamento ilegal. As taxas de 25% deixam de fora, evidentemente, os produtos que mais interessam aos EUA, como os Elementos Terras Raras.\n02-06-2026\n\n/ Política, Donald Trump, Imperialismo, EUA, Tarifas de Trump",
-          "link": "https://www.esquerdadiario.com.br/Trump-anuncia-mais-punicao-ao-Brasil-com-tarifas-de-25",
-          "publishedOn": "2026-06-02T15:11:10.000Z",
-          "wordCount": 7993,
-          "title": "Trump anuncia mais punição ao Brasil com tarifas de 25%",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/trump_e_seu_cachorrinho.png?1780661472"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Servidores-de-Taubate-iniciam-sua-greve-hoje-com-manifestacao-no-Paco-Municipal",
-          "author": "Redação",
-          "description": "Servidores Municipais de Taubaté iniciaram sua greve hoje, manifestação do movimento grevista ocorre no Paço Municipal.\n02-06-2026\n\n/ Classe trabalhadora, Teto de Gastos, São Paulo",
-          "link": "https://www.esquerdadiario.com.br/Servidores-de-Taubate-iniciam-sua-greve-hoje-com-manifestacao-no-Paco-Municipal",
-          "publishedOn": "2026-06-02T15:00:29.000Z",
-          "wordCount": 7971,
-          "title": "Servidores de Taubaté iniciam sua greve hoje, com manifestação no Paço Municipal",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/captura_de_tela_de_2026-06-02_12-12-45.jpg?1780412425"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Correios-Reestruturacao-preve-fechamento-de-mais-de-mil-unidades-entre-elas-a-agencia-do-Campus-do",
-          "author": "Vitória Busato",
-          "description": "O que se pode notar ao olhar para a crise vivida pelos Correios na atualidade é o desmonte de uma das mais importantes empresas públicas do país que, desde o golpe contra Dilma em 2016, perdeu cerca de 50 mil trabalhadores, comprometendo a qualidade dos serviços e contribuindo para a imagem negativa da empresa diante da população.\n02-06-2026\n\n/ Classe trabalhadora, Correios, Privatização, Privatização dos Correios",
-          "link": "https://www.esquerdadiario.com.br/Correios-Reestruturacao-preve-fechamento-de-mais-de-mil-unidades-entre-elas-a-agencia-do-Campus-do",
-          "publishedOn": "2026-06-02T13:14:02.000Z",
-          "wordCount": 8424,
-          "title": "Correios: Reestruturação prevê fechamento de mais de mil unidades, entre elas a agência do Campus do Vale",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-02_at_09.49_50.jpg?1780405984"
         }
       ]
     },
@@ -472,36 +412,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/06/Headerfeat-8.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=443555",
-          "author": "Eduardo Goulart",
-          "description": "Mensagens mostram que banqueiro colocou projeto da família Bolsonaro à frente de outros desembolsos milionários.\nO post EXCLUSIVO: Vorcaro tratou pagamento a filme de Bolsonaro como prioridade após cobrança de Flávio apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/06/02/mais-importante-disparado-vorcaro-bolsonaro/",
-          "publishedOn": "2026-06-02T15:00:21.000Z",
-          "wordCount": null,
-          "title": "EXCLUSIVO: Vorcaro tratou pagamento a filme de Bolsonaro como prioridade após cobrança de Flávio",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/06/header-vorcaro-zettel.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/06/header-vorcaro-zettel.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=443561",
-          "author": "Alice de Souza",
-          "description": "Confira o quarto episódio do podcast Cowboys do Cerrado, que expõe como o magnata Bruce Rastetter está expandindo seus negócios para o Brasil. \nO post Rumo à Amazônia apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/06/02/rumo-amazonia/",
-          "publishedOn": "2026-06-02T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Rumo à Amazônia",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/06/wide-1.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/06/wide-1.png"
         }
       ]
     },
@@ -529,16 +439,6 @@
           "wordCount": 5381,
           "title": "MPSP cita ‘risco previsível’, mas não vê dolo de PM que matou jovem ao perfurá-lo no pescoço",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/Gabriel-matou-Matheus-ao-se-colocar-na-frente-de-moto-empunhando-fuzil.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=160695",
-          "author": "Catarina Duarte",
-          "description": "“Os crimes de todos os meses” acompanha batalhas judiciais e discute como a violência de maio de 2006 segue presente na segurança pública brasileira\nO conteúdo Podcast mostra batalha das famílias por memória e reparação após os Crimes de Maio Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/podcast-justica-crimes-de-maio-reparacao/",
-          "publishedOn": "2026-06-02T13:56:59.000Z",
-          "wordCount": 4871,
-          "title": "Podcast mostra batalha das famílias por memória e reparação após os Crimes de Maio",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/05/crimes-de-maio-ponte-jornalismo-bdf-scaled.webp"
         }
       ]
     },
@@ -718,6 +618,16 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=227407",
+          "author": "Redação de AND",
+          "description": "No 973º dia desde o Dilúvio de Al-Aqsa, a entidade nazi-sionista matou Sam Fahd Abu Heikal, bebê palestino de sete meses, após abrir fogo contra o carro de sua família em Hebron, na Cisjordânia ocupada. Em Gaza, “Israel” matou seis deslocados em ataque contra tenda no bairro Al-Rimal; no Líbano, bombardeio sionista matou oficiais do Exército libanês, enquanto a imprensa inimiga admitiu que drones do Hezbollah se tornaram a ameaça mais letal contra suas tropas; e, no plano regional, o Irã rebateu acusações sobre o Líbano e alertou contra ataques a instalações nucleares sob salvaguarda internacional.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-06-06-2026/",
+          "publishedOn": "2026-06-06T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (06/06): “Israel” mata bebê de 7 meses em Hebron e massacra deslocados em Gaza",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=226993",
           "author": "Redação de AND",
           "description": "Destruir o atraso secular representado pelo Latifúndio, o Imperialismo e o Capitalismo Burocrático é única solução para o varrimento completo do sistema de exploração e opressão contra o qual insurgiu a Cabanagem.",
@@ -805,16 +715,6 @@
           "publishedOn": "2026-06-04T19:01:24.000Z",
           "wordCount": null,
           "title": "‘Cuba representa a luta dos povos latino-americanos’, afirma Mergulhão em debate com AND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227240",
-          "author": "Giovanna Maria",
-          "description": "O Corte Popular da então Fazenda Riachão de Dentro, hoje Área Zé Ricardo, em Pernambuco, marcou a consolidação de anos de luta dos camponeses pobres pela conquista da terra e é parte da Revolução Agrária em curso no País.",
-          "link": "https://anovademocracia.com.br/camponeses-area-jose-ricardo-corte-popular/",
-          "publishedOn": "2026-06-04T18:03:36.000Z",
-          "wordCount": null,
-          "title": "Camponeses organizados pela LCP celebram 17 anos do histórico Corte Popular da Área José Ricardo",
           "imageUrl": null
         }
       ]
@@ -997,26 +897,6 @@
           "wordCount": 19118,
           "title": "Dez anos de uma quase-organização: entrevista com o Grupão",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/1923TheovanDoesburgColorDesignforAmsterdamUniversityHall-328463954.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159292",
-          "author": "Vieira",
-          "description": "Este manual serve para alertar os trabalhadores da saúde da existência de práticas e informações que podem e devem te ajudar a se defender de determinadas violências institucionais. Por Viva SUS",
-          "link": "https://passapalavra.info/2026/06/159292/",
-          "publishedOn": "2026-06-02T15:32:56.000Z",
-          "wordCount": 4020,
-          "title": "Mini-Manual de organização e autodefesa contra a violência institucional no SUS",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2020/03/MOVIMENTO_LUTA-1.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159286",
-          "author": "Vieira",
-          "description": "O meteoro do incentivo à cultura. E o que os trabalhadores da arte da cultura deveriam aprender com as lições catastróficas da  dependência política do fomento. Por Manoel J de Souza Neto",
-          "link": "https://passapalavra.info/2026/06/159286/",
-          "publishedOn": "2026-06-02T12:58:10.000Z",
-          "wordCount": 9134,
-          "title": "Não olhe para a Lei Rouanet!",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/Nao-olhe-para-a-Lei-Rouanet-cartaz-claro-2026.jpg"
         }
       ]
     },
