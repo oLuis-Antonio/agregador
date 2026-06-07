@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "iNm86a",
+          "author": null,
+          "description": "Estimativas baseadas em estudo do DIEESE indicam que a parcela de trabalhadores brasileiros contratados sob algum tipo de vínculo terceirizado representa aproximadamente um quarto do emprego formal no país.",
+          "link": "https://jornalofuturo.com.br/artigo/iNm86a-terceirizacao-avanca-e-ja-atinge-mais-de-12-milhoes-de-trabalhadores-no-brasil",
+          "publishedOn": "2026-06-07T15:00:00.000Z",
+          "wordCount": 1637,
+          "title": "Terceirização avança e já atinge mais de 12 milhões de trabalhadores no Brasil",
+          "imageUrl": "https://media.jornalofuturo.com.br/terceiriza%C3%83%C2%A7%C3%83%C2%A3o-1200x630.jpg"
+        },
+        {
           "id": "TIiOqZ",
           "author": null,
           "description": "A medida militariza a mediação de disputas por território ao colocar a Polícia Militar e os órgãos de segurança pública no centro da condução desses conflitos.",
@@ -98,7 +108,7 @@
           "description": "Em abril desse ano a justiça eleitoral do Equador, aliada do governo de Daniel Noboa, cassou o registro eleitoral da Unidad Popular para impedir o partido de participar das futuras eleições em novembro. Após muita mobilização e denúncias, a decisão foi anulada.  Redação INTERNACIONAL- Após a o Conselho Nacional Eleitoral (CNE) do Equador cassar o […]",
           "link": "https://averdade.org.br/2026/06/apos-mobilizacoes-up-do-equador-consegue-reverter-cassacao-de-registro/",
           "publishedOn": "2026-06-06T02:29:48.000Z",
-          "wordCount": 6108,
+          "wordCount": 6091,
           "title": "Após mobilizações UP do Equador consegue reverter cassação de registro",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/partido_unidad_popular.webp"
         }
@@ -192,7 +202,7 @@
           "description": "No décimo primeiro aniversário do grande protesto que deu início ao histórico movimento “Ni Una Menos” contra os feminicídios na Argentina, dezenas de milhares de pessoas marcharam em cidades de todo o país contra a violência machista, o negacionismo dos feminicídios e a impunidade do governo de Javier Milei.\n05-06-2026\n\n/ Internacional, Gênero e sexualidade, Myriam Bregman, Feminicídio, #NiUnaMenos, Pão e Rosas, Javier milei, Javier Milei",
           "link": "https://www.esquerdadiario.com.br/Argentina-o-movimento-Ni-Una-Menos-enche-as-ruas-contra-os-feminicidios-como-o-da-menina-Agostina",
           "publishedOn": "2026-06-05T13:20:08.000Z",
-          "wordCount": 8822,
+          "wordCount": 8801,
           "title": "Argentina: o movimento “Ni Una Menos” enche as ruas contra os feminicídios como o da menina Agostina Vega",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/3j-4.jpg?1780665426"
         },
@@ -222,7 +232,7 @@
           "description": "Divulgamos abaixo o manifesto elaborado pelos(as) Docentes do Departamento de Artes Cênicas do Instituto de Artes da Unicamp que denuncia a precarização do trabalho docente em curso na Unicamp. Como resposta à esse manifesto, a reitoria da Unicamp está aplicando uma retaliação ao Instituto de Artes, cancelando a contratacao de professores estrangeiros, prevista em acordo anterior com a reitoria, para assegurar as disciplinas eixo do instituto. Repudiamos essa medida e declaramos todo nosso apoio à luta dos estudantes, professores e trabalhadores do IA que se soma à luta de toda a universidade.\n03-06-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Manifesto-dos-as-Docentes-do-Departamento-de-Artes-Cenicas-IA-Unicamp-pela-dignidade-do-trabalho",
           "publishedOn": "2026-06-03T21:28:21.000Z",
-          "wordCount": 8830,
+          "wordCount": 8827,
           "title": "Manifesto dos(as) Docentes do Departamento de Artes Cênicas – IA/Unicamp: pela dignidade do trabalho docente e pela qualidade da formação universitária. Assine!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-03_at_18.27_24_2_.jpg?1780522095"
         },
@@ -232,7 +242,7 @@
           "description": "Sejamos parte de exigir e impor que as centrais sindicais patronais e governistas saiam de suas paralisias e organizem a verdadeira luta necessária para por fim já à escala 6x1, sem nenhum \"período de transição\" ou compensação aos patrões, bem como pelo direito de todas e todos os embarcados à escala 14x21, contra as jornadas massacrantes e por vida além do trabalho!\n03-06-2026\n\n/ Classe trabalhadora, Terceirização, efetivação terceirizados sem concurso, Trabalhadores Terceirizados, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Pelo-fim-imediato-da-escala-6x1-e-por-14x21-para-todos-os-embarcados-sem-transicao-ou-compensacao",
           "publishedOn": "2026-06-03T20:27:08.000Z",
-          "wordCount": 8564,
+          "wordCount": 8544,
           "title": "Pelo fim imediato da escala 6x1 e por 14x21 para todos os embarcados, sem “transição” ou compensação aos patrões!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/484606166_1219750043047089_4523768558942059179_n.jpg?1780518413"
         },
@@ -400,43 +410,83 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256837",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente dos Estados Unidos, Donald Trump, voltou a ameaçar o Irã neste domingo (07/06), durante uma entrevista ao programa Meet the Press, da NBC News. Ele declarou que Washington pretende eliminar os estoques de urânio altamente enriquecido do país persa, com ou sem acordo. “Se chegarmos a um acordo e formos amigos, iremos todos […]\nO post Trump diz que pretende eliminar urânio enriquecido do Irã, com ou sem acordo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-pretende-eliminar-uranio-enriquecido-do-ira-com-ou-sem-acordo/",
+          "publishedOn": "2026-06-07T16:40:47.000Z",
+          "wordCount": 3282,
+          "title": "Trump diz que pretende eliminar urânio enriquecido do Irã, com ou sem acordo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/admin-ajax.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255181",
+          "author": "Tabitha Ramalho",
+          "description": "A escritora sul-africana Zukiswa Wanner observa que a Global Sumud Flotilha rumo a Gaza constrói uma “conscientização maior para as pessoas e também cria solidariedade. Eu acho que os israelenses não imaginariam que criaríamos isso”, contou a Opera Mundi. “Antes de eu ir para a prisão e ter dividido cela com uma brasileira, eu não […]\nO post ‘Israel não imaginaria que criaríamos essa solidariedade’, diz escritora sul-africana sobre participação em flotilha a Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-nao-imaginaria-que-criariamos-essa-solidariedade-diz-escritora-sul-africana-sobre-participacao-em-flotilha-a-gaza/",
+          "publishedOn": "2026-06-07T16:00:48.000Z",
+          "wordCount": 3932,
+          "title": "‘Israel não imaginaria que criaríamos essa solidariedade’, diz escritora sul-africana sobre participação em flotilha a Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/zukiswa-wanner-e1780849685789.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256830",
+          "author": "Tatiana Carlotti",
+          "description": "O candidato do Pacto Histórico à Presidência da Colômbia, Iván Cepeda, anunciou neste sábado (06/06) a abertura de uma investigação sobre supostas transações financeiras ilícitas e compra de votos pela campanha de Abelardo de la Espriella, seu rival no segundo turno. Durante um comício em Cali, no Vale do Cauca, o senador do partido governista […]\nO post Cepeda anuncia investigação sobre compra de votos na Colômbia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/cepeda-anuncia-investigacao-sobre-compra-de-votos-na-colombia/",
+          "publishedOn": "2026-06-07T15:34:32.000Z",
+          "wordCount": 3316,
+          "title": "Cepeda anuncia investigação sobre compra de votos na Colômbia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hjlgpx1xuaa6lqp.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256823",
+          "author": "Tatiana Carlotti",
+          "description": "O Ministério dos Transportes da China organizou uma operação especial de controle do tráfego marítimo nas águas a leste de Taiwan, informou a agência Xinhua neste sábado (06/06). “A operação visa exercer plenamente a jurisdição administrativa marítima da China, fortalecer suas capacidades de patrulhamento e aplicação da lei em alto-mar e suas capacidades de controle […]\nO post China lança operação de controle marítimo próximo a Taiwan apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/china-lanca-operacao-de-controle-maritimo-proximo-a-taiwan/",
+          "publishedOn": "2026-06-07T14:33:03.000Z",
+          "wordCount": 3588,
+          "title": "China lança operação de controle marítimo próximo a Taiwan",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/bdf-20250818-172252-ceedba-1536x864-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256817",
+          "author": "Victor Farinelli",
+          "description": "Israel realizou neste domingo (07/06), um ataque aéreo aos subúrbios ao sul de Beirute, em mais um episódio da escalada de agressões de Tel Aviv contra o Líbano. O bombardeio começou por volta das 15h (horário local) e teve como alvo três edifícios na região de Tihat al-Ghadir. Segundo as autoridades locais há pelos menos […]\nO post Novo ataque aéreo israelense deixa mortos e feridos no sul de Beirute apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/novo-ataque-aereo-israelense-mortos-feridos-sul-de-beirute/",
+          "publishedOn": "2026-06-07T14:08:07.000Z",
+          "wordCount": 3119,
+          "title": "Novo ataque aéreo israelense deixa mortos e feridos no sul de Beirute",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/beirute.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256811",
           "author": "Tatiana Carlotti",
           "description": "Mais de mil pessoas marcharam pelo centro de Santiago neste sábado (06/06) para rejeitar as políticas de direitos humanos promovidas pelo governo do presidente José Antonio Kast, em especial os cortes orçamentários em órgãos-chave e a possibilidade de concessão de indultos a criminosos por crimes contra a humanidade. A mobilização, convocada pelo Coordenador Nacional de […]\nO post Chilenos marcham contra ataques de Kast a políticas de Direitos Humanos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/chilenos-marcham-contra-ataques-de-kast-a-politicas-de-direitos-humanos/",
           "publishedOn": "2026-06-07T13:46:39.000Z",
-          "wordCount": 3373,
+          "wordCount": 3382,
           "title": "Chilenos marcham contra ataques de Kast a políticas de Direitos Humanos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-07-104422.png"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=256812",
           "author": "Victor Farinelli",
-          "description": "Cerca de 3 milhões de pessoas irão às urnas neste domingo (07/06) para decidir o futuro da Armênia, em meio a um cenário bastante polarizado, segundo a mídia local. Embora haja uma grande diversidade de movimentos políticos nessas eleições – no total, há 17 partidos na disputa –, a principal batalha será travada entre os […]\nO post Setores pró-Rússia ameaçam hegemonia pró-UE na Armênia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/leste-europeu/setores-pro-russia-ameacam-hegemonia-pro-ue-na-armenia/",
+          "description": "Cerca de 3 milhões de pessoas irão às urnas neste domingo (07/06) para decidir o futuro da Armênia, em meio a um cenário bastante polarizado, segundo a mídia local. Embora haja uma grande diversidade de movimentos políticos nessas eleições – no total, há 17 partidos na disputa –, a principal batalha será travada entre os […]\nO post Setores pró-Rússia ameaçam hegemonia pró-UE nas eleições da Armênia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/leste-europeu/setores-pro-russia-ameacam-hegemonia-pro-ue-eleicoes-na-armenia/",
           "publishedOn": "2026-06-07T13:38:42.000Z",
-          "wordCount": 2862,
-          "title": "Setores pró-Rússia ameaçam hegemonia pró-UE na Armênia",
+          "wordCount": 2881,
+          "title": "Setores pró-Rússia ameaçam hegemonia pró-UE nas eleições da Armênia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/armen.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256502",
-          "author": "Tabitha Ramalho",
-          "description": "Pela primeira vez desde 1957, a Índia não tem mais nenhum governo estadual liderado por comunistas. A derrota da Frente Democrática de Esquerda (LDF), liderada pelo Partido Comunista da Índia (Marxista), em Kerala, após uma década no poder, marcou o fim de uma das experiências mais duradouras do mundo em comunismo democrático. De acordo com […]\nO post ‘Eleições na Índia se baseiam em dinheiro e poder midiático que a esquerda não têm’, denuncia Prashad apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/eleicoes-na-india-se-baseiam-em-dinheiro-e-poder-midiatico-que-a-esquerda-nao-tem-denuncia-prashad/",
-          "publishedOn": "2026-06-07T13:00:44.000Z",
-          "wordCount": 3383,
-          "title": "‘Eleições na Índia se baseiam em dinheiro e poder midiático que a esquerda não têm’, denuncia Prashad",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/cpimcc.jpeg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=256543",
           "author": "Victor Farinelli",
-          "description": "Pouco mais de 20 milhões de eleitores peruanos vão às urnas neste domingo (07/06) para decidir quem será o próximo presidente do país, para um mandato de cinco anos, mas que poderia durar menos, devido à instabilidade política do país que teve oito presidentes diferentes nos últimos oito anos. As duas candidaturas na disputa deste […]\nO post Peru escolhe entre esquerda e fujimorismo sob a sombra da volatilidade presidencial apareceu primeiro em Opera Mundi.",
+          "description": "Pouco mais de 20 milhões de eleitores peruanos vão às urnas neste domingo (07/06) para decidir quem será o próximo presidente do país, para um mandato de cinco anos, mas que poderia durar menos, devido à instabilidade política do país que teve oito presidentes diferentes nos últimos oito anos. As duas candidaturas na disputa deste […]\nO post Peru escolhe entre esquerda e fujimorismo, sob a sombra da volatilidade presidencial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-escolhe-entre-esquerda-e-fujimorismo-sob-a-sombra-da-volatilidade-presidencial/",
           "publishedOn": "2026-06-07T10:00:44.000Z",
-          "wordCount": 4433,
-          "title": "Peru escolhe entre esquerda e fujimorismo sob a sombra da volatilidade presidencial",
+          "wordCount": 4438,
+          "title": "Peru escolhe entre esquerda e fujimorismo, sob a sombra da volatilidade presidencial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/peru.jpg"
         },
         {
@@ -445,7 +495,7 @@
           "description": "A 29ª edição do Fórum Econômico Internacional de São Petersburgo (SPIEF 2026) foi encerrada neste sábado (06/06) com um volume recorde de acordos comerciais e institucionais em cerca de US$ 89,5 bilhões (R$ 462,9 bilhões). Os dados foram divulgados pelo comitê organizador. Um dos destaques do evento foi a retomada formal do diálogo empresarial entre […]\nO post Fórum Econômico de São Petersburgo termina com acordos estimados em R$ 462 bilhões apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brics/forum-economico-de-sao-petersburgo-termina-com-acordos-estimados-em-r-462-bilhoes/",
           "publishedOn": "2026-06-06T20:09:59.000Z",
-          "wordCount": 3138,
+          "wordCount": 3147,
           "title": "Fórum Econômico de São Petersburgo termina com acordos estimados em R$ 462 bilhões",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/qici10lmzdfugjbqanqvhrvbcj9bhlth.jpg"
         },
@@ -458,54 +508,30 @@
           "wordCount": 3749,
           "title": "União Europeia oficializa veto à carne brasileira a partir de setembro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/andrey-camara-u-cc6ac5chg-unsplash-1-1536x1024-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256779",
-          "author": "Tatiana Carlotti",
-          "description": "Às vésperas do segundo turno das eleições presidenciais no Peru, a justiça do país decidiu levar a julgamento o candidato à presidência Roberto Sánchez, do partido Juntos por el Perú, de esquerda. O pleito ocorre neste domingo (07/06). O tribunal rejeitou as alegações apresentadas pela defesa de Sánchez. A decisão, no entanto, não impede a […]\nO post Na véspera do 2º turno, Justiça do Peru abre processo contra candidato de esquerda apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/na-vespera-do-2o-turno-justica-do-peru-abre-processo-contra-candidato-de-esquerda/",
-          "publishedOn": "2026-06-06T18:58:25.000Z",
-          "wordCount": 2965,
-          "title": "Na véspera do 2º turno, Justiça do Peru abre processo contra candidato de esquerda",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/@robertosanch-comicio-x.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256774",
-          "author": "Tatiana Carlotti",
-          "description": "A Secretaria da Educação do Estado de São Paulo orientou as escolas da rede estadual a adotarem um conjunto de materiais pedagógicos produzidos pela ONG StandWithUs Brasil, que se apresenta como uma organização educacional de combate ao antissemitismo, informa reportagem do Diário do Centro do Mundo (DCM). O material da entidade, presidida por André Lajst, […]\nO post Governo Tarcísio orienta adoção de material de ONG pró-Israel nas escolas paulistas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/governo-tarcisio-orienta-adocao-de-material-de-ong-pro-israel-nas-escolas-paulistas/",
-          "publishedOn": "2026-06-06T18:21:57.000Z",
-          "wordCount": 3308,
-          "title": "Governo Tarcísio orienta adoção de material de ONG pró-Israel nas escolas paulistas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/sessao_solene_de_posse_do_novo_governador_do_estado_de_sao_paulo_tarcisio_de_freitas_06.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256734",
-          "author": "Tatiana Carlotti",
-          "description": "A decisão do governo Trump de classificar o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) como organizações terroristas entrou em vigor nesta sexta-feira (05/06), sob forte oposição do governo Lula à medida e em meio a ataques comerciais de Washington contra o Brasil. A decisão foi anunciada no final de maio, dias […]\nO post Tratar narcotráfico como terrorismo gera instabilidade na ordem jurídica internacional, diz advogado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/tratar-narcotrafico-como-terrorismo-gera-instabilidade-na-ordem-juridica-internacional-diz-advogado/",
-          "publishedOn": "2026-06-06T18:00:57.000Z",
-          "wordCount": 8818,
-          "title": "Tratar narcotráfico como terrorismo gera instabilidade na ordem jurídica internacional, diz advogado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/agbr.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256764",
-          "author": "Tatiana Carlotti",
-          "description": "Um bebê palestino de sete meses foi morto após tropas israelenses abrirem fogo contra o carro de sua família na região de Tel Rumeida, em Hebron, na Cisjordânia ocupada. A criança, identificada como Sam Fahd Abu Haikal, estava nos braços da mãe quando foi atingida pelos disparos na sexta-feira (05/06). Os pais também ficaram feridos. […]\nO post Tropas israelenses matam bebê palestino de sete meses na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/tropas-israelenses-matam-bebe-palestino-de-sete-meses-na-cisjordania-ocupada/",
-          "publishedOn": "2026-06-06T16:21:40.000Z",
-          "wordCount": 3520,
-          "title": "Tropas israelenses matam bebê palestino de sete meses na Cisjordânia ocupada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/@qudsnews.jpg"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=227258",
+          "author": "Redação de AND",
+          "description": "Em entrevista ao AND, Marilane Teixeira afirmou que jovens não rejeitam direitos trabalhistas, mas o trabalho formal degradado. No A Propósito #364, Magrão e Victor Bellizia relacionaram a escala 6 por 1 ao esgotamento, ao abandono dos estudos e à falta de tempo para lazer e formação.",
+          "link": "https://anovademocracia.com.br/jovem-trabalho-formal-marilane-teixeira/",
+          "publishedOn": "2026-06-07T15:00:00.000Z",
+          "wordCount": null,
+          "title": "‘Não é verdade que o jovem não queira trabalho formal’, destaca Marilane Teixeira ao AND",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=227087",
           "author": "Redação de AND",
@@ -594,16 +620,6 @@
           "publishedOn": "2026-06-04T21:49:03.000Z",
           "wordCount": null,
           "title": "BA: Em preparação ao Encontro Nacional, estudantes de Pedagogia discutem os rumos da luta estudantil na UFBA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227355",
-          "author": "Redação de AND",
-          "description": "Milhares saíram às ruas de Tirana contra projeto de luxo ligado a Jared Kushner e Ivanka Trump em Vjosa-Narta/Zvërnec e na ilha de Sazan; manifestantes denunciam entrega de áreas protegidas, cercamento de terras e avanço de obras sem transparência.",
-          "link": "https://anovademocracia.com.br/albania-protestos-resort-de-luxo-cla-trump/",
-          "publishedOn": "2026-06-04T20:00:40.000Z",
-          "wordCount": null,
-          "title": "‘Albânia não está à venda’: protestos denunciam resort de luxo ligado ao clã Trump",
           "imageUrl": null
         }
       ]
@@ -750,7 +766,7 @@
           "description": "\"Psicanalistas (como é meu caso) nunca sabem, nem devem fingir que sabem, como as coisas ruins podem mudar. O que podemos fazer é investigar as origens do que nos afeta, para desenvolver formas de lidar com elas e, com isso, conseguir mudar, pelo menos em algumas coisas importantes.\" Leia a entrevista com Maria Rita Kehl.",
           "link": "https://blogdaboitempo.com.br/2026/06/06/a-psicanalise-nao-e-uma-tecnica-cruel-maria-rita-kehl-lanca-seus-livros-na-russia/",
           "publishedOn": "2026-06-06T11:00:00.000Z",
-          "wordCount": 13146,
+          "wordCount": 12998,
           "title": "“A psicanálise não é uma técnica cruel”: Maria Rita Kehl lança seus livros na Rússia",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/09/maria-rita-kehl-no-dr-com-demori_54293447924_o.jpg?fit=800%2C1200&ssl=1"
         },
@@ -760,7 +776,7 @@
           "description": "Mauro Iasi: \"A crise da esquerda revolucionária é uma expressão da derrota dos trabalhadores na arena da luta de classes, assim como, da mesma forma, a “esquerda institucional da ordem” (ou como queiram chamar sua degeneração) é igualmente expressão e sujeito dessa derrota.\"",
           "link": "https://blogdaboitempo.com.br/2026/06/05/a-revolucao-e-impossivel-palavras-de-um-morto-irresponsavel/",
           "publishedOn": "2026-06-05T11:00:00.000Z",
-          "wordCount": 13686,
+          "wordCount": 13542,
           "title": "A revolução é impossível (palavras de um morto irresponsável)",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-23.png"
         },
@@ -790,7 +806,7 @@
           "description": "Alvaro Matias Morgado Jr. investiga as declarações de Flávio Bolsonaro e sua equipe sobre o programa econômico e demonstra por que, apesar do envolvimento com o escândalo do Banco Master (ou justamente por isso?) ele permanece sendo o \"candidato do mercado financeiro\".",
           "link": "https://blogdaboitempo.com.br/2026/06/03/a-morte-anunciada-dos-direitos-sociais-o-ataque-de-flavio-bolsonaro-as-garantias-constitucionais/",
           "publishedOn": "2026-06-03T11:00:00.000Z",
-          "wordCount": 12519,
+          "wordCount": 12368,
           "title": "A morte anunciada dos direitos sociais: o ataque de Flávio Bolsonaro às garantias constitucionais",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/mg_0743.webp"
         }
