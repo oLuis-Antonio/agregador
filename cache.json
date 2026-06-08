@@ -64,16 +64,6 @@
           "wordCount": 1862,
           "title": "EUA atacam o PIX e ameaçam o Brasil com novas tarifas de 25%",
           "imageUrl": "https://media.jornalofuturo.com.br/trumpix-900x600.jpg"
-        },
-        {
-          "id": "UKhb6t",
-          "author": null,
-          "description": "No dia 22 de setembro deste ano completam-se dez anos da edição da MP nº 746/2016, iniciativa que deu origem ao chamado Novo Ensino Médio (NEM), uma das mais profundas reformas educacionais implementadas no Brasil nas últimas décadas.",
-          "link": "https://jornalofuturo.com.br/artigo/UKhb6t-10-anos-da-mp-do-novo-ensino-medio-da-resistencia-secundarista-a-continuidade-da-reforma-empresarial-na-educacao",
-          "publishedOn": "2026-06-03T15:00:00.000Z",
-          "wordCount": 2281,
-          "title": "10 anos da MP do Novo Ensino Médio: da resistência secundarista à continuidade da reforma empresarial na educação",
-          "imageUrl": "https://media.jornalofuturo.com.br/ocupasecundas10anos-774x553.jpg"
         }
       ]
     },
@@ -83,12 +73,72 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=62084",
+          "author": "Jesse Lisboa",
+          "description": "A Coordenação Nacional do Movimento de Mulheres Olga Benario reuniu-se para debater os impactos das guerras e da crise capitalista na vida das mulheres trabalhadoras. Movimento de Mulheres Olga Benario MULHERES – A coordenação nacional do Olga, reunida em Pernambuco durante três dias, com representação de 19 estados e de Portugal representando o trabalho internacional […]",
+          "link": "https://averdade.org.br/2026/06/resolucao-politica-organizar-as-mulheres-para-lutar-contra-o-imperialismo-e-construir-o-socialismo/",
+          "publishedOn": "2026-06-08T03:13:08.000Z",
+          "wordCount": 7244,
+          "title": "Resolução política: “Organizar as mulheres para lutar contra o imperialismo e construir o socialismo”",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P10-_-Coord-Olga.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=62081",
+          "author": "Jesse Lisboa",
+          "description": "Em resposta aos mais de 1.400 casos de violência contra a mulher registrados apenas no ano de 2025 em Guaratuba (PR), o Movimento Olga Benario transformou um espaço abandonado na Casa Maria Águeda. Gabriela Torres (PR) MULHERES – O Movimento Olga Benario realizou uma ocupação de mulheres em Guaratuba, no litoral paranaense. Chamada de Casa […]",
+          "link": "https://averdade.org.br/2026/06/movimento-olga-benario-ocupa-imovel-abandonado-em-guaratuba-pr-para-criar-centro-de-referencia/",
+          "publishedOn": "2026-06-08T03:02:52.000Z",
+          "wordCount": 5950,
+          "title": "Movimento Olga Benario ocupa imóvel abandonado em Guaratuba (PR) para criar Centro de Referência",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/NASCE-A-OCUPACAO-MARIA-AGUEDA-O-Movimento-Olga-Benario-realizou-a-primeira-ocupacao-de-mulheres.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=62078",
+          "author": "Jesse Lisboa",
+          "description": "Uma greve geral e uma onda de manifestações paralisaram as principais cidades da Bolívia em resposta às medidas do governo de Rodrigo Paz. Fernando Alves | Redação INTERNACIONAL – Uma greve geral com uma onda de grandes manifestações vem sacudindo as principais cidades da Bolívia em um clima de revoltas radicais contra a política de […]",
+          "link": "https://averdade.org.br/2026/06/trabalhadores-promovem-greve-geral-na-bolivia-e-exigem-renuncia-de-presidente/",
+          "publishedOn": "2026-06-08T02:39:52.000Z",
+          "wordCount": 7082,
+          "title": "Trabalhadores promovem greve geral na Bolívia e exigem renúncia de presidente",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P9-_-Bolivia.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=62071",
+          "author": "Jesse Lisboa",
+          "description": "O jornal A Verdade entrevistou, com exclusividade, o embaixador de Cuba no Brasil, Victor Manuel Cairo Palomo, na sede da Embaixada, em Brasília. Nascido em Havana, em 1978, Victor graduou-se em direito pela Universidade de Havana, em 2003.  Diplomata de carreira desde 2006, era embaixador de Cuba no Panamá (cargo que assumiu em 2022), antes […]",
+          "link": "https://averdade.org.br/2026/06/se-os-eua-atacarem-cuba-militarmente-cuba-resistira-e-lutara-por-sua-independencia/",
+          "publishedOn": "2026-06-08T02:07:18.000Z",
+          "wordCount": 8382,
+          "title": "‘‘Se os EUA atacarem Cuba militarmente, Cuba resistirá e lutará por sua independência’’",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P6_7-_-embaixador.jpeg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=62068",
+          "author": "Jesse Lisboa",
+          "description": "O escândalo bilionário do Banco Master escancara que os ricos fazem de tudo para aumentar seus lucros e privilégios. Samara Martins (UP) | Pré-candidata a Presidente BRASIL – O escândalo do Banco Master, um dos maiores esquemas de fraude financeira da história do Brasil, segue trazendo novos capítulos, atores, mentiras e corrupção. Entre sicários, ministros […]",
+          "link": "https://averdade.org.br/2026/06/ricos-usam-o-estado-como-balcao-de-negocios/",
+          "publishedOn": "2026-06-08T02:01:52.000Z",
+          "wordCount": 7288,
+          "title": "Ricos usam o Estado como balcão de negócios",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P5-_-UP-DF-_-Donavan-Sampaio.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=62064",
+          "author": "Jesse Lisboa",
+          "description": "A Câmara dos Deputados aprovou a PEC 8/2025, que reduz a jornada semanal de trabalho de 44 para 40 horas e extingue a escala 6×1. Felipe Annunziata | Redação TRABALHADOR UNIDO – Na história do nosso país, a luta contra a escravidão assalariada foi marcada por muitos enfrentamentos. Desde a abolição formal da escravidão, em […]",
+          "link": "https://averdade.org.br/2026/06/pressao-popular-obriga-camara-dos-deputados-a-aprovar-fim-da-escala-6x1-2/",
+          "publishedOn": "2026-06-08T01:22:54.000Z",
+          "wordCount": 7462,
+          "title": "Pressão popular obriga Câmara dos Deputados a aprovar fim da escala 6×1",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P3-_-ato-6x1-DF-_-Donavan-Sampaio.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=62061",
           "author": "Leonardo de Paula",
           "description": "O Jornal A Verdade publica mais uma crônica enviada pelos trabalhadores, operários, estudantes, leitores, brigadistas e redatores do nosso Jornal espalhados por todo o país em todo o país. Lucas Marcelino – São Paulo Crônica – A humanidade surgiu através do trabalho; se transformou e consolidou quando aprendeu a andar sobre dois pés. Desde então […]",
           "link": "https://averdade.org.br/2026/06/os-passos-firmes-de-quem-marcha/",
           "publishedOn": "2026-06-07T12:28:27.000Z",
-          "wordCount": 6351,
+          "wordCount": 6997,
           "title": "Os passos firmes de quem marcha",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/DSC_3791.jpg"
         },
@@ -98,7 +148,7 @@
           "description": "Localizada no centro de São Paulo, a EMEI Pagu é exemplo de educação emancipatória, e por isso tornou-se alvo das mentiras do Brasil Paralelo",
           "link": "https://averdade.org.br/2026/06/escola-de-sao-paulo-resiste-a-ataque-de-grupo-comunicacional-fascista/",
           "publishedOn": "2026-06-06T21:47:42.000Z",
-          "wordCount": 6538,
+          "wordCount": 7180,
           "title": "Escola de São Paulo resiste a ataque de grupo fascista",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/emai-pagu.jpg"
         },
@@ -108,7 +158,7 @@
           "description": "Em abril desse ano a justiça eleitoral do Equador, aliada do governo de Daniel Noboa, cassou o registro eleitoral da Unidad Popular para impedir o partido de participar das futuras eleições em novembro. Após muita mobilização e denúncias, a decisão foi anulada.  Redação INTERNACIONAL- Após a o Conselho Nacional Eleitoral (CNE) do Equador cassar o […]",
           "link": "https://averdade.org.br/2026/06/apos-mobilizacoes-up-do-equador-consegue-reverter-cassacao-de-registro/",
           "publishedOn": "2026-06-06T02:29:48.000Z",
-          "wordCount": 6091,
+          "wordCount": 6111,
           "title": "Após mobilizações UP do Equador consegue reverter cassação de registro",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/partido_unidad_popular.webp"
         }
@@ -168,16 +218,6 @@
           "wordCount": 1269,
           "title": "Ocupação da Secretaria de Planejamento de Belo Horizonte escancara a intransigência do governo Damião",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/greve-professores-BH.webp"
-        },
-        {
-          "id": "6a2026c0f526f61b4f27d509",
-          "author": "Diego Cruz",
-          "description": "Trata-se de mais uma ingerência imperialista de Trump para influir na política e nos rumos do Brasil, com a cumplicidade da família Bolsonaro",
-          "link": "https://opiniaosocialista.com.br/governo-trump-retoma-ameacas-e-volta-a-atacar-soberania-do-brasil/",
-          "publishedOn": "2026-06-03T13:12:53.000Z",
-          "wordCount": 1866,
-          "title": "Governo Trump retoma ameaças e volta a atacar soberania do Brasil",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/flavio-bolsonaro-e-trump--2-.webp"
         }
       ]
     },
@@ -192,7 +232,7 @@
           "description": "Bajulando Trump, Eduardo Bolsonaro compara Pix brasileiro a sistema de pagamentos muito inferior, e defende negociação na qual abaixaríamos a cabeça em troca da liberdade para o pai dele.\n05-06-2026\n\n/ Política, Donald Trump, Eduardo Bolsonaro, Encontro Trump e Bolsonaro, Tarifas de Trump",
           "link": "https://www.esquerdadiario.com.br/Complexo-de-vira-lata-depois-do-voto-impresso-Eduardo-Bolsonaro-agora-quer-regredir-o-Pix",
           "publishedOn": "2026-06-05T21:13:42.000Z",
-          "wordCount": 8177,
+          "wordCount": 8171,
           "title": "Complexo de vira-lata: depois do voto impresso, Eduardo Bolsonaro agora quer regredir o Pix",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/edu03.jpg?1780693830"
         },
@@ -202,7 +242,7 @@
           "description": "No décimo primeiro aniversário do grande protesto que deu início ao histórico movimento “Ni Una Menos” contra os feminicídios na Argentina, dezenas de milhares de pessoas marcharam em cidades de todo o país contra a violência machista, o negacionismo dos feminicídios e a impunidade do governo de Javier Milei.\n05-06-2026\n\n/ Internacional, Gênero e sexualidade, Myriam Bregman, Feminicídio, #NiUnaMenos, Pão e Rosas, Javier milei, Javier Milei",
           "link": "https://www.esquerdadiario.com.br/Argentina-o-movimento-Ni-Una-Menos-enche-as-ruas-contra-os-feminicidios-como-o-da-menina-Agostina",
           "publishedOn": "2026-06-05T13:20:08.000Z",
-          "wordCount": 8801,
+          "wordCount": 8816,
           "title": "Argentina: o movimento “Ni Una Menos” enche as ruas contra os feminicídios como o da menina Agostina Vega",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/3j-4.jpg?1780665426"
         },
@@ -212,7 +252,7 @@
           "description": "Rodrigo Paz enviou à Assembleia Legislativa um projeto de lei para regulamentar estados de exceção. Sob uma linguagem mentirosa “humanitária”, o presidente aposta em usar a Polícia e o Exército contra os bloqueios e mobilizações que há mais de um mês sacodem o país. É preciso enfrentar a saída repressiva que Paz prepara junto com a direita cívica.\n05-06-2026\n\n/ Internacional, Bolívia, Central Obrera Boliviana (COB), Estado de Exceção, Rodrigo Paz",
           "link": "https://www.esquerdadiario.com.br/Na-Bolivia-Paz-ameaca-com-o-estado-de-excecao-preparemos-a-resistencia-contra-a-tentativa",
           "publishedOn": "2026-06-05T12:23:42.000Z",
-          "wordCount": 8963,
+          "wordCount": 8951,
           "title": "Na Bolívia, Paz ameaça com o estado de exceção: preparemos a resistência contra a tentativa repressiva e a direita cívica",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/amenaza_estado_excepcion-b3a02.jpg?1780662149"
         },
@@ -222,7 +262,7 @@
           "description": "Faleceu Marjane Satrapi, criadora de Persépolis, a história em quadrinhos que narra a infância de uma menina na revolução iraniana em 1979. Seu relato autobiográfico é uma crônica filosófica contra a opressão da teocracia, censura do Estado e obra fundamental sobre a luta da juventude e das mulheres pela sua emancipação.\nPublicado originalmente em La Izquierda Diario por Nancy Mendéz. Tradução por Julia Cardoso.\nMatérias\n\n/ Gênero e sexualidade, Sociedade",
           "link": "https://www.esquerdadiario.com.br/A-despedida-de-Marjane-Satrapi-e-o-legado-de-Persepolis",
           "publishedOn": "2026-06-04T18:44:56.000Z",
-          "wordCount": 8550,
+          "wordCount": 8523,
           "title": "A despedida de Marjane Satrapi e o legado de Persépolis.",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/marjane-satrapi_portdaaa-e70d6.jpg?1780598622"
         },
@@ -232,7 +272,7 @@
           "description": "Divulgamos abaixo o manifesto elaborado pelos(as) Docentes do Departamento de Artes Cênicas do Instituto de Artes da Unicamp que denuncia a precarização do trabalho docente em curso na Unicamp. Como resposta à esse manifesto, a reitoria da Unicamp está aplicando uma retaliação ao Instituto de Artes, cancelando a contratacao de professores estrangeiros, prevista em acordo anterior com a reitoria, para assegurar as disciplinas eixo do instituto. Repudiamos essa medida e declaramos todo nosso apoio à luta dos estudantes, professores e trabalhadores do IA que se soma à luta de toda a universidade.\n03-06-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Manifesto-dos-as-Docentes-do-Departamento-de-Artes-Cenicas-IA-Unicamp-pela-dignidade-do-trabalho",
           "publishedOn": "2026-06-03T21:28:21.000Z",
-          "wordCount": 8834,
+          "wordCount": 8817,
           "title": "Manifesto dos(as) Docentes do Departamento de Artes Cênicas – IA/Unicamp: pela dignidade do trabalho docente e pela qualidade da formação universitária. Assine!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-03_at_18.27_24_2_.jpg?1780522095"
         },
@@ -242,7 +282,7 @@
           "description": "Sejamos parte de exigir e impor que as centrais sindicais patronais e governistas saiam de suas paralisias e organizem a verdadeira luta necessária para por fim já à escala 6x1, sem nenhum \"período de transição\" ou compensação aos patrões, bem como pelo direito de todas e todos os embarcados à escala 14x21, contra as jornadas massacrantes e por vida além do trabalho!\n03-06-2026\n\n/ Classe trabalhadora, Terceirização, efetivação terceirizados sem concurso, Trabalhadores Terceirizados, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Pelo-fim-imediato-da-escala-6x1-e-por-14x21-para-todos-os-embarcados-sem-transicao-ou-compensacao",
           "publishedOn": "2026-06-03T20:27:08.000Z",
-          "wordCount": 8548,
+          "wordCount": 8562,
           "title": "Pelo fim imediato da escala 6x1 e por 14x21 para todos os embarcados, sem “transição” ou compensação aos patrões!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/484606166_1219750043047089_4523768558942059179_n.jpg?1780518413"
         },
@@ -252,7 +292,7 @@
           "description": "É necessário levantar campanhas concretas e unitárias entre sindicatos, organizações de esquerda, movimentos sociais e artistas, exigindo que o petróleo e as terras raras têm que ser nossos! Coloquemos em movimento uma força social que combata os interesses imperialistas no país, o entreguismo descarado da extrema direita, que quer voltar a governar o Brasil com o famigerado Flávio Bolsonaro lambe botas do Trump, mas superando a política de conciliação do governo de Frente Ampla.\n03-06-2026\n\n/ Classe trabalhadora, Petrobras, Controle Operário, Petróleo, Petroleiros, Estatização sob controle dos trabalhadores, Terras Raras",
           "link": "https://www.esquerdadiario.com.br/O-petroleo-e-as-terras-raras-tem-que-ser-nossos",
           "publishedOn": "2026-06-03T19:59:47.000Z",
-          "wordCount": 9058,
+          "wordCount": 9061,
           "title": "O petróleo e as terras raras têm que ser nossos!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/terras-raras.jpg?1780516632"
         },
@@ -262,19 +302,9 @@
           "description": "No último sábado, dia 30, aconteceu em São Paulo a Plenária da Coordenação Estadual da CSP-Conlutas de SP com 189 delegados de diversas categorias e movimentos. Esse espaço teve como objetivo debater um plano de lutas estadual diante dos processos de greve em curso contra Tarcísio e as reitorias das universidades estaduais paulistas. Além disso, também se definiu a nova direção executiva da CSP-Conlutas de SP, na qual o Movimento Nossa Classe integrará mais uma vez, agora com 3 das 26 cadeiras.\n03-06-2026\n\n/ Classe trabalhadora, CSP-Conlutas, Anti-imperialista, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Veja-intervencao-do-Movimento-Nossa-Classe-na-Plenaria-da-Coordenacao-Estadual-da-Conlutas-SP",
           "publishedOn": "2026-06-03T19:18:01.000Z",
-          "wordCount": 8958,
+          "wordCount": 8955,
           "title": "Veja intervenção do Movimento Nossa Classe na Plenária da Coordenação Estadual da Conlutas-SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/img_20260530_155943_021_jpg_1_.jpg?1780514250"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Dia-di-Afrika-pa-unidadi-di-klas-di-tarbadjadur-di-tudu-parti-di-mundu-kontra-n-perialismu-ku",
-          "author": "Quilombo Vermelho",
-          "description": "Nes dia 25 di maiu i ta komemoradu na manga di paisis afrikanus ku na utrus parti di mundu, Dia di Afrika. Es data surji na kunsada di dekada di 60 na mumentu di prosesu di luta pa n'dependensia di maga di paisis afrikanus i ku luta kontra okupason di eropeus na kontinenti afrikanu.\n01-05-2026\n\n/ África, Quilombo Vermelho, Anti-imperialista, Guiné-Bissau, Guiné-Bissau",
-          "link": "https://www.esquerdadiario.com.br/Dia-di-Afrika-pa-unidadi-di-klas-di-tarbadjadur-di-tudu-parti-di-mundu-kontra-n-perialismu-ku",
-          "publishedOn": "2026-06-03T16:05:30.000Z",
-          "wordCount": 8365,
-          "title": "Dia di Afrika: pa unidadi di klas di tarbadjadur di tudu parti di mundu kontra n'perialismu ku rasismu",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/3c9e14a0e3bc414b9642351d37c6ab8a-ace7a-2.jpg?1780502629"
         }
       ]
     },
@@ -363,6 +393,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73809",
+          "author": "CTXT",
+          "description": "ara quem escreve livros que não se tornam best-sellers (com vendas excepcionalmente altas), nem long-sellers (com vendas consistentes e contínuas por longos períodos), nem mesmo sellers propriamente ditos (que vendam um mínimo aceitável), é comum receber, de vez em quando, um e-mail da editora avisando que os exemplares dos nossos livros em estoque serão enviados […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/06/07/bibliocidio-como-as-big-techs-queimam-livros/",
+          "publishedOn": "2026-06-07T21:23:34.000Z",
+          "wordCount": 4070,
+          "title": "Bibliocídio: como as big techs queimam livros",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/06/bibliocidio-livros.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73801",
           "author": "Struggle-La Lucha",
           "description": "a véspera do Dia Internacional dos Trabalhadores, um tribunal na China enviou uma mensagem clara aos patrões: a inteligência artificial não é um passe livre para demitir trabalhadores. Em 30 de abril, o Tribunal Popular Intermediário de Hangzhou, na província de Zhejiang, ratificou uma decisão segundo a qual uma empresa de tecnologia de IA havia […]",
@@ -410,12 +450,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256868",
+          "author": "Tatiana Carlotti",
+          "description": "As primeiras pesquisas de boca de urna divulgadas após o encerramento da votação deste domingo (07/06) indicam um cenário de empate técnico no segundo turno das eleições presidenciais do Peru. Segundo a boca de urna divulgada pelo instituto Ipsos, a candidata Keiko Fujimori (Fuerza Popular) aparece com 50,7% das intenções de voto, enquanto Roberto Sánchez […]\nO post Eleições no Peru: bocas de urna apontam empate técnico entre Keiko Fujimori e Roberto Sánchez apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/eleicoes-peru-pesquisas-apontam-empate-tecnico-entre-keiko-fujimori-e-roberto-sanchez/",
+          "publishedOn": "2026-06-07T22:43:59.000Z",
+          "wordCount": 3142,
+          "title": "Eleições no Peru: bocas de urna apontam empate técnico entre Keiko Fujimori e Roberto Sánchez",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-07-201110.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256865",
+          "author": "Tatiana Carlotti",
+          "description": "O partido governista Contrato Civil, liderado pelo primeiro-ministro Nikol Pashinyan, lidera nas eleições legislativas realizadas neste domingo (07/06) na Armênia, segundo os primeiros resultados divulgados pela Comissão Central Eleitoral do país. Com 55,72% dos votos apurados até o momento, a legenda aparece à frente de seus principais adversários e caminha para manter a maioria parlamentar. […]\nO post Partido governista lidera eleições legislativas na Armênia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/leste-europeu/partido-governista-lidera-eleicoes-legislativas-na-armenia-apontam-resultados-preliminares/",
+          "publishedOn": "2026-06-07T22:19:00.000Z",
+          "wordCount": 3018,
+          "title": "Partido governista lidera eleições legislativas na Armênia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/cvj2ikvoxfabohlo9oyabvv6smikvglgoanbgzdj.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256860",
+          "author": "Tatiana Carlotti",
+          "description": "Com uma imensa urna abraçando a Avenida Paulista e muita bateção de leques, a Parada do Orgulho LGBT+ de São Paulo aconteceu neste domingo (07/06) na Avenida Paulista reunindo uma multidão de pessoas. Completando 30 anos de existência, o evento adotou como tema neste ano 30 Anos Parada SP: A rua convoca, a urna confirma, […]\nO post Parada do Orgulho LGBT+ comemora 30 anos e alerta para importância do voto apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/parada-do-orgulho-lgbt-comemora-30-anos-e-alerta-para-importancia-do-voto/",
+          "publishedOn": "2026-06-07T21:40:30.000Z",
+          "wordCount": 4051,
+          "title": "Parada do Orgulho LGBT+ comemora 30 anos e alerta para importância do voto",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/whatsapp_image_2026-06-07_at_12.08.01.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256855",
           "author": "Victor Farinelli",
           "description": "A Guarda Revolucionária Islâmica lançou, na noite deste domingo (07/06), um bombardeio contra alvos no norte do território de Israel, em ação de represália aos seguidos ataques aéreos israelenses ao sul do Líbano – que, por sua vez, culminaram com um ataque a um subúrbio de Beirute, capital do país, realizado neste mesmo domingo, pela […]\nO post Irã bombardeia Israel em resposta a ataques contra o Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-bombardeia-israel-em-resposta-a-ataques-contra-o-libano/",
           "publishedOn": "2026-06-07T20:59:03.000Z",
-          "wordCount": 2828,
+          "wordCount": 3271,
           "title": "Irã bombardeia Israel em resposta a ataques contra o Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/mehr.jpg"
         },
@@ -425,7 +495,7 @@
           "description": "Antes de mais nada: viva o sentir-pensamento de Nêgo Bispo. Viva o saber ancestral quilombola, indígena, ribeirinho, caiçara, caipira e de todos os povos e comunidades tradicionais de Nossa América. Viva o saber oralizado e as memórias que atravessaram gerações e se recusaram ao apagamento epistemicida. Eu sou porque elas foram. Dito isso, quero, nesta […]\nO post 4 teses em defesa da colonialidade, contra os decoloniais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/4-teses-em-defesa-da-colonialidade-contra-os-decoloniais/",
           "publishedOn": "2026-06-07T18:42:02.000Z",
-          "wordCount": 4435,
+          "wordCount": 4424,
           "title": "4 teses em defesa da colonialidade, contra os decoloniais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/colonial-evo.webp"
         },
@@ -435,7 +505,7 @@
           "description": "O governo brasileiro está buscando um acordo tarifário com os Estados Unidos que seja capaz de evitar que a Casa Branca adote a recomendação do Escritório do Representante Comercial dos EUA (USTR), que sugeriu a imposição de tarifa adicional de 25% sobre parte das importações oriundas do Brasil. O governo avalia que é possível, apesar […]\nO post Brasil pretende convencer EUA de que acordo é mais vantajoso que tarifas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-pretende-convencer-eua-de-que-acordo-e-mais-vantajoso-que-tarifas/",
           "publishedOn": "2026-06-07T18:20:23.000Z",
-          "wordCount": 3578,
+          "wordCount": 3581,
           "title": "Brasil pretende convencer EUA de que acordo é mais vantajoso que tarifas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-07-135816.png"
         },
@@ -445,7 +515,7 @@
           "description": "Pela primeira vez desde 1957, a Índia não tem mais nenhum governo estadual liderado por comunistas. A derrota da Frente Democrática de Esquerda (LDF), liderada pelo Partido Comunista da Índia (Marxista), em Kerala, após uma década no poder, marcou o fim de uma das experiências mais duradouras do mundo em comunismo democrático. De acordo com […]\nO post ‘Eleições na Índia se baseiam em dinheiro e poder midiático que a esquerda não tem’, denuncia Prashad apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/eleicoes-india-se-baseiam-em-dinheiro-poder-midiatico-esquerda-nao-tem-denuncia-prashad/",
           "publishedOn": "2026-06-07T17:30:44.000Z",
-          "wordCount": 3389,
+          "wordCount": 3390,
           "title": "‘Eleições na Índia se baseiam em dinheiro e poder midiático que a esquerda não tem’, denuncia Prashad",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/cpimcc.jpeg"
         },
@@ -455,7 +525,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, voltou a ameaçar o Irã neste domingo (07/06), durante uma entrevista ao programa Meet the Press, da NBC News. Ele declarou que Washington pretende eliminar os estoques de urânio altamente enriquecido do país persa, com ou sem acordo. “Se chegarmos a um acordo e formos amigos, iremos todos […]\nO post Trump diz que pretende eliminar urânio enriquecido do Irã, com ou sem acordo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-pretende-eliminar-uranio-enriquecido-do-ira-com-ou-sem-acordo/",
           "publishedOn": "2026-06-07T16:40:47.000Z",
-          "wordCount": 3279,
+          "wordCount": 3280,
           "title": "Trump diz que pretende eliminar urânio enriquecido do Irã, com ou sem acordo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/admin-ajax.jpg"
         },
@@ -465,7 +535,7 @@
           "description": "A escritora sul-africana Zukiswa Wanner observa que a Global Sumud Flotilha rumo a Gaza constrói uma “conscientização maior para as pessoas e também cria solidariedade. Eu acho que os israelenses não imaginariam que criaríamos isso”, contou a Opera Mundi. “Antes de eu ir para a prisão e ter dividido cela com uma brasileira, eu não […]\nO post ‘Israel não imaginou que criaríamos essa solidariedade’, diz escritora sul-africana que participou da Flotilha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-nao-imaginou-que-criariamos-essa-solidariedade-escritora-sul-africana-flotilha/",
           "publishedOn": "2026-06-07T16:00:48.000Z",
-          "wordCount": 3902,
+          "wordCount": 3903,
           "title": "‘Israel não imaginou que criaríamos essa solidariedade’, diz escritora sul-africana que participou da Flotilha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/zul.jpg"
         },
@@ -475,47 +545,33 @@
           "description": "O candidato do Pacto Histórico à Presidência da Colômbia, Iván Cepeda, anunciou neste sábado (06/06) a abertura de uma investigação sobre supostas transações financeiras ilícitas e compra de votos pela campanha de Abelardo de la Espriella, seu rival no segundo turno. Durante um comício em Cali, no Vale do Cauca, o senador do partido governista […]\nO post Cepeda anuncia investigação sobre compra de votos na Colômbia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cepeda-anuncia-investigacao-sobre-compra-de-votos-na-colombia/",
           "publishedOn": "2026-06-07T15:34:32.000Z",
-          "wordCount": 2874,
+          "wordCount": 3320,
           "title": "Cepeda anuncia investigação sobre compra de votos na Colômbia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hjlgpx1xuaa6lqp.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256823",
-          "author": "Tatiana Carlotti",
-          "description": "O Ministério dos Transportes da China organizou uma operação especial de controle do tráfego marítimo nas águas a leste de Taiwan, informou a agência Xinhua neste sábado (06/06). “A operação visa exercer plenamente a jurisdição administrativa marítima da China, fortalecer suas capacidades de patrulhamento e aplicação da lei em alto-mar e suas capacidades de controle […]\nO post China lança operação de controle marítimo próximo a Taiwan apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/china-lanca-operacao-de-controle-maritimo-proximo-a-taiwan/",
-          "publishedOn": "2026-06-07T14:33:03.000Z",
-          "wordCount": 3593,
-          "title": "China lança operação de controle marítimo próximo a Taiwan",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/bdf-20250818-172252-ceedba-1536x864-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256817",
-          "author": "Victor Farinelli",
-          "description": "Israel realizou neste domingo (07/06), um ataque aéreo aos subúrbios ao sul de Beirute, em mais um episódio da escalada de agressões de Tel Aviv contra o Líbano. O bombardeio começou por volta das 15h (horário local) e teve como alvo três edifícios na região de Tihat al-Ghadir. Segundo as autoridades locais há pelos menos […]\nO post Novo ataque aéreo israelense deixa mortos e feridos no sul de Beirute apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/novo-ataque-aereo-israelense-mortos-feridos-sul-de-beirute/",
-          "publishedOn": "2026-06-07T14:08:07.000Z",
-          "wordCount": 3119,
-          "title": "Novo ataque aéreo israelense deixa mortos e feridos no sul de Beirute",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/beirute.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256811",
-          "author": "Tatiana Carlotti",
-          "description": "Mais de mil pessoas marcharam pelo centro de Santiago neste sábado (06/06) para rejeitar as políticas de direitos humanos promovidas pelo governo do presidente José Antonio Kast, em especial os cortes orçamentários em órgãos-chave e a possibilidade de concessão de indultos a criminosos por crimes contra a humanidade. A mobilização, convocada pelo Coordenador Nacional de […]\nO post Chilenos marcham contra ataques de Kast a políticas de Direitos Humanos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/chilenos-marcham-contra-ataques-de-kast-a-politicas-de-direitos-humanos/",
-          "publishedOn": "2026-06-07T13:46:39.000Z",
-          "wordCount": 3382,
-          "title": "Chilenos marcham contra ataques de Kast a políticas de Direitos Humanos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-07-104422.png"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=227418",
+          "author": "Redação de AND",
+          "description": "No 974º dia desde o Dilúvio de Al-Aqsa, o Irã lançou ondas de mísseis contra áreas do norte e do centro da Palestina ocupada após a entidade nazi-sionista bombardear os subúrbios ao sul de Beirute. Em Gaza, “Israel” matou nove palestinos, incluindo cinco em ataque contra ponto da polícia em Khan Younis e um pescador em Deir al-Balah. Na Cisjordânia ocupada e nos territórios de 1948, operação em Kochav Yair matou um sionista e feriu outros seis; Abu Obeida saudou a ação e afirmou que os palestinos devem fazer os sionistas “pagarem o preço por seus crimes”.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-07-06-2026/",
+          "publishedOn": "2026-06-07T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (07/06): Irã dispara mísseis contra “Israel” após ataque a Beirute e promete “golpes mais esmagadores”",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=227258",
           "author": "Redação de AND",
@@ -605,16 +661,6 @@
           "wordCount": null,
           "title": "Falece Pedro Ortaça, o último dos troncos missioneiros",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227375",
-          "author": "Giovanna Maria",
-          "description": "Todas as intervenções e falas foram recebidas com muito entusiasmo pelos estudantes, com constantes salvas de palmas ao fim de cada uma delas.",
-          "link": "https://anovademocracia.com.br/ba-em-preparacao-ao-encontro-nacional-estudantes-de-pedagogia-discutem-os-rumos-da-luta-estudantil-na-ufba/",
-          "publishedOn": "2026-06-04T21:49:03.000Z",
-          "wordCount": null,
-          "title": "BA: Em preparação ao Encontro Nacional, estudantes de Pedagogia discutem os rumos da luta estudantil na UFBA",
-          "imageUrl": null
         }
       ]
     },
@@ -632,16 +678,6 @@
           "wordCount": 1178,
           "title": "No ar o Poder Popular 106!",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/06/photo_4978811065911151661_y.jpg"
-        },
-        {
-          "id": "6a20437c01e7cd37414d0795",
-          "author": "O Poder Popular",
-          "description": "Inscrições pela Plataforma Even3: https://www.even3.com.br/curso-imperialismo-conceito-e-debate-735079/\nFundação Dinarco Reis promove:\nCurso Imperialismo: conceito e debate\nCinco encontros: 03, 10, 17 e 24/06 (quartas) e 02/07 (quinta) – às 19 horas\nCom o Prof. Mauro Luis Iasi\nPrograma&",
-          "link": "https://opoderpopular.com.br/e-hoje-primeira-aula-do-curso-imperialismo-conceito-e-debate-inscreva-se-ja/",
-          "publishedOn": "2026-06-03T15:10:48.000Z",
-          "wordCount": 1117,
-          "title": "É Hoje! Primeira aula do curso \"imperialismo: conceito e debate\" inscreva-se já!!!",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/06/5824841283019673347--1-.jpg"
         }
       ]
     },
@@ -793,16 +829,6 @@
           "wordCount": 15188,
           "title": "Decupar o mal-estar freudiano como exercício de descolonização da escuta clínica em solo brasileiro",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/06/image.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=64813",
-          "author": "Boitempo",
-          "description": "Alvaro Matias Morgado Jr. investiga as declarações de Flávio Bolsonaro e sua equipe sobre o programa econômico e demonstra por que, apesar do envolvimento com o escândalo do Banco Master (ou justamente por isso?) ele permanece sendo o \"candidato do mercado financeiro\".",
-          "link": "https://blogdaboitempo.com.br/2026/06/03/a-morte-anunciada-dos-direitos-sociais-o-ataque-de-flavio-bolsonaro-as-garantias-constitucionais/",
-          "publishedOn": "2026-06-03T11:00:00.000Z",
-          "wordCount": 12368,
-          "title": "A morte anunciada dos direitos sociais: o ataque de Flávio Bolsonaro às garantias constitucionais",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/mg_0743.webp"
         }
       ]
     }
