@@ -160,6 +160,26 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a297e6599f729033ffeb3c6",
+          "author": "Redação",
+          "description": "| Por Waldo Mermelstein, cidadão brasileiro e judeu de uma família oriunda do Leste da Europa vítima do holocausto, defende aqui Zé Maria e enquadra as perseguições que estão a ser feitas contra ativistas defensores dos Palestinianos, acusados de",
+          "link": "https://opiniaosocialista.com.br/jornal-maio-em-defesa-de-jose-maria-de-almeida/",
+          "publishedOn": "2026-06-10T15:19:38.000Z",
+          "wordCount": 2404,
+          "title": "Jornal Maio: Em defesa de José Maria de Almeida",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/Z---Maria.jpeg"
+        },
+        {
+          "id": "6a295a6899f729033ffeb3a5",
+          "author": "PSTU-Paraíba",
+          "description": "Festa movimenta mais de R$ 800 milhões enquanto servidores entram em greve, artistas locais recebem cachês irrisórios e o forró perde espaço em sua própria celebração",
+          "link": "https://opiniaosocialista.com.br/campina-grande-e-o-sao-joao-da-desigualdade-todo-apoio-a-greve-dos-servidores-municipais/",
+          "publishedOn": "2026-06-10T13:01:24.000Z",
+          "wordCount": 1520,
+          "title": "Campina Grande e o São João da desigualdade: todo apoio à greve dos servidores municipais",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/s--o-jo--o-campina-grande-1.webp"
+        },
+        {
           "id": "6a28386399f729033ffeb370",
           "author": "Lena Souza, de São Paulo",
           "description": "Solidariedade internacional com a luta boliviana!",
@@ -222,7 +242,7 @@
           "description": "Após mais de 40 dias da greve da educação de BH contra o desmonte na rede, o governo aumenta a ameaça contra os grevistas. Todo apoio à greve!\n09-06-2026\n\n/ Classe trabalhadora, Belo Horizonte, Educação, Greve, Minas Gerais, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/Prefeitura-de-BH-mantem-intransigencia-e-aumenta-a-ameaca-contra-a-greve-da-educacao",
           "publishedOn": "2026-06-09T14:49:07.000Z",
-          "wordCount": 8069,
+          "wordCount": 8065,
           "title": "Prefeitura de BH mantém intransigência e aumenta a ameaça contra a greve da educação",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-09_at_11.44_08.jpg?1781016536"
         },
@@ -282,7 +302,7 @@
           "description": "Desabafo de uma educadora do segmento infantil no Grande Rio. Um debate sobre as creches como depósito de crianças e de aprofundamento da proletarização feminina\n08-06-2026\n\n/ Gênero e sexualidade, Educação, Trabalho Precário, luta por creches, Escolas",
           "link": "https://www.esquerdadiario.com.br/Educacao-infantil-e-o-aprofundamento-da-proletarizacao-feminina",
           "publishedOn": "2026-06-08T23:51:45.000Z",
-          "wordCount": 10209,
+          "wordCount": 10205,
           "title": "Educação infantil e o aprofundamento da proletarização feminina",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-08_at_19.34_23.jpg?1780958229"
         },
@@ -312,7 +332,7 @@
           "description": "Paz promulgou nesta segunda-feira a Lei que permite decretar Estado de Exceção a qualquer momento, falando em “narcoterrorismo” para se referir à rebelião operária, indígena, camponesa e popular que a Bolívia vive há mais de um mês, ao mesmo tempo em que continua chamando para um diálogo já esgotado, enquanto ameaça com repressão e detém dirigentes das principais organizações. Abaixo o Estado de Exceção e a repressão à rebelião popular.\n08-06-2026\n\n/ Internacional, Bolívia, Política Bolívia, Central Obrera Boliviana (COB), Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Abaixo-a-lei-que-permite-estado-de-excecao-na-Bolivia-Nao-a-repressao-da-rebeliao-popular",
           "publishedOn": "2026-06-08T17:30:47.000Z",
-          "wordCount": 8248,
+          "wordCount": 8254,
           "title": "Abaixo a lei que permite estado de exceção na Bolívia! Não à repressão da rebelião popular!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000399481.jpg?1780939788"
         },
@@ -352,7 +372,7 @@
           "description": "Em uma operação completamente irregular, com policiais vestidos à paisana e com armas de fogo pesadas, detiveram cinco dirigentes da COB (Central Operária Boliviana) que estavam se transportando de carro em El Alto.\n08-06-2026\n\n/ Internacional, Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Greve geral na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Sequestram-Detem-5-dirigentes-da-COB-da-Bolivia-Exigimos-sua-liberdade-imediata",
           "publishedOn": "2026-06-08T12:03:37.000Z",
-          "wordCount": 7969,
+          "wordCount": 7975,
           "title": "Sequestram/Detêm 5 dirigentes da COB da Bolívia. Exigimos sua liberdade imediata!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/lid-234-79f80.jpg?1780920158"
         },
@@ -540,12 +560,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=257157",
+          "author": "Rocio Paik",
+          "description": "Após meses de disputas, o Congresso dos Estados Unidos aprovou na terça-feira (09/06) um pacote de 70 bilhões de dólares (cerca de 350 bilhões de reais) para financiar as políticas de deportação e controle de fronteiras do presidente Donald Trump pelo restante de seu mandato, até 2029. A legislação foi aprovada na Câmara dos Representantes […]\nO post Congresso dos EUA aprova R$ 350 bilhões para financiar ICE e políticas de deportação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/congresso-dos-eua-aprova-r-350-bilhoes-para-financiar-ice-e-politicas-de-deportacao/",
+          "publishedOn": "2026-06-10T15:30:50.000Z",
+          "wordCount": 3097,
+          "title": "Congresso dos EUA aprova R$ 350 bilhões para financiar ICE e políticas de deportação",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/protester_against_ice_in_minneapolis_-_ice_are_murderers.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=257153",
+          "author": "Tabitha Ramalho",
+          "description": "O Likud, principal partido político de direita em Israel, respondeu ao presidente dos Estados Unidos, Donald Trump, em uma publicação no X nesta quarta-feira (10/06), dizendo que o primeiro-ministro Benjamin Netanyahu “concorrerá nas próximas eleições e, se Deus quiser, vencerá”. Na terça-feira (09/06), o republicano afirmou que era uma “questão em aberto” se Netanyahu queria […]\nO post Likud rebate Trump e afirma que Netanyahu ‘concorrerá nas próximas eleições’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/likud-rebate-trump-e-afirma-que-netanyahu-concorrera-nas-proximas-eleicoes/",
+          "publishedOn": "2026-06-10T14:50:33.000Z",
+          "wordCount": 3275,
+          "title": "Likud rebate Trump e afirma que Netanyahu ‘concorrerá nas próximas eleições’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hjy2a0-xuaa6d3i.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=257150",
+          "author": "Rocio Paik",
+          "description": "Pesquisa Quaest divulgada nesta quarta-feira (10/06) mostra o presidente Luiz Inácio Lula da Silva (PT) com 44% das intenções de voto em um eventual segundo turno contra o senador Flávio Bolsonaro (PL), que tem 38%. O levantamento também aponta aumento da rejeição ao parlamentar bolsonarista, que alcançou 56% e permanece como a mais alta entre […]\nO post Quaest: Lula abre seis pontos sobre Flávio Bolsonaro no 2º turno presidencial apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/quaest-lula-abre-seis-pontos-sobre-flavio-bolsonaro-no-2o-turno-presidencial/",
+          "publishedOn": "2026-06-10T14:10:17.000Z",
+          "wordCount": 3511,
+          "title": "Quaest: Lula abre seis pontos sobre Flávio Bolsonaro no 2º turno presidencial",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/untitled-design-1.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=257142",
+          "author": "Tabitha Ramalho",
+          "description": "Diante do genocídio em curso na Palestina e das ofensivas militares contra o Líbano, Cisjordânia e no Irã, organizações judaicas, muçulmanas, palestinas e árabes, movimentos sociais, juristas e parlamentares entregarão nesta quarta-feira (10/06) ao presidente Luiz Inácio Lula da Silva o manifesto “Nunca mais sem exceção: por uma política antirracista universal e soberana”. De acordo […]\nO post Vozes antissionistas lançam manifesto sobre antissemitismo e racismo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/vozes-antissionistas-lancam-manifesto-sobre-antissemitismo-e-racismo/",
+          "publishedOn": "2026-06-10T13:24:31.000Z",
+          "wordCount": 3771,
+          "title": "Vozes antissionistas lançam manifesto sobre antissemitismo e racismo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55312194853_ce4151e07e_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=257146",
+          "author": "Rocio Paik",
+          "description": "Após confrontos noturnos entre Teerã e Washington na região do Golfo, o porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, declarou nesta quarta-feira (10/06) que os esforços diplomáticos com os Estados Unidos não podem avançar em meio a repetidas violações do cessar-fogo, mensagens contraditórias e mudança nas demandas norte-americanas. Ainda de acordo com […]\nO post Irã defende ‘resposta recíproca’ contra EUA, enquanto Trump ameaça novos ataques apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-defende-resposta-reciproca-contra-eua-enquanto-trump-ameaca-novos-ataques/",
+          "publishedOn": "2026-06-10T13:20:36.000Z",
+          "wordCount": 3537,
+          "title": "Irã defende ‘resposta recíproca’ contra EUA, enquanto Trump ameaça novos ataques",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/2398146.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=257138",
+          "author": "Tabitha Ramalho",
+          "description": "Organizações sociais no Equador solicitaram na terça-feira (09/06) ao Conselho Nacional Eleitoral (CNE) o fornecimento dos formulários para coleta de assinaturas para iniciar um processo de revogação da legitimidade do mandato do presidente Daniel Noboa, citando a crise de segurança, as demissões em massa, a crise energética, a precariedade da saúde pública, o aumento do […]\nO post Organizações do Equador lançam campanha por referendo para destituição de Noboa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/organizacoes-do-equador-lancam-campanha-por-referendo-para-destituicao-de-noboa/",
+          "publishedOn": "2026-06-10T12:12:18.000Z",
+          "wordCount": 4041,
+          "title": "Organizações do Equador lançam campanha por referendo para destituição de Noboa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-10-085035.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=257134",
           "author": "Tabitha Ramalho",
           "description": "O Paquistão lançou mais uma série de ataques aéreos na fronteira com o Afeganistão, de acordo com o ministro da Informação do Paquistão, Attaullah Tarar, que afirmou em uma publicação no X nesta quarta-feira (10/06) que os militares realizaram ataques de precisão ao longo da fronteira, visando esconderijos e refúgios do Talibã paquistanês, conhecido pela […]\nO post Paquistão realiza ataques aéreos na fronteira com Afeganistão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/paquistao-realiza-ataques-aereos-na-fronteira-com-afeganistao/",
           "publishedOn": "2026-06-10T11:33:00.000Z",
-          "wordCount": 3177,
+          "wordCount": 3169,
           "title": "Paquistão realiza ataques aéreos na fronteira com Afeganistão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-10-083153.png"
         },
@@ -555,7 +635,7 @@
           "description": "Com 97% das urnas contabilizadas, o Escritório Nacional de Processos Eleitorais do Peru (ONPE, por sua sigla em espanhol) continua atualizando os resultados oficiais do segundo turno das eleições presidenciais no país, ocorridas no último domingo (07/06). O candidato da esquerda Roberto Sánchez (Juntos Pelo Peru) conta com 50,07% dos votos seguido pela conservadora Keiko […]\nO post Peru: Roberto Sánchez lidera apuração do segundo turno com 50,07% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-roberto-sanchez-lidera-apuracao-do-segundo-turno-com-5007/",
           "publishedOn": "2026-06-10T10:08:45.000Z",
-          "wordCount": 2949,
+          "wordCount": 2941,
           "title": "Peru: Roberto Sánchez lidera apuração do segundo turno com 50,07%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-13.png"
         },
@@ -565,7 +645,7 @@
           "description": "O governador da cidade russa de Sevastopol, Mikhail Razvozhayev, anunciou na quarta-feira (10/06) que as forças ucranianas atacaram deliberadamente com um drone o museu que abriga a histórica pintura panorâmica “A Defesa de Sevastopol 1854-1855” . “O inimigo atacou um patrimônio cultural, um dos principais símbolos desta Cidade Heroica”, escreveu o governador, indicando que 83 […]\nO post Ucrânia ataca com drone museu que abriga pintura histórica ‘A Defesa de Sevastopol’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-ataca-com-drone-museu-que-abriga-pintura-historica-a-defesa-de-sevastopol/",
           "publishedOn": "2026-06-10T09:48:14.000Z",
-          "wordCount": 3068,
+          "wordCount": 3062,
           "title": "Ucrânia ataca com drone museu que abriga pintura histórica ‘A Defesa de Sevastopol’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/6a29139ee9ff71263d36d646.jpeg"
         },
@@ -575,83 +655,27 @@
           "description": "O Ministério das Relações Exteriores do Irã prometeu nesta quarta-feira (10/06) responder aos ataques dos EUA em território iraniano, afirmando que Teerã “não hesitará em exercer seu direito inerente à autodefesa”. “A República Islâmica do Irã não hesitará em exercer seu direito inerente à autodefesa, o que inclui atacar os pontos de origem dos ataques, […]\nO post Irã retalia ataques dos EUA e afirma que não hesitará em exercer ‘direito inerente à autodefesa’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-retalia-ataques-dos-eua-e-afirma-que-nao-hesitara-em-exercer-direito-inerente-a-autodefesa/",
           "publishedOn": "2026-06-10T09:32:29.000Z",
-          "wordCount": 3505,
+          "wordCount": 3500,
           "title": "Irã retalia ataques dos EUA e afirma que não hesitará em exercer ‘direito inerente à autodefesa’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/tasnim-amin-ahouei-e1773741016269.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257120",
-          "author": "Victor Farinelli",
-          "description": "Relatório da Organização das Nações Unidas (ONU), divulgado nessa segunda-feira (08/06), concluiu que a situação dos oceanos é grave e demanda respostas urgentes e coordenadas entre governos, pesquisadores, setor privado, organismos multilaterais e comunidades costeiras. O terceiro ciclo da Avaliação Mundial dos Oceanos (WOA-3, na sigla em inglês), principal análise multidisciplinar sobre o estado dos […]\nO post Situação dos oceanos é grave e demanda ação global urgente, diz ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/meio-ambiente/situacao-dos-oceanos-e-grave-e-demanda-acao-global-urgente-diz-onu/",
-          "publishedOn": "2026-06-09T22:30:04.000Z",
-          "wordCount": 3512,
-          "title": "Situação dos oceanos é grave e demanda ação global urgente, diz ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/pescador.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257079",
-          "author": "Rocio Paik",
-          "description": "A China considerou ilegais e inválidas as negociações anunciadas por Japão e Filipinas para delimitar suas Zonas Econômicas Exclusivas (ZEE) e plataformas continentais nas águas ao leste da ilha de Taiwan, afirmando que qualquer discussão sobre essa área sem a participação de Pequim viola a Convenção das Nações Unidas sobre o Direito do Mar (CNUDM). […]\nO post Japão e Filipinas negociam delimitações marítimas, e China denuncia ‘violação’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/japao-e-filipinas-negociam-delimitacoes-maritimas-e-china-denuncia-violacao/",
-          "publishedOn": "2026-06-09T22:00:19.000Z",
-          "wordCount": 3883,
-          "title": "Japão e Filipinas negociam delimitações marítimas, e China denuncia ‘violação’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hdnwnaebeaug5p6.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257089",
-          "author": "Raissa Neves",
-          "description": "A presidente do México, Claudia Sheinbaum, afirmou nesta terça-feira (09/06) que ainda está avaliando se irá marcar presença no jogo de abertura da Copa do Mundo de 2026 entre a seleção do México e a África do Sul nesta quinta-feira (11/06), ou se irá permanecer no Palácio Nacional, devido aos atuais protestos de professores no […]\nO post México: Sheinbaum avalia presença na abertura da Copa diante de protestos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/mexico-sheinbaum-avalia-presenca-na-abertura-da-copa-diante-de-protestos-de-professores/",
-          "publishedOn": "2026-06-09T21:30:46.000Z",
-          "wordCount": 3421,
-          "title": "México: Sheinbaum avalia presença na abertura da Copa diante de protestos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/clipboard_06-09-2026_01.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257116",
-          "author": "Raissa Neves",
-          "description": "O Pix é frequentemente apresentado como uma realização técnica do Banco Central. A descrição é verdadeira e insuficiente ao mesmo tempo, porque reforça uma mentira conveniente à ortodoxia liberal.  Toda decisão sobre quem produz infraestrutura, para quem e com qual lógica, é uma decisão política. A separação entre técnica e política é ficção positivista, útil […]\nO post O Pix é político apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/o-pix-e-politico/",
-          "publishedOn": "2026-06-09T21:12:59.000Z",
-          "wordCount": 3899,
-          "title": "O Pix é político",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257096",
-          "author": "Raissa Neves",
-          "description": "A explosão nos prazos para renovação de títulos de residência na França levou associações a convocarem protestos nesta quarta-feira (10/06) para exigir a continuidade de direitos. O movimento ocorre após meses de inércia da administração pública, situação que já atinge centenas de milhares de pessoas e coloca trabalhadores estrangeiros, entre eles muitos brasileiros, em situação […]\nO post Atrasos na renovação de vistos na França levam imigrantes ao limbo administrativo e provocam protestos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/atrasos-na-renovacao-de-vistos-na-franca-levam-imigrantes-ao-limbo-administrativo-e-provocam-protestos/",
-          "publishedOn": "2026-06-09T21:00:25.000Z",
-          "wordCount": 6449,
-          "title": "Atrasos na renovação de vistos na França levam imigrantes ao limbo administrativo e provocam protestos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-09-170145.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257093",
-          "author": "Rocio Paik",
-          "description": "Pelo décimo dia consecutivo, milhares de manifestantes na Albânia seguiram tomando as ruas da capital Tirana e da costa sul nesta terça-feira (09/06) em protesto contra a criação de um resort de luxo que tem ligações com Ivanka Trump, filha do presidente dos Estados Unidos Donald Trump, e com o marido dela, Jared Kushner. Ignorando […]\nO post ‘Albânia não está à venda’: milhares protestam contra projeto da família Trump que prevê resort de luxo em área protegida apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/albania-nao-esta-a-venda-milhares-protestam-contra-projeto-da-familia-trump-que-preve-resort-de-luxo-em-area-protegida/",
-          "publishedOn": "2026-06-09T20:30:01.000Z",
-          "wordCount": 3394,
-          "title": "‘Albânia não está à venda’: milhares protestam contra projeto da família Trump que prevê resort de luxo em área protegida",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hkvvzpqxqaa0tpn.jpeg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=227615",
+          "author": "Redação de AND",
+          "description": "CNTE, estudantes camponeses, mães buscadoras, comunidades em resistência e coletivos populares levantam a palavra de ordem “Que não role a bola!” contra o velho Estado mexicano e o imperialismo.",
+          "link": "https://anovademocracia.com.br/mexico-boicote-copa-do-mundo-fifa/",
+          "publishedOn": "2026-06-10T14:31:14.000Z",
+          "wordCount": null,
+          "title": "‘Que não role a bola!’: Movimentos populares do México convocam boicote à Copa do Mundo FIFA 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=227582",
           "author": "Redação de AND",
@@ -685,7 +709,7 @@
         {
           "id": "https://anovademocracia.com.br/?p=227562",
           "author": "Redação de AND",
-          "description": "Massas de camponeses e operários na Bolívia têm elevado sua combatividade em sua luta contra o governo do reacionário Rodrigo Paz por meio de ações de autodefesa armada, particularmente em San Julián e Cochabamba. O movimento, que atravessa seu 40º dia, responde à repressão sistemática do velho Estado e à maior militarização imposta pela Lei 1740. O confronto, agora em um nível de enfrentamento mais direto, coloca o Executivo em estado de pânico, forçando-o a cogitar o estado de emergência para conter a mobilização que exige a renúncia do mandatário e denuncia a carestia. O conflito, que se prolonga há",
+          "description": "O governo reacionário tenta deslegitimar a revolta popular associando-a a supostas “forças narcoterroristas”, bravata que ressoa com a retórica do imperialismo ianque para justificar intervenções em semicolônias latino-americanas.",
           "link": "https://anovademocracia.com.br/revolta-armada-estado-fracasso-bolivia/",
           "publishedOn": "2026-06-09T20:43:02.000Z",
           "wordCount": null,
@@ -740,16 +764,6 @@
           "publishedOn": "2026-06-09T02:39:32.000Z",
           "wordCount": null,
           "title": "Plantão Palestina (08/06): ‘Israel’ fecha passagens de Gaza e bloqueia ajuda a 2,4 milhões",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227481",
-          "author": "Redação de AND",
-          "description": "Reunião em Nova Déli exigiu liberdade para a integrante do Moolwasi Bachao Manch, presa após denunciar crimes do velho Estado indiano em Bastar.",
-          "link": "https://anovademocracia.com.br/india-casr-denuncia-prisao-ativista-adivasi/",
-          "publishedOn": "2026-06-08T20:42:38.000Z",
-          "wordCount": null,
-          "title": "Índia: CASR denuncia dois anos da prisão da ativista adivasi Suneeta Pottam",
           "imageUrl": null
         }
       ]
@@ -819,11 +833,11 @@
         {
           "id": "https://outraspalavras.net/?p=3187556",
           "author": "James Görgen",
-          "description": "EUA preparam-se para adquirir ações de gigantes da IA, alegando “partilha de lucros”. É o primeiro passo para um resgate às custas dos cidadãos, quando estourar a nova bolha tecnológica. Sul Global, ainda hospedaria serviços cujo sócio é a própria Casa Branca\nThe post <i>Big techs</i>: Trump arma um escândalo silencioso appeared first on Outras Palavras.",
+          "description": "EUA preparam-se para adquirir ações de gigantes da IA, alegando “partilha de lucros”. É o primeiro passo para um resgate às custas dos cidadãos, quando estourar a nova bolha tecnológica. Sul Global, ainda hospedaria serviços cujo sócio é a própria Casa Branca\nThe post Bolha de IA: Trump quer salvar as <i>big techs</i> appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/big-techs-trump-arma-um-escandalo-silencioso/",
           "publishedOn": "2026-06-09T19:08:31.000Z",
-          "wordCount": 5126,
-          "title": "Big techs: Trump arma um escândalo silencioso",
+          "wordCount": 5128,
+          "title": "Bolha de IA: Trump quer salvar as big techs",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/photo_4990121050536348686_x.jpg"
         },
         {
@@ -884,12 +898,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159326",
+          "author": "Aníbal",
+          "description": "«O parlamento do Gana aprovou um projeto de lei que torna ilegal declarar-se LGBT+ ou ter relações homossexuais. Também criminaliza ser “aliado” e torna obrigatória a denúncia de violações da lei. Um projeto de lei semelhante fora já aprovado em 2024, mas o então presidente, Nana Akufo-Addo, não o promulgou. O atual presidente, John Mahama, anunciara previamente que poderia decretar essa lei». (The Economist, The World in Brief, 30 de Maio de 2026) Passa Palavra",
+          "link": "https://passapalavra.info/2026/06/159326/",
+          "publishedOn": "2026-06-10T12:59:31.000Z",
+          "wordCount": 3847,
+          "title": "Entretanto, em África…",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=159320",
           "author": "Vieira",
           "description": "Em Matrix, como ocorre na sociedade capitalista, o processo de exploração do trabalho encontra-se oculto em uma mercadoria fetichizada. Por Michel Goulart da Silva",
           "link": "https://passapalavra.info/2026/06/159320/",
           "publishedOn": "2026-06-09T14:10:28.000Z",
-          "wordCount": 6161,
+          "wordCount": 6164,
           "title": "Matrix, entre a revolução e a exploração",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/zgl0chwg.webp"
         },
@@ -926,7 +950,7 @@
           "description": "Bruna Della Torre: \"O botão já foi apertado. A aniquilação por uma bomba atômica não pode ser um exercício especulativo – daí a ingenuidade da ficção científica que a pensa sob a forma do “e se…” e da mudança de sentido da dialética benjaminiana. Nada a especular, nem passível de adiamento. É preciso entender o que já aconteceu. Qualquer pretensão de abordar o fim do mundo como algo do futuro é necessariamente ideológica.\"",
           "link": "https://blogdaboitempo.com.br/2026/06/10/a-teoria-critica-no-fim-de-partida/",
           "publishedOn": "2026-06-10T11:00:00.000Z",
-          "wordCount": 15495,
+          "wordCount": 15646,
           "title": "A Teoria Crítica no “Fim de partida”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/endspiel_28berlin29.jpg?fit=1200%2C801&ssl=1"
         },
@@ -936,7 +960,7 @@
           "description": "Erik Chiconelli Gomes: \"A democratização parcial do acesso ao ensino superior, conquistada por décadas de luta popular, ingressou em colisão com a precarização do trabalho juvenil, com o encolhimento da renda familiar real e com a financeirização da vida cotidiana. O resultado dessa colisão aparece, agora, nos dados de pesquisas e nas reivindicações da última greve da USP.\"",
           "link": "https://blogdaboitempo.com.br/2026/06/09/a-universidade-endividada-juventude-credito-e-precarizacao-da-vida-estudantil-em-sao-paulo/",
           "publishedOn": "2026-06-09T17:41:46.000Z",
-          "wordCount": 15127,
+          "wordCount": 15274,
           "title": "A universidade endividada: juventude, crédito e precarização da vida estudantil em São Paulo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-4.png"
         },
