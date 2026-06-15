@@ -33,12 +33,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=62114",
+          "author": "Jesse Lisboa",
+          "description": "Denúncias de corrupção envolvendo ministros do STF e o Banco Master aceleram a pressão por uma reforma no Judiciário. Thiago Santos | Diretório Nacional da Unidade Popular (UP) BRASIL – O debate sobre uma reforma do Poder Judiciário ganhou força após as denúncias de envolvimento do Supremo Tribunal Federal (STF) no caso de corrupção do […]",
+          "link": "https://averdade.org.br/2026/06/crise-no-judiciario-e-supersalarios-reforma-ou-revolucao/",
+          "publishedOn": "2026-06-15T01:51:19.000Z",
+          "wordCount": 6765,
+          "title": "Crise no Judiciário e supersalários: reforma ou revolução?",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/julgamento-eleicoes-rj-vista-flavio-dino.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=62111",
           "author": "Jesse Lisboa",
           "description": "Estudantes de diversos estados realizaram jornada nacional contra o assédio e a violência nas escolas. Ana Leite | Movimento Rebele-se Vitória Ohara | Movimento Olga Benario JUVENTUDE – No último dia 19 de maio, estudantes de diversos estados do país realizaram uma jornada nacional de luta contra o assédio e a violência de gênero nas […]",
           "link": "https://averdade.org.br/2026/06/campanha-estudante-nao-se-cale-lute-denuncia-assedio-e-a-violencia-nas-escolas/",
           "publishedOn": "2026-06-14T03:50:41.000Z",
-          "wordCount": 6002,
+          "wordCount": 6007,
           "title": "Campanha “Estudante, não se cale, lute!” denuncia assédio e a violência nas escolas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/GO-DIA-NACIONAL-DE-LUTA-CONTRA-OS-ASSEDIOS-NAS-ESCOLAS-No-dia-19-de-maio-o-Movimento-Rebele.webp"
         },
@@ -48,7 +58,7 @@
           "description": "Queremos, antes de tudo, agradecer aos nossos leitores pelos recentes gestos de confiança no trabalho que o jornal A Verdade tem desenvolvido ao longo de seus mais de 26 anos de existência. São declarações de apoio, sugestões de pautas e de melhoramentos, elogios e contribuições financeiras. Afinal, somos “Um jornal dos trabalhadores na luta pelo […]",
           "link": "https://averdade.org.br/2026/06/a-verdade-chega-a-100-mil-exemplares-por-mes-e-todas-as-paginas-coloridas/",
           "publishedOn": "2026-06-14T03:36:20.000Z",
-          "wordCount": 6165,
+          "wordCount": 6161,
           "title": "A Verdade chega a 100 mil exemplares por mês e todas as páginas coloridas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/P2-_-brigadista-_-Donavan-Sampaio.jpg"
         },
@@ -58,7 +68,7 @@
           "description": "Militância da Unidade Popular (UP) realiza Dia Nacional de Filiação realizando 300 novas filiações em um único dia. Lais Siqueira (SP) e Tati Bornato (SP) BRASIL – No último 06 de maio, a militância da Unidade Popular realizou mais um importante Dia Nacional de Filiação, com mais de 100 pontos de filiação espalhados pelo país. […]",
           "link": "https://averdade.org.br/2026/06/campanha-da-up-filia-centenas-de-trabalhadores/",
           "publishedOn": "2026-06-14T03:26:40.000Z",
-          "wordCount": 6002,
+          "wordCount": 5993,
           "title": "Campanha da UP filia centenas de trabalhadores",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/UNIDADE-POPULAR-SP-6-MAIO.jpg"
         }
@@ -69,6 +79,26 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6a2f5d4399f729033ffeb59b",
+          "author": "Lena Leal",
+          "description": "“As mulheres Amazigh são artistas. Criam e usam símbolos tornando o próprio corpo feminino parte dessa identidade” - (Becker, C - Têxteis e Vestuário em Marrocos, Artes Africanas, 2006, p. 42-55)\nNo artigo anterior vimos um breve resumo",
+          "link": "https://opiniaosocialista.com.br/parte-ii-as-guardias-da-memoria-amazigh-no-marrocos/",
+          "publishedOn": "2026-06-15T02:16:33.000Z",
+          "wordCount": 1848,
+          "title": "Parte II - As guardiãs da memória Amazigh no Marrocos",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/WhatsApp-Image-2026-06-10-at-13.39.04--2-.webp"
+        },
+        {
+          "id": "6a2f396f99f729033ffeb575",
+          "author": "João Pedro  Andreassy Castro",
+          "description": "Recuperar o futebol para o povo significa democratizar as entidades esportivas, garantir acesso aos estádios e enfrentar a transformação do esporte em mercadoria",
+          "link": "https://opiniaosocialista.com.br/os-donos-do-futebol/",
+          "publishedOn": "2026-06-15T00:13:53.000Z",
+          "wordCount": 2285,
+          "title": "Os donos do futebol",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/futebol-e-dinheiro.webp"
+        },
         {
           "id": "6a2b6b7c99f729033ffeb510",
           "author": "Firminia Rodrigues, de Minas Gerais",
@@ -95,7 +125,7 @@
           "description": "A Copa do Mundo e a exploração capitalista: a luta da classe trabalhadora em meio ao espetáculo",
           "link": "https://opiniaosocialista.com.br/copa-do-mundo-nem-a-fifa-consegue-limpar-a-imagem-de-trump/",
           "publishedOn": "2026-06-11T15:08:03.000Z",
-          "wordCount": 1167,
+          "wordCount": 1183,
           "title": "Copa do Mundo: Nem a Fifa consegue limpar a imagem de Trump",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/trump-e-copa.webp"
         },
@@ -138,26 +168,6 @@
           "wordCount": 1632,
           "title": "Água é vida, não negócio: Privatização da Deso foi crime contra o povo de Sergipe",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/deso.webp"
-        },
-        {
-          "id": "6a297e6599f729033ffeb3c6",
-          "author": "Redação",
-          "description": "| Por Waldo Mermelstein, cidadão brasileiro e judeu de uma família oriunda do Leste da Europa vítima do holocausto, defende aqui Zé Maria e enquadra as perseguições que estão a ser feitas contra ativistas defensores dos Palestinianos, acusados de",
-          "link": "https://opiniaosocialista.com.br/jornal-maio-em-defesa-de-jose-maria-de-almeida/",
-          "publishedOn": "2026-06-10T15:19:38.000Z",
-          "wordCount": 2404,
-          "title": "Jornal Maio: Em defesa de José Maria de Almeida",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/Z---Maria.jpeg"
-        },
-        {
-          "id": "6a295a6899f729033ffeb3a5",
-          "author": "PSTU-Paraíba",
-          "description": "Festa movimenta mais de R$ 800 milhões enquanto servidores entram em greve, artistas locais recebem cachês irrisórios e o forró perde espaço em sua própria celebração",
-          "link": "https://opiniaosocialista.com.br/campina-grande-e-o-sao-joao-da-desigualdade-todo-apoio-a-greve-dos-servidores-municipais/",
-          "publishedOn": "2026-06-10T13:01:24.000Z",
-          "wordCount": 1532,
-          "title": "Campina Grande e o São João da desigualdade: todo apoio à greve dos servidores municipais",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/s--o-jo--o-campina-grande-1.webp"
         }
       ]
     },
@@ -172,7 +182,7 @@
           "description": "A greve unificada dos três setores da Unicamp conquistou o acesso a computadores, Wifi e bibliotecas para as trabalhadoras terceirizadas. Um direito básico que foi arrancado da reitoria de Cesinha pela força da nossa luta. Seguir a luta em defesa das terceirizadas rumo a efetivação sem a necessidade de concurso público!\nMatérias\n\n/ Juventude, Campinas, Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Historico-Greve-na-Unicamp-conquista-direito-a-biblioteca-e-as-informaticas-para-trabalhadoras",
           "publishedOn": "2026-06-14T18:26:53.000Z",
-          "wordCount": 8221,
+          "wordCount": 8214,
           "title": "Histórico: Greve na Unicamp conquista direito à biblioteca e às informáticas para trabalhadoras terceirizadas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/microsoftteams-image-113-_1_.jpg?1781461560"
         },
@@ -182,7 +192,7 @@
           "description": "Enquanto milhões de trabalhadores seguem submetidos à escala 6x1, com apenas um dia de descanso por semana e jornadas exaustivas, o Senado Federal avança em uma proposta para isentar integrantes das Forças Armadas, das Polícias Militares e dos Corpos de Bombeiros Militares do pagamento de Imposto de Renda. Trata-se do Projeto de Lei 2557/2026, apresentado pela Comissão de Direitos Humanos e Legislação Participativa do Senado, que concede isenção sobre salários, aposentadorias, valores da reserva remunerada e reformas recebidos por militares.\n12-06-2026\n\n/ Política, Senado, jornada 6x1, Militares",
           "link": "https://www.esquerdadiario.com.br/Senado-quer-isentar-militares-do-Imposto-de-Renda-enquanto-manobra-pra-manter-a-6x1",
           "publishedOn": "2026-06-14T14:32:06.000Z",
-          "wordCount": 8158,
+          "wordCount": 8156,
           "title": "Senado quer isentar militares do Imposto de Renda, enquanto manobra pra manter a 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/milicos-2.jpg?1781447486"
         },
@@ -192,7 +202,7 @@
           "description": "Carta pública diante do ampliado de emergência da COB, no marco de mais de 45 dias de luta contra o governo de Rodrigo Paz.\n12-06-2026\n\n/ Internacional, Bolivia, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Greve geral na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Bolivia-Carta-ao-ampliado-da-COB",
           "publishedOn": "2026-06-14T13:47:04.000Z",
-          "wordCount": 8338,
+          "wordCount": 8343,
           "title": "Bolívia: Carta ao ampliado da COB",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bolivia-3.jpg?1781444753"
         },
@@ -202,7 +212,7 @@
           "description": "Na noite de quarta-feira, logo após a importante mobilização convocada pela Tupac Katari e pela COB, Mario Argollo voltou a aparecer para responder a uma entrevista com a RTP Bolívia, na qual se desligou da principal exigência do protesto popular, a renúncia de Paz, assinalando que a continuidade da mobilização depende das bases. As bases já decidiram, Argollo não pode voltar a traí-las.\n12-06-2026\n\n/ Internacional, Bolivia, Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Greve geral na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Dirigente-da-COB-tenta-se-descolar-da-mobilizacao-e-da-exigencia-pelo-Fora-Paz",
           "publishedOn": "2026-06-12T20:20:22.000Z",
-          "wordCount": 8262,
+          "wordCount": 8267,
           "title": "Dirigente da COB tenta se descolar da mobilização e da exigência pelo Fora Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_cob.jpeg.jpg?1781295601"
         },
@@ -212,7 +222,7 @@
           "description": "Os últimos meses mostraram algo que qualquer professor da rede estadual sente ao entrar na escola: a indignação da categoria continua viva\nMatérias\n\n/ Professores, Educação, Greve professores SP, Apeoesp, São Paulo, Apeoesp Santo André",
           "link": "https://www.esquerdadiario.com.br/Entre-a-revolta-da-categoria-e-a-traicao-da-direcao-um-balanco-dos-ultimos-meses-da-APEOESP",
           "publishedOn": "2026-06-12T20:16:25.000Z",
-          "wordCount": 9353,
+          "wordCount": 9349,
           "title": "Entre a revolta da categoria e a traição da direção: um balanço dos últimos meses da APEOESP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/apeoesp-2.jpg?1781295315"
         },
@@ -222,7 +232,7 @@
           "description": "O avião Hércules das Forças Armadas da Bolívia aterrissou no Brasil no começo desta semana para buscar carregamentos de armas “não letais” da multinacional Condor. Apenas dois dias depois, uma repressão feroz foi aplicada contra uma manifestação de 50 mil pessoas em La Paz, ferindo manifestantes gravemente e detendo dezenas. A cumplicidade de Lula, além da autorização da entrada do avião, está também no apoio dado ao governo de Paz. \nMatérias\n\n/ Internacional, Lula, Bolívia, Central Obrera Boliviana (COB), Governo Lula",
           "link": "https://www.esquerdadiario.com.br/Forcas-Armadas-da-Bolivia-carregam-armamento-nao-letal-do-Brasil-governo-Lula-e-cumplice-da",
           "publishedOn": "2026-06-12T18:13:13.000Z",
-          "wordCount": 8515,
+          "wordCount": 8513,
           "title": "Forças Armadas da Bolívia carregam “armamento não letal” do Brasil: governo Lula é cúmplice da repressão de Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/16mar2026---lula-e-o-presidente-da-bolivia-rodrigo-paz-conversam-durante-cerimonia-de-assinatura-de-um-acordo-bilateral-em-brasilia-1779748068668_v2_900x506.jpg?1781288072"
         },
@@ -232,7 +242,7 @@
           "description": "Nossa companheira correspondente do La Izquierda Diario, Violeta Tamayo, foi brutalmente ferida no braço nesta quarta-feira durante a repressão à marcha convocada pela Federação Camponesa Tupac Katari e pela Central Operária Boliviana. O gravíssimo caso teve repercussão midiática e também gerou solidariedade entre organizações e diferentes personalidades.\nMatérias\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Greve geral na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Repercussao-midiatica-e-solidariedade-internacional-com-nossa-companheira-do-La-Izquierda-Diario",
           "publishedOn": "2026-06-12T15:32:30.000Z",
-          "wordCount": 8162,
+          "wordCount": 8167,
           "title": "Repercussão midiática e solidariedade internacional com nossa companheira do La Izquierda Diario Bolívia ferida na repressão",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/viole_portada-3f90b.jpg?1781278326"
         },
@@ -242,7 +252,7 @@
           "description": "A reitoria de Cesinha na Unicamp circulou email de orientação às chefias que indica falta e assim corte de ponto aos trabalhadores em greve, essa é mais uma mostra da face intransigente e autoritária dessa reitoria que já vinha fechando diálogo com a greve estudantil e só reabriu depois da ocupação do prédio administrativo da DGA. Lutar e fazer greve é um direito do trabalhador! Todo apoio e solidariedade à greve da Unicamp!\n11-06-2026\n\n/ Educação, Unicamp, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Escandaloso-Reitoria-da-Unicamp-orienta-chefias-a-cortar-ponto-de-trabalhadores-em-greve",
           "publishedOn": "2026-06-12T14:44:41.000Z",
-          "wordCount": 7935,
+          "wordCount": 7933,
           "title": "Escandaloso! Reitoria da Unicamp orienta chefias a cortar ponto de trabalhadores em greve",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image-5-768x1024.jpg?1781275454"
         },
@@ -252,7 +262,7 @@
           "description": "Nesta quinta-feira completaram-se 42 dias de rebelião na Bolívia, contra as políticas de Rodrigo Paz. Forte denúncia à repressão policial em La Paz. Mineiros de Huanuni dispostos a marchar se a COB os convocar. Comunidades camponesas reafirmaram sua postura de luta e unidade. As centrais Tupak Katari e Bartolina Sisa convocam Cabildo na província de Los Andes. \n Se Rodrigo Paz pensava que com a promulgação da lei que lhe permite declarar o Estado de Exceção, as ameaças do Ministro da (…)\nMatérias\n\n/ Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB)",
           "link": "https://www.esquerdadiario.com.br/Apos-42-dias-a-luta-segue-firme-mantem-se-90-bloqueios-pela-renuncia-de-Paz",
           "publishedOn": "2026-06-12T14:22:45.000Z",
-          "wordCount": 8132,
+          "wordCount": 8130,
           "title": "Após 42 dias, a luta segue firme: mantêm-se 90 bloqueios pela renúncia de Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bloqueos_cochabamba.jpg?1781274107"
         },
@@ -262,7 +272,7 @@
           "description": "Em um comunicado emitido em vídeo nas redes sociais, representantes do Sindicato Misto de Trabalhadores Mineiros de Huanuni (SMTMH) denunciam o governo de Rodrigo Paz e afirmam estar em estado de emergência para marchar rumo a La Paz caso a direção da COB os convoque. Já não há mais nada a esperar: que a COB se apoie na disposição de luta dos mineiros de Huanuni para efetivar a greve geral com paralisação das atividades. \n O Sindicato Misto de Trabalhadores Mineiros de Huanuni (SMTMH) (…)\nMatérias\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB)",
           "link": "https://www.esquerdadiario.com.br/Mineiros-de-Huanuni-dispostos-a-marchar-a-La-Paz-se-a-COB-convocar-que-o-chamado-se-concretize-ja",
           "publishedOn": "2026-06-12T14:12:24.000Z",
-          "wordCount": 7874,
+          "wordCount": 7879,
           "title": "Mineiros de Huanuni dispostos a marchar à La Paz se a COB convocar: que o chamado se concretize já!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/mineros_huanuni-d52d0.jpg?1781273528"
         },
@@ -272,7 +282,7 @@
           "description": "Esta quinta-feira se completaram 42 dias de rebelião na Bolívia, contra as políticas de Rodrigo Paz. Forte denúncia da repressão policial em La Paz. Mineiros de Huanuni dispostos a marchar caso a COB os convoque. Comunidades camponesas afirmaram sua postura de luta e unidade. As organizações Tupac Katari e Bartolina Sisa convocaram uma assembleia popular na província de Los Andes.\nMatérias",
           "link": "https://www.esquerdadiario.com.br/Apos-42-dias-a-luta-segue-firme-se-mantiveram-90-bloqueios-e-setores-reafirmam-a-renuncia-de-Paz",
           "publishedOn": "2026-06-12T13:44:54.000Z",
-          "wordCount": 8172,
+          "wordCount": 8170,
           "title": "Após 42 dias, a luta segue firme: se mantiveram 90 bloqueios e setores reafirmam a renúncia de Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/revuelta-en-bolivia-887x420-1-1.jpg?1781276453"
         },
@@ -282,7 +292,7 @@
           "description": "O plano apresentado por “especialistas” do Growth Lab da Harvard/Bolivia360 para atender às exigências do FMI propõe uma receita bem conhecida em toda a América Latina: ajuste neoliberal e roubo dos bens comuns naturais em benefício das transnacionais.\nMatérias\n\n/ Internacional, Bolivia, Imperialismo, Central Obrera Boliviana (COB), Rodrigo Paz",
           "link": "https://www.esquerdadiario.com.br/Assim-e-o-plano-economico-idealizado-pelos-Estados-Unidos-para-roubar-a-Bolivia",
           "publishedOn": "2026-06-12T11:57:03.000Z",
-          "wordCount": 7937,
+          "wordCount": 7935,
           "title": "Assim é o plano econômico idealizado pelos Estados Unidos para roubar a Bolívia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sawueo_bolivia-8460c.jpg?1781265396"
         },
@@ -292,7 +302,7 @@
           "description": "A decisão do supermercado Verdemar, em Minas Gerais, de adotar uma escala com até 15 dias de folga no mês mostra que a demanda pelo fim da 6x1 se tornou uma reivindicação massiva entre os trabalhadores e está obrigando patrões e governos a recalcular as rotas. Mas também mostra que não basta esperar concessões parciais das empresas: é preciso transformar essa força em mobilização nacional, com uma greve geral para impor o fim imediato da escala 6x1, com redução da jornada sem redução salarial.\n11-06-2026\n\n/ Classe trabalhadora, Trabalho Precário, Greve Geral, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Demanda-massiva-contra-a-6x1-empurra-supermercado-em-MG-a-adotar-escala-com-ate-15-dias-de-folga",
           "publishedOn": "2026-06-12T00:56:28.000Z",
-          "wordCount": 8105,
+          "wordCount": 8103,
           "title": "Demanda massiva contra a 6x1 empurra supermercado em MG a adotar escala com até 15 dias de folga",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/essa_11.jpg?1781225723"
         },
@@ -302,7 +312,7 @@
           "description": "O Senado aprovou nesta quarta-feira (10) o PL 5122/23, uma verdadeira provocação contra os trabalhadores em benefício do agronegócio. O projeto autoriza o uso de recursos do Fundo Social do Pré-Sal para a renegociação de dívidas de produtores rurais, incluindo grandes empresas do setor, com juros favorecidos, prazo de pagamento de 10 anos e 3 anos de carência. O texto, aprovado sob comando do presidente do Senado, Davi Alcolumbre (União-AP), pode ter impacto bilionário sobre as contas públicas e agora volta para a Câmara dos Deputados.\n11-06-2026\n\n/ Política, Economia, Agronegócio, Senado, Pré-Sal, Petróleo, Agro",
           "link": "https://www.esquerdadiario.com.br/Senado-quer-tirar-dinheiro-do-petroleo-que-deveria-ir-para-saude-e-educacao-para-encher-ainda-mais",
           "publishedOn": "2026-06-11T23:15:14.000Z",
-          "wordCount": 8411,
+          "wordCount": 8409,
           "title": "Senado quer tirar dinheiro do petróleo que deveria ir para saúde e educação para encher ainda mais os bolsos do agronegócio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/chatgpt-image-24-de-ago.-de-2025-15_05_01.jpg?1781221186"
         },
@@ -312,7 +322,7 @@
           "description": "A AGU pediu ao STF que rejeite a ação que questionava a privatização da COPASA sem consulta popular, conforme estabelece a Constituição de Minas Gerais.\n11-06-2026\n\n/ Política, Privatização, Minas Gerais, Privatização da Água, Copasa",
           "link": "https://www.esquerdadiario.com.br/AGU-de-Lula-intercede-no-STF-para-avancar-a-privatizacao-da-COPASA",
           "publishedOn": "2026-06-11T22:33:26.000Z",
-          "wordCount": 8313,
+          "wordCount": 8314,
           "title": "AGU de Lula intercede no STF para avançar a privatização da COPASA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/estacao_de_tratamento_de_esgoto_de_cruzilia__2__11-11-2024.jpg?1781217193"
         },
@@ -322,7 +332,7 @@
           "description": "No último dia 04/06, a romancista, cartunista e cineasta franco-iraniana, Marjane Satrapi, faleceu aos 56 anos. Sua obra-prima, “Persépolis”, renunciou a obediência a um mundo de exploração e opressão, deixando um legado de rebeldia e de luta pela emancipação das mulheres para as próximas gerações.\n11-06-2026\n\n/ Cultura",
           "link": "https://www.esquerdadiario.com.br/Uma-vida-dedicada-a-rebeldia",
           "publishedOn": "2026-06-11T22:13:21.000Z",
-          "wordCount": 8083,
+          "wordCount": 8081,
           "title": "Uma vida dedicada à rebeldia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/marjaneed1.jpg?1781215571"
         },
@@ -332,7 +342,7 @@
           "description": "O apito inicial da Copa do Mundo de 2026 soou nesta quinta-feira, 11 de junho, em meio a um clima que pouco lembra as festas populares que marcaram outras edições do torneio. Antes mesmo da bola rolar, o mundial protagonizado pelos Estados Unidos, México e Canadá já havia se tornado notícia por razões bem distantes do futebol, com às deportações, controles racistas em aeroportos, censura, perseguições e lucros exorbitantes para os cofres Suíços da FIFA. Esta é a Copa de Trump e Infantino. E (…)\n11-06-2026\n\n/ Sociedade, Futebol, FIFA, Donald Trump, Xenofobia, Copa do Mundo, Racismo e Futebol, Futebol e classe trabalhadora, Futebol e Política, antirracismo",
           "link": "https://www.esquerdadiario.com.br/A-Copa-que-nao-e-para-todos-Racismo-Imperialismo-e-o-futebol-como-negocio",
           "publishedOn": "2026-06-11T21:18:27.000Z",
-          "wordCount": 9406,
+          "wordCount": 9404,
           "title": "A Copa que não é para todos. Racismo, Imperialismo e o futebol como negócio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/fifaaaa.jpg?1781213032"
         },
@@ -342,7 +352,7 @@
           "description": "Milhares se mobilizaram junto à CNTE para exigir a revogação da Lei do ISSSTE de 2007 e denunciar a Copa do Mundo como um negócio para os ricos financiado com recursos públicos. \n Mais de 50 mil pessoas participaram nesta quinta-feira da enorme mobilização convocada pela CNTE (Coordenação Nacional dos Trabalhadores da Educação) e por diversas organizações sociais, estudantis e políticas no marco da abertura da Copa do Mundo de 2026. A coluna, que já no início da marcha alcançava (…)\n11-06-2026\n\n/ Internacional, México, México, FIFA, Repressão a professores México, Copa do Mundo",
           "link": "https://www.esquerdadiario.com.br/Dezenas-de-milhares-marcham-no-Mexico-junto-aos-trabalhadores-da-educacao-na-abertura-da-Copa",
           "publishedOn": "2026-06-11T20:41:30.000Z",
-          "wordCount": 7915,
+          "wordCount": 7913,
           "title": "Dezenas de milhares marcham no México junto aos trabalhadores da educação na abertura da Copa",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000314390.jpg?1781210486"
         },
@@ -352,7 +362,7 @@
           "description": "O Ministério Público de São Paulo arquivou a investigação sobre a morte de Ryan da Silva Andrade Santos, de apenas 4 anos, baleado na barriga enquanto brincava próximo de casa, durante uma perseguição policial no Morro São Bento, em Santos, em novembro de 2024. Segundo o MP-SP, os policiais teriam agido em “legítima defesa e no estrito cumprimento do dever legal”. A decisão ignora a perícia que comprovou que o disparo fatal partiu de um policial que utilizava uma arma calibre 12, e contraria (…)\n11-06-2026\n\n/ Luta Antirracista, Violência policial, Sociedade, Racismo Policial, Crianças, Brutalidade policial, violência contra as crianças",
           "link": "https://www.esquerdadiario.com.br/MP-SP-arquiva-caso-de-Ryan-com-a-absurda-justificativa-de-assassinato-como-legitima-defesa",
           "publishedOn": "2026-06-11T20:16:40.000Z",
-          "wordCount": 7914,
+          "wordCount": 7921,
           "title": "MP-SP arquiva caso de Ryan com a absurda justificativa de assassinato como “legítima defesa”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ryan.jpg?1781208990"
         },
@@ -362,7 +372,7 @@
           "description": "A federação camponesa “Tupac Katari” convocou, nesta quarta-feira (11), uma concentração em El Alto que marchou em direção à cidade de La Paz. A convocatória também contou com a adesão da Central Operária Boliviana. A mobilização reuniu mais de 40 mil manifestantes. A polícia realizou uma forte operação repressiva, que terminou com detidos e feridos, entre eles trabalhadores da imprensa. Acompanhe toda a cobertura do dia de luta dos nossos irmãos bolivianos. \n Desde cedo começaram a se (…)\n11-06-2026\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Política Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Resistencia-operaria-e-camponesa-nas-ruas-de-La-Paz-apesar-da-repressao-foi-realizada-uma",
           "publishedOn": "2026-06-11T18:58:29.000Z",
-          "wordCount": 8114,
+          "wordCount": 8112,
           "title": "Resistência operária e camponesa nas ruas de La Paz: apesar da repressão, foi realizada uma mobilização massiva",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/alto_de_pie-582a8.jpg?1781203341"
         },
@@ -372,7 +382,7 @@
           "description": "As forças do Comando Central dos Estados Unidos (Centcom) começaram a bombardear instalações iranianas, rompendo o cessar fogo. Trump, sem ter conseguido atingir nenhum de seus objetivos desde a guerra iniciada em fevereiro deste ano contra o país persa e com um regime iraniano que não estava disposto a ceder nas negociações, agora volta a jogar incertezas sobre toda a região.\n11-06-2026\n\n/ Internacional, EUA, Imperialismo, Irã, Sionismo",
           "link": "https://www.esquerdadiario.com.br/Estados-Unidos-volta-a-bombardear-o-Ira",
           "publishedOn": "2026-06-11T14:35:28.000Z",
-          "wordCount": 7978,
+          "wordCount": 7976,
           "title": "Estados Unidos volta a bombardear o Irã",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_trump_ira.jpeg.jpg?1781188526"
         },
@@ -382,7 +392,7 @@
           "description": "Depois de 54 dias, os estudantes da USP encerram a greve estudantil geral na Assembleia nesta segunda-feira. A votação foi apertada, 323 a 255 votos, o que demonstrou uma importante disposição dos estudantes em continuar a greve.\nMatérias\n\n/ Juventude, USP, bandejão da USP, Reitoria USP, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Com-votacao-apertada-estudantes-da-USP-encerram-greve-geral-estudantil",
           "publishedOn": "2026-06-11T13:52:03.000Z",
-          "wordCount": 8320,
+          "wordCount": 8302,
           "title": "Com votação apertada, estudantes da USP encerram greve geral estudantil",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-11_at_10.51_25.jpg?1781191928"
         },
@@ -392,7 +402,7 @@
           "description": "Fortaleça o abaixo-assinado e participe dessa campanha apoiando com sua assinatura e lutando por uma greve geral contra a escala 6x1. Após a aprovação da PEC na Câmara dos Deputados, é ainda mais urgente ampliar essa campanha diante das manobras do Senado, do Centrão e da extrema-direita para impedir, desmontar ou desfigurar ainda mais o fim dessa escala miserável. \n Abaixo-assinado: Por uma Greve Geral pelo fim da escala 6x1 \n10-06-2026\n\n/ Classe trabalhadora, Trabalho Precário, Greve Geral, Precarização do trabalho, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Por-uma-Greve-Geral-pelo-fim-da-escala-6x1-61588",
           "publishedOn": "2026-06-11T00:47:06.000Z",
-          "wordCount": 8701,
+          "wordCount": 8699,
           "title": "Por uma Greve Geral pelo fim da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sem_titulo-64.jpg?1781138183"
         },
@@ -402,7 +412,7 @@
           "description": "Ao mesmo tempo em que temos cada vez mais acesso a documentos advindos de manicômios que foram fechados, revelando a profundidade de seu caráter desumano e opressivo, o ministro do STF Flávio Dino tomou uma decisão absurda que vai frontalmente contra a Lei da Reforma Psiquiátrica, determinando a manutenção sem tempo definido de dois manicômios em Minas Gerais.\n10-06-2026\n\n/ Sociedade, STF, luta antimanicomial, Flávio Dino",
           "link": "https://www.esquerdadiario.com.br/STF-vai-contra-a-Lei-da-Reforma-Psiquiatrica-e-decide-pela-manutencao-de-dois-manicomios-em-MG",
           "publishedOn": "2026-06-10T23:24:30.000Z",
-          "wordCount": 8816,
+          "wordCount": 8802,
           "title": "STF vai contra a Lei da Reforma Psiquiátrica e decide pela manutenção de dois manicômios em MG",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/dino-2.jpg?1781133830"
         },
@@ -412,7 +422,7 @@
           "description": "O curso de História foi o primeiro a entrar em greve e será o último a sair, contra a pressão de professores e a intransigência da Reitoria, que foi protagonista de duros casos de violência durante a greve na USP. \n No auge dos 54 dias de greve dos estudantes da USP, o Auditório Fernand Braudel no Vão da História e Geografia se encontrava lotado. Neste auditório, que inclusive foi palco de uma batalha contra a chantagem da chefia do Departamento de História para poder ser usado durante a (…)\nMatérias\n\n/ Juventude, Greve, História-USP, São Paulo, DCE USP, Assembleia",
           "link": "https://www.esquerdadiario.com.br/Mais-de-200-estudantes-aprovaram-seguir-greve-da-USP-no-curso-de-Historia-por-nao-retaliacao",
           "publishedOn": "2026-06-10T22:55:50.000Z",
-          "wordCount": 8779,
+          "wordCount": 8770,
           "title": "Mais de 200 estudantes aprovaram seguir greve da USP no curso de História por não retaliação!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/img-20260610-wa0036.jpg?1781132031"
         },
@@ -422,7 +432,7 @@
           "description": "Camisa da seleção do Haiti tem desenho em memória da Batalha de Vertières, de 1803, na qual soldados poloneses se colocaram ao lado dos revolucionários haitianos na guerra contra o exército colonialista francês. \n Jean Richner-Bellegarde, camisa 10 do Haiti e atacante do clube inglês Wolverhampton, vestindo a camisa censurada do Haiti, com a bandeira polonesa. \nMatérias\n\n/ Luta Antirracista, Futebol, FIFA, EUA, Copa do Mundo, Haiti, EUA",
           "link": "https://www.esquerdadiario.com.br/FIFA-censura-referencia-a-Revolucao-Haitiana-em-uniforme-mais-um-ataque-racista-na-Copa-de-Trump",
           "publishedOn": "2026-06-10T22:28:44.000Z",
-          "wordCount": 8895,
+          "wordCount": 8891,
           "title": "FIFA censura referência à Revolução Haitiana em uniforme: mais um ataque racista na Copa de Trump",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/fifa-alega-mensagem-politica-e-pede-mudanca-na-camisa-do-v0-csu62retvqexupy7jg85t0xrj4vjvcec0qan2ziwrze.webp?1781130438"
         },
@@ -432,7 +442,7 @@
           "description": "Presidente do Senado se reuniu com CNI, Fiesp e Abrasel para organizar a protelação da votação do fim da escala 6x1, com vistas a evitar que ela seja extinta. \n O presidente do Senado, Davi Alcolumbre, segue trabalhando para desmontar o fim da escala 6x1, enquanto não dá seguimento a votação do projeto. Ele declarou que só iniciaria a tramitação do projeto depois de se reunir com Lula e que pautará todas as PECs, ou não pautará nenhuma. \n10-06-2026\n\n/ Política, Senado, Davi Alcolumbre, Governo Lula, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Alcolumbre-se-reune-com-Fiesp-e-CNI-para-boicotar-o-fim-da-escala-6x1",
           "publishedOn": "2026-06-10T22:25:48.000Z",
-          "wordCount": 8052,
+          "wordCount": 8050,
           "title": "Alcolumbre se reúne com Fiesp e CNI para boicotar o fim da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000314059.png?1781130266"
         },
@@ -442,7 +452,7 @@
           "description": "No dia de ontem (09/06), estudantes e trabalhadores da Unicamp, em greve há cerca de um mês, realizaram um ato expressivo no Largo do Rosário, no centro da cidade.\n10-06-2026\n\n/ Juventude, Campinas, Unicamp, Greve, Estudantes Unicamp, ato",
           "link": "https://www.esquerdadiario.com.br/Greve-da-Unicamp-realiza-ato-no-centro-de-Campinas-para-dialogar-com-a-populacao",
           "publishedOn": "2026-06-10T20:04:33.000Z",
-          "wordCount": 7965,
+          "wordCount": 7962,
           "title": "Greve da Unicamp realiza ato no centro de Campinas para dialogar com a população",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/unnamed-5.jpg?1781121974"
         },
@@ -452,19 +462,9 @@
           "description": "Durante a repressão à marcha convocada para o dia de hoje pela Federação Camponesa Tupac Katari e pela Central Operária Boliviana (COB), nossa correspondente Violeta Tamayo foi ferida pela ação policial. Além disso, há relatos de mais pessoas detidas e feridas. \n Repudiamos a brutal repressão policial que o Governo de Paz desencadeou contra a mobilização massiva que desceu de El Alto a La Paz em repúdio ao seu governo, exigindo sua renúncia e também rejeitando o Estado de Exceção. \n10-06-2026\n\n/ Internacional, Bolivia, Repressão, Bolívia, Crise Política na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Ferem-correspondente-do-La-Izquierda-Diario-da-Bolivia",
           "publishedOn": "2026-06-10T19:03:30.000Z",
-          "wordCount": 7783,
+          "wordCount": 7781,
           "title": "Ferem correspondente do La Izquierda Diario da Bolívia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000313997.jpg?1781118140"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Sigamos-o-exemplo-de-San-Julian-Caracollo-e-Vinto-derrotemos-Paz-o-ajuste-e-a-militarizacao",
-          "author": "Liga Obrera Revolucionaria por la Cuarta Internacional (LOR-CI)",
-          "description": "A derrota do operativo policial-militar e paramilitar em San Julián demonstra que o povo mobilizado pode derrotar o plano de ajuste e o governo de Rodrigo Paz. Com pelo menos cinco camponeses assassinados, uma lei de estado de exceção que blinda as forças repressivas e tentativas de manobras de diálogo para enfraquecer a luta, a resposta continua sendo a mesma: bloqueios, greve geral com paralisação das atividades e mobilização massiva até derrotar Paz, o FMI e os empresários. \n Desde San (…)\n10-06-2026\n\n/ Internacional, Bolívia, Central Obrera Boliviana (COB)",
-          "link": "https://www.esquerdadiario.com.br/Sigamos-o-exemplo-de-San-Julian-Caracollo-e-Vinto-derrotemos-Paz-o-ajuste-e-a-militarizacao",
-          "publishedOn": "2026-06-10T16:42:29.000Z",
-          "wordCount": 8725,
-          "title": "Sigamos o exemplo de San Julián, Caracollo e Vinto: derrotemos Paz, o ajuste e a militarização",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/elalto.jpg?1781109687"
         }
       ]
     },
@@ -532,21 +532,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/06/wide-3.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=443754",
-          "author": "Bianca Pyl",
-          "description": "Ao apelar para o cinismo do \"quanto pior, melhor\", a liderança bolsonarista escancarou o desprezo pela própria base e revelou o caminho para derrotar o extremismo nas urnas.\nO post O nó da escala 6×1: O que o desespero de Nikolas ensina à esquerda apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/06/10/escala-6x1-desespero-nikolas-ensina-esquerda/",
-          "publishedOn": "2026-06-10T11:00:00.000Z",
-          "wordCount": null,
-          "title": "O nó da escala 6×1: O que o desespero de Nikolas ensina à esquerda",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/06/Headerwide-1.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/06/Headerwide-1.jpg"
         }
       ]
     },
@@ -594,16 +579,6 @@
           "wordCount": 7028,
           "title": "MPSP arquiva caso de menino Ryan ao ignorar contradições de PMs e relatos de testemunhas",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/02/ryan-da-silva-andrade-santos-foto-arquivo-familiar.jpg-1.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=160742",
-          "author": "Paulo Batistella",
-          "description": "Estado teve 241 mortes cometidas pelas polícias de janeiro a abril de 2026, com alta da letalidade na Baixada Santista e na região de Sorocaba. Para especialista, Tarcísio sustenta operações ao importar narrativa do Rio de 'dominação territorial'.\nO conteúdo Letalidade policial em SP segue acima do pior patamar da gestão Tarcísio e se intensifica fora da capital Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/letalidade-policial-sp-interior-litoral-2026/",
-          "publishedOn": "2026-06-10T16:17:47.000Z",
-          "wordCount": 5836,
-          "title": "Letalidade policial em SP segue acima do pior patamar da gestão Tarcísio e se intensifica fora da capital",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/tarcisio-de-freitas-solenidade-pm-celso-silva-governo-de-sp.webp"
         }
       ]
     },
@@ -628,7 +603,7 @@
           "description": "srael se tornou o país mais exposto a boicotes em todo o mundo, enfrentando uma onda generalizada de sanções internacionais direcionadas a autoridades governamentais, colonizadores e instituições oficiais, informa o jornal israelense Yedioth Ahronoth nesta quinta-feira (11). Sob o título “Como Israel se tornou a nação mais boicotada do mundo”, o jornal diz que Israel […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/06/11/israel-se-tornou-o-pais-mais-boicotado-do-mundo-diz-jornal-israelense/",
           "publishedOn": "2026-06-11T20:43:55.000Z",
-          "wordCount": 3237,
+          "wordCount": 3236,
           "title": "Israel se tornou o país mais boicotado do mundo, diz jornal israelense",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/06/israel.webp"
         },
@@ -650,12 +625,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=257520",
+          "author": "Rocio Paik",
+          "description": "O presidente norte-americano Donald Trump confirmou nesta noite de domingo (14/06) que os Estados Unidos e o Irã chegaram a um acordo de paz. O anúncio foi dado pouco depois que o primeiro-ministro Shehbaz Sharif, do Paquistão, país mediador do conflito, comunicou em redes sociais a notícia. Pela plataforma Truth Social, o republicano disse que […]\nO post EUA e Irã anunciam acordo para fim da guerra; Teerã promete ‘monitorar inimigo’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-ira-anunciam-acordo-para-fim-da-guerra-teera-promete-monitorar-inimigo/",
+          "publishedOn": "2026-06-14T22:46:32.000Z",
+          "wordCount": 3350,
+          "title": "EUA e Irã anunciam acordo para fim da guerra; Teerã promete ‘monitorar inimigo’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55294829091_a5612f64de_k.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=257517",
           "author": "Rocio Paik",
           "description": "A FIFA pagará o salário integral do árbitro somali Omar Abdulkadir Artan, que foi barrado pelas autoridades norte-americanas para entrar nos Estados Unidos e participar da Copa do Mundo, de acordo com fontes ligadas à federação de futebol consultadas pela emissora britânica BBC neste domingo (14/06).  Artan foi interrogado por um total de 11 horas […]\nO post FIFA pagará salário integral a árbitro somali que teve entrada barrada pelos EUA, diz BBC apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/fifa-pagara-salario-integral-a-arbitro-somali-que-teve-entrada-barrada-pelos-eua-diz-bbc/",
           "publishedOn": "2026-06-14T20:40:53.000Z",
-          "wordCount": 3060,
+          "wordCount": 3057,
           "title": "FIFA pagará salário integral a árbitro somali que teve entrada barrada pelos EUA, diz BBC",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/whatsapp-image-2026-06-09-at-09.27.23.webp"
         },
@@ -665,7 +650,7 @@
           "description": "Enquanto parte do debate global sobre inteligência artificial é marcado por preocupações com desemprego, vigilância e concentração de poder nas mãos das grandes empresas de tecnologia, pesquisas indicam que os chineses estão entre os povos mais otimistas do mundo em relação à nova tecnologia. Para o pesquisador Jeff Xiong, a explicação está menos na tecnologia […]\nO post Por que população da China vê inteligência artificial com mais otimismo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/por-que-populacao-da-china-ve-inteligencia-artificial-com-mais-otimismo/",
           "publishedOn": "2026-06-14T19:47:24.000Z",
-          "wordCount": 8079,
+          "wordCount": 8076,
           "title": "Por que população da China vê inteligência artificial com mais otimismo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/jeff-xiong-21e88a85.webp"
         },
@@ -675,7 +660,7 @@
           "description": "Milhares de pessoas se manifestaram neste domingo (14/06) em Genebra, convocadas pela coalizão “No-G7”, sob forte vigilância das forças de segurança. O protesto ocorre na véspera da abertura da reunião do G7 em Evian, na França. O cortejo, formado por milhares de pessoas sob forte calor, reuniu manifestantes com diferentes bandeiras: anticapitalistas, pró-Palestina, feministas, pró-clima […]\nO post Em Genebra, milhares protestam contra ‘fascismo e imperialismo’ da reunião do G7 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/em-genebra-milhares-protestam-contra-fascismo-e-imperialismo-da-reuniao-do-g7/",
           "publishedOn": "2026-06-14T18:48:03.000Z",
-          "wordCount": 3697,
+          "wordCount": 3694,
           "title": "Em Genebra, milhares protestam contra ‘fascismo e imperialismo’ da reunião do G7",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hky0axpxoaasik9.jpeg"
         },
@@ -685,7 +670,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, criticou neste domingo (14/06) o governo de Israel por lançar um ataque à capital do Líbano no mesmo dia em que, segundo ele, um acordo de cessar-fogo com o Irã poderia finalmente ser assinado. Pela plataforma Truth Social, o republicano afirmou que o ataque israelense a Beirute “não […]\nO post Trump condena ataque israelense contra Beirute em meio a negociações de acordo com Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-condena-ataque-israelense-contra-beirute-em-meio-a-negociacoes-de-acordo-com-ira/",
           "publishedOn": "2026-06-14T17:20:43.000Z",
-          "wordCount": 3617,
+          "wordCount": 3616,
           "title": "Trump condena ataque israelense contra Beirute em meio a negociações de acordo com Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55295069734_f65f10901d_k.jpg"
         },
@@ -695,7 +680,7 @@
           "description": "“Os Estados Unidos sob liderança de Donald Trump buscam motivos para punir a África do Sul”, é o que afirma a acadêmica Sandy Africa, diretora do Instituto Mapundubwe para Reflexão Estratégica (MISTRA), um dos principais de Pretória. Em São Paulo, onde participou de evento acadêmico organizado pela Universidade Federal do ABC (UFABC), Africa conversou com […]\nO post ‘Trump caça motivos para punir África do Sul’, diz acadêmica sul-africana apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/trump-caca-motivos-para-punir-africa-do-sul-diz-academica-sul-africana/",
           "publishedOn": "2026-06-14T16:30:15.000Z",
-          "wordCount": 9056,
+          "wordCount": 9053,
           "title": "‘Trump caça motivos para punir África do Sul’, diz acadêmica sul-africana",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/42638b69-22fe-458b-888c-f75408ecc044.jpg"
         },
@@ -705,7 +690,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva embarca neste domingo (13/06) para a cidade de Évian-les-Bains, na França, onde participará, como convidado, da Cúpula do G7, o fórum que reúne sete das maiores economias industrializadas do planeta. É a 10ª vez que Lula participa deste encontro, ao longo de seus três mandatos. São membros plenos […]\nO post Lula viaja neste domingo (14) para cúpula do G7 após novas tensões com EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-viaja-neste-domingo-14-para-cupula-do-g7-apos-novas-tensoes-com-eua/",
           "publishedOn": "2026-06-14T15:55:27.000Z",
-          "wordCount": 4369,
+          "wordCount": 4366,
           "title": "Lula viaja neste domingo (14) para cúpula do G7 após novas tensões com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/lulag701.webp"
         },
@@ -715,7 +700,7 @@
           "description": "Com 98,552% das urnas apuradas até a manhã deste domingo (14/06), a candidata presidencial de extrema direita no Peru, Keiko Fujimori (Força Popular), filha do ditador Alberto Fujimori, lidera nas eleições com 9.072.289 votos (50.051%), enquanto Roberto Sánchez (Juntos pelo Peru), de esquerda, conta com 9.053.801 votos (49.949%). As informações são do Escritório Nacional de […]\nO post Keiko Fujimori segue liderando apuração e rejeita recontagem de votos no Peru apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/keiko-fujimori-segue-liderando-apuracao-e-rejeita-recontagem-de-votos-no-peru/",
           "publishedOn": "2026-06-14T15:04:13.000Z",
-          "wordCount": 3270,
+          "wordCount": 3267,
           "title": "Keiko Fujimori segue liderando apuração e rejeita recontagem de votos no Peru",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hkvys-7xeaaegaw.jpeg"
         },
@@ -725,7 +710,7 @@
           "description": "Quatro membros da delegação iraniana na Copa do Mundo venceram recursos contra a rejeição de seus vistos para ingressar no território dos Estados Unidos, de acordo com a emissora britânica BBC no sábado (13/06). Entretanto, outros 11 integrantes da equipe não poderão viajar ao país governado por Donald Trump durante os jogos de sua nação. […]\nO post Delegação do Irã consegue quatro vistos na Copa, mas 11 seguem barrados para acompanhar jogos nos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/delegacao-do-ira-consegue-quatro-vistos-na-copa-mas-11-seguem-barrados-para-acompanhar-jogos-nos-eua/",
           "publishedOn": "2026-06-14T14:13:16.000Z",
-          "wordCount": 3325,
+          "wordCount": 3322,
           "title": "Delegação do Irã consegue quatro vistos na Copa, mas 11 seguem barrados para acompanhar jogos nos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hkw7ffiamaa3pm1.webp"
         },
@@ -735,33 +720,47 @@
           "description": "Uma delegação do Catar, um dos países mediadores, chegou neste domingo (14/06) a Teerã para discutir os últimos desdobramentos do processo diplomático destinado a encerrar a guerra entre os Estados Unidos e o Irã, segundo a imprensa iraniana. O presidente norte-americano, Donald Trump, afirmou que os Estados Unidos assinariam neste domingo um acordo com o […]\nO post Mediadores do Catar chega a Teerã para discutir acordo de cessar-fogo entre Irã e EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/delegacao-do-catar-chega-a-teera-para-discutir-acordo-de-cessar-fogo-entre-ira-e-eua/",
           "publishedOn": "2026-06-14T13:19:40.000Z",
-          "wordCount": 4096,
+          "wordCount": 4095,
           "title": "Mediadores do Catar chega a Teerã para discutir acordo de cessar-fogo entre Irã e EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1405032410530540037086574.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=257480",
-          "author": "Pedro Marin",
-          "description": "A Copa do Mundo de 2026 já nasce marcada, de maneira sem precedentes na história do torneio, pela política externa e interna dos Estados Unidos. Aquilo que deveria ser um espetáculo esportivo se converteu em vitrine das prioridades de um império em reconfiguração: às vésperas do pontapé inicial, o governo Trump ameaçou não renovar o […]\nO post A Copa do Mundo não combina com ‘America First’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-copa-do-mundo-nao-combina-com-america-first/",
-          "publishedOn": "2026-06-14T07:30:46.000Z",
-          "wordCount": 4194,
-          "title": "A Copa do Mundo não combina com ‘America First’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/copa-trump.webp"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=228025",
+          "author": "Redação de AND",
+          "description": "No 981º dia desde o Dilúvio de Al-Aqsa, o Irã anunciou que o memorando com o país Estados Unidos (EUA) foi finalizado e será assinado na sexta-feira, 19 de junho, na Suíça. O vice-chanceler iraniano Kazem Gharibabadi afirmou que Teerã não aceitou o texto “até incorporar cada último ponto e exigência” e que o documento prevê o fim imediato e permanente da guerra em todas as frentes, incluindo o Líbano, além do encerramento do bloqueio naval ianque. A finalização ocorreu após ataque sionista ao subúrbio sul de Beirute, que matou três pessoas, feriu outras 16 e abriu crise entre Donald Trump e Netanyahu. Em Gaza, “Israel” seguiu violando o cessar-fogo; na Cisjordânia, prisões, ataques de colonos e demolições se ampliaram.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-14-06-2026/",
+          "publishedOn": "2026-06-15T01:41:04.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (14/06): ‘O inimigo foi derrotado em todos os seus objetivos’, diz Irã após memorando com EUA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=227783",
+          "author": "Ana Nascimento",
+          "description": "Protestos contra Equatorial Energia aumentam em bairros proletários de Maceió, onde trabalhadores são afetados diretamente pelo serviço precário da empresa.",
+          "link": "https://anovademocracia.com.br/al-protesto-contra-equatorial-energia/",
+          "publishedOn": "2026-06-14T22:11:00.000Z",
+          "wordCount": null,
+          "title": "AL: Moradores revoltados atearam fogo em barricadas em protesto contra a Equatorial Energia em Maceió",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=228014",
+          "author": "Redação de AND",
+          "description": "Em desdobramento do A Propósito #367, líder islâmico relacionou a unidade da nação iraniana à Revolução Islâmica, à guerra contra o Iraque e à resistência atual contra a agressão ianque-sionista.",
+          "link": "https://anovademocracia.com.br/maior-arma-ira-apoio-do-povo-sheik-salman/",
+          "publishedOn": "2026-06-14T21:37:12.000Z",
+          "wordCount": null,
+          "title": "‘A maior arma do Irã é o apoio do povo’, afirma Sheik Salman em debate com AND",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=227995",
           "author": "Redação de AND",
@@ -830,36 +829,6 @@
           "publishedOn": "2026-06-14T00:05:01.000Z",
           "wordCount": null,
           "title": "‘Dia do revide’: autodefesa estudantil enfrenta Polícia Militar na USP e ganha apoio nacional",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227607",
-          "author": "Marconne Oliveira",
-          "description": "Como a militarização das escolas públicas brasileiras sobreviveu à sua própria revogação e o que os dados revelam sobre um modelo que cresce à sombra da crise que o próprio velho Estado produziu.",
-          "link": "https://anovademocracia.com.br/escolas-militarizadas-velho-estado-ensino/",
-          "publishedOn": "2026-06-13T20:50:50.000Z",
-          "wordCount": null,
-          "title": "Escolas militarizadas no Brasil: Uma continuação da política do velho Estado para o ensino",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227882",
-          "author": "Redação de AND",
-          "description": "Agência repressiva busca revogar liberdade de Vernon Gonsalves, Arun Ferreira, Varavara Rao e Sudha Bharadwaj sob alegação de participação em reunião em Bombaim.",
-          "link": "https://anovademocracia.com.br/india-nia-tenta-cancelar-liberdade-elgar/",
-          "publishedOn": "2026-06-13T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Índia: NIA tenta cancelar liberdade de ativistas do caso Elgar Parishad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=227879",
-          "author": "Redação de AND",
-          "description": "Liga Revolucionária de Moradia ocupou o antigo Ardee House Pub, em Dublin, e rebatizou o espaço como Centro Comunitário Anne Devlin.",
-          "link": "https://anovademocracia.com.br/irlanda-organizacao-transforma-pub-centro/",
-          "publishedOn": "2026-06-13T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Irlanda: Organização ocupa pub fechado há 15 anos e transforma prédio em centro comunitário",
           "imageUrl": null
         }
       ]
@@ -1022,16 +991,6 @@
           "wordCount": 4770,
           "title": "Pierre Bourdieu para pensar o rap e mais um pouco…",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/osgemeos2.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159326",
-          "author": "Aníbal",
-          "description": "«O parlamento do Gana aprovou um projeto de lei que torna ilegal declarar-se LGBT+ ou ter relações homossexuais. Também criminaliza ser “aliado” e torna obrigatória a denúncia de violações da lei. Um projeto de lei semelhante fora já aprovado em 2024, mas o então presidente, Nana Akufo-Addo, não o promulgou. O atual presidente, John Mahama, anunciara previamente que poderia decretar essa lei». (The Economist, The World in Brief, 30 de Maio de 2026) Passa Palavra",
-          "link": "https://passapalavra.info/2026/06/159326/",
-          "publishedOn": "2026-06-10T12:59:31.000Z",
-          "wordCount": 3857,
-          "title": "Entretanto, em África…",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         }
       ]
     },
@@ -1056,7 +1015,7 @@
           "description": "“O casamento é a principal causa do divórcio”, escreveu Marx... Grouxo Marx. Mouzar Benedito reúne essa e outras frases para refletir, com bastante bom humor, sobre as relações que chegam ao fim. Afinal, vidas solteiras também importam.",
           "link": "https://blogdaboitempo.com.br/2026/06/12/cultura-inutil-separacao-divorcio-destino-de-muitos-casamentos/",
           "publishedOn": "2026-06-12T11:00:00.000Z",
-          "wordCount": 12829,
+          "wordCount": 12682,
           "title": "Cultura inútil | Separação, divórcio… destino de muitos casamentos",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-11.png?fit=1200%2C813&ssl=1"
         },
@@ -1089,16 +1048,6 @@
           "wordCount": 13551,
           "title": "Algo horrível vai acontecer",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-7.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=64803",
-          "author": "Boitempo",
-          "description": "Bruna Della Torre: \"O botão já foi apertado. A aniquilação por uma bomba atômica não pode ser um exercício especulativo – daí a ingenuidade da ficção científica que a pensa sob a forma do “e se…” e da mudança de sentido da dialética benjaminiana. Nada a especular, nem passível de adiamento. É preciso entender o que já aconteceu. Qualquer pretensão de abordar o fim do mundo como algo do futuro é necessariamente ideológica.\"",
-          "link": "https://blogdaboitempo.com.br/2026/06/10/a-teoria-critica-no-fim-de-partida/",
-          "publishedOn": "2026-06-10T11:00:00.000Z",
-          "wordCount": 15501,
-          "title": "A Teoria Crítica no “Fim de partida”",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/endspiel_28berlin29.jpg?fit=1200%2C801&ssl=1"
         }
       ]
     }
