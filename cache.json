@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "H0glL8",
+          "author": null,
+          "description": "A movimentação do tribunal é um marco importante que evidencia o risco real de infraestruturas estratégicas para o Brasil estarem suscetíveis ao domínio de big techs parceiras das grandes potências imperialistas.",
+          "link": "https://jornalofuturo.com.br/artigo/H0glL8-tcu-confirma-potencial-risco-de-dominio-estrangeiro-sobre-nuvem-de-governo-soberana",
+          "publishedOn": "2026-06-20T15:00:00.000Z",
+          "wordCount": 1550,
+          "title": "TCU confirma potencial risco de domínio estrangeiro sobre Nuvem de Governo “soberana”",
+          "imageUrl": "https://media.jornalofuturo.com.br/datacenter-1280x718.jpg"
+        },
+        {
           "id": "oxXyUA",
           "author": null,
           "description": "É preciso apontarmos os responsáveis, e mais que isso, precisamos de planos e dar condições para nós trabalhadores superarmos essa condição.",
@@ -14,43 +24,6 @@
           "wordCount": 4069,
           "title": "Palantir publica manifesto apontando escalada bélica mundial baseada em IA",
           "imageUrl": "https://media.jornalofuturo.com.br/nvidiabr-1280x854.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Jornal A Verdade",
-      "feedUrl": "https://averdade.org.br/feed/",
-      "siteUrl": "https://averdade.org.br/",
-      "articles": [
-        {
-          "id": "https://averdade.org.br/?p=62135",
-          "author": "Redação MG",
-          "description": "Após 45 dias de mobilização, a greve dos trabalhadores em educação de Belo Horizonte chegou ao fim. A gestão de Álvaro Damião e Natália Araújo utilizou táticas cruéis para tentar esmagar a organização dos professores. O corte de salários e o uso da Guarda Municipal escancararam a farsa do diálogo da prefeitura. A categoria volta […]",
-          "link": "https://averdade.org.br/2026/06/greve-da-educacao-em-bh-termina-com-denuncias-de-repressao-e-cortes-de-salarios/",
-          "publishedOn": "2026-06-16T19:32:24.000Z",
-          "wordCount": 7689,
-          "title": "Greve da educação em BH termina com denúncias de repressão e cortes de salários",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/greveeducacao.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=62131",
-          "author": "Leonardo de Paula",
-          "description": "O Jornal A Verdade publica mais uma poesia enviada por brigadistas, leitores e apoiadores da nossa imprensa Sofia Martins | São Paulo Quem mandou ser gente? Tudo que me compõe é um reflexo de quem já passou por mim  Meu andar é um mosaico das ruas e das lutas que já atravessei.   Às vezes […]",
-          "link": "https://averdade.org.br/2026/06/poesia-quem-mandou-ser-gente/",
-          "publishedOn": "2026-06-16T16:30:36.000Z",
-          "wordCount": 6490,
-          "title": "Poesia: Quem mandou ser gente?",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/foto-poema-jornal.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=62121",
-          "author": "Clóvis Maia",
-          "description": "No 12º capítulo da série “A História oficial Versus as lutas do proletariado brasileiro” chegamos ao ano de 1929. Tendo A Grande Depressão como pano de fundo, a burguesia nacional organiza um golpe nacional. Aquilo que estava por trás dessas movimentações são observadas aqui. Natanael Sarmento| Redação Pernambuco  HISTÓRIA (parte 12) – A crise capitalista […]",
-          "link": "https://averdade.org.br/2026/06/1930-um-golpe-oligarquico-fantasiado-de-revolucao/",
-          "publishedOn": "2026-06-16T15:02:42.000Z",
-          "wordCount": 8139,
-          "title": "1930: Um golpe oligárquico fantasiado de ‘revolução’",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/06/getulio-golpe.webp"
         }
       ]
     },
@@ -217,12 +190,32 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Os-cabildos-resolveram-Bolivia-nao-se-vende-A-traicao-da-COB-deixa-camponeses-e-autoconvocados-a",
+          "author": "Correspondente LID Bolívia",
+          "description": "Após 50 dias de mobilização, a COB finalmente dá as costas aos camponeses e autoconvocados que sustentaram longas jornadas de cabildos, bloqueios e marchas: uma traição aberta.\nMatérias\n\n/ Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Greve geral na Bolívia, Rebelião popular na Bolívia",
+          "link": "https://www.esquerdadiario.com.br/Os-cabildos-resolveram-Bolivia-nao-se-vende-A-traicao-da-COB-deixa-camponeses-e-autoconvocados-a",
+          "publishedOn": "2026-06-20T16:56:57.000Z",
+          "wordCount": 8142,
+          "title": "As Assembleias decidiram: Bolívia não se vende! A traição da COB deixa camponeses e autoconvocados à própria sorte diante do reacionário governo de Rodrigo Paz.",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/rcp3lvjk6neohdi4qrisorweni.jpg?1781974573"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/A-traicao-da-COB-pavimenta-o-caminho-para-o-saque-de-minerais-litio-e-terras-raras-61653",
+          "author": "Correspondente LID Bolívia",
+          "description": "Há horas, Mario Argollo concretizou a traição, que já havia sido antecipada pelos dirigentes sindicais das minas de Huanuni e Colquiri dias antes. São mais de 40 pontos de bloqueio ainda firmes nas estradas do país, nos quais o movimento camponês e os autoconvocados dos bairros populares têm colocado o corpo para resistir durante mais de 50 dias.\nMatérias\n\n/ Internacional, Central Obrera Boliviana (COB), Greve geral na Bolívia, Rebelião popular na Bolívia",
+          "link": "https://www.esquerdadiario.com.br/A-traicao-da-COB-pavimenta-o-caminho-para-o-saque-de-minerais-litio-e-terras-raras-61653",
+          "publishedOn": "2026-06-20T16:38:56.000Z",
+          "wordCount": 8926,
+          "title": "A traição da COB pavimenta o caminho para o saque de minerais, lítio e terras raras",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/photo_2026-06-20_09-34-31-490d8-2.jpg?1781973532"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Paulinho-Freire-que-recebe-R-41-6-mil-oferece-apenas-R-900-e-nenhum-direito-a-educadores-de",
           "author": "Redação",
           "description": "Bolsonarista Paulinho Freire recebe R$ 41,6 mil, mas quer educadores de crianças com deficiência e TEA trabalhando por R$ 900\n19-06-2026\n\n/ Educação, Educação, Rio Grande do Norte, Nordeste, Rio Grande do Norte, Natal, Brasil, Natal, Paulinho Freire",
           "link": "https://www.esquerdadiario.com.br/Paulinho-Freire-que-recebe-R-41-6-mil-oferece-apenas-R-900-e-nenhum-direito-a-educadores-de",
           "publishedOn": "2026-06-19T18:48:05.000Z",
-          "wordCount": 7863,
+          "wordCount": 7868,
           "title": "Paulinho Freire, que recebe R$ 41,6 mil, oferece apenas R$ 900 e nenhum direito a educadores de crianças com deficiência e TEA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image_1_.png.jpg?1781894766"
         },
@@ -242,7 +235,7 @@
           "description": "Reproduzimos a entrevista que a mídia francesa RadioFrance, que realizou com Myriam Bregman, que está em Paris participando das manifestações em defesa de Anasse Kazib, porta-voz do Révolution Permanente, perseguido pelo Estado francês por defender a Palestina. \n Advogada de direitos humanos, ex-candidata à presidência e figura da Frente de Esquerda e dos Trabalhadores-Unidade (FIT-U), Guillaume Erner recebe hoje (…)\n16-06-2026\n\n/ Internacional, França, Myriam Bregman, Anasse Kazib",
           "link": "https://www.esquerdadiario.com.br/RadioFrance-Myriam-Bregman-a-oposicao-de-extrema-esquerda-na-era-Milei",
           "publishedOn": "2026-06-19T14:03:14.000Z",
-          "wordCount": 8106,
+          "wordCount": 8102,
           "title": "RadioFrance: \"Myriam Bregman, a oposição de extrema esquerda na era Milei\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2a1ab0ab5eee5d3e192494a9db3f49ede7bf0c60-a1425.png?1781877701"
         },
@@ -302,7 +295,7 @@
           "description": "A haitiana Daphy Michel foi presa em setembro por estar gritando sozinha na rua. Seis meses depois foi solta e abandonada em pleno inverno norte-americano.\n16-06-2026\n\n/ Internacional, EUA, Donald Trump, Xenofobia, Imigrantes, Haiti, ICE",
           "link": "https://www.esquerdadiario.com.br/Imigrante-haitiana-morre-de-hipotermia-apos-prisao-manicomial-seguida-de-abandono-pelo-ICE",
           "publishedOn": "2026-06-18T17:33:12.000Z",
-          "wordCount": 8078,
+          "wordCount": 8074,
           "title": "Imigrante haitiana morre de hipotermia após prisão manicomial seguida de abandono pelo ICE",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-18_at_14.31_31.jpg?1781803908"
         },
@@ -312,7 +305,7 @@
           "description": "Mais uma vez, uma mulher foi vítima da violência misógina e machista dentro do Metrô de São Paulo. Na estação Parada Inglesa, linha 1 azul, uma jovem de 24 anos foi brutalmente agredida por um homem na plataforma enquanto retornava do trabalho na última segunda-feira, chegando a desmaiar em razão das agressões sofridas. O avanço da precarização dos transportes em SP hoje expõe passageiras e trabalhadoras à cada vez mais violência no dia a dia. \n Imagens divulgadas nas redes sociais mostram (…)\n16-06-2026\n\n/ Classe trabalhadora, Gênero e sexualidade, São Paulo (capital), Violência contra a Mulher, Metrô, Privatização, Feminicídio, Privatização dos transportes, São Paulo, Privatização do metrô, Metrô de SP, Metrô de São Paulo",
           "link": "https://www.esquerdadiario.com.br/Mulher-e-espancada-no-Metro-SP-a-violencia-contra-as-mulheres-e-as-privatizacoes-caminham-juntas",
           "publishedOn": "2026-06-18T16:45:17.000Z",
-          "wordCount": 8553,
+          "wordCount": 8558,
           "title": "Mulher é espancada no Metrô-SP: a violência contra as mulheres e as privatizações caminham juntas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000468486.jpg?1781800952"
         },
@@ -322,7 +315,7 @@
           "description": "A poucos dias do julgamento contra Anasse Kazib — porta-voz da organização irmã do MRT, Révolution Permanente — por sua solidariedade com a Palestina, Myriam Bregman participará neste 18 de junho de um importante evento em Saint-Denis, periferia de Paris, junto a Kazib, sua advogada Elsa Marcel e outros militantes perseguidos pelo Estado francês, como Rami Shaath. O ato terminará com um concerto do rapper Médine, para afirmar: apoiar a Palestina não é um crime. \n Myriam Bregman, deputada (…)\nMatérias\n\n/ Internacional, França, Myriam Bregman, Anasse Kazib, Xenofobia França, Racismo França, Palestina Livre",
           "link": "https://www.esquerdadiario.com.br/Myriam-Bregman-em-Paris-junto-a-Anasse-Kazib-em-importante-evento-contra-a-criminalizacao-do-apoio",
           "publishedOn": "2026-06-18T16:39:54.000Z",
-          "wordCount": 8368,
+          "wordCount": 8373,
           "title": "Myriam Bregman em Paris: junto a Anasse Kazib em importante evento contra a criminalização do apoio à Palestina",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/myriam_y_anasse_good-9a91e.jpg?1781800762"
         },
@@ -362,7 +355,7 @@
           "description": "Enquanto Raquel Lyra compra sucatas para o metrô, alegando que são trens seminovos, um trabalhador do metrô morreu e dois trens descarrilaram na última semana. \n A realidade do Metrô do Recife (Metrorec) tem se mostrado uma verdadeira roleta-russa para os trabalhadores e para a população que depende do transporte público. Em um intervalo de menos de uma semana, o cenário de sucateamento sistemático cobrou o seu preço mais alto e cruel: a vida de um trabalhador, somada a dois graves (…)\n16-06-2026\n\n/ Classe trabalhadora, Metrô, Precarização do Transporte Público, Pernambuco, Metrô Recife, Raquel Lyra",
           "link": "https://www.esquerdadiario.com.br/Em-menos-de-uma-semana-Metro-do-Recife-tem-um-trabalhador-morto-eletrocutado-e-dois",
           "publishedOn": "2026-06-16T23:49:06.000Z",
-          "wordCount": 8297,
+          "wordCount": 8292,
           "title": "Em menos de uma semana, Metrô do Recife tem um trabalhador morto eletrocutado e dois descarrilhamentos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1781222032944-oficial39.jpg?1781653677"
         },
@@ -372,7 +365,7 @@
           "description": "Mais um \"presente\" de Romeu Zema (Novo) ao povo de Minas Gerais, a Copasa foi privatizada a preço de banana, e a maior parte da empresa foi entregue para a Equatorial Energia, que ja controla a Sabesp, sendo responsável pela precarização do serviço de água em São Paulo. \n Mais um \"presente\" de Romeu Zema (Novo) ao povo de Minas Gerais, a Copasa foi privatizada a preço de banana, e a maior parte da empresa foi entregue para a Equatorial Energia, que ficará como a controladora. Essa é mesma (…)\n16-06-2026\n\n/ Política, Minas Gerais, Privatização da Água, Romeu Zema, Copasa, Mateus Simões",
           "link": "https://www.esquerdadiario.com.br/Copasa-e-vendida-para-a-mesma-controladora-da-Sabesp-recorde-de-reclamacoes-em-Sao-Paulo",
           "publishedOn": "2026-06-16T23:42:35.000Z",
-          "wordCount": 8254,
+          "wordCount": 8257,
           "title": "Copasa é vendida para a mesma controladora da Sabesp, recorde de reclamações em São Paulo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/69b9cca5-copasa-800x450.webp?1781653246"
         },
@@ -382,7 +375,7 @@
           "description": "Prefeitura de extrema direita de Natal quer 1.000 voluntários na educação enquanto prefeito recebe R$ 41,6 mil\n16-06-2026\n\n/ Educação, Educação, Rio Grande do Norte, Nordeste, Rio Grande do Norte, Natal, Extrema direita, bolsonarismo, Brasil, Natal, União Brasil, Paulinho Freire",
           "link": "https://www.esquerdadiario.com.br/Bolsonarista-Paulinho-Freire-quer-mil-voluntarios-na-educacao-enquanto-recebe-R-41-6-mil",
           "publishedOn": "2026-06-16T20:27:02.000Z",
-          "wordCount": 10005,
+          "wordCount": 10010,
           "title": "Bolsonarista Paulinho Freire quer mil voluntários na educação enquanto recebe R$ 41,6 mil",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/chatgpt_image_16_de_jun__de_2026_17_23_08_1_.png?1781641556"
         },
@@ -412,7 +405,7 @@
           "description": "Enquanto se apresenta como defensora do povo boliviano em luta, a direção do partido silencia sobre um fato central: o papel desempenhado pelo governo Lula, do qual o PSOL faz parte, no apoio ao governo de Rodrigo Paz que quer massacrar a rebelião boliviana.\n16-06-2026\n\n/ Bolivia, PSOL, Central Obrera Boliviana (COB), Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Nota-cinica-do-PSOL-quer-esconder-o-papel-de-Lula-na-ajuda-a-Rodrigo-Paz-para-reprimir-a-rebeliao",
           "publishedOn": "2026-06-16T16:13:23.000Z",
-          "wordCount": 8538,
+          "wordCount": 8531,
           "title": "Nota cínica do PSOL quer esconder o papel de Lula na ajuda a Rodrigo Paz para reprimir a rebelião boliviana",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_bolivia_hoy.jpg?1781626399"
         },
@@ -422,7 +415,7 @@
           "description": "CEO da mineradora Itaminas (que tinha, até o ano passado, Daniel Vorcaro como sócio) é, ao mesmo tempo, presidente da Associação O Libertador.\n16-06-2026\n\n/ Política, Meio Ambiente, Minas Gerais, Mineração, Crise ecológica, Destruição do meio ambiente, Daniel Vorcaro",
           "link": "https://www.esquerdadiario.com.br/Ex-socio-de-Vorcaro-preside-ONG-que-pode-eleger-conselho-ambiental-em-MG",
           "publishedOn": "2026-06-16T13:58:50.000Z",
-          "wordCount": 7978,
+          "wordCount": 7971,
           "title": "Ex-sócio de Vorcaro preside ONG que pode eleger conselho ambiental em MG",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-16_at_10.48_12.jpg?1781617917"
         }
@@ -655,12 +648,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=258102",
+          "author": "Raissa Neves",
+          "description": "A presidente do México, Claudia Sheinbaum, expressou nesta sexta-feira (19/06) satisfação com as recentes transformações econômicas e sociais aprovadas pela Assembleia Nacional de Cuba. Durante sua coletiva de imprensa matinal, a mandatária mexicana enfatizou que todo o esforço entre as autoridades e o povo cubano “deve ser reconhecido”, já que a ilha decidiu ampliar a […]\nO post Claudia Sheinbaum elogia reformas econômicas aprovadas por Cuba apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/claudia-sheinbaum-elogia-reformas-economicas-aprovadas-por-cuba/",
+          "publishedOn": "2026-06-20T17:10:17.000Z",
+          "wordCount": 2968,
+          "title": "Claudia Sheinbaum elogia reformas econômicas aprovadas por Cuba",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/52297347450_a43a03fb89_c-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258140",
+          "author": "Tabitha Ramalho",
+          "description": "A empresa Allianz, principal patrocinadora do Palmeiras (2013-2026), tornou-se a maior financiadora estrangeira de Israel, detendo mais títulos do governo israelense — que são emitidos pelos governos para arrecadar dinheiro para gastos públicos ou para pagar dívidas — do que os EUA, o Reino Unido, a França e todos os outros países juntos. A gigante […]\nO post Ex-patrocinadora do Palmeiras é a principal investidora em títulos israelenses, aponta relatório apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/ex-patrocinadora-do-palmeiras-e-principal-investidora-em-titulos-israelenses-aponta-relatorio/",
+          "publishedOn": "2026-06-20T16:44:14.000Z",
+          "wordCount": 3737,
+          "title": "Ex-patrocinadora do Palmeiras é a principal investidora em títulos israelenses, aponta relatório",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/img-sobre-a-nossa-historia-min.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258131",
+          "author": "Tabitha Ramalho",
+          "description": "Após sete semanas de bloqueios e manifestações, o presidente boliviano Rodrigo Paz declarou neste sábado (20/06) estado de emergência em todo o país. Através de sua conta no X, o líder disse que a medida “não tem a intenção de interromper a normalidade, mas sim de restaurá-la”, e explicou que as interrupções prolongadas nas estradas […]\nO post Presidente da Bolívia decreta estado de emergência após sete semanas de protestos e bloqueios apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/presidente-da-bolivia-decreta-estado-de-emergencia-apos-sete-semanas-de-protestos-e-bloqueios/",
+          "publishedOn": "2026-06-20T15:16:21.000Z",
+          "wordCount": 3362,
+          "title": "Presidente da Bolívia decreta estado de emergência após sete semanas de protestos e bloqueios",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/g-kfkvkwiaexaet.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258132",
+          "author": "Pedro Marin",
+          "description": "Após uma trajetória de reconhecimento em festivais nacionais e internacionais, chega aos cinemas o longa-metragem brasileiro Criadas, com reflexões sobre colorismo, memória, heranças coloniais e suas influências nas relações entre mulheres negras no país. O filme narra o reencontro entre duas primas que cresceram juntas na mesma casa, mas ocupando lugares radicalmente diferentes. Embora literalmente […]\nO post ‘Criadas’ chega aos cinemas com reflexão sobre heranças coloniais no Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/cultura/criadas-chega-aos-cinemas-com-reflexao-sobre-herancas-coloniais-no-brasil/",
+          "publishedOn": "2026-06-20T14:59:02.000Z",
+          "wordCount": 5773,
+          "title": "‘Criadas’ chega aos cinemas com reflexão sobre heranças coloniais no Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/rsz_1criadas_006_00096701.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=258125",
           "author": "Tabitha Ramalho",
           "description": "O Comando Central do Irã, o Quartel-General Central de Khatam al-Anbiya, anunciou neste sábado (20/06) o fechamento do Estreito de Ormuz, em resposta ao que chamou de violação “clara” por parte dos Estados Unidos do primeiro ponto do memorando para o fim da guerra. Em um comunicado citado pela mídia iraniana, o corpo militar justifica […]\nO post Irã anuncia fechamento de Ormuz após ‘flagrantes violações’ de Israel no Líbano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-anuncia-fechamento-de-ormuz-apos-flagrantes-violacoes-de-israel-no-libano/",
           "publishedOn": "2026-06-20T14:15:23.000Z",
-          "wordCount": 3293,
+          "wordCount": 3292,
           "title": "Irã anuncia fechamento de Ormuz após ‘flagrantes violações’ de Israel no Líbano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/strase_von_hormuz.jpg"
         },
@@ -670,7 +703,7 @@
           "description": "O candidato de esquerda Roberto Sánchez liderou na noite desta sexta-feira (19/06) uma manifestação de contestação da contagem de votos do segundo turno no Peru, no qual enfrentou a candidata de direita Keiko Fujimori, que está à frente na apuração. Sánchez, que está perto de perder o segundo turno da eleição presidencial para Fujimori, marchou […]\nO post Sánchez lidera marcha da esquerda que contesta apuração no Peru apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/sanchez-lidera-marcha-da-esquerda-que-contesta-apuracao-no-peru/",
           "publishedOn": "2026-06-20T13:36:37.000Z",
-          "wordCount": 3055,
+          "wordCount": 3056,
           "title": "Sánchez lidera marcha da esquerda que contesta apuração no Peru",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/sanchez.jpg"
         },
@@ -680,7 +713,7 @@
           "description": "O presidente dos EUA, Donald Trump, voltou a ameaçar com uma possível intervenção militar em Cuba, que ele considera viável devido à proximidade geográfica, embora tenha apontado diferenças em relação à Venezuela, afirmando que “a diferença é que a Venezuela tem petróleo, Cuba não”. Em declarações à Axios, o presidente republicano afirmou que “Cuba está […]\nO post Trump volta ameaçar Cuba com intervenção militar apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/trump-volta-ameacar-cuba-com-intervencao-militar/",
           "publishedOn": "2026-06-20T13:26:37.000Z",
-          "wordCount": 3029,
+          "wordCount": 3030,
           "title": "Trump volta ameaçar Cuba com intervenção militar",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55295247760_c46f8e8016_c.jpg"
         },
@@ -690,7 +723,7 @@
           "description": "A Noruega lançou nesta sexta-feira (19/06) uma consulta pública sobre um projeto que prevê a proibição no país do comércio com assentamentos israelenses em terras palestinas. A proposta sugere impedir a importação de bens produzidos por colonos que ocupam terras da Cisjordânia, que deveriam pertencer à população palestina, mas que foram tomadas com o apoio […]\nO post Noruega realiza consulta pública sobre projeto para banir comércio com assentamentos israelenses apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/noruega-realiza-consulta-publica-sobre-projeto-para-banir-comercio-com-assentamentos-israelenses/",
           "publishedOn": "2026-06-19T21:20:00.000Z",
-          "wordCount": 3041,
+          "wordCount": 3040,
           "title": "Noruega realiza consulta pública sobre projeto para banir comércio com assentamentos israelenses",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/flags.jpg"
         },
@@ -700,7 +733,7 @@
           "description": "Andy Burnham, o principal rival trabalhista do primeiro‑ministro britânico, Keir Starmer, foi eleito deputado na quinta‑feira (19/06), em uma votação crucial que não lhe garante apenas uma cadeira no Parlamento britânico. A vitória esmagadora do chamado “Rei do norte” abre caminho para que ele desafie a liderança do chefe do governo do Reino Unido. Burnham, […]\nO post Prefeito de Manchester ameaça mandato de Keir Starmer no Reino Unido; saiba quem é apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/prefeito-de-manchester-ameaca-mandato-de-keir-starmer-no-reino-unido-saiba-quem-e/",
           "publishedOn": "2026-06-19T20:40:39.000Z",
-          "wordCount": 3892,
+          "wordCount": 3887,
           "title": "Prefeito de Manchester ameaça mandato de Keir Starmer no Reino Unido; saiba quem é",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/andy.jpg"
         },
@@ -710,51 +743,17 @@
           "description": "Há 82 anos, em 19 de junho de 1944 nascia o cantor, compositor, escritor e dramaturgo Chico Buarque de Holanda. Considerado um dos maiores ícones da música popular brasileira (MPB), ele se notabilizou pelo lirismo de suas obras, convertidas em clássicos do cancioneiro nacional, marcadas pela expressão poética e pela afirmação da arte como agente […]\nO post Chico Buarque: 82 anos de poesia, música e resistência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/chico-buarque-82-anos-de-poesia-musica-e-resistencia/",
           "publishedOn": "2026-06-19T20:10:03.000Z",
-          "wordCount": 4585,
+          "wordCount": 4587,
           "title": "Chico Buarque: 82 anos de poesia, música e resistência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/image-1200-19e8f43b56a84835cf8f59466b4f38a3.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258097",
-          "author": "Raissa Neves",
-          "description": "As alegações de alguns meios de comunicação sobre o suposto fechamento do Estreito de Ormuz são infundadas e não correspondem à realidade, declarou nesta sexta-feira (19/06) o porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei. “As Forças Armadas da República Islâmica do Irã, em conformidade com o memorando de entendimento para o fim […]\nO post Irã nega fechamento do Estreito de Ormuz e afirma que navegação segue normal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-nega-fechamento-do-estreito-de-ormuz-e-afirma-que-navegacao-segue-normal/",
-          "publishedOn": "2026-06-19T19:34:12.000Z",
-          "wordCount": 3133,
-          "title": "Irã nega fechamento do Estreito de Ormuz e afirma que navegação segue normal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/images-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258082",
-          "author": "Rocio Paik",
-          "description": "O Pentágono precisa de US$ 80 bilhões (aproximadamente R$ 410 bilhões) para cobrir os custos da guerra o próprio governo promoveu contra o Irã, bem como outros projetos de lei que não têm relação com o conflito. A informação foi comunicada pelo vice-secretário de Defesa dos Estados Unidos, Stephen Feinberg, aos legisladores por meio de […]\nO post Governo Trump precisa de R$ 410 bilhões para cobrir custos de guerra com Irã, diz jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/governo-trump-precisa-de-r-410-bilhoes-para-cobrir-custos-de-guerra-com-ira-diz-jornal/",
-          "publishedOn": "2026-06-19T18:50:41.000Z",
-          "wordCount": 3211,
-          "title": "Governo Trump precisa de R$ 410 bilhões para cobrir custos de guerra com Irã, diz jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/169d18cb-e985-4716-9243-2f09017e15e6-captura-de-tela-2026-06-17-as-20.00.39.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258091",
-          "author": "Victor Farinelli",
-          "description": "A primeira-ministra da Itália, Giorgia Meloni, repudiou as declarações do presidente dos Estados Unidos, Donald Trump, sobre ela supostamente ter implorado para tirar uma foto com ele durante a cúpula de chefes de Estado do G7, realizada na cidade francesa de Évian. A polêmica surgiu nesta mesma sexta-feira (19/06), quando Trump afirmou que “ela (Meloni) […]\nO post Meloni nega ter ‘implorado’ por foto com Trump: ‘declarações completamente inventadas’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/meloni-nega-ter-implorado-por-foto-com-trump-declaracoes-completamente-inventadas/",
-          "publishedOn": "2026-06-19T18:10:47.000Z",
-          "wordCount": 2987,
-          "title": "Meloni nega ter ‘implorado’ por foto com Trump: ‘declarações completamente inventadas’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/domel.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258064",
-          "author": "Rocio Paik",
-          "description": "A Federação de Futebol do Irã (FFIRI, na sigla em inglês) anunciou que apresentará uma queixa à FIFA contra as restrições logísticas impostas à sua seleção durante os preparativos para as partidas da Copa do Mundo, de acordo com a agência estatal IRNA nesta sexta-feira (19/06). Membros da equipe já haviam solicitado publicamente mais apoio […]\nO post Irã apresenta queixa formal à FIFA contra ‘restrições logísticas’ nos jogos da Copa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/ira-apresenta-queixa-formal-a-fifa-contra-restricoes-logisticas-nos-jogos-da-copa/",
-          "publishedOn": "2026-06-19T17:30:09.000Z",
-          "wordCount": 3290,
-          "title": "Irã apresenta queixa formal à FIFA contra ‘restrições logísticas’ nos jogos da Copa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/ira-copa.jpg"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -1045,7 +1044,7 @@
           "description": "No centenário de um dos mais importantes escritos marxistas do século XX, Rita Matos Coitinho e Theófilo Rodrigues discutem a recepção dessas ideias de Gramsci no Brasil e sua atualidade.",
           "link": "https://blogdaboitempo.com.br/2026/06/19/cem-anos-da-questao-meridional-de-gramsci/",
           "publishedOn": "2026-06-19T11:00:00.000Z",
-          "wordCount": 13085,
+          "wordCount": 13229,
           "title": "Cem anos da Questão Meridional, de Gramsci",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-18.png"
         },
@@ -1055,7 +1054,7 @@
           "description": "A pedido do Blog da Boitempo, o crítico Alysson Oliveira indica 10 filmes brasileiros disponíveis gratuitamente no novo streaming do Ministério da Cultura. Obras de diversos períodos e gêneros, compondo um olhar diverso sobre o país.",
           "link": "https://blogdaboitempo.com.br/2026/06/18/tela-brasil-para-alem-do-obvio/",
           "publishedOn": "2026-06-18T11:00:00.000Z",
-          "wordCount": 11809,
+          "wordCount": 11956,
           "title": "Tela Brasil para além do óbvio",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-11.png"
         },
@@ -1065,7 +1064,7 @@
           "description": "José Paulo Netto: \"Como toda qualificação teórico-social fecunda, a de Ziegler alimentou-se de uma intervenção social que desbordou largamente os muros da academia – ele jamais exercitou o academicismo. Seu protagonismo político-social nunca se restringiu às dimensões nacionais: crítico contundente do capitalismo mundializado, [...] compreendeu como poucos, e solidariamente, as lutas dos povos oprimidos da África, da Ásia e da América Latina.\"",
           "link": "https://blogdaboitempo.com.br/2026/06/17/uma-nota-sobre-jean-ziegler-1934-2026/",
           "publishedOn": "2026-06-17T16:28:21.000Z",
-          "wordCount": 12339,
+          "wordCount": 12483,
           "title": "Uma nota sobre Jean Ziegler (1934-2026)",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-10.png"
         },
