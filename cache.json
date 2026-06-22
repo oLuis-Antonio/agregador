@@ -33,6 +33,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a3937f0bf4df5036f19b798",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Ao narrar os sonhos, conquistas e frustrações de uma família negra em busca de ascensão social, Eliana Alves Cruz reafirma uma questão atual: é possível derrotar o racismo sem enfrentar o capitalismo?",
+          "link": "https://opiniaosocialista.com.br/meridiana-e-a-ilusao-da-ascensao-por-que-malcolm-x-continua-atual/",
+          "publishedOn": "2026-06-22T13:45:02.000Z",
+          "wordCount": 1563,
+          "title": "‘Meridiana’ e a ilusão da ascensão social no capitalismo: por que Malcolm X segue atual?",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/meridiana_2.webp"
+        },
+        {
           "id": "6a35c56199f729033ffeb938",
           "author": "Érika Andreassy",
           "description": "O árbitro australiano Shaun Evans apareceu fazendo um gesto que muitos identificaram imediatamente como uma referência ao símbolo “white power\"",
@@ -171,16 +181,6 @@
           "wordCount": 1958,
           "title": "Wilson Honório: o vermelho mais quente do arco-íris",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/wilson-parada-1997.webp"
-        },
-        {
-          "id": "6a334e9499f729033ffeb73b",
-          "author": "PSTU-RS",
-          "description": "Alice Seben Campana\nNo dia 5 de junho, comemoramos o Dia Mundial do Meio Ambiente. A origem da data está vinculada à Conferência de Estocolmo (Suécia) realizada em 1972. Nessa conferência, foram elaborados 26 princípios como um guia ou “inspira&",
-          "link": "https://opiniaosocialista.com.br/dia-mundial-do-meio-ambiente-projeto-colapso/",
-          "publishedOn": "2026-06-18T01:52:38.000Z",
-          "wordCount": 1744,
-          "title": "Dia Mundial do Meio Ambiente: Projeto Colapso",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/arroio-do-meio-rs-18-de-maio.webp"
         }
       ]
     },
@@ -190,12 +190,62 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Leite-adiou-o-leilao-das-escolas-e-preciso-aumentar-a-mobilizacao-e-construir-uma-greve-em-defesa",
+          "author": "Redação",
+          "description": "Organize sua escola contra o leilão da educação e junte-se a nós para exigir do CPERS uma grande campanha!\n22-06-2026",
+          "link": "https://www.esquerdadiario.com.br/Leite-adiou-o-leilao-das-escolas-e-preciso-aumentar-a-mobilizacao-e-construir-uma-greve-em-defesa",
+          "publishedOn": "2026-06-22T19:11:02.000Z",
+          "wordCount": 8322,
+          "title": "Leite adiou o leilão das escolas, é preciso aumentar a mobilização e construir uma greve em defesa da educação pública!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/img-20260618-wa0019.jpg?1782155298"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Alcolumbre-e-patroes-querem-excluir-70-trabalhadores-do-Brasil-do-fim-da-6X1",
+          "author": "Redação",
+          "description": "Proposta de PEC apresentada no Senado pelo bolsonarismo quer retirar os trabalhadores do setor de serviços da escala 6x1. Isso representa estatisticamente 70% dos trabalhadores do país hoje, e até mais em alguns estados. É uma PEC reacionária, cujo objetivo é tornar anular ao máximo os efeitos práticos de uma eventual aprovação do fim da 6x1. É urgente parar o país com uma greve geral que imponha o fim da 6x1!\n22-06-2026\n\n/ Classe trabalhadora, Política, Senado, Reforma Trabalhista, Davi Alcolumbre, jornada 6x1",
+          "link": "https://www.esquerdadiario.com.br/Alcolumbre-e-patroes-querem-excluir-70-trabalhadores-do-Brasil-do-fim-da-6X1",
+          "publishedOn": "2026-06-22T16:49:40.000Z",
+          "wordCount": 8431,
+          "title": "Alcolumbre e patrões querem excluir 70% trabalhadores do Brasil do fim da 6X1",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/imagem_materia-2-960x540.webp?1782146918"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Keir-Starmer-anuncia-sua-renuncia-apos-dois-anos-de-ajuste-impopularidade-e-impotencia-frente-a",
+          "author": "Juan Andrés Gallardo",
+          "description": "O primeiro ministro britânico anunciou sua renúncia nesta segunda, encurralado por uma impopularidade recorde e a pressão interna de seu próprio partido. Sua gestão, marcada pela continuidade da austeridade conservadora e o apoio incondicional ao genocídio em Gaza, deixa o trabalhismo em uma crise profunda, enquanto a extrema direita de Nigel Farage ganha terreno.\n22-06-2026\n\n/ Internacional, Imigração, Jeremy Corbyn, Reino Unido, Xenofobia, Inglaterra, #FreePalestine, Olhos em Gaza, Reform UK, Keir Starmer, Your Party, Andy Burnham",
+          "link": "https://www.esquerdadiario.com.br/Keir-Starmer-anuncia-sua-renuncia-apos-dois-anos-de-ajuste-impopularidade-e-impotencia-frente-a",
+          "publishedOn": "2026-06-22T16:47:35.000Z",
+          "wordCount": 8542,
+          "title": "Keir Starmer anuncia sua renúncia após dois anos de ajuste, impopularidade e impotência frente à extrema direita",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_keir_starmer.jpeg.jpg?1782146633"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/4-pontos-para-enfrentar-a-precarizacao-na-UFRGS-e-lutar-por-um-DCE-dos-estudantes-e-nao-da-reitoria",
+          "author": "Faísca - UFRGS",
+          "description": "Nas últimas semanas, a UFRGS presenciou dois trancassos dos técnicos grevistas, terceirizados em luta por não receber seu salário, RU e Casa do Estudante do centro sem luz e inúmeras denúncias de precarização da infraestrutura e da permanência estudantil. Como enfrentar essa crise e por que o DCE segue atuando mais como obstáculo à luta estudantil contra os cortes do que ferramenta de mobilização? \n O recente não pagamento do salário dos terceirizados da MultService e o apagão no RU do (…)\n22-06-2026\n\n/ Juventude, Movimento Estudantil, Educação, Universidades Federais, UFRGS, Rio Grande do Sul, Crise na Educação, Permanência Estudantil, Unificar juventude e classe trabalhadora, Cortes na Educação",
+          "link": "https://www.esquerdadiario.com.br/4-pontos-para-enfrentar-a-precarizacao-na-UFRGS-e-lutar-por-um-DCE-dos-estudantes-e-nao-da-reitoria",
+          "publishedOn": "2026-06-22T15:17:33.000Z",
+          "wordCount": 10085,
+          "title": "4 pontos para enfrentar a precarização na UFRGS e lutar por um DCE dos estudantes e não da reitoria",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-22_at_11.23_29.jpg?1782141359"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Sionista-petista-Jacques-Wagner-se-compromete-com-Daniel-Vorcaro",
+          "author": "Redação",
+          "description": "Com Jacquer Wagner na mira da PF, PT pode acabar sendo tragado para o núcleo das investigações do caso Master. Um partido burguês com base de trabalhadores, que assumiu os métodos espúrios de governabilidade capitalista, tem o seu líder no Senado associado ao maior escândalo de corrupção da Nova República. Um sionista declarado e político responsável pela Bahia ter a polícia que mais mata a juventude negra no país, Jacques Wagner também era amigo de Daniel Vorcaro e se tornou um problema para o governo Lula.\n22-06-2026\n\n/ Política, PT, Governo Lula, Jaques Wagner (PT), Banco Master, Daniel Vorcaro",
+          "link": "https://www.esquerdadiario.com.br/Sionista-petista-Jacques-Wagner-se-compromete-com-Daniel-Vorcaro",
+          "publishedOn": "2026-06-22T14:34:31.000Z",
+          "wordCount": 8610,
+          "title": "Sionista petista Jacques Wagner se compromete com Daniel Vorcaro",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2022947777-abre-perfil-brasil-2026-06-18t104618334.jpg.webp?1782138826"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Segundo-jornalista-Flavio-Bolsonaro-se-encontrou-de-novo-com-Vorcaro",
           "author": "Redação",
           "description": "O jornalista Lauro Jardim afirmou, em coluna publicada neste domingo, que houve pelo menos um segundo encontro entre Flávio Bolsonaro e o banqueiro Daniel Vorcaro. Flávio foi pego na mentira mais uma vez?\n22-06-2026\n\n/ Política, Polícia Federal, Flavio Bolsonaro, Banco Master, Daniel Vorcaro, Dark Horse",
           "link": "https://www.esquerdadiario.com.br/Segundo-jornalista-Flavio-Bolsonaro-se-encontrou-de-novo-com-Vorcaro",
           "publishedOn": "2026-06-22T13:07:09.000Z",
-          "wordCount": 7856,
+          "wordCount": 7867,
           "title": "Segundo jornalista, Flávio Bolsonaro se encontrou de novo com Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flvasd.jpg?1782133590"
         },
@@ -205,7 +255,7 @@
           "description": "Os servidores da Universidade Estadual de Campinas estão em greve desde o dia 11 de maio, contra o arrocho salarial de mais de uma década e contra a precarização do trabalho. Como medida de solidariedade, os trabalhadores estão construindo uma Campanha do Agasalho, recolhendo doações durante as atividades de greve. Eles estão aceitando agasalhos, cobertores ou calçados para serem repassados àqueles que precisam. \n19-06-2026\n\n/ Unicamp, Greve",
           "link": "https://www.esquerdadiario.com.br/Trabalhadores-em-greve-fazem-Campanha-do-Agasalho-na-Unicamp",
           "publishedOn": "2026-06-21T20:31:42.000Z",
-          "wordCount": 7684,
+          "wordCount": 7694,
           "title": "Trabalhadores em greve fazem Campanha do Agasalho na Unicamp",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/img-20260621-wa0006.jpg?1782073893"
         },
@@ -215,7 +265,7 @@
           "description": "Segundo relata do jovem, ele teria sido abordado por 3 sujeitos que o seguraram e tentaram extrair informações dele.\nMatérias\n\n/ Bolívia, Política Bolívia, Central Obrera Boliviana (COB), Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Agrediram-o-companheiro-da-base-8-por-motivos-politicos",
           "publishedOn": "2026-06-21T15:32:48.000Z",
-          "wordCount": 7741,
+          "wordCount": 7755,
           "title": "Agrediram o companheiro da base 8 por motivos políticos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/cabildo_puente_vela_el_alto_h-89965-ae5db.jpg?1782055944"
         },
@@ -225,7 +275,7 @@
           "description": "Paz finalmente recorre ao estado de exceção que o parlamento de direita votou e aprovou para ele. Busca conter as mobilizações, que já somam mais de 51 dias, na base da repressão.\nMatérias\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/Bolivia-Abaixo-o-Estado-de-Excecao",
           "publishedOn": "2026-06-21T15:26:20.000Z",
-          "wordCount": 7894,
+          "wordCount": 7908,
           "title": "Bolívia: Abaixo o Estado de Exceção!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000288130-2-9c6e6-906a9.jpg?1782055538"
         },
@@ -235,7 +285,7 @@
           "description": "A SEE-MG foi denunciada ao TCE-MG por irregularidades em contratos firmados para a aquisição de kits escolares destinados à rede estadual de ensino de uma empresa que já acumula investigações e processos judiciais. \n A Secretaria de Estado de Educação de Minas Gerais (SEE-MG) de Zema e Simões foi denunciada ao Tribunal de Contas do Estado de Minas Gerais (TCE-MG) por irregularidades em contratos firmados para a aquisição de kits escolares destinados à rede estadual de ensino. \n19-06-2026\n\n/ Educação, Minas Gerais, Romeu Zema, Belo Horizonte , Rossieli Soares, Mateus Simões",
           "link": "https://www.esquerdadiario.com.br/SEE-MG-de-Zema-e-Simoes-e-denunciada-por-contrato-de-R-40-7-milhoes-em-kits-escolares",
           "publishedOn": "2026-06-20T21:51:04.000Z",
-          "wordCount": 8663,
+          "wordCount": 8686,
           "title": "SEE-MG de Zema e Simões é denunciada por contrato de R$ 40,7 milhões em kits escolares",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/50-img_9853.jpg?1781992169"
         },
@@ -245,7 +295,7 @@
           "description": "Após 50 dias de mobilização, a COB finalmente dá as costas aos camponeses e autoconvocados que sustentaram longas jornadas de cabildos, bloqueios e marchas: uma traição aberta.\n19-06-2026\n\n/ Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Greve geral na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/As-Assembleias-decidiram-Bolivia-nao-se-vende-A-traicao-da-COB-deixa-camponeses-e-autoconvocados-a",
           "publishedOn": "2026-06-20T16:56:57.000Z",
-          "wordCount": 8096,
+          "wordCount": 8110,
           "title": "As Assembleias decidiram: Bolívia não se vende! A traição da COB deixa camponeses e autoconvocados à própria sorte diante do reacionário governo de Rodrigo Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/rcp3lvjk6neohdi4qrisorweni.jpg?1781974573"
         },
@@ -255,7 +305,7 @@
           "description": "Há horas, Mario Argollo concretizou a traição, que já havia sido antecipada pelos dirigentes sindicais das minas de Huanuni e Colquiri dias antes. São mais de 40 pontos de bloqueio ainda firmes nas estradas do país, nos quais o movimento camponês e os autoconvocados dos bairros populares têm colocado o corpo para resistir durante mais de 50 dias.\nMatérias\n\n/ Internacional, Central Obrera Boliviana (COB), Greve geral na Bolívia, Rebelião popular na Bolívia",
           "link": "https://www.esquerdadiario.com.br/A-traicao-da-COB-pavimenta-o-caminho-para-o-saque-de-minerais-litio-e-terras-raras-61653",
           "publishedOn": "2026-06-20T16:38:56.000Z",
-          "wordCount": 8908,
+          "wordCount": 8922,
           "title": "A traição da COB pavimenta o caminho para o saque de minerais, lítio e terras raras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/photo_2026-06-20_09-34-31-490d8-2.jpg?1781973532"
         },
@@ -265,7 +315,7 @@
           "description": "Bolsonarista Paulinho Freire recebe R$ 41,6 mil, mas quer educadores de crianças com deficiência e TEA trabalhando por R$ 900\n19-06-2026\n\n/ Educação, Educação, Rio Grande do Norte, Nordeste, Rio Grande do Norte, Natal, Brasil, Natal, Paulinho Freire",
           "link": "https://www.esquerdadiario.com.br/Paulinho-Freire-que-recebe-R-41-6-mil-oferece-apenas-R-900-e-nenhum-direito-a-educadores-de",
           "publishedOn": "2026-06-19T18:48:05.000Z",
-          "wordCount": 7862,
+          "wordCount": 7885,
           "title": "Paulinho Freire, que recebe R$ 41,6 mil, oferece apenas R$ 900 e nenhum direito a educadores de crianças com deficiência e TEA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image_1_.png.jpg?1781894766"
         },
@@ -275,7 +325,7 @@
           "description": "Nesta Quinta feira (18), Flávio Bolsonaro apresentou um pacote do “Brasil Sem Medo” com uma série de propostas para aprofundar a violência das prisões e da repressão. Mais uma face, não surpreendente, de seu profundo reacionarismo. No evento estavam presentes Moro e Derrite.\nMatérias\n\n/ Política, Violência policial, Extrema direita, Flavio Bolsonaro, Violência racista",
           "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-quer-avancar-com-um-pacote-de-medidas-racistas-para-aprisionar-e-reprimir-a",
           "publishedOn": "2026-06-19T14:57:15.000Z",
-          "wordCount": 8177,
+          "wordCount": 8186,
           "title": "Flávio Bolsonaro quer avançar com um pacote de medidas racistas para aprisionar e reprimir a juventude negra",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/images_2_-2.jpg?1781880962"
         },
@@ -285,7 +335,7 @@
           "description": "Reproduzimos a entrevista que a mídia francesa RadioFrance, que realizou com Myriam Bregman, que está em Paris participando das manifestações em defesa de Anasse Kazib, porta-voz do Révolution Permanente, perseguido pelo Estado francês por defender a Palestina. \n Advogada de direitos humanos, ex-candidata à presidência e figura da Frente de Esquerda e dos Trabalhadores-Unidade (FIT-U), Guillaume Erner recebe hoje (…)\n16-06-2026\n\n/ Internacional, França, Myriam Bregman, Anasse Kazib",
           "link": "https://www.esquerdadiario.com.br/RadioFrance-Myriam-Bregman-a-oposicao-de-extrema-esquerda-na-era-Milei",
           "publishedOn": "2026-06-19T14:03:14.000Z",
-          "wordCount": 8080,
+          "wordCount": 8095,
           "title": "RadioFrance: \"Myriam Bregman, a oposição de extrema esquerda na era Milei\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2a1ab0ab5eee5d3e192494a9db3f49ede7bf0c60-a1425.png?1781877701"
         },
@@ -295,7 +345,7 @@
           "description": "A cada dia que passa mais as negociações da direita com os empresários, do governo Lula com o Centrão, vão rifando essa demanda em prol de interesses escusos. É urgente uma greve geral pelo fim da escala 6x1!\n19-06-2026\n\n/ Senado, Reforma Trabalhista, FIESP, Greve Geral, Davi Alcolumbre, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Alcolumbre-quer-que-voce-trabalhe-ate-morrer-e-deixar-sua-vida-pior-que-a-6X1",
           "publishedOn": "2026-06-19T13:45:44.000Z",
-          "wordCount": 8600,
+          "wordCount": 8619,
           "title": "Alcolumbre quer que você trabalhe até morrer e deixar sua vida pior que a 6X1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/alcolu.jpg?1781876673"
         },
@@ -305,7 +355,7 @@
           "description": "Uma homenagem ao gari Laudemir de Souza Fernandes no dia em que completaria 45 anos.\n18-06-2026\n\n/ Classe trabalhadora, Racismo, Minas Gerais, Garis, Homenagem",
           "link": "https://www.esquerdadiario.com.br/45-anos",
           "publishedOn": "2026-06-19T12:58:13.000Z",
-          "wordCount": 7825,
+          "wordCount": 7837,
           "title": "45 anos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-18_at_16.46_46.jpg?1781812029"
         },
@@ -315,7 +365,7 @@
           "description": "A greve dos trabalhadores das empreiteiras do setor elétrico em São Paulo chega ao sétimo dia com alta adesão em diversas bases e sinais cada vez mais claros da força da mobilização. Mesmo sob pressão de chefias e tentativas de intimidação, o movimento segue se ampliando, reforçando a unidade dos trabalhadores na luta por melhores salários, condições de trabalho e pelo fim da escala 6x1. \n Ao longo da semana, o Sindicato dos Eletricitários de São Paulo esteve presente em diferentes unidades (…)\n16-06-2026\n\n/ Classe trabalhadora, São Paulo, Eletrobrás, Greve Geral, Eletropaulo, Classe Trabalhadora, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Greve-dos-peoes-das-empreiteiras-do-setor-eletrico-entra-forte-no-7o-dia-e-se-enfrenta-contra-a",
           "publishedOn": "2026-06-18T22:43:49.000Z",
-          "wordCount": 8459,
+          "wordCount": 8478,
           "title": "Greve dos peões das empreiteiras do setor elétrico entra forte no 7º dia e se enfrenta contra a escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/greve-empreitreiras.jpg?1781822608"
         },
@@ -325,7 +375,7 @@
           "description": "Lançado no Teatro Bolshoi, “O Encouraçado Potemkin” celebrou os 20 anos da revolução de 1905, que se constituiu como um laboratório político da classe operária para a conquista do poder posteriormente, conforme constatou Leon Trotsky. O filme transformou radicalmente a linguagem audiovisual através da teoria de montagem dialética, elaborada pelo cineasta Sergei Eisenstein.\n18-06-2026\n\n/ Cultura",
           "link": "https://www.esquerdadiario.com.br/O-Choque-de-Montagem-de-Encouracado-Potemkin",
           "publishedOn": "2026-06-18T20:53:18.000Z",
-          "wordCount": 9625,
+          "wordCount": 9641,
           "title": "O “Choque de Montagem” de Encouraçado Potemkin",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/potemkined2.jpg?1781815598"
         },
@@ -335,7 +385,7 @@
           "description": "Vários meios de comunicação divulgaram os pontos do acordo negociado entre Estados Unidos e Irã. Uma derrota evidente que pode se tornar um ponto de inflexão.\n18-06-2026\n\n/ Irã, Israel, Donald Trump, Imperialismo, EUA, Guerra contra o Irã",
           "link": "https://www.esquerdadiario.com.br/Vazam-os-termos-do-memorando-acordado-entre-Estados-Unidos-e-Ira-e-se-reafirma-a-derrota",
           "publishedOn": "2026-06-18T19:21:38.000Z",
-          "wordCount": 9130,
+          "wordCount": 9142,
           "title": "Vazam os termos do memorando acordado entre Estados Unidos e Irã e se reafirma a derrota estratégica estadunidense",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sipa_sipahub60164239_000004-1920x1280-17bad.jpg?1781810496"
         },
@@ -345,7 +395,7 @@
           "description": "A haitiana Daphy Michel foi presa em setembro por estar gritando sozinha na rua. Seis meses depois foi solta e abandonada em pleno inverno norte-americano.\n16-06-2026\n\n/ Internacional, EUA, Donald Trump, Xenofobia, Imigrantes, Haiti, ICE",
           "link": "https://www.esquerdadiario.com.br/Imigrante-haitiana-morre-de-hipotermia-apos-prisao-manicomial-seguida-de-abandono-pelo-ICE",
           "publishedOn": "2026-06-18T17:33:12.000Z",
-          "wordCount": 8050,
+          "wordCount": 8066,
           "title": "Imigrante haitiana morre de hipotermia após prisão manicomial seguida de abandono pelo ICE",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-18_at_14.31_31.jpg?1781803908"
         },
@@ -355,7 +405,7 @@
           "description": "Mais uma vez, uma mulher foi vítima da violência misógina e machista dentro do Metrô de São Paulo. Na estação Parada Inglesa, linha 1 azul, uma jovem de 24 anos foi brutalmente agredida por um homem na plataforma enquanto retornava do trabalho na última segunda-feira, chegando a desmaiar em razão das agressões sofridas. O avanço da precarização dos transportes em SP hoje expõe passageiras e trabalhadoras à cada vez mais violência no dia a dia. \n Imagens divulgadas nas redes sociais mostram (…)\n16-06-2026\n\n/ Classe trabalhadora, Gênero e sexualidade, São Paulo (capital), Violência contra a Mulher, Metrô, Privatização, Feminicídio, Privatização dos transportes, São Paulo, Privatização do metrô, Metrô de SP, Metrô de São Paulo",
           "link": "https://www.esquerdadiario.com.br/Mulher-e-espancada-no-Metro-SP-a-violencia-contra-as-mulheres-e-as-privatizacoes-caminham-juntas",
           "publishedOn": "2026-06-18T16:45:17.000Z",
-          "wordCount": 8527,
+          "wordCount": 8547,
           "title": "Mulher é espancada no Metrô-SP: a violência contra as mulheres e as privatizações caminham juntas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000468486.jpg?1781800952"
         },
@@ -365,19 +415,9 @@
           "description": "A poucos dias do julgamento contra Anasse Kazib — porta-voz da organização irmã do MRT, Révolution Permanente — por sua solidariedade com a Palestina, Myriam Bregman participará neste 18 de junho de um importante evento em Saint-Denis, periferia de Paris, junto a Kazib, sua advogada Elsa Marcel e outros militantes perseguidos pelo Estado francês, como Rami Shaath. O ato terminará com um concerto do rapper Médine, para afirmar: apoiar a Palestina não é um crime. \n Myriam Bregman, deputada (…)\nMatérias\n\n/ Internacional, França, Myriam Bregman, Anasse Kazib, Xenofobia França, Racismo França, Palestina Livre",
           "link": "https://www.esquerdadiario.com.br/Myriam-Bregman-em-Paris-junto-a-Anasse-Kazib-em-importante-evento-contra-a-criminalizacao-do-apoio",
           "publishedOn": "2026-06-18T16:39:54.000Z",
-          "wordCount": 8347,
+          "wordCount": 8359,
           "title": "Myriam Bregman em Paris: junto a Anasse Kazib em importante evento contra a criminalização do apoio à Palestina",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/myriam_y_anasse_good-9a91e.jpg?1781800762"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Greve-nacional-dos-garis-e-marcada-para-22-06-por-direitos-e-piso-salarial-digno",
-          "author": "Redação",
-          "description": "Contra a precarização do trabalho e o racismo contra os trabalhadores da limpeza, garis preparam paralisações em diferentes regiões do país, como MG e BA.\nMatérias\n\n/ Classe trabalhadora, Greve, Garis, to com os garis",
-          "link": "https://www.esquerdadiario.com.br/Greve-nacional-dos-garis-e-marcada-para-22-06-por-direitos-e-piso-salarial-digno",
-          "publishedOn": "2026-06-18T01:59:16.000Z",
-          "wordCount": 7889,
-          "title": "Greve nacional dos garis é marcada para 22/06 por direitos e piso salarial digno",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/cidades-greve-dos-garis-1769003614.jpg?1781739996"
         }
       ]
     },
@@ -438,6 +478,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=161146",
+          "author": "Jessica Santos",
+          "description": "Lenilda morreu quatro dias após deixar a prisão. Sua liberdade foi atrasada por um exame criminológico cuja eficácia é questionada por especialistas, psicólogos e assistentes sociais.\nO conteúdo Da Redação | Exame criminológico sem valor científico atrasou liberdade de dona Lenilda Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/dona-lenilda-morreu-esperando-exame-criminologico/",
+          "publishedOn": "2026-06-22T16:13:59.000Z",
+          "wordCount": 5655,
+          "title": "Da Redação | Exame criminológico sem valor científico atrasou liberdade de dona Lenilda",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/05/lenilda-de-fatima.webp"
+        },
         {
           "id": "https://ponte.org/?p=161123",
           "author": "Mariana Rosetti",
@@ -523,104 +573,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=258336",
+          "author": "Tabitha Ramalho",
+          "description": "A grande maioria dos cidadãos israelenses expressou sua rejeição e raiva em relação ao presidente dos EUA, Donald Trump, e ao primeiro-ministro Benjamin Netanyahu, após o acordo alcançado entre Washington e Teerã para negociar o fim da guerra. Uma pesquisa publicada em 21 de junho pela Universidade Hebraica de Jerusalém e pelo Instituto Agam revelou […]\nO post Maioria dos israelenses acreditam que Irã venceu guerra, aponta pesquisa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/maioria-dos-israelenses-acreditam-que-ira-venceu-guerra-aponta-pesquisa/",
+          "publishedOn": "2026-06-22T19:30:34.000Z",
+          "wordCount": 3413,
+          "title": "Maioria dos israelenses acreditam que Irã venceu guerra, aponta pesquisa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/49451988208_d1a9b22899_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258337",
+          "author": "Victor Farinelli",
+          "description": "A tramitação da proposta de emenda à Constituição (PEC) que acaba com a escala 6×1 no Brasil deve seguir travada no Senado em uma semana esvaziada pelas festas de São João, pelo jogo do Brasil contra a Escócia e pelos trabalhos semipresenciais na Casa. O presidente do Senado, Davi Alcolumbre (União-AP), mantém a PEC 221 […]\nO post Alcolumbre mantém PEC da 6×1 travada no Senado em semana esvaziada apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/alcolumbre-mantem-pec-da-6x1-travada-no-senado-em-semana-esvaziada/",
+          "publishedOn": "2026-06-22T18:52:26.000Z",
+          "wordCount": 3243,
+          "title": "Alcolumbre mantém PEC da 6×1 travada no Senado em semana esvaziada",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/alco.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258333",
+          "author": "Victor Farinelli",
+          "description": "Com a renúncia de Keir Starmer como primeiro-ministro do Reino Unido, oficializada nesta segunda-feira (22/06), se intensificaram os rumores sobre o favoritismo de Andy Burnham, ex-prefeito de Manchester e recentemente eleito membro do Paralmento britânico, para substituí-lo no cargo. Curiosamente, foi publicado nesta mesma segunda-feira, em meios de imprensa do país, um documento chamado “O […]\nO post Favorito a suceder Starmer no Reino Unido prepara projeto para reverter privatizações apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/favorito-a-suceder-starmer-no-reino-unido-prepara-projeto-para-reverter-privatizacoes/",
+          "publishedOn": "2026-06-22T17:40:12.000Z",
+          "wordCount": 3449,
+          "title": "Favorito a suceder Starmer no Reino Unido prepara projeto para reverter privatizações",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/andy-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258329",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério do Comércio da China anunciou, nesta segunda-feira (22/06), a inclusão de dez empresas dos Estados Unidos na Lista de Controle de Exportações do país. O Comunicado nº 23 de 2026 do Departamento de Segurança Industrial e Controle de Importações e Exportações da pasta proíbe a exportação de itens de dupla utilização (ou seja, […]\nO post China inclui dez empresas dos EUA em lista de controle de exportações por ‘segurança nacional’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/china-inclui-dez-empresas-dos-eua-em-lista-de-controle-de-exportacoes-por-seguranca-nacional/",
+          "publishedOn": "2026-06-22T16:20:46.000Z",
+          "wordCount": 3471,
+          "title": "China inclui dez empresas dos EUA em lista de controle de exportações por ‘segurança nacional’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/he-yongqian-porta-voz-do-ministerio-do-comercio-5d338f42.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258326",
+          "author": "Tabitha Ramalho",
+          "description": "Em carta escrita à mão deixada no vestiário do estádio de Los Angeles, nos Estados Unidos, a seleção de futebol do Irã agradeceu à cidade e aos iranianos que torceram pelo time em solo estadunidense e fez um apelo pela paz entre as nações. Escrita em inglês, a mensagem foi encontrada quando a delegação já […]\nO post Seleção iraniana pede ‘paz entre nações’ em carta deixada no vestiário apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/selecao-iraniana-pede-paz-entre-nacoes-em-carta-deixada-no-vestiario/",
+          "publishedOn": "2026-06-22T15:40:35.000Z",
+          "wordCount": 3087,
+          "title": "Seleção iraniana pede ‘paz entre nações’ em carta deixada no vestiário",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/whatsapp-image-2026-06-22-at-12.25.41.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258316",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente libanês Joseph Aoun afirmou que o Líbano acolhe favoravelmente as iniciativas internacionais para pôr fim à guerra com Israel, mas não aceitará interferências nos seus assuntos internos, enfatizando a soberania e que “ninguém negocia em nosso nome”. Em discurso perante uma delegação da Liga Greco-Católica, ele declarou que o Estado, e não as […]\nO post Presidente libanês aceita acordo de cessar-fogo com Israel após três meses de ataques diários apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/presidente-libanes-aceita-acordo-de-cessar-fogo-com-israel-apos-tres-meses-de-ataques-diarios/",
+          "publishedOn": "2026-06-22T15:00:12.000Z",
+          "wordCount": 3258,
+          "title": "Presidente libanês aceita acordo de cessar-fogo com Israel após três meses de ataques diários",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/6a85635a232c77970c6e35fa1e61cdda.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258306",
+          "author": "Tabitha Ramalho",
+          "description": "Na noite de domingo (21/06) foram registradas manifestações em diversas partes da cidade de Bogotá, na Colômbia, em defesa da democracia, após a autoproclamação como presidente do candidato do Defensores da Pátria, Abelardo de la Espriella. Diversos vídeos que circularam nas redes sociais mostram a paralisação da mobilidade em áreas importantes da capital devido ao […]\nO post Manifestações em Bogotá contestam autoproclamação de De la Espriella apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/manifestacoes-em-bogota-contestam-autoproclamacao-de-de-la-espriella/",
+          "publishedOn": "2026-06-22T14:20:45.000Z",
+          "wordCount": 3442,
+          "title": "Manifestações em Bogotá contestam autoproclamação de De la Espriella",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/col-2.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258305",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente da Colômbia, Gustavo Petro, denunciou nas redes sociais, nesta segunda-feira (22/06), supostas irregularidades no cadastro de eleitores e no sistema de software desenvolvido pelos “irmãos Bautista”, empresa responsável pelo sistema usado no pleito presidencial do país neste domingo (21/06). “Bem, hoje temos evidências de uma mudança de endereços IP em vários servidores do […]\nO post Petro acusa suposta violação israelense em software eleitoral após segundo turno na Colômbia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-acusa-suposta-violacao-em-software-eleitoral-e-diz-que-so-israel-teria-capacidade-para-isso/",
+          "publishedOn": "2026-06-22T14:05:18.000Z",
+          "wordCount": 3152,
+          "title": "Petro acusa suposta violação israelense em software eleitoral após segundo turno na Colômbia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/54580127380_c24b02b87a_k.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258298",
+          "author": "Tabitha Ramalho",
+          "description": "O partido Yashar de Gadi Eisenkot, que vem ganhando influência de forma constante em Israel, ultrapassou a lista Juntos de Naftali Bennett e Yair Lapid, tornando-se o maior partido de oposição, conforme mostram pesquisas feitas pelo Canal 13 e Kan 11, publicados na semana passada. Segundo o relatório, o Likud, liderado pelo primeiro-ministro israelense, Benjamin […]\nO post Israel se prepara para eleições com oposição fragmentada; Likud lidera, mas Eisenkot surpreende apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/israel-se-prepara-para-eleicoes-com-oposicao-fragmentada-likud-lidera-mas-eisenkot-surpreende/",
+          "publishedOn": "2026-06-22T13:40:22.000Z",
+          "wordCount": 3839,
+          "title": "Israel se prepara para eleições com oposição fragmentada; Likud lidera, mas Eisenkot surpreende",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1280px-flags_of_israel.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=258297",
           "author": "Tatiana Carlotti",
-          "description": "O magistrado do Conselho Nacional Eleitoral (CNE) da Colômbia, Cristian Quiroz, afirmou nesta segunda-feira (22/06), em entrevista à Rádio Caracol, que o resultado oficial das eleições presidenciais poderá demorar alguns dias para ser conhecido, apesar da liderança do ultradireitista Abelardo de la Espriella na apuração preliminar do segundo turno, realizado no último domingo (21/06). Com […]\nO post Escrutínio oficial está em curso na Colômbia e levará ‘poucos dias’, diz magistrado do CNE apareceu primeiro em Opera Mundi.",
+          "description": "O magistrado do Conselho Nacional Eleitoral (CNE) da Colômbia, Cristian Quiroz, afirmou nesta segunda-feira (22/06), em entrevista à Rádio Caracol, que o resultado oficial das eleições presidenciais poderá demorar alguns dias para ser conhecido, apesar da liderança do ultradireitista Abelardo de la Espriella na apuração preliminar do segundo turno, realizado no último domingo (21/06). Com […]\nO post Apuração oficial está em curso na Colômbia e levará poucos dias, diz autoridade eleitoral apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/escrutinio-oficial-esta-em-curso-na-colombia-e-levara-poucos-dias-diz-magistrado-do-cne/",
           "publishedOn": "2026-06-22T13:01:40.000Z",
-          "wordCount": 3251,
-          "title": "Escrutínio oficial está em curso na Colômbia e levará ‘poucos dias’, diz magistrado do CNE",
+          "wordCount": 3242,
+          "title": "Apuração oficial está em curso na Colômbia e levará poucos dias, diz autoridade eleitoral",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hhz_tm8xmaarjky.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258283",
-          "author": "Tabitha Ramalho",
-          "description": "O primeiro-ministro britânico, Keir Starmer, anunciou nesta segunda-feira (22/06) sua renúncia ao cargo de premiê e à liderança do Partido Trabalhista, que está no poder. “A pergunta que meu partido está fazendo agora é se estou na melhor posição para nos liderar na próxima eleição geral”, disse Starmer, durante seu breve pronunciamento diante da residência […]\nO post Keir Starmer renuncia ao cargo de primeiro-ministro britânico apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/keir-starmer-renuncia-ao-cargo-de-primeiro-ministro-britanico/",
-          "publishedOn": "2026-06-22T11:46:07.000Z",
-          "wordCount": 3471,
-          "title": "Keir Starmer renuncia ao cargo de primeiro-ministro britânico",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/77653847_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258276",
-          "author": "Tatiana Carlotti",
-          "description": "Lideranças da extrema direita na América Latina e fora dela reconheceram a vitória preliminar de Abelardo de la Espriella nas eleições colombianas‘, antes do anúncio oficial da vitória do advogado, que depende das análises das contestações do Pacto Histórico, legenda do candidato Iván Cepeda. Mesmo assim, o presidente norte-americano, Donald Trump, escreveu em suas redes […]\nO post Trump e líderes de extrema direita parabenizam De la Espriella apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/trump-e-lideres-de-extrema-direita-parabenizam-de-la-espriella/",
-          "publishedOn": "2026-06-22T11:17:55.000Z",
-          "wordCount": 3909,
-          "title": "Trump e líderes de extrema direita parabenizam De la Espriella",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/de-la-espriella-x.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258272",
-          "author": "Tatiana Carlotti",
-          "description": "As primeiras negociações de alto nível entre Estados Unidos e Irã terminaram na madrugada desta segunda-feira (22/06), no resort suíço de Bürgenstock, com a definição de um “roteiro para alcançar um acordo final em 60 dias”. Também foi acordada a criação de mecanismos visando o fim das tensões no Líbano e a garantia da segurança […]\nO post EUA e Irã definem plano para acordo em 60 dias apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-ira-definem-plano-para-acordo-em-60-dias/",
-          "publishedOn": "2026-06-22T10:04:52.000Z",
-          "wordCount": 3473,
-          "title": "EUA e Irã definem plano para acordo em 60 dias",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hlvehm6xkaaz780.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258219",
-          "author": "Fernanda Oliveira",
-          "description": "Os resultados preliminares na Colômbia, contagem ainda não oficial, apontaram para vitória de Abelardo de la Espriella no segundo turno deste domingo (21/06). As urnas estão com 99,9% apuradas com o ultradireitista liderando com 49,66%, angariando 12.959.542 dos votos. Já o senador de esquerda do partido governista, Iván Cepeda, obtém 48,70%,12.708.712 dos votos. “Esperamos que, […]\nO post Resultados preliminares apontam vitória de ultradireitista na Colômbia; ‘aguardar apuração oficial’, diz Cepeda apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/resultados-preliminares-apontam-vitoria-de-ultradireitista-na-colombia-aguardar-apuracao-oficial-diz-cepeda/",
-          "publishedOn": "2026-06-21T21:14:02.000Z",
-          "wordCount": 3773,
-          "title": "Resultados preliminares apontam vitória de ultradireitista na Colômbia; ‘aguardar apuração oficial’, diz Cepeda",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/whatsapp-image-2026-06-21-at-21.07.56-e1782087660851.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258214",
-          "author": "Tabitha Ramalho",
-          "description": "Milhares de pessoas marcharam pela capital da Albânia na noite de sábado (20/06), em uma das maiores manifestações contra um projeto de hotel de luxo ligado a Ivanka Trump e seu marido, Jared Kushner. Os manifestantes, entoando slogans como “Rama, vá embora!”, exigiram a renúncia do primeiro-ministro albanês, Edi Rama, acusando-o de corrupção e falta […]\nO post ‘Albânia não está à venda’: milhares protestam contra hotel de luxo ligado à família Trump apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/albania-nao-esta-a-venda-milhares-protestam-contra-hotel-de-luxo-ligado-a-familia-trump/",
-          "publishedOn": "2026-06-21T21:00:35.000Z",
-          "wordCount": 3117,
-          "title": "‘Albânia não está à venda’: milhares protestam contra hotel de luxo ligado à família Trump",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hkvvzpqxqaa0tpn.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258207",
-          "author": "Tabitha Ramalho",
-          "description": "O primeiro-ministro britânico, Keir Starmer, deverá apresentar esta semana um calendário para deixar o cargo, segundo a imprensa do Reino Unido, após acumular desgaste na liderança do país e enfrentar uma rebelião em seu próprio partido. Segundo a rede de televisão britânica Sky News, cerca de 100 parlamentares do Partido Trabalhista, atualmente liderado por Starmer, […]\nO post Keir Starmer está com dias contados como premiê, diz imprensa britânica apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/keir-starmer-esta-com-dias-contados-como-premie-diz-imprensa-britanica/",
-          "publishedOn": "2026-06-21T20:00:20.000Z",
-          "wordCount": 3720,
-          "title": "Keir Starmer está com dias contados como premiê, diz imprensa britânica",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/77644448_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258210",
-          "author": "Tabitha Ramalho",
-          "description": "Faleceu na manhã deste domingo (21/06) o histórico Comandante da Revolução Ramiro Valdés Menéndez, Herói da República de Cuba e do Trabalho, que teve uma trajetória “brilhante e extraordinária” de serviços prestados à Pátria, como informa a direção do Partido, do Estado e do Governo cubano. O primeiro secretário do Partido Comunista de Cuba e […]\nO post Histórico Comandante da Revolução Cubana, Ramiro Valdés morre aos 93 anos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/obituario/historico-comandante-da-revolucao-cubana-ramiro-valdes-morre-aos-93-anos/",
-          "publishedOn": "2026-06-21T19:10:03.000Z",
-          "wordCount": 3001,
-          "title": "Histórico Comandante da Revolução Cubana, Ramiro Valdés morre aos 93 anos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/comision-industria-4.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258200",
-          "author": "Pedro Marin",
-          "description": "Dentre os muitos aspectos da digitalização contemporânea, um deles é tão presente quanto tácito. Com a plataformização generalizada, as mídias digitais passaram a organizar, a partir de redes proprietárias, a circulação da informação condicionada a formatos determinados e cada vez mais homogêneos. Umas das características desse processo é a submissão de toda diferença qualitativa das […]\nO post Idiocracia digital e o totalitarismo do entretenimento apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/idiocracia-digital-e-o-totalitarismo-do-entretenimento/",
-          "publishedOn": "2026-06-21T18:25:54.000Z",
-          "wordCount": 5285,
-          "title": "Idiocracia digital e o totalitarismo do entretenimento",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/idiocracia.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258199",
-          "author": "Tabitha Ramalho",
-          "description": "O senador e candidato presidencial de esquerda Iván Cepeda (Pacto Histórico) votou neste domingo (21/06) no segundo turno das eleições colombianas, que concorre contra o de extrema-direita Abelardo de la Espriella (Defensores da Pátria). “Realizamos uma campanha limpa, transparente e honesta, na qual apresentamos aos cidadãos nossas ideias, nosso programa, nossos princípios e nosso caminho […]\nO post Cepeda vota na Colômbia e defende ‘honestidade’ da campanha contra Espriella apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cepeda-vota-na-colombia-e-defende-honestidade-da-campanha-contra-espriella/",
-          "publishedOn": "2026-06-21T18:22:53.000Z",
-          "wordCount": 3587,
-          "title": "Cepeda vota na Colômbia e defende ‘honestidade’ da campanha contra Espriella",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-21-152116.png"
         }
       ]
     },
@@ -635,6 +685,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=228548",
+          "author": "Redação de AND",
+          "description": "O presidente do Senado, Davi Alcolumbre, mantém um travamento estratégico à Proposta de Emenda à Constituição (PEC) do fim da escala 6 por 1, aprovada pela Câmara dos Deputados em maio. Alcolumbre condiciona o despacho da matéria à Comissão de Constituição e Justiça (CCJ) a uma reunião com o presidente Luiz Inácio, à definição da relatoria e a alterações que atendam às exigências das entidades patronais. O objetivo é submeter o avanço da jornada reduzida aos interesses do grande capital, impondo mudanças abomináveis, como o “trabalho flexível”. A consequência direta é a colocação em risco de uma vitória arrancada pelas",
+          "link": "https://anovademocracia.com.br/senado-flexibilizacao-escala-6-por-1/",
+          "publishedOn": "2026-06-22T19:33:02.000Z",
+          "wordCount": null,
+          "title": "Senado abre caminho para ‘flexibilização’ e ameaça desidratar fim da escala 6 por 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=228536",
+          "author": "Giovanna Maria",
+          "description": "Durante atividades de panfletagem realizadas em Porto Velho, o Comitê de Apoio do AND distribuiu matérias recentes publicadas no portal “LCP nega autoria de ataque à sede da NorBrasil e acusa grupo armado ligado ao latifúndio” e “LCP nega que camponeses executados pela PM-RO sejam da organização e denuncia ‘queima de arquivo.”",
+          "link": "https://anovademocracia.com.br/panfletagem-lcp-porto-velho/",
+          "publishedOn": "2026-06-22T14:48:49.000Z",
+          "wordCount": null,
+          "title": "RO: Ativistas distribuem matérias impressas sobre a LCP em Porto Velho",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=228523",
           "author": "Redação de AND",
@@ -714,26 +784,6 @@
           "wordCount": null,
           "title": "‘Memorando Irã-EUA sela derrota estratégica do imperialismo ianque’: Aroeira e Eduardo Papa debatem com AND",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=228416",
-          "author": "Redação de AND",
-          "description": "Planalto avalia como “sofríveis” as explicações de Jaques Wagner após operação da PF no caso Master; líder do governo no Senado é alvo de suspeitas sobre apartamento de luxo, repasses por meio de empresa ligada à família, dinheiro em espécie e benefícios vinculados ao Banco Master.",
-          "link": "https://anovademocracia.com.br/oportunista-jaques-wagner-banco-master/",
-          "publishedOn": "2026-06-19T21:30:02.000Z",
-          "wordCount": null,
-          "title": "‘Sinuca de bico’: governo oportunista vê explicações de Jaques Wagner como ‘sofríveis’ no caso Master",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=228409",
-          "author": "Redação de AND",
-          "description": "Presença dos camponeses aproximou a Resistência Iraniana da Revolução Agrária no Brasil; adido cultural da Embaixada do Irã no Brasil afirmou que “um país que não defende e apoia seu campesinato é um país perdido”.",
-          "link": "https://anovademocracia.com.br/lcp-resistencia-iraniana-revolucao-agraria/",
-          "publishedOn": "2026-06-19T20:30:53.000Z",
-          "wordCount": null,
-          "title": "Delegação da LCP saúda representante da Resistência Iraniana e une Revolução Agrária à luta anti-imperialista internacional",
-          "imageUrl": null
         }
       ]
     },
@@ -741,13 +791,54 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6a39512601e7cd37414d1a83",
+          "author": "O Poder Popular",
+          "description": "Por Eduardo Miguel Álvarez Estévez para o Comitê Carioca de Solidariedade a Cuba\n\nA pergunta direta: como vamos vencer isso?\nNão tenho uma resposta mágica nem salvadora. Ninguém tem. Mas tenho certeza de que vencer não significa que",
+          "link": "https://opoderpopular.com.br/como-vamos-vencer-isso/",
+          "publishedOn": "2026-06-22T15:15:44.000Z",
+          "wordCount": 1623,
+          "title": "Como Vamos Vencer Isso",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/06/1cddcc42-e407-45c8-a0cc-4d89e581103a.jpeg"
+        },
+        {
+          "id": "6a394f5201e7cd37414d19ea",
+          "author": "O Poder Popular",
+          "description": "Liana Coll para o Jornal da Unicamp\nIntelectual que enfrentou segregação racial e perseguição política nos Estados Unidos é reivindicado como pilar da sociologia\n1 – O intelectual e ativista W.E.B. Du Bois na Exposição Internacional de",
+          "link": "https://opoderpopular.com.br/du-bois-um-classico-redescoberto/",
+          "publishedOn": "2026-06-22T15:13:03.000Z",
+          "wordCount": 2906,
+          "title": "Du Bois, um clássico redescoberto",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/06/298799902_486408576824035_6675726856310978443_n-1.jpg"
+        },
+        {
+          "id": "6a394e7f01e7cd37414d196d",
+          "author": "O Poder Popular",
+          "description": "Genira Chagas - Assessoria de Comunicação do CEDEM, da Unesp\nEm questão estava a produção e comercialização de Rebeliões da Senzala, obra que se tornaria referência\n\nEm 1948, quando Clóvis Moura se prop&",
+          "link": "https://opoderpopular.com.br/cartas-de-caio-prado-jr-e-jorge-amado-a-clovis-moura/",
+          "publishedOn": "2026-06-22T15:04:54.000Z",
+          "wordCount": 1865,
+          "title": "Cartas de Caio Prado Jr. e Jorge Amado a Clóvis Moura",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/06/telegrama.png"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3188710",
+          "author": "Redação",
+          "description": "Livro recém-lançado traz outros olhares sobre as migrações no século XXI: em vez de “métricas econômicas”, as relações humanas e a liberdade. Também propõe políticas públicas no Brasil, a partir das dinâmicas de integração, memória e reconstrução de identidades\nThe post Refugiados e a complexidade que não se vê appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/refugiados-e-a-complexidade-que-nao-se-ve/",
+          "publishedOn": "2026-06-22T19:22:53.000Z",
+          "wordCount": 3531,
+          "title": "Refugiados e a complexidade que não se vê",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/photo_5028373416548961424_y.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3188635",
           "author": "J.S. Tennant",
@@ -764,7 +855,7 @@
           "description": "Obra escrita por psicólogas mergulha nos bastidores do esporte feminino e revela como atletas enfrentam a pressão estética, o machismo estrutural e a busca exaustiva pela alta performance em busca do topo do pódio. Concorra a exemplares\nThe post Mulheres no esporte: quais são os adversários? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outros-quinhentos/mulheres-no-esporte-quais-sao-os-adversarios/",
           "publishedOn": "2026-06-19T21:33:02.000Z",
-          "wordCount": 3696,
+          "wordCount": 3688,
           "title": "Mulheres no esporte: quais são os adversários?",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/selecao.jpg"
         },
@@ -804,7 +895,7 @@
           "description": "O que um ato de censura contra alunos que homenagearam a artista, num colégio de elite, revela sobre as neuroses e hostilidades atuais. Que desejos reprimidos o berço da “civilidade” esconde – e como ele cria “pessoas de bem” fascistas\nThe post O dedo de Rita Lee contra o moralismo conservador appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/o-dedo-de-rita-lee-contra-o-moralismo-conservador/",
           "publishedOn": "2026-06-19T18:57:22.000Z",
-          "wordCount": 5096,
+          "wordCount": 5088,
           "title": "O dedo de Rita Lee contra o moralismo conservador",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/photo_5019394589848177710_y.jpg"
         },
@@ -824,7 +915,7 @@
           "description": "Por que o cessar-fogo assinado ontem põe em dúvida o poder militar dos EUA e a hegemonia do Ocidente. Como a guerra desnudou a ultradireita e seu projeto de supremacismo. O que a América Latina, agora alvo de Washington, pode aprender\nThe post Os impérios também assinam rendição appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/os-imperios-tambem-assinam-rendicao/",
           "publishedOn": "2026-06-18T23:08:16.000Z",
-          "wordCount": 4129,
+          "wordCount": 4126,
           "title": "Os impérios também assinam rendição",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/Sem-titulo-4.jpg"
         },
@@ -834,19 +925,9 @@
           "description": "Com a insegurança alimentar em foco, vozes do campo e da cidade reúnem-se em Brasília para debater a contradição brasileira. A partir de relatos de diversos territórios, organizações articulam nova plataforma política para fortalecer a agroecologia\nThe post Missão Josué de Castro: qual o futuro do combate à fome? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/missao-josue-de-castro-qual-o-futuro-do-combate-a-fome/",
           "publishedOn": "2026-06-18T22:10:53.000Z",
-          "wordCount": 4489,
+          "wordCount": 4492,
           "title": "Missão Josué de Castro: qual o futuro do combate à fome?",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/agroecologia-alonso-crepo.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3188427",
-          "author": "Celso Pinto de Melo",
-          "description": "Pulverização de recursos do Estado através de emendas parlamentares torna inviável qualquer planejamento estratégico de longo prazo. Em vez de organizar o futuro, país opta por administrar restrições. O que falta não é capacidade – mas prioridade e continuidade\nThe post Brasil: como resgatar as rédeas do desenvolvimento? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/brasil-como-resgatar-as-redeas-do-desenvolvimento/",
-          "publishedOn": "2026-06-18T20:37:53.000Z",
-          "wordCount": 5107,
-          "title": "Brasil: como resgatar as rédeas do desenvolvimento?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/06/photo_5017142790034492455_y.jpg"
         }
       ]
     },
@@ -856,12 +937,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159364",
+          "author": "Vieira",
+          "description": "Usar um DNS com filtros é um grande auxílio na criação de crianças e adolescentes.  Por Marcelo Tavares de Santana",
+          "link": "https://passapalavra.info/2026/06/159364/",
+          "publishedOn": "2026-06-22T14:25:51.000Z",
+          "wordCount": 5222,
+          "title": "Ferramentas de Controle Parental (3)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_4.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159354",
           "author": "Enzo Silva",
           "description": "Contribuindo para a valorização do funk, Thiagson deixa de fazer uma crítica à contradição em que ele próprio está envolto: um intelectual orgânico do funk, numa tentativa de conquistar mercado e surfar na onda de empresas cool, “SPLASH” e “conscientes”. Por Luís",
           "link": "https://passapalavra.info/2026/06/159354/",
           "publishedOn": "2026-06-18T21:32:34.000Z",
-          "wordCount": 5623,
+          "wordCount": 5630,
           "title": "Thiagson e UOL: quais os limites?",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/download.webp"
         }
