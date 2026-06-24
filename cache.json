@@ -18,6 +18,53 @@
       ]
     },
     {
+      "title": "Opinião Socialista",
+      "feedUrl": "https://www.opiniaosocialista.com.br/feed",
+      "siteUrl": "https://opiniaosocialista.com.br/",
+      "articles": [
+        {
+          "id": "6a3b093dbf4df5036f19b82a",
+          "author": "Rebeldia - Juventude da Revolução Socialista",
+          "description": "Rebeldia-SP\nA greve da USP se encerrou depois de 54 dias de luta dos estudantes. Esta não foi uma greve isolada, mas o estopim de um ascenso que tensionou o projeto de precarização e privatização  da educação p&",
+          "link": "https://opiniaosocialista.com.br/greve-da-usp-vencemos-mas-seguem-pautas-em-aberto-e-desafios-para-o-proximo-periodo/",
+          "publishedOn": "2026-06-23T23:01:31.000Z",
+          "wordCount": 4150,
+          "title": "Greve da USP: Vencemos, mas seguem pautas em aberto e desafios para o próximo período",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Ato-unificado-em-SP.webp"
+        },
+        {
+          "id": "6a3a61b2bf4df5036f19b800",
+          "author": "Lena Souza, de São Paulo",
+          "description": "Lena Souza, direto da Bolívia\nApós 49 dias de uma das maiores mobilizações dos últimos anos, a direção da Central Operária Boliviana (COB) participou de um diálogo com o governo de Rodrigo Paz neste dia",
+          "link": "https://opiniaosocialista.com.br/bolivia-a-direcao-da-cob-negocia-trai-o-movimento-e-o-governo-declara-estado-de-excecao/",
+          "publishedOn": "2026-06-23T11:10:08.000Z",
+          "wordCount": 2004,
+          "title": "Bolívia: A direção da COB negocia, trai o movimento e o governo declara estado de exceção",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Argolo-e-Rodrigo-Paz.webp"
+        },
+        {
+          "id": "6a39b751bf4df5036f19b7d6",
+          "author": "Érika Andreassy",
+          "description": "Diante da seleção da Tunísia, país de origem de seu pai, Ayari preferiu baixar os braços e demonstrar respeito à outra parte de sua história familiar",
+          "link": "https://opiniaosocialista.com.br/quando-um-gol-tem-duas-patrias/",
+          "publishedOn": "2026-06-23T01:48:58.000Z",
+          "wordCount": 2014,
+          "title": "Quando um gol tem duas pátrias",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Yasin-Ayari.webp"
+        },
+        {
+          "id": "6a3937f0bf4df5036f19b798",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Ao narrar os sonhos, conquistas e frustrações de uma família negra em busca de ascensão social, Eliana Alves Cruz reafirma uma questão atual: é possível derrotar o racismo sem enfrentar o capitalismo?",
+          "link": "https://opiniaosocialista.com.br/meridiana-e-a-ilusao-da-ascensao-por-que-malcolm-x-continua-atual/",
+          "publishedOn": "2026-06-22T13:45:02.000Z",
+          "wordCount": 1563,
+          "title": "‘Meridiana’ e a ilusão da ascensão social no capitalismo: por que Malcolm X segue atual?",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/meridiana_2.webp"
+        }
+      ]
+    },
+    {
       "title": "Esquerda Diário",
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
@@ -28,7 +75,7 @@
           "description": "Damião sancionou uma lei que autoriza a retirada de bloqueios em vias públicas, semanas após as fortes greves de professores e trabalhadores da educação tomarem as ruas de Belo Horizonte. Por trás do discurso demagógico de preocupação com o trânsito, a promulgação é parte de seu projeto político autoritário de criminalização dos movimentos sociais e repressão aos protestos. \n Publicada no Diário Oficial do Município do último sábado (20/6), a Lei 12.044, que estabelece regras para a (…)\n22-06-2026\n\n/ Classe trabalhadora, Educação, Minas Gerais, Belo Horizonte , Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/Damiao-sanciona-lei-que-abre-caminho-para-reprimir-protestos-e-greves-em-BH",
           "publishedOn": "2026-06-24T00:19:42.000Z",
-          "wordCount": 8115,
+          "wordCount": 8122,
           "title": "Damião sanciona lei que abre caminho para reprimir protestos e greves em BH",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/damiao-3_1_.jpg?1782260337"
         },
@@ -48,7 +95,7 @@
           "description": "O banco Digimais, de Edir Macedo, foi alvo de operação da polícia federal contra fraudes no sistema financeiro, com R$ 670 milhões congelados.\n23-06-2026\n\n/ Política, Igreja Universal, Edir Macedo",
           "link": "https://www.esquerdadiario.com.br/Banco-do-bolsonarista-Edir-Macedo-tem-R-670-milhoes-congelados-em-operacoes-contra-fraudes",
           "publishedOn": "2026-06-23T20:11:59.000Z",
-          "wordCount": 8027,
+          "wordCount": 8031,
           "title": "Banco do bolsonarista Edir Macedo tem R$ 670 milhões congelados em operações contra fraudes financeiras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/edir_de_tela_de_2026-06-23_17-21-58.jpg?1782245364"
         },
@@ -68,7 +115,7 @@
           "description": "Nossa camarada Alejandra Valderrama, porta-voz do Pão e Rosas - Valparaíso, foi presa juntamente com Patricio Opazo, membro da Coordenação de Ação pela Palestina em Valparaíso, durante um protesto em solidariedade ao povo palestino. Exigimos sua libertação imediata.\n23-06-2026\n\n/ Internacional, Chile, Palestina, #FreePalestine",
           "link": "https://www.esquerdadiario.com.br/Chile-Prendem-nossa-camarada-Alejandra-Valderrama-por-sua-solidariedade-a-Palestina",
           "publishedOn": "2026-06-23T15:55:31.000Z",
-          "wordCount": 8037,
+          "wordCount": 8013,
           "title": "Chile: Prendem nossa camarada Alejandra Valderrama por sua solidariedade à Palestina",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-23_at_12.38_41.jpg?1782230128"
         },
@@ -78,7 +125,7 @@
           "description": "A Escola Municipal Antônio Bento, em São Paulo, a PM de Tarcísio Freitas protagonizou mais uma cena cotidiana de perseguição ao ensino da história e da cultura afro-brasileira.\n23-06-2026\n\n/ Luta Antirracista, São Paulo (capital), Educação, PM São Paulo, PM, Racismo, Tarcísio de Freitas",
           "link": "https://www.esquerdadiario.com.br/Policia-e-acionada-para-intimidar-professores-que-ensinavam-cultura-afro-brasileira",
           "publishedOn": "2026-06-23T14:44:04.000Z",
-          "wordCount": 8042,
+          "wordCount": 8044,
           "title": "Polícia é acionada para intimidar professores que ensinavam cultura afro-brasileira",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_pm_emei_antonio_bento.jpg?1782225764"
         },
@@ -118,7 +165,7 @@
           "description": "Trabalhadores da limpeza urbana realizaram neste dia 22/06 uma paralisação nacional\n22-06-2026\n\n/ Classe trabalhadora, Senado, Garis, to com os garis, Garis do Rio de Janeiro, Garis do Rio de Janeiro, paralisação, Paralisação, Greve dos Garis do Rio",
           "link": "https://www.esquerdadiario.com.br/Sem-garis-as-cidades-param-paralisacao-nacional-exige-piso-salarial-direitos-e-condicoes-dignas",
           "publishedOn": "2026-06-22T22:07:02.000Z",
-          "wordCount": 9206,
+          "wordCount": 9202,
           "title": "Sem garis, as cidades param: paralisação nacional exige piso salarial, direitos e condições dignas. Todo apoio!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image_2_.png.jpg?1782165953"
         },
@@ -168,7 +215,7 @@
           "description": "Nas últimas semanas, a UFRGS presenciou dois trancassos dos técnicos grevistas, terceirizados em luta por não receber seu salário, RU e Casa do Estudante do centro sem luz e inúmeras denúncias de precarização da infraestrutura e da permanência estudantil. Como enfrentar essa crise e por que o DCE segue atuando mais como obstáculo à luta estudantil contra os cortes do que ferramenta de mobilização? \n O recente não pagamento do salário dos terceirizados da MultService e o apagão no RU do (…)\n22-06-2026\n\n/ Juventude, Movimento Estudantil, Educação, Universidades Federais, UFRGS, Rio Grande do Sul, Crise na Educação, Permanência Estudantil, Unificar juventude e classe trabalhadora, Cortes na Educação",
           "link": "https://www.esquerdadiario.com.br/4-pontos-para-enfrentar-a-precarizacao-na-UFRGS-e-lutar-por-um-DCE-dos-estudantes-e-nao-da-reitoria",
           "publishedOn": "2026-06-22T15:17:33.000Z",
-          "wordCount": 10061,
+          "wordCount": 10071,
           "title": "4 pontos para enfrentar a precarização na UFRGS e lutar por um DCE dos estudantes e não da reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-06-22_at_11.23_29.jpg?1782141359"
         },
@@ -178,7 +225,7 @@
           "description": "Com Jacquer Wagner na mira da PF, PT pode acabar sendo tragado para o núcleo das investigações do caso Master. Um partido burguês com base de trabalhadores, que assumiu os métodos espúrios de governabilidade capitalista, tem o seu líder no Senado associado ao maior escândalo de corrupção da Nova República. Um sionista declarado e político responsável pela Bahia ter a polícia que mais mata a juventude negra no país, Jacques Wagner também era amigo de Daniel Vorcaro e se tornou um problema para o governo Lula.\n22-06-2026\n\n/ Política, PT, Governo Lula, Jaques Wagner (PT), Banco Master, Daniel Vorcaro",
           "link": "https://www.esquerdadiario.com.br/Sionista-petista-Jacques-Wagner-se-compromete-com-Daniel-Vorcaro",
           "publishedOn": "2026-06-22T14:34:31.000Z",
-          "wordCount": 8603,
+          "wordCount": 8607,
           "title": "Sionista petista Jacques Wagner se compromete com Daniel Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2022947777-abre-perfil-brasil-2026-06-18t104618334.jpg.webp?1782138826"
         },
@@ -228,7 +275,7 @@
           "description": "A SEE-MG foi denunciada ao TCE-MG por irregularidades em contratos firmados para a aquisição de kits escolares destinados à rede estadual de ensino de uma empresa que já acumula investigações e processos judiciais. \n A Secretaria de Estado de Educação de Minas Gerais (SEE-MG) de Zema e Simões foi denunciada ao Tribunal de Contas do Estado de Minas Gerais (TCE-MG) por irregularidades em contratos firmados para a aquisição de kits escolares destinados à rede estadual de ensino. \n19-06-2026\n\n/ Educação, Minas Gerais, Romeu Zema, Belo Horizonte , Rossieli Soares, Mateus Simões",
           "link": "https://www.esquerdadiario.com.br/SEE-MG-de-Zema-e-Simoes-e-denunciada-por-contrato-de-R-40-7-milhoes-em-kits-escolares",
           "publishedOn": "2026-06-20T21:51:04.000Z",
-          "wordCount": 8671,
+          "wordCount": 8673,
           "title": "SEE-MG de Zema e Simões é denunciada por contrato de R$ 40,7 milhões em kits escolares",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/50-img_9853.jpg?1781992169"
         },
@@ -251,16 +298,6 @@
           "wordCount": 8922,
           "title": "A traição da COB pavimenta o caminho para o saque de minerais, lítio e terras raras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/photo_2026-06-20_09-34-31-490d8-2.jpg?1781973532"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Paulinho-Freire-que-recebe-R-41-6-mil-oferece-apenas-R-900-e-nenhum-direito-a-educadores-de",
-          "author": "Redação",
-          "description": "Bolsonarista Paulinho Freire recebe R$ 41,6 mil, mas quer educadores de crianças com deficiência e TEA trabalhando por R$ 900\n19-06-2026\n\n/ Educação, Educação, Rio Grande do Norte, Nordeste, Rio Grande do Norte, Natal, Brasil, Natal, Paulinho Freire",
-          "link": "https://www.esquerdadiario.com.br/Paulinho-Freire-que-recebe-R-41-6-mil-oferece-apenas-R-900-e-nenhum-direito-a-educadores-de",
-          "publishedOn": "2026-06-19T18:48:05.000Z",
-          "wordCount": 7869,
-          "title": "Paulinho Freire, que recebe R$ 41,6 mil, oferece apenas R$ 900 e nenhum direito a educadores de crianças com deficiência e TEA",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image_1_.png.jpg?1781894766"
         }
       ]
     },
@@ -400,16 +437,6 @@
           "wordCount": 5286,
           "title": "Novo vídeo revela que PMs atiraram contra eletricista já parado em aparente rendição",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/81BEB834-43A8-4208-8AE1-A1BAEB7CAB93-1.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=161016",
-          "author": "Mariana Rosetti",
-          "description": "MPSC denuncia 14 pessoas por integrar rede extremista que operava em SC, SP e PR; policiais paulistas ocupavam postos de destaque em grupo que unia militância virtual e violência física\nO conteúdo Policiais de SP são denunciados pelo MPSC sob acusação de integrarem grupo neonazista Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/policiais-sp-denunciados-grupo-neonazista/",
-          "publishedOn": "2026-06-19T19:14:33.000Z",
-          "wordCount": 5381,
-          "title": "Policiais de SP são denunciados pelo MPSC sob acusação de integrarem grupo neonazista",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2025/11/policia-civil-sao-paulo-divulgacao-pcsp-1.webp"
         }
       ]
     },
@@ -447,16 +474,6 @@
           "wordCount": 3793,
           "title": "Dialog: a sociedade secreta de Peter Thiel que discute guerra e sexo",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/06/dialog.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73923",
-          "author": "Mondoweiss",
-          "description": "a última segunda-feira (15), palestinos em Gaza se reuniram por toda a Faixa e se dirigiram a locais especialmente preparados para assistir à partida da Copa do Mundo entre Egito e Bélgica. As transmissões contaram com o apoio do Comitê Egípcio de Ajuda Humanitária, uma organização humanitária criada pelo governo egípcio que atua em Gaza, […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/06/19/senti-como-se-a-guerra-tivesse-acabado-assistindo-a-copa-do-mundo-em-gaza/",
-          "publishedOn": "2026-06-19T22:34:56.000Z",
-          "wordCount": 3845,
-          "title": "“Senti como se a guerra tivesse acabado”: assistindo à Copa do Mundo em Gaza",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/06/gaza-copa-2.webp"
         }
       ]
     },
@@ -466,12 +483,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=258489",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente norte-americano Donald Trump criticou duramente o Senado dos Estados Unidos na terça-feira  (23/06) pela aprovação da resolução que visa pôr fim à ofensiva militar de Washington contra Teerã. Ele classificou a votação como “inoportuna e sem sentido”. “Então, eu tenho o Irã ‘nas cordas’, prestes a cair , disposto a nos conceder praticamente […]\nO post Trump critica Senado por votação que visa encerrar ofensiva no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/trump-critica-senado-por-votacao-que-visa-encerrar-ofensiva-no-ira-inoportuna-e-sem-sentido/",
+          "publishedOn": "2026-06-24T10:31:41.000Z",
+          "wordCount": 3100,
+          "title": "Trump critica Senado por votação que visa encerrar ofensiva no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/castigo-politico-de-trump-contra-exportaciones-de-brasil-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258486",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente do Irã, Masoud Pezeshkian, defendeu nesta terça-feira (24/06), em coletiva de imprensa, a criação de uma nova estrutura de segurança para o Oriente Médio baseada no diálogo, no respeito mútuo e na cooperação entre os países da região. Em visita oficial ao Paquistão, o mandatário afirmou que a estabilidade duradoura do Golfo Pérsico […]\nO post Presidente iraniano defende nova estrutura de segurança regional ‘sem interferências externas’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/presidente-iraniano-defende-nova-estrutura-de-seguranca-regional-sem-interferencias-externas/",
+          "publishedOn": "2026-06-24T10:16:31.000Z",
+          "wordCount": 3251,
+          "title": "Presidente iraniano defende nova estrutura de segurança regional ‘sem interferências externas’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/1405040308254692937208384.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258431",
+          "author": "Tatiana Carlotti",
+          "description": "A seleção escocesa entrará em campo contra o Brasil nesta quarta-feira (24/06), após 28 anos sem participar de uma Copa do Mundo, buscando um feito inédito para sua torcida, a tradicional Tartan Army: classificar-se para as fases decisivas do torneio, o chamado mata-mata. No entanto, a partida acontece em meio uma recoração talvez dolorosa para […]\nO post Rival do Brasil na Copa, Escócia amarga efeitos do Brexit, do qual foi contra apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/rival-do-brasil-na-copa-escocia-amarga-efeitos-do-brexit/",
+          "publishedOn": "2026-06-24T10:00:49.000Z",
+          "wordCount": 5153,
+          "title": "Rival do Brasil na Copa, Escócia amarga efeitos do Brexit, do qual foi contra",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/tartan_army_at_gillette_stadium.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258477",
+          "author": "Raissa Neves",
+          "description": "A Petrobras firmou, nesta terça-feira (23/06), um memorando de entendimento com a empresa estatal de petróleo do México, a Pemex, para exploração na parte mexicana do Golfo do México. A parceria estabelece uma cooperação estratégica e técnica para avaliação, desenvolvimento e execução conjunta de projetos na indústria de petróleo. As duas companhias avaliarão iniciativas voltadas à […]\nO post Petrobras amplia atuação internacional com acordo no Golfo do México apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petrobras-amplia-atuacao-internacional-com-acordo-no-golfo-do-mexico/",
+          "publishedOn": "2026-06-23T22:40:04.000Z",
+          "wordCount": 3354,
+          "title": "Petrobras amplia atuação internacional com acordo no Golfo do México",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/2025-04-07t200133z_1_lynxnpel360ws_rtroptp_3_petrobras-chairman.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=258444",
+          "author": "Raissa Neves",
+          "description": "A Comissão Internacional Independente de Inquérito sobre o Território Palestino Ocupado da ONU divulgou nesta terça-feira (23/06) que Israel “mirou” em crianças palestinas em meio a um “genocídio” na Faixa de Gaza. O governo israelense classificou as acusações como “difamatórias” e uma “farsa caluniosa”. O comitê, formado por juristas e investigadores ligados à Organização das […]\nO post Comissão independente da ONU denuncia Israel por ‘mirar’ em crianças palestinas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/comissao-independente-da-onu-denuncia-israel-por-mirar-em-criancas-palestinas/",
+          "publishedOn": "2026-06-23T22:00:12.000Z",
+          "wordCount": 3431,
+          "title": "Comissão independente da ONU denuncia Israel por ‘mirar’ em crianças palestinas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/6925741624_ef4c1fc557_c.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=258482",
           "author": "Victor Farinelli",
           "description": "O presidente do Irã, Masoud Pezeshkian, afirmou nesta terça-feira (23/06), durante viagem ao Paquistão, que “nenhuma negociação foi realizada, nem jamais será realizada, a respeito do direito do nosso país de manter o programa de mísseis balísticos”. “O programa (de mísseis balísticos) é a nossa garantia, pois desconfiamos dos Estados Unidos, porque fomos atacados duas […]\nO post Irã afirma que mísseis balísticos não serão parte de negociação com EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-misseis-balisticos-nao-serao-parte-de-negociacao-com-eua/",
           "publishedOn": "2026-06-23T21:54:56.000Z",
-          "wordCount": 3095,
+          "wordCount": 3097,
           "title": "Irã afirma que mísseis balísticos não serão parte de negociação com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/mesoud.jpg"
         },
@@ -481,7 +548,7 @@
           "description": "A Justiça dos Estados Unidos aceitou nesta terça-feira (23) pedido para que a Advocacia-Geral da União (AGU) possa atuar no processo movido pelas redes sociais Rumble e Trump Media contra o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. A decisão suspende a possibilidade de decretação de revelia contra o ministro pela falta de […]\nO post Justiça dos EUA aceita atuação da AGU em processo contra Alexandre de Moraes apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/justica-dos-eua-aceita-atuacao-da-agu-em-processo-contra-alexandre-de-moraes/",
           "publishedOn": "2026-06-23T20:40:20.000Z",
-          "wordCount": 2903,
+          "wordCount": 2905,
           "title": "Justiça dos EUA aceita atuação da AGU em processo contra Alexandre de Moraes",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/0d7a7600.jpg.webp"
         },
@@ -501,7 +568,7 @@
           "description": "Há mais de 60 anos, o povo cubano, seu governo e seu estado enfrentam uma perseguição, ilegal e injusta, da maior potência militar do planeta, o governo dos Estados Unidos. Democratas e republicanos disputaram no governo quem perseguia mais a pequena ilha socialista, alguns de forma mais explícita e outros de modo mais dissimulado. Esse […]\nO post Defender Cuba é defender a América Latina apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/defender-cuba-e-defender-a-america-latina/",
           "publishedOn": "2026-06-23T19:54:37.000Z",
-          "wordCount": 4539,
+          "wordCount": 4541,
           "title": "Defender Cuba é defender a América Latina",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/cuba.webp"
         },
@@ -511,59 +578,9 @@
           "description": "Há 111 anos, em 23 de junho de 1915, nascia o arquiteto, engenheiro e urbanista João Batista Vilanova Artigas. Formulador e principal expoente da Escola Paulista de Arquitetura, Artigas destacou-se por sua obra prolífica e original (contabilizando cerca de 700 projetos), aliando apuro técnico-construtivo, refinamento estético e engajamento político e social. Seus projetos são caracterizados […]\nO post Vilanova Artigas: o mestre do ‘brutalismo paulista’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/vilanova-artigas-o-mestre-do-brutalismo-paulista/",
           "publishedOn": "2026-06-23T19:30:01.000Z",
-          "wordCount": 4952,
+          "wordCount": 4954,
           "title": "Vilanova Artigas: o mestre do ‘brutalismo paulista’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/artigasfau.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258442",
-          "author": "Tabitha Ramalho",
-          "description": "O Registrador Nacional da Colômbia informou, nesta terça-feira (23/06), que a contagem final dos votos da disputa presidencial do fim de semana divergiu em apenas 0,003% das cédulas em relação à apuração inicial. Dessa forma, significa que a contagem inicial, que havia apontado a vitória do candidato de direita Abelardo De La Espriella (Defensores da […]\nO post Resultado oficial do 2º turno da Colômbia é quase idêntico ao preliminar, diz órgão eleitoral apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/resultado-oficial-do-2o-turno-da-colombia-e-quase-identico-ao-preliminar-diz-orgao-eleitoral/",
-          "publishedOn": "2026-06-23T18:55:06.000Z",
-          "wordCount": 3565,
-          "title": "Resultado oficial do 2º turno da Colômbia é quase idêntico ao preliminar, diz órgão eleitoral",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/whatsapp-image-2026-06-23-at-15.52.52.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258445",
-          "author": "Victor Farinelli",
-          "description": "Em declaração emitida nesta terça-feira (23/06), o candidato presidencial Roberto Sánchez, representante da coalizão de centro-esquerda Juntos Pelo Peru, afirmou que seu setor não reconhecerá uma possível oficialização da vitória da ultraconservadora Keiko Fujimori como vencedora do segundo turno das eleições presidenciais do país. Segundo Sánchez, o Escritório Nacional de Processos Eleitorais (ONPE, por sua […]\nO post Sánchez recusa reconhecer vitória de Keiko e convoca nova marcha no Peru apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/sanchez-recusa-reconhecer-vitoria-de-keiko-e-convoca-nova-marcha-no-peru/",
-          "publishedOn": "2026-06-23T18:49:02.000Z",
-          "wordCount": 3266,
-          "title": "Sánchez recusa reconhecer vitória de Keiko e convoca nova marcha no Peru",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/sanchez-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258435",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente dos Estados Unidos, Donald Trump, compartilhou um artigo do Newsmax nesta terça-feira (23/06) na Truth Social que diz que a disputa presidencial no Brasil será o seu próximo desafio como a “potência política da região” e a “mais importante do hemisfério”. O texto ressalta que ainda faltam quatro grandes desafios para o republicano, […]\nO post Trump compartilha texto que coloca eleição brasileira como ‘principal desafio’ na América Latina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/trump-compartilha-texto-que-coloca-eleicao-brasileira-como-principal-desafio-na-america-latina/",
-          "publishedOn": "2026-06-23T16:50:10.000Z",
-          "wordCount": 3094,
-          "title": "Trump compartilha texto que coloca eleição brasileira como ‘principal desafio’ na América Latina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55270308356_ed0cf99433_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258403",
-          "author": "Tabitha Ramalho",
-          "description": "A Índia abriu, na segunda-feira (22/06), a 16ª Reunião de Conselheiros de Segurança Nacional do BRICS em Nova Délhi, capital do país, com delegações de dez membros do grupo. O encontro, que se estende até terça-feira (23/06), tem como tema central “Desafios de segurança não tradicionais que confrontam o mundo hoje” e inclui discussões sobre […]\nO post China e Índia retomam diálogo no BRICS após tensões fronteiriças: ‘recuperação e melhoria’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brics/china-e-india-retomam-dialogo-no-brics-apos-tensoes-fronteiricas-recuperacao-e-melhoria/",
-          "publishedOn": "2026-06-23T15:40:03.000Z",
-          "wordCount": 4689,
-          "title": "China e Índia retomam diálogo no BRICS após tensões fronteiriças: ‘recuperação e melhoria’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/ministry-of-external-affairs-india-e29c6c46-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=258416",
-          "author": "Fernanda Oliveira",
-          "description": "Em praticamente todos os segmentos, conquistar a atenção do público se tornou um desafio diário. O consumidor está mais informado, pesquisa antes de comprar e interage com diversas marcas ao longo da sua jornada de decisão. Em mercados competitivos como São Paulo, esse cenário se torna ainda mais evidente. Empresas de diferentes portes disputam espaço […]\nO post Como escolher uma agência de marketing em São Paulo para impulsionar seu negócio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-conteudo/como-escolher-uma-agencia-de-marketing-em-sao-paulo-para-impulsionar-seu-negocio/",
-          "publishedOn": "2026-06-23T14:56:56.000Z",
-          "wordCount": 4638,
-          "title": "Como escolher uma agência de marketing em São Paulo para impulsionar seu negócio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/windows-w79mirykck4-unsplash.jpg"
         }
       ]
     },
@@ -818,7 +835,18 @@
       "title": "Blog da Boitempo",
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=65192",
+          "author": "Boitempo",
+          "description": "Isadora Szklo, responsável pela área de eventos da Boitempo, compartilha recordações e imagens da primeira visita da autora de \"O arcano da reprodução\" ao país: \"Foi uma coleção de encontros grandiosos que nos lembram do tamanho do legado de luta que o movimento feminista brasileiro construiu.\"",
+          "link": "https://blogdaboitempo.com.br/2026/06/24/uma-colecao-de-encontros-grandiosos-a-passagem-de-leopoldina-fortunati-pelo-brasil/",
+          "publishedOn": "2026-06-24T10:00:00.000Z",
+          "wordCount": 12495,
+          "title": "“Uma coleção de encontros grandiosos”: a passagem de Leopoldina Fortunati pelo Brasil",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/06/image-63.jpg?fit=900%2C1200&ssl=1"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
