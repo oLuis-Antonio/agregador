@@ -53,6 +53,26 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a405484d3cef4035895084d",
+          "author": "Redação",
+          "description": "Decisão do TRE-MA atende pedido do partido e impede divulgação de levantamento do Instituto INOP por indícios de irregularidades",
+          "link": "https://opiniaosocialista.com.br/justica-suspende-divulgacao-de-pesquisa-eleitoral-no-maranhao-apos-acao-do-pstu/",
+          "publishedOn": "2026-06-27T23:11:58.000Z",
+          "wordCount": 837,
+          "title": "Justiça suspende divulgação de pesquisa eleitoral no Maranhão após ação do PSTU",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/bandeira_site.webp"
+        },
+        {
+          "id": "6a405019d3cef4035895082f",
+          "author": "Renata França",
+          "description": "Sem acordão e sem transição: redução da jornada, sem redução de salários e direitos",
+          "link": "https://opiniaosocialista.com.br/dia-30-vamos-as-ruas-para-impor-uma-vitoria-no-senado-fim-da-escala-6x1-ja/",
+          "publishedOn": "2026-06-27T22:47:29.000Z",
+          "wordCount": 1561,
+          "title": "Dia 30 vamos às ruas para impor uma vitória no Senado: fim da escala 6x1, já!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/escala-6x1.webp"
+        },
+        {
           "id": "6a3fd232d3cef4035895079b",
           "author": "PSTU-SP",
           "description": "Maísa Mendes, de São Paulo (SP)\nEste ano, a Parada LGBTQIAP+ de São Paulo completou 30 anos. De acordo com o Monitor do Debate Político da USP/Cebrap, o evento reuniu 36,8 mil pessoas na avenida Paulista e reafirmou a import&",
@@ -68,7 +88,7 @@
           "description": "Rafael Duda, pré-candidato a governador de Minas Gerais pelo PSTU, e Geraldo Araújo Batata\nEstado mínimo para os trabalhadores. Estado amigo para as grandes empresas. É exatamente essa ideia que grita diante de nossos olhos frente às notícias sobre as isen&",
           "link": "https://opiniaosocialista.com.br/estado-capitalista-romeu-zema-e-a-relacao-espuria-com-grandes-empresas-em-minas-gerais/",
           "publishedOn": "2026-06-27T03:23:04.000Z",
-          "wordCount": 1484,
+          "wordCount": 1466,
           "title": "Estado capitalista, Romeu Zema e a relação espúria com grandes empresas em Minas Gerais",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/ambev.webp"
         },
@@ -88,7 +108,7 @@
           "description": "Aurélio Peres, Laerte e outros lutadores também serão homenageados por suas trajetórias de compromisso com a organização e a resistência da classe trabalhadora",
           "link": "https://opiniaosocialista.com.br/ze-maria-presidente-nacional-do-pstu-e-um-dos-homenageados-no-dia-da-luta-operaria/",
           "publishedOn": "2026-06-27T02:25:20.000Z",
-          "wordCount": 1080,
+          "wordCount": 1062,
           "title": "Zé Maria, presidente nacional do PSTU, é um dos homenageados no Dia da Luta Operária",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/z--_site.webp"
         },
@@ -108,7 +128,7 @@
           "description": "Referência na luta em defesa da educação pública, Vanessa compõe a chapa encabeçada pelo professor e rapper Hertz Dias nas eleições presidenciais de 2026",
           "link": "https://opiniaosocialista.com.br/pstu-anuncia-vanessa-portugal-como-pre-candidata-a-vice-presidente-da-republica/",
           "publishedOn": "2026-06-26T18:20:29.000Z",
-          "wordCount": 873,
+          "wordCount": 855,
           "title": "PSTU anuncia Vanessa Portugal como pré-candidata a vice-presidente da República",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Vanessa_Portugal_site.webp"
         },
@@ -138,7 +158,7 @@
           "description": "Na última quarta-feira, 24, às vésperas do jogo do Brasil contra a Escócia pela Copa do Mundo, Michelle Bolsonaro publicou vídeos em suas redes sociais acusando o enteado, Flávio Bolsonaro, de tê-la desrespeitado e humilhado durante uma discuss&",
           "link": "https://opiniaosocialista.com.br/por-que-michelle-levou-a-disputa-com-flavio-bolsonaro-para-as-redes-e-o-que-isso-nos-diz-sobre-o-bolsonarismo/",
           "publishedOn": "2026-06-25T22:42:48.000Z",
-          "wordCount": 1849,
+          "wordCount": 1853,
           "title": "Por que Michelle levou a disputa com Flávio Bolsonaro para as redes e o que isso nos diz sobre o bolsonarismo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Michelle-Bolsonaro.webp"
         },
@@ -168,7 +188,7 @@
           "description": "Deputada federal Erika Hilton trava briga pública contra a direção nacional do partido sobre a distribuição do fundo eleitoral",
           "link": "https://opiniaosocialista.com.br/a-polemica-no-psol-e-os-limites-de-um-projeto-eleitoral/",
           "publishedOn": "2026-06-25T20:44:18.000Z",
-          "wordCount": 1440,
+          "wordCount": 1444,
           "title": "A polêmica no PSOL e os limites de um projeto eleitoral",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/PSOL.webp"
         },
@@ -181,26 +201,6 @@
           "wordCount": 1623,
           "title": "Zema quer as mulheres estudando menos? O machismo da direita e a defesa do trabalho doméstico gratuito",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/zema.webp"
-        },
-        {
-          "id": "6a3c2a97d3cef40358950545",
-          "author": "Érika Andreassy",
-          "description": "A defesa do direito ao aborto sempre enfrentou uma dificuldade política: a direita procura enquadrar a discussão como um problema moral, enquanto o movimento feminista e os setores progressistas respondem corretamente apontando que se trata de uma questão de saúde pú",
-          "link": "https://opiniaosocialista.com.br/aborto-democracia-e-os-limites-do-poder-do-estado/",
-          "publishedOn": "2026-06-24T19:19:19.000Z",
-          "wordCount": 2941,
-          "title": "Aborto, democracia e os limites do poder do Estado",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/Meu---tero----laico.webp"
-        },
-        {
-          "id": "6a3beb5bd3cef403589504fa",
-          "author": "PSTU-MG",
-          "description": "Rafael Ávila (Duda), de Congonhas (MG)\nNo último domingo, 21 de junho, mais uma morte anunciada ocorreu na CSN Mineração, em Congonhas (MG). Às 5h20 da manhã, o trabalhador Herman Bittencourt Beata, técnico em mineração, foi esmagado por",
-          "link": "https://opiniaosocialista.com.br/minerio-sujo-de-sangue-essa-e-a-heranca-deixada-pela-mineracao-e-o-sistema-capitalista-no-pais/",
-          "publishedOn": "2026-06-24T14:53:16.000Z",
-          "wordCount": 1911,
-          "title": "Minério sujo de sangue: Essa é a herança deixada pela mineração e o sistema capitalista no país",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/acidente-csn-congonhas.webp"
         }
       ]
     },
@@ -333,26 +333,6 @@
           "wordCount": null,
           "title": "Mineiro morre na CSN em acidente de trabalho enquanto cumpria escala 6x1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Chile-Prendem-nossa-camarada-Alejandra-Valderrama-por-sua-solidariedade-a-Palestina",
-          "author": "Redação Internacional",
-          "description": "Nossa camarada Alejandra Valderrama, porta-voz do Pão e Rosas - Valparaíso, foi presa juntamente com Patricio Opazo, membro da Coordenação de Ação pela Palestina em Valparaíso, durante um protesto em solidariedade ao povo palestino. Exigimos sua libertação imediata.\n23-06-2026\n\n/ Internacional, Chile, Palestina, #FreePalestine",
-          "link": "https://www.esquerdadiario.com.br/Chile-Prendem-nossa-camarada-Alejandra-Valderrama-por-sua-solidariedade-a-Palestina",
-          "publishedOn": "2026-06-23T15:55:31.000Z",
-          "wordCount": null,
-          "title": "Chile: Prendem nossa camarada Alejandra Valderrama por sua solidariedade à Palestina",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Policia-e-acionada-para-intimidar-professores-que-ensinavam-cultura-afro-brasileira",
-          "author": "Redação",
-          "description": "A Escola Municipal Antônio Bento, em São Paulo, a PM de Tarcísio Freitas protagonizou mais uma cena cotidiana de perseguição ao ensino da história e da cultura afro-brasileira.\n23-06-2026\n\n/ Luta Antirracista, São Paulo (capital), Educação, PM São Paulo, PM, Racismo, Tarcísio de Freitas",
-          "link": "https://www.esquerdadiario.com.br/Policia-e-acionada-para-intimidar-professores-que-ensinavam-cultura-afro-brasileira",
-          "publishedOn": "2026-06-23T14:44:04.000Z",
-          "wordCount": null,
-          "title": "Polícia é acionada para intimidar professores que ensinavam cultura afro-brasileira",
-          "imageUrl": null
         }
       ]
     },
@@ -457,16 +437,6 @@
           "wordCount": 5322,
           "title": "Ponte Jornalismo participa de evento sobre juventude negra e comunicação antirracista em SP",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/6a392cbe1a99a-lg-1.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=161144",
-          "author": "Paulo Batistella",
-          "description": "Sistema prisional paulista precisou fazer, só em 2025, ao menos 49.864 exames, que se tornaram obrigatórios em função de lei apoiada pelo próprio governador. Relator na Alesp negou emendas do PT e PSOL que ampliariam meta de 2027.\nO conteúdo Com fila e 5 mil pedidos por mês, Tarcísio quer contratar 8,6 mil exames criminológicos em 2027 Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/tarcisio-meta-exames-criminologicos-2027/",
-          "publishedOn": "2026-06-23T15:14:55.000Z",
-          "wordCount": 5878,
-          "title": "Com fila e 5 mil pedidos por mês, Tarcísio quer contratar 8,6 mil exames criminológicos em 2027",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/tarcisio-de-freitas-policia-penal-sp-Foto-Monica-AndradeGoverno-do-Estado-de-SP.webp"
         }
       ]
     },
@@ -625,16 +595,20 @@
       ]
     },
     {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
-    },
-    {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=228868",
+          "author": "Redação de AND",
+          "description": "No 994º dia desde o Dilúvio de Al-Aqsa, o país Estados Unidos (EUA) lançou nova agressão contra instalações iranianas nas províncias meridionais de Hormozgan, atingindo as áreas de Sirik e Qeshm sob o pretexto de um incidente no Estreito de Ormuz. A chancelaria iraniana classificou os bombardeios como “ataques aéreos terroristas ianques”, denunciou a violação do Memorando de Islamabad e reafirmou o direito à autodefesa. O Corpo de Guardiões da Revolução Islâmica do Irã (CGRI) informou ter atingido posições militares ianques na região e advertiu que qualquer nova agressão receberá resposta mais ampla. No Líbano, Sheikh Naim Qassem rechaçou como “humilhante” e “vergonhoso” o acordo-marco firmado pelo governo lacaio em Washington com a entidade nazi-sionista, enquanto Gaza registrou novos massacres contra pessoas deslocadas.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-27-06-2026/",
+          "publishedOn": "2026-06-28T02:50:42.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (27/06): ‘Ataques terroristas ianques’ violam Memorando; Irã atinge posições militares do EUA",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=228858",
           "author": "Redação de AND",
@@ -723,16 +697,6 @@
           "publishedOn": "2026-06-25T20:54:32.000Z",
           "wordCount": null,
           "title": "Michelle ‘Trinca-clã’ ataca Flávio ‘Rachadinha’ e aprofunda pugna por direção da extrema direita",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=228746",
-          "author": "Ana Nascimento",
-          "description": "Cerca de 300 famílias camponesas organizadas pelo MST ocuparam a Fazenda Sálvia, em Planaltina (DF), contra a especulação imobiliária em terras públicas da União. Os acampados denunciam o histórico de violência dos guaxebas, a paralisia da reforma agrária sob a gerência de Luiz Inácio e reafirmam a necessidade da autodefesa popular.",
-          "link": "https://anovademocracia.com.br/df-ocupacao-mst-denuncia-grilagem/",
-          "publishedOn": "2026-06-25T20:30:10.000Z",
-          "wordCount": null,
-          "title": "DF: Ocupação do MST em Planaltina denuncia o avanço da grilagem e o domínio do latifúndio",
           "imageUrl": null
         }
       ]
@@ -892,7 +856,7 @@
           "description": "Orwell descreveu sua visão pessoal e extremamente rancorosa sobre o stalinismo, facilitando a vida da burguesia quando buscar sustentar essa obra como um livro sagrado do anticomunismo. Michel Goulart da Silva",
           "link": "https://passapalavra.info/2026/06/159384/",
           "publishedOn": "2026-06-25T11:25:05.000Z",
-          "wordCount": 6649,
+          "wordCount": 6712,
           "title": "George Orwell e a revolução",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/06/destaque.jpg"
         },
