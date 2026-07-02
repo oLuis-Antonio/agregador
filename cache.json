@@ -171,16 +171,6 @@
           "wordCount": 1788,
           "title": "Michelle Bolsonaro e os limites do poder feminino no bolsonarismo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/Michelle_Bolsonaro.webp"
-        },
-        {
-          "id": "6a405484d3cef4035895084d",
-          "author": "Redação",
-          "description": "Decisão do TRE-MA atende pedido do partido e impede divulgação de levantamento do Instituto INOP por indícios de irregularidades",
-          "link": "https://opiniaosocialista.com.br/justica-suspende-divulgacao-de-pesquisa-eleitoral-no-maranhao-apos-acao-do-pstu/",
-          "publishedOn": "2026-06-27T23:11:58.000Z",
-          "wordCount": 849,
-          "title": "Justiça suspende divulgação de pesquisa eleitoral no Maranhão após ação do PSTU",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/bandeira_site.webp"
         }
       ]
     },
@@ -398,23 +388,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=259286",
+          "author": "Tatiana Carlotti",
+          "description": "O governo eleito da Colômbia, liderado por Abelardo de la Espriella, anunciou nesta terça-feira (01/06) um plano de ajuste econômico que visa cumprir a promessa de campanha do ultradireitista de reduzir em 40% o tamanho do Estado. A posse do novo governo está marcada para o dia 7 de agosto. Para atingir esse objetivo, De […]\nO post Colômbia: futuro ministro das Finanças anuncia austeridade e afirma que ‘festa acabou’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/colombia-futuro-ministro-das-financas-anuncia-austeridade-e-afirma-que-festa-acabou/",
+          "publishedOn": "2026-07-02T13:27:53.000Z",
+          "wordCount": 3259,
+          "title": "Colômbia: futuro ministro das Finanças anuncia austeridade e afirma que ‘festa acabou’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/caracoltv.brightspotcdn.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259285",
+          "author": "Tabitha Ramalho",
+          "description": "Um grupo de cinco cidadãos venezuelanos apresentou uma queixa contra o presidente Nicolás Maduro por supostas execuções extrajudiciais de seis de seus familiares entre 2017 e 2021. A denúncia foi protocolada na terça-feira (30/06), em um tribunal federal do Distrito Leste de Nova York. O processo, de 44 páginas, alega que as execuções foram realizadas […]\nO post Maduro é alvo de novo processo nos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/maduro-e-alvo-de-novo-processo-nos-eua/",
+          "publishedOn": "2026-07-02T13:18:39.000Z",
+          "wordCount": 3169,
+          "title": "Maduro é alvo de novo processo nos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/53d16109-8938-4196-9768-210475003ab6-431312010-432396605977904-7863001732659263871-n.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259274",
+          "author": "Tatiana Carlotti",
+          "description": "As Forças Armadas Russas lançaram um ataque massivo contra instalações militares e da indústria petrolífera em Kiev e na região circundante, informou o Ministério da Defesa russo, nesta quinta-feira (02/07). As tropas de Moscou usaram armamento aéreo, terrestre e marítimo de precisão de longo alcance, além de drones de ataque. A ofensiva atingiu instalações da […]\nO post Rússia bombardeia aeródromos e instalações militares ucranianas após ataques de Kiev apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-ataca-industria-militar-ucraniana-apos-bombardeios-de-kiev/",
+          "publishedOn": "2026-07-02T11:08:15.000Z",
+          "wordCount": 3233,
+          "title": "Rússia bombardeia aeródromos e instalações militares ucranianas após ataques de Kiev",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1479463.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=259265",
           "author": "Tatiana Carlotti",
-          "description": "O Secretário-Geral das Nações Unidas , António Guterres, informou a Assembleia Geral que a Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Oriente Próximo ( UNRWA ) necessita urgentemente de 100 milhões de dólares para resolver uma grave crise de liquidez que atingiu um ponto crítico, pondo em risco o atendimento a […]\nO post Crise financeira de agência da ONU deixa milhões de palestinos em risco apareceu primeiro em Opera Mundi.",
+          "description": "O Secretário-Geral das Nações Unidas , António Guterres, informou a Assembleia Geral que a Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Oriente Próximo ( UNRWA ) necessita urgentemente de US$ 100 milhões (cerca de R$ 520 milhões) para resolver uma grave crise de liquidez que atingiu um ponto crítico, pondo em […]\nO post Crise financeira de agência da ONU deixa milhões de palestinos em risco apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/crise-financeira-de-agencia-da-onu-deixa-milhoes-de-palestinos-em-risco/",
           "publishedOn": "2026-07-02T10:29:58.000Z",
-          "wordCount": 3628,
+          "wordCount": 3634,
           "title": "Crise financeira de agência da ONU deixa milhões de palestinos em risco",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/image1170x530cropped.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=259259",
           "author": "Tatiana Carlotti",
-          "description": "Irã anuncia canal de comunicação com os Estados Unidos a respeito de violações de memorando após reunião no Catar. Enquanto negociações indiretas mediadas pelos anfitriões e pelo Paquistão estavam ocorrendo no Catar, veio à tona que o Irã exportou 50 milhões de barris de petróleo desde a assinatura do memorando, duas semanas atrás. O Irã […]\nO post Teerã anuncia canal direto com EUA para discutir violações do acordo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/teera-anuncia-canal-direto-com-washington-para-tratar-de-violacoes-do-acordo/",
+          "description": "O Irã estabelecerá um canal de comunicação com os Estados Unidos para tratar das violações do memorando de entendimento, disse o vice-ministro das Relações Exteriores iraniano, Kazem Gharibabadi, nesta quarta-feira (01/06), após conversas técnicas indiretas realizadas no Catar. O acordo foi assinado há duas semanas pelos presidentes de ambos os países visando reduzir a escalada […]\nO post Teerã anuncia ‘canal de comunicação’ com EUA para discutir violações do acordo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/teera-anuncia-canal-de-comunicacao-com-eua-para-discutir-violacoes-do-acordo/",
           "publishedOn": "2026-07-02T10:01:07.000Z",
-          "wordCount": 4591,
-          "title": "Teerã anuncia canal direto com EUA para discutir violações do acordo",
+          "wordCount": 4598,
+          "title": "Teerã anuncia ‘canal de comunicação’ com EUA para discutir violações do acordo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/140502201841358436706914.jpg"
         },
         {
@@ -423,7 +443,7 @@
           "description": "A Meta concordou em remover, a pedido de Israel, publicações no Facebook e Instagram que continham mensagens de apoio ao Irã, críticas ao governo israelense, imagens e vídeos sobre as consequências dos ataques de mísseis iranianos, bem como conteúdo relacionado a análises militares, de acordo com o veículo de mídia americano The Intercept. Segundo documentos […]\nO post Meta censurou publicações sobre a guerra no Irã a pedido de Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/meta-censurou-publicacoes-sobre-a-guerra-no-ira-a-pedido-de-israel/",
           "publishedOn": "2026-07-01T22:47:57.000Z",
-          "wordCount": 3610,
+          "wordCount": 3650,
           "title": "Meta censurou publicações sobre a guerra no Irã a pedido de Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/mehr.jpg"
         },
@@ -433,7 +453,7 @@
           "description": "Em declaração dada nesta quarta-feira (01/07), o porta-voz do Ministério das Relações Exteriores do Catar, Majed al-Ansari, afirmou que houve um “progresso positivo” no diálogo entre Irã e os Estados Unidos, durante reunião realizada em Doha. Segundo al-Ansari, houve um avanço em questões relacionadas ao Memorando de Entendimento estabelecido na primeira etapa de negociações, que […]\nO post Catar relata ‘progresso positivo’ em diálogo entre Irã e EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/catar-relata-progresso-positivo-em-dialogo-entre-ira-e-eua/",
           "publishedOn": "2026-07-01T22:00:51.000Z",
-          "wordCount": 2828,
+          "wordCount": 2827,
           "title": "Catar relata ‘progresso positivo’ em diálogo entre Irã e EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ansari.jpg"
         },
@@ -443,7 +463,7 @@
           "description": "A Corte de Cassação da Itália decidiu, nesta quarta-feira (01/07), anular o julgamento que autorizou a extradição a ex-deputada federal Carla Zambelli ao Brasil e determinou que o caso deve ser julgado novamente. Zambelli segue como foragida da Justiça brasileira. O advogado da ex-deputada no Brasil, Fábio Pagnozzi, informou à Agência Brasil que a Corte de Cassação, a […]\nO post Corte da Itália manda refazer julgamento sobre extradição de Zambelli apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/corte-da-italia-manda-refazer-julgamento-sobre-extradicao-de-zambelli/",
           "publishedOn": "2026-07-01T21:40:30.000Z",
-          "wordCount": 3213,
+          "wordCount": 3204,
           "title": "Corte da Itália manda refazer julgamento sobre extradição de Zambelli",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula1051-8.webp"
         },
@@ -453,7 +473,7 @@
           "description": "Depois de Marine Le Pen, um novo escândalo de corrupção atinge a extrema direita na França. Desta vez, Jordan Bardella, apontado como possível candidato do Reunião Nacional (RN) à presidência, está no centro de uma investigação sobre o uso indevido de milhões de euros em recursos públicos europeus. Aos 30 anos, ele é visto como […]\nO post Nova suspeita de corrupção atinge extrema direita francesa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/nova-suspeita-de-corrupcao-atinge-extrema-direita-francesa/",
           "publishedOn": "2026-07-01T21:01:39.000Z",
-          "wordCount": 3922,
+          "wordCount": 3914,
           "title": "Nova suspeita de corrupção atinge extrema direita francesa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/jordan.jpg"
         },
@@ -463,39 +483,9 @@
           "description": "Que o brasileiro ama futebol, a gente já sabe. Mas de quatro em quatro anos muitos de nós nos tornamos, por um breve período de tempo, anti-colonialistas e inegavelmente latino-americanos. É uma curiosidade imensa para mim que essas novas identidades sejam somente acionadas por períodos de tempo tão distantes um do outro, mas é como […]\nO post A Copa do Mundo é uma oportunidade para conhecer mais sobre a África apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-copa-do-mundo-e-uma-oportunidade-para-conhecer-mais-sobre-a-africa/",
           "publishedOn": "2026-07-01T20:32:22.000Z",
-          "wordCount": 3641,
+          "wordCount": 3632,
           "title": "A Copa do Mundo é uma oportunidade para conhecer mais sobre a África",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/first_game_of_the_2010_fifa_world_cup_south_africa_vs_mexico4.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259223",
-          "author": "Raissa Neves",
-          "description": "Há 36 anos, em 1º de julho de 1990, começava em São Paulo o primeiro Encontro de Partidos e Organizações de Esquerda da América Latina e do Caribe. O seminário internacional, organizado pelo Partido dos Trabalhadores (PT) e outras organizações de esquerda, daria origem ao Foro de São Paulo. Idealizado por Luiz Inácio Lula da […]\nO post Foro de São Paulo: integração latino-americana e a ‘Onda Rosa’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/foro-de-sao-paulo-integracao-latino-americana-e-a-onda-rosa/",
-          "publishedOn": "2026-07-01T20:20:14.000Z",
-          "wordCount": 5565,
-          "title": "Foro de São Paulo: integração latino-americana e a ‘Onda Rosa’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula-celebra-os-30-anos-do-foro-de-sao-paulo.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259214",
-          "author": "Rocio Paik",
-          "description": "Os Estados Unidos assinaram nesta quarta-feira (01/07) um acordo para a construção de sua embaixada permanente em Jerusalém. Para Israel, a iniciativa representa mais uma demonstração da “aliança inabalável” entre os dois países. Durante seu primeiro mandato, em dezembro de 2017, o presidente norte-americano Donald Trump reconheceu Jerusalém como a capital de Israel, rompendo com […]\nO post EUA assinam acordo para construir embaixada permanente em Jerusalém apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/eua-assinam-acordo-para-construir-embaixada-permanente-em-jerusalem/",
-          "publishedOn": "2026-07-01T19:40:09.000Z",
-          "wordCount": 3512,
-          "title": "EUA assinam acordo para construir embaixada permanente em Jerusalém",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmi22quwkaeirrp.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259212",
-          "author": "Raissa Neves",
-          "description": "O governo dos Estados Unidos anunciou nesta quarta-feira (01/07) sanções contra dois brasileiros, três empresas sediadas em São Paulo e uma empresa portuguesa, todos apontados pelas autoridades norte-americanas por suposta participação em um esquema de lavagem de dinheiro ligado ao Primeiro Comando da Capital (PCC). Os brasileiros alvos da primeira rodada de sanções econômicas do […]\nO post EUA anunciam sanções contra brasileiros e empresas por suposta ligação com PCC apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/eua-anunciam-sancoes-contra-brasileiros-e-empresas-por-suposta-ligacao-com-pcc/",
-          "publishedOn": "2026-07-01T19:13:56.000Z",
-          "wordCount": 3636,
-          "title": "EUA anunciam sanções contra brasileiros e empresas por suposta ligação com PCC",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/p20260624dt-2094.webp"
         }
       ]
     },
@@ -768,6 +758,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=65269",
+          "author": "Boitempo",
+          "description": "Em clima de Copa do Mundo, o Blog da Boitempo convidou o jornalista Juca Kfouri para indicar quatro filmes que todo fã de futebol precisa conhecer. Do drama à comédia, a lista inclui obras que retratam o papel do esporte em momentos históricos marcantes, celebram seus ícones e levantam debates para além dos estádios.",
+          "link": "https://blogdaboitempo.com.br/2026/07/02/a-paixao-pelo-futebol-na-tela-dos-cinemas/",
+          "publishedOn": "2026-07-02T11:00:00.000Z",
+          "wordCount": 11442,
+          "title": "A paixão pelo futebol na tela dos cinemas",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image.png?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=65244",
           "author": "Boitempo",
