@@ -171,16 +171,6 @@
           "wordCount": 2032,
           "title": "Diante dos terremotos que sacudiram a Venezuela: Solidariedade absoluta com o povo trabalhador",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/06/venezuela-terremoto.webp"
-        },
-        {
-          "id": "6a41ce85d3cef40358950874",
-          "author": "Érika Andreassy",
-          "description": "No artigo “Por que Michelle levou a disputa com Flávio Bolsonaro para as redes e o que isso nos diz sobre o bolsonarismo” demonstramos que o conflito entre Michelle e Flávio Bolsonaro não opõe dois projetos distintos, ambos defendem o",
-          "link": "https://opiniaosocialista.com.br/michelle-bolsonaro-e-os-limites-do-poder-feminino-no-bolsonarismo/",
-          "publishedOn": "2026-06-29T01:59:34.000Z",
-          "wordCount": 1788,
-          "title": "Michelle Bolsonaro e os limites do poder feminino no bolsonarismo",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/06/Michelle_Bolsonaro.webp"
         }
       ]
     },
@@ -189,6 +179,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Entre-copas-e-espadas",
+          "author": "Iuri Tonelo",
+          "description": "Comentários sobre a Copa, sinergia do Sul Global e o sentimento anti-imperialista no Mundo.\nMatérias\n\n/ Copa do Mundo",
+          "link": "https://www.esquerdadiario.com.br/Entre-copas-e-espadas",
+          "publishedOn": "2026-07-03T13:04:34.000Z",
+          "wordCount": null,
+          "title": "Entre copas e espadas",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-participa-de-evento-sionista-na-Argentina-ao-lado-de-Javier-Milei",
           "author": "Redação",
@@ -308,6 +308,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=161388",
+          "author": "Paulo Batistella",
+          "description": "Sem mandado judicial, policiais entraram em centro religioso de matriz africana e apreenderam tambores em noite de celebração a São João e Xangô. Espaço terá de ser fechado por luto de profanação, segundo sacerdote afirmou à Ponte\nO conteúdo ‘Ele disse que ia mostrar quem manda’: PM invade terreiro em Manaus e leva itens religiosos Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/ele-disse-que-ia-mostrar-quem-manda-pm-invade-terreiro-em-manaus-e-leva-itens-religiosos/",
+          "publishedOn": "2026-07-03T14:11:10.000Z",
+          "wordCount": 5604,
+          "title": "‘Ele disse que ia mostrar quem manda’: PM invade terreiro em Manaus e leva itens religiosos",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/461495F6-1665-4B9B-8362-529668A1887C.webp"
+        },
         {
           "id": "https://ponte.org/?p=161376",
           "author": "Paulo Batistella",
@@ -443,32 +453,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=259412",
+          "author": "Tatiana Carlotti",
+          "description": "Israel teria planos de assassinar os dois principais negociadores do acordo de paz entre Washington e Teerã: o ministro das Relações Exteriores do Irã, Abbas Araghchi, e o presidente do Parlamento iraniano, Mohammad Bagher Ghalibaf. Reportagem do The New York Times, publicada nesta quinta-feira (02/07), a partir de relatos de autoridades da administração Trump e […]\nO post EUA acreditavam que Israel planejava matar negociadores iranianos, diz NYT apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-acreditavam-que-israel-planejava-matar-negociadores-iranianos-diz-nyt/",
+          "publishedOn": "2026-07-03T13:46:10.000Z",
+          "wordCount": 3591,
+          "title": "EUA acreditavam que Israel planejava matar negociadores iranianos, diz NYT",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/airna.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259409",
+          "author": "Tabitha Ramalho",
+          "description": "A OpenAI discutiu a possibilidade de conceder ao governo dos Estados Unidos uma participação de 5% na empresa, enquanto a companhia de inteligência artificial (IA) busca melhorar suas relações com a Casa Branca de presidente Donald Trump, reportou o jornal Financial Times nesta quinta-feira (02/07). O diretor executivo Sam Altman tem defendido que oferecer ao […]\nO post OpenAI discute ceder participação de 5% ao governo dos EUA, afirma jornal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/openai-discute-ceder-participacao-de-5-ao-governo-dos-eua-afirma-jornal/",
+          "publishedOn": "2026-07-03T12:57:31.000Z",
+          "wordCount": 3586,
+          "title": "OpenAI discute ceder participação de 5% ao governo dos EUA, afirma jornal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/77466936_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259388",
+          "author": "Tatiana Carlotti",
+          "description": "Autoridades de 100 países participarão das cerimônias de despedida do Líder Supremo Ali Khamenei (1939-2026), incluindo dignitários, chefes de Estado e de parlamentos, ministros das Relações Exteriores e representantes especiais de governos. A agenda inclui eventos em Teerã, Qom e Mashhad até 9 de julho. As autoridades iranianas abriram quatro complexos de alojamento para peregrinos […]\nO post Teerã recebe autoridades de cem países para cerimônias fúnebres de Ali Khamenei apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/teera-recebe-autoridades-de-cem-paises-para-cerimonias-funebres-de-ali-khamenei/",
+          "publishedOn": "2026-07-03T10:47:59.000Z",
+          "wordCount": 3605,
+          "title": "Teerã recebe autoridades de cem países para cerimônias fúnebres de Ali Khamenei",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1404112813163476735686484.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=259385",
           "author": "Tatiana Carlotti",
-          "description": "Os ataques militares entre Washington e Teerã cessaram em meio ao avanço das negociações do memorando de entendimento, mas a guerra de narrativas entre os países continua. Nesta quinta-feira (02/06), o presidente dos Estados Unidos, Donald Trump, afirmou ter liquidado as forças iranianas, a resposta foi imediata. Nesta sexta-feira (03/07), o presidente do Parlamento do […]\nO post Irã afirma que responderá ‘firmemente’ caso EUA e Israel descumpram acordo apareceu primeiro em Opera Mundi.",
+          "description": "Os ataques militares entre Washington e Teerã cessaram em meio ao avanço das negociações do memorando de entendimento, mas a guerra de narrativas entre os países continua. Nesta quinta-feira (02/06), o presidente dos Estados Unidos, Donald Trump, afirmou ter “liquidado” as forças iranianas, gerando resposta imediata das autoridades do país. Nesta sexta-feira (03/07), o presidente […]\nO post Irã afirma que responderá ‘firmemente’ caso EUA e Israel descumpram acordo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-respondera-firmemente-caso-eua-e-israel-descumpram-acordo/",
           "publishedOn": "2026-07-03T10:28:47.000Z",
-          "wordCount": 3398,
+          "wordCount": 3507,
           "title": "Irã afirma que responderá ‘firmemente’ caso EUA e Israel descumpram acordo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405041212444818337321974.jpg"
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hldv8n-weaajvw2-1-1024x576.jpg.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=259383",
           "author": "Tatiana Carlotti",
-          "description": "O governo espanhol vetou a Palantir Technologies, empresa apoiada pela Agência Central de Inteligência dos EUA (CIA), excluindo assim a empresa de tecnologia de novos contratos com entidades estatais devido a preocupações com a segurança interna e riscos de vulnerabilidade em dados confidenciais. O gabinete do primeiro-ministro espanhol emitiu diretrizes para empresas pertencentes à Sociedade […]\nO post Espanha veta contratos da Palatir com empresas públicas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/espanha-veta-contratos-da-palatir-com-empresas-publicas/",
+          "description": "O governo espanhol vetou a Palantir Technologies, empresa apoiada pela Agência Central de Inteligência dos Estados Unidos (CIA), excluindo a empresa de tecnologia de novos contratos com entidades estatais devido a preocupações com a segurança interna e riscos de vulnerabilidade em dados confidenciais. O gabinete do primeiro-ministro espanhol emitiu diretrizes para que empresas pertencentes à […]\nO post Espanha veta contratos da Palantir com empresas públicas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/espanha-veta-contratos-da-palantir-com-empresas-publicas/",
           "publishedOn": "2026-07-03T09:37:18.000Z",
-          "wordCount": 3830,
-          "title": "Espanha veta contratos da Palatir com empresas públicas",
+          "wordCount": 3811,
+          "title": "Espanha veta contratos da Palantir com empresas públicas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/32215763362_b62ef08e5f_c.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=259374",
           "author": "Victor Farinelli",
-          "description": "Um cientista político iraniano entrou com um processo no Tribunal Federal de Boston, nos Estados Unidos contra a Federação Internacional de Futebol Associado (FIFA) e contra seu presidente, Gianni Infantino, por considerar injusta a eliminação do país na Copa do Mundo 2026, devido a decisões que prejudicaram a seleção do Irã ao longo do torneio. […]\nO post Iraniano processa FIFA por ‘discriminação’ contra país na Copa e pede indenização de US$ 1 bilhão apareceu primeiro em Opera Mundi.",
+          "description": "Um cientista político iraniano entrou com um processo no Tribunal Federal de Boston, nos Estados Unidos, contra a Federação Internacional de Futebol Associado (FIFA) e contra seu presidente, Gianni Infantino, por considerar injusta a eliminação do país na Copa do Mundo 2026, devido às decisões que prejudicaram a seleção do Irã ao longo do torneio. […]\nO post Iraniano processa FIFA por ‘discriminação’ contra país na Copa e pede indenização de US$ 1 bilhão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/iraniano-processa-fifa-por-discriminacao-contra-pais-na-copa-e-pede-indenizacao-de-us-1-bilhao/",
           "publishedOn": "2026-07-02T21:59:03.000Z",
-          "wordCount": 3117,
+          "wordCount": 3115,
           "title": "Iraniano processa FIFA por ‘discriminação’ contra país na Copa e pede indenização de US$ 1 bilhão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/irani.jpg"
         },
@@ -478,7 +518,7 @@
           "description": "O presidente do Brasil, Luiz Inácio Lula da Silva, classificou nesta quinta-feira (02/07) como “uma atitude de traidores da Pátria” o documento enviado pelo senador e pré-candidato presidencial Flávio Bolsonaro ao governo dos Estados Unidos. A declaração foi publicada em sua conta na rede social X. No documento de 86 páginas, encaminhado ao Escritório do […]\nO post ‘Atitude de traidores da Pátria’, diz Lula sobre carta de Flávio Bolsonaro aos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-diz-que-carta-de-flavio-bolsonaro-a-governo-dos-eua-e-atitude-de-traidores-da-patria/",
           "publishedOn": "2026-07-02T21:55:36.000Z",
-          "wordCount": 3931,
+          "wordCount": 3843,
           "title": "‘Atitude de traidores da Pátria’, diz Lula sobre carta de Flávio Bolsonaro aos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula4809_0.webp"
         },
@@ -488,7 +528,7 @@
           "description": "Promotores federais da Alemanha apresentaram acusações contra um cidadão ucraniano pelos ataques aos gasodutos Nord Stream em setembro de 2022, relatou a mídia alemã nesta quarta-feira (01/07). A emissora pública ARD e os jornais Süddeutsche Zeitung e Die Zeit identificaram o acusado como Serhii K., que foi detido na Itália com base em um mandado […]\nO post Alemanha indicia ucraniano por ataque a gasoduto Nord Stream apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/alemanha-indicia-ucraniano-por-ataque-a-gasoduto-nord-stream/",
           "publishedOn": "2026-07-02T21:40:40.000Z",
-          "wordCount": 3389,
+          "wordCount": 3386,
           "title": "Alemanha indicia ucraniano por ataque a gasoduto Nord Stream",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/75610575_303.jpg"
         },
@@ -498,7 +538,7 @@
           "description": "Em documento enviado aos Estados Unidos, o governo brasileiro contestou a proposta de tarifaço de 25% contra produtos do Brasil sugerida pelo Representante Comercial norte-americano (USTR). O Itamaraty destacou que a medida prejudicaria as próprias empresas norte-americanas. “Amplas tarifas sobre produtos brasileiros imporiam custos reais à economia dos Estados Unidos”, conclui documento de 29 páginas […]\nO post Brasil defende Pix ao responder taifaço dos EUA: ‘taxas prejudicariam empresas norte-americanas’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-defende-pix-ao-responder-taifaco-dos-eua-taxas-prejudicariam-empresas-norte-americanas/",
           "publishedOn": "2026-07-02T20:30:00.000Z",
-          "wordCount": 4372,
+          "wordCount": 4367,
           "title": "Brasil defende Pix ao responder taifaço dos EUA: ‘taxas prejudicariam empresas norte-americanas’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/mauro.jpg"
         },
@@ -508,39 +548,9 @@
           "description": "Na última semana, a Câmara de Vereadores do Rio de Janeiro aprovou a adoção, no município, da definição para antissemitismo da organização de países estrangeiros IHRA, na contramão da posição oficial da diplomacia brasileira. Tal definição constitui um instrumento ideológico que equipara o antissionismo ao antissemitismo, criminalizando a solidariedade à Palestina. A organização atua através […]\nO post A lei que pode tornar Lula ‘antissemita’: os riscos da definição da IHRA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-lei-que-pode-tornar-lula-antissemita-os-riscos-da-definicao-da-ihra/",
           "publishedOn": "2026-07-02T20:20:55.000Z",
-          "wordCount": 6135,
+          "wordCount": 6132,
           "title": "A lei que pode tornar Lula ‘antissemita’: os riscos da definição da IHRA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/55076593293_92fe4c3c93_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259365",
-          "author": "Raissa Neves",
-          "description": "Há 112 anos, em 2 de julho de 1914, nascia o físico, matemático, crítico de arte e militante comunista Mário Schenberg. Pioneiro e maior expoente da física teórica no Brasil, Schenberg desenvolveu trabalhos de referência nos campos da mecânica quântica, termodinâmica, astrofísica e teoria das partículas elementares. Considerado por Albert Einstein como um dos dez […]\nO post Mário Schenberg: militante comunista e pioneiro da física teórica no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/mario-schenberg-militante-comunista-e-pioneiro-da-fisica-teorica-no-brasil/",
-          "publishedOn": "2026-07-02T19:55:55.000Z",
-          "wordCount": 5157,
-          "title": "Mário Schenberg: militante comunista e pioneiro da física teórica no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/schenberg.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259308",
-          "author": "Tabitha Ramalho",
-          "description": "O Museu Britânico removeu os termos Palestina, palestino e ocupação israelense de suas exposições em resposta direta a meses de pressão em 2024, segundo uma investigação do Middle East Eye (MEE). Em fevereiro de 2026, o museu defendeu sua decisão de alterar algumas exposições, afirmando que testes com o público mostraram que o termo Palestina […]\nO post Middle East Eye: museu britânico mentiu ao explicar sobre remoção do termo ‘Palestina’ de exposições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/middle-east-eye-museu-britanico-mentiu-ao-explicar-sobre-remocao-do-termo-palestina-de-exposicoes/",
-          "publishedOn": "2026-07-02T19:40:26.000Z",
-          "wordCount": 3397,
-          "title": "Middle East Eye: museu britânico mentiu ao explicar sobre remoção do termo ‘Palestina’ de exposições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/500px-british_museum_from_ne_2_cropped.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259346",
-          "author": "Rocio Paik",
-          "description": "O Exército iraniano reforçou nesta quinta-feira (02/07) seu destacamento nas fronteiras do país e, em especial, na capital Teerã como parte das medidas de segurança para a cerimônia fúnebre do ex-líder supremo, aiatolá Ali Khamenei, que terá início neste sábado (04/07). As comemorações começam no Grande Mosalla do Imam Khomeini e, posteriormente, são continuadas nas […]\nO post Irã prepara cerimônia fúnebre de Ali Khamenei e reforça segurança nacional apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-prepara-cerimonia-funebre-de-ali-khamenei-e-reforca-seguranca-nacional/",
-          "publishedOn": "2026-07-02T19:00:59.000Z",
-          "wordCount": 3304,
-          "title": "Irã prepara cerimônia fúnebre de Ali Khamenei e reforça segurança nacional",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/172959174.jpg"
         }
       ]
     },
@@ -824,12 +834,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=65299",
+          "author": "Boitempo",
+          "description": "A jornalista Juliana Sayuri apresenta o livro do mês do Armas da Crítica – o clube do livro da Boitempo: \"'Decasségui' entrou nos nossos dicionários na década de 2000, quando se consolidava o fenômeno de nipo-brasileiros que atravessaram meio-mundo para trabalhar em fábricas do Japão. Mariana Shinohara Roncato investiga o assunto sob as lentes de classe, gênero, raça e etnia.\"",
+          "link": "https://blogdaboitempo.com.br/2026/07/03/como-vivem-os-imigrantes-brasileiros-que-trabalham-no-japao/",
+          "publishedOn": "2026-07-03T11:00:00.000Z",
+          "wordCount": 12117,
+          "title": "Como vivem os imigrantes brasileiros que trabalham no Japão?",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/toyota.jpg"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=65320",
           "author": "Boitempo",
           "description": "\"Mergulhada na efetiva concretude e na dura realidade, Mariana Shinohara Roncato, ancorada na teoria da reprodução social, articulou criativamente o nó górdio que enfeixa as complexas e imbricadas dimensões entre classe, gênero, etnia e raça, desvendando enigmas presentes no modo de ser decasségui.\" Ricardo Antunes apresenta 'Fronteiras do trabalho\", novo título da coleção Mundo do Trabalho que chega em primeira mão aos assinantes do Armas da Crítica de julho de 2026.",
           "link": "https://blogdaboitempo.com.br/2026/07/02/fronteiras-do-trabalho-da-vida-cotidiana-para-a-teoria/",
           "publishedOn": "2026-07-02T22:05:13.000Z",
-          "wordCount": 12003,
+          "wordCount": 12154,
           "title": "Fronteiras do trabalho: da vida cotidiana para a teoria",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/banner-blog-adc-69.jpg"
         },
@@ -849,7 +869,7 @@
           "description": "Edson Teles:  \"A abertura da Vala Clandestina de Perus, em 1990, durante o governo da prefeita Luiza Erundina, pode ser apontada como um marco para as ciências forenses de direitos humanos no Brasil. A exumação de mais de mil ossadas, registrada pelas câmeras de TV, gerou repercussão internacional e transformou a materialidade em elemento ativo de disputa política, narrativa histórica e memória coletiva.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/01/as-evidencias-da-memoria-e-as-tecnologias-de-governo/",
           "publishedOn": "2026-07-01T11:00:00.000Z",
-          "wordCount": 12744,
+          "wordCount": 12887,
           "title": "As evidências da memória e as tecnologias de governo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-22.png"
         },
