@@ -11,7 +11,7 @@
           "description": "Como resposta à política de arrocho fiscal da Prefeitura de São Paulo, trabalhadores da educação municipal realizaram greve denunciando os impactos do neoliberalismo sobre a escola pública.",
           "link": "https://jornalofuturo.com.br/artigo/5pYqFr-greve-do-magisterio-municipal-de-sao-paulo-escancara-urgencia-da-luta-contra-as-politicas-economicas-neoliberais",
           "publishedOn": "2026-07-06T21:00:00.000Z",
-          "wordCount": 2519,
+          "wordCount": 2536,
           "title": "Greve do magistério municipal de São Paulo escancara urgência da luta contra as políticas econômicas neoliberais",
           "imageUrl": "https://media.jornalofuturo.com.br/grevesp-1280x960.jpg"
         },
@@ -34,16 +34,6 @@
           "wordCount": 2545,
           "title": "Greve dos estudantes das universidades estaduais de São Paulo arranca vitórias e denuncia projeto de austeridade contra educação",
           "imageUrl": "https://media.jornalofuturo.com.br/ato20msp-1280x719.jpg"
-        },
-        {
-          "id": "18lAJI",
-          "author": null,
-          "description": "Enquanto o 7 de setembro consagrou um príncipe como símbolo da emancipação nacional, foi a vitória conquistada pelo povo baiano em 2 de julho de 1823 que expulsou definitivamente as tropas portuguesas do país.",
-          "link": "https://jornalofuturo.com.br/artigo/18lAJI-2-de-julho-a-verdadeira-independencia-do-brasil-so-se-dara-com-a-revolucao-socialista",
-          "publishedOn": "2026-07-02T15:00:00.000Z",
-          "wordCount": 4280,
-          "title": "2 de julho: a verdadeira Independência do Brasil só se dará com a revolução socialista!",
-          "imageUrl": "https://media.jornalofuturo.com.br/pcbr2julho25-1280x1707.jpg"
         }
       ]
     },
@@ -99,6 +89,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Efetivos-e-terceirizados-da-USP-fazem-paralisacao-unificada-contra-as-demissoes-da-empresa-J-Leal-e",
+          "author": "Redação",
+          "description": "Em um forte exemplo de unidade da classe trabalhadora, trabalhadores terceirizados e efetivos cruzaram os braços nesta segunda-feira (6) contra as demissões arbitrárias, a perseguição e a precarização e pela imediata readmissão. O Sindicato dos Trabalhadores da USP convoca um ato para esta terça-feira (7), às 9h, no Restaurante Central da universidade. \n Nesta segunda-feira, 6 de julho, as trabalhadoras e trabalhadores terceirizados do Bandejão Central da USP deram um importante exemplo de (…)\n06-07-2026\n\n/ Classe trabalhadora, Terceirização, bandejão da USP, Trabalhadores Terceirizados, Reitoria USP, USP, paralisação, Greve na USP",
+          "link": "https://www.esquerdadiario.com.br/Efetivos-e-terceirizados-da-USP-fazem-paralisacao-unificada-contra-as-demissoes-da-empresa-J-Leal-e",
+          "publishedOn": "2026-07-06T21:55:10.000Z",
+          "wordCount": null,
+          "title": "Efetivos e terceirizados da USP fazem paralisação unificada contra as demissões da empresa J. Leal e convocam ato para esta terça às 9h. Todo apoio!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Carta-de-Flavio-Bolsonaro-fala-em-adiar-as-tarifas-e-reforca-sua-vassalagem-a-Trump",
           "author": "Redação",
@@ -197,6 +197,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=444095",
+          "author": "Gisele Lobato",
+          "description": "Cheguei à Venezuela esperando o caos. Após cobrir o país por mais de uma década, eu sabia que a resposta ao maior terremoto da história venezuelana desde 1900 seria difícil para um Estado depauperado, afundado em uma crise estrutural. Mas confesso que não esperava encontrar o que vi nas ruas de La Guaira, cidade no […]\nO post O horror que vi de perto cobrindo o terremoto na Venezuela apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/07/06/o-horror-que-vi-de-perto-cobrindo-o-terremoto-na-venezuela/",
+          "publishedOn": "2026-07-06T22:22:35.000Z",
+          "wordCount": null,
+          "title": "O horror que vi de perto cobrindo o terremoto na Venezuela",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/07/Yan-Boechat-VEN-1.jpg.jpeg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/07/Yan-Boechat-VEN-1.jpg.jpeg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=444075",
           "author": "Isabella Mota",
           "description": "Mudanças provocadas pela tecnologia não são uma novidade da nossa época, mas uma regra que sustenta o capitalismo desde o seu início.\nO post A IA não vai acabar com o trabalho – vai piorar os empregos apareceu primeiro em Intercept Brasil.",
@@ -225,21 +240,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/07/bacellar-sostenes-poncio-Header.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444049",
-          "author": "Gisele Lobato",
-          "description": "Comandado por Paulo Calixto, advogado de Eduardo Bolsonaro, o Havengate prometeu até green card para atrair investidores brasileiros. Apesar de a iniciativa não sair do papel, fundo seguiu ativo e foi usado por Vorcaro para enviar dinheiro negociado com Flávio Bolsonaro.\nO post Fundo Havengate abandonou projeto imobiliário antes de receber milhões de Vorcaro para ‘Dark Horse’ apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/",
-          "publishedOn": "2026-07-02T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Fundo Havengate abandonou projeto imobiliário antes de receber milhões de Vorcaro para ‘Dark Horse’",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/07/3DGpnrN8-AQNVF0o8cS4W4Skp183ZXAQXVjYG5dUPJayVIp8ltkTEN1fDOYmKgRcNNtBrsHXzwewQyn4MK_s73KDJzg3fOnU.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -267,16 +267,6 @@
           "wordCount": 5604,
           "title": "‘Ele disse que ia mostrar quem manda’: PM invade terreiro em Manaus e leva itens religiosos",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/461495F6-1665-4B9B-8362-529668A1887C.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=161376",
-          "author": "Paulo Batistella",
-          "description": "TJSP entendeu que caberia apenas ao MPSP o direito de recorrer de decisão que negou a prisão dos policiais envolvidos na morte de Marco Aurélio Cardenas, ignorando precedente recente do STJ\nO conteúdo Família é impedida pela Justiça de SP de pedir prisão de PMs que mataram estudante de medicina Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/familia-e-impedida-pela-justica-de-sp-de-pedir-prisao-de-pms-que-mataram-estudante-de-medicina/",
-          "publishedOn": "2026-07-02T15:06:32.000Z",
-          "wordCount": 5462,
-          "title": "Família é impedida pela Justiça de SP de pedir prisão de PMs que mataram estudante de medicina",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2025/02/Marco-Aurelio-Cardenas-Acosta.webp"
         }
       ]
     },
@@ -324,16 +314,6 @@
           "wordCount": 4338,
           "title": "O patrimônio escondido em paraísos fiscais supera o da metade mais pobre da humanidade",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/paraisos-fiscais.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74022",
-          "author": "Middle East Monitor",
-          "description": "uando o presidente Donald Trump anunciou, em 31 de maio, que Tom Barrack atuaria simultaneamente como embaixador dos EUA em Ancara, enviado especial presidencial para a Síria e, agora, enviado especial presidencial para o Iraque, a comunidade diplomática em Bagdá recebeu a notícia com o interesse moderado que se reserva a uma reorganização de rotina. […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/02/o-banqueiro-de-bagda-como-tom-barrack-planeja-enfraquecer-as-milicias-pro-ira-no-iraque/",
-          "publishedOn": "2026-07-02T15:44:33.000Z",
-          "wordCount": 3838,
-          "title": "O banqueiro de Bagdá: como Tom Barrack planeja enfraquecer as milícias pró-Irã no Iraque",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/tom-barrack-eua-iraque-ira.webp"
         }
       ]
     },
@@ -343,12 +323,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=259666",
+          "author": "Victor Farinelli",
+          "description": "O procurador-geral da República, Paulo Gonet, defendeu nesta segunda-feira (06/07) que o senador Flávio Bolsonaro (PL-RJ) seja ouvido no inquérito no qual o parlamentar é investigado pela prática de calúnia contra o presidente da República, Luiz Inácio Lula da Silva. O parecer foi enviado ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), relator […]\nO post PGR pede que Flávio Bolsonaro seja ouvido por calúnia contra Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/pgr-pede-que-flavio-bolsonaro-seja-ouvido-por-calunia-contra-lula/",
+          "publishedOn": "2026-07-06T22:30:51.000Z",
+          "wordCount": 2936,
+          "title": "PGR pede que Flávio Bolsonaro seja ouvido por calúnia contra Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/flavio.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=259649",
           "author": "Rocio Paik",
           "description": "Os caixões do ex-líder supremo, aiatolá Ali Khamenei, e de integrantes de sua família foram acompanhados por milhões de iranianos pelas ruas da capital Teerã nesta segunda-feira (06/07) e devem ser transferidos para a cidade santa de Qom no dia seguinte. A expectativa é de que, posteriormente, eles ingressem no território iraquiano para receber tributo […]\nO post Caixão de Khamenei é transferido para cidade de Qom; iranianos exigem ‘morte aos EUA e Israel’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/caixao-de-khamenei-e-transferido-para-cidade-de-qom-iranianos-exigem-morte-aos-eua-e-israel/",
           "publishedOn": "2026-07-06T21:30:32.000Z",
-          "wordCount": 3163,
+          "wordCount": 3160,
           "title": "Caixão de Khamenei é transferido para cidade de Qom; iranianos exigem ‘morte aos EUA e Israel’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/fc11756a-0a2b-4add-8932-030454602c04-captura-de-tela-2026-07-04-as-22.37.44.webp"
         },
@@ -358,7 +348,7 @@
           "description": "O mundo vive uma corrida pela liderança tecnológica da fusão nuclear, defendida por alguns como potencial fonte de energia massiva e livre de gases de efeito estufa. Embora a viabilidade econômica de uma eventual usina seja incerta, cada vez mais bilhões de dólares vêm sendo aplicados por governos, empresas e investidores privados. No segundo semestre […]\nO post EUA e China disputam liderança em energia de fusão nuclear apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/eua-e-china-disputam-lideranca-em-energia-de-fusao-nuclear/",
           "publishedOn": "2026-07-06T20:50:56.000Z",
-          "wordCount": 4098,
+          "wordCount": 4095,
           "title": "EUA e China disputam liderança em energia de fusão nuclear",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/the_jet_magnetic_fusion_experiment_in_1991.jpg"
         },
@@ -368,7 +358,7 @@
           "description": "A Federação Internacional de Futebol (FIFA) provocou uma reviravolta no domingo (05/07) ao suspender um cartão vermelho contra um atacante dos Estados Unidos na Copa do Mundo. O presidente norte-americano, Donald Trump, confirmou ter pedido diretamente ao presidente da entidade, Gianni Infantino, que a decisão do árbitro brasileiro Raphael Claus fosse revisada.  “Pedi uma revisão […]\nO post Intervenção de Trump na Copa expõe laços políticos da FIFA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/intervencao-de-trump-na-copa-expoe-lacos-politicos-da-fifa/",
           "publishedOn": "2026-07-06T20:20:22.000Z",
-          "wordCount": 4285,
+          "wordCount": 4282,
           "title": "Intervenção de Trump na Copa expõe laços políticos da FIFA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/66cf5d61-9877-46f5-8c4c-f67c7b7961cd-captura-de-tela-2026-06-26-as-19.16.57.webp"
         },
@@ -378,7 +368,7 @@
           "description": "Há 119 anos, em 6 de julho de 1907, nascia a pintora mexicana Frida Kahlo. Considerada uma das maiores artistas do século 20, Frida se destacou por seu estilo original, mesclando elementos da cultura popular, do surrealismo, da arte colonial e das vanguardas artísticas latino-americanas. Suas pinturas evocavam cenas do cotidianos, paisagens fantásticas, temas históricos […]\nO post Transformando a dor em arte: trajetória de Frida Kahlo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/transformando-a-dor-em-arte-trajetoria-de-frida-kahlo/",
           "publishedOn": "2026-07-06T19:40:48.000Z",
-          "wordCount": 4935,
+          "wordCount": 4934,
           "title": "Transformando a dor em arte: trajetória de Frida Kahlo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/frida_kahlo_by_guillermo_kahlo_cropped.jpg"
         },
@@ -388,7 +378,7 @@
           "description": "A audiência pública promovida pelo Escritório do Representante de Comércio dos Estados Unidos (USTR) para discutir a possível imposição de uma tarifa adicional de 25% sobre produtos brasileiros começa nesta segunda-feira (06/07), em Washington. De acordo com a Reuters, o senador e pré-candidato presidencial Flávio Bolsonaro planeja instar o governo Trump a adiar a proposta. […]\nO post EUA iniciam audiência sobre tarifa de 25% a produtos brasileiros; entenda apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/eua-iniciam-audiencia-sobre-tarifa-de-25-a-produtos-brasileiros-entenda/",
           "publishedOn": "2026-07-06T19:00:55.000Z",
-          "wordCount": 3779,
+          "wordCount": 3693,
           "title": "EUA iniciam audiência sobre tarifa de 25% a produtos brasileiros; entenda",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/whitehousesouthfacade.jpg"
         },
@@ -398,7 +388,7 @@
           "description": "A defesa da Palestina não foi, para o aiatolá Seyyed Ali Khamenei, uma questão circunstancial de política externa. Constituiu o eixo permanente de sua atuação política, diplomática e estratégica ao longo de quase quatro décadas à frente da República Islâmica do Irã.  Desde a Revolução Islâmica de 1979, a causa palestina deixou de ser apenas […]\nO post Ali Khamenei e a Palestina como eixo permanente da Revolução Islâmica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/ali-khamenei-e-a-palestina-como-eixo-permanente-da-revolucao-islamica/",
           "publishedOn": "2026-07-06T18:34:34.000Z",
-          "wordCount": 4015,
+          "wordCount": 4012,
           "title": "Ali Khamenei e a Palestina como eixo permanente da Revolução Islâmica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ali_khamenei_2026.02.12.jpg"
         },
@@ -408,7 +398,7 @@
           "description": "Os membros da OPEP+ anunciaram planos para aumentar a produção de petróleo, à medida que os mercados de energia mostram sinais incipientes de recuperação em meio às consequências da guerra entre EUA e Israel contra o Irã. Os sete países membros – Arábia Saudita, Rússia, Iraque, Kuwait, Cazaquistão, Argélia e Omã – vão aumentar a […]\nO post Membros da OPEP+ afirmam que irão expandir produção mensal de petróleo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/membros-da-opep-afirmam-que-irao-expandir-producao-mensal-de-petroleo/",
           "publishedOn": "2026-07-06T18:20:17.000Z",
-          "wordCount": 3148,
+          "wordCount": 3147,
           "title": "Membros da OPEP+ afirmam que irão expandir produção mensal de petróleo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/960px-wien_-_opec-zentrale_a.jpg"
         },
@@ -418,7 +408,7 @@
           "description": "Na mesma Europa em que parisienses nadam em canais e fontes para suportar o calor extremo das últimas semanas, governos reconhecem que a crise climática é movida pela queima de carvão, petróleo e gás, mas aceleram e propagam uma política de rearmamento e preparação para a guerra – como se essa “grande estratégia” não tivesse […]\nO post A Europa arde e a extrema-direita transforma a crise climática em política contra imigrantes apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-europa-arde-e-a-extrema-direita-transforma-a-crise-climatica-em-politica-contra-imigrantes/",
           "publishedOn": "2026-07-06T18:18:58.000Z",
-          "wordCount": 3898,
+          "wordCount": 3895,
           "title": "A Europa arde e a extrema-direita transforma a crise climática em política contra imigrantes",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/36975683230_baa57fc95c_c.jpg"
         },
@@ -428,19 +418,9 @@
           "description": "Quando soube que viajaria para o Irã, a primeira coisa que passou pela minha cabeça foi evitar comparar culturas, costumes e modo de vida entre o que vivo e conheço do Ocidente com o que iria encontrar por aqui. Aprendi cedo que analisar sob minha lupa o Oriente seria um processo fadado ao fracasso; se […]\nO post Irã: a opressão contra as mulheres apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/ira-a-opressao-contra-as-mulheres/",
           "publishedOn": "2026-07-06T17:48:51.000Z",
-          "wordCount": 4124,
+          "wordCount": 4121,
           "title": "Irã: a opressão contra as mulheres",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/15032841626_722003b7a8_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259604",
-          "author": "Tatiana Carlotti",
-          "description": "O Partido Democrata trava uma disputa interna sobre a melhor estratégia para enfrentar o presidente norte-americano Donald Trump nas eleições legislativas de novembro. Segundo The New York Times a legenda tem apostado em candidaturas outsiders e progressistas que prometem profundas mudanças nos Estados Unidos. O apoio a essas candidaturas acompanha a mudança de humor entre […]\nO post Democratas avaliam apoiar progressistas para enfrentar Trump nas eleições parlamentares, diz NYT apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/democratas-avaliam-apoiar-progressistas-para-enfrentar-trump-nas-eleicoes-parlamentares-diz-nyt/",
-          "publishedOn": "2026-07-06T17:40:47.000Z",
-          "wordCount": 3779,
-          "title": "Democratas avaliam apoiar progressistas para enfrentar Trump nas eleições parlamentares, diz NYT",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/@mandani.jpg"
         }
       ]
     },
@@ -465,7 +445,7 @@
           "description": "Wesley Safadão, Xand Avião e Ana Castela estão no top 40; série em nosso canal repercute o relatório Farras, que mapeou mais de 20 mil contratos de shows públicos, pagos por prefeituras e governos estaduais; líder do levantamento ultrapassa R$ 158 milhões em cachês Por Bruno Stankevicius Bassi Apenas quarenta bandas receberam R$ 3,08 bilhões […]\nO post Vídeo mostra os 40 artistas que receberam R$ 3 bilhões em shows com dinheiro público apareceu primeiro em De Olho nos Ruralistas.",
           "link": "https://deolhonosruralistas.com.br/2026/07/02/farras-escolhidos/",
           "publishedOn": "2026-07-02T23:39:32.000Z",
-          "wordCount": 2622,
+          "wordCount": 2621,
           "title": "Vídeo mostra os 40 artistas que receberam R$ 3 bilhões em shows com dinheiro público",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/07/thumb-03.jpg"
         }
@@ -476,6 +456,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229253",
+          "author": "Redação de AND",
+          "description": "No 1.003º dia desde o Dilúvio de Al-Aqsa, Hamas anunciou a dissolução da Comissão de Emergência que administrava os serviços públicos em Gaza, removendo um dos pretextos usados pela entidade nazi-sionista e seus aliados para bloquear a entrada do Comitê Nacional palestino de administração na Faixa. A medida ocorre enquanto a ocupação prossegue com os massacres: ao menos cinco palestinos foram assassinados em Gaza nas últimas 24 horas, e quatro civis, entre eles a diretora de uma escola pública, foram mortos por um drone sionista em Nabatieh al-Fawqa, no Sul do Líbano.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-06-07-2026/",
+          "publishedOn": "2026-07-06T22:23:43.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (06/07): Hamas dissolve Comitê de Emergência e derruba pretextos nazi-sionistas para prolongar genocídio",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229247",
           "author": "Redação de AND",
@@ -565,16 +555,6 @@
           "wordCount": null,
           "title": "Plantão Palestina (03/07): Acordo Irã-Omã exclui EUA da administração de Ormuz; Resistência Libanesa fere 3 invasores em Bint Jbeil",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229163",
-          "author": "Redação de AND",
-          "description": "Em sua tentativa de justificar a continuidade do projeto, André de Paula afirmou que o resultado era fruto de um trabalho conduzido pelo presidente Luiz Inácio, \"sempre com a convicção de que era possível conciliar responsabilidade fiscal e expansão sustentável do crédito rural\".O discurso ignora que a chamada responsabilidade fiscal é, historicamente, um mecanismo para conter gastos com direitos democráticos das massas, enquanto se abre a torneira para o grande capital.",
-          "link": "https://anovademocracia.com.br/governo-latifundio-plano-safra/",
-          "publishedOn": "2026-07-03T23:07:58.000Z",
-          "wordCount": null,
-          "title": "Governo entrega R$ 525,1 bilhões ao latifúndio através do Plano Safra 2026/2027",
-          "imageUrl": null
         }
       ]
     },
@@ -601,12 +581,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3189983",
+          "author": "Marcelo Phintener",
+          "description": "Há um desejo difuso de autonomia, claro. Mas “negócio próprio” é mais retrato da precarização do que sonho, mostra pesquisa sobre MEIs. Maioria é da periferia, vive de bicos e \"empreende\" como saída ao desemprego. E 70% preferiria a CLT… \nThe post O Brasil de <i>empreendedores</i> desamparados appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/brasil-de-empreendedores-desamparados/",
+          "publishedOn": "2026-07-06T21:50:17.000Z",
+          "wordCount": 6354,
+          "title": "O Brasil de empreendedores desamparados",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/ChatGPT-Image-6-de-jul.-de-2026-19_02_29.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3189971",
+          "author": "Pedro Paulo Zahluth Bastos",
+          "description": "Impossível negar o neoliberalismo no seio dos governos petistas, mesmo que oscilante. Em Lula 3, repete-se o “ajuste fiscal”; desta vez, com mais concessões ao capital. Um quarto mandato insistirá nesta fábula que faz o país regredir há quatro décadas?\nThe post As duas faces do lulismo no jogo neoliberal appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/as-duas-faces-do-lulismo-no-jogo-neoliberal/",
+          "publishedOn": "2026-07-06T21:42:15.000Z",
+          "wordCount": 6593,
+          "title": "As duas faces do lulismo no jogo neoliberal",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-18-40-46-2024-07-03T171201Z_1_LYNXMPEK620V1_RTROPTP_4_MACRO-HADDAD-DOLAR.jpg-imagem-JPEG-1280-×-851-pixels-Redimensionada-76.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3189747",
           "author": "Luiz Cesar de Queiroz Ribeiro e Nelson Diniz",
           "description": "Crise financeira das famílias alcança patamar histórico: quase triplicou em duas décadas. Mais que anomalia, é resultado de fórmula comum nas periferias urbanas: jornadas extensas, baixos salários e falso otimismo de inclusão financeira, a partir da dependência do crédito\nThe post Endividamento: Dá para parcelar a vida digna? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/endividamento-da-para-parcelar-a-vida-digna/",
           "publishedOn": "2026-07-06T20:51:47.000Z",
-          "wordCount": 5503,
+          "wordCount": 5521,
           "title": "Endividamento: Dá para parcelar a vida digna?",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/dec_feature_cover_1.jpg"
         },
@@ -636,7 +636,7 @@
           "description": "Empresa tenta responder aos gargalos da nova tecnologia: preços altos e dependências dos usuários corporativos. Ousada, quer apropriar-se da ideia de “soberania”. Mas seu modelo, que cria uma submissão ainda mais profunda, é alvo do governo espanhol\nThe post IA: A semana em que a Palantir passou de caçadora a caça appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-a-semana-em-que-a-palantir-passou-de-cacadora-a-caca/",
           "publishedOn": "2026-07-06T18:49:08.000Z",
-          "wordCount": 4462,
+          "wordCount": 4454,
           "title": "IA: A semana em que a Palantir passou de caçadora a caça",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5068996574444195284_y.jpg"
         },
@@ -679,26 +679,6 @@
           "wordCount": 5203,
           "title": "Classe média, o sargento da oligarquia",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/BN-KM345_MIDDLE_J_20150925122845.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3189821",
-          "author": "Diego Pautasso",
-          "description": "Novo livro reúne textos criados por mais de 70 pesquisadores e fornece ferramenta inédita de compreensão de um dos fenômenos mais relevantes do século XXI. Através de verbetes, percorre conceitos centrais e cria visão panorâmica da trajetória singular da China socialista\nThe post Um dicionário para entender o socialismo chinês appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/um-dicionario-para-entender-o-socialismo-chines/",
-          "publishedOn": "2026-07-03T20:05:12.000Z",
-          "wordCount": 3663,
-          "title": "Um dicionário para entender o socialismo chinês",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5062540203511188516_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3189825",
-          "author": "Lucas Silva Pamio",
-          "description": "Exame dos condomínios rurais de luxo, nova tendência na especulação imobiliária. Seu suposto charme é vender, além da exclusividade, o fascínio do urbano: escolas, comércio e até praias sintéticas. Porém, “livre” da diversidade e do colorido das cidades reais\nThe post A ilusão mórbida da cidade por assinatura appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/a-ilusao-morbida-da-cidade-por-assinatura/",
-          "publishedOn": "2026-07-03T19:42:39.000Z",
-          "wordCount": 4402,
-          "title": "A ilusão mórbida da cidade por assinatura",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5062345916370586861_w.jpg"
         }
       ]
     },
@@ -730,7 +710,7 @@
           "description": "Gabriel S. Figueiredo resenha o novo livro de Fabio Mascaro Querido: \"Querido delineia um Walter Benjamin devidamente complexo, rejeitando as leituras que isolam textos específicos do autor, 'como se uma abordagem de conjunto fosse impossível, dadas as diferenças significativas entre eles'.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/06/rememorando-walter-benjamin/",
           "publishedOn": "2026-07-06T11:00:00.000Z",
-          "wordCount": 12566,
+          "wordCount": 12427,
           "title": "Rememorando Walter Benjamin",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/benjamin-na-praia.jpg"
         },
@@ -750,7 +730,7 @@
           "description": "Cláudio Rodrigues divide as histórias por trás de seu livro \"Crias do Titanzim\", publicado pela Boitatá: \"O nome titã, se hoje é uma licença poética e política vinculada à luta dos moradores, origina-se de uma máquina de tamanho descomunal que levava pedras para a construção do dique de proteção da enseada. O povo pegou emprestada a força do gigante de ferro para se autodenominar amorosamente Titanzinho. Estava escrita aí sua sina.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/04/de-quarto-de-despejo-de-fortaleza-a-praia-de-campeoes-conheca-a-comunidade-do-titanzinho/",
           "publishedOn": "2026-07-04T11:00:00.000Z",
-          "wordCount": 13752,
+          "wordCount": 13609,
           "title": "De quarto de despejo de Fortaleza a praia de campeões: conheça a comunidade do Titanzinho",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/crias-do-titanzim.jpg"
         },
@@ -773,16 +753,6 @@
           "wordCount": 12003,
           "title": "Fronteiras do trabalho: da vida cotidiana para a teoria",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/banner-blog-adc-69.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65269",
-          "author": "Boitempo",
-          "description": "Em clima de Copa do Mundo, o Blog da Boitempo convidou o jornalista Juca Kfouri para indicar quatro filmes que todo fã de futebol precisa conhecer. Do drama à comédia, a lista inclui obras que retratam o papel do esporte em momentos históricos marcantes, celebram seus ícones e levantam debates para além dos estádios.",
-          "link": "https://blogdaboitempo.com.br/2026/07/02/a-paixao-pelo-futebol-na-tela-dos-cinemas/",
-          "publishedOn": "2026-07-02T11:00:00.000Z",
-          "wordCount": 11299,
-          "title": "A paixão pelo futebol na tela dos cinemas",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image.png?fit=1200%2C675&ssl=1"
         }
       ]
     }
