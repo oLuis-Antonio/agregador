@@ -43,6 +43,26 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a4ff9e6d3cef40358950bf9",
+          "author": "Érika Andreassy",
+          "description": "Nos últimos dias veio a público uma história que atravessa quase toda a vida de uma mulher de 62 anos. Em junho, uma operação da Auditoria-Fiscal do Trabalho a resgatou de condições análogas à escravidão",
+          "link": "https://opiniaosocialista.com.br/a-escravidao-mora-na-casa-ao-lado/",
+          "publishedOn": "2026-07-09T19:59:28.000Z",
+          "wordCount": 2144,
+          "title": "A escravidão mora na casa ao lado",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Patroes-sacavam-Bolsa-Familia-de-domestica-resgatada-de-trabalho-escravo.webp"
+        },
+        {
+          "id": "6a4ff18dd3cef40358950bda",
+          "author": "PSTU-RS",
+          "description": "Marcelo Soares, do Litoral Norte do RS e Felipe Akauan, da Serra Gaúcha\nEnquanto se debate o licenciamento da nova fábrica da CMPC (Companhia Manufatureira de Papéis e Cartões) em Barra do Ribeiro (RS), que vai gerar sérios impactos no",
+          "link": "https://opiniaosocialista.com.br/data-centers-ilustram-projetos-de-submissao-no-rio-grande-do-sul/",
+          "publishedOn": "2026-07-09T19:15:12.000Z",
+          "wordCount": 2797,
+          "title": "Data centers ilustram projetos de submissão no Rio Grande do Sul",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/WhatsApp-Image-2026-07-08-at-19.20.33.webp"
+        },
+        {
           "id": "6a4fbfe9d3cef40358950bb4",
           "author": "Renata França",
           "description": "É preciso destravar a luta para destravar a PEC. Fim da escala 6x1, já!",
@@ -89,6 +109,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Justica-brasileira-reduz-55-anos-de-escravidao-a-R-300-por-mes",
+          "author": "Maré",
+          "description": "Indenização à mulher escravizada por 55 anos equivale a apenas 1/5 de um salário mínimo mensal.\nMatérias\n\n/ Classe trabalhadora, Poder Judiciário, Trabalho análogo à escravidão, Sônia Livre!",
+          "link": "https://www.esquerdadiario.com.br/Justica-brasileira-reduz-55-anos-de-escravidao-a-R-300-por-mes",
+          "publishedOn": "2026-07-09T18:24:14.000Z",
+          "wordCount": null,
+          "title": "Justiça brasileira reduz 55 anos de escravidão a R$300 por mês",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Lula-elogia-Rodrigo-Paz-em-meio-a-repressao-perseguicao-e-militarizacao-do-estado-de-excecao",
           "author": "Gabriel Fardin",
@@ -416,6 +446,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74067",
+          "author": "El Salto",
+          "description": "s Estados Unidos afirmam ter realizado mais de 90 ataques contra a República Islâmica do Irã nas últimas horas. Esses quase cem bombardeios somam-se aos 80 realizados na madrugada de terça-feira, 7 de julho, para quarta-feira, 8, que seriam, segundo o presidente dos Estados Unidos, uma resposta ao ataque iraniano contra três navios no início […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/09/da-tregua-a-guerra-os-estados-unidos-retomam-a-ofensiva-contra-o-ira/",
+          "publishedOn": "2026-07-09T21:01:56.000Z",
+          "wordCount": 3257,
+          "title": "Da trégua à guerra: os Estados Unidos retomam a ofensiva contra o Irã",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/ira.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74063",
           "author": "CTXT",
           "description": "oube-se que Sam Altman, CEO da OpenAI e idealizador do ChatGPT, vem há meses visitando gabinetes em Washington com uma proposta aparentemente muito generosa: a criação, pelo governo dos Estados Unidos, de um fundo financeiro público para que os cidadãos possam participar dos benefícios proporcionados pela inteligência artificial. Como era de se esperar, Donald Trump […]",
@@ -441,7 +481,7 @@
           "description": "as últimas décadas, o mundo enfrenta um fenômeno econômico paradoxal: a produção global de riquezas aumenta significativamente e sua distribuição é cada vez mais desigual. O acúmulo em mãos de uma minoria privilegiada desperta inquietações. Basta dizer que 1% da população global (80 milhões de pessoas) amealha 2/3 da riqueza de todo o planeta. Essa […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/07/06/concentracao-da-riqueza-e-desigualdade-social/",
           "publishedOn": "2026-07-06T21:08:43.000Z",
-          "wordCount": 3068,
+          "wordCount": 3059,
           "title": "Concentração da riqueza e desigualdade social",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/desigualdade.webp"
         },
@@ -463,13 +503,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=259954",
+          "author": "Victor Farinelli",
+          "description": "RO presidente da Turquia, Recep Tayyip Erdogan, presenteou cada líder da Organização do Tratado do Atlântico Norte (OTAN) com um revólver acompanhado de seis balas, ao final da cúpula realizada em Ancara, entre os dias 7 e 8 de julho. O nome de cada autoridade foi gravado individualmente nas armas, que foram entregues dentro de […]\nO post Erdogan presenteia líderes da OTAN com revólveres carregados após cúpula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/erdogan-presenteia-lideres-da-otan-com-revolveres-carregados-apos-cupula/",
+          "publishedOn": "2026-07-09T21:00:51.000Z",
+          "wordCount": 2843,
+          "title": "Erdogan presenteia líderes da OTAN com revólveres carregados após cúpula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/erdogun.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259944",
+          "author": "Victor Farinelli",
+          "description": "A nova alta dos preços do petróleo desta quinta-feira (09/07) motivou o Ministério da Fazenda a adiar para a próxima semana a decisão sobre o fim do subsídio de R$ 0,44 por litro de gasolina. O ministro da Fazenda, Dario Durigan, pretendia anunciar o fim da subvenção esta semana, mas teve que voltar atrás após […]\nO post Governo Lula mantém desconto da gasolina após nova alta mundial do petróleo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/governo-lula-mantem-desconto-da-gasolina-apos-nova-alta-mundial-do-petroleo/",
+          "publishedOn": "2026-07-09T20:06:12.000Z",
+          "wordCount": 2994,
+          "title": "Governo Lula mantém desconto da gasolina após nova alta mundial do petróleo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bomba.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259939",
+          "author": "Pedro Marin",
+          "description": "A discussão sobre a solução de um Estado como alternativa à solução de dois Estados é uma fuga para a frente e uma tentativa de contornar as dificuldades objetivas enfrentadas pela luta de libertação nacional palestina, em vez de buscar maneiras de enfrentar e superar essas dificuldades. A realidade é que a solução de um […]\nO post O Estado Independente como caminho para uma Palestina democrática e unificada apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-estado-independente-como-caminho-para-uma-palestina-democratica-e-unificada/",
+          "publishedOn": "2026-07-09T19:45:01.000Z",
+          "wordCount": 5819,
+          "title": "O Estado Independente como caminho para uma Palestina democrática e unificada",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/palestina.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259935",
+          "author": "Victor Farinelli",
+          "description": "O presidente da Autoridade Nacional Palestina (ANP), Mahmoud Abbas, anunciou que as eleições legislativas serão realizadas no dia 28 de novembro, no território da Cisjordânia, na Faixa de Gaza e na Jerusalém Oriental ocupada. Em comunicado, a ANP afirmou que o decreto presidencial assinado por Abbas “convoca o povo palestino a participar de eleições legislativas […]\nO post Autoridade Palestina anuncia eleições legislativas em Gaza e Cisjordânia para novembro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/palestina/autoridade-palestina-anuncia-eleicoes-legislativas-em-gaza-e-cisjordania-para-novembro/",
+          "publishedOn": "2026-07-09T19:12:44.000Z",
+          "wordCount": 3059,
+          "title": "Autoridade Palestina anuncia eleições legislativas em Gaza e Cisjordânia para novembro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/abbas.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=259931",
           "author": "Rocio Paik",
-          "description": "“Não viaje para o Haiti“, adverte o Departamento de Estado norte-americano a seus cidadãos, por meio de um alerta vermelho máximo, de nível 4, justificado por “sequestros, criminalidade, atividades terroristas, distúrbios civis e atendimento médico limitado”. O mesmo governo, no entanto, trabalha para que cidadãos haitianos deixem os Estados Unidos e voltem para o país […]\nO post Haitianos vivem pânico com nova política migratória de Trump que facilita deportações apareceu primeiro em Opera Mundi.",
+          "description": "“Não viaje para o Haiti“, adverte o Departamento de Estado norte-americano a seus cidadãos, por meio de um alerta vermelho máximo, de nível 4, justificado por “sequestros, criminalidade, atividades terroristas, distúrbios civis e atendimento médico limitado”. O mesmo governo, no entanto, trabalha para que cidadãos haitianos deixem os Estados Unidos e voltem para o país […]\nO post Haitianos vivem pânico com nova política migratória de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/haitianos-vivem-panico-com-nova-politica-migratoria-de-trump-que-facilita-deportacoes/",
           "publishedOn": "2026-07-09T18:00:51.000Z",
-          "wordCount": 4698,
-          "title": "Haitianos vivem pânico com nova política migratória de Trump que facilita deportações",
+          "wordCount": 4683,
+          "title": "Haitianos vivem pânico com nova política migratória de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/haiti_7810874424.jpg"
         },
         {
@@ -478,7 +558,7 @@
           "description": "O feriado de 9 de julho marca a chamada Revolução Constitucionalista de 1932, quando a oligarquia paulista decidiu se insurgir contra Getúlio Vargas. Houve luta armada e esse processo, que deixou 2.100 mortos, é reverberado pela memória de muitos como ato heroico. Contudo, outras camadas dessa história mostram, na verdade, que o movimento foi uma […]\nO post Movimento de 1932 foi contrarrevolução da elite paulista contra direitos dos trabalhadores, diz historiadora apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/historia/movimento-de-1932-foi-contrarrevolucao-da-elite-paulista-contra-direitos-dos-trabalhadores-diz-historiadora/",
           "publishedOn": "2026-07-09T17:35:34.000Z",
-          "wordCount": 3828,
+          "wordCount": 3742,
           "title": "Movimento de 1932 foi contrarrevolução da elite paulista contra direitos dos trabalhadores, diz historiadora",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/rev.jpg"
         },
@@ -488,7 +568,7 @@
           "description": "A presidente interina da Venezuela, Delcy Rodríguez, anunciou nesta quinta-feira (09/07) o envio de uma solicitação formal ao Reino Unido pela liberação do ouro venezuelano depositado no Banco da Inglaterra e bloqueado desde 2019, e cujas reservas alcançariam um valor de cerca de US$ 2 bilhões. O pedido foi oficializado mediante uma carta enviada ao […]\nO post Delcy Rodríguez pede que Reino Unido libere ouro venezuelano para financiar reconstrução após terremotos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/delcy-pede-ao-reino-unido-liberacao-de-ouro-congelado-para-financiar-reconstrucao-da-venezuela/",
           "publishedOn": "2026-07-09T16:44:34.000Z",
-          "wordCount": 3779,
+          "wordCount": 3776,
           "title": "Delcy Rodríguez pede que Reino Unido libere ouro venezuelano para financiar reconstrução após terremotos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/delcy.jpg"
         },
@@ -498,7 +578,7 @@
           "description": "Se você acessou suas redes sociais durante o mês de junho, o cenário foi previsível. Empresas de gás, bancos e fabricantes de armas pintam seus logotipos com a bandeira da diversidade. A crítica comum aponta para o oportunismo comercial: a indignação contra empresas que vendem camisetas com slogans de igualdade fabricadas em condições de exploração […]\nO post A geopolítica do arco-íris: como o ‘pinkwashing’ se tornou uma arma de Estado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-geopolitica-do-arco-iris-como-o-pinkwashing-se-tornou-uma-arma-de-estado/",
           "publishedOn": "2026-07-09T16:04:08.000Z",
-          "wordCount": 4190,
+          "wordCount": 4186,
           "title": "A geopolítica do arco-íris: como o ‘pinkwashing’ se tornou uma arma de Estado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/233499524_7704a552f1_o.jpg"
         },
@@ -508,7 +588,7 @@
           "description": "Os ataques discriminatórios feitos pela senadora paraguaia Celeste Amarilla contra o jogador francês Kylian Mbappé intensificaram-se nos últimos dias, transformando-se em uma questão política. Nesta quarta-feira (08/07), autoridades diplomáticas do Paraguai pediram desculpas formais à França pelos atos da parlamentar, que voltou a ofender o atleta. Quando parecia que as ofensas de Amarilla contra Mbappé […]\nO post Paraguai pede desculpas após novos ataques de senadora contra Mbappé apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/autoridades-diplomaticas-do-paraguai-pedem-desculpas-apos-novos-ataques-de-senadora-contra-mbappe/",
           "publishedOn": "2026-07-09T15:30:32.000Z",
-          "wordCount": 3548,
+          "wordCount": 3545,
           "title": "Paraguai pede desculpas após novos ataques de senadora contra Mbappé",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/retrato_oficial_de_celeste_amarilla_2023.jpg"
         },
@@ -518,49 +598,9 @@
           "description": "O governo do Equador anunciou nesta quinta-feira (09/07) uma reforma no sistema de estabilização de preços das gasolinas Extra e Ecopaís, além do diesel, em um mecanismo excepcional para amortecer a volatilidade dos preços dos recursos comercializados no país. De acordo com o comunicado emitido, a medida, que é temporária e entra em vigor neste […]\nO post Equador anuncia reforma para conter impactos da alta do petróleo internacional no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/equador-anuncia-reforma-para-conter-impactos-da-alta-do-petroleo-internacional-no-pais/",
           "publishedOn": "2026-07-09T14:47:15.000Z",
-          "wordCount": 3146,
+          "wordCount": 3143,
           "title": "Equador anuncia reforma para conter impactos da alta do petróleo internacional no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ibpa_21622_-_posto_de_gasolina_-_2019-01-10_-_maria_ana_krack-pmpa.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259904",
-          "author": "Rocio Paik",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, fez duras críticas ao secretário-geral da Organização do Tratado do Atlântico Norte (OTAN), Mark Rutte, nesta quinta-feira (09/07), após admitir explicitamente a participação de países europeus na mais recente agressão militar lançada pelos Estados Unidos e Israel contra a nação persa. O diplomata exigiu […]\nO post Chancelaria iraniana denuncia ‘cumplicidade deliberada’ de Europa nos ataques dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/chancelaria-iraniana-denuncia-cumplicidade-deliberada-de-paises-europeus-nos-ataques-promovidos-pelos-eua/",
-          "publishedOn": "2026-07-09T13:20:19.000Z",
-          "wordCount": 3411,
-          "title": "Chancelaria iraniana denuncia ‘cumplicidade deliberada’ de Europa nos ataques dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/gbczionwiaavesq.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259901",
-          "author": "Rocio Paik",
-          "description": "O procurador-geral da Corte de Cassação, Rémy Heitz, afirmou nesta quinta-feira (09/07) que a mais alta jurisdição da França fará “todo o possível” para decidir o recurso de Marine Le Pen antes da próxima eleição presidencial. O magistrado ressaltou, no entanto, que o cronograma não depende apenas do órgão, já que o andamento do caso […]\nO post Justiça francesa busca decidir recurso de Marine Le Pen antes da eleição de 2027 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/justica-francesa-busca-decidir-recurso-de-marine-le-pen-antes-da-eleicao-de-2027/",
-          "publishedOn": "2026-07-09T12:40:19.000Z",
-          "wordCount": 3148,
-          "title": "Justiça francesa busca decidir recurso de Marine Le Pen antes da eleição de 2027",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmakgxwxyaagpyi.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259898",
-          "author": "Rocio Paik",
-          "description": "Após dias de cerimônias fúnebres públicas, o Irã sepultou, nesta quinta-feira (09/07), seu ex-líder supremo, aiatolá Ali Khamenei, no Santuário de Imam Reza, o mais sagrado do país, em Mashhad, na região nordeste, próximo das fronteiras com o Afeganistão e o Turquemenistão. Sob os olhares de uma multidão de iranianos que viajaram de todo o […]\nO post Irã sepulta Ali Khamenei em Mashhad após meses de preservação do corpo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-sepulta-ali-khamenei-em-mashhad-apos-meses-de-preservacao-do-corpo/",
-          "publishedOn": "2026-07-09T11:56:04.000Z",
-          "wordCount": 3302,
-          "title": "Irã sepulta Ali Khamenei em Mashhad após meses de preservação do corpo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/172971894.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259895",
-          "author": "Rocio Paik",
-          "description": "Atualizada às 10h09 O Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) anunciou ter atingido bases militares e instalações dos Estados Unidos na região do Oriente Médio nesta quinta-feira (09/07) em uma operação de mísseis e drones. Trata-se de uma retaliação às contínuas violações das autoridades norte-americanas que, pela segunda noite consecutiva, conduziram […]\nO post Irã denuncia ‘grave crime de guerra’ dos EUA e responde atacando bases militares no Oriente Médio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-denuncia-grave-crime-de-guerra-dos-eua-e-responde-atacando-bases-militares-no-oriente-medio/",
-          "publishedOn": "2026-07-09T11:40:58.000Z",
-          "wordCount": 3685,
-          "title": "Irã denuncia ‘grave crime de guerra’ dos EUA e responde atacando bases militares no Oriente Médio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405010115001329336127424.jpg"
         }
       ]
     },
@@ -596,6 +636,36 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229353",
+          "author": "Redação de AND",
+          "description": "Medida transfere delitos cometidos por agentes das forças de repressão para o foro militar-policial, atinge processos sem sentença firme e aprofunda a política de impunidade do velho Estado peruano, marcada por massacres históricos e crimes recentes como a execução de cinco pessoas em Colcabamba.",
+          "link": "https://anovademocracia.com.br/lei-peru-blinda-crimes-forcas-repressao/",
+          "publishedOn": "2026-07-09T21:17:24.000Z",
+          "wordCount": null,
+          "title": "Nova lei no Peru blinda crimes de agentes das forças de repressão do velho Estado",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229349",
+          "author": "Giovanna Maria",
+          "description": "A votação, realizada no último dia de plenário antes do recesso, ocorreu sob protestos de movimentos populares que classificam a medida como uma política de caráter puramente punitivo e higienista.",
+          "link": "https://anovademocracia.com.br/camara-carrocinha-humana-internacao-compulsoria/",
+          "publishedOn": "2026-07-09T20:34:08.000Z",
+          "wordCount": null,
+          "title": "DF: Câmara aprova ‘PL da Carrocinha Humana’, que prevê internação compulsória de pessoas em situação de rua",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229337",
+          "author": "Rosana Bond",
+          "description": "Os moradores, indignados e angustiados, tinham decidido optar por processos judiciais contra a poderosa mineradora. Porém a decepção veio a galope, como um cavalo pantaneiro.",
+          "link": "https://anovademocracia.com.br/mineradora-batista-contamina-pantanal/",
+          "publishedOn": "2026-07-09T18:51:09.000Z",
+          "wordCount": null,
+          "title": "Mineradora dos irmãos Batista contamina Pantanal, adoece moradores e os expulsa",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229327",
           "author": "Redação de AND",
@@ -664,36 +734,6 @@
           "publishedOn": "2026-07-07T22:54:19.000Z",
           "wordCount": null,
           "title": "SP: Prefeitura de Jacareí aumenta passagem de ônibus em até 19% enquanto mantém R$ 24,2 milhões em subsídios para empresas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229272",
-          "author": "Ana Nascimento",
-          "description": "O evento ocorreu na FD, instituição onde Paulo de Tarso, guerrilheiro da ALN, se formou, simbolizando o esforço da burocracia estatal para tratar de um crime que, durante décadas, foi negado e ocultado pelo aparato repressivo do regime militar brasileiro.",
-          "link": "https://anovademocracia.com.br/df-paulo-de-tarso-guerrilheiro-aln/",
-          "publishedOn": "2026-07-07T22:24:32.000Z",
-          "wordCount": null,
-          "title": "45 anos após o assassinato do advogado e guerrilheiro Paulo de Tarso, velho Estado realiza ‘pedido público de desculpas’ para mascarar impunidade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229237",
-          "author": "Redação de AND",
-          "description": "Ramo de Oliveira distribui água potável, pão, roupas e alimentos a famílias deslocadas no norte da Faixa de Gaza, onde a crise humanitária se aprofunda.",
-          "link": "https://anovademocracia.com.br/and-entrevista-ajuda-popular-gaza/",
-          "publishedOn": "2026-07-07T22:06:40.000Z",
-          "wordCount": null,
-          "title": "Norte de Gaza enfrenta nova onda de deslocamento; AND entrevista projeto palestino de ajuda popular",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229224",
-          "author": "Giovanna Maria",
-          "description": "Populares se revoltam e denunciam agressões policiais ocorridas em Salvador durante o período da Copa do Mundo. Spray de Pimenta, socos e tapas foram desferidos contra jovens.",
-          "link": "https://anovademocracia.com.br/jovens-agredidos-policiais-salvador/",
-          "publishedOn": "2026-07-07T10:20:00.000Z",
-          "wordCount": null,
-          "title": "BA: Jovens são agredidos por Policiais em Salvador",
           "imageUrl": null
         }
       ]
@@ -870,7 +910,7 @@
           "description": "\"No ano passado, completaram-se setenta anos da realização da Conferência Afro-Asiática de Bandung, que ocorreu entre 18 e 24 de abril de 1955, na Indonésia. O encontro reuniu um conjunto de 29 nações asiáticas e africanas recém-independentes ou em processo de descolonização, sendo expressão de décadas de luta anticolonial e de ascensão de movimentos nacionalistas que buscavam superar a dominação imperialista.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/09/bandung-a-luta-contra-o-imperialismo-e-os-limites-do-nacionalismo/",
           "publishedOn": "2026-07-09T11:00:00.000Z",
-          "wordCount": 13489,
+          "wordCount": 13554,
           "title": "Bandung: a luta contra o imperialismo e os limites do nacionalismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-7.png?fit=1200%2C771&ssl=1"
         },
