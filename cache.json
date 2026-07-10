@@ -91,16 +91,6 @@
           "wordCount": 2810,
           "title": "PL 1316: a reforma que quer transformar em lei o projeto de Tarcísio para a Educação paulista",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/tarcisio.webp"
-        },
-        {
-          "id": "6a4a8ff8d3cef40358950a8a",
-          "author": "PSTU Mariana",
-          "description": "Depoimento da professora Patrícia Ramos da rede estadual de Minas Gerais",
-          "link": "https://opiniaosocialista.com.br/diante-da-exaustao-e-da-violencia-so-nos-resta-professores-as-a-uniao-e-a-luta/",
-          "publishedOn": "2026-07-05T17:27:24.000Z",
-          "wordCount": 1199,
-          "title": "\"Diante da exaustão e da violência, só nos resta, professores (as), a união e a luta!\"",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/sala-de-aula-vazia.webp"
         }
       ]
     },
@@ -484,16 +474,6 @@
           "wordCount": 3068,
           "title": "Concentração da riqueza e desigualdade social",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/desigualdade.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74041",
-          "author": "CTXT",
-          "description": "eitado na minha cama, tento dormir em meio ao calor, aos mosquitos e às suas picadas. Imagino que talvez, quando acordar, depois de um sonho agitado, encontre um McDonald’s na esquina da minha casa. Então, vou me levantar na varanda e, de lá, contemplar uma longa fila, que dará a volta no quarteirão e terminará […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/05/cuba-as-176-respiracoes-de-um-afogado/",
-          "publishedOn": "2026-07-05T16:14:47.000Z",
-          "wordCount": 4128,
-          "title": "Cuba: as 176 respirações de um afogado",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/cuba.webp"
         }
       ]
     },
@@ -503,12 +483,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=259963",
+          "author": "Tatiana Carlotti",
+          "description": "A porta-voz do Ministério das Relações Exteriores da China, Mao Ning, instou nesta quinta-feira (09/07) os Estados Unidos a atenderem ao apelo da comunidade internacional e a porem fim imediatamente ao bloqueio econômico, comercial e financeiro contra Cuba. A declaração surge após a Assembleia Geral da ONU ter aprovado, em 7 de julho, uma resolução […]\nO post China cobra ‘fim imediato’ do bloqueio norte-americano contra Cuba apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/china-cobra-fim-imediato-do-bloqueio-norte-americano-contra-cuba/",
+          "publishedOn": "2026-07-10T10:18:32.000Z",
+          "wordCount": 3014,
+          "title": "China cobra ‘fim imediato’ do bloqueio norte-americano contra Cuba",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/641523791-122171624744771020-5243845380974654468-n.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259961",
+          "author": "Tatiana Carlotti",
+          "description": "A Alemanha comprará mísseis de cruzeiro Tomahawk dos Estados Unidos e os posicionará em solo alemão, passando a investir em sua própria capacidade de ataque de longo alcance. O chanceler federal alemão Friedrich Merz confirmou nesta quinta-feira (09/07) ter fechado o negócio durante a cúpula da OTAN em Ancara, na Turquia. “Estamos fechando uma lacuna […]\nO post Alemanha anuncia compra de mísseis Tomahawk dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-anuncia-compra-de-misseis-tomahawk-dos-eua/",
+          "publishedOn": "2026-07-10T10:07:56.000Z",
+          "wordCount": 3336,
+          "title": "Alemanha anuncia compra de mísseis Tomahawk dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/55129175478_67588dbf2c_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259957",
+          "author": "Tatiana Carlotti",
+          "description": "A representante permanente interina da Rússia nas Nações Unidas, Anna Yevstigneyeva, acusou os países europeus de participarem diretamente no conflito na Ucrânia, apesar de seus apelos públicos pela paz e pela proteção da população civil. “Nossos colegas europeus podem falar o que quiserem sobre paz, humanidade e proteção da população civil, mas há muito tempo […]\nO post Guerra na Ucrânia: Moscou acusa países da OTAN de sabotarem negociações de paz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/guerra-na-ucrania-moscou-acusa-paises-da-otan-de-sabotarem-negociacoes-de-paz/",
+          "publishedOn": "2026-07-10T09:55:38.000Z",
+          "wordCount": 3232,
+          "title": "Guerra na Ucrânia: Moscou acusa países da OTAN de sabotarem negociações de paz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1479463.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=259950",
+          "author": "Fernanda Oliveira",
+          "description": "O surto de ebola, declarado oficialmente em 15 de maio na República Democrática do Congo (RDC), está se espalhando mais rapidamente do que qualquer outro anterior, afirmou nesta quinta-feira (09/07) o África CDC – a agência de saúde da União Africana (UA). Até terça-feira (07/07), haviam sido registradas 600 mortes em um total de 1.759 […]\nO post Surto de ebola na RD do Congo se propaga em velocidade inédita, diz agência de saúde apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/surto-de-ebola-na-rd-do-congo-se-propaga-em-velocidade-inedita-diz-agencia-de-saude/",
+          "publishedOn": "2026-07-09T22:00:22.000Z",
+          "wordCount": 3035,
+          "title": "Surto de ebola na RD do Congo se propaga em velocidade inédita, diz agência de saúde",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ebola_virus_2.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=259954",
           "author": "Victor Farinelli",
           "description": "RO presidente da Turquia, Recep Tayyip Erdogan, presenteou cada líder da Organização do Tratado do Atlântico Norte (OTAN) com um revólver acompanhado de seis balas, ao final da cúpula realizada em Ancara, entre os dias 7 e 8 de julho. O nome de cada autoridade foi gravado individualmente nas armas, que foram entregues dentro de […]\nO post Erdogan presenteia líderes da OTAN com revólveres carregados após cúpula apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/erdogan-presenteia-lideres-da-otan-com-revolveres-carregados-apos-cupula/",
           "publishedOn": "2026-07-09T21:00:51.000Z",
-          "wordCount": 2843,
+          "wordCount": 2839,
           "title": "Erdogan presenteia líderes da OTAN com revólveres carregados após cúpula",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/erdogun.jpg"
         },
@@ -518,7 +538,7 @@
           "description": "A nova alta dos preços do petróleo desta quinta-feira (09/07) motivou o Ministério da Fazenda a adiar para a próxima semana a decisão sobre o fim do subsídio de R$ 0,44 por litro de gasolina. O ministro da Fazenda, Dario Durigan, pretendia anunciar o fim da subvenção esta semana, mas teve que voltar atrás após […]\nO post Governo Lula mantém desconto da gasolina após nova alta mundial do petróleo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/governo-lula-mantem-desconto-da-gasolina-apos-nova-alta-mundial-do-petroleo/",
           "publishedOn": "2026-07-09T20:06:12.000Z",
-          "wordCount": 2994,
+          "wordCount": 2992,
           "title": "Governo Lula mantém desconto da gasolina após nova alta mundial do petróleo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bomba.jpg"
         },
@@ -528,7 +548,7 @@
           "description": "A discussão sobre a solução de um Estado como alternativa à solução de dois Estados é uma fuga para a frente e uma tentativa de contornar as dificuldades objetivas enfrentadas pela luta de libertação nacional palestina, em vez de buscar maneiras de enfrentar e superar essas dificuldades. A realidade é que a solução de um […]\nO post O Estado Independente como caminho para uma Palestina democrática e unificada apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-estado-independente-como-caminho-para-uma-palestina-democratica-e-unificada/",
           "publishedOn": "2026-07-09T19:45:01.000Z",
-          "wordCount": 5819,
+          "wordCount": 5817,
           "title": "O Estado Independente como caminho para uma Palestina democrática e unificada",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/palestina.webp"
         },
@@ -538,7 +558,7 @@
           "description": "O presidente da Autoridade Nacional Palestina (ANP), Mahmoud Abbas, anunciou que as eleições legislativas serão realizadas no dia 28 de novembro, no território da Cisjordânia, na Faixa de Gaza e na Jerusalém Oriental ocupada. Em comunicado, a ANP afirmou que o decreto presidencial assinado por Abbas “convoca o povo palestino a participar de eleições legislativas […]\nO post Autoridade Palestina anuncia eleições legislativas em Gaza e Cisjordânia para novembro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/palestina/autoridade-palestina-anuncia-eleicoes-legislativas-em-gaza-e-cisjordania-para-novembro/",
           "publishedOn": "2026-07-09T19:12:44.000Z",
-          "wordCount": 3059,
+          "wordCount": 3057,
           "title": "Autoridade Palestina anuncia eleições legislativas em Gaza e Cisjordânia para novembro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/abbas.jpg"
         },
@@ -548,7 +568,7 @@
           "description": "“Não viaje para o Haiti“, adverte o Departamento de Estado norte-americano a seus cidadãos, por meio de um alerta vermelho máximo, de nível 4, justificado por “sequestros, criminalidade, atividades terroristas, distúrbios civis e atendimento médico limitado”. O mesmo governo, no entanto, trabalha para que cidadãos haitianos deixem os Estados Unidos e voltem para o país […]\nO post Haitianos vivem pânico com nova política migratória de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/haitianos-vivem-panico-com-nova-politica-migratoria-de-trump-que-facilita-deportacoes/",
           "publishedOn": "2026-07-09T18:00:51.000Z",
-          "wordCount": 4683,
+          "wordCount": 4681,
           "title": "Haitianos vivem pânico com nova política migratória de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/haiti_7810874424.jpg"
         },
@@ -558,49 +578,9 @@
           "description": "O feriado de 9 de julho marca a chamada Revolução Constitucionalista de 1932, quando a oligarquia paulista decidiu se insurgir contra Getúlio Vargas. Houve luta armada e esse processo, que deixou 2.100 mortos, é reverberado pela memória de muitos como ato heroico. Contudo, outras camadas dessa história mostram, na verdade, que o movimento foi uma […]\nO post Movimento de 1932 foi contrarrevolução da elite paulista contra direitos dos trabalhadores, diz historiadora apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/historia/movimento-de-1932-foi-contrarrevolucao-da-elite-paulista-contra-direitos-dos-trabalhadores-diz-historiadora/",
           "publishedOn": "2026-07-09T17:35:34.000Z",
-          "wordCount": 3825,
+          "wordCount": 3823,
           "title": "Movimento de 1932 foi contrarrevolução da elite paulista contra direitos dos trabalhadores, diz historiadora",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/rev.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259920",
-          "author": "Victor Farinelli",
-          "description": "A presidente interina da Venezuela, Delcy Rodríguez, anunciou nesta quinta-feira (09/07) o envio de uma solicitação formal ao Reino Unido pela liberação do ouro venezuelano depositado no Banco da Inglaterra e bloqueado desde 2019, e cujas reservas alcançariam um valor de cerca de US$ 2 bilhões. O pedido foi oficializado mediante uma carta enviada ao […]\nO post Delcy Rodríguez pede que Reino Unido libere ouro venezuelano para financiar reconstrução após terremotos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/delcy-pede-ao-reino-unido-liberacao-de-ouro-congelado-para-financiar-reconstrucao-da-venezuela/",
-          "publishedOn": "2026-07-09T16:44:34.000Z",
-          "wordCount": 3776,
-          "title": "Delcy Rodríguez pede que Reino Unido libere ouro venezuelano para financiar reconstrução após terremotos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/delcy.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259917",
-          "author": "Fernanda Oliveira",
-          "description": "Se você acessou suas redes sociais durante o mês de junho, o cenário foi previsível. Empresas de gás, bancos e fabricantes de armas pintam seus logotipos com a bandeira da diversidade. A crítica comum aponta para o oportunismo comercial: a indignação contra empresas que vendem camisetas com slogans de igualdade fabricadas em condições de exploração […]\nO post A geopolítica do arco-íris: como o ‘pinkwashing’ se tornou uma arma de Estado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-geopolitica-do-arco-iris-como-o-pinkwashing-se-tornou-uma-arma-de-estado/",
-          "publishedOn": "2026-07-09T16:04:08.000Z",
-          "wordCount": 4186,
-          "title": "A geopolítica do arco-íris: como o ‘pinkwashing’ se tornou uma arma de Estado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/233499524_7704a552f1_o.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259914",
-          "author": "Rocio Paik",
-          "description": "Os ataques discriminatórios feitos pela senadora paraguaia Celeste Amarilla contra o jogador francês Kylian Mbappé intensificaram-se nos últimos dias, transformando-se em uma questão política. Nesta quarta-feira (08/07), autoridades diplomáticas do Paraguai pediram desculpas formais à França pelos atos da parlamentar, que voltou a ofender o atleta. Quando parecia que as ofensas de Amarilla contra Mbappé […]\nO post Paraguai pede desculpas após novos ataques de senadora contra Mbappé apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/autoridades-diplomaticas-do-paraguai-pedem-desculpas-apos-novos-ataques-de-senadora-contra-mbappe/",
-          "publishedOn": "2026-07-09T15:30:32.000Z",
-          "wordCount": 3545,
-          "title": "Paraguai pede desculpas após novos ataques de senadora contra Mbappé",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/retrato_oficial_de_celeste_amarilla_2023.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=259911",
-          "author": "Rocio Paik",
-          "description": "O governo do Equador anunciou nesta quinta-feira (09/07) uma reforma no sistema de estabilização de preços das gasolinas Extra e Ecopaís, além do diesel, em um mecanismo excepcional para amortecer a volatilidade dos preços dos recursos comercializados no país. De acordo com o comunicado emitido, a medida, que é temporária e entra em vigor neste […]\nO post Equador anuncia reforma para conter impactos da alta do petróleo internacional no país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/equador-anuncia-reforma-para-conter-impactos-da-alta-do-petroleo-internacional-no-pais/",
-          "publishedOn": "2026-07-09T14:47:15.000Z",
-          "wordCount": 3143,
-          "title": "Equador anuncia reforma para conter impactos da alta do petróleo internacional no país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ibpa_21622_-_posto_de_gasolina_-_2019-01-10_-_maria_ana_krack-pmpa.jpg"
         }
       ]
     },
@@ -625,7 +605,7 @@
           "description": "Dossiê Farras mostra que 40 artistas receberam R$ 3,08 bilhões em contratos com prefeituras e governos estaduais desde janeiro de 2024; ícone do arrocha e da sofrência, Pablo recebeu R$ 99,38 milhões em shows públicos; assessoria do cantor diz que valores são definidos com base em “critérios técnicos” Por Tonsk Fialho O cantor Pablo recebeu […]\nO post Com 2º show mais caro do país, Pablo triplicou valor do cachê em dois anos apareceu primeiro em De Olho nos Ruralistas.",
           "link": "https://deolhonosruralistas.com.br/2026/07/06/farras-pablo-arrocha/",
           "publishedOn": "2026-07-06T17:14:10.000Z",
-          "wordCount": 3326,
+          "wordCount": 3325,
           "title": "Com 2º show mais caro do país, Pablo triplicou valor do cachê em dois anos",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/07/capa-pablo.png"
         }
@@ -910,7 +890,7 @@
           "description": "\"No ano passado, completaram-se setenta anos da realização da Conferência Afro-Asiática de Bandung, que ocorreu entre 18 e 24 de abril de 1955, na Indonésia. O encontro reuniu um conjunto de 29 nações asiáticas e africanas recém-independentes ou em processo de descolonização, sendo expressão de décadas de luta anticolonial e de ascensão de movimentos nacionalistas que buscavam superar a dominação imperialista.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/09/bandung-a-luta-contra-o-imperialismo-e-os-limites-do-nacionalismo/",
           "publishedOn": "2026-07-09T11:00:00.000Z",
-          "wordCount": 13554,
+          "wordCount": 13640,
           "title": "Bandung: a luta contra o imperialismo e os limites do nacionalismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-7.png?fit=1200%2C771&ssl=1"
         },
@@ -920,7 +900,7 @@
           "description": "Na esteira da histórica derrota de Orbán após 16 anos no poder, o jornalista Cain Burdeau relembra como o governo lentamente estrangulou o centro de pesquisa localizado no antigo apartamento de György Lukács, em Budapeste. O episódio, conhecido como \"a questão dos filósofos\" foi a primeira grande campanha anti-intelectual da gestão e serviu de exemplo para a extrema direita em toda parte.",
           "link": "https://blogdaboitempo.com.br/2026/07/07/um-alvo-facil-como-orban-transformou-a-destruicao-do-arquivo-lukacs-em-modelo-para-a-extrema-direita/",
           "publishedOn": "2026-07-07T11:00:00.000Z",
-          "wordCount": 14736,
+          "wordCount": 14671,
           "title": "Um alvo fácil: como Orbán transformou a destruição do Arquivo Lukács em modelo para a extrema direita",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/lukacs.jpg"
         },
@@ -930,7 +910,7 @@
           "description": "Gabriel S. Figueiredo resenha o novo livro de Fabio Mascaro Querido: \"Querido delineia um Walter Benjamin devidamente complexo, rejeitando as leituras que isolam textos específicos do autor, 'como se uma abordagem de conjunto fosse impossível, dadas as diferenças significativas entre eles'.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/06/rememorando-walter-benjamin/",
           "publishedOn": "2026-07-06T11:00:00.000Z",
-          "wordCount": 12492,
+          "wordCount": 12427,
           "title": "Rememorando Walter Benjamin",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/benjamin-na-praia.jpg"
         }
