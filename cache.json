@@ -348,16 +348,6 @@
           "wordCount": null,
           "title": "Por que ir à assembleia geral do CPERS no dia 10/7?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Efetivos-e-terceirizados-da-USP-fazem-paralisacao-unificada-contra-as-demissoes-da-empresa-J-Leal-e",
-          "author": "Redação",
-          "description": "Em um forte exemplo de unidade da classe trabalhadora, trabalhadores terceirizados e efetivos cruzaram os braços nesta segunda-feira (6) contra as demissões arbitrárias, a perseguição e a precarização e pela imediata readmissão. O Sindicato dos Trabalhadores da USP convoca um ato para esta terça-feira (7), às 9h, no Restaurante Central da universidade. \n Nesta segunda-feira, 6 de julho, as trabalhadoras e trabalhadores terceirizados do Bandejão Central da USP deram um importante exemplo de (…)\n06-07-2026\n\n/ Classe trabalhadora, Terceirização, bandejão da USP, Trabalhadores Terceirizados, Reitoria USP, USP, paralisação, Greve na USP",
-          "link": "https://www.esquerdadiario.com.br/Efetivos-e-terceirizados-da-USP-fazem-paralisacao-unificada-contra-as-demissoes-da-empresa-J-Leal-e",
-          "publishedOn": "2026-07-06T21:55:10.000Z",
-          "wordCount": null,
-          "title": "Efetivos e terceirizados da USP fazem paralisação unificada contra as demissões da empresa J. Leal e convocam ato para esta terça às 9h. Todo apoio!",
-          "imageUrl": null
         }
       ]
     },
@@ -366,6 +356,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444203",
+          "author": "Eduardo Goulart",
+          "description": "Em vez de defender a indústria nacional contra sobretaxas, senador se limitou a pedir um adiamento das sanções para não atrapalhar sua campanha eleitoral\nO post Flávio Bolsonaro apoia tarifaço de Trump e dá outro vexame nos Estados Unidos apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/07/11/flavio-bolsonaro-apoia-tarifaco-de-trump-e-da-outro-vexame-nos-estados-unidos/",
+          "publishedOn": "2026-07-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro apoia tarifaço de Trump e dá outro vexame nos Estados Unidos",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/07/Headerwide_CP_15.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/07/Headerwide_CP_15.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444172",
           "author": "Gisele Lobato",
@@ -410,21 +415,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/07/iGQrC0yZ-feat.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444095",
-          "author": "Gisele Lobato",
-          "description": "Cheguei à Venezuela esperando o caos. Após cobrir o país por mais de uma década, eu sabia que a resposta ao maior terremoto da história venezuelana desde 1900 seria difícil para um Estado depauperado, afundado em uma crise estrutural. Mas confesso que não esperava encontrar o que vi nas ruas de La Guaira, cidade no […]\nO post O horror que vi de perto cobrindo o terremoto na Venezuela apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/07/06/o-horror-que-vi-de-perto-cobrindo-o-terremoto-na-venezuela/",
-          "publishedOn": "2026-07-06T22:22:35.000Z",
-          "wordCount": null,
-          "title": "O horror que vi de perto cobrindo o terremoto na Venezuela",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/07/Yan-Boechat-VEN-1.jpg.jpeg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/07/Yan-Boechat-VEN-1.jpg.jpeg"
         }
       ]
     },
@@ -603,7 +593,7 @@
           "description": "Um incêndio florestal de grandes proporções atinge a região da Andaluzia, no sul da Espanha, e já deixou pelo menos 12 mortos e oito feridos. As buscas continuam para localizar pessoas desaparecidas e sobreviventes. No início da tarde desta sexta-feira (10/07), o rei Felipe VI e a rainha Letizia observaram um minuto de silêncio em […]\nO post Espanha: incêndio florestal em Andaluzia deixa ao menos 12 mortos e 23 desaparecidos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/espanha-incendio-florestal-em-andaluzia-deixa-ao-menos-12-mortos-e-23-desaparecidos/",
           "publishedOn": "2026-07-10T14:30:10.000Z",
-          "wordCount": 3362,
+          "wordCount": 3364,
           "title": "Espanha: incêndio florestal em Andaluzia deixa ao menos 12 mortos e 23 desaparecidos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hm2uk9dwcaaueub.jpeg"
         },
@@ -651,6 +641,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229410",
+          "author": "Redação de AND",
+          "description": "“Há de ter quem fale, para que as massas possam ouvir”: crônicas do trabalho vivo de agitação e propaganda e da luta cotidiana pela imprensa popular e democrática.",
+          "link": "https://anovademocracia.com.br/cronica-do-agitador-antes-primeiro-jornal/",
+          "publishedOn": "2026-07-11T13:00:42.000Z",
+          "wordCount": null,
+          "title": "Crônica do agitador: Antes do primeiro jornal vendido",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229429",
           "author": "Redação de AND",
@@ -705,7 +705,7 @@
           "id": "https://anovademocracia.com.br/?p=229358",
           "author": "Redação de AND",
           "description": "No 1.006º dia desde o Dilúvio de Al-Aqsa, o Irã lançou mísseis e drones contra bases militares do país Estados Unidos (EUA) no Kuwait, Bahrein e Jordânia, em resposta aos bombardeios ianques contra cidades costeiras e estruturas civis no Sul iraniano. O presidente do Parlamento iraniano, Mohammad Bagher Ghalibaf, advertiu Washington: “Se nos atacarem, apanharão”, enquanto a chancelaria persa acusou a Otan de admitir a cumplicidade europeia na agressão. Em Gaza, a entidade nazi-sionista fracassou em tentativa de assassinar o porta-voz do Hamas, Hazem Qassem, mas matou um civil e prosseguiu com ataques contra a Faixa. No Líbano, Israel Katz declarou que a ocupação “não precisa de permissão” para permanecer no Sul, expondo o caráter farsesco das promessas de retirada.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-08-07-2026-2/",
+          "link": "https://anovademocracia.com.br/plantao-palestina-09-07-2026/",
           "publishedOn": "2026-07-10T01:04:09.000Z",
           "wordCount": null,
           "title": "Plantão Palestina (09/07): ‘Se nos atacarem, apanharão’, adverte Ghalibaf; Irã atinge bases ianques no Golfo",
@@ -739,16 +739,6 @@
           "publishedOn": "2026-07-09T18:51:09.000Z",
           "wordCount": null,
           "title": "Mineradora dos irmãos Batista contamina Pantanal, adoece moradores e os expulsa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229327",
-          "author": "Redação de AND",
-          "description": "Documento da revista revolucionária indiana, traduzido pelo blog brasileiro Servir ao Povo, denuncia Gopal Mishra e Prashant Rahi como continuadores da linha liquidacionista de Balraj, acusados de construir organizações paralelas para atacar a linha do PCI (Maoista) e desviar estudantes e simpatizantes da Revolução de Nova Democracia.",
-          "link": "https://anovademocracia.com.br/denuncia-camarilha-liquidacionista-india/",
-          "publishedOn": "2026-07-09T15:56:17.000Z",
-          "wordCount": null,
-          "title": "‘Os revisionistas degenerados sempre se rebaixam a práticas desse tipo’: Nazariya denuncia camarilha liquidacionista que cria organizações paralelas para atacar a linha do Partido Comunista da Índia (Maoista)",
           "imageUrl": null
         }
       ]
@@ -898,6 +888,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=65470",
+          "author": "Boitempo",
+          "description": "Mariana Shinohara Roncato: \" Retomando Marx, Jean-Paul de Gaudemar argumentava que a liberdade, característica do capitalismo, possui uma dupla dimensão: o trabalhador seria juridicamente livre para vender a sua força de trabalho, mas, desprovido dos meios de produção, também é constrangido a colocá-la em circulação onde o capital demanda. Nessa perspectiva, a mobilidade do trabalho não representa simplesmente uma possibilidade de se deslocar, mas uma condição necessária à própria acumulação do capital.\"",
+          "link": "https://blogdaboitempo.com.br/2026/07/11/entre-pontes-e-barreiras-copa-do-mundo-mobilidade-do-trabalho-e-migracao/",
+          "publishedOn": "2026-07-11T11:00:00.000Z",
+          "wordCount": 13890,
+          "title": "Entre pontes e barreiras: Copa do Mundo, mobilidade do trabalho e migração",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-10.png?fit=1200%2C904&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=58438",
           "author": "Boitempo",
