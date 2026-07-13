@@ -180,6 +180,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Eduardo-Cunha-e-Valdemar-Costa-Neto-teriam-controlado-orcamento-da-Camara-mesmo-sem-mandato",
+          "author": "Redação",
+          "description": "Uma investigação da Polícia Federal aponta que os ex-deputados Eduardo Cunha, do Republicanos de Minas Gerais, e Valdemar Costa Neto, presidente do PL, teriam mantido influência direta sobre a distribuição de emendas parlamentares mesmo sem ocupar mandato no Congresso. A apuração levou ao bloqueio de R$ 6 milhões atribuídos a Cunha e de R$ 119 milhões relacionados a indicações feitas por Valdemar, revelando novos indícios sobre o funcionamento clandestino do chamado orçamento secreto.\n13-07-2026\n\n/ Política, Eduardo Cunha, Câmara dos Deputados, Orçamento secreto",
+          "link": "https://www.esquerdadiario.com.br/Eduardo-Cunha-e-Valdemar-Costa-Neto-teriam-controlado-orcamento-da-Camara-mesmo-sem-mandato",
+          "publishedOn": "2026-07-13T13:41:16.000Z",
+          "wordCount": null,
+          "title": "Eduardo Cunha e Valdemar Costa Neto teriam controlado orçamento da Câmara mesmo sem mandato",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Terremoto-na-Venezuela-negligencia-neocolonialismo-e-solidariedade-por-baixo",
           "author": "Redação Internacional",
           "description": "Semanas se passaram desde os terremotos que atingiram a Venezuela, e dezenas de milhares de pessoas ainda estão desaparecidas. A solidariedade popular contrasta fortemente com a desastrosa intervenção do governo de Delcy Rodríguez e com a hipocrisia de Trump, que fala em solidariedade enquanto continua a saquear o petróleo e outros recursos essenciais do país em meio à catástrofe. Discutimos tudo isso com Ángel Arias, do La Izquierda Diario Venezuela, de Caracas.\n12-07-2026\n\n/ Internacional, Venezuela, Terremoto, Donald Trump, Imperialismo, Programa Rede Internacional",
@@ -226,6 +236,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444189",
+          "author": "Gisele Lobato",
+          "description": "Negócio repete modus operandi de esquema usado para maquiar balanços do banco e envolve gestoras investigadas; avaliada em R$ 76 milhões, área foi alugada por apenas R$ 1 mil para receber a infraestrutura\nO post Preço de terreno ligado ao Master supervaloriza após anúncio de data center em Minas Gerais apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/07/13/terreno-ligado-master-supervaloriza-anuncio-data-center-minas-gerais/",
+          "publishedOn": "2026-07-13T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Preço de terreno ligado ao Master supervaloriza após anúncio de data center em Minas Gerais",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/07/Headerwide-1.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/07/Headerwide-1.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444203",
           "author": "Eduardo Goulart",
@@ -307,23 +332,73 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260142",
+          "author": "Tabitha Ramalho",
+          "description": "Agentes do serviço de inteligência de Israel (Mossad) estariam recrutando o ex-presidente iraniano Mahmoud Ahmadinejad, considerado o arquiinimigo israelense, para derrubar o regime atual e instalá-lo como novo líder do país persa. Informa o New York Times. No entanto, de acordo com a reportagem do jornal, o plano falhou. Durante os primeiros dias da guerra […]\nO post Mossad tentou usar Ahmadinejad para derrubar regime iraniano e levá-lo de volta ao poder, diz NYT apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/mossad-tentou-usar-ahmadinejad-para-derrubar-regime-iraniano-e-leva-lo-de-volta-ao-poder-diz-nyt/",
+          "publishedOn": "2026-07-13T14:40:57.000Z",
+          "wordCount": 4004,
+          "title": "Mossad tentou usar Ahmadinejad para derrubar regime iraniano e levá-lo de volta ao poder, diz NYT",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/naser-jafari-e1783952267111.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260144",
+          "author": "Tatiana Carlotti",
+          "description": "Teerã promoveu uma série de ataques contra bases militares do Pentágono em vários países do Oriente Médio nesta segunda-feira (13/07). A ofensiva responde aos ataques norte-americanos realizados na noite deste domingo (12/07) contra cidades próximas ao Estreito de Ormuz. A Guarda Revolucionária Islâmica (IRGC) também abriu fogo contra duas embarcações que tentavam atravessar o Estreito […]\nO post Irã ataca bases militares norte-americanas no Kuwait, Bahrein, Omã e Jordânia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-bases-militares-norte-americanas-no-kuwait-bahrein-oma-e-jordania/",
+          "publishedOn": "2026-07-13T14:07:22.000Z",
+          "wordCount": 3437,
+          "title": "Irã ataca bases militares norte-americanas no Kuwait, Bahrein, Omã e Jordânia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-120528.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260137",
+          "author": "Tatiana Carlotti",
+          "description": "Os preços do petróleo registraram alta nesta segunda-feira (13/07), em meio à escalada entre Estados Unidos e Irã, que levou a uma série de ataques e contra-ataques em Teerã e nos países do Golfo Pérsico, além do fechamento do Estreito de Ormuz, por onde escoa um quinto do combustível comercializado no mundo. Nesta manhã, por […]\nO post Preços do petróleo sobem 3% após escalada entre EUA e Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/precos-do-petroleo-sobem-3-apos-escalada-entre-eua-e-ira/",
+          "publishedOn": "2026-07-13T12:52:08.000Z",
+          "wordCount": 2965,
+          "title": "Preços do petróleo sobem 3% após escalada entre EUA e Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/touska-us-navy.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260135",
+          "author": "Tatiana Carlotti",
+          "description": "O engenheiro estrutural Hideki “Kit” Miyamoto descreveu a atividade sísmica ocorrida em 24 de junho na Venezuela como o terceiro desastre natural mais complexo do mundo, depois da China em 2008 e da Turquia em 2023. Em entrevista à Venezolana de Televisión (VTV), o especialista em resiliência urbana destacou a resposta institucional rápida, organizada e […]\nO post Terremotos na Venezuela foram ‘terceiro desastre mais complexo do mundo’, diz especialista do Japão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/terremotos-na-venezuela-foram-terceiro-desastre-mais-complexo-do-mundo-diz-especialista-do-japao/",
+          "publishedOn": "2026-07-13T11:51:17.000Z",
+          "wordCount": 3185,
+          "title": "Terremotos na Venezuela foram ‘terceiro desastre mais complexo do mundo’, diz especialista do Japão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/captura-de-tela-2026-06-28-150347.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260115",
+          "author": "Pedro Marin",
+          "description": "Seis meses de gestão de Zohran Mamdani à frente de Nova York bastam para reconhecer nele a maior figura do Democratic Socialists of America (DSA – Socialistas Democráticos da América) desde Bernie Sanders, ainda que a natureza dessa liderança seja distinta. Sanders foi, antes de tudo, um candidato em torno do qual o DSA se […]\nO post Mamdani depois de Sanders: avanço programático, impasse estratégico apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/mamdani-depois-de-sanders-avanco-programatico-impasse-estrategico/",
+          "publishedOn": "2026-07-13T11:00:18.000Z",
+          "wordCount": 4254,
+          "title": "Mamdani depois de Sanders: avanço programático, impasse estratégico",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/rsz_1zohran_mandani.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260120",
           "author": "Tatiana Carlotti",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, disse nesta segunda-feira (13/07) que o memorando de entendimento, assinado com os Estados Unidos, em 17 de junho, entrou em “uma fase crítica”. Em comunicado, o porta-voz afirmou que seu país “nunca foi o primeiro a violar seus compromissos” e que agiu “de boa-fé […]\nO post Teerã diz que acordo com EUA entrou em ‘fase crítica’ apareceu primeiro em Opera Mundi.",
+          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, disse nesta segunda-feira (13/07) que o memorando de entendimento, assinado com os Estados Unidos, em 17 de junho, entrou em “uma fase crítica”. Em comunicado, o porta-voz afirmou que seu país “nunca foi o primeiro a violar seus compromissos” e que agiu “de boa-fé […]\nO post Teerã diz que acordo com EUA entrou em ‘fase crítica’ após ataques apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/teera-diz-que-acordo-com-eua-entrou-em-fase-critica/",
           "publishedOn": "2026-07-13T10:11:01.000Z",
-          "wordCount": 2782,
-          "title": "Teerã diz que acordo com EUA entrou em ‘fase crítica’",
+          "wordCount": 2779,
+          "title": "Teerã diz que acordo com EUA entrou em ‘fase crítica’ após ataques",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/irna-1.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=260118",
           "author": "Tatiana Carlotti",
-          "description": "A Força Aeroespacial do Corpo da Guarda Revolucionária Islâmica do Irã (IRGC) informou que atacou e destruiu várias plataformas de lançamento de mísseis HIMARS dos EUA em uma base americana no Kuwait na noite de domingo (horário local), que estavam preparadas para atacar o território iraniano. A onda de ataques ocorreu após outra em que […]\nO post Irã ataca bases norte-americanas após terceira rodada de agressões dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-bases-norte-americanas-apos-terceira-rodada-de-agressoes-dos-eua/",
+          "description": "A Força Aeroespacial do Corpo da Guarda Revolucionária Islâmica do Irã (IRGC) informou ter atacado e destruído várias plataformas de lançamento de mísseis HIMARS dos Estados Unidos, que estavam preparadas para atacar o território iraniano, em uma base norte-americana no Kuwait, na noite deste domingo (12/07). A onde de ataques dá sequência à retaliação da […]\nO post Irã ataca plataformas de mísseis no Kuwait em retaliação às agressões dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-plataformas-de-misseis-no-kuwait-em-retaliacao-as-agressoes-dos-eua/",
           "publishedOn": "2026-07-13T10:01:31.000Z",
-          "wordCount": 5255,
-          "title": "Irã ataca bases norte-americanas após terceira rodada de agressões dos EUA",
+          "wordCount": 5250,
+          "title": "Irã ataca plataformas de mísseis no Kuwait em retaliação às agressões dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404071309091743734247494.jpg"
         },
         {
@@ -332,7 +407,7 @@
           "description": "A História dos Vertebrados (Bazar do Tempo), primeiro romance da escritora catalã Mar García Puig, chega ao Brasil como um farol para 57,9 milhões de mães brasileiras, em particular, as que enfrentaram ou estão enfrentando distúrbios mentais relacionados à maternidade. Segundo dados da FioCruz, problemas relacionados a saúde mental e parto afetam 25% das mães […]\nO post Escritora espanhola defende políticas públicas para mães e critica estigma da saúde mental apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opera-entrevista/escritora-espanhola-defende-politicas-publicas-para-maes-e-critica-estigma-da-saude-mental/",
           "publishedOn": "2026-07-13T10:00:56.000Z",
-          "wordCount": 7662,
+          "wordCount": 7657,
           "title": "Escritora espanhola defende políticas públicas para mães e critica estigma da saúde mental",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/puig-2-ok.jpg"
         },
@@ -342,7 +417,7 @@
           "description": "O presidente da Ucrânia, Volodymyr Zelensky, anunciou neste domingo (12/07) uma importante reforma em seu governo, na qual substituirá a primeira-ministra, Yulia Sviridenko, e os titulares de alguns órgãos governamentais. “A Ucrânia está mudando sua estratégia política (…) as mudanças exigem uma renovação do Conselho de Ministros”, afirmou Zelensky em uma mensagem na rede social […]\nO post Ucrânia: Zelensky anuncia reforma no governo e vai substituir primeira-ministra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-zelensky-anuncia-reforma-no-governo-e-vai-substituir-primeira-ministra/",
           "publishedOn": "2026-07-12T20:40:50.000Z",
-          "wordCount": 2981,
+          "wordCount": 2976,
           "title": "Ucrânia: Zelensky anuncia reforma no governo e vai substituir primeira-ministra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnbqsitwaaekapq.jpeg"
         },
@@ -352,76 +427,9 @@
           "description": "Os governos do Irã e de Omã concordaram em continuar as negociações políticas e técnicas voltadas para definir esquemas de segurança marítima e futuros acordos de navegação no Estreito de Ormuz. O anúncio foi feito neste domingo (12/07) pelo porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, após uma reunião de alto nível entre […]\nO post Irã e Omã concordam em coordenar segurança de Ormuz após ataques dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-e-oma-concordam-em-coordenar-seguranca-de-ormuz-apos-ataques-dos-eua/",
           "publishedOn": "2026-07-12T19:58:47.000Z",
-          "wordCount": 3654,
+          "wordCount": 3647,
           "title": "Irã e Omã concordam em coordenar segurança de Ormuz após ataques dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405012217173938436372744-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260102",
-          "author": "Rocio Paik",
-          "description": "A Venezuela segue recebendo ajuda internacional para se recuperar da destruição provocada pelos terremotos que atingiram o país em 24 de junho. Nesse sábado (11/07), a presidente interina da Venezuela, Delcy Rodríguez, visitou um hospital de campanha oferecido pelo Catar localizado na Universidade Nacional Experimental de Segurança (Unes), em Caracas, capital venezuelana. O país possui […]\nO post Com mais de 86 mil famílias afetadas por terremoto, Venezuela segue recebendo ajuda humanitária apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/com-mais-de-86-mil-familias-afetadas-por-terremoto-venezuela-segue-recebendo-ajuda-humanitaria/",
-          "publishedOn": "2026-07-12T19:40:43.000Z",
-          "wordCount": 3240,
-          "title": "Com mais de 86 mil famílias afetadas por terremoto, Venezuela segue recebendo ajuda humanitária",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/aimg-prin32601.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260099",
-          "author": "Rocio Paik",
-          "description": "Uma delegação militar dos Estados Unidos está em Beirute para negociar com o exército libanês as condições para a implementação da retirada israelense de uma das “zonas-piloto” no sul do país, parcialmente ocupada por Israel. A informação foi divulgada neste sábado (12/07) por uma autoridade militar libanesa. Segundo um acordo concluído em 26 de junho, […]\nO post Delegação dos EUA chega a Beirute para negociar retirada israelense de ‘zonas-piloto’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/delegacao-dos-eua-chega-a-beirute-para-negociar-retirada-israelense-de-zonas-piloto/",
-          "publishedOn": "2026-07-12T18:50:51.000Z",
-          "wordCount": 3182,
-          "title": "Delegação dos EUA chega a Beirute para negociar retirada israelense de ‘zonas-piloto’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmm0q12wcaamppw.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260096",
-          "author": "Rocio Paik",
-          "description": "O governo de Donald Trump partiu ao ataque contra a liberdade de imprensa nos Estados Unidos. O Departamento de Justiça emitiu intimações para que vários repórteres do jornal The New York Times testemunhem perante um júri federal em Manhattan. A medida, que incluiu agentes federais entregando as notificações diretamente nas residências dos profissionais, foi tomada […]\nO post Em novo ataque à imprensa, governo Trump intima jornalistas do NYT após reportagens sobre Air Force One apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-intima-jornalistas-do-nyt-apos-reportagens-sobre-air-force-one/",
-          "publishedOn": "2026-07-12T18:00:40.000Z",
-          "wordCount": 3394,
-          "title": "Em novo ataque à imprensa, governo Trump intima jornalistas do NYT após reportagens sobre Air Force One",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/c6a82ce4-929e-453f-ad5d-04673eed645a-hmuz9lswyaajaju.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260093",
-          "author": "Rocio Paik",
-          "description": "O congressista norte-americano Ro Khanna denunciou no sábado (11/07) que colonos israelenses mantiveram ele e a sua delegação sob a mira de armas na Cisjordânia ocupada enquanto realizavam uma visita às comunidades palestinas. De acordo com ele, os soldados do regime sionista os renderam carregando “M4s fabricados nos Estados Unidos” quando visitavam a pequena vila […]\nO post Congressista dos EUA é detido por colonos israelenses na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/congressista-dos-eua-e-detido-por-colonos-israelenses-na-cisjordania/",
-          "publishedOn": "2026-07-12T17:10:26.000Z",
-          "wordCount": 3252,
-          "title": "Congressista dos EUA é detido por colonos israelenses na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hm8zpsxwqaaqfff.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260018",
-          "author": "Fernanda Oliveira",
-          "description": "A pretexto de estudar o legado do cantor e compositor carioca Antônio Candeia Filho (1935-1978), o livro Candeia – O Samba, o Quilombo e o Ativismo (editora Malê) vai mais além e faz um voo rasante sobre as lutas raciais no seio da música popular brasileira dos anos 1970. Seu autor, o teórico cultural Stephen […]\nO post Livro sobre Candeia tenta elucidar as lutas raciais na música brasileira dos anos 1970 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/cultura/livro-sobre-candeia-tenta-elucidar-as-lutas-raciais-na-musica-brasileira-dos-anos-1970/",
-          "publishedOn": "2026-07-12T16:20:35.000Z",
-          "wordCount": 7635,
-          "title": "Livro sobre Candeia tenta elucidar as lutas raciais na música brasileira dos anos 1970",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/capa-divulgacao-candeia-.jpeg"
-        }
-      ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": [
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32434",
-          "author": "De Olho nos Ruralistas",
-          "description": "Linda Brasil apresentou dados do documento em sessão plenária da Assembleia Legislativa de Sergipe; deputado estadual Renato Freitas publicou vídeo destacando gastos com artistas no Paraná e suas relações políticas Por Carolina Bataier Publicado em 1º de julho, o dossiê “Farras: como os shows com dinheiro público conectam artistas, bets, política e agronegócio” vem repercutindo […]\nO post Parlamentares repercutem dossiê Farras: “Não podemos naturalizar contratos milionários” apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/07/10/farras-repercussao/",
-          "publishedOn": "2026-07-10T18:37:44.000Z",
-          "wordCount": 2183,
-          "title": "Parlamentares repercutem dossiê Farras: “Não podemos naturalizar contratos milionários”",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/07/capa-politicos-1.png"
         }
       ]
     },
@@ -621,12 +629,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159471",
+          "author": "Aníbal",
+          "description": "",
+          "link": "https://passapalavra.info/2026/07/159471/",
+          "publishedOn": "2026-07-13T13:29:10.000Z",
+          "wordCount": 3786,
+          "title": "Velha Toupeira (44)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/VT044-BISPOS-ULTRACONSERVADORES-scaled.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159465",
           "author": "Enzo Silva",
           "description": "Era dia primeiro de maio, protestavam pelo fim da escala 6×1, várias lideranças de esquerda se alternavam nos microfones, discursos inflamados. Ao redor, vários estabelecimentos — em sua maioria descolados e progressistas — abertos em pleno feriado. Curiosamente não havia nenhum panfleto ou adesivo nesses estabelecimentos. Passa Palavra",
           "link": "https://passapalavra.info/2026/07/159465/",
           "publishedOn": "2026-07-11T19:50:05.000Z",
-          "wordCount": 3820,
+          "wordCount": 3823,
           "title": "1º de Maio",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         },
@@ -683,7 +701,7 @@
           "description": "\"No ano passado, completaram-se setenta anos da realização da Conferência Afro-Asiática de Bandung, que ocorreu entre 18 e 24 de abril de 1955, na Indonésia. O encontro reuniu um conjunto de 29 nações asiáticas e africanas recém-independentes ou em processo de descolonização, sendo expressão de décadas de luta anticolonial e de ascensão de movimentos nacionalistas que buscavam superar a dominação imperialista.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/09/bandung-a-luta-contra-o-imperialismo-e-os-limites-do-nacionalismo/",
           "publishedOn": "2026-07-09T11:00:00.000Z",
-          "wordCount": 13554,
+          "wordCount": 13705,
           "title": "Bandung: a luta contra o imperialismo e os limites do nacionalismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-7.png?fit=1200%2C771&ssl=1"
         }
