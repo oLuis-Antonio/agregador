@@ -14,16 +14,6 @@
           "wordCount": 2424,
           "title": "Trabalhadores da AlmaViva em Fortaleza rejeitam proposta de arrocho e abusos no telemarketing",
           "imageUrl": "https://media.jornalofuturo.com.br/almaviva-1200x800.jpg"
-        },
-        {
-          "id": "ywzJSA",
-          "author": null,
-          "description": "Enquanto Flávio Bolsonaro articula com Donald Trump nos EUA, Lula fecha parceria com centrão e direita em uma postura reacionária para supostamente enfrentar as facções.",
-          "link": "https://jornalofuturo.com.br/artigo/ywzJSA-nas-previas-eleitorais-lula-e-flavio-bolsonaro-disputam-a-narrativa-de-combate-ao-crime-organizado",
-          "publishedOn": "2026-07-08T15:00:00.000Z",
-          "wordCount": 1879,
-          "title": "Nas prévias eleitorais, Lula e Flávio Bolsonaro disputam a narrativa de combate ao crime organizado",
-          "imageUrl": "https://media.jornalofuturo.com.br/crimeorggov-1280x950.jpg"
         }
       ]
     },
@@ -190,6 +180,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Terremoto-na-Venezuela-negligencia-neocolonialismo-e-solidariedade-por-baixo",
+          "author": "Redação Internacional",
+          "description": "Semanas se passaram desde os terremotos que atingiram a Venezuela, e dezenas de milhares de pessoas ainda estão desaparecidas. A solidariedade popular contrasta fortemente com a desastrosa intervenção do governo de Delcy Rodríguez e com a hipocrisia de Trump, que fala em solidariedade enquanto continua a saquear o petróleo e outros recursos essenciais do país em meio à catástrofe. Discutimos tudo isso com Ángel Arias, do La Izquierda Diario Venezuela, de Caracas.\n12-07-2026\n\n/ Internacional, Venezuela, Terremoto, Donald Trump, Imperialismo, Programa Rede Internacional",
+          "link": "https://www.esquerdadiario.com.br/Terremoto-na-Venezuela-negligencia-neocolonialismo-e-solidariedade-por-baixo",
+          "publishedOn": "2026-07-12T22:58:21.000Z",
+          "wordCount": null,
+          "title": "Terremoto na Venezuela: negligência, neocolonialismo e solidariedade por baixo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Vorcaro-pagou-ate-R-2-mi-para-influencers-defenderem-o-Banco-Master-frente-ao-escandalo",
           "author": "Julia Cardoso",
           "description": "O escândalo da organização criminosa de Daniel Vorcaro ganha mais uma página. Mais uma amostra da podridão da república dos banqueiros. A polícia Federal afirma que Vorcaro contratava por até 2 milhões de reais influencers para atacar o Banco Central e defender o Banco Master. Milões e reais desviados enquanto a juventude segue precarizada.\nMatérias\n\n/ Corrupção, Poder Judiciário, Sociedade, Flavio Bolsonaro, Daniel Vorcaro",
@@ -258,16 +258,6 @@
           "wordCount": null,
           "title": "Demissões arbitrárias e precarização: Terceirizados do restaurante central da USP denunciam empresa J Leal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Professores-denunciam-atraso-de-pagamentos-e-falta-de-transparencia-no-Cursinho-do-DCE-da-UFRN-Pelo",
-          "author": "João Paulo de Lima",
-          "description": "Pelo pagamento imediato dos professores do Cursinho do DCE da UFRN!\n08-07-2025\n\n/ Educação, Rio Grande do Norte, Nordeste, Rio Grande do Norte, Natal, UFRN, Brasil, Natal, Professores do Rio Grande do Norte",
-          "link": "https://www.esquerdadiario.com.br/Professores-denunciam-atraso-de-pagamentos-e-falta-de-transparencia-no-Cursinho-do-DCE-da-UFRN-Pelo",
-          "publishedOn": "2026-07-08T12:46:47.000Z",
-          "wordCount": null,
-          "title": "Professores denunciam atraso de pagamentos e falta de transparência no Cursinho do DCE da UFRN. Pelo pagamento imediato!",
-          "imageUrl": null
         }
       ]
     },
@@ -327,18 +317,7 @@
       "title": "Ponte Jornalismo",
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
-      "articles": [
-        {
-          "id": "https://ponte.org/?p=161432",
-          "author": "Mariana Rosetti",
-          "description": "Estudo do Instituto Sou da Paz mostra que homicídios em territórios marcados pela desigualdade têm menos chances de esclarecimento; para especialistas, a resposta do Estado também depende de quais vidas são consideradas dignas de justiça\nO conteúdo A ‘vítima desvalorizada’: como o Brasil escolhe quais mortes vai esclarecer Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/a-vitima-desvalorizada-como-o-brasil-escolhe-quais-mortes-vai-esclarecer/",
-          "publishedOn": "2026-07-08T13:00:34.000Z",
-          "wordCount": 6051,
-          "title": "A ‘vítima desvalorizada’: como o Brasil escolhe quais mortes vai esclarecer",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/charge-juniao-morte-negros-brasil.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Revista Opera",
@@ -381,7 +360,7 @@
           "description": "oube-se que Sam Altman, CEO da OpenAI e idealizador do ChatGPT, vem há meses visitando gabinetes em Washington com uma proposta aparentemente muito generosa: a criação, pelo governo dos Estados Unidos, de um fundo financeiro público para que os cidadãos possam participar dos benefícios proporcionados pela inteligência artificial. Como era de se esperar, Donald Trump […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/07/08/a-quem-pertence-a-inteligencia-artificial/",
           "publishedOn": "2026-07-08T21:44:23.000Z",
-          "wordCount": 4211,
+          "wordCount": 4237,
           "title": "A quem pertence a inteligência artificial?",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/inteligencia-artificial.webp"
         }
@@ -438,7 +417,7 @@
           "description": "O governo de Donald Trump partiu ao ataque contra a liberdade de imprensa nos Estados Unidos. O Departamento de Justiça emitiu intimações para que vários repórteres do jornal The New York Times testemunhem perante um júri federal em Manhattan. A medida, que incluiu agentes federais entregando as notificações diretamente nas residências dos profissionais, foi tomada […]\nO post Em novo ataque à imprensa, governo Trump intima jornalistas do NYT após reportagens sobre Air Force One apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-intima-jornalistas-do-nyt-apos-reportagens-sobre-air-force-one/",
           "publishedOn": "2026-07-12T18:00:40.000Z",
-          "wordCount": 3405,
+          "wordCount": 3322,
           "title": "Em novo ataque à imprensa, governo Trump intima jornalistas do NYT após reportagens sobre Air Force One",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/c6a82ce4-929e-453f-ad5d-04673eed645a-hmuz9lswyaajaju.webp"
         },
@@ -458,7 +437,7 @@
           "description": "A pretexto de estudar o legado do cantor e compositor carioca Antônio Candeia Filho (1935-1978), o livro Candeia – O Samba, o Quilombo e o Ativismo (editora Malê) vai mais além e faz um voo rasante sobre as lutas raciais no seio da música popular brasileira dos anos 1970. Seu autor, o teórico cultural Stephen […]\nO post Livro sobre Candeia tenta elucidar as lutas raciais na música brasileira dos anos 1970 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/livro-sobre-candeia-tenta-elucidar-as-lutas-raciais-na-musica-brasileira-dos-anos-1970/",
           "publishedOn": "2026-07-12T16:20:35.000Z",
-          "wordCount": 7561,
+          "wordCount": 7644,
           "title": "Livro sobre Candeia tenta elucidar as lutas raciais na música brasileira dos anos 1970",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/capa-divulgacao-candeia-.jpeg"
         },
@@ -488,7 +467,7 @@
           "description": "A Força Aeroespacial do Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) do Irã bombardeou neste domingo (12/07) centros de apoio logístico e plataformas de reabastecimento de porta-aviões dos Estados Unidos implantados em países do Oriente Médio em resposta à agressão norte-americana nas últimas horas, especialmente nas cidades portuárias do sul, como Asalouyeh […]\nO post Irã fecha Estreito de Ormuz e bombardeia instalações militares dos EUA no Oriente Médio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-fecha-estreito-de-ormuz-e-bombardeia-instalacoes-militares-dos-eua-no-oriente-medio/",
           "publishedOn": "2026-07-12T13:39:05.000Z",
-          "wordCount": 3907,
+          "wordCount": 3827,
           "title": "Irã fecha Estreito de Ormuz e bombardeia instalações militares dos EUA no Oriente Médio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405010914312646436201894-e1783865057638.jpg"
         }
@@ -516,6 +495,46 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229531",
+          "author": "Redação de AND",
+          "description": "No 1.008º e no 1.009º dias do Dilúvio de Al-Aqsa, o Irã respondeu à terceira rodada de agressões do país Estados Unidos (EUA) em uma semana com mísseis e drones contra bases e instalações militares ianques na Jordânia, Catar, Omã, Kuwait e Bahrein, além de fechar o Estreito de Ormuz até o fim da ingerência estrangeira. Em Gaza, novos ataques sionistas assassinaram palestinos, entre eles a criança Tala Abu Matar e quatro pessoas em uma oficina; na Cisjordânia, a ocupação elevou uma colônia próxima a Al-Quds à condição de cidade, avançou com 450 novas moradias coloniais e repetiu ataques contra famílias em Masafer Yatta.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-12-07-2026/",
+          "publishedOn": "2026-07-13T02:45:00.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (11–12/07): ‘Cumpra sua palavra ou pague o preço’, adverte Ghalibaf; Irã atinge bases ianques em cinco países",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229520",
+          "author": "Redação de AND",
+          "description": "Em conferência no Peru, representante do Pentágono defendeu orçamentos militares próximos de 3,5% do PIB e operações conjuntas contra organizações chamadas de “narcoterroristas”; José Múcio representou o governo oportunista de Luiz Inácio, enquanto Washington amplia a cooperação repressiva com o País e articula 60 governos contra o “ressurgimento da extrema esquerda”.",
+          "link": "https://anovademocracia.com.br/doutrina-donroe-eua-america-latina-brasil/",
+          "publishedOn": "2026-07-13T01:21:54.000Z",
+          "wordCount": null,
+          "title": "‘Doutrina Donroe’: EUA pressiona América Latina a triplicar gastos militares sob pretexto do ‘narcoterrorismo’; política contrarrevolucionária põe o Brasil no eixo da agressão",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229506",
+          "author": "Redação de AND",
+          "description": "Jair chama Flávio de “porta-voz” e “melhor opção”, mas omite Michelle; Caiado ironiza a dependência do senador, Damares deixa a equipe do plano de governo e União Progressista e Republicanos discutem “neutralidade”.",
+          "link": "https://anovademocracia.com.br/bolsonaro-carta-rachadura-extrema-direita/",
+          "publishedOn": "2026-07-12T23:23:24.000Z",
+          "wordCount": null,
+          "title": "‘Deixem as diferenças de lado’: Bolsonaro tenta passar o bastão a ‘Rachadinha’, mas apelo por unidade não fecha rachadura na extrema direita",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229501",
+          "author": "Editor Executivo",
+          "description": "Manifestação bloqueou a Avenida Presidente Vargas contra decreto que intensifica o patrulhamento e a apreensão de mercadorias de trabalhadores informais na orla da Zona Sul.",
+          "link": "https://anovademocracia.com.br/ambulantes-protestam-reprimidos-pm-rio/",
+          "publishedOn": "2026-07-12T21:12:00.000Z",
+          "wordCount": null,
+          "title": "Ambulantes protestam contra ‘Tolerância Zero’ e são reprimidos pela Polícia Militar no Rio",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229495",
           "author": "Editor Executivo",
@@ -574,46 +593,6 @@
           "publishedOn": "2026-07-11T13:00:42.000Z",
           "wordCount": null,
           "title": "Crônica do agitador: Antes do primeiro jornal vendido",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229429",
-          "author": "Redação de AND",
-          "description": "Parlamentar acusa camponeses de atuarem como “milícia armada” e pede classificação ianque; retórica já é empregada contra a LCP em Rondônia, enquanto o governo oportunista amplia a cooperação policial e de inteligência com o EUA.",
-          "link": "https://anovademocracia.com.br/deputado-movimento-campones-eua-terroristas/",
-          "publishedOn": "2026-07-11T02:12:12.000Z",
-          "wordCount": null,
-          "title": "‘Milícia armada’: deputado bolsonarista serviçal do latifúndio implora ao EUA que inclua o movimento camponês em lista de ‘terroristas’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229394",
-          "author": "Redação de AND",
-          "description": "Mulay relembrou a filosofia que sustenta a combatividade do seu povo, destacando duas frases fundamentais: \"com o fuzil, conquistaremos a liberdade\" e \"toda a pátria ou o martírio\".",
-          "link": "https://anovademocracia.com.br/embaixador-republica-saaraui-entrevista-and/",
-          "publishedOn": "2026-07-10T20:11:50.000Z",
-          "wordCount": null,
-          "title": "‘Com o fuzil conquistaremos a liberdade’: Ahmed Mulay, embaixador da República Saarauí, reafirma luta contra a ocupação em entrevista exclusiva ao AND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229374",
-          "author": "Redação de AND",
-          "description": "Duas pessoas arrombaram o acesso à réplica da “Estátua da Liberdade” e acionaram um artefato explosivo na madrugada de 2 de julho. No local, foram deixados panfletos em defesa das heroicas resistências nacionais da Palestina, Irã, Líbano e Iêmen, e contra o imperialismo ianque. As estátuas da Havan já foram alvo de outras ações de destruição em várias cidades do País.",
-          "link": "https://anovademocracia.com.br/bomba-estatua-havan-luciano-hang-terrorismo/",
-          "publishedOn": "2026-07-10T19:23:35.000Z",
-          "wordCount": null,
-          "title": "Bomba com mensagens anti-imperialistas explode em ‘Estátua da Liberdade’ da Havan em Maceió; Luciano Hang acusa ‘terrorismo’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229368",
-          "author": "Pablo Isidoro",
-          "description": "“Tudo é relativo – exceto, naturalmente, a genialidade do professor doutor Polidoxo Protagórides. E se alguém tivesse a ousadia de desafiá-lo a classificar o sistema econômico em que vivemos, o bom doutor suspiraria com o enfado paciente de quem se vê obrigado, mais uma vez, a explicar o óbvio aos excessivamente simples.”",
-          "link": "https://anovademocracia.com.br/cronica-professor-polidoxo-protagorides/",
-          "publishedOn": "2026-07-10T14:33:03.000Z",
-          "wordCount": null,
-          "title": "Crônica: A incrível aula de disputationes do genial professor doutor Polidoxo Protagórides",
           "imageUrl": null
         }
       ]
@@ -779,7 +758,7 @@
           "description": "\"Na 'Ópera dos três vinténs', Bertolt Brecht questiona: 'O que é roubar um banco comparado a fundar um?'\". Mouzar Benedito reúne uma coleção de frases para refletir sobre sobre a riqueza – e os pobres que se fascinam por ela.",
           "link": "https://blogdaboitempo.com.br/2026/07/10/cultura-inutil-empreendedorismo-e-as-bets-a-alegria-de-ser-trouxa-e-enganado/",
           "publishedOn": "2026-07-10T13:07:59.000Z",
-          "wordCount": 13617,
+          "wordCount": 13470,
           "title": "Cultura inútil | Empreendedorismo e as bets: a alegria de ser trouxa e enganado!",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-8.png"
         },
@@ -789,7 +768,7 @@
           "description": "\"No ano passado, completaram-se setenta anos da realização da Conferência Afro-Asiática de Bandung, que ocorreu entre 18 e 24 de abril de 1955, na Indonésia. O encontro reuniu um conjunto de 29 nações asiáticas e africanas recém-independentes ou em processo de descolonização, sendo expressão de décadas de luta anticolonial e de ascensão de movimentos nacionalistas que buscavam superar a dominação imperialista.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/09/bandung-a-luta-contra-o-imperialismo-e-os-limites-do-nacionalismo/",
           "publishedOn": "2026-07-09T11:00:00.000Z",
-          "wordCount": 13705,
+          "wordCount": 13554,
           "title": "Bandung: a luta contra o imperialismo e os limites do nacionalismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-7.png?fit=1200%2C771&ssl=1"
         }
