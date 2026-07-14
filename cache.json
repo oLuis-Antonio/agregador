@@ -23,6 +23,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a564645d3cef40358950ec2",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/marxismo-vivo-e-correio-internacional/",
+          "publishedOn": "2026-07-14T14:23:13.000Z",
+          "wordCount": 312,
+          "title": "Marxismo Vivo e Correio Internacional",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
           "id": "6a561cefd3cef40358950e78",
           "author": "Roberto Aguiar, da redação",
           "description": "Pré-candidato do PSTU ao governo paraense critica Ferrogrão, privatização das hidrovias, mineração, exploração de petróleo e mercado de carbono e apresenta medidas para defender a floresta, os rios e os povos da Amazônia",
@@ -161,16 +171,6 @@
           "wordCount": 1345,
           "title": "Julho das Pretas: Romper as engrenagens capitalistas para a emancipação da mulher negra trabalhadora",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Marcha-das-Mulheres-Negras-em-Bel--m---Par--.webp"
-        },
-        {
-          "id": "6a5139c9d3cef40358950c7c",
-          "author": "Jeferson Choma",
-          "description": "Agências climáticas de todo o mundo já confirmaram que um El Niño está se formando e ganhando força rapidamente no Oceano Pacífico. O fenômeno deve atingir nível forte entre julho e setembro e elevar",
-          "link": "https://opiniaosocialista.com.br/por-que-devemos-nos-preocupar-com-o-super-el-nino/",
-          "publishedOn": "2026-07-10T18:38:49.000Z",
-          "wordCount": 2040,
-          "title": "Por que devemos nos preocupar com o super El Niño?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/el-nino.webp"
         }
       ]
     },
@@ -179,6 +179,36 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Emendas-de-Cunha-passavam-pela-supervisao-de-Hugo-Motta-afirma-PF",
+          "author": "Jean Barroso",
+          "description": "Segundo a Polícia Federal, servidora da Câmara era o elo entre Eduardo Cunha e Hugo Motta no caso do direcionamento de recursos do orçamento secreto.\n14-07-2026\n\n/ Política, Eduardo Cunha, Polícia Federal, Republicanos, Orçamento secreto, PL, Hugo Motta",
+          "link": "https://www.esquerdadiario.com.br/Emendas-de-Cunha-passavam-pela-supervisao-de-Hugo-Motta-afirma-PF",
+          "publishedOn": "2026-07-14T15:25:51.000Z",
+          "wordCount": null,
+          "title": "Emendas de Cunha passavam pela supervisão de Hugo Motta, afirma PF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Na-Copa-de-Trump-os-empresarios-entraram-em-campo-o-poder-do-dinheiro-altera-para-sempre-o-Futebol",
+          "author": "Pedro Cheuiche",
+          "description": "O jogo em quatro tempos que muda a dinâmica de uma partida, os insuportáveis DJs que interrompem os cantos das torcidas, a máquina do VAR que intervém com um toque de cabelo, mas não detectou a bola no cabo de câmera. A disputa da extrema direita para conter o que existe de plural no esporte. O caminho da alteração do futebol é sem volta?\n14-07-2026\n\n/ Futebol, Capitalismo, Copa do Mundo",
+          "link": "https://www.esquerdadiario.com.br/Na-Copa-de-Trump-os-empresarios-entraram-em-campo-o-poder-do-dinheiro-altera-para-sempre-o-Futebol",
+          "publishedOn": "2026-07-14T15:05:13.000Z",
+          "wordCount": null,
+          "title": "Na Copa de Trump, os empresários entraram em campo: o poder do dinheiro altera para sempre o Futebol?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Maioria-dos-paulistanos-repudia-ataques-privatistas-de-Tarcisio-contra-o-Metro-e-os-Trens-da-CPTM",
+          "author": "Redação",
+          "description": "Em pesquisa realizada pelo Datafolha, 54% dos entrevistados foram contra a privatização do Metrô, e 53% contra a privatização dos Trens da CPTM.\n14-07-2026\n\n/ Política, São Paulo (capital), Metrô, Tarcísio de Freitas, Privatização do metrô, Metrô de São Paulo, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Maioria-dos-paulistanos-repudia-ataques-privatistas-de-Tarcisio-contra-o-Metro-e-os-Trens-da-CPTM",
+          "publishedOn": "2026-07-14T14:23:47.000Z",
+          "wordCount": null,
+          "title": "Maioria dos paulistanos repudia ataques privatistas de Tarcísio contra o Metrô e os Trens da CPTM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Familia-e-resgatada-de-trabalho-analogo-a-escravidao-em-fazenda-no-Ceara",
           "author": "Abayomi Abebe",
@@ -356,6 +386,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74098",
+          "author": "El Salto",
+          "description": "36ª cúpula da OTAN, realizada em Ancara, Turquia, nos dias 7 e 8 de julho, foi marcada pelo rompimento do acordo entre os EUA e o Irã — assinado no último dia 17 de junho — e pelo aumento dos investimentos em armamento militar por parte dos parceiros europeus. Washington bombardeou mais de 80 alvos […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/14/mais-gastos-militares-e-provocacoes-de-trump-pontos-chave-da-cupula-da-otan-em-ancara/",
+          "publishedOn": "2026-07-14T15:49:43.000Z",
+          "wordCount": 3697,
+          "title": "Mais gastos militares e provocações de Trump: pontos-chave da cúpula da OTAN em Ancara",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/OTAN-1.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74094",
           "author": "Middle East Monitor",
           "description": "xiste um mito sedutor de que a China e o Irã são aliados unidos pelo sangue e pela ideologia, de que Pequim correria em socorro de Teerã da mesma forma que a OTAN o faria por um membro nos termos do Artigo 5º. Nada poderia estar mais longe da verdade. O que une Pequim e […]",
@@ -393,33 +433,83 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260265",
+          "author": "Tabitha Ramalho",
+          "description": "Uma decisão do Tribunal Federal de San Martín anulou uma medida cautelar que protegia o pagamento de benefícios sociais a quase um milhão de pessoas na Argentina, ordenando a suspensão imediata das transferências. A decisão afeta principalmente assistentes sociais em cozinhas comunitárias e líderes de organizações como o Polo Obrero e o Sindicato dos Trabalhadores […]\nO post Decisão contra programa social afeta quase um milhão de trabalhadores na Argentina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/decisao-contra-programa-social-afeta-quase-um-milhao-de-trabalhadores-na-argentina/",
+          "publishedOn": "2026-07-14T16:40:24.000Z",
+          "wordCount": 3391,
+          "title": "Decisão contra programa social afeta quase um milhão de trabalhadores na Argentina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/sin-titulo-9.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260245",
+          "author": "Tabitha Ramalho",
+          "description": "As delegações do Líbano e Israel retomaram as negociações em Roma nesta terça-feira (14/07), com Beirute na expectativa de progresso rumo à retirada israelense do sul do território, conforme previsto em um acordo mediado pelos Estados Unidos, além de ter sido instruído pelo presidente libanês Joseph Aoun. É esperado serem dois dias de reuniões na […]\nO post Líbano e Israel retomam negociações para retirada de tropas israelenses do território libanês apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libano-e-israel-retomam-negociacoes-para-retirada-de-tropas-israelenses-do-territorio-libanes/",
+          "publishedOn": "2026-07-14T16:00:37.000Z",
+          "wordCount": 3586,
+          "title": "Líbano e Israel retomam negociações para retirada de tropas israelenses do território libanês",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/8ff97523-60af-4d4a-ae13-8b38ff7aad01-e1784038834956.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260246",
+          "author": "Rocio Paik",
+          "description": "As forças israelenses fecharam nesta terça-feira (14/07) os portões do complexo da Mesquita Al-Aqsa, em Jerusalém Oriental ocupada, sob o pretexto de realizar exercícios militares no local, de acordo com a agência de notícias palestina Wafa. No entanto, não houve comentários oficiais e imediatos por parte do governo de Israel sobre esta medida, que ocorre […]\nO post Sem dar explicações, Israel fecha portões do complexo da Mesquita Al-Aqsa em Jerusalém apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/sem-dar-explicacoes-israel-fecha-portoes-do-complexo-da-mesquita-al-aqsa-em-jerusalem/",
+          "publishedOn": "2026-07-14T15:20:51.000Z",
+          "wordCount": 3401,
+          "title": "Sem dar explicações, Israel fecha portões do complexo da Mesquita Al-Aqsa em Jerusalém",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/jerusalem-2007-temple_mount-al-aqsa_mosque_01.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260250",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente eleito da Colômbia, Abelardo de la Espriella, anunciou que extinguirá o Alto Comissário para a Paz (OACP) e outros órgãos relacionados ao Acordo de Paz de 2016, firmado entre o governo colombiano e os grupos armados no país. Em pronunciamento divulgado nas redes sociais nesta segunda-feira (13/07), o ultradireitista disse que seu governo […]\nO post Presidente eleito na Colômbia anuncia fim de órgão que negociava paz com guerrilhas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/presidente-eleito-na-colombia-anuncia-fim-de-orgao-que-negociava-paz-com-guerrilhas/",
+          "publishedOn": "2026-07-14T14:43:56.000Z",
+          "wordCount": 3551,
+          "title": "Presidente eleito na Colômbia anuncia fim de órgão que negociava paz com guerrilhas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/de-la-espriella-colombia-x.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260243",
+          "author": "Tatiana Carlotti",
+          "description": "A China pediu nesta terça-feira (14/07) que Estados Unidos e Irã evitem a retomada da guerra e preservem o cessar-fogo, em meio à escalada militar e o anúncio do presidente norte-americano, Donald Trump, de bloquear os portos iranianos no Estreito de Ormuz. “A China está profundamente preocupada com a retomada do conflito militar na região […]\nO post China e Rússia condenam escalada no Oriente Médio e pedem retomada das negociações apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-e-russia-condenam-escalada-no-oriente-medio-e-pedem-retomada-das-negociacoes/",
+          "publishedOn": "2026-07-14T14:00:48.000Z",
+          "wordCount": 2971,
+          "title": "China e Rússia condenam escalada no Oriente Médio e pedem retomada das negociações",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/641523791-122171624744771020-5243845380974654468-n.jpg.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260231",
           "author": "Tabitha Ramalho",
           "description": "Os Estados Unidos decidem nesta quarta-feira (15/07) se vão aplicar um novo pacote de tarifas sobre produtos brasileiros, em uma medida que pode afetar bilhões de dólares no comércio entre os dois países. Antes da decisão, autoridades brasileiras e o representante comercial dos Estados Unidos, Jamieson Greer, devem realizar uma nova reunião virtual. A expectativa […]\nO post Governo Trump decide sobre novas tarifas contra o Brasil nesta quarta-feira (15) apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/governo-trump-decide-sobre-novas-tarifas-contra-o-brasil-nesta-quarta-feira-15/",
           "publishedOn": "2026-07-14T12:29:11.000Z",
-          "wordCount": 4084,
+          "wordCount": 4000,
           "title": "Governo Trump decide sobre novas tarifas contra o Brasil nesta quarta-feira (15)",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/12/54880590614_7ef0515c3a_k.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=260216",
           "author": "Tatiana Carlotti",
-          "description": "Durante a sessão plenária do Conselho Econômico Nacional, nesta terça-feira (13/07), a presidente interina da Venezuela, Delcy Rodríguez, afirmou categoricamente que “ninguém concorda com o bloqueio econômico”, destacando o consenso absoluto que existe entre o governo bolivariano e as forças produtivas do país para exigir a cessação imediata das sanções. A presidente afirmou que, se […]\nO post Delcy Rodriguez pede fim do bloqueio dos EUA contra Venezuela apareceu primeiro em Opera Mundi.",
+          "description": "Durante a sessão plenária do Conselho Econômico Nacional, nesta terça-feira (13/07), a presidente interina da Venezuela, Delcy Rodríguez, afirmou categoricamente que “ninguém concorda com o bloqueio econômico”, destacando o consenso absoluto que existe entre o governo bolivariano e as forças produtivas do país para exigir a cessação imediata das sanções. A presidente afirmou que, se […]\nO post Delcy Rodríguez pede fim do bloqueio dos EUA contra Venezuela apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-pede-fim-do-bloqueio-economico-dos-eua-contra-venezuela-ninguem-concorda/",
           "publishedOn": "2026-07-14T10:51:41.000Z",
-          "wordCount": 2996,
-          "title": "Delcy Rodriguez pede fim do bloqueio dos EUA contra Venezuela",
+          "wordCount": 2992,
+          "title": "Delcy Rodríguez pede fim do bloqueio dos EUA contra Venezuela",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/34e2a214-db30-476d-89c9-9eee2d23957a-1.jpg.webp"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=260214",
           "author": "Tatiana Carlotti",
-          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, rechaçou as declarações do presidente norte-americano Donald Trump, nesta terça-feira (13/07), após o anúncio de que Washington assumirá o controle do Estreito de Ormuz, cobrando uma taxa de 20% sobre toda a carga transportada pela rota. “O presidente dos EUA está absolutamente certo. Quem garante a […]\nO post Irã reitera controle sobre Ormuz e ironiza anúncio de Trump: ‘20% é muito, seremos justos’ apareceu primeiro em Opera Mundi.",
+          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, rechaçou as declarações do presidente norte-americano Donald Trump, nesta terça-feira (13/07), após o anúncio de que Washington assumirá o controle do Estreito de Ormuz, cobrando uma taxa de 20% sobre toda a carga transportada pela rota. “O presidente dos EUA está absolutamente certo. Quem garante a […]\nO post Irã reitera controle sobre Ormuz e ironiza anúncio de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-reitera-controle-sobre-ormuz-e-ironiza-anuncio-de-trump-20-e-muito-seremos-justos/",
           "publishedOn": "2026-07-14T10:33:01.000Z",
-          "wordCount": 3689,
-          "title": "Irã reitera controle sobre Ormuz e ironiza anúncio de Trump: ‘20% é muito, seremos justos’",
+          "wordCount": 3670,
+          "title": "Irã reitera controle sobre Ormuz e ironiza anúncio de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1404071317193555634254064-e1770295286150.webp"
         },
         {
@@ -428,7 +518,7 @@
           "description": "O presidente argentino Javier Milei avança na organização de uma cúpula da direita que pretende reunir chefes de Estado e lideranças políticas regionais e internacionais alinhadas ao seu projeto ideológico de combate ao que chama de “socialismo do Século 21” e ao movimento identitário conhecido como “woke” – ou o que se conhece no Brasil […]\nO post Milei quer liderar extrema direita latino-americana, mas analistas apontam limites estratégicos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/milei-quer-liderar-extrema-direita-latino-americana-mas-analistas-apontam-limites-estrategicos/",
           "publishedOn": "2026-07-14T10:00:08.000Z",
-          "wordCount": 4827,
+          "wordCount": 4823,
           "title": "Milei quer liderar extrema direita latino-americana, mas analistas apontam limites estratégicos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/milei.jpg"
         },
@@ -438,59 +528,9 @@
           "description": "O presidente brasileiro Luiz Inácio Lula da Silva acusou Donald Trump de pirataria por anunciar uma taxa de 20% sobre os navios que cruzam o Estreito de Ormuz sob proteção militar dos Estados Unidos. Durante um evento oficial no Instituto Tecnológico Mauá, em São Paulo, nesta segunda-feira (13/07), Lula criticou duramente o anúncio de Trump […]\nO post Lula acusa Trump de ‘pirataria’ após anúncio de cobrança no Estreito de Ormuz apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-acusa-trump-de-pirataria-apos-anuncio-de-cobranca-no-estreito-de-ormuz/",
           "publishedOn": "2026-07-14T09:54:13.000Z",
-          "wordCount": 3415,
+          "wordCount": 3331,
           "title": "Lula acusa Trump de ‘pirataria’ após anúncio de cobrança no Estreito de Ormuz",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/55057099308_5bc7f99f0a_o.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260183",
-          "author": "Victor Farinelli",
-          "description": "O que o Brasil precisa fazer para recuperar sua capacidade de planejar o futuro? Após 70 anos do audacioso Plano de Metas de Juscelino Kubitschek, quais são os desafios para construir uma estratégia nacional capaz de recolocar o país na rota da industrialização, da inovação e da soberania? Essas são algumas das questões que estarão […]\nO post Seminário debate caminhos para soberania e desenvolvimento do Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/seminario-debate-caminhos-para-soberania-e-desenvolvimento-do-brasil/",
-          "publishedOn": "2026-07-13T22:40:38.000Z",
-          "wordCount": 3633,
-          "title": "Seminário debate caminhos para soberania e desenvolvimento do Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/semi.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260206",
-          "author": "Victor Farinelli",
-          "description": "O ex-presidente iraniano Mahmoud Ahmadinejad (2005-2013) teria sido colocado em prisão domiciliar nesta segunda-feira (13/07) por ordem da Guarda Revolucionária Islâmica. A informação é do diário The New York Times (NYT), que usa como fontes quatro altos funcionários iranianos não identificados. A medida teria sido tomada após publicação de reportagem do próprio NYT afirmando que […]\nO post Ahmadinejad vai à prisão domiciliar por possível colaboração com Israel, afirma jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ahmadinejad-vai-a-prisao-domiciliar-por-possivel-colaboracao-com-israel-afirma-jornal/",
-          "publishedOn": "2026-07-13T22:19:41.000Z",
-          "wordCount": 3100,
-          "title": "Ahmadinejad vai à prisão domiciliar por possível colaboração com Israel, afirma jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ahmadinejad.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260200",
-          "author": "Victor Farinelli",
-          "description": "O presidente da França, Emmanuel Macron, e líderes de 37 países, a maioria europeus, reforçaram seu apoio militar à Ucrânia nesta segunda-feira (13/07) durante o encontro com a “Coalizão dos Voluntários”, grupo de nações aliadas a Kiev. A reunião, que aconteceu em Paris com a presença do líder ucraniano Volodymyr Zelensky, foi duramente criticada pela […]\nO post Europa reforça apoio militar à Ucrânia durante cúpula com 37 países apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/europa-reforca-apoio-militar-a-ucrania-durante-cupula-com-37-paises/",
-          "publishedOn": "2026-07-13T21:20:31.000Z",
-          "wordCount": 3150,
-          "title": "Europa reforça apoio militar à Ucrânia durante cúpula com 37 países",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/macron-zel.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260195",
-          "author": "Pedro Marin",
-          "description": "Estou em Buenos Aires em plena Copa. A cidade certa num momento estranho, uma dessas ironias que só os afetos do futebol produzem. Buenos Aires fervilhava e esperava, ansiosa, o jogo da noite de ontem: Argentina x Suíça. Quando eu e minha companheira planejamos esta viagem, nem associei as datas ao torneio. A ideia era […]\nO post Estou em Buenos Aires, e não vou torcer pela Argentina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/estou-em-buenos-aires-e-nao-vou-torcer-pela-argentina/",
-          "publishedOn": "2026-07-13T20:38:09.000Z",
-          "wordCount": 4394,
-          "title": "Estou em Buenos Aires, e não vou torcer pela Argentina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/argentina-messi.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260194",
-          "author": "Victor Farinelli",
-          "description": "O presidente dos Estados Unidos, Donald Trump, declarou nesta segunda-feira (13/07) que as forças militares norte-americanas iniciarão um bloqueio aos portos do Irã. A informação foi confirmada pelo Comando Central dos Estados Unidos (Centcom), que emitiu nota explicando que a Marinha norte-americana “retomará o bloqueio do tráfego marítimo de entrada e saída de portos iranianos […]\nO post Governo Trump anuncia bloqueio marítimo ao Irã a partir desta terça-feira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/governo-trump-anuncia-bloqueio-maritimo-ao-ira-a-partir-desta-terca-feira/",
-          "publishedOn": "2026-07-13T20:34:27.000Z",
-          "wordCount": 3162,
-          "title": "Governo Trump anuncia bloqueio marítimo ao Irã a partir desta terça-feira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/trumpo.jpg"
         }
       ]
     },
