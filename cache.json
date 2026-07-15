@@ -55,10 +55,10 @@
         {
           "id": "6a57b8acd3cef40358950f06",
           "author": "Cristiane Banhol, de São Paulo (SP)",
-          "description": "Educação política sem educação completa e crítica?",
+          "description": "Educação Politica sem Sociologia e Filosofia?",
           "link": "https://opiniaosocialista.com.br/a-nova-lei-sancionada-por-lula-e-o-projeto-de-educacao-que-vem-desde-brasilia/",
           "publishedOn": "2026-07-15T16:51:53.000Z",
-          "wordCount": 1884,
+          "wordCount": 2034,
           "title": "A nova lei sancionada por Lula e o projeto de Educação que vem desde Brasília",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/nova-lei-educacao.webp"
         },
@@ -68,7 +68,7 @@
           "description": "A luta pela justiça climática exige a superação do capitalismo e a construção de um socialismo sustentável",
           "link": "https://opiniaosocialista.com.br/calor-devastador-na-europa-o-responsavel-se-chama-capitalismo/",
           "publishedOn": "2026-07-14T23:19:09.000Z",
-          "wordCount": 1087,
+          "wordCount": 1104,
           "title": "Calor devastador na Europa: O responsável se chama capitalismo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/onda-calor-europa.webp"
         },
@@ -78,7 +78,7 @@
           "description": "Duas publicações da Liga Internacional dos Trabalhadores – Quarta Internacional (LIT-QI), a Marxismo Vivo e a Correio Internacional, oferecem ferramentas de análise para militantes, ativistas, estudantes e todos aqueles interessados em compreender a realidade a partir do marxismo revolucionário. Publicações",
           "link": "https://opiniaosocialista.com.br/marxismo-vivo-e-correio-internacional/",
           "publishedOn": "2026-07-14T14:23:13.000Z",
-          "wordCount": 817,
+          "wordCount": 834,
           "title": "Marxismo Vivo e Correio Internacional: Duas revistas para compreender a luta de classes no cenário internacional",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/banner-Lan--amentos_Prancheta-7-2.png"
         },
@@ -88,7 +88,7 @@
           "description": "Pré-candidato do PSTU ao governo paraense critica Ferrogrão, privatização das hidrovias, mineração, exploração de petróleo e mercado de carbono e apresenta medidas para defender a floresta, os rios e os povos da Amazônia",
           "link": "https://opiniaosocialista.com.br/cleber-rabelo-defende-a-amazonia-e-propoe-barrar-megaprojetos-que-ameacam-o-para/",
           "publishedOn": "2026-07-14T11:57:24.000Z",
-          "wordCount": 2225,
+          "wordCount": 2242,
           "title": "Cleber Rabelo defende a Amazônia e propõe barrar megaprojetos que ameaçam o Pará",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/protesto-ind--genas.png"
         },
@@ -98,7 +98,7 @@
           "description": "Pela reintegração de todos os demitidos, já!",
           "link": "https://opiniaosocialista.com.br/sc-contra-as-demissoes-ilegais-dos-municipais-de-florianopolis/",
           "publishedOn": "2026-07-11T20:34:29.000Z",
-          "wordCount": 1004,
+          "wordCount": 1021,
           "title": "SC: Contra as demissões ilegais dos municipais de Florianópolis",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/greve-floripa.webp"
         },
@@ -108,7 +108,7 @@
           "description": "UDESC tem que ampliar as ações afirmativas, já!",
           "link": "https://opiniaosocialista.com.br/sc-extrema-direita-agride-estudantes-que-lutam-por-cotas/",
           "publishedOn": "2026-07-11T20:13:31.000Z",
-          "wordCount": 798,
+          "wordCount": 815,
           "title": "SC: Extrema direita agride estudantes que lutam por cotas",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/tumulto-direita-esquerda-sessao-ampliacao-cotas-udesc-florianopolis-1.webp"
         }
@@ -351,6 +351,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74103",
+          "author": "ARENA",
+          "description": "mber Nicole Thurman não deveria ter morrido em uma cama de hospital. Ela tinha 28 anos, morava na Geórgia e havia tomado medicamentos para realizar um aborto – um procedimento seguro e rotineiro. Quando desenvolveu complicações raras, ela fez o que qualquer pessoa faria: foi ao hospital. O que se seguiu não foi uma falha […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/15/aborto-o-custo-da-hesitacao/",
+          "publishedOn": "2026-07-15T17:42:09.000Z",
+          "wordCount": 4431,
+          "title": "Aborto: o custo da hesitação",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/aborto.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74098",
           "author": "El Salto",
           "description": "36ª cúpula da OTAN, realizada em Ancara, Turquia, nos dias 7 e 8 de julho, foi marcada pelo rompimento do acordo entre os EUA e o Irã — assinado no último dia 17 de junho — e pelo aumento dos investimentos em armamento militar por parte dos parceiros europeus. Washington bombardeou mais de 80 alvos […]",
@@ -388,12 +398,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260407",
+          "author": "Fernanda Oliveira",
+          "description": "O mercado global de inteligência artificial já é estimado em US$ 4,8 trilhões, segundo levantamento compilado pela Alura. Esse número não descreve apenas o tamanho de um setor: descreve uma infraestrutura que atravessa quase todas as áreas produtivas, do marketing ao desenvolvimento de software, passando pelo design gráfico e pela análise de dados. O reflexo […]\nO post Novas profissões em tecnologia e IA para 2026 e próximos anos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-conteudo/novas-profissoes-em-tecnologia-e-ia-para-2026-e-proximos-anos/",
+          "publishedOn": "2026-07-15T20:36:00.000Z",
+          "wordCount": 4096,
+          "title": "Novas profissões em tecnologia e IA para 2026 e próximos anos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/pexels-agk42-2599244.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260380",
+          "author": "Tatiana Carlotti",
+          "description": "O Tribunal Superior de Nairóbi rejeitou nesta quarta-feira (15/07) o pedido da comunidade rastafári para obter o direito de utilizar maconha em rituais religiosos, frustrando uma reivindicação apresentada aos magistrados do Quênia, desde 2021. A decisão foi recebida com decepção pelos seguidores do movimento, que consideram a cannabis um sacramento espiritual e afirmam que a legislação […]\nO post Tribunal do Quênia rejeita pedido de rastafáris para uso religioso da cannabis apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/tribunal-do-quenia-rejeita-pedido-de-rastafaris-para-uso-religioso-da-cannabis/",
+          "publishedOn": "2026-07-15T20:30:53.000Z",
+          "wordCount": 3687,
+          "title": "Tribunal do Quênia rejeita pedido de rastafáris para uso religioso da cannabis",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/marijuana.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260400",
+          "author": "Tabitha Ramalho",
+          "description": "Feche os olhos e imagine uma apresentação de tango. Você provavelmente vai pensar em dançarinos brancos ostentando ternos elegantes e vestidos com fenda, um salão aristocrático de um bairro tradicional de Buenos Aires e uma orquestra melancólica com bandoneóns, contrabaixos e violinos. Um argentino respondendo a essa pergunta no fim do século 19, no entanto, […]\nO post Raízes esquecidas: a herança africana do tango apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/raizes-esquecidas-a-heranca-africana-do-tango/",
+          "publishedOn": "2026-07-15T19:50:05.000Z",
+          "wordCount": 4692,
+          "title": "Raízes esquecidas: a herança africana do tango",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/candombe_federal_epoca_de_rosas.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260367",
+          "author": "Tabitha Ramalho",
+          "description": "Torcedores argentinos hostilizaram com insultos e gestos racistas o streamer estadunidense IShowSpeed durante a Copa do Mundo 2026. Os ataques, ocorridos no último dia 3 de julho, fizeram a FIFA abrir uma investigação. No futebol, casos de racismo envolvendo torcidas argentinas costumam vir à tona principalmente durante as partidas da Copa Libertadores, mas não se […]\nO post Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/mito-da-argentina-branca-como-apagamento-da-historia-negra-e-indigena-molda-racismo-no-pais/",
+          "publishedOn": "2026-07-15T19:10:06.000Z",
+          "wordCount": 4396,
+          "title": "Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-15-122852.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260394",
+          "author": "Rocio Paik",
+          "description": "Matéria atualizada às 16h53 O porta-voz do Ministério das Relações Exteriores do Irã, Esmail Baghaei, afirmou nesta quarta-feira (15/07) que Teerã não tem planos de se envolver em negociações com os Estados Unidos e está focada exclusivamente na defesa do país. A posição foi dada a repórteres, em meio a violações norte-americanas do Memorando de […]\nO post Irã descarta negociações com EUA e fala em responder ‘com total força’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-descarta-negociacoes-com-eua-e-fala-em-responder-com-total-forca/",
+          "publishedOn": "2026-07-15T18:30:19.000Z",
+          "wordCount": 3729,
+          "title": "Irã descarta negociações com EUA e fala em responder ‘com total força’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/press_conference_of_esmail_baghaei_22_mehr_15_april_2026.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260386",
+          "author": "Victor Farinelli",
+          "description": "Profissionais de saúde da província de Ituri, na região nordeste da República Democrática do Congo, anunciaram nesta terça-feira (14/07) o início de uma greve, por tempo indeterminado, para reivindicar o pagamento de salários e horas extras atrasados, além de melhores condições de trabalho. A principal mobilização ocorreu na entrada do Hospital Geral de Bunia, na […]\nO post Profissionais da saúde iniciam greve na RD do Congo em meio à piora do surto de ebola apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/profissionais-da-saude-iniciam-greve-na-rd-do-congo-em-meio-a-piora-do-surto-de-ebola/",
+          "publishedOn": "2026-07-15T17:50:19.000Z",
+          "wordCount": 3052,
+          "title": "Profissionais da saúde iniciam greve na RD do Congo em meio à piora do surto de ebola",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bunia.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260382",
           "author": "Rocio Paik",
           "description": "A presidente da Comissão Europeia, Ursula von der Leyen, anunciou nesta quarta-feira (15/07) a conclusão de uma parceria com o chefe de Estado da Ucrânia, Volodymyr Zelensky, no setor de defesa, com foco na produção de drones. Segundo a autoridade do bloco europeu, o acordo deve impulsionar “ainda mais as sinergias de defesa” e produção […]\nO post União Europeia anuncia acordo com Ucrânia para impulsionar produção de drones apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/uniao-europeia-anuncia-acordo-com-ucrania-para-impulsionar-producao-de-drones/",
           "publishedOn": "2026-07-15T17:10:43.000Z",
-          "wordCount": 3296,
+          "wordCount": 3295,
           "title": "União Europeia anuncia acordo com Ucrânia para impulsionar produção de drones",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnq3izawuaafezt.jpeg"
         },
@@ -403,7 +473,7 @@
           "description": "Os grupos de defesa dos direitos humanos Democracy for the Arab World Now (DAWN) e The Taxpayer Alliance Against Genocide (TAAG) anunciaram nesta quarta-feira (15/07) que estão processando o governo norte-americano de Donald Trump em um tribunal em Manhattan. A ação busca bloquear as sanções impostas pela Casa Branca a organizações solidárias à causa palestina […]\nO post Grupos de direitos humanos processam governo Trump por ampliar ameaças a denunciantes de crimes de guerra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/grupos-de-direitos-humanos-processam-governo-trump-por-ampliar-ameacas-a-denunciantes-de-crimes-de-guerra/",
           "publishedOn": "2026-07-15T16:30:16.000Z",
-          "wordCount": 3620,
+          "wordCount": 3573,
           "title": "Grupos de direitos humanos processam governo Trump por ampliar ameaças a denunciantes de crimes de guerra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/54640976283_7f4232f1ac_k.jpg"
         },
@@ -413,7 +483,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva (PT) lidera todas as simulações de segundo turno para a eleição presidencial e amplia sua vantagem contra o senador Flávio Bolsonaro (PL), segundo pesquisa Genial/Quaest divulgada nesta quarta-feira (15/07). No principal cenário de embate direto, o atual mandatário soma 45% das intenções de voto, contra 37% do parlamentar. […]\nO post Lula abre oito pontos sobre Flávio Bolsonaro no 2º turno em pesquisa Quaest apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-abre-oito-pontos-sobre-flavio-bolsonaro-no-2o-turno-em-pesquisa-quaest/",
           "publishedOn": "2026-07-15T15:50:35.000Z",
-          "wordCount": 3854,
+          "wordCount": 3853,
           "title": "Lula abre oito pontos sobre Flávio Bolsonaro no 2º turno em pesquisa Quaest",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula.jpg"
         },
@@ -423,69 +493,9 @@
           "description": "O Ministério das Relações Exteriores da China instou os Estados Unidos a porem fim imediatamente ao bloqueio, à coerção e à pressão que mantêm contra Cuba. “Já expressamos nossa posição em inúmeras ocasiões. Os Estados Unidos impuseram um bloqueio abrangente e sanções ilegais contra Cuba por mais de 60 anos, causando profundo sofrimento ao povo […]\nO post China exige que EUA ‘acabem imediatamente’ com bloqueio contra Cuba apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/china-exige-que-eua-acabem-imediatamente-com-bloqueio-contra-cuba/",
           "publishedOn": "2026-07-15T15:10:00.000Z",
-          "wordCount": 3162,
+          "wordCount": 3165,
           "title": "China exige que EUA ‘acabem imediatamente’ com bloqueio contra Cuba",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/w020260617608717897273-e1781701461920.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260360",
-          "author": "Tatiana Carlotti",
-          "description": "A Rússia enviou 35 toneladas de ajuda humanitária à Venezuela para reforçar o atendimento às vítimas dos terremotos que atingiram o país em 24 de junho. Segundo novo balanço oficial do governo venezuelano, divulgado nesta terça-feira (14/07), o número de vítimas dos abalos sísmicos subiu para 4.734. A presidente interina Delcy Rodríguez acompanhou, ao lado […]\nO post Rússia envia 35 toneladas de ajuda para Venezuela após terremotos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/russia-envia-35-toneladas-de-ajuda-humanitaria-para-venezuela-apos-terremotos-devastadores/",
-          "publishedOn": "2026-07-15T14:30:30.000Z",
-          "wordCount": 3356,
-          "title": "Rússia envia 35 toneladas de ajuda para Venezuela após terremotos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/8fb3eb8570e700d3894f56cf1638e9a46ddccd64.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260346",
-          "author": "Tabitha Ramalho",
-          "description": "Organizações sociais e cidadãos realizaram um protesto em frente ao Conselho Nacional Eleitoral (CNE) do Equador para exigir que o órgão permita o prosseguimento do processo de impeachment contra o presidente Daniel Noboa e a vice-presidente María José Pinto. Os manifestantes exigem a liberação dos formulários necessários para a coleta das assinaturas exigidas, etapa protegida […]\nO post Protestos no Equador exigem que órgão eleitoral analise processo de impeachment contra Noboa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/protestos-no-equador-exigem-que-orgao-eleitoral-analise-processo-de-impeachment-contra-noboa/",
-          "publishedOn": "2026-07-15T13:48:43.000Z",
-          "wordCount": 3454,
-          "title": "Protestos no Equador exigem que órgão eleitoral analise processo de impeachment contra Noboa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnopkeowyaa-ah1-1.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260345",
-          "author": "Tatiana Carlotti",
-          "description": "O ex-candidato presidencial do Juntos pelo Peru, Roberto Sánchez, convocou manifestações para esta quarta-feira (15/07) na capital do país, em defesa da libertação do ex-presidente Pedro Castillo. A manifestação coincide com a cerimônia em que a presidente eleita, Keiko Fujimori, receberá oficialmente suas credenciais pela Junta Nacional Eleitoral (JNE), cuja posse está marcada para 28 […]\nO post Peruanos vão às ruas pela liberdade de Pedro Castillo enquanto Justiça analisa habeas corpus apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/ato-pela-libertacao-de-pedro-castilho-acontece-nesta-quarta-15-no-peru/",
-          "publishedOn": "2026-07-15T13:11:13.000Z",
-          "wordCount": 3572,
-          "title": "Peruanos vão às ruas pela liberdade de Pedro Castillo enquanto Justiça analisa habeas corpus",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/30380ecc-f042-4755-b351-be24219c11fe.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260342",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente colombiano, Gustavo Petro, classificou como “assassinato” a morte de um colombiano nos Estados Unidos pelas mãos de agentes do ICE, a polícia estadunidense anti-imigração, responsável por colocar em prática a campanha de Donald Trump de batidas e deportações contra imigrantes. “O que aconteceu no Maine foi o assassinato de um colombiano, de um […]\nO post Petro exige explicações de Trump após morte de colombiano pelos agentes do ICE apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/petro-exige-explicacoes-de-trump-apos-morte-de-colombiano-pelos-agentes-do-ice/",
-          "publishedOn": "2026-07-15T12:20:47.000Z",
-          "wordCount": 3684,
-          "title": "Petro exige explicações de Trump após morte de colombiano pelos agentes do ICE",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/g-gvfzkxsaalvqd.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260328",
-          "author": "Tatiana Carlotti",
-          "description": "Os ataques militares entre Estados Unidos e Irã continuam nesta quarta-feira (15/07), com novos bombardeios norte-americanos contra o sul do território iraniano e ataques retaliatórios da Guarda Revolucionária Islâmica (IRGC) contra instalações militares dos Estados Unidos nos países do Oriente Médio. Nesta manhã, a IRGC anunciou a sexta fase da Operação Nasr-2 e afirmou ter […]\nO post Irã ataca bases norte-americanas na Jordânia, Bahrein e Kuwait após bombardeios no sul do país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-bases-norte-americanas-na-jordania-bahrein-e-kuwait-apos-bombardeios-no-sul-do-pais/",
-          "publishedOn": "2026-07-15T11:11:18.000Z",
-          "wordCount": 3932,
-          "title": "Irã ataca bases norte-americanas na Jordânia, Bahrein e Kuwait após bombardeios no sul do país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405042402480165737541204.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260322",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente iraniano, Masoud Pezeshkian, declarou nesta terça-feira (15/07) que seu país responderá, na prática, às ameaças do presidente dos Estados Unidos, Donald Trump, e que defenderá “cada centímetro” de seu território nacional. A declaração surge em meio a escalada das tensões militares, após os recentes ataques das Forças Armadas norte-americanas contra cidades costeiras do […]\nO post Presidente iraniano rechaça ameaças de Trump e diz que defenderá ‘cada centímetro’ do país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-iraniano-rechaca-ameacas-de-trump-e-diz-que-defendera-cada-centimetro-do-pais/",
-          "publishedOn": "2026-07-15T10:13:30.000Z",
-          "wordCount": 3554,
-          "title": "Presidente iraniano rechaça ameaças de Trump e diz que defenderá ‘cada centímetro’ do país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404051716272578133630524.jpg"
         }
       ]
     },
@@ -511,6 +521,41 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229706",
+          "author": "Montezuma Cruz",
+          "description": "A tentativa de enganar a população já foi descoberta no município de Humaitá a 700 quilômetros de Manaus, onde o impacto hidroviário e a ausência da política de preços da Conab exigem providências governamentais em benefício das famílias.",
+          "link": "https://anovademocracia.com.br/rio-madeira-caboclos-indigenas-resistem/",
+          "publishedOn": "2026-07-15T20:24:09.000Z",
+          "wordCount": null,
+          "title": "Enquanto não ‘privatizam’ o rio, caboclos e indígenas resistem nos barrancos do Madeira",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/07/corrigido.mp4",
+            "length": "48289583",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229695",
+          "author": "André Queiroz",
+          "description": "Eis o teatro a que se propõe Ton de Melo:\nteatro que se ocupa em acender as luzes – discreto timoneiro, em estica-las, entre fachos e sombras, até onde o olhar exausto e extenuado alcança e recua. Teatro que se impõe a tarefa de seguir sua partitura de gestos e palavras até onde os olhos fazem que não veem. Notas a partir do Último Dia da Minha Vida.",
+          "link": "https://anovademocracia.com.br/peca-teatral-ultimo-dia-da-minha-vida/",
+          "publishedOn": "2026-07-15T18:17:33.000Z",
+          "wordCount": null,
+          "title": "Notas a partir do ÚLTIMO DIA DA MINHA VIDA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229689",
+          "author": "Giovanna Maria",
+          "description": "Encontro na UnB reuniu estudantes, docentes e representantes da LAI, do Moclate, do Irã e da República Saaraui para preparar a comitiva do Distrito Federal ao 43º ENEPe, em São Luís.",
+          "link": "https://anovademocracia.com.br/enepe-brasilia-funda-executiva-de-pedagogia-com-lai-ira-povo-saaraui/",
+          "publishedOn": "2026-07-15T17:37:31.000Z",
+          "wordCount": null,
+          "title": "Pré-ENEPe em Brasília funda executiva de Pedagogia com presença da LAI, Irã e povo saarauí",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229681",
           "author": "Redação de AND",
@@ -580,41 +625,6 @@
           "wordCount": null,
           "title": "‘Ser jovem e negro é ser alvo’, denuncia mãe de estudante assassinado pela PM no Amazonas; relatório expõe racismo na letalidade policial",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229625",
-          "author": "Ana Nascimento",
-          "description": "Durante visita à Barragem Norte, Jorginho Mello xingou indígenas que exigiam reparações; materiais enviados a AND denunciam ainda a atuação de procurador do MPF contra retomadas em três municípios.",
-          "link": "https://anovademocracia.com.br/sc-governador-insulta-povo-laklano-xokleng/",
-          "publishedOn": "2026-07-14T18:26:18.000Z",
-          "wordCount": null,
-          "title": "Governador de SC insulta caciques Laklãnõ-Xokleng; procurador do MPF é denunciado por negar assistência básica a retomadas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229608",
-          "author": "Redação de AND",
-          "description": "As semanas de 29 de junho a 12 de julho foram marcadas pela divulgação do ato de mais de cem camponeses de comunidades do Vale do Rio Gurupi pela titulação definitiva da Gleba Campina e contra a grilagem da família Finger. Em Porto Esperança, moradores denunciaram que a poeira de minério da LHG Mining cobre casas e ruas enquanto a empresa amplia a mina e seu porto privado. No Espírito Santo, 49 famílias do Pré-Assentamento João Gomes reafirmaram que permanecerão na terra diante de uma nova tentativa de despejo. Em Campos Novos (SC), famílias quilombolas de Invernada dos Negros denunciaram o isolamento do território pela falta de manutenção das estradas e anunciaram mobilização diante da Prefeitura. O governo federal, por sua vez, destinou R$ 525,1 bilhões ao latifúndio agroexportador por meio do Plano Safra 2026/2027.",
-          "link": "https://anovademocracia.com.br/boletim-novo-brasil-semanas-27-e-28-2026/",
-          "publishedOn": "2026-07-14T02:09:58.000Z",
-          "wordCount": null,
-          "title": "Boletim Novo Brasil (Semanas 27 e 28): Camponeses exigem titulação da Gleba Campina; ‘Tem que parar a mina já!’, afirmam moradores de Porto Esperança",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-06-28-UCL-rio-gurupi-video.mp4",
-            "length": "3068239",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229550",
-          "author": "Rosana Bond",
-          "description": "O caso de Porto Esperança é a demonstração nítida de que as classes dominantes reacionárias serviçais do imperialismo são as verdadeiras responsáveis pela devastação do meio natural, contrapondo a ecologia burguesa.",
-          "link": "https://anovademocracia.com.br/mineradora-batista-contamina-pantanal-2/",
-          "publishedOn": "2026-07-13T23:49:43.000Z",
-          "wordCount": null,
-          "title": "Mineradora dos irmãos Batista contamina Pantanal, adoece moradores e os expulsa (parte 2)",
-          "imageUrl": null
         }
       ]
     },
@@ -629,6 +639,26 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3190741",
+          "author": "Lucas Scatolini e Rôney Rodrigues",
+          "description": "Galpões logísticos avançam sobre áreas urbanas: atiçam a especulação, remodelam bairros e exploram trabalhadores para acelerar entregas. Como evitar a captura de um serviço indispensável por corporações como Amazon e Mercado Livre?\nThe post E-commerce: Os impactos ocultos nas cidades appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/e-commerce-impactos-ocultos-na-cidade/",
+          "publishedOn": "2026-07-15T19:30:22.000Z",
+          "wordCount": 7008,
+          "title": "E-commerce: Os impactos ocultos nas cidades",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5098155335050005644_w1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3190738",
+          "author": "James Gorgën e Marcio Pochmann",
+          "description": "Setor privado lança a primeira bolsa financeira do país para especular o “novo petróleo”. Inspiração é o modelo de Xangai, mas há distinção central: não há regras operacionais, leis e autoridade reguladora. Brasil não carece de propostas para o setor – mas, novamente, chega atrasado\nThe post Quem dará as cartas no mercado de dados no Brasil? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/quem-dara-as-no-mercado-de-dados-no-brasil/",
+          "publishedOn": "2026-07-15T19:25:20.000Z",
+          "wordCount": 4563,
+          "title": "Quem dará as cartas no mercado de dados no Brasil?",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5098155335050005646_y.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3190712",
           "author": "Ricardo Queiroz Pinheiro",
@@ -708,26 +738,6 @@
           "wordCount": 4380,
           "title": "Vida e teimosia das raízes na cidade",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5093986321964928126_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190437",
-          "author": "Diego Pautasso e Isis Paris Maia",
-          "description": "Milhares de mortes na Europa expõem Estados despreparados e o sucateamento da Saúde, monitoramento de impactos e resiliência urbana. Beijing mostra: inovação, planejamento de longo prazo e cidades-esponjas podem mitigar a crise climática\nThe post Calor extremo: a China pode ensinar algo? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/terraeantropoceno/calor-extremo-china-pode-ensinar-algo/",
-          "publishedOn": "2026-07-13T21:22:47.000Z",
-          "wordCount": 5271,
-          "title": "Calor extremo: a China pode ensinar algo?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/Sem-titulo-1.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190506",
-          "author": "Pertti Simula e Riitta Wahlström",
-          "description": "Em uma sociedade que tem como base a valorização da vida, a política dos Comuns deve englobar pessoas e meio ambiente. Esse horizonte só é possível com senso de responsabilidade coletiva. E a democracia direta e participativa é o modelo que pode ensejar isso\nThe post Ecossocialismo: Utopia como método? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/pos-capitalismo/ecossocialismo-utopia-como-metodo/",
-          "publishedOn": "2026-07-13T21:20:57.000Z",
-          "wordCount": 4606,
-          "title": "Ecossocialismo: Utopia como método?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/Screenshot-2025-11-13-at-8.14.44-PM-1.png"
         }
       ]
     },
@@ -737,12 +747,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159475",
+          "author": "Passa Palavra",
+          "description": "É a transição do mercado para o local de trabalho, do preço dos bens para o preço da força de trabalho que dita a transição da revolta para a greve no repertório da ação coletiva. Por Joshua Clover",
+          "link": "https://passapalavra.info/2026/07/159475/",
+          "publishedOn": "2026-07-15T19:18:11.000Z",
+          "wordCount": 7800,
+          "title": "Revolta. Greve. Revolta: A nova era de levantes (5)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/battle-of-peterloo.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159471",
           "author": "Aníbal",
           "description": "",
           "link": "https://passapalavra.info/2026/07/159471/",
           "publishedOn": "2026-07-13T13:29:10.000Z",
-          "wordCount": 3786,
+          "wordCount": 3795,
           "title": "Velha Toupeira (44)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/VT044-BISPOS-ULTRACONSERVADORES-scaled.jpg"
         },
@@ -763,6 +783,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=65569",
+          "author": "Boitempo",
+          "description": "Mauro Iasi: \"O futebol só pôde virar mercadoria, veículo de valor, porque carrega um valor de uso, uma necessidade humana, uma parte de nossa alma ali objetivada, na disputa de cada bola, na arte do drible, no lançamento perfeito, no quase gol, na tensão, no tendão, na explosão do gozo de uma pequena esfera ao tocar nas redes.\"",
+          "link": "https://blogdaboitempo.com.br/2026/07/15/o-futebol-e-a-alma-expropriada/",
+          "publishedOn": "2026-07-15T18:43:21.000Z",
+          "wordCount": 12348,
+          "title": "O futebol e a alma expropriada",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-18.png?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=65374",
           "author": "Boitempo",
