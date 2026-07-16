@@ -53,6 +53,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a582fe1d3cef40358950f85",
+          "author": "CSP Conlutas",
+          "description": "Durante anos, governos e setores empresariais justificaram reformas da Previdência com o argumento de que o sistema seria “insustentável” por causa do envelhecimento da população ou que a “conta não fecha, pois se gasta mais do que se",
+          "link": "https://opiniaosocialista.com.br/estudo-da-receita-federal-revela-que-isencoes-e-pejotizacao-retiram-recursos-da-previdencia/",
+          "publishedOn": "2026-07-16T01:18:54.000Z",
+          "wordCount": 1402,
+          "title": "Estudo da Receita Federal revela que isenções e pejotização retiram recursos da Previdência",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Receita-Federal--2-.webp"
+        },
+        {
           "id": "6a57b8acd3cef40358950f06",
           "author": "Cristiane Banhol, de São Paulo (SP)",
           "description": "Educação Politica sem Sociologia e Filosofia?",
@@ -98,7 +108,7 @@
           "description": "Pela reintegração de todos os demitidos, já!",
           "link": "https://opiniaosocialista.com.br/sc-contra-as-demissoes-ilegais-dos-municipais-de-florianopolis/",
           "publishedOn": "2026-07-11T20:34:29.000Z",
-          "wordCount": 1021,
+          "wordCount": 1017,
           "title": "SC: Contra as demissões ilegais dos municipais de Florianópolis",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/greve-floripa.webp"
         },
@@ -290,21 +300,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/07/Headerwide-1.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444203",
-          "author": "Eduardo Goulart",
-          "description": "Em vez de defender a indústria nacional contra sobretaxas, senador se limitou a pedir um adiamento das sanções para não atrapalhar sua campanha eleitoral\nO post Flávio Bolsonaro apoia tarifaço de Trump e dá outro vexame nos Estados Unidos apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/07/11/flavio-bolsonaro-apoia-tarifaco-de-trump-e-da-outro-vexame-nos-estados-unidos/",
-          "publishedOn": "2026-07-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Flávio Bolsonaro apoia tarifaço de Trump e dá outro vexame nos Estados Unidos",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/07/Headerwide_CP_15.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/07/Headerwide_CP_15.jpg"
         }
       ]
     },
@@ -350,6 +345,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74107",
+          "author": "Public Domain Review",
+          "description": "sta revista… não representa um grupo. Representa, antes, um movimento, um espírito” — ou talvez um “espectro”? Seja qual for a tradução preferida, a intenção era clara: com essas palavras, o editor José Carlos Mariátegui anunciava a chegada de uma publicação radicalmente nova no cenário de vanguarda de Lima. Amauta, como se chamava este seu […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/15/amauta-a-revista-de-jose-carlos-mariategui/",
+          "publishedOn": "2026-07-15T22:02:17.000Z",
+          "wordCount": 3295,
+          "title": "Amauta: a revista de José Carlos Mariátegui",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/mariategui.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74103",
           "author": "ARENA",
@@ -398,6 +403,36 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260414",
+          "author": "Victor Farinelli",
+          "description": "A Copa do Mundo de 2026 já tem sua final definida: Argentina e Espanha se enfrentarão no próximo domingo na grande decisão do torneio disputado nos Estados Unidos, México e Canadá. A partida será disputada no domingo, às 16h (horário do Brasil), em Nova Jersey. Nesta quarta-feira (15/07), a Argentina conquistou sua vaga no jogo […]\nO post Argentina e Espanha farão final da Copa do Mundo de 2026 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/argentina-e-espanha-farao-final-da-copa-do-mundo-de-2026/",
+          "publishedOn": "2026-07-15T22:56:07.000Z",
+          "wordCount": 3315,
+          "title": "Argentina e Espanha farão final da Copa do Mundo de 2026",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/final.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260411",
+          "author": "Victor Farinelli",
+          "description": "A Copa de Futebol Feminina 2027 no Brasil deve injetar R$ 8,8 bilhões na economia, gerar 73,7 mil postos de trabalho e renda de R$ 4,5 bilhões e arrecadar em tributos R$ 928 milhões. A estimativa é do Mapeamento do Potencial de Captação e Internacionalização de Eventos Esportivos no Turismo Brasileiro, desenvolvido pela Fundação Getulio […]\nO post Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões, estima FGV apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/copa-do-mundo-feminina-no-brasil-deve-movimentar-r-88-bilhoes-estima-fgv/",
+          "publishedOn": "2026-07-15T21:40:37.000Z",
+          "wordCount": 3226,
+          "title": "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões, estima FGV",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/copa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260398",
+          "author": "Victor Farinelli",
+          "description": "A cobertura vacinal completa para a primeira infância apresenta realidade distante para 15% dos bebês em todo o mundo, segundo dados governamentais compilados pelo Fundo das Nações Unidas para Infância (Unicef) e divulgados nesta quarta-feira (15/07). Em 2025, ao todo, 13,5 milhões de crianças não receberam nenhuma dose de vacina durante o primeiro ano de […]\nO post Unicef: treze milhões de crianças não recebem vacina no primeiro ano de vida apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/unicef-treze-milhoes-de-criancas-nao-recebem-vacina-no-primeiro-ano-de-vida/",
+          "publishedOn": "2026-07-15T21:10:38.000Z",
+          "wordCount": 4066,
+          "title": "Unicef: treze milhões de crianças não recebem vacina no primeiro ano de vida",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/vacina.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260407",
           "author": "Fernanda Oliveira",
           "description": "O mercado global de inteligência artificial já é estimado em US$ 4,8 trilhões, segundo levantamento compilado pela Alura. Esse número não descreve apenas o tamanho de um setor: descreve uma infraestrutura que atravessa quase todas as áreas produtivas, do marketing ao desenvolvimento de software, passando pelo design gráfico e pela análise de dados. O reflexo […]\nO post Novas profissões em tecnologia e IA para 2026 e próximos anos apareceu primeiro em Opera Mundi.",
@@ -433,7 +468,7 @@
           "description": "Torcedores argentinos hostilizaram com insultos e gestos racistas o streamer estadunidense IShowSpeed durante a Copa do Mundo 2026. Os ataques, ocorridos no último dia 3 de julho, fizeram a FIFA abrir uma investigação. No futebol, casos de racismo envolvendo torcidas argentinas costumam vir à tona principalmente durante as partidas da Copa Libertadores, mas não se […]\nO post Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/mito-da-argentina-branca-como-apagamento-da-historia-negra-e-indigena-molda-racismo-no-pais/",
           "publishedOn": "2026-07-15T19:10:06.000Z",
-          "wordCount": 4396,
+          "wordCount": 4479,
           "title": "Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-15-122852.png"
         },
@@ -443,7 +478,7 @@
           "description": "Matéria atualizada às 16h53 O porta-voz do Ministério das Relações Exteriores do Irã, Esmail Baghaei, afirmou nesta quarta-feira (15/07) que Teerã não tem planos de se envolver em negociações com os Estados Unidos e está focada exclusivamente na defesa do país. A posição foi dada a repórteres, em meio a violações norte-americanas do Memorando de […]\nO post Irã descarta negociações com EUA e fala em responder ‘com total força’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-descarta-negociacoes-com-eua-e-fala-em-responder-com-total-forca/",
           "publishedOn": "2026-07-15T18:30:19.000Z",
-          "wordCount": 3729,
+          "wordCount": 3773,
           "title": "Irã descarta negociações com EUA e fala em responder ‘com total força’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/press_conference_of_esmail_baghaei_22_mehr_15_april_2026.jpg"
         },
@@ -466,36 +501,6 @@
           "wordCount": 3295,
           "title": "União Europeia anuncia acordo com Ucrânia para impulsionar produção de drones",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnq3izawuaafezt.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260363",
-          "author": "Rocio Paik",
-          "description": "Os grupos de defesa dos direitos humanos Democracy for the Arab World Now (DAWN) e The Taxpayer Alliance Against Genocide (TAAG) anunciaram nesta quarta-feira (15/07) que estão processando o governo norte-americano de Donald Trump em um tribunal em Manhattan. A ação busca bloquear as sanções impostas pela Casa Branca a organizações solidárias à causa palestina […]\nO post Grupos de direitos humanos processam governo Trump por ampliar ameaças a denunciantes de crimes de guerra apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/grupos-de-direitos-humanos-processam-governo-trump-por-ampliar-ameacas-a-denunciantes-de-crimes-de-guerra/",
-          "publishedOn": "2026-07-15T16:30:16.000Z",
-          "wordCount": 3573,
-          "title": "Grupos de direitos humanos processam governo Trump por ampliar ameaças a denunciantes de crimes de guerra",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/54640976283_7f4232f1ac_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260375",
-          "author": "Victor Farinelli",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) lidera todas as simulações de segundo turno para a eleição presidencial e amplia sua vantagem contra o senador Flávio Bolsonaro (PL), segundo pesquisa Genial/Quaest divulgada nesta quarta-feira (15/07). No principal cenário de embate direto, o atual mandatário soma 45% das intenções de voto, contra 37% do parlamentar. […]\nO post Lula abre oito pontos sobre Flávio Bolsonaro no 2º turno em pesquisa Quaest apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-abre-oito-pontos-sobre-flavio-bolsonaro-no-2o-turno-em-pesquisa-quaest/",
-          "publishedOn": "2026-07-15T15:50:35.000Z",
-          "wordCount": 3853,
-          "title": "Lula abre oito pontos sobre Flávio Bolsonaro no 2º turno em pesquisa Quaest",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260358",
-          "author": "Tabitha Ramalho",
-          "description": "O Ministério das Relações Exteriores da China instou os Estados Unidos a porem fim imediatamente ao bloqueio, à coerção e à pressão que mantêm contra Cuba. “Já expressamos nossa posição em inúmeras ocasiões. Os Estados Unidos impuseram um bloqueio abrangente e sanções ilegais contra Cuba por mais de 60 anos, causando profundo sofrimento ao povo […]\nO post China exige que EUA ‘acabem imediatamente’ com bloqueio contra Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/china-exige-que-eua-acabem-imediatamente-com-bloqueio-contra-cuba/",
-          "publishedOn": "2026-07-15T15:10:00.000Z",
-          "wordCount": 3165,
-          "title": "China exige que EUA ‘acabem imediatamente’ com bloqueio contra Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/w020260617608717897273-e1781701461920.jpg"
         }
       ]
     },
@@ -521,6 +526,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229723",
+          "author": "Editor Executivo",
+          "description": "Após dois dias de mobilização e agressões da PM na Alemoa, temor de ampliação nacional altera posição dos senadores; texto reforça a fiscalização do frete mínimo, mas exclui piso salarial de R$ 5 mil para motoristas de longa distância.",
+          "link": "https://anovademocracia.com.br/greve-caminhoneiros-porto-santos-piso-frete/",
+          "publishedOn": "2026-07-16T00:44:12.000Z",
+          "wordCount": null,
+          "title": "Greve dos caminhoneiros no Porto de Santos enfrenta forte repressão e força Senado a aprovar piso do frete",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229706",
           "author": "Montezuma Cruz",
@@ -560,10 +575,10 @@
           "id": "https://anovademocracia.com.br/?p=229681",
           "author": "Redação de AND",
           "description": "Morte de piloto norte-americano expõe escalada do conflito em Papua Ocidental.",
-          "link": "https://anovademocracia.com.br/piloto-norte-americano-abatido-em-papua-ocidental-resistencia/",
+          "link": "https://anovademocracia.com.br/piloto-ianque-abatido-papua-ocidental/",
           "publishedOn": "2026-07-15T17:04:52.000Z",
           "wordCount": null,
-          "title": "Piloto norte-americano é abatido em Papua Ocidental; organização de resistência reivindica autoria",
+          "title": "Piloto ianque é abatido em Papua Ocidental; organização de resistência reivindica autoria",
           "imageUrl": null
         },
         {
@@ -615,16 +630,6 @@
           "wordCount": null,
           "title": "Trabalhadores enfrentam demissões, conquistam acordo e denunciam pilhagem imperialista nas Filipinas",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229623",
-          "author": "Editor Executivo",
-          "description": "Relatório aponta que negros são 96% das vítimas da letalidade policial com raça/cor identificada no estado; interior concentrou 62,8% dos casos em 2025.",
-          "link": "https://anovademocracia.com.br/pm-amazonas-racismo-letalidade-policial/",
-          "publishedOn": "2026-07-14T18:30:49.000Z",
-          "wordCount": null,
-          "title": "‘Ser jovem e negro é ser alvo’, denuncia mãe de estudante assassinado pela PM no Amazonas; relatório expõe racismo na letalidade policial",
-          "imageUrl": null
         }
       ]
     },
@@ -640,12 +645,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3190740",
+          "author": "Helio Miranda Costa Junior",
+          "description": "Modelos de linguagem geram uma prosa de aparência e fluência impecáveis, assim toda máquina parece um especialista. O perigo não está em utilizar tais tecnologias, mas em não submetê-las ao escrutínio. Publicar sem examinar é abdicar da crítica e da responsabilidade\nThe post Para não se render à cibermediocridade appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/para-nao-se-render-a-cibermediocridade/",
+          "publishedOn": "2026-07-15T21:41:31.000Z",
+          "wordCount": 4240,
+          "title": "Para não se render à cibermediocridade",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/5098155335050005673.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3190744",
+          "author": "Edgar Silva dos Anjos",
+          "description": "Uma provocação sobre os discursos que se propõem mais à esquerda, porém sem o contato concreto com a vida das maiorias. Crítica ao reformismo circula mais rápido que a solução. Por mais que faça barulho, não substituí a presença junto às lutas\nThe post Como superar a radicalidade sem lastro? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/como-superar-a-radicalidade-sem-lastro/",
+          "publishedOn": "2026-07-15T21:16:19.000Z",
+          "wordCount": 4274,
+          "title": "Como superar a radicalidade sem lastro?",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/5098155335050005694.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3190741",
           "author": "Lucas Scatolini e Rôney Rodrigues",
-          "description": "Galpões logísticos avançam sobre áreas urbanas: atiçam a especulação, remodelam bairros e exploram trabalhadores para acelerar entregas. Como evitar a captura de um serviço indispensável por corporações como Amazon e Mercado Livre?\nThe post E-commerce: Os impactos ocultos nas cidades appeared first on Outras Palavras.",
+          "description": "Galpões logísticos avançam sobre áreas urbanas: atiçam a especulação, remodelam bairros e exploram trabalhadores para acelerar entregas. Como evitar a captura de um serviço indispensável por corporações como Amazon e Mercado Livre?\nThe post <i>E-commerce</i>: Os impactos ocultos nas cidades appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/e-commerce-impactos-ocultos-na-cidade/",
           "publishedOn": "2026-07-15T19:30:22.000Z",
-          "wordCount": 7008,
+          "wordCount": 7004,
           "title": "E-commerce: Os impactos ocultos nas cidades",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5098155335050005644_w1.jpg"
         },
@@ -718,26 +743,6 @@
           "wordCount": 4508,
           "title": "O Brasil é campeão! (de juros)",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/WhatsApp-Image-2023-01-16-at-5.13.14-PM.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190602",
-          "author": "John Ross",
-          "description": "Próxima cúpula da organização deve ampliar orçamento militar para 5% a cada país-membro. Rearmamento pode impor cortes sociais que agravarão a crise europeia com guerra na Ucrânia e impulsionar a extrema direita. Washington assiste, satisfeita, ao declínio da UE\nThe post A Otan leva a Europa ao abismo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/a-otan-leva-a-europa-ao-abismo/",
-          "publishedOn": "2026-07-14T19:55:27.000Z",
-          "wordCount": 4342,
-          "title": "A Otan leva a Europa ao abismo",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/cdn.grove_.wgbh_.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190606",
-          "author": "Thiago Esperandio",
-          "description": "Crônica em texto e fotos. Há as “árvores oprimidas”, cujas raízes encontram brechas para respirar em meio ao asfalto e concreto. O que elas nos dizem sobre renúncias forçadas para convivência coletiva? Baudelaire, Tom Zé, a música caipira e Freud dão pistas…\nThe post Vida e teimosia das raízes na cidade appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/vida-e-teimosia-das-raizes-na-cidade/",
-          "publishedOn": "2026-07-14T19:42:14.000Z",
-          "wordCount": 4380,
-          "title": "Vida e teimosia das raízes na cidade",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5093986321964928126_w.jpg"
         }
       ]
     },
@@ -789,7 +794,7 @@
           "description": "Mauro Iasi: \"O futebol só pôde virar mercadoria, veículo de valor, porque carrega um valor de uso, uma necessidade humana, uma parte de nossa alma ali objetivada, na disputa de cada bola, na arte do drible, no lançamento perfeito, no quase gol, na tensão, no tendão, na explosão do gozo de uma pequena esfera ao tocar nas redes.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/15/o-futebol-e-a-alma-expropriada/",
           "publishedOn": "2026-07-15T18:43:21.000Z",
-          "wordCount": 12348,
+          "wordCount": 12349,
           "title": "O futebol e a alma expropriada",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-18.png?fit=1200%2C800&ssl=1"
         },
@@ -799,7 +804,7 @@
           "description": "Nos 134 anos do nascimento de Walter Benjamin, leia um trecho do livro de Fabio Mascaro Querido sobre o autor: \"O fato de Benjamin ter se tornado marxista e admirador dos surrealistas quase simultaneamente é digno de nota. Trata-se de aspecto bastante revelador do caráter singular de seu marxismo, tanto quanto das críticas e das incompreensões de que seria objeto.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/15/o-marxismo-surrealista-de-walter-benjamin/",
           "publishedOn": "2026-07-15T11:00:00.000Z",
-          "wordCount": 12790,
+          "wordCount": 12651,
           "title": "O marxismo surrealista de Walter Benjamin",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/einbahnstrasse.jpg"
         },
@@ -822,16 +827,6 @@
           "wordCount": 16777,
           "title": "O movimento comunista brasileiro e o pathos da linha correta",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-11.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65470",
-          "author": "Boitempo",
-          "description": "Mariana Shinohara Roncato: \" Retomando Marx, Jean-Paul de Gaudemar argumentava que a liberdade, característica do capitalismo, possui uma dupla dimensão: o trabalhador seria juridicamente livre para vender a sua força de trabalho, mas, desprovido dos meios de produção, também é constrangido a colocá-la em circulação onde o capital demanda. Nessa perspectiva, a mobilidade do trabalho não representa simplesmente uma possibilidade de se deslocar, mas uma condição necessária à própria acumulação do capital.\"",
-          "link": "https://blogdaboitempo.com.br/2026/07/11/entre-pontes-e-barreiras-copa-do-mundo-mobilidade-do-trabalho-e-migracao/",
-          "publishedOn": "2026-07-11T11:00:00.000Z",
-          "wordCount": 13941,
-          "title": "Entre pontes e barreiras: Copa do Mundo, mobilidade do trabalho e migração",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-10.png?fit=1200%2C904&ssl=1"
         }
       ]
     }
