@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "ktrZX3",
+          "author": null,
+          "description": "Decreto em elaboração reduz papel da estatal INB e abre caminho para controle privado sobre um dos recursos mais estratégicos para a soberania nacional",
+          "link": "https://jornalofuturo.com.br/artigo/ktrZX3-governo-lula-prepara-privatizacao-da-exploracao-de-uranio-e-aprofunda-entrega-de-setor-estrategico-ao-capital-privado",
+          "publishedOn": "2026-07-16T17:30:00.000Z",
+          "wordCount": 3471,
+          "title": "Governo Lula prepara privatização da exploração de urânio e aprofunda entrega de setor estratégico ao capital privado",
+          "imageUrl": "https://media.jornalofuturo.com.br/mina-do-engenho-1280x719.jpg"
+        },
+        {
           "id": "9T9dAB",
           "author": null,
           "description": "Embora a política de incentivos financeiros seja positiva, o tom excessivamente otimista do Governo Federal sobre a diminuição das taxas de evasão contrasta com a manutenção de políticas como o Novo Ensino Médio e o Arcabouço Fiscal",
@@ -63,12 +73,22 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a593b7dd3cef40358951107",
+          "author": "PSTU-MG",
+          "description": "Controle dos trabalhadores e das comunidades, povos tradicionais e originários",
+          "link": "https://opiniaosocialista.com.br/por-um-novo-modelo-de-mineracao/",
+          "publishedOn": "2026-07-16T20:23:08.000Z",
+          "wordCount": 2251,
+          "title": "Por um novo modelo de mineração",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/mieracao.jpg"
+        },
+        {
           "id": "6a58ecd8d3cef403589510e0",
           "author": "Redação",
           "description": "Legenda oficializará Hertz Dias e Vanessa Portugal como candidatos à presidência da República",
           "link": "https://opiniaosocialista.com.br/pstu-realizara-convencao-eleitoral-nacional-no-proximo-dia-31-em-sao-paulo-sp/",
           "publishedOn": "2026-07-16T15:29:05.000Z",
-          "wordCount": 1009,
+          "wordCount": 997,
           "title": "PSTU realizará Convenção Eleitoral Nacional no próximo dia 31, em São Paulo (SP)",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Vanessa-e-Hertz.webp"
         },
@@ -88,7 +108,7 @@
           "description": "Educação Politica sem Sociologia e Filosofia?",
           "link": "https://opiniaosocialista.com.br/a-nova-lei-sancionada-por-lula-e-o-projeto-de-educacao-que-vem-desde-brasilia/",
           "publishedOn": "2026-07-15T16:51:53.000Z",
-          "wordCount": 2030,
+          "wordCount": 2018,
           "title": "A nova lei sancionada por Lula e o projeto de Educação que vem desde Brasília",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/nova-lei-educacao.webp"
         },
@@ -118,7 +138,7 @@
           "description": "Pré-candidato do PSTU ao governo paraense critica Ferrogrão, privatização das hidrovias, mineração, exploração de petróleo e mercado de carbono e apresenta medidas para defender a floresta, os rios e os povos da Amazônia",
           "link": "https://opiniaosocialista.com.br/cleber-rabelo-defende-a-amazonia-e-propoe-barrar-megaprojetos-que-ameacam-o-para/",
           "publishedOn": "2026-07-14T11:57:24.000Z",
-          "wordCount": 2238,
+          "wordCount": 2226,
           "title": "Cleber Rabelo defende a Amazônia e propõe barrar megaprojetos que ameaçam o Pará",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/protesto-ind--genas.png"
         }
@@ -326,11 +346,11 @@
         {
           "id": "https://ponte.org/?p=161548",
           "author": "Paulo Batistella",
-          "description": "Na principal cidade da Baixada Santista, marcada pelas operações Escudo e Verão, 60% das mortes violentas intencionais durante a gestão Tarcísio partiram da PMESP. Proporção acima de 10% é forte indício de uso abusivo da força.\nO conteúdo Maioria dos assassinatos em Santos e em outras 12 cidades de SP é cometida pela Polícia Militar Pode ser acessado em Ponte Jornalismo.",
+          "description": "Na principal cidade da Baixada Santista, marcada pelas operações Escudo e Verão, 60% das mortes violentas intencionais durante a gestão Tarcísio partiram da PMESP. Proporção acima de 10% é forte indício de uso abusivo da força.\nO conteúdo Maioria das mortes violentas em Santos e em outras 12 cidades de SP é cometida pela Polícia Militar Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/maioria-dos-assassinatos-em-santos-e-em-outras-12-cidades-de-sp-e-cometida-pela-policia-militar/",
           "publishedOn": "2026-07-16T10:50:47.000Z",
-          "wordCount": 6530,
-          "title": "Maioria dos assassinatos em Santos e em outras 12 cidades de SP é cometida pela Polícia Militar",
+          "wordCount": 6664,
+          "title": "Maioria das mortes violentas em Santos e em outras 12 cidades de SP é cometida pela Polícia Militar",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/03/ato-contra-operacao-na-baixada-santista-daniel-arroyo-ponte-jornalismo-jpeg.webp"
         },
         {
@@ -370,6 +390,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74114",
+          "author": "Electronic Intifada",
+          "description": "eu vestido rosa balançava enquanto eu arrumava meu cabelo, deixando-o solto sobre os ombros. Minha irmã gêmea, Amal, que me deu o vestido de presente, convidou uma amiga maquiadora profissional para me deixar pronta para o meu grande dia. Era 9 de setembro de 2025 — a data em que Mohammed, meu noivo, e eu […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/16/gaza-o-amor-em-tempos-de-genocidio/",
+          "publishedOn": "2026-07-16T19:04:04.000Z",
+          "wordCount": 4298,
+          "title": "Gaza: o amor em tempos de genocídio",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/gaza-1.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74107",
           "author": "Public Domain Review",
@@ -428,12 +458,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260503",
+          "author": "Victor Farinelli",
+          "description": "Em declaração feita nesta quinta-feira (16/07), o ministro das Relações Exteriores do Brasil, Mauro Vieira, classificou como “desmedidas” e “irrazoáveis” o tarifaço adicional de 25% anunciado pelo governo dos Estados Unidos contra uma lista de produtos brasileiros. “Claramente o que incomoda o governo dos Estados Unidos é o fato de o Brasil não ter se […]\nO post ‘EUA estão incomodados porque Brasil não se curvou’, afirma Mauro Vieira sobre tarifaço apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/eua-estao-incomodados-porque-brasil-nao-se-curvou-afirma-mauro-vieira-sobre-tarifaco/",
+          "publishedOn": "2026-07-16T20:00:53.000Z",
+          "wordCount": 3133,
+          "title": "‘EUA estão incomodados porque Brasil não se curvou’, afirma Mauro Vieira sobre tarifaço",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/mauro-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260496",
+          "author": "Victor Farinelli",
+          "description": "Em entrevista a um programa de rádio, nesta quinta-feira (16/07), o presidente da Argentina, Javier Milei, criticou os jogadores que exibiram uma faixa sobre a questão das Ilhas Malvinas após a vitória que classificou o país para final da Copa do Mundo de 2026. Segundo o diário Página/12, o mandatário afirmou que “a política não […]\nO post Milei critica jogadores argentinos por exibirem faixa das Malvinas após vitória na Copa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/milei-critica-jogadores-argentinos-por-exibirem-faixa-das-malvinas-apos-vitoria-na-copa/",
+          "publishedOn": "2026-07-16T19:00:53.000Z",
+          "wordCount": 3141,
+          "title": "Milei critica jogadores argentinos por exibirem faixa das Malvinas após vitória na Copa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/malvinas.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260499",
+          "author": "Tabitha Ramalho",
+          "description": "Há 82 anos, em 16 de julho de 1944, as primeiras divisões da Força Expedicionária Brasileira (FEB) desembarcavam em Nápoles, na Itália, e se juntavam aos exércitos Aliados. Criada em agosto de 1943, a FEB era a unidade militar enviada pelo governo brasileiro para auxiliar no combate às tropas nazifascistas durante a Segunda Guerra Mundial. […]\nO post Quando a cobra fumou: o Brasil em guerra contra os nazistas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/quando-a-cobra-fumou-o-brasil-em-guerra-contra-os-nazistas/",
+          "publishedOn": "2026-07-16T18:52:02.000Z",
+          "wordCount": 5365,
+          "title": "Quando a cobra fumou: o Brasil em guerra contra os nazistas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/massarosaw.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260289",
+          "author": "Victor Farinelli",
+          "description": "Em toda a América Latina, a pauta da criminalidade ocupa o mesmo nível de relevância. Para a socióloga Mariana Chies Santos, a medida tem seu ponto fraco na questão do orçamento. Grande parte dos países da região apresentam problemas econômicos e o custo operacional anual de uma mega prisão é de $150 milhões (cerca de […]\nO post Equador mantém modelo insustentável de encarceramento em massa, diz socióloga apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/equador-mantem-modelo-insustentavel-de-encarceramento-em-massa-diz-sociologa/",
+          "publishedOn": "2026-07-16T18:00:40.000Z",
+          "wordCount": 4197,
+          "title": "Equador mantém modelo insustentável de encarceramento em massa, diz socióloga",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/g5a5hcox0aa927f.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260492",
           "author": "Tabitha Ramalho",
           "description": "Pesquisa Quaest divulgada nesta quinta-feira (16/07) mostra que a maioria dos brasileiros atribui ao senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência, a responsabilidade pelas tarifas impostas pelos Estados Unidos. O levantamento indica que a maior parte dos entrevistados concorda com a versão apresentada pelo presidente Luiz Inácio Lula da Silva (PT) sobre a origem das […]\nO post Maioria dos brasileiros culpa Flávio Bolsonaro por tarifaço de Trump, aponta pesquisa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/maioria-dos-brasileiros-culpa-flavio-bolsonaro-por-tarifaco-de-trump-aponta-pesquisa/",
           "publishedOn": "2026-07-16T17:10:01.000Z",
-          "wordCount": 3798,
+          "wordCount": 3797,
           "title": "Maioria dos brasileiros culpa Flávio Bolsonaro por tarifaço de Trump, aponta pesquisa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1-1-e9ad9edb.webp"
         },
@@ -443,18 +513,18 @@
           "description": "Milhares de pessoas foram às ruas em Kiev nesta quinta-feira (16/07) em protesto contra a decisão anunciada no dia anterior pelo presidente da Ucrânia, Volodymyr Zelensky, de demitir o ministro de Defesa, Mykhailo Fedorov. Somente em Kiev foram mais de cinco mil pessoas nas ruas, mas também houve atos em outras cidades do país, como […]\nO post Demissão de ministro da Defesa gera protestos na Ucrânia contra Zelensky apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/demissao-de-ministro-da-defesa-gera-protestos-na-ucrania-contra-zelensky/",
           "publishedOn": "2026-07-16T16:40:39.000Z",
-          "wordCount": 3000,
+          "wordCount": 2940,
           "title": "Demissão de ministro da Defesa gera protestos na Ucrânia contra Zelensky",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/kiev.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=260478",
           "author": "Tatiana Carlotti",
-          "description": "O governo do Irã acusou os Estados Unidos de cometerem um “crime de guerra” nesta quinta-feira (16/07), após uma série de bombardeios nas proximidades de um hospital pediátrico, especializado no tratamento de câncer, na cidade de Ahvaz, no sudoeste do país. Os ataques ocorreram na noite desta quarta-feira (15/07), obrigando a retirada de emergência de […]\nO post Irã acusa EUA de ‘crime de guerra’ após ataques próximos a hospital de crianças com câncer apareceu primeiro em Opera Mundi.",
+          "description": "O governo do Irã acusou os Estados Unidos de cometerem um “crime de guerra” nesta quinta-feira (16/07), após uma série de bombardeios nas proximidades de um hospital pediátrico, especializado no tratamento de câncer, na cidade de Ahvaz, no sudoeste do país. Os ataques ocorreram na noite desta quarta-feira (15/07), obrigando a retirada de emergência de […]\nO post Irã acusa EUA de ‘crime de guerra’ após ataques próximos a hospital infantil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-eua-de-crime-de-guerra-apos-ataques-proximos-a-hospital-de-criancas-com-cancer/",
           "publishedOn": "2026-07-16T16:00:22.000Z",
-          "wordCount": 3618,
-          "title": "Irã acusa EUA de ‘crime de guerra’ após ataques próximos a hospital de crianças com câncer",
+          "wordCount": 3604,
+          "title": "Irã acusa EUA de ‘crime de guerra’ após ataques próximos a hospital infantil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/4c1cce6b-8a4f-41f8-97cb-4d6851caaf04-capa-1.webp"
         },
         {
@@ -463,7 +533,7 @@
           "description": "Quase metade dos democratas da Câmara — 103 dos 211 membros, 98 votaram contra e outros 10 se abstiveram — votou a favor do corte da ajuda a Israel na quarta-feira (15/07), evidenciando uma mudança drástica no apoio político ao antigo aliado dos EUA. A emenda a um projeto de lei de gastos do Departamento […]\nO post Congresso dos EUA rejeita medida que visava bloquear assistência militar a Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/congresso-dos-eua-rejeita-medida-que-visava-bloquear-assistencia-militar-a-israel/",
           "publishedOn": "2026-07-16T15:20:31.000Z",
-          "wordCount": 3831,
+          "wordCount": 3742,
           "title": "Congresso dos EUA rejeita medida que visava bloquear assistência militar a Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/8395638677_18aa761159_c.webp"
         },
@@ -473,7 +543,7 @@
           "description": "Considerada pelo governo brasileiro como um ‘marco lastimável’ nas relações Brasil-Estados Unidos, a decisão do governo Trump de impor uma tarifa adicional de 25% sobre os produtos brasileiros poderá gerar dividendos para o presidente Luiz Inácio Lula da Silva e prejudicar o pré-candidato Flávio Bolsonaro. A afirmação é do co-diretor do Centro de Estudos Brasileiros […]\nO post ‘Tarifaço de Trump deu a Lula bandeira da soberania e pode prejudicar Flávio Bolsonaro’, diz especialista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/tarifaco-de-trump-deu-a-lula-bandeira-da-soberania-e-pode-prejudicar-flavio-bolsonaro-diz-especialista/",
           "publishedOn": "2026-07-16T14:51:19.000Z",
-          "wordCount": 3642,
+          "wordCount": 3641,
           "title": "‘Tarifaço de Trump deu a Lula bandeira da soberania e pode prejudicar Flávio Bolsonaro’, diz especialista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/captura-de-tela-2026-01-03-154913.png"
         },
@@ -483,49 +553,9 @@
           "description": "O direito à morte assistida, uma importante reforma social da Presidência de Emmanuel Macron, foi aprovado nesta quarta-feira (15/07) pelo Parlamento francês. A decisão foi anunciada sob aplausos de apoiadores do texto, após anos de debates. Com isso, a França passa a integrar o grupo relativamente restrito de países que já reconhecem esse direito, como […]\nO post Parlamento da França aprova lei sobre morte assistida após anos de debates apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/parlamento-da-franca-aprova-lei-sobre-morte-assistida-apos-anos-de-debates/",
           "publishedOn": "2026-07-16T13:40:50.000Z",
-          "wordCount": 3747,
+          "wordCount": 3746,
           "title": "Parlamento da França aprova lei sobre morte assistida após anos de debates",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-16-101158.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260461",
-          "author": "Tatiana Carlotti",
-          "description": "Os Estados Unidos anunciaram nesta quarta-feira (15/07) a aplicação de tarifas adicionais de 25% contra os produtos brasileiros, após as investigações comerciais contra o Brasil. Apesar de a medida atingir milhares de itens, como etanol, vários produtos ficarão isentos da cobrança, que entrará em vigor em 22 de julho. O objetivo das isenções é preservar […]\nO post Tarifaço de Trump isenta petróleo, carne bovina, café e minerais críticos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/tarifaco-de-trump-isenta-petroleo-carne-bovina-cafe-e-minerais-criticos/",
-          "publishedOn": "2026-07-16T13:07:46.000Z",
-          "wordCount": 3137,
-          "title": "Tarifaço de Trump isenta petróleo, carne bovina, café e minerais críticos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/castigo-politico-de-trump-contra-exportaciones-de-brasil-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260458",
-          "author": "Tabitha Ramalho",
-          "description": "A vitória da Argentina por 2 a 1 sobre a Inglaterra nos últimos minutos da semifinal da Copa do Mundo, nesta quarta-feira (15/07), foi marcada por um ato político que pode levar a punições para a seleção sul-americana, que se classificou para disputar a finalíssima do Mundial de futebol contra a Espanha no domingo, a […]\nO post FIFA pode punir Argentina por faixa sobre Malvinas na Copa do Mundo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/fifa-pode-punir-argentina-por-faixa-sobre-malvinas-na-copa-do-mundo/",
-          "publishedOn": "2026-07-16T12:44:02.000Z",
-          "wordCount": 4442,
-          "title": "FIFA pode punir Argentina por faixa sobre Malvinas na Copa do Mundo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/77977664_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260434",
-          "author": "Tatiana Carlotti",
-          "description": "Em meio ao endurecimento do bloqueio imposto pelos Estados Unidos contra Havana, um avião da Força Aérea Brasileira pousou em Santiago de Cuba, na região leste do país caribenho, com uma carga de 30 toneladas de leite em pó, que será destinada a crianças. O embaixador brasileiro em Cuba, Christian Vargas, entregou oficialmente a doação […]\nO post Brasil doa 48 toneladas de leite em pó para crianças em Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/brasil-doa-48-toneladas-de-leite-em-po-para-criancas-em-cuba/",
-          "publishedOn": "2026-07-16T10:41:06.000Z",
-          "wordCount": 3019,
-          "title": "Brasil doa 48 toneladas de leite em pó para crianças em Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnslihow8amp7bk-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260431",
-          "author": "Tatiana Carlotti",
-          "description": "Mais de uma dúzia de palestinos, incluindo mulheres e crianças, foram mortos nesta quarta-feira (15/07) em uma onda de ataques das forças de ocupação israelenses, apoiadas pelos Estados Unidos, contra a Faixa de Gaza. As agressões constituem um crime de guerra contra a população civil e uma violação do cessar-fogo acordado em outubro de 2025. […]\nO post Ataques israelenses em Gaza deixam vítimas fatais, incluindo mulheres e crianças apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/ataques-israelenses-em-gaza-deixam-vitimas-fatais-incluindo-mulheres-e-criancas/",
-          "publishedOn": "2026-07-16T10:24:57.000Z",
-          "wordCount": 3097,
-          "title": "Ataques israelenses em Gaza deixam vítimas fatais, incluindo mulheres e crianças",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/unnamed.jpg"
         }
       ]
     },
@@ -551,6 +581,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229743",
+          "author": "Arapyau Vermelho",
+          "description": "Republicamos, aqui, um texto do blog colaborador de AND, Arapyau Vermelho*, publicado em 01/03, em ocasião dos recentes desenvolvimentos na chamada “Doutrina Donroe”, e atualizado o último parágrafo com a situação da guerra de agressão contra o Irã. (Estratégia Nacional de Segurança dos EUA – Trump, novembro de 2025) O método para aplicar o “corolário Trump” está expresso em seu livro A Arte da Negociação. Isso significa que, sob todos os ângulos, a política norte-americana segue essa combinação de corolário Trump e seu método de negociação. Agressão ao Irã segue exatamente esse padrão. Os EUA mantêm debilidades fundamentais, embora mantenham aparência",
+          "link": "https://anovademocracia.com.br/doutrina-donroe-monroe-d-de-donald/",
+          "publishedOn": "2026-07-16T18:47:33.000Z",
+          "wordCount": null,
+          "title": "Doutrina Donroe (Monroe + D de Donald)",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229737",
           "author": "Redação de AND",
@@ -645,16 +685,6 @@
           "wordCount": null,
           "title": "Otan agita ‘ameaça chinesa’ para militarizar o Ártico e disputar rotas, minerais e vantagem nuclear",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229420",
-          "author": "Redação de AND",
-          "description": "Ação bloqueou uma rua próxima ao estádio de Seattle durante o jogo entre Irã e Egito; manifestantes ergueram bandeiras das Resistências Palestina e Libanesa e da Liga Anti-imperialista Internacional",
-          "link": "https://anovademocracia.com.br/revolucionarios-eua-partida-contra-fifa/",
-          "publishedOn": "2026-07-14T19:53:32.000Z",
-          "wordCount": null,
-          "title": "Jovens revolucionários do EUA realizam ‘partida popular’ em apoio ao Irã e contra o imperialismo ianque e a Fifa",
-          "imageUrl": null
         }
       ]
     },
@@ -669,6 +699,46 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3190898",
+          "author": "Wibsson Ribeiro",
+          "description": "Dia D, novo filme de Spielberg, é mais um filme de espionagem do que de extraterrestres. No centro, estão a guerra por informações que podem mudar a História e a defesa da empatia, beirando a pregação humanista, mas que tem momentos inspirados\nThe post Cinema: Enquanto a Revelação Alienígena não vem appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/cinema-enquanto-a-revelacao-alienigena-nao-vem/",
+          "publishedOn": "2026-07-16T20:54:37.000Z",
+          "wordCount": 3654,
+          "title": "Cinema: Enquanto a Revelação Alienígena não vem",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-17-54-14-Dia-D-1200x675.webp-imagem-WEBP-1200-×-675-pixels-Redimensionada-92.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3190850",
+          "author": "Roberto Rafael Dias da Silva",
+          "description": "A escola tem uma dimensão pública muito mais ampla do que ensinar conteúdos. Ela constitui um dos raros espaços sociais onde crianças podem conviver com o diferente e nunca negou o papel das famílias. A experiência democrática não nasce espontaneamente\nThe post Educação domiciliar é uma decisão individual? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/educacao-domiciliar-e-uma-decisao-individual/",
+          "publishedOn": "2026-07-16T19:53:02.000Z",
+          "wordCount": 3989,
+          "title": "Educação domiciliar é uma decisão individual?",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5100619727154908827_y1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3190842",
+          "author": "John Kennedy Ferreira e Felipe Santos Deveza",
+          "description": "Autodidata, crítico literário e intérprete de Machado de Assis, foi um dos primeiros brasileiros a analisar a Revolução Bolchevique. Começou sua trajetória no anarquismo. Depois tornou-se principal articulador político e fundador do Partido Comunista Brasileiro\nThe post Astrojildo Pereira e as sementes do marxismo no Brasil appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/historia-e-memoria/astrojildo-pereira-e-as-sementes-do-marxismo-no-brasil/",
+          "publishedOn": "2026-07-16T18:56:40.000Z",
+          "wordCount": 7529,
+          "title": "Astrojildo Pereira e as sementes do marxismo no Brasil",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/astrojildo-3.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3190847",
+          "author": "Marcelo Phintener",
+          "description": "Relatório aponta: empresas desembolsam 1,7 bilhão de dólares, por ano, para impedir que trabalhadores formem sindicatos. Quais as táticas de dispersão dos escritórios de advocacia? Por que a sindicalização, ainda sim, cresce? Quais as lições para o Brasil?\nThe post EUA: A indústria para demolir sindicatos appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/eua-a-industria-para-demolir-sindicatos/",
+          "publishedOn": "2026-07-16T18:41:21.000Z",
+          "wordCount": 6434,
+          "title": "EUA: A indústria para demolir sindicatos",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/photo_5102658934677376759_y1.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3190740",
           "author": "Helio Miranda Costa Junior",
@@ -728,46 +798,6 @@
           "wordCount": 8318,
           "title": "Brasil: Uma rota para a soberania energética",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-19-41-34-Petroleiro-Agencia-Petrobras-1024x576.webp-imagem-WEBP-1024-×-576-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190594",
-          "author": "Fábio Luís Barbosa dos Santos",
-          "description": "Talvez a torcida contra os hermanos revele a frustração do brasileiro. Vê-se uma Seleção conectada entre si, com a Copa e o país. Há racismo de parte da torcida, mas e o histórico colonial dos finalistas europeus? E por que não partilhar das alegrias de um vizinho sul-americano?\nThe post Vale torcer para a Argentina? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/vale-torcer-para-a-argentina/",
-          "publishedOn": "2026-07-14T21:14:13.000Z",
-          "wordCount": 4225,
-          "title": "Vale torcer para a Argentina?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/5093986321964928150.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190582",
-          "author": "Juliana Passos",
-          "description": "Em novo livro, pesquisadores contestam a objetividade enquanto um atributo inerente aos números. A confiança é um trabalho coletivo de validação. Para reverter sua fragmentação entre plataformas e corporações, agências estatais devem incorporar a participação de quem é objeto da contagem\nThe post Estatísticas e índices: artefatos em disputa appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/estatisticas-e-indices-artefatos-em-disputa/",
-          "publishedOn": "2026-07-14T20:40:01.000Z",
-          "wordCount": 4769,
-          "title": "Estatísticas e índices: artefatos em disputa",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/binary-code-2987483_1280.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190573",
-          "author": "Tings Chak",
-          "description": "Histórica militante das Ligas Camponesas completaria 100 anos. Sua vida e a luta pela terra no Brasil estão intimamente ligadas. Abraçou a bandeira da Reforma Agrária, organizou marchas para denunciar a fome e, durante a ditadura, pediu pessoalmente armas a Mao Zedong\nThe post Por que resgatar o legado de Alexina Crespo? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/por-que-resgatar-o-legado-de-alexina-crespo/",
-          "publishedOn": "2026-07-14T20:38:01.000Z",
-          "wordCount": 6421,
-          "title": "Por que resgatar o legado de Alexina Crespo?",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/alexina-discursa-na-assembleia-dos-povos-latinoamericanos-havana-cuba-1962-06d87675.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3190596",
-          "author": "Paulo Kliass",
-          "description": "Foi justamente antes da eliminação precoce que país voltou ao topo entre os países com as maiores taxas de juros do planeta. No ranking, faz companhia à Rússia – país envolvido em guerra e sob sanções. Não há justificativa econômica. Possível Lula 4 enfrentará este escândalo?\nThe post O Brasil é campeão! (de juros) appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/o-brasil-e-campeao-de-juros/",
-          "publishedOn": "2026-07-14T20:37:32.000Z",
-          "wordCount": 4508,
-          "title": "O Brasil é campeão! (de juros)",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/07/WhatsApp-Image-2023-01-16-at-5.13.14-PM.jpeg"
         }
       ]
     },
@@ -819,7 +849,7 @@
           "description": "Alysson Oliveira: \"É nesse momento que Nolan busca a reverberação do seu longa no presente. Troia poderia representar Gaza ou qualquer outro lugar destruído por uma guerra. O discurso de Odisseu sobre seu arrependimento pode comover ou ser lido como cínico – isto é, ao gosto do freguês –, mas o distancia do protagonista épico.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/16/odisseu-e-seu-remorso-a-odisseia-de-christopher-nolan/",
           "publishedOn": "2026-07-16T11:00:00.000Z",
-          "wordCount": 12127,
+          "wordCount": 12126,
           "title": "Odisseu e seu remorso: “A Odisseia” de Christopher Nolan",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-16.png?fit=1200%2C675&ssl=1"
         },
