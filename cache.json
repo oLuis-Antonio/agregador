@@ -101,26 +101,6 @@
           "wordCount": 2242,
           "title": "Cleber Rabelo defende a Amazônia e propõe barrar megaprojetos que ameaçam o Pará",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/protesto-ind--genas.png"
-        },
-        {
-          "id": "6a52a560d3cef40358950e0f",
-          "author": "Ray Maria, de Florianópolis (SC)",
-          "description": "Pela reintegração de todos os demitidos, já!",
-          "link": "https://opiniaosocialista.com.br/sc-contra-as-demissoes-ilegais-dos-municipais-de-florianopolis/",
-          "publishedOn": "2026-07-11T20:34:29.000Z",
-          "wordCount": 1017,
-          "title": "SC: Contra as demissões ilegais dos municipais de Florianópolis",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/greve-floripa.webp"
-        },
-        {
-          "id": "6a52a07dd3cef40358950dec",
-          "author": "Ray Maria, de Florianópolis (SC)",
-          "description": "UDESC tem que ampliar as ações afirmativas, já!",
-          "link": "https://opiniaosocialista.com.br/sc-extrema-direita-agride-estudantes-que-lutam-por-cotas/",
-          "publishedOn": "2026-07-11T20:13:31.000Z",
-          "wordCount": 815,
-          "title": "SC: Extrema direita agride estudantes que lutam por cotas",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/tumulto-direita-esquerda-sessao-ampliacao-cotas-udesc-florianopolis-1.webp"
         }
       ]
     },
@@ -256,6 +236,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444238",
+          "author": "Mauricio Moraes",
+          "description": "Enquanto cuidado infantil é confundido com pânico moral contra escolas e populações LGBT, os dados dizem o óbvio: a violência contra as crianças mora, na maioria das vezes, dentro de casa.\nO post Discurso da extrema direita não protege crianças das próprias famílias apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/07/16/discurso-da-extrema-direita-nao-protege-criancas-das-proprias-familias/",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Discurso da extrema direita não protege crianças das próprias famílias",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/07/coluna-fabiana-criancas-violencia-feat.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/07/coluna-fabiana-criancas-violencia-feat.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444232",
           "author": "Eduardo Goulart",
@@ -403,12 +398,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260421",
+          "author": "Tatiana Carlotti",
+          "description": "O governo brasileiro classificou como um “marco lastimável” nas relações entre Brasil e Estados Unidos a decisão do governo norte-americano, anunciada na noite desta quarta-feira (15/07), de impor tarifas de 25% sobre produtos brasileiros, após o término das investigações comerciais de Washington sobre o país. O Escritório do Representante Comercial dos Estados Unidos (USTR) anunciou […]\nO post Governo Lula rejeita novo tarifaço de Trump e reitera: ‘Pix é patrimônio do povo’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/governo-lula-rejeita-tarifaco-de-trump-marco-lastimavel/",
+          "publishedOn": "2026-07-16T09:55:11.000Z",
+          "wordCount": 3993,
+          "title": "Governo Lula rejeita novo tarifaço de Trump e reitera: ‘Pix é patrimônio do povo’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/lula-brics-stuckert-ok.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260414",
           "author": "Victor Farinelli",
           "description": "A Copa do Mundo de 2026 já tem sua final definida: Argentina e Espanha se enfrentarão no próximo domingo na grande decisão do torneio disputado nos Estados Unidos, México e Canadá. A partida será disputada no domingo, às 16h (horário do Brasil), em Nova Jersey. Nesta quarta-feira (15/07), a Argentina conquistou sua vaga no jogo […]\nO post Argentina e Espanha farão final da Copa do Mundo de 2026 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/argentina-e-espanha-farao-final-da-copa-do-mundo-de-2026/",
           "publishedOn": "2026-07-15T22:56:07.000Z",
-          "wordCount": 3315,
+          "wordCount": 3319,
           "title": "Argentina e Espanha farão final da Copa do Mundo de 2026",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/final.jpg"
         },
@@ -418,7 +423,7 @@
           "description": "A Copa de Futebol Feminina 2027 no Brasil deve injetar R$ 8,8 bilhões na economia, gerar 73,7 mil postos de trabalho e renda de R$ 4,5 bilhões e arrecadar em tributos R$ 928 milhões. A estimativa é do Mapeamento do Potencial de Captação e Internacionalização de Eventos Esportivos no Turismo Brasileiro, desenvolvido pela Fundação Getulio […]\nO post Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões, estima FGV apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/copa-do-mundo-feminina-no-brasil-deve-movimentar-r-88-bilhoes-estima-fgv/",
           "publishedOn": "2026-07-15T21:40:37.000Z",
-          "wordCount": 3226,
+          "wordCount": 3230,
           "title": "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões, estima FGV",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/copa.jpg"
         },
@@ -428,7 +433,7 @@
           "description": "A cobertura vacinal completa para a primeira infância apresenta realidade distante para 15% dos bebês em todo o mundo, segundo dados governamentais compilados pelo Fundo das Nações Unidas para Infância (Unicef) e divulgados nesta quarta-feira (15/07). Em 2025, ao todo, 13,5 milhões de crianças não receberam nenhuma dose de vacina durante o primeiro ano de […]\nO post Unicef: treze milhões de crianças não recebem vacina no primeiro ano de vida apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/saude/unicef-treze-milhoes-de-criancas-nao-recebem-vacina-no-primeiro-ano-de-vida/",
           "publishedOn": "2026-07-15T21:10:38.000Z",
-          "wordCount": 4066,
+          "wordCount": 4070,
           "title": "Unicef: treze milhões de crianças não recebem vacina no primeiro ano de vida",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/vacina.jpg"
         },
@@ -438,7 +443,7 @@
           "description": "O mercado global de inteligência artificial já é estimado em US$ 4,8 trilhões, segundo levantamento compilado pela Alura. Esse número não descreve apenas o tamanho de um setor: descreve uma infraestrutura que atravessa quase todas as áreas produtivas, do marketing ao desenvolvimento de software, passando pelo design gráfico e pela análise de dados. O reflexo […]\nO post Novas profissões em tecnologia e IA para 2026 e próximos anos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opera-conteudo/novas-profissoes-em-tecnologia-e-ia-para-2026-e-proximos-anos/",
           "publishedOn": "2026-07-15T20:36:00.000Z",
-          "wordCount": 4096,
+          "wordCount": 4100,
           "title": "Novas profissões em tecnologia e IA para 2026 e próximos anos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/pexels-agk42-2599244.jpg"
         },
@@ -448,7 +453,7 @@
           "description": "O Tribunal Superior de Nairóbi rejeitou nesta quarta-feira (15/07) o pedido da comunidade rastafári para obter o direito de utilizar maconha em rituais religiosos, frustrando uma reivindicação apresentada aos magistrados do Quênia, desde 2021. A decisão foi recebida com decepção pelos seguidores do movimento, que consideram a cannabis um sacramento espiritual e afirmam que a legislação […]\nO post Tribunal do Quênia rejeita pedido de rastafáris para uso religioso da cannabis apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/tribunal-do-quenia-rejeita-pedido-de-rastafaris-para-uso-religioso-da-cannabis/",
           "publishedOn": "2026-07-15T20:30:53.000Z",
-          "wordCount": 3687,
+          "wordCount": 3691,
           "title": "Tribunal do Quênia rejeita pedido de rastafáris para uso religioso da cannabis",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/marijuana.jpg"
         },
@@ -458,7 +463,7 @@
           "description": "Feche os olhos e imagine uma apresentação de tango. Você provavelmente vai pensar em dançarinos brancos ostentando ternos elegantes e vestidos com fenda, um salão aristocrático de um bairro tradicional de Buenos Aires e uma orquestra melancólica com bandoneóns, contrabaixos e violinos. Um argentino respondendo a essa pergunta no fim do século 19, no entanto, […]\nO post Raízes esquecidas: a herança africana do tango apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/raizes-esquecidas-a-heranca-africana-do-tango/",
           "publishedOn": "2026-07-15T19:50:05.000Z",
-          "wordCount": 4692,
+          "wordCount": 4696,
           "title": "Raízes esquecidas: a herança africana do tango",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/candombe_federal_epoca_de_rosas.jpg"
         },
@@ -468,7 +473,7 @@
           "description": "Torcedores argentinos hostilizaram com insultos e gestos racistas o streamer estadunidense IShowSpeed durante a Copa do Mundo 2026. Os ataques, ocorridos no último dia 3 de julho, fizeram a FIFA abrir uma investigação. No futebol, casos de racismo envolvendo torcidas argentinas costumam vir à tona principalmente durante as partidas da Copa Libertadores, mas não se […]\nO post Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/esportes/mito-da-argentina-branca-como-apagamento-da-historia-negra-e-indigena-molda-racismo-no-pais/",
           "publishedOn": "2026-07-15T19:10:06.000Z",
-          "wordCount": 4479,
+          "wordCount": 4483,
           "title": "Mito da ‘Argentina branca’: como apagamento da história negra e indígena molda racismo no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-15-122852.png"
         },
@@ -478,7 +483,7 @@
           "description": "Matéria atualizada às 16h53 O porta-voz do Ministério das Relações Exteriores do Irã, Esmail Baghaei, afirmou nesta quarta-feira (15/07) que Teerã não tem planos de se envolver em negociações com os Estados Unidos e está focada exclusivamente na defesa do país. A posição foi dada a repórteres, em meio a violações norte-americanas do Memorando de […]\nO post Irã descarta negociações com EUA e fala em responder ‘com total força’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-descarta-negociacoes-com-eua-e-fala-em-responder-com-total-forca/",
           "publishedOn": "2026-07-15T18:30:19.000Z",
-          "wordCount": 3773,
+          "wordCount": 3777,
           "title": "Irã descarta negociações com EUA e fala em responder ‘com total força’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/press_conference_of_esmail_baghaei_22_mehr_15_april_2026.jpg"
         },
@@ -491,16 +496,6 @@
           "wordCount": 3052,
           "title": "Profissionais da saúde iniciam greve na RD do Congo em meio à piora do surto de ebola",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bunia.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260382",
-          "author": "Rocio Paik",
-          "description": "A presidente da Comissão Europeia, Ursula von der Leyen, anunciou nesta quarta-feira (15/07) a conclusão de uma parceria com o chefe de Estado da Ucrânia, Volodymyr Zelensky, no setor de defesa, com foco na produção de drones. Segundo a autoridade do bloco europeu, o acordo deve impulsionar “ainda mais as sinergias de defesa” e produção […]\nO post União Europeia anuncia acordo com Ucrânia para impulsionar produção de drones apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/uniao-europeia-anuncia-acordo-com-ucrania-para-impulsionar-producao-de-drones/",
-          "publishedOn": "2026-07-15T17:10:43.000Z",
-          "wordCount": 3295,
-          "title": "União Europeia anuncia acordo com Ucrânia para impulsionar produção de drones",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnq3izawuaafezt.jpeg"
         }
       ]
     },
@@ -770,16 +765,6 @@
           "wordCount": 3795,
           "title": "Velha Toupeira (44)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/VT044-BISPOS-ULTRACONSERVADORES-scaled.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159465",
-          "author": "Enzo Silva",
-          "description": "Era dia primeiro de maio, protestavam pelo fim da escala 6×1, várias lideranças de esquerda se alternavam nos microfones, discursos inflamados. Ao redor, vários estabelecimentos — em sua maioria descolados e progressistas — abertos em pleno feriado. Curiosamente não havia nenhum panfleto ou adesivo nesses estabelecimentos. Passa Palavra",
-          "link": "https://passapalavra.info/2026/07/159465/",
-          "publishedOn": "2026-07-11T19:50:05.000Z",
-          "wordCount": 3823,
-          "title": "1º de Maio",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         }
       ]
     },
@@ -804,7 +789,7 @@
           "description": "Nos 134 anos do nascimento de Walter Benjamin, leia um trecho do livro de Fabio Mascaro Querido sobre o autor: \"O fato de Benjamin ter se tornado marxista e admirador dos surrealistas quase simultaneamente é digno de nota. Trata-se de aspecto bastante revelador do caráter singular de seu marxismo, tanto quanto das críticas e das incompreensões de que seria objeto.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/15/o-marxismo-surrealista-de-walter-benjamin/",
           "publishedOn": "2026-07-15T11:00:00.000Z",
-          "wordCount": 12790,
+          "wordCount": 12651,
           "title": "O marxismo surrealista de Walter Benjamin",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/einbahnstrasse.jpg"
         },
