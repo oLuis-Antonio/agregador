@@ -210,6 +210,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Policia-racista-de-Raquel-Lyra-acumula-denuncias-de-violencia-contra-a-populacao-em-Pernambuco",
+          "author": "Maria Bandeira",
+          "description": "Desde que a governadora Raquel Lyra passou a investir bilhões nas forças de repressão, casos de violência e racismo tem aumentado no Estado, essa política serve para aprofundar o racismo enquanto a desigualdade e precarização do trabalho seguem existindo. \n Imagem: Blog do Magno \nMatérias\n\n/ Luta Antirracista, Racismo, Pernambuco, Racismo Policial, antirracismo, Raquel Lyra",
+          "link": "https://www.esquerdadiario.com.br/Policia-racista-de-Raquel-Lyra-acumula-denuncias-de-violencia-contra-a-populacao-em-Pernambuco",
+          "publishedOn": "2026-07-18T12:39:38.000Z",
+          "wordCount": null,
+          "title": "Polícia racista de Raquel Lyra acumula denúncias de violência contra a população em Pernambuco",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Policial-espanca-adolescente-trabalhador-e-ameaca-mata-lo-em-Goias",
           "author": "Kassandra Andrade de Sousa",
           "description": "Nesta quinta (16) Ricardo Lima Nascimento, sargento da Polícia Militar de Goiás, espancou um adolescente de 16 anos dentro de uma loja de peças automotivas onde o jovem trabalha como menor aprendiz na cidade de Catalão. Repudiamos mais esse caso absurdo de violência policial contra a juventude trabalhadora!\n17-07-2026\n\n/ Luta Antirracista, Violência policial, Violência racista, Violência Estatal, Violência",
@@ -444,16 +454,6 @@
           "wordCount": 3697,
           "title": "Mais gastos militares e provocações de Trump: pontos-chave da cúpula da OTAN em Ancara",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/OTAN-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74094",
-          "author": "Middle East Monitor",
-          "description": "xiste um mito sedutor de que a China e o Irã são aliados unidos pelo sangue e pela ideologia, de que Pequim correria em socorro de Teerã da mesma forma que a OTAN o faria por um membro nos termos do Artigo 5º. Nada poderia estar mais longe da verdade. O que une Pequim e […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/13/o-ira-e-um-parceiro-indispensavel-da-china-mas-pequim-nunca-lutara-sua-guerra/",
-          "publishedOn": "2026-07-13T21:41:27.000Z",
-          "wordCount": 4035,
-          "title": "O Irã é um parceiro indispensável da China, mas Pequim nunca lutará sua guerra",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/ira-china.webp"
         }
       ]
     },
@@ -462,6 +462,36 @@
       "feedUrl": "https://operamundi.uol.com.br/feed",
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
+        {
+          "id": "https://operamundi.uol.com.br/?p=260592",
+          "author": "Tatiana Carlotti",
+          "description": "A escalada militar entre Estados Unidos e Irã avança neste sábado (18/07), em sua sétima noite consecutiva de bombardeios. As forças norte-americanas ampliaram a ofensiva contra a infraestrutura militar e civil iraniana, enquanto Teerã contra-ataca bases militares do Pentágono situadas nos países do Golfo Pérsico. Em carta enviada às Nações Unidas, autoridades iranianas acusam Washington […]\nO post Irã denuncia na ONU ‘ataques deliberados’ dos EUA contra instalações civis apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-denuncia-na-onu-ataques-deliberados-dos-eua-contra-instalacoes-civis/",
+          "publishedOn": "2026-07-18T13:35:05.000Z",
+          "wordCount": 3845,
+          "title": "Irã denuncia na ONU ‘ataques deliberados’ dos EUA contra instalações civis",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hossein-agencia-tasnim.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260586",
+          "author": "Victor Farinelli",
+          "description": "A Alemanha anunciou nesta sexta-feira (17/07) que suas tropas participarão, pela primeira vez, de um exercício nuclear da França, que deve ocorrer ainda neste ano. O movimento simboliza o aprofundamento da cooperação estratégica entre Berlim e Paris, em meio a sinais de que os Estados Unidos buscam reduzir seus compromissos de defesa na Europa. A […]\nO post Alemanha anuncia que integrará exercício nuclear francês pela primeira vez apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-anuncia-que-integrara-exercicio-nuclear-frances-pela-primeira-vez/",
+          "publishedOn": "2026-07-17T21:40:32.000Z",
+          "wordCount": 3617,
+          "title": "Alemanha anuncia que integrará exercício nuclear francês pela primeira vez",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/macmer.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260575",
+          "author": "Victor Farinelli",
+          "description": "O Senado do Chile aprovou, na última quinta-feira (16/07), a maioria dos artigos da megarreforma econômica e tributária do governo de José Antonio Kast. É a primeira vitória relevante no Congresso do governo de extrema direita, que assumiu no último mês de março prometendo estimular o crescimento econômico do Chile, enquanto via sua popularidade cair. […]\nO post Senado do Chile aprova reforma econômica de Kast, apesar de rechaço da população apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/senado-do-chile-aprova-reforma-economica-de-kast-apesar-de-rechaco-da-populacao/",
+          "publishedOn": "2026-07-17T21:00:40.000Z",
+          "wordCount": 3304,
+          "title": "Senado do Chile aprova reforma econômica de Kast, apesar de rechaço da população",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/kast.jpg"
+        },
         {
           "id": "https://operamundi.uol.com.br/?p=260579",
           "author": "Rocio Paik",
@@ -488,7 +518,7 @@
           "description": "Iván Cepeda, ex-candidato à presidência da Colômbia, acusou nesta sexta-feira (17/07) o presidente eleito, Abelardo de la Espriella, de traição e de entregar o controle da segurança do país aos Estados Unidos, mesmo sem ter assumido o cargo, o que só ocorrerá em 7 de agosto. “Desde o início, ele começou a ameaçar seriamente nossa […]\nO post ‘Estão traindo o país’: Cepeda acusa De la Espriella de entregar segurança da Colômbia aos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/estao-traindo-o-pais-cepeda-acusa-de-la-espriella-de-entregar-seguranca-da-colombia-aos-eua/",
           "publishedOn": "2026-07-17T19:20:08.000Z",
-          "wordCount": 3617,
+          "wordCount": 3700,
           "title": "‘Estão traindo o país’: Cepeda acusa De la Espriella de entregar segurança da Colômbia aos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hityc-rwmaatnji.jpg"
         },
@@ -498,7 +528,7 @@
           "description": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (17/07) que a Polícia Federal (PF) ouça o senador Flávio Bolsonaro (PL-RJ) no âmbito do inquérito que investiga a suposta prática de calúnia contra o presidente Luiz Inácio Lula da Silva (PT). Na decisão, o magistrado marcou o depoimento do parlamentar para […]\nO post Moraes manda PF ouvir Flávio Bolsonaro em investigação por calúnia contra Lula apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/moraes-manda-pf-ouvir-flavio-bolsonaro-em-investigacao-por-calunia-contra-lula/",
           "publishedOn": "2026-07-17T18:40:38.000Z",
-          "wordCount": 3073,
+          "wordCount": 3156,
           "title": "Moraes manda PF ouvir Flávio Bolsonaro em investigação por calúnia contra Lula",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/afec3d2b-30be-4a87-be8b-56a51dacb09d-55368839565-caa9ccfc5c-k.webp"
         },
@@ -528,39 +558,9 @@
           "description": "O Partido Trabalhista do Reino Unido proclamou nesta sexta-feira (17/07) o deputado e ex-prefeito da Grande Manchester Andy Burnham, de 56 anos, como seu novo líder. Ele assume o lugar do premiê Keir Starmer, que perdeu o apoio de seus correligionários, e tomará posse do governo britânico na próxima segunda (20/07). A nomeação foi anunciada […]\nO post Andy Burnham assume liderança dos Trabalhistas no Reino Unido e promete ‘mudança’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/andy-burnham-assume-lideranca-dos-trabalhistas-no-reino-unido-e-promete-mudanca/",
           "publishedOn": "2026-07-17T16:30:26.000Z",
-          "wordCount": 3534,
+          "wordCount": 3537,
           "title": "Andy Burnham assume liderança dos Trabalhistas no Reino Unido e promete ‘mudança’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-07-17-at-12.28.44.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260558",
-          "author": "Victor Farinelli",
-          "description": "A decisão do governo dos Estados Unidos, divulgada nesta quarta-feira (15/07), de impor tarifas de 25% sobre produtos exportados pelo Brasil, trouxe uma reação imediata do governo brasileiro. Em resposta, o Palácio do Planalto afirmou que a Lei de Reciprocidade brasileira será acionada “imediatamente”. A lei, sancionada em 11 de abril de 2025, foi motivada […]\nO post Brasil avalia aplicar Lei de Reciprocidade contra EUA; entenda o que é apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/governo-lula-avalia-aplicar-lei-de-reciprocidade-contra-eua-entenda-o-que-e/",
-          "publishedOn": "2026-07-17T15:50:44.000Z",
-          "wordCount": 3256,
-          "title": "Brasil avalia aplicar Lei de Reciprocidade contra EUA; entenda o que é",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/planalto.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260549",
-          "author": "Rocio Paik",
-          "description": "O balanço oficial mais recente divulgado pelo governo da Venezuela, na quinta-feira (16/07), indicou que os terremotos de 24 de junho deixaram pelo menos 4.930 mortos e 16.740 feridos, enquanto 17.907 pessoas seguem desabrigadas. Os dados oficiais também apontam que 6.462 pessoas foram resgatadas, sendo que 128.324 famílias receberam assistência e 21.210 estão alojadas em […]\nO post Venezuela coordena planos de reconstrução após terremotos com Unesco e UE apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuela-coordena-planos-de-reconstrucao-apos-terremotos-com-unesco-e-ue/",
-          "publishedOn": "2026-07-17T15:10:03.000Z",
-          "wordCount": 3434,
-          "title": "Venezuela coordena planos de reconstrução após terremotos com Unesco e UE",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-pantalla-2026-07-17-083835.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260548",
-          "author": "Tabitha Ramalho",
-          "description": "Os preços do petróleo subiram mais de 2% nesta sexta-feira (17/07), após os EUA e o Irã intensificarem os ataques no Golfo Pérsico, com a navegação ameaçada por um possível fechamento do Mar Vermelho, além das restrições já existentes no Estreito de Ormuz. Como resultado, contratos futuros do petróleo Brent subiram US$ 1,77, ou 2,1%, […]\nO post Teerã pede a houthis do Iêmen que fechem rota comercial no Mar Vermelho apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-pede-a-houthis-do-iemen-que-fechem-rota-comercial-no-mar-vermelho-diz-agencia/",
-          "publishedOn": "2026-07-17T14:29:54.000Z",
-          "wordCount": 2971,
-          "title": "Teerã pede a houthis do Iêmen que fechem rota comercial no Mar Vermelho",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/geiifdyxmaahcpx.png"
         }
       ]
     },
