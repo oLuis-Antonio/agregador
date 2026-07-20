@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "z4FYQf",
+          "author": null,
+          "description": "Poucos personagens sintetizam de maneira tão completa a história do futebol brasileiro e a luta política do povo trabalhador brasileiro quanto João Saldanha",
+          "link": "https://jornalofuturo.com.br/artigo/z4FYQf-joao-sem-medo-o-comunista-que-desafiou-a-ditadura-e-montou-a-selecao-do-tri",
+          "publishedOn": "2026-07-19T22:00:00.000Z",
+          "wordCount": 2719,
+          "title": "João Sem Medo: o comunista que desafiou a ditadura e montou a Seleção do Tri",
+          "imageUrl": "https://media.jornalofuturo.com.br/1_6KzCQSeExfEnWU_Zn9tefg-650x350.webp"
+        },
+        {
           "id": "7H9jrc",
           "author": null,
           "description": "Projetos de megamineração, incêndios na Patagônia e privatização do sistema de distribuição de água para empresa israelita são alguns dos mais recentes ataques de Javier Milei à classe trabalhadora argentina.",
@@ -44,26 +54,6 @@
           "wordCount": 2618,
           "title": "Pé de meia tem papel na redução da evasão, mas oculta o projeto privatista para a educação",
           "imageUrl": "https://media.jornalofuturo.com.br/EF587E81-35AD-46AD-9E7B-3E17296A7B09-9700-00000148936F389D-1280x720.jpg"
-        },
-        {
-          "id": "6zScqX",
-          "author": null,
-          "description": "Moradores afirmam que ação desta segunda-feira (14) relembra episódio de 2021, quando dezenas de famílias ficaram semanas sem energia elétrica em meio à crise sanitária da Covid-19.",
-          "link": "https://jornalofuturo.com.br/artigo/6zScqX-comunidade-do-jardim-tatiana-voltam-a-denunciar-cortes-de-luz-em-meio-a-operacoes-policiais",
-          "publishedOn": "2026-07-15T12:00:00.000Z",
-          "wordCount": 1570,
-          "title": "Comunidade do Jardim Tatiana voltam a denunciar cortes de luz em meio a operações policiais",
-          "imageUrl": "https://media.jornalofuturo.com.br/tatiana-900x795.jpg"
-        },
-        {
-          "id": "toavo0",
-          "author": null,
-          "description": "Medida estende o benefício para férias e finais de semana, mas debate sobre mobilidade urbana e financiamento do transporte público permanece aberto.",
-          "link": "https://jornalofuturo.com.br/artigo/toavo0-passe-livre-estudantil-e-ampliado-em-fortaleza-ce-pl-da-tarifa-zero-segue-congelado",
-          "publishedOn": "2026-07-15T10:30:00.000Z",
-          "wordCount": 2043,
-          "title": "Passe livre estudantil é ampliado em Fortaleza (CE); PL da Tarifa Zero segue congelado",
-          "imageUrl": "https://media.jornalofuturo.com.br/WhatsApp%20Image%202026-07-14%20at%2013.53.16-906x510.jpg"
         }
       ]
     },
@@ -73,12 +63,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a5d751cd3cef4035895120d",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/futebol-racismo-e-politica/",
+          "publishedOn": "2026-07-20T01:09:15.000Z",
+          "wordCount": 410,
+          "title": "Futebol, racismo e política",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
+          "id": "6a5d6ff7d3cef403589511de",
+          "author": "Adriano Espíndola, de Uberaba (MG)",
+          "description": "E por que só o controle operário pode salvar o setor de fertilizantes",
+          "link": "https://opiniaosocialista.com.br/fertilizantes-em-colapso-como-a-crise-da-mosaic-ameaca-empregos-e-alimentos-no-brasil/",
+          "publishedOn": "2026-07-20T00:55:50.000Z",
+          "wordCount": 2388,
+          "title": "Fertilizantes em colapso: como a crise da Mosaic ameaça empregos e alimentos no Brasil",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/araxa-mosaic-fertilizantes.webp"
+        },
+        {
           "id": "6a5bd293d3cef403589511b4",
           "author": "PSTU-AM",
           "description": "Empresa Innova realiza produção petroquímica a serviço da alta produtividade e do lucro, acima do meio ambiente e da vida da classe trabalhadora",
           "link": "https://opiniaosocialista.com.br/am-vazamento-quimico-em-manaus-expoe-negligencia-empresarial-e-conivencia-do-poder-publico/",
           "publishedOn": "2026-07-18T19:46:07.000Z",
-          "wordCount": 1627,
+          "wordCount": 1629,
           "title": "AM: Vazamento químico em Manaus expõe negligência empresarial e conivência do poder público",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/vazamento-qu--mico-manaus.webp"
         },
@@ -88,7 +98,7 @@
           "description": "Evento acontece no dia 1º de agosto, em Belém, e apresentará programa socialista como alternativa aos projetos da direita e da esquerda reformista",
           "link": "https://opiniaosocialista.com.br/para-convencao-eleitoral-confirmara-candidaturas-de-cleber-rabelo-e-well-macedo-ao-governo/",
           "publishedOn": "2026-07-17T20:51:49.000Z",
-          "wordCount": 1083,
+          "wordCount": 1085,
           "title": "Pará: Convenção Eleitoral confirmará candidaturas de Cleber Rabelo e Well Macêdo ao governo pelo PSTU",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/cleber-e-well-png.png"
         },
@@ -98,7 +108,7 @@
           "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
           "link": "https://opiniaosocialista.com.br/o-fascismo-e-de-esquerda-charlatanice-conservadora/",
           "publishedOn": "2026-07-17T14:16:42.000Z",
-          "wordCount": 434,
+          "wordCount": 414,
           "title": "O fascismo é de esquerda? | CHARLATANICE CONSERVADORA",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
         },
@@ -108,7 +118,7 @@
           "description": "Apesar de novo ataque, governo Lula se nega a aplicar Lei da Reciprocidade",
           "link": "https://opiniaosocialista.com.br/reafirmacao-de-tarifaco-mostra-que-trump-quer-o-brasil-de-joelhos/",
           "publishedOn": "2026-07-17T13:56:09.000Z",
-          "wordCount": 1381,
+          "wordCount": 1383,
           "title": "Reafirmação de tarifaço mostra que Trump quer o Brasil de joelhos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/contra-trump.webp"
         },
@@ -128,7 +138,7 @@
           "description": "Controle dos trabalhadores e das comunidades, povos tradicionais e originários",
           "link": "https://opiniaosocialista.com.br/por-um-novo-modelo-de-mineracao/",
           "publishedOn": "2026-07-16T20:23:08.000Z",
-          "wordCount": 2252,
+          "wordCount": 2254,
           "title": "Por um novo modelo de mineração",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/mieracao.jpg"
         },
@@ -138,7 +148,7 @@
           "description": "Legenda oficializará Hertz Dias e Vanessa Portugal como candidatos à presidência da República",
           "link": "https://opiniaosocialista.com.br/pstu-realizara-convencao-eleitoral-nacional-no-proximo-dia-31-em-sao-paulo-sp/",
           "publishedOn": "2026-07-16T15:29:05.000Z",
-          "wordCount": 998,
+          "wordCount": 1014,
           "title": "PSTU realizará Convenção Eleitoral Nacional no próximo dia 31, em São Paulo (SP)",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Vanessa-e-Hertz.webp"
         },
@@ -158,7 +168,7 @@
           "description": "Educação Politica sem Sociologia e Filosofia?",
           "link": "https://opiniaosocialista.com.br/a-nova-lei-sancionada-por-lula-e-o-projeto-de-educacao-que-vem-desde-brasilia/",
           "publishedOn": "2026-07-15T16:51:53.000Z",
-          "wordCount": 2023,
+          "wordCount": 2039,
           "title": "A nova lei sancionada por Lula e o projeto de Educação que vem desde Brasília",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/nova-lei-educacao.webp"
         }
@@ -169,6 +179,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Super-El-Nino-o-que-mudou-desde-2024-e-por-que-o-capitalismo-e-seus-governos-preparam-a-proxima",
+          "author": "Camila Galvão",
+          "description": "Chuvas volumosas e concentradas chegam ao Rio Grande do Sul nesta semana, junto aos alertas de Super El Niño, e trazem à memória dos gaúchos as terríveis lembranças das enchentes de 2024.\n19-07-2026\n\n/ Rio Grande do Sul, Eduardo Leite, Sebastião Melo, Crise ecológica",
+          "link": "https://www.esquerdadiario.com.br/Super-El-Nino-o-que-mudou-desde-2024-e-por-que-o-capitalismo-e-seus-governos-preparam-a-proxima",
+          "publishedOn": "2026-07-19T22:53:44.000Z",
+          "wordCount": null,
+          "title": "Super El Niño: o que mudou desde 2024 e por que o capitalismo e seus governos preparam a próxima tragédia no RS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Policia-racista-de-Raquel-Lyra-acumula-denuncias-de-violencia-contra-a-populacao-em-Pernambuco",
           "author": "Maria Bandeira",
@@ -240,21 +260,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/07/coluna-fabiana-criancas-violencia-feat.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444232",
-          "author": "Eduardo Goulart",
-          "description": "Como o ecossistema de corrupção está implodindo a pré-candidatura de Flávio Bolsonaro à Presidência da República antes mesmo do primeiro comício, com prisões, bilhões bloqueados e operações da PF em série\nO post Rei Midas reverso: Tudo que Flávio Bolsonaro toca vira inquérito apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/07/15/rei-midas-reverso-tudo-que-flavio-bolsonaro-toca-vira-inquerito/",
-          "publishedOn": "2026-07-15T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Rei Midas reverso: Tudo que Flávio Bolsonaro toca vira inquérito",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/07/Headerwide_Flavio_Rei_Midas_reverso.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/07/Headerwide_Flavio_Rei_Midas_reverso.jpg"
         }
       ]
     },
@@ -348,6 +353,16 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260719",
+          "author": "Victor Farinelli",
+          "description": "A seleção da Espanha venceu a Argentina pelo placar de 1×0, em partida disputada neste domingo (19/07), em Nova Jersey, e se sagrou campeã da Copa do Mundo de 2026, conquistando seu segundo título da competição. Após um jogo acirrado, que terminou com empate em 0x0 no tempo regulamentar, a equipe espanhola aproveitou a vantagem […]\nO post Espanha vence Argentina na prorrogação e conquista sua segunda Copa do Mundo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/espanha-vence-argentina-na-prorrogacao-e-conquista-sua-segunda-copa/",
+          "publishedOn": "2026-07-19T22:58:27.000Z",
+          "wordCount": 3099,
+          "title": "Espanha vence Argentina na prorrogação e conquista sua segunda Copa do Mundo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/espanha.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260716",
           "author": "Pedro Marin",
           "description": "Os mais de mil dias de guerra contra Gaza não destruíram apenas cidades, hospitais e campos de refugiados. Também expuseram o esgotamento de uma arquitetura política construída há mais de três décadas sob os Acordos de Oslo. Enquanto o povo palestino enfrenta talvez o momento mais dramático de sua história desde a Nakba de 1948, […]\nO post Depois de Gaza, quem representa a Palestina? apareceu primeiro em Opera Mundi.",
@@ -363,7 +378,7 @@
           "description": "Entra ano, sai ano, e o futebol continua operando seu milagre semântico mais virulento: transformar raça em elogio. Nas arquibancadas, nas transmissões e nas mesas-redondas, a palavra funciona como selo de bravura e brio. Basta um time pressionar, suportar o sufoco ou se recusar a morrer para que alguém invoque a raça. O futebol organiza […]\nO post Copa do Mundo: quando a ‘raça’ vira essência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/copa-do-mundo-quando-a-raca-vira-essencia/",
           "publishedOn": "2026-07-19T20:32:28.000Z",
-          "wordCount": 4207,
+          "wordCount": 4203,
           "title": "Copa do Mundo: quando a ‘raça’ vira essência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/copa-raca.webp"
         },
@@ -436,16 +451,6 @@
           "wordCount": 3358,
           "title": "Influenciadores ‘red pill’ são presos nos EUA acusados de estupro e tráfico de mulheres",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/andrew-tate.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260660",
-          "author": "Tatiana Carlotti",
-          "description": "O Ministério da Defesa da Rússia informou neste domingo (19/07) sobre um ataque massivo durante a noite contra empresas do complexo militar-industrial e centros de logística na capital ucraniana, na província de Kiev, e no porto de Yuzhny, em Odessa. Segundo o comunicado oficial, as Forças Armadas Russas empregaram armamento aéreo e terrestre de alta […]\nO post Rússia atinge alvos militares em Kiev após ataques ucranianos em Moscou apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-atinge-alvos-militares-em-kiev-apos-ataques-ucranianos-em-moscou/",
-          "publishedOn": "2026-07-19T14:08:40.000Z",
-          "wordCount": 3217,
-          "title": "Rússia atinge alvos militares em Kiev após ataques ucranianos em Moscou",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1479463.jpg"
         }
       ]
     },
@@ -460,6 +465,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=229918",
+          "author": "Redação de AND",
+          "description": "Nos 1.015º e 1.016º dias desde o Dilúvio de Al-Aqsa, o país Estados Unidos (EUA) reconheceu que suas baixas militares na guerra contra o Irã chegaram a 17 mortos e mais de 430 feridos. Dois soldados ianques foram mortos em um ataque iraniano contra a Base Aérea Muwaffaq Salti, na Jordânia, e outro morreu no Iraque ao tentar destruir a carga de um drone iraniano abatido. “O querido povo iraniano e o Eixo da Resistência têm lições inesquecíveis para o inimigo”, advertiu o dirigente iraniano Mojtaba Khamenei. No Iêmen, o Ansarallah anunciou que a confrontação regional constitui “uma só batalha” e preparou novas medidas para romper o bloqueio sobre o Aeroporto Internacional de Sanaa.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-15-17-07-a-hora-zero-se-aproxima-adverte-ira-apos-destruir-deposito-do-eua-no-bahrein-e-atingir-bases-ianques-em-seis-paises-iemen-mobiliza-massas-cont/",
+          "publishedOn": "2026-07-20T01:11:23.000Z",
+          "wordCount": null,
+          "title": "Plantão Palestina (18–19/07): ‘Resistência tem lições inesquecíveis para o inimigo’, adverte Khamenei após ataques iranianos matarem soldados ianques na Jordânia e no Iraque; Iêmen anuncia ‘uma só batalha’ contra o imperialismo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=229913",
+          "author": "Redação de AND",
+          "description": "Rosa MinineVictor C. Bellizia Arte marcial brasileira que é filosofia, canto, dança, movimentos acrobáticos que faz parte da luta do povo brasileiro. A capoeira é uma arma da resistência nacional, cuja tradição e prática são mantidas ao longo dos anos. Criada pelos pretos escravizados do Brasil de séculos passados, ela servia e serve como defesa pessoal, disfarçada de folguedo ensaiando a liberdade, difundida e praticada por pessoas de todas as idades, em várias partes do país e do resto do mundo, em suas duas vertentes: capoeira angola e regional. Capoeira Angola, Capoeira Regional: diferenças de uma unidade As diferenças são",
+          "link": "https://anovademocracia.com.br/capoeira-luta-resistencia-arte-povo/",
+          "publishedOn": "2026-07-19T21:41:17.000Z",
+          "wordCount": null,
+          "title": "Capoeira: luta, resistência e arte de um povo",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=229908",
           "author": "Giovanna Maria",
@@ -543,26 +568,6 @@
           "publishedOn": "2026-07-17T22:05:27.000Z",
           "wordCount": null,
           "title": "Ex-ministro de Bolsonaro integra esquema que roubou R$ 708 milhões de aposentados do INSS, aponta PF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229840",
-          "author": "Redação de AND",
-          "description": "O A Propósito debateu a reunião de 66 governos contra o chamado “ressurgimento da extrema esquerda” e apontou que a “Doutrina Donroe” organiza uma política contrarrevolucionária preventiva internacional contra comunistas, anti-imperialistas e lutas populares, com a Revolução Agrária no Brasil sob a sua mira.",
-          "link": "https://anovademocracia.com.br/movimento-revolucionario-doutrina-donroe/",
-          "publishedOn": "2026-07-17T22:01:15.000Z",
-          "wordCount": null,
-          "title": "‘Trump está certo: o movimento revolucionário está de volta no mundo e ameaça os seus interesses’: Pitillo e Liga Anti-imperialista debatem ‘Doutrina Donroe’ com AND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=229814",
-          "author": "Redação de AND",
-          "description": "Mesmo com desaceleração pontual do IPCA em junho, alimentos seguem em patamar elevado; dados mostram que a alta da comida supera a inflação geral há quase duas décadas, enquanto o latifúndio exportador concentra terra, produção e crédito.",
-          "link": "https://anovademocracia.com.br/inflacao-alimentos-latifundio-exportador/",
-          "publishedOn": "2026-07-17T21:11:00.000Z",
-          "wordCount": null,
-          "title": "Inflação dos alimentos expõe a lógica do latifúndio exportador",
           "imageUrl": null
         }
       ]
@@ -762,16 +767,6 @@
           "wordCount": 12348,
           "title": "O futebol e a alma expropriada",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-18.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65374",
-          "author": "Boitempo",
-          "description": "Nos 134 anos do nascimento de Walter Benjamin, leia um trecho do livro de Fabio Mascaro Querido sobre o autor: \"O fato de Benjamin ter se tornado marxista e admirador dos surrealistas quase simultaneamente é digno de nota. Trata-se de aspecto bastante revelador do caráter singular de seu marxismo, tanto quanto das críticas e das incompreensões de que seria objeto.\"",
-          "link": "https://blogdaboitempo.com.br/2026/07/15/o-marxismo-surrealista-de-walter-benjamin/",
-          "publishedOn": "2026-07-15T11:00:00.000Z",
-          "wordCount": 12651,
-          "title": "O marxismo surrealista de Walter Benjamin",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/einbahnstrasse.jpg"
         }
       ]
     }
