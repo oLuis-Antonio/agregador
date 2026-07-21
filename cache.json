@@ -111,26 +111,6 @@
           "wordCount": 1400,
           "title": "Reafirmação de tarifaço mostra que Trump quer o Brasil de joelhos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/contra-trump.webp"
-        },
-        {
-          "id": "6a5951acd3cef40358951144",
-          "author": "Luta Popular",
-          "description": "A 37ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu manter a decisão que autoriza a remoção das famílias da Ocupação dos Queixadas, considerando o “cheque despejo”",
-          "link": "https://opiniaosocialista.com.br/ocupacao-dos-queixadas-tribunal-rejeita-os-recursos-apresentados-pelo-luta-popular-e-pela-defensoria-publica/",
-          "publishedOn": "2026-07-16T22:18:26.000Z",
-          "wordCount": 1337,
-          "title": "Ocupação dos Queixadas: Tribunal rejeita os recursos apresentados pelo Luta Popular e pela Defensoria Pública",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Ocupa----o-dos-Queixadas.webp"
-        },
-        {
-          "id": "6a593b7dd3cef40358951107",
-          "author": "Rafael Duda",
-          "description": "Controle dos trabalhadores e das comunidades, povos tradicionais e originários",
-          "link": "https://opiniaosocialista.com.br/por-um-novo-modelo-de-mineracao/",
-          "publishedOn": "2026-07-16T20:23:08.000Z",
-          "wordCount": 2263,
-          "title": "Por um novo modelo de mineração",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/mieracao.jpg"
         }
       ]
     },
@@ -139,6 +119,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Documentario-Historia-do-Rap-no-Nordeste-dirigo-por-Robsom-Mc",
+          "author": "Renato Shakur",
+          "description": "Assista o documentário História do Rap no Nordeste dirigido por Robsom Mc do coletivo Malassombro. \n O documentário é resultado de uma pesqiusa intensa em materiais acadêmicos, documentários e entrevistas sobre a história do rap no Nordeste brasileiro, dividido em 10 partes que recupera desde as possiveis realções culturais e sociais das músicas tradicionais como o repente até a cena atual com referência à Copa NOrdeste de Mc's deste ano. \nMatérias",
+          "link": "https://www.esquerdadiario.com.br/Documentario-Historia-do-Rap-no-Nordeste-dirigo-por-Robsom-Mc",
+          "publishedOn": "2026-07-21T10:06:50.000Z",
+          "wordCount": null,
+          "title": "Documentário História do Rap no Nordeste dirigo por Robsom Mc",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Catastrofe-Climatica-Mais-de-99-mil-pessoas-isoladas-enquanto-o-governo-declara-Estado-de",
           "author": "Teresa Melipal",
@@ -344,26 +334,6 @@
           "wordCount": 6960,
           "title": "OTAN: a maior organização terrorista do planeta",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/otan-2.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74127",
-          "author": "El Salto",
-          "description": "forma como denominamos diferentes atos políticos tem consequências. Por exemplo, na cúpula da OTAN em Ancara, foi tomada a decisão de transferir 70 bilhões de euros para o governo ucraniano. Com esse montante, serão compradas armas dos Estados Unidos com o objetivo de que Zelensky e seus colegas possam continuar por mais alguns anos sua […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/16/a-otan-e-a-nova-guerra-mundial/",
-          "publishedOn": "2026-07-16T21:17:19.000Z",
-          "wordCount": 3620,
-          "title": "A OTAN e a nova guerra mundial",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/OTAN-1-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74114",
-          "author": "Electronic Intifada",
-          "description": "eu vestido rosa balançava enquanto eu arrumava meu cabelo, deixando-o solto sobre os ombros. Minha irmã gêmea, Amal, que me deu o vestido de presente, convidou uma amiga maquiadora profissional para me deixar pronta para o meu grande dia. Era 9 de setembro de 2025 — a data em que Mohammed, meu noivo, e eu […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/16/gaza-o-amor-em-tempos-de-genocidio/",
-          "publishedOn": "2026-07-16T19:04:04.000Z",
-          "wordCount": 4298,
-          "title": "Gaza: o amor em tempos de genocídio",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/gaza-1.webp"
         }
       ]
     },
@@ -373,12 +343,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=260830",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente norte-americano, Donald Trump, assinou nesta terça-feira (21/07) um decreto que impõe uma sobretaxa de 50% sobre produtos canadenses, provocando a reação mais dura de Ottawa desde a criação do Acordo de Livre Comércio entre Estados Unidos, México e Canadá (USMCA, na sigla em inglês). O primeiro-ministro Mark Carney acusou Washington de violar o […]\nO post Canadá acusa governo Trump de violar tratado comercial após tarifas adicionais de 50% apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/canada-acusa-governo-trump-de-violar-tratado-comercial-apos-tarifas-adicionais-de-50/",
+          "publishedOn": "2026-07-21T09:54:28.000Z",
+          "wordCount": 3685,
+          "title": "Canadá acusa governo Trump de violar tratado comercial após tarifas adicionais de 50%",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/canada-eua-daniel-torok-white-house.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=260825",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente colombiano, Gustavo Petro, anunciou nesta segunda-feira (20/07) que entrou com uma ação no Conselho de Estado solicitando a anulação da eleição presidencial do candidato de extrema-direita Abelardo De La Espriella. Em mensagem publicada nas redes sociais, o chefe de Estado cessante anunciou: “eis o pedido de anulação da eleição presidencial de 2026. Sua […]\nO post Petro entra com ação judicial para anular eleição presidencial na Colômbia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-entra-com-acao-judicial-para-anular-eleicao-presidencial-na-colombia/",
+          "publishedOn": "2026-07-21T09:30:07.000Z",
+          "wordCount": 2972,
+          "title": "Petro entra com ação judicial para anular eleição presidencial na Colômbia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/colombia-petro-demanda01-1024x614.jpg.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=260820",
           "author": "Victor Farinelli",
           "description": "A agência iraniana Mehr reportou que o território do país sofreu ataques aéreos atribuídos aos Estados Unidos durante o final da tarde e começo da noite desta segunda-feira (20/07). Segundo a imprensa do Irã, os bombardeios atingiram localidades na ilha de Qeshm e nos arredores de Bandar Abbas, ambas as regiões próximas ao Estreito de […]\nO post EUA lançam novo ataque contra Irã após Trump prometer ‘vingar’ soldados mortos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-lancam-novo-ataque-contra-ira-apos-trump-prometer-vingar-soldados-mortos/",
           "publishedOn": "2026-07-20T23:14:41.000Z",
-          "wordCount": 2918,
+          "wordCount": 2919,
           "title": "EUA lançam novo ataque contra Irã após Trump prometer ‘vingar’ soldados mortos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/mehr-1.jpg"
         },
@@ -388,7 +378,7 @@
           "description": "O ex-deputado federal Eduardo Bolsonaro, cassado em 2025, recebeu do governo dos Estados Unidos o chamado “green card” documento que serve como visto de permanência e permite ao político de extrema direita viver por tempo indeterminado no território do país. A informação foi veiculada nesta segunda-feira (20/07) pelo jornal Folha de São Paulo, em matéria […]\nO post EUA concedem ‘green card’ a Eduardo Bolsonaro, condenado pelo STF apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/eua-concedem-green-card-a-eduardo-bolsonaro-condenado-pelo-stf/",
           "publishedOn": "2026-07-20T22:05:14.000Z",
-          "wordCount": 3024,
+          "wordCount": 2942,
           "title": "EUA concedem ‘green card’ a Eduardo Bolsonaro, condenado pelo STF",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/banana.jpg"
         },
@@ -398,7 +388,7 @@
           "description": "Há 101 anos, em 20 de julho de 1925, nascia o psiquiatra, intelectual marxista e revolucionário martinicano Frantz Fanon, um dos maiores expoentes da luta anticolonial do século 20. Nascido em um território sob domínio colonial francês, Fanon se voluntariou a combater as forças nazistas durante a Segunda Guerra Mundial, integrando as tropas da França […]\nO post Frantz Fanon, a voz da luta anticolonial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/frantz-fanon-a-voz-da-luta-anticolonial/",
           "publishedOn": "2026-07-20T21:40:33.000Z",
-          "wordCount": 5754,
+          "wordCount": 5755,
           "title": "Frantz Fanon, a voz da luta anticolonial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/photograph_of_frantz_fanon_from_black_skin_white_masks_1967_dust_jacket.webp.png"
         },
@@ -408,7 +398,7 @@
           "description": "Em um relatório elaborado pelo Departamento de Estado, divulgado nesta segunda-feira (20/07), o governo dos Estados Unidos acusa Cuba de manter um grande aparato de espionagem, que foi capaz de se infiltrar até mesmo no Departamento de Defesa norte-americano. Segundo o documento, a inteligência cubana manteve agentes dentro do corpo diplomático norte-americano e no Departamento […]\nO post Cuba chama de ‘falácia’ relatório sobre suposta espionagem e infiltração em Washington apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cuba-chama-de-falacia-relatorio-sobre-suposta-espionagem-e-infiltracao-em-washington/",
           "publishedOn": "2026-07-20T21:13:31.000Z",
-          "wordCount": 3243,
+          "wordCount": 3242,
           "title": "Cuba chama de ‘falácia’ relatório sobre suposta espionagem e infiltração em Washington",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bruno.jpg"
         },
@@ -418,7 +408,7 @@
           "description": "No último dia 14, Cuba voltou a enfrentar um apagão nacional. Foi o quinto colapso do sistema elétrico registrado no país em 2026. Rapidamente, as imagens de Cuba mergulhada na escuridão correram o mundo. Atendendo aos interesses do imperialismo estadunidense, os grandes meios de comunicação voltaram a apresentar o apagão como mais uma prova do […]\nO post Cuba: um povo que não se rende apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/cuba-um-povo-que-nao-se-rende/",
           "publishedOn": "2026-07-20T19:38:58.000Z",
-          "wordCount": 4730,
+          "wordCount": 4731,
           "title": "Cuba: um povo que não se rende",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/cuba.webp"
         },
@@ -428,7 +418,7 @@
           "description": "A economia brasileira cresceu 0,7% na passagem de abril para maio. No trimestre móvel terminado em maio, a alta é de 1,9% na comparação com o mesmo período de 2025. Com esse desempenho, a variação positiva acumulada no período de 12 meses fica em 1,7%. Os dados fazem parte do Monitor do PIB, estudo mensal […]\nO post Economia brasileira cresce 0,7% entre abril e maio de 2026, aponta FGV apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/economia-brasileira-cresce-07-entre-abril-e-maio-de-2026-aponta-fgv/",
           "publishedOn": "2026-07-20T18:30:16.000Z",
-          "wordCount": 3739,
+          "wordCount": 3740,
           "title": "Economia brasileira cresce 0,7% entre abril e maio de 2026, aponta FGV",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/pib.jpg"
         },
@@ -438,7 +428,7 @@
           "description": "Trump se especializa em rasgar memorandos de entendimento (já são dois que ele mesmo não respeita) e tornar inúteis rodadas de negociações diplomáticas (como as de 2025 e 2026). A partir de 13 de julho se reinicia o intento de cerco naval ao Estreito de Ormuz e o não reconhecimento, por parte dos EUA, da […]\nO post O Império quer uma guerra de atrito prolongada contra o Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-imperio-quer-uma-guerra-de-atrito-prolongada-contra-o-ira/",
           "publishedOn": "2026-07-20T17:53:45.000Z",
-          "wordCount": 3517,
+          "wordCount": 3518,
           "title": "O Império quer uma guerra de atrito prolongada contra o Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ira.webp"
         },
@@ -448,29 +438,9 @@
           "description": "O presidente da Argentina, Javier Milei, chega em São Paulo, no próximo sábado (25/07), para participar da convenção do Partido Liberal (PL), no estádio do Pacaembu, onde será oficializada a candidatura de Flávio Bolsonaro à Presidência da República. Antes do evento e das declarações de apoio ao senador, Milei deverá se reunir com o governador […]\nO post Milei deve se reunir com Tarcísio de Freitas antes de convenção para lançar Flávio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/milei-deve-se-reunir-com-tarcisio-de-freitas-antes-de-convencao-para-lancar-flavio/",
           "publishedOn": "2026-07-20T17:11:07.000Z",
-          "wordCount": 2916,
+          "wordCount": 2998,
           "title": "Milei deve se reunir com Tarcísio de Freitas antes de convenção para lançar Flávio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/54360588236_38f658d264_c.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260783",
-          "author": "Tabitha Ramalho",
-          "description": "Mais de 400 drones foram lançados pela Ucrânia contra Moscou e seus arredores durante a madrugada de domingo (19/07) para segunda-feira (20/07). A maioria teria sido interceptada pelos sistemas de defesa antiaérea, e 85 foram abatidos quando se aproximavam de Moscou. “O maior dano foi registrado em Podolsk, Domodedovo e no distrito de Odintsovo”, escreveu […]\nO post Kiev lança mais de 400 drones contra Rússia; cinco pessoas morrem em ataque a ônibus apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/kiev-lanca-mais-de-400-drones-contra-russia-cinco-pessoas-morrem-em-ataque-a-onibus-em-belgorod/",
-          "publishedOn": "2026-07-20T17:10:01.000Z",
-          "wordCount": 3112,
-          "title": "Kiev lança mais de 400 drones contra Rússia; cinco pessoas morrem em ataque a ônibus",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/6a5e3a7059bf5b4f6b2b01dc.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=260781",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente da Colômbia, Gustavo Petro, aceitou assumir a presidência do Pacto Histórico após deixar a chefia de Estado, em 7 de agosto, e tirar férias. O convite foi feito pelo senador Iván Cepeda durante um ato na cidade de Tunja, no domingo (19/07). Em publicação nas redes sociais na noite de domingo, Petro escreveu […]\nO post Gustavo Petro vai assumir comando do Pacto Histórico após deixar Presidência da Colômbia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/gustavo-petro-vai-assumir-comando-do-pacto-historico-apos-deixar-presidencia-da-colombia/",
-          "publishedOn": "2026-07-20T16:30:49.000Z",
-          "wordCount": 3446,
-          "title": "Gustavo Petro vai assumir comando do Pacto Histórico após deixar Presidência da Colômbia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/g5h5_ccwiaan-kk-scaled.jpeg"
         }
       ]
     },
