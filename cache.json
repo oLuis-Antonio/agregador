@@ -63,12 +63,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a6247b8d3cef403589512d8",
+          "author": "Bruno Teixeira",
+          "description": "Na manhã desta quinta-feira (23), um trem da Linha 12-Safira pegou fogo na região do Bresser-Mooca, na Zona Leste de São Paulo. O fogo destruiu por completo um dos vagões do trem, a energia foi cortada entre as estações Br&",
+          "link": "https://opiniaosocialista.com.br/privatizacao-gera-caos-nos-trens-em-sao-paulo/",
+          "publishedOn": "2026-07-23T17:13:30.000Z",
+          "wordCount": 1681,
+          "title": "Privatização gera caos nos trens em São Paulo",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/trem-sp-fogo.webp"
+        },
+        {
+          "id": "6a623d79d3cef403589512b8",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Decisão reconhece que a Marinha ultrapassou os limites da liberdade de expressão ao ofender o líder da Revolta da Chibata, um dos maiores símbolos da luta negra e da classe trabalhadora no Brasil",
+          "link": "https://opiniaosocialista.com.br/vitoria-contra-o-apagamento-historico-justica-condena-uniao-por-ataques-a-memoria-de-joao-candido/",
+          "publishedOn": "2026-07-23T16:22:07.000Z",
+          "wordCount": 1237,
+          "title": "Vitória contra o apagamento histórico: Justiça condena União por ataques à memória de João Cândido",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/joao-candido.webp"
+        },
+        {
           "id": "6a60bfccd3cef40358951293",
           "author": "Caio Marx, do Rebeldia",
           "description": "Na convenção da chapa Brasil da Esperança (PT, PCdoB e PV), fomos surpreendidos ao ver Luciano Bivar, hoje filiado ao MDB, mas que foi presidente do PSL em 2018.Foi opartido que lançou Jair Bolsonaro à Presidência da República",
           "link": "https://opiniaosocialista.com.br/pe-pt-faz-o-jogo-da-direita-e-coloca-luciano-bivar-na-suplencia-de-humberto-costa-na-disputa-pelo-senado/",
           "publishedOn": "2026-07-22T13:10:11.000Z",
-          "wordCount": 2472,
+          "wordCount": 2458,
           "title": "PE: PT faz o jogo da direita e coloca Luciano Bivar na suplência de Humberto Costa na disputa pelo Senado",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/humberto_costa_e_luciano_bivar-1.webp"
         },
@@ -78,7 +98,7 @@
           "description": "Recentemente, na Zona Oeste de São Paulo, a escola municipal de educação infantil Antônio Bento, foi abordada por policiais militares que, a pedido do pai de uma aluna, foram até a direção da instituição cobrar explica&",
           "link": "https://opiniaosocialista.com.br/o-neopentecostalismo-e-a-fe-como-armas-sobre-o-intervalo-biblico-nas-escolas/",
           "publishedOn": "2026-07-20T14:59:13.000Z",
-          "wordCount": 3942,
+          "wordCount": 3928,
           "title": "O neopentecostalismo e a fé como armas: sobre o “intervalo bíblico” nas escolas",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/intervalo-biblico-pe.webp"
         },
@@ -98,7 +118,7 @@
           "description": "E por que só o controle operário pode salvar o setor de fertilizantes",
           "link": "https://opiniaosocialista.com.br/fertilizantes-em-colapso-como-a-crise-da-mosaic-ameaca-empregos-e-alimentos-no-brasil/",
           "publishedOn": "2026-07-20T00:55:50.000Z",
-          "wordCount": 2423,
+          "wordCount": 2409,
           "title": "Fertilizantes em colapso: como a crise da Mosaic ameaça empregos e alimentos no Brasil",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/araxa-mosaic-fertilizantes.webp"
         }
@@ -269,12 +289,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=161821",
+          "author": "Paulo Batistella",
+          "description": "Linha 11-Coral foi concedida ao Grupo Comporte em março do ano passado. À época, PM agrediu trabalhadores em protesto, que já denunciavam falhas nas linhas concedidas à iniciativa privada, e cercou a bolsa de valores para que leilão ocorresse\nO conteúdo Linha de trem que pegou fogo em SP foi leiloada por Tarcísio após PM agredir ferroviários Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/linha-de-trem-que-pegou-fogo-em-sp-foi-leiloada-por-tarcisio-apos-pm-agredir-ferroviarios/",
+          "publishedOn": "2026-07-23T15:47:29.000Z",
+          "wordCount": 5243,
+          "title": "Linha de trem que pegou fogo em SP foi leiloada por Tarcísio após PM agredir ferroviários",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2025/03/CPTM.webp"
+        },
+        {
           "id": "https://ponte.org/?p=161777",
           "author": "Mariana Rosetti",
           "description": "Enquanto o total de mortes violentas dessa faixa etária caiu 10,8% em 2025, as provocadas por policiais subiram e já são a segunda maior causa, mostra o 20º Anuário Brasileiro de Segurança Pública\nO conteúdo Polícia responde por quase uma em cada cinco mortes violentas de crianças e adolescentes Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/policia-responde-por-quase-uma-em-cada-cinco-mortes-violentas-de-criancas-e-adolescentes/",
           "publishedOn": "2026-07-23T11:15:19.000Z",
-          "wordCount": 5526,
+          "wordCount": 5427,
           "title": "Polícia responde por quase uma em cada cinco mortes violentas de crianças e adolescentes",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/manifestacao-zona-leste.webp"
         },
@@ -284,7 +314,7 @@
           "description": "Polícias mataram mais no Brasil em 2025, na contramão de queda do número total de mortes violentas, indica Anuário Brasileiro da Segurança Pública. Na Bahia, do governo Jerônimo (PT), proporção foi de 523 vítimas civis para cada policial morto\nO conteúdo Letalidade policial piora no país e faz 47 vítimas civis a cada agente morto em supostos confrontos Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/letalidade-policial-piora-no-pais-e-faz-47-vitimas-civis-a-cada-agente-morto-em-supostos-confrontos/",
           "publishedOn": "2026-07-23T11:06:05.000Z",
-          "wordCount": 6161,
+          "wordCount": 6062,
           "title": "Letalidade policial piora no país e faz 47 vítimas civis a cada agente morto em supostos confrontos",
           "imageUrl": "https://ponte.org/wp-content/uploads/2022/02/2022_Ilustra_Letalidade_Doria_150x.jpg"
         },
@@ -294,7 +324,7 @@
           "description": "Fernanda Ferreira da Silva, 40, precisou deixar o trabalho e lidar com trauma na família após filho mais velho ter sido morto pela Polícia Militar. Quase dois anos depois, Justiça tornou réus os envolvidos no caso\nO conteúdo ‘Me deixaram morta em vida, mas eu vou lutar’: mãe pede prisão de PMs por morte de entregador Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/me-deixaram-morta-em-vida-mas-eu-vou-lutar-mae-pede-prisao-de-pms-por-morte-de-entregador/",
           "publishedOn": "2026-07-22T18:50:16.000Z",
-          "wordCount": 5840,
+          "wordCount": 5741,
           "title": "‘Me deixaram morta em vida, mas eu vou lutar’: mãe pede prisão de PMs por morte de entregador",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/02/gabriel-ferreira-messias-silva-entregador-capacete.jpg.webp"
         },
@@ -304,7 +334,7 @@
           "description": "Ivo Florentino dos Santos responderá por homicídio qualificado por ter atirado no jovem. Ele também é acusado de fraude processual, assim como outros três PMs. MPSP anexou ao processo uma reportagem da Ponte com relato da mãe da vítima\nO conteúdo Justiça torna réus PMs por morte de entregador e fraude com ‘arma plantada’ na cena Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/justica-torna-reus-pms-por-morte-de-entregador-e-fraude-com-arma-plantada-na-cena/",
           "publishedOn": "2026-07-22T14:52:46.000Z",
-          "wordCount": 5718,
+          "wordCount": 5619,
           "title": "Justiça torna réus PMs por morte de entregador e fraude com ‘arma plantada’ na cena",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/DD389901-5AD8-4BC0-B3C6-B3D626533532.webp"
         },
@@ -314,7 +344,7 @@
           "description": "Foto de José Carlos da Rocha Sobrinho é divulgada por sargento da PM e em grupos de WhatsApp sugerindo associação ao crime; amigos contam que registro mostra brincadeira em ação comunitária de Natal há cerca de oito anos\nO conteúdo ‘Estão tentando criar uma imagem do meu pai que não procede’: foto de diácono morto pela PM circula fora de contexto Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/estao-tentando-criar-uma-imagem-do-meu-pai-que-nao-procede-foto-de-diacono-morto-pela-pm-circula-fora-de-contexto/",
           "publishedOn": "2026-07-20T18:55:14.000Z",
-          "wordCount": 6161,
+          "wordCount": 6062,
           "title": "‘Estão tentando criar uma imagem do meu pai que não procede’: foto de diácono morto pela PM circula fora de contexto",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/Foto-de-brincadeira-entre-amigos-foi-tirada-de-contexto-2.webp"
         },
@@ -324,7 +354,7 @@
           "description": "Em Ushuaia, fantasias de presos e souvenirs transformam um passado de tortura em atração turística; no Brasil, violência carcerária ainda é aplaudida no presente \nO conteúdo Da Redação | A prisão do fim do mundo Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/prisao-fim-do-mundo-turismo-penal-ushuaia/",
           "publishedOn": "2026-07-20T15:09:51.000Z",
-          "wordCount": 6490,
+          "wordCount": 6391,
           "title": "Da Redação | A prisão do fim do mundo",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/06/IMG_1399-scaled.webp"
         }
@@ -373,12 +403,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261081",
+          "author": "Tabitha Ramalho",
+          "description": "As autoridades alemãs anunciaram na quarta-feira (22/07) sinal verde para o projeto nuclear franco-russo. A joint venture planejada entre uma subsidiária da empresa francesa Framatome e a agência russa de energia nuclear, Rosatom, tem como objetivo produzir barras de combustível utilizadas em reatores de projeto russo. A subsidiária da Framatome, ANF (Advanced Nuclear Fuels), solicitou […]\nO post Alemanha aprova projeto nuclear conjunto franco-russo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-aprova-projeto-nuclear-conjunto-franco-russo/",
+          "publishedOn": "2026-07-23T17:20:27.000Z",
+          "wordCount": 3164,
+          "title": "Alemanha aprova projeto nuclear conjunto franco-russo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/tass_337612961-2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261080",
+          "author": "Victor Farinelli",
+          "description": "O governo dos Estados Unidos teria arrecadado mais de US$ 13 bilhões (cerca de R$ 66 bilhões) em receita com a venda de petróleo da Venezuela nos primeiros seis meses de 2026. A afirmação é do diário britânico Financial Times, em reportagem publicada nesta quarta-feira (22/07). Segundo a apuração do jornal, o valor arrecadado representaria […]\nO post EUA arrecadaram US$ 13 bilhões com venda de petróleo da Venezuela em 2026, afirma jornal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/eua-arrecadaram-us-13-bilhoes-com-venda-de-petroleo-da-venezuela-em-2026-afirma-jornal/",
+          "publishedOn": "2026-07-23T16:41:55.000Z",
+          "wordCount": 2996,
+          "title": "EUA arrecadaram US$ 13 bilhões com venda de petróleo da Venezuela em 2026, afirma jornal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/pdvsa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261068",
+          "author": "Tabitha Ramalho",
+          "description": "O primeiro-ministro indiano, Narendra Modi, prometeu criar tribunais de julgamento rápido para punir os envolvidos no vazamento de provas, oferecendo sua primeira resposta pública aos protestos liderados por jovens do “movimento das baratas” em Nova Délhi. “Nada é mais importante do que o bem-estar e o futuro da nossa juventude!”, escreveu o premiê no X […]\nO post ‘Movimentos das baratas’: premiê indiano promete ‘tribunais de julgamentos rápidos’ por vazamento de provas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/movimentos-das-baratas-premie-indiano-promete-tribunais-de-julgamentos-rapidos-por-vazamento-de-provas/",
+          "publishedOn": "2026-07-23T15:20:00.000Z",
+          "wordCount": 3270,
+          "title": "‘Movimentos das baratas’: premiê indiano promete ‘tribunais de julgamentos rápidos’ por vazamento de provas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-23-115501.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261067",
+          "author": "Tatiana Carlotti",
+          "description": "Os preços internacionais do petróleo voltaram a disparar nesta quinta-feira (23/07), aproximando-se da marca de US$ 100 por barril, em meio à intensificação da guerra dos Estados Unidos e de Israel contra o Irã. O contrato futuro do petróleo Brent, referência global, chegou a ser negociado a US$ 98,88 por barril, acumulando alta próxima de […]\nO post Preço do petróleo volta a subir com bloqueios marítimos em Ormuz e no Mar Vermelho apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-do-petroleo-volta-a-subir-com-bloqueios-maritimos-em-ormuz-e-no-mar-vermelho/",
+          "publishedOn": "2026-07-23T14:40:40.000Z",
+          "wordCount": 2960,
+          "title": "Preço do petróleo volta a subir com bloqueios marítimos em Ormuz e no Mar Vermelho",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405013111492325836468784.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261061",
           "author": "Tabitha Ramalho",
           "description": "Acompanhados pelo ministro da Segurança Nacional Itamar Ben-Gvir, mais de 4.200 colonos israelenses e membros de grupos de extrema-direita invadiram nesta quinta-feira (23/07) o complexo da Mesquita de Al-Aqsa, em Jerusalém Oriental ocupada, em uma das maiores incursões deste ano, enquanto celebravam o Tisha B’Av, um dia de luto judaico que marca a destruição, por […]\nO post Mais de 4.200 colonos israelenses invadem mesquita de Al-Aqsa ao lado de ministro da Segurança Nacional apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/mais-de-4-200-colonos-israelenses-invadem-mesquita-de-al-aqsa-ao-lado-de-ministro-da-seguranca-nacional/",
           "publishedOn": "2026-07-23T14:05:38.000Z",
-          "wordCount": 3557,
+          "wordCount": 3566,
           "title": "Mais de 4.200 colonos israelenses invadem mesquita de Al-Aqsa ao lado de ministro da Segurança Nacional",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1280px-jerusalem_dome_of_the_rock_bw_3.jpg"
         },
@@ -388,7 +458,7 @@
           "description": "O presidente Javier Milei prosseguiu com sua estratégia de reformulação do Judiciário por meio da nomeação oficial de 28 juízes e procuradores, publicada nesta quarta-feira (22/07) no Diário Oficial. Essa medida, gerenciada pelo Ministro da Justiça, Juan Bautista Mahiques, soma-se a dezenas de nomeações anteriores e precede a análise de outras 25 indicações agendadas para […]\nO post Milei nomeia juízes e procuradores com vínculos familiares e empresariais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/milei-nomeia-juizes-e-procuradores-com-vinculos-familiares-e-empresariais/",
           "publishedOn": "2026-07-23T12:53:36.000Z",
-          "wordCount": 3164,
+          "wordCount": 3172,
           "title": "Milei nomeia juízes e procuradores com vínculos familiares e empresariais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hcugzbna4aaba7x-e1782218237870.jpg"
         },
@@ -398,7 +468,7 @@
           "description": "A Guarda Revolucionária Islâmica (IRGC) anunciou nesta quinta-feira (23/07) um ataque com drone à base aérea de Muwaffaq Al Salti, na Jordânia, além de bombardeios contra instalações militares dos Estados Unidos no Kuwait. Uma explosão também incendiou um petroleiro no Estreito de Ormuz, após a embarcação tentar utilizar uma rota considerada não autorizada pelo Irã. […]\nO post Irã amplia ataques contra bases norte-americanas nos países do Golfo e adverte: ‘é olho por olho’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-amplia-ataques-contra-bases-norte-americanas-nos-paises-do-golfo-e-adverte-e-olho-por-olho/",
           "publishedOn": "2026-07-23T11:30:35.000Z",
-          "wordCount": 3687,
+          "wordCount": 3698,
           "title": "Irã amplia ataques contra bases norte-americanas nos países do Golfo e adverte: ‘é olho por olho’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-120528.png"
         },
@@ -408,7 +478,7 @@
           "description": "Analistas, políticos, ativistas sociais e outras vozes nos Estados Unidos se manifestaram contra o relatório anti-Cuba divulgado pelo Departamento de Estado norte-americano e as declarações recentes de Marco Rubio contra o país caribenho.  Don Beyer, membro da Câmara dos Representantes dos Estados Unidos, classificou o relatório que justificava a guerra contra Cuba como ilógico e […]\nO post Congressistas dos EUA criticam relatório contra Cuba: ‘disparate paranoico’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/congressistas-dos-eua-criticam-relatorio-de-rubio-contra-cuba-disparate-paranoico/",
           "publishedOn": "2026-07-23T10:54:24.000Z",
-          "wordCount": 3250,
+          "wordCount": 3258,
           "title": "Congressistas dos EUA criticam relatório contra Cuba: ‘disparate paranoico’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/narcoterrorismo.webp"
         },
@@ -418,59 +488,36 @@
           "description": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, reuniu-se nesta quinta-feira (23/07) com o secretário de Estado dos Estados Unidos, Marco Rubio, à margem da reunião da Associação das Nações do Sudeste Asiático (ASEAN), realizada em Manila, capital das Filipinas. Segundo comunicado da diplomacia russa, o encontro foi proposto pelos Estados Unidos e durou […]\nO post Chanceler russo diz a Rubio que política europeia de armar Ucrânia é ‘inaceitável’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/chanceler-russo-diz-a-rubio-que-politica-europeia-de-armar-ucrania-e-inaceitavel/",
           "publishedOn": "2026-07-23T10:28:21.000Z",
-          "wordCount": 3202,
+          "wordCount": 3206,
           "title": "Chanceler russo diz a Rubio que política europeia de armar Ucrânia é ‘inaceitável’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1481485.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=261033",
           "author": "Tatiana Carlotti",
-          "description": "Os governos dos Estados Unidos e da Arábia Saudita assinaram nesta quarta-feira (22/07) um acordo de cooperação em energia nuclear civil com duração de 30 anos, que não inclui salvaguardas internacionais para impedir o desenvolvimento de armas atômicas. O documento, conhecido como “Acordo 123”, foi assinado pelo Secretário de Energia dos EUA, Chris Wright, e […]\nO post EUA e Arábia Saudita assinam acordo nuclear bilionário de 30 anos apareceu primeiro em Opera Mundi.",
+          "description": "Os governos dos Estados Unidos e da Arábia Saudita assinaram nesta quarta-feira (22/07) um acordo de cooperação em energia nuclear civil com duração de 30 anos, que não inclui salvaguardas internacionais para impedir o desenvolvimento de armas atômicas. O documento, conhecido como “Acordo 123”, foi assinado pelo Secretário de Energia dos Estados Unidos, Chris Wright, […]\nO post EUA e Arábia Saudita assinam acordo nuclear bilionário de 30 anos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-e-arabia-saudita-assinam-acordo-nuclear-bilionario-de-30-anos/",
           "publishedOn": "2026-07-23T10:01:06.000Z",
-          "wordCount": 3427,
+          "wordCount": 3439,
           "title": "EUA e Arábia Saudita assinam acordo nuclear bilionário de 30 anos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hn2_i-pxaaich-7.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=261027",
-          "author": "Victor Farinelli",
-          "description": "Há 39 anos, em 22 de julho de 1987, o cartunista palestino Naji al-Ali era baleado na cabeça enquanto andava pelas ruas de Londres. O atentado o deixou em coma e resultou na sua morte 38 dias depois, em 29 de agosto. Naji al-Ali foi expulso da Palestina aos 10 anos de idade, durante a […]\nO post Naji al-Ali: 39 anos do assassinato do maior cartunista palestino apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/naji-al-ali-39-anos-do-assassinato-do-maior-cartunista-palestino/",
-          "publishedOn": "2026-07-22T21:50:47.000Z",
-          "wordCount": 5801,
-          "title": "Naji al-Ali: 39 anos do assassinato do maior cartunista palestino",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/cartunista.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261023",
-          "author": "Victor Farinelli",
-          "description": "O cinema brasileiro perdeu nesta quarta-feira (22/07) um de seus maiores protagonistas. Morreu, aos 98 anos, o cineasta, fotógrafo, jornalista e produtor Luiz Carlos Barreto, o Barretão, responsável por uma das trajetórias mais importantes da história do audiovisual nacional. Ao longo de mais de seis décadas, participou diretamente da construção do Cinema Novo e da […]\nO post Morre produtor de cinema Luiz Carlos Barreto, aos 98 anos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/obituario/morre-produtor-de-cinema-luiz-carlos-barreto-aos-98-anos/",
-          "publishedOn": "2026-07-22T21:40:17.000Z",
-          "wordCount": 4758,
-          "title": "Morre produtor de cinema Luiz Carlos Barreto, aos 98 anos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lc-barreto.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261016",
-          "author": "Raissa Neves",
-          "description": "Com 5.764 mortes em excesso registradas, metade delas concentradas em apenas três dias (25 a 27 de junho), o episódio de calor extremo provocou uma sobremortalidade sem precedentes desde a histórica onda de calor de 2003. Os dados provisórios foram divulgados nesta quarta-feira (22) pela agência de saúde pública francesa, Santé publique France. Especialistas preveem que uma nova massa de […]\nO post França registra 5.764 mortes durante onda de calor histórica no país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/franca-registra-5-764-mortes-durante-onda-de-calor-historica-no-pais/",
-          "publishedOn": "2026-07-22T21:00:43.000Z",
-          "wordCount": 3897,
-          "title": "França registra 5.764 mortes durante onda de calor histórica no país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/immo-wegmann-qs5hr1dg7h4-unsplash-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261001",
-          "author": "Tabitha Ramalho",
-          "description": "Os partidos da oposição indiana paralisaram o Parlamento em protesto, exigindo a renúncia do ministro da Educação, em solidariedade ao novo movimento juvenil conhecido como “movimento das baratas”. Políticos da oposição, liderados por Rahul Gandhi, líder do Partido do Congresso, reuniram-se em frente ao prédio do Parlamento em Délhi na quarta-feira (22/07), muitos vestidos de […]\nO post Oposição indiana paralisa Parlamento em apoio ao ‘movimento das baratas’; polícia reprime protestos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/oposicao-indiana-paralisa-parlamento-em-apoio-ao-movimento-das-baratas-policia-reprime-protestos/",
-          "publishedOn": "2026-07-22T20:20:07.000Z",
-          "wordCount": 3841,
-          "title": "Oposição indiana paralisa Parlamento em apoio ao ‘movimento das baratas’; polícia reprime protestos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hn1xhkebcaae5u1.jpg"
+          "id": "https://deolhonosruralistas.com.br/?p=32456",
+          "author": "De Olho nos Ruralistas",
+          "description": "Pesquisa do De Olho nos Ruralistas em contratos por inexigibilidade de licitação com prefeituras e governos estaduais desde 2024 mostra que as bandas do top 40 se apresentaram em 36% das cidades brasileiras; em Pernambuco, somente dois municipios não os receberam, Iati e Palmeirina  Por Carolina Bataier Os quarenta artistas que abocanharam R$ 3 bilhões […]\nO post Farras: 40 artistas que mais receberam cachês públicos tocaram em 2 mil municípios apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/07/22/farras-40-artistas-que-mais-receberam-caches-publicos-tocaram-em-2-mil-municipios/",
+          "publishedOn": "2026-07-22T15:33:03.000Z",
+          "wordCount": 2347,
+          "title": "Farras: 40 artistas que mais receberam cachês públicos tocaram em 2 mil municípios",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/07/40-bandas-receberam-R-3-bilhoes-em-dois-anos.png"
         }
       ]
     },
@@ -585,13 +632,54 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6a623f6301e7cd37414d32f7",
+          "author": "O Poder Popular",
+          "description": "Versão para impressão\n\n\n1_5116098320678258534.pdf\n992 KB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle\n\n\n\n💡\nAcompanhe todas as mídias do nosso jornal: https://linktr.ee/jornalopoderpopular e contribua pelo Pix jornalopoderpopular@gmail.com",
+          "link": "https://opoderpopular.com.br/boletim-poder-popular-agosto-26/",
+          "publishedOn": "2026-07-23T16:22:13.000Z",
+          "wordCount": 930,
+          "title": "Boletim Poder Popular - Agosto/26",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/07/298799902_486408576824035_6675726856310978443_n-3.jpg"
+        },
+        {
+          "id": "6a623eb801e7cd37414d327e",
+          "author": "O Poder Popular",
+          "description": "(*) Sérgio Braga professor de Ciência Política da UFPR para o site 082 Notícias\n Na cultura política da esquerda marxista brasileira a memória de algumas personalidades revolucionárias ocupa lugar de destaque. São",
+          "link": "https://opoderpopular.com.br/jayme-miranda-um-revolucionario-brasileiro/",
+          "publishedOn": "2026-07-23T16:19:53.000Z",
+          "wordCount": 2175,
+          "title": "Jayme Miranda, um revolucionário brasileiro",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/07/298799902_486408576824035_6675726856310978443_n-2.jpg"
+        },
+        {
+          "id": "6a623d8001e7cd37414d3203",
+          "author": "O Poder Popular",
+          "description": "Fatima Guerreiro – Historiadora e Advogada\nAssisti no dia 27/06/2026 a live do Jornalista Leandro Fortes em que foram convidados duas pessoas que assumiram pertencer ao grupamento “Unidade Marxista”, mais conhecida como UMA, intitulada “Critica marxista ao transativismo nacional”, link (446) Critica marxista ao",
+          "link": "https://opoderpopular.com.br/critica-a-live-de-leonardo-fortes/",
+          "publishedOn": "2026-07-23T16:15:48.000Z",
+          "wordCount": 2411,
+          "title": "Crítica à live de Leonardo Fortes",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/07/298799902_486408576824035_6675726856310978443_n-1.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3191538",
+          "author": "Guilherme Arruda",
+          "description": "A história do “Maradona” do rock argentino. Fã de Milton, amigo de Gil e dos Paralamas, teve sua obra transformada pela música brasileira – mas é um desconhecido do grande público nacional. Novo livro-reportagem recupera suas ligações com o Brasil\nThe post Charly García: rebelde latino-americano appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/charly-garcia-rebelde-latino-americano/",
+          "publishedOn": "2026-07-23T17:02:18.000Z",
+          "wordCount": null,
+          "title": "Charly García: rebelde latino-americano",
+          "imageUrl": null
+        },
         {
           "id": "https://outraspalavras.net/?p=3191453",
           "author": "Samarane F. de Souza Barros Marlon, Altavini de Abreu e Everaldo S. Melazzo",
@@ -635,7 +723,7 @@
         {
           "id": "https://outraspalavras.net/?p=3191439",
           "author": "Ronaldo Queiroz de Morais",
-          "description": "Uma análise das intervenções com uso de “bombas midiáticas” em processos eleitorais, a partir de 2019. As evidências de um vultoso investimento em contrainformação contra governos progressistas da América Latina. E os ricos de uma ingerência de Trump no Brasil\nThe post As eleições no labirinto da <i>guerra virtual</i> appeared first on Outras Palavras.",
+          "description": "Uma análise das intervenções com uso de “bombas midiáticas” em processos eleitorais, a partir de 2019. As evidências de um vultoso investimento em contrainformação contra governos progressistas da América Latina. E os riscos de uma ingerência de Trump no Brasil\nThe post As eleições no labirinto da <i>guerra virtual</i> appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/as-eleicoes-no-labirinto-da-guerra-virtual/",
           "publishedOn": "2026-07-22T18:37:53.000Z",
           "wordCount": null,
@@ -681,16 +769,6 @@
           "wordCount": null,
           "title": "O lulismo diante da crise das democracias liberais",
           "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191203",
-          "author": "August H. Nimtz",
-          "description": "Livro recém-publicado de intelectual marxista mostra como o voto operário em Trump não é adesão ao fascismo, mas grito de desespero e ausência de alternativas reais. Cerne do debate, sugere, deve ser a construção de um partido genuinamente trabalhista nos EUA\nThe post EUA: A esquerda deve <i>disputar</i> o ressentimento? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/eua-a-esquerda-deve-disputar-o-ressentimento/",
-          "publishedOn": "2026-07-21T18:59:36.000Z",
-          "wordCount": null,
-          "title": "EUA: A esquerda deve disputar o ressentimento?",
-          "imageUrl": null
         }
       ]
     },
@@ -700,12 +778,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159515",
+          "author": "Passa Palavra",
+          "description": "Quando ambos os polos passam a falar rigorosamente a mesma língua, a gramática totalitária se consuma. Por Marcelo Phintener",
+          "link": "https://passapalavra.info/2026/07/159515/",
+          "publishedOn": "2026-07-23T15:46:48.000Z",
+          "wordCount": 7433,
+          "title": "A gramática sem dono",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/OIP-4024227197.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159497",
           "author": "Vieira",
           "description": "A greve é exatamente o que a revolta não é. Por Joshua Clover",
           "link": "https://passapalavra.info/2026/07/159497/",
           "publishedOn": "2026-07-21T17:21:56.000Z",
-          "wordCount": 7471,
+          "wordCount": 7470,
           "title": "Revolta. Greve. Revolta: A nova era de levantes (6)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/07/kathe_kollwitz-peasant_war_print_5-_outbreak-1903-obelisk-art-history.webp"
         },
@@ -762,7 +850,7 @@
           "description": "\"Enquanto toda relação humana é ao menos implicitamente política, a relação de camaradagem é explicitamente política. Ela é pautada não na imposição, mas na superação da alienação e dos vícios hierárquicos que reproduziam a exploração em redes inteiras de relações sociais e de produção.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/20/o-amor-e-a-camaradagem-reflexoes-acerca-da-pratica-politica-nas-relacoes-humanas/",
           "publishedOn": "2026-07-20T11:00:00.000Z",
-          "wordCount": 16110,
+          "wordCount": 16266,
           "title": "O amor e a camaradagem: reflexões acerca da prática política nas relações humanas",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-13.png"
         }
