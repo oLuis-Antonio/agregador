@@ -93,6 +93,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a65193dd3cef4035895160d",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Neste 25 de julho, Dia do Escritor, celebramos uma das maiores obras da literatura brasileira",
+          "link": "https://opiniaosocialista.com.br/o-brasil-dos-muitos-sertoes-70-anos-de-grande-sertao-veredas/",
+          "publishedOn": "2026-07-25T20:41:48.000Z",
+          "wordCount": 1326,
+          "title": "O Brasil dos muitos sertões - 70 anos de 'Grande Sertão: Veredas'",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/grande-sert--o.webp"
+        },
+        {
           "id": "6a64db02d3cef403589515d9",
           "author": "Firminia Rodrigues, de Minas Gerais",
           "description": "Os números revelam uma tragédia com cor e classe",
@@ -231,16 +241,6 @@
           "wordCount": 2033,
           "title": "Trump retoma guerra para reverter fracasso",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/us-strikes-iran-infrastructure-iran-hits-jordan-base-16x9--1-.webp"
-        },
-        {
-          "id": "6a6384e5d3cef403589513fd",
-          "author": "Diego Cruz",
-          "description": "Embora representado quase exclusivamente por homens brancos, as raízes negras do rock sempre se mantiveram presentes",
-          "link": "https://opiniaosocialista.com.br/dia-mundial-do-rock-o-rock-e-preto-mulher-e-operario/",
-          "publishedOn": "2026-07-24T15:43:40.000Z",
-          "wordCount": 1336,
-          "title": "Dia Mundial do Rock: O rock é preto, mulher e operário",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/sister-rosetta-tharpe-guitarra--1-.webp"
         }
       ]
     },
@@ -249,6 +249,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Os-rumos-do-PSOL-em-disputa-subordinacao-ao-PT-cisoes-na-majoritaria-e-verbas-milionarias",
+          "author": "Vitória Camargo",
+          "description": "Nesta semana, o PSOL publicou as resoluções votadas em reunião de seu Diretório Nacional, que incluem o tema da conjuntura nacional e a plataforma de partido rumo às eleições deste ano. Em síntese, como era previsível, as resoluções indicam que as prioridades do PSOL no próximo período são a campanha por Lula e a Frente Ampla e a eleição da “maior bancada parlamentar da história”. Entretanto, o pano de fundo do partido é o fato de que o campo que vinha dirigindo seu aparato multimilionário (chamado PSOL de Todas as Lutas) se dividiu definitivamente. A crise aberta com a proposta derrotada de federação com o PT no início do ano se somou à disputa recente por suas verbas milionárias e à participação protocolar da Revolução Solidária de Boulos no último Diretório Nacional, com saída especulada para Outubro, levando seus mandatos. A crise e a política votada expressam o resultado inevitável de anos de integração do PSOL ao governo de Frente Ampla e de subordinação direta ao regime político.\n25-07-2026\n\n/ PSOL, Guilherme Boulos, Conciliação de classes, Federação PSOL-REDE, Governo Lula-Alckmin",
+          "link": "https://www.esquerdadiario.com.br/Os-rumos-do-PSOL-em-disputa-subordinacao-ao-PT-cisoes-na-majoritaria-e-verbas-milionarias",
+          "publishedOn": "2026-07-25T19:50:14.000Z",
+          "wordCount": null,
+          "title": "Os rumos do PSOL em disputa: subordinação ao PT, cisões na majoritária e verbas milionárias",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Debates-e-dialogos-com-o-Manifesto-por-uma-Bancada-da-Esquerda-Radical",
+          "author": "Vitória Camargo",
+          "description": "Recentemente, alguns parlamentares e pré-candidatos lançaram o Manifesto por uma Bancada da Esquerda Radical no Brasil. Trata-se de um manifesto programático com 10 pontos, apresentados para a campanha eleitoral neste ano e impulsionados por pré-candidatos a deputados federais vinculados ao PSOL, como Jones Manoel (por filiação democrática), Sâmia Bomfim, Fernanda Melchionna, Glauber Braga, Vivi Reis e Fábio Felix, e também por Renato Freitas do PT. Assim como sugere o próprio documento, colocando-se aberto a críticas e debates, queremos com esta nota debater e dialogar com os pontos ali levantados, com o objetivo de fortalecer uma perspectiva anticapitalista e revolucionária para enfrentar na luta de classes a extrema direita, o imperialismo, mas também a conciliação petista, que aplica ataques contra o povo trabalhador no Brasil. Realizamos esse debate à luz da experiência da esquerda latino-americana e das lições do fenômeno Myriam Bregman na Argentina.\n25-07-2026\n\n/ PSOL, Myriam Bregman, Jones Manoel, Conciliação de classes",
+          "link": "https://www.esquerdadiario.com.br/Debates-e-dialogos-com-o-Manifesto-por-uma-Bancada-da-Esquerda-Radical",
+          "publishedOn": "2026-07-25T19:48:24.000Z",
+          "wordCount": null,
+          "title": "Debates e diálogos com o Manifesto por uma Bancada da Esquerda Radical",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Apos-explosao-na-linha-privatizada-ferroviarios-exigem-reestatizacao-e-aprovam-indicativo-de-greve",
           "author": "Nossa Classe Metroviários",
@@ -546,7 +566,7 @@
           "description": "uando Vladimir Lenin escreveu sobre o imperialismo e o classificou como o estágio mais elevado do capitalismo, ele estava identificando o momento em que o capital passou do espaço da livre concorrência para o mundo do monopólio, onde os bancos se fundiram com a indústria, o Estado se transformou em um instrumento direto a serviço […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/07/22/fascismo-digital-estagio-superior-do-capitalismo/",
           "publishedOn": "2026-07-22T18:19:13.000Z",
-          "wordCount": 3576,
+          "wordCount": 3569,
           "title": "Fascismo digital, estágio superior do capitalismo",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/fascismo.webp"
         }
@@ -558,13 +578,63 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261254",
+          "author": "Victor Farinelli",
+          "description": "A visita do presidente da Argentina, Javier Milei, a São Paulo neste sábado (25/07), consolidou a avaliação, dentro do governo federal, de que sua passagem pelo Brasil serviria unicamente à articulação da extrema direita na região. Na convenção nacional do PL, evento que serviu de lançamento da candidatura de Flávio Bolsonaro (PL-RJ) à Presidência da […]\nO post Milei encontra Flávio e Tarcísio em SP ao iniciar tour de apoio à extrema direita na América do Sul apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/milei-encontra-flavio-e-tarcisio-em-sp-ao-iniciar-tour-de-apoio-a-extrema-direita-na-america-do-sul/",
+          "publishedOn": "2026-07-25T20:49:05.000Z",
+          "wordCount": 3727,
+          "title": "Milei encontra Flávio e Tarcísio em SP ao iniciar tour de apoio à extrema direita na América do Sul",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/milei-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261235",
+          "author": "Victor Farinelli",
+          "description": "No próximo domingo (26/07), a partir das 10h, o Espaço Cultural Elza Soares, em São Paulo, recebe o Festival da Rebeldia Cubana, uma grande celebração da cultura, da solidariedade internacionalista e da resistência do povo cubano. A atividade integra a Jornada pelo Centenário de Fidel Castro, que reúne iniciativas em todo o Brasil para celebrar […]\nO post Festa da Rebeldia Cubana celebra o centenário de Fidel Castro em São Paulo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/cultura/festa-da-rebeldia-cubana-celebra-o-centenario-de-fidel-castro-em-sao-paulo/",
+          "publishedOn": "2026-07-25T20:00:24.000Z",
+          "wordCount": 3103,
+          "title": "Festa da Rebeldia Cubana celebra o centenário de Fidel Castro em São Paulo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/fidel.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261250",
+          "author": "Victor Farinelli",
+          "description": "A opinião pública dos estadunidenses sobre Israel passou por uma mudança significativa nos últimos oito anos. A avaliação do país entre os norte-americanos deixou de ser majoritariamente positiva e passou para um saldo negativo, segundo análise realizada pela CNN. O analista-chefe de dados da emissora, Harry Enten, classificou a mudança como uma “transformação gigantesca” e […]\nO post EUA registram queda histórica de 67 pontos no apoio a Israel, aponta análise da CNN apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-registram-queda-historica-de-67-pontos-no-apoio-a-israel-aponta-analise-da-cnn/",
+          "publishedOn": "2026-07-25T19:53:22.000Z",
+          "wordCount": 3184,
+          "title": "EUA registram queda histórica de 67 pontos no apoio a Israel, aponta análise da CNN",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bandeiras.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261243",
+          "author": "Victor Farinelli",
+          "description": "O presidente Lula afirmou neste sábado (25/07) que o Brasil não aceitará ingerências estrangeiras no processo eleitoral, dando um recado direto a autoridades de outros países. A fala ocorreu depois de o jornal Washington Post revelar que dois altos funcionários dos Estados Unidos planejavam viajar ao Brasil para questionar a credibilidade do sistema eleitoral brasileiro. […]\nO post Lula reage a missão dos EUA e diz que quem tentar interferir nas eleições brasileiras ‘vai apanhar muito’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-reage-missao-dos-eua-e-diz-que-quem-tentar-interferir-nas-eleicoes-brasileiras-vai-apanhar-muito/",
+          "publishedOn": "2026-07-25T18:21:56.000Z",
+          "wordCount": 3247,
+          "title": "Lula reage a missão dos EUA e diz que quem tentar interferir nas eleições brasileiras ‘vai apanhar muito’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261229",
+          "author": "Tatiana Carlotti",
+          "description": "Em O Lado de Lá (Bazar do Tempo, 2026), a escritora argentina e brasileira Paloma Vidal retoma o tema das desigualdades sociais, mas abandona o registro autobiográfico que caracteriza sua literatura, rompendo as fronteiras do real para libertar a crítica social e o ódio contra a violência de gênero. “Nós somos reféns disso”, afirma. O […]\nO post Paloma Vidal inova em romance sobre exclusão social e violência de gênero apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-entrevista/paloma-vidal-inova-em-romance-sobre-exclusao-social-e-violencia-de-genero/",
+          "publishedOn": "2026-07-25T18:05:58.000Z",
+          "wordCount": 8208,
+          "title": "Paloma Vidal inova em romance sobre exclusão social e violência de gênero",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/paloma-vidal-reproducao.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261227",
           "author": "Victor Farinelli",
-          "description": "Os protestos liderados pelo chamado “Movimento das Baratas” chegaram ao fim neste sábado (25/07), após o governo da Índia informar sobre a renúncia do ministro da Educação, Dharmendra Pradhan, principal alvo das manifestações que mobilizaram milhares de estudantes nos últimos dois meses. O anúncio foi feito poucas horas depois de uma nova rodada de negociações […]\nO post Índia cede ao ‘Movimento das Baratas’ e aceita anuncia de ministro da Educação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/india-cede-ao-movimento-das-baratas-e-aceita-anuncia-de-ministro-da-educacao/",
+          "description": "Os protestos liderados pelo chamado “Movimento das Baratas” chegaram ao fim neste sábado (25/07), após o governo da Índia informar sobre a renúncia do ministro da Educação, Dharmendra Pradhan, principal alvo das manifestações que mobilizaram milhares de estudantes nos últimos dois meses. O anúncio foi feito poucas horas depois de uma nova rodada de negociações […]\nO post Índia cede ao ‘Movimento das Baratas’ e aceita renúncia de ministro da Educação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/india-cede-ao-movimento-das-baratas-e-aceita-renuncia-de-ministro-da-educacao/",
           "publishedOn": "2026-07-25T16:54:28.000Z",
-          "wordCount": 3367,
-          "title": "Índia cede ao ‘Movimento das Baratas’ e aceita anuncia de ministro da Educação",
+          "wordCount": 3369,
+          "title": "Índia cede ao ‘Movimento das Baratas’ e aceita renúncia de ministro da Educação",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ani.jpg"
         },
         {
@@ -573,7 +643,7 @@
           "description": "O governo de Donald Trump planeja enviar a Brasília, dentro de uma semana, dois altos funcionários do Departamento de Estado com a missão de questionar a segurança do sistema eleitoral brasileiro. A informação foi revelada em matéria publicada neste sábado (25/07) pelo diário norte-americano Washington Post, com base em quatro fontes estadunidenses e brasileiras que […]\nO post EUA planejam enviar representantes ao Brasil para questionar sistema eleitoral, revela jornal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/eua-planejam-enviar-representantes-ao-brasil-para-questionar-sistema-eleitoral-revela-jornal/",
           "publishedOn": "2026-07-25T16:00:01.000Z",
-          "wordCount": 3145,
+          "wordCount": 3160,
           "title": "EUA planejam enviar representantes ao Brasil para questionar sistema eleitoral, revela jornal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/urna.jpg"
         },
@@ -583,7 +653,7 @@
           "description": "Você certamente já ouviu falar em terras raras. O nome parece distante, quase coisa de laboratório ou de mineração pesada, mas elas estão muito mais perto da nossa vida cotidiana do que a gente imagina. Esses minerais estão em tecnologias que usamos todos os dias: celulares, computadores, telas, fones de ouvido, carros elétricos, turbinas eólicas, […]\nO post Terras raras: o que a China ensina sobre transformar minério em tecnologia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/terras-raras-o-que-a-china-ensina-sobre-transformar-minerio-em-tecnologia/",
           "publishedOn": "2026-07-25T15:20:31.000Z",
-          "wordCount": 4669,
+          "wordCount": 4671,
           "title": "Terras raras: o que a China ensina sobre transformar minério em tecnologia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/rareearthoxides.jpg"
         },
@@ -593,7 +663,7 @@
           "description": "A tensão entre a Arábia Saudita e os houthis do Iêmen se intensificou nas últimas 24 horas, com uma sequência de ataques que começou na sexta-feira (24/07) e se estendeu pela madrugada deste sábado (25/07). O grupo iemenita atacou instalações da Saudi Aramco, a maior petrolífera do mundo, horas depois de a Arábia Saudita bombardear […]\nO post Houthis lançam ofensiva contra refinaria da Arábia Saudita apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/houthis-lancam-ofensiva-contra-refinaria-da-arabia-saudita/",
           "publishedOn": "2026-07-25T14:37:32.000Z",
-          "wordCount": 2985,
+          "wordCount": 2987,
           "title": "Houthis lançam ofensiva contra refinaria da Arábia Saudita",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/naya.jpg"
         },
@@ -603,59 +673,9 @@
           "description": "Organizações políticas e movimentos populares realizaram um ato na tarde desta sexta-feira (24/07) na Praça Bolívar, em Caracas, contra a interferência dos Estados Unidos e a presença de funcionários de Israel no país após o duplo terremoto que atingiu o centro-norte do país no dia 24 de junho. A mobilização ocorreu durante o feriado nacional […]\nO post Venezuelanos protestam contra presença de Israel e dos EUA no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/venezuelanos-protestam-contra-presenca-de-israel-e-dos-eua-no-pais/",
           "publishedOn": "2026-07-25T14:18:19.000Z",
-          "wordCount": 4394,
+          "wordCount": 4403,
           "title": "Venezuelanos protestam contra presença de Israel e dos EUA no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/caracas.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261214",
-          "author": "Victor Farinelli",
-          "description": "Em uma publicação realizada em la plataforma X, nesta sexta-feira (24/07), o ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, afirmou que apresentará ao Exército do seu país uma ordem para demolir casas na Cisjordânia pertencentes a palestinos acusados de envolvimento em supostos ataques contra israelenses. “Para cada judeu morto, o inimigo deve pagar com […]\nO post Ministro israelense defende política de demolição de casas de palestinos na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/ministro-israelense-defende-politica-de-demolicao-de-casas-de-palestinos-na-cisjordania/",
-          "publishedOn": "2026-07-25T13:21:04.000Z",
-          "wordCount": 3199,
-          "title": "Ministro israelense defende política de demolição de casas de palestinos na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ben.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261207",
-          "author": "Raissa Neves",
-          "description": "O projeto de lei (PL) 4.675/2025, que busca estabelecer a  “Lei de Mercados Digitais” no Brasil, entrou no radar de  deputados republicanos dos Estados Unidos. Em carta enviada à Casa Branca, eles solicitaram que o governo de Donald Trump avalie a tramitação da proposta e trate o tema com prioridade nas negociações comerciais entre os […]\nO post Republicanos pressionam Trump a reagir contra projeto brasileiro que regula big techs apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/republicanos-pressionam-trump-a-reagir-contra-projeto-brasileiro-que-regula-big-techs/",
-          "publishedOn": "2026-07-24T21:53:57.000Z",
-          "wordCount": 3320,
-          "title": "Republicanos pressionam Trump a reagir contra projeto brasileiro que regula big techs",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/55415842381_4e286915c5_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261206",
-          "author": "Victor Farinelli",
-          "description": "A Arábia Saudita iniciou uma onda de ataques aéreos contra a cidade de Hodeida, no Iêmen, controlada pelos Houthis. A informação foi publicada pela emissora Al Jazeera, do Catar, baseada em notas divulgada por veículos de comunicação ligados ao grupo iemenita, que controla grande parte do território do país. Segundo essas fontes, alvos civis na […]\nO post Houthis denunciam ataque da Arábia Saudita contra cidade do Iêmen, diz emissora apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/houthis-denunciam-ataque-da-arabia-saudita-contra-cidade-do-iemen-diz-emissora/",
-          "publishedOn": "2026-07-24T21:36:40.000Z",
-          "wordCount": 2810,
-          "title": "Houthis denunciam ataque da Arábia Saudita contra cidade do Iêmen, diz emissora",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/saree.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261184",
-          "author": "Raissa Neves",
-          "description": "A Forças de Defesa de Israel (IDF) violaram o cessar-fogo e atacaram, na manhã desta sexta-feira (24/07), a vila de al-Mansouri, no sul do Líbano. As tropas também realizaram explosões na vizinha Majdal Zoun, de acordo com a Agência Nacional de Notícias do Líbano (NNA). Segundo relatos locais divulgados pela agência, a explosão em Majdal […]\nO post Israel viola acordo mediado pelos EUA e volta a bombardear sul do Líbano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-viola-acordo-mediado-pelos-eua-e-volta-a-bombardear-sul-do-libano/",
-          "publishedOn": "2026-07-24T21:20:28.000Z",
-          "wordCount": 3203,
-          "title": "Israel viola acordo mediado pelos EUA e volta a bombardear sul do Líbano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ahmad-bader-zq0u2fkdv1a-unsplash-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261199",
-          "author": "Victor Farinelli",
-          "description": "Em comunicado emitido nesta sexta-feira (24/07), o ministro das Relações Exteriores da Venezuela, Félix Plasencia, anunciou que o país iniciará o processo de retirada do Tribunal Penal Internacional (TPI). A medida corrobora um projeto aprovado em dezembro passado pela Assembleia Nacional venezuelana que revoga a adesão do país ao Estatuto de Roma, documento fundacional e […]\nO post Venezuela anuncia saída formal do Tribunal Penal Internacional: ‘viés geográfico comprovado’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuela-anuncia-saida-formal-do-tribunal-penal-internacional-vies-geografico-comprovado/",
-          "publishedOn": "2026-07-24T20:51:08.000Z",
-          "wordCount": 2995,
-          "title": "Venezuela anuncia saída formal do Tribunal Penal Internacional: ‘viés geográfico comprovado’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/tpi.jpg"
         }
       ]
     },
@@ -681,6 +701,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=230340",
+          "author": "Rosana Bond",
+          "description": "A crise criada pelo capitalismo (LHG/J&F) em Porto Esperança é uma carga tóxica de poeira que toma conta de ruas e casas e vem se juntar ao quadro de destruição previsto desde 2022 para o Pantanal todo.",
+          "link": "https://anovademocracia.com.br/mineradora-batista-contamina-pantanal-4/",
+          "publishedOn": "2026-07-25T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Mineradora dos irmãos Batista contamina Pantanal, adoece moradores e os expulsa (parte 4)",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=230346",
           "author": "Giovanna Maria",
@@ -774,16 +804,6 @@
             "length": "61731301",
             "type": "video/mp4"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230260",
-          "author": "Redação de AND",
-          "description": "No 1.020º dia desde o Dilúvio de Al-Aqsa, morreu em Beirute, aos 78 anos, Kōzō Okamoto – conhecido entre os palestinos como Ahmad al-Yabani, “Ahmad, o Japonês” –, combatente internacionalista que dedicou mais de cinco décadas à causa palestina e participou da operação realizada pelo Exército Vermelho Japonês e pela FPLP no Aeroporto de Al-Lydd, em 1972. O Irã anunciou a destruição de uma unidade de guerra eletrônica do EUA no Kuwait, enquanto frações da Resistência atingiram o comando terrestre ianque responsável pelo ataque contra civis na fronteira iraniano-iraquiana. No Mar Vermelho, Sanaa manteve o bloqueio à Arábia Saudita após Riad confirmar que um de seus petroleiros foi atingido. Em Al-Quds ocupada, 3.228 colonos, liderados por ministros sionistas, invadiram a Mesquita de Al-Aqsa.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-23-07-2026/",
-          "publishedOn": "2026-07-24T02:09:38.000Z",
-          "wordCount": null,
-          "title": "Plantão Palestina (23/07): ‘Jamais cedeu nem vacilou’: falece Kōzō ‘al-Yabani’ Okamoto, grande combatente internacionalista da Resistência Palestina",
           "imageUrl": null
         }
       ]
@@ -980,7 +1000,7 @@
           "description": "Lincoln Secco: \"Ao abrir-se tardia e incompletamente para as filhas da classe trabalhadora, a USP desencadeou processos que nem a coerção administrativa, nem o apelo à repressão policial poderão conter. Vai soar a hora de reconhecermos que anualmente estudantes que trabalham na universidade e vivem de auxílios indispensáveis ao estudo demandarão reajustes. Para trabalho (reconhecido ou não) é preciso que haja salário de verdade e digno.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/24/as-greves-de-2026-na-usp-e-a-irrupcao-do-proletariado-estudantil/",
           "publishedOn": "2026-07-24T11:00:00.000Z",
-          "wordCount": 12096,
+          "wordCount": 12097,
           "title": "As greves de 2026 na USP e a irrupção do proletariado estudantil",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/06/image-4.png"
         },
@@ -1010,7 +1030,7 @@
           "description": "O PIX é um avanço civilizacional, um serviço de utilidade pública que possibilita reduzir custos e distâncias, facilitar o trabalho de pequenos produtores, autônomos e empresários, agilizar processos, num mundo moderno permeado pela quase essencialidade de serviços digitais, tornando-se então um avanço em termos de serviços essenciais ao cidadão brasileiro.",
           "link": "https://blogdaboitempo.com.br/2026/07/21/hegemonia-imperialista-em-crise-tarifaco-e-a-ameaca-do-pix/",
           "publishedOn": "2026-07-21T19:40:59.000Z",
-          "wordCount": 14054,
+          "wordCount": 14202,
           "title": "Hegemonia imperialista em crise, tarifaço e a ameaça do PIX",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/pexels-pavel-danilyuk-6812431.jpg?fit=1200%2C801&ssl=1"
         },
