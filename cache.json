@@ -230,6 +230,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Sindicatos-e-dirigentes-dos-trabalhadores-denunciam-as-privatizacoes-de-Tarcisio-e-chamam-as",
+          "author": "Redação",
+          "description": "O caos que tomou conta das linhas 11, 12 e 13 do sistema ferroviário de São Paulo essa semana com diversas falhas nos dois primeiros dias de operação da Trivia Trens e o grave acidente com um trem pegando fogo enquanto passageiros desesperados inalando fumaça buscavam sair, sendo obrigados a andar na via, centenas de trabalhadores que não conseguiram chegar no trabalho ou que demoraram horas para voltar pra casa após trabalharem a noite inteira é o mais recente retrato da política privatista (…)\n25-07-2026\n\n/ Classe trabalhadora, Política, Metrô, Centrais Sindicais, Greve da CPTM, Sindicatos, Tarcísio de Freitas, Privatizações, CPTM, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Sindicatos-e-dirigentes-dos-trabalhadores-denunciam-as-privatizacoes-de-Tarcisio-e-chamam-as",
+          "publishedOn": "2026-07-27T20:41:32.000Z",
+          "wordCount": null,
+          "title": "Sindicatos e dirigentes dos trabalhadores denunciam as privatizações de Tarcísio e chamam as centrais sindicais a mobilizar pela reestatização",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Flip-Silencio-e-teimosia",
           "author": "Iuri Tonelo",
           "description": "Comentário sobre as entrevistas de Marta Pérez-Carbonell, Katie Kitamura e Ana Paula Tavares na Flip\nMatérias\n\n/ Cultura, Paraty",
@@ -364,7 +374,12 @@
           "publishedOn": "2026-07-25T10:00:00.000Z",
           "wordCount": null,
           "title": "O ‘green card’ de Eduardo Bolsonaro é o prêmio máximo por seu capachismo aos EUA",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/07/wide.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/07/wide.png"
         },
         {
           "id": "https://www.intercept.com.br/?p=444303",
@@ -446,6 +461,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74169",
+          "author": "Mondoweiss",
+          "description": "m dezembro de 2023, o ex-funcionário do Departamento de Estado, Josh Paul, disse à âncora da CNN, Christiane Amanpour, que, durante seu mandato no serviço diplomático, tomou conhecimento do estupro de um menino de 13 anos por oficiais israelenses enquanto ele estava em cativeiro. Em resposta a questionamentos dos EUA, o governo israelense classificou a […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/27/como-israel-tem-usado-a-violencia-sexual-como-arma-do-colonialismo-de-1948-ate-hoje/",
+          "publishedOn": "2026-07-27T20:32:18.000Z",
+          "wordCount": 3550,
+          "title": "Como Israel tem usado a violência sexual como arma do colonialismo de 1948 até hoje",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/israel-1.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74165",
           "author": "Globetrotter",
           "description": "história da guerra mostra que os conflitos terminam ou com uma vitória clara de um dos lados ou por meio de negociações, quando ambos enfrentam o esgotamento dos recursos e da vontade de continuar sacrificando vidas. Há também uma terceira via: o fim silencioso das hostilidades, o estabelecimento de uma “paz fria” e o congelamento […]",
@@ -483,12 +508,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261420",
+          "author": "Raissa Neves",
+          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (27/07) que Washington poderá retomar uma forte ação militar contra o Irã caso as negociações entre os dois países não avancem. Em entrevista ao site norte-americano Axios, o republicano disse que as conversas estão em andamento, mas ressaltou que o tempo para uma solução diplomática […]\nO post Trump ameaça retomar ataques ao Irã caso negociações fracassem apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-retomar-ataques-ao-ira-caso-negociacoes-fracassem/",
+          "publishedOn": "2026-07-27T21:00:06.000Z",
+          "wordCount": 3254,
+          "title": "Trump ameaça retomar ataques ao Irã caso negociações fracassem",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/55423539070_4ab7d5db40_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261418",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente da Argentina, Javier Milei, se tornou alvo de uma denúncia por malversação de fundos públicos e descumprimento dos deveres da função, após utilizar o avião oficial e recursos do Estado para participar da convenção em São Paulo que oficializou a candidatura do senador Flávio Bolsonaro (PL) à Presidência do Brasil. A ação, apresentada […]\nO post Milei é denunciado por usar recursos públicos em viagem ao Brasil para apoiar Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/milei-e-denunciado-por-usar-recursos-publicos-em-viagem-ao-brasil-para-apoiar-flavio-bolsonaro/",
+          "publishedOn": "2026-07-27T20:20:25.000Z",
+          "wordCount": 3237,
+          "title": "Milei é denunciado por usar recursos públicos em viagem ao Brasil para apoiar Flávio Bolsonaro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/milei.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261414",
+          "author": "Raissa Neves",
+          "description": "Uma declaração recente do presidente Lula está causando alvoroço no Paraguai. Na última sexta-feira, dia 24 de julho, durante uma visita à fábrica da Avibras, Lula evocou um episódio da Guerra do Paraguai para justificar maiores investimentos em defesa. “Nós gostamos da paz, mas não podemos esquecer que, certa vez, o Paraguai decidiu invadir o […]\nO post El Cristiano: o troféu de guerra que o Paraguai quer de volta apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/el-cristiano-o-trofeu-de-guerra-que-o-paraguai-quer-de-volta/",
+          "publishedOn": "2026-07-27T19:40:48.000Z",
+          "wordCount": 4675,
+          "title": "El Cristiano: o troféu de guerra que o Paraguai quer de volta",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/canhao_el_cristiano.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261409",
+          "author": "Victor Farinelli",
+          "description": "O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, afirmou nesta segunda-feira (27/07) que é baixo o risco de disseminação do vírus ebola da República Democrática do Congo para o resto do mundo. Um surto da doença assola o país africano há alguns meses. Mais de 3 mil casos da doença foram confirmados […]\nO post Risco de disseminação do ebola pelo mundo é baixo, diz diretor da OMS apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/risco-de-disseminacao-do-ebola-pelo-mundo-e-baixo-diz-diretor-da-oms/",
+          "publishedOn": "2026-07-27T19:00:28.000Z",
+          "wordCount": 3433,
+          "title": "Risco de disseminação do ebola pelo mundo é baixo, diz diretor da OMS",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/tedros.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261405",
+          "author": "Raissa Neves",
+          "description": "O presidente eleito da Colômbia, Abelardo de la Espriella, anunciou, no último domingo (26/07), que vai romper relações diplomáticas com Cuba e Nicarágua. Ele também comunicou o fechamento de 14 embaixadas e 15 consulados a partir do próximo dia 7, quando vai suceder Gustavo Petro no cargo máximo do país. “Em meu governo não haverá vínculo algum […]\nO post De la Espriella anuncia corte de relações da Colômbia com Cuba e Nicarágua apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/de-la-espriella-anuncia-corte-de-relacoes-da-colombia-com-cuba-e-nicaragua/",
+          "publishedOn": "2026-07-27T18:09:59.000Z",
+          "wordCount": 3186,
+          "title": "De la Espriella anuncia corte de relações da Colômbia com Cuba e Nicarágua",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/de-la-espriella-colombia-x-1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261383",
           "author": "Tabitha Ramalho",
           "description": "O presidente russo, Vladimir Putin, declarou nesta segunda-feira (27/07) que seu país resistirá a qualquer tentativa dos países ocidentais de subjugá-lo. “Há muito tempo que enfrentamos restrições ilegais, tentativas de contenção e pressão”, observou o chefe de Estado, indicando que se intensificou em 2022, quando o Ocidente “colocou a máquina russófoba em pleno funcionamento”. Ao […]\nO post Putin denuncia ‘pressão econômica’ do Ocidente contra Rússia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/putin-denuncia-pressao-economica-do-ocidente-contra-russia/",
           "publishedOn": "2026-07-27T17:10:26.000Z",
-          "wordCount": 3020,
+          "wordCount": 3016,
           "title": "Putin denuncia ‘pressão econômica’ do Ocidente contra Rússia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1481845.jpg"
         },
@@ -498,7 +573,7 @@
           "description": "De acordo com uma pesquisa do Kan 11, o partido Likud, do primeiro-ministro de extrema direita Benjamin Netanyahu, teria recuperado sua posição como o maior partido de Israel, ultrapassando o Yashar, do ex-chefe do Estado-Maior Gadi Eisenkot, depois de ter ficado atrás dele na pesquisa anterior. O Likud conquistaria 22 cadeiras, uma a mais do […]\nO post Partido de Netanyahu volta à liderança em pesquisa e pode recuperar maioria no Parlamento apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/partido-de-netanyahu-volta-a-lideranca-em-pesquisa-e-pode-recuperar-maioria-no-parlamento/",
           "publishedOn": "2026-07-27T16:30:21.000Z",
-          "wordCount": 3048,
+          "wordCount": 3044,
           "title": "Partido de Netanyahu volta à liderança em pesquisa e pode recuperar maioria no Parlamento",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmzqsmixqae1sgg.jpg"
         },
@@ -508,7 +583,7 @@
           "description": "A Casa Rosada não pretende pedir desculpas ao presidente Luiz Inácio Lula da Silva, após os insultos do mandatário argentino, Javier Milei, que xingou o homólogo brasileiro de “ladrão”, “presidiário” e “esquerdista” durante a convenção do Partido Liberal (PL), no último sábado (25/07) em São Paulo. A informação é do La Nación, em reportagem publicada […]\nO post Argentina descarta pedido de desculpas a Lula por falas de Milei, diz jornal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/argentina-descarta-pedido-de-desculpas-a-lula-por-falas-de-milei-diz-jornal/",
           "publishedOn": "2026-07-27T15:40:07.000Z",
-          "wordCount": 3488,
+          "wordCount": 3480,
           "title": "Argentina descarta pedido de desculpas a Lula por falas de Milei, diz jornal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/54360588236_38f658d264_c.webp"
         },
@@ -518,7 +593,7 @@
           "description": "O número de militares dos Estados Unidos feridos, desde o início da guerra contra o Irã, chegou a 624, segundo uma atualização do banco de dados do Pentágono, que acrescentou mais de 140 casos ao balanço e incluiu as quatro baixas, que tinham sumido do sistema, totalizando 18 mortes. Os novos números foram atualizados no […]\nO post Número de militares dos EUA feridos em guerra contra Irã ultrapassa 600; 18 foram mortos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/numero-de-militares-dos-eua-feridos-em-guerra-contra-ira-ultrapassa-600-18-foram-mortos/",
           "publishedOn": "2026-07-27T15:00:21.000Z",
-          "wordCount": 3188,
+          "wordCount": 3187,
           "title": "Número de militares dos EUA feridos em guerra contra Irã ultrapassa 600; 18 foram mortos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/soldados-eua-mortos-whitwe-house.jpg"
         },
@@ -528,59 +603,9 @@
           "description": "A Venezuela ainda tenta se recuperar da tragédia causada pelos dois terremotos que atingiram as regiões de La Guaira e Caracas, no norte do país, há um mês, em 24 de junho. Os primeiros relatos da imprensa sobre os dois terremotos, de magnitude 7,2 e 7,5 na escala Richter, com apenas 39 segundos de intervalo, […]\nO post Um mês após terremotos na Venezuela, recuperação enfrenta obstáculos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/um-mes-apos-terremotos-na-venezuela-recuperacao-enfrenta-obstaculos-com-milhares-de-mortos-e-desaparecidos/",
           "publishedOn": "2026-07-27T14:20:39.000Z",
-          "wordCount": 3726,
+          "wordCount": 3718,
           "title": "Um mês após terremotos na Venezuela, recuperação enfrenta obstáculos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/venezuelan-rescue-workers-la-guaira-earthquake.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261348",
-          "author": "Tabitha Ramalho",
-          "description": "O governo da República Democrática do Congo (RDC) elevou nesta segunda-feira (27/07) para 1.405 o número de mortos e para 3.200 o total de casos confirmados de ebola desde o início do surto da doença no fim de abril. Com isso, a taxa de letalidade está em 43,9%, segundo o último boletim do Ministério da […]\nO post República Democrática do Congo tem mais de mil novos casos de ebola em dez dias apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/republica-democratica-do-congo-tem-mais-de-mil-novos-casos-de-ebola-em-dez-dias/",
-          "publishedOn": "2026-07-27T13:40:57.000Z",
-          "wordCount": 3585,
-          "title": "República Democrática do Congo tem mais de mil novos casos de ebola em dez dias",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/78088384_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261355",
-          "author": "Tabitha Ramalho",
-          "description": "Uma marcha e um evento de solidariedade reuniram milhares de pessoas na Cidade do México neste domingo (26/07), durante um dia de comemoração do 73º aniversário do ataque aos quartéis Moncada e Céspedes, que em 1953 iniciou o caminho para a Revolução de 1959, na qual se manifestou a crescente rejeição internacional ao bloqueio dos […]\nO post Mexicanos vão às ruas contra bloqueio a Cuba: ‘escalada genocida de Trump’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/mexicanos-vao-as-ruas-contra-bloqueio-a-cuba-escalada-genocida-de-trump/",
-          "publishedOn": "2026-07-27T13:28:10.000Z",
-          "wordCount": 4445,
-          "title": "Mexicanos vão às ruas contra bloqueio a Cuba: ‘escalada genocida de Trump’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/marcha-cuba-mexico-26jul-5-embaj-1536x864.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261347",
-          "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, embarcou nesta segunda-feira (27/07) para os Estados Unidos, onde se reunirá com o presidente norte-americano, Donald Trump, em Washington, nesta terça-feira (28/07). O premiê israelense confirmou, em entrevista à emissora norte-americana Fox News, neste domingo (26/07), que pretende comparecer à Assembleia Geral das Nações Unidas, em Nova York. Netanyahu […]\nO post Após Netanyahu confirmar participação em Assembleia Geral, forças israelenses invadem instalações da ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/apos-netanyahu-confirmar-participacao-em-assembleia-geral-forcas-israelenses-invadem-instalacoes-da-onu/",
-          "publishedOn": "2026-07-27T13:06:23.000Z",
-          "wordCount": 3094,
-          "title": "Após Netanyahu confirmar participação em Assembleia Geral, forças israelenses invadem instalações da ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmuh-w9wyaau1ir.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261330",
-          "author": "Tatiana Carlotti",
-          "description": "O Irã afirmou que as negociações com os Estados Unidos não foram retomadas, após a interrupção dos ataques norte-americanos nesta segunda-feira (27/07). Em declarações a jornalistas em Teerã, o porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, enfatizou que não houve pedidos por parte do país, salientando que Washington encontra-se preso na situação que […]\nO post Irã desmente negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-desmente-negociacoes-com-eua-e-reitera-estreito-de-ormuz-esta-fechado/",
-          "publishedOn": "2026-07-27T10:34:53.000Z",
-          "wordCount": 4006,
-          "title": "Irã desmente negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/irna-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261323",
-          "author": "Tatiana Carlotti",
-          "description": "O peronismo argentino, representado pelo governador Axel Kicillof, pelo Partido Justicialista (PJ), por La Cámpora e pela Frente Renovadora, uniu-se em defesa do presidente brasileiro Luiz Inácio Lula da Silva, após as ofensas proferidas pelo presidente Javier Milei durante o lançamento da campanha presidencial de Flávio Bolsonaro no último sábado (25/07), em São Paulo, onde […]\nO post Líderes peronistas defendem Lula contra insultos de Milei: ‘respeitamos nossos vizinhos’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/lideres-peronistas-defendem-lula-contra-insultos-de-milei-respeitamos-nossos-vizinhos/",
-          "publishedOn": "2026-07-27T10:05:10.000Z",
-          "wordCount": 3638,
-          "title": "Líderes peronistas defendem Lula contra insultos de Milei: ‘respeitamos nossos vizinhos’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hok1m8cwmaa3k2x.jpg"
         }
       ]
     },
@@ -595,6 +620,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=230382",
+          "author": "Giovanna Maria",
+          "description": "O Grupo de Solidariedade ao Povo Venezuelano percorre bairros de Dois Vizinhos em campanha porta a porta para arrecadar donativos às vítimas do terremoto. A mobilização se apoia no trabalho de base construído pelo coletivo, que recentemente celebrou um ano do grupo de capoeira Manduco Dandara.",
+          "link": "https://anovademocracia.com.br/pr-grupo-de-solidariedade-ao-povo-venezuelano-vai-de-casa-em-casa-arrecadar-doacoes-para-vitimas-do-terremoto/",
+          "publishedOn": "2026-07-27T17:52:10.000Z",
+          "wordCount": null,
+          "title": "PR: Grupo de Solidariedade ao Povo Venezuelano vai de casa em casa arrecadar doações para vítimas do terremoto",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=230377",
           "author": "Redação de AND",
@@ -684,16 +719,6 @@
           "wordCount": null,
           "title": "‘Aqui há uma verdadeira guerra camponesa pela terra’: AND e Pitillo discutem por que o Brasil é a ‘joia da coroa’ da intervenção ianque na América Latina",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230327",
-          "author": "Redação de AND",
-          "description": "A Câmara Americana de Comércio para o Brasil divulgou que a sanção afeta cerca de 3 mil produtos nacionais e atinge um volume de 12,5 bilhões de dólares em vendas anuais para o EUA",
-          "link": "https://anovademocracia.com.br/eua-sancoes-brasileiros-trabalho-forcado/",
-          "publishedOn": "2026-07-24T21:43:32.000Z",
-          "wordCount": null,
-          "title": "EUA eleva sanções a 37,5% contra produtos brasileiros; justificativa é ‘trabalho forçado’",
-          "imageUrl": null
         }
       ]
     },
@@ -750,6 +775,56 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3191894",
+          "author": "Chico Cavalcante",
+          "description": "Cresce a descrença de jovens em partidos e revolta é capturada por discursos “anti-sistema” cínicos. Enfrentar a desesperança exige novas formas de participação – e recolocar o foco da política na luta contra o sistema econômico que multiplica injustiças\nThe post Brasil: contra os moinhos de vento da política appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/brasil-contra-os-moinhos-de-vento-da-politica/",
+          "publishedOn": "2026-07-27T21:12:30.000Z",
+          "wordCount": null,
+          "title": "Brasil: contra os moinhos de vento da política",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3191913",
+          "author": "Daniel Negreiros Conceição",
+          "description": "Um caso de como o lawfare pode ameaçar Universidades e perseguir funcionários. É razoável que pessoas inocentes vivam um pesadelo de quase duas décadas provocado por um erro evidente? Um julgamento nos próximos dias responderá se haverá reparação\nThe post Justiça para servidores da UFRJ e suas famílias appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direitosouprivilegios/justica-para-servidores-da-ufrj-e-suas-familias/",
+          "publishedOn": "2026-07-27T20:56:14.000Z",
+          "wordCount": null,
+          "title": "Justiça para servidores da UFRJ e suas famílias",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3191889",
+          "author": "Thiago Gama",
+          "description": "Crítica de arte especializada em obras distópicas traça panorama do gênero no país. Novas éticas e estéticas – como o Amazofuturismo – emergem a partir dos territórios. Suscitam caminhos para reimaginar o amanhã, sem ceder ao realismo capitalista\nThe post Ficção científica: O Brasil encara seu presente appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/ficcao-cientifica-o-brasil-encara-seu-presente/",
+          "publishedOn": "2026-07-27T20:12:07.000Z",
+          "wordCount": null,
+          "title": "Ficção científica: O Brasil encara seu presente",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3191891",
+          "author": "Roberto Amaral",
+          "description": "Uma linha do tempo dos principais marcos da influência ideológica dos EUA no país até o novo tarifaço de hoje. A tentativa de amizade, em meio ao big stick. A influência nos oficiais, a partir de 1930. O intervencionismo direto. E a alienação das elites, inabalável\nThe post Entre porretes e tarifas, a soberania cerceada appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/entre-porretes-e-tarifas-a-soberania-cerceada/",
+          "publishedOn": "2026-07-27T19:57:14.000Z",
+          "wordCount": null,
+          "title": "Entre porretes e tarifas, a soberania cerceada",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3191884",
+          "author": "Marcio Pochmann",
+          "description": "A Pax Silica se apresenta como um clube liderado por Washington contra a influência chinesa. Já a WAICO, impulsionada por Beijing, oferece acesso à tecnologia. Erro brasileiro seria só olhar a superfície deste dilema, pois já tem um ponto de partida para projetar autonomia \nThe post IA: EUA, China e a escolha do Brasil appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-eua-china-e-a-escolha-do-brasil/",
+          "publishedOn": "2026-07-27T19:50:26.000Z",
+          "wordCount": null,
+          "title": "IA: EUA, China e a escolha do Brasil",
+          "imageUrl": null
+        },
+        {
           "id": "https://outraspalavras.net/?p=3191738",
           "author": "Euler de Carvalho Cruz",
           "description": "Em busca de mais lucros, elas desenvolvem máquinas que se aperfeiçoam sozinhas de forma imprevisível, sem controle humano. Anthropic reconhece risco. Como podem impactar guerras e infraestruturas? É hora de “pausa global” neste frenesi?\nThe post A insensatez das corporações na corrida das IAs appeared first on Outras Palavras.",
@@ -797,56 +872,6 @@
           "publishedOn": "2026-07-24T17:19:29.000Z",
           "wordCount": null,
           "title": "O tarifaço e a hora do Brasil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191620",
-          "author": "Douglas Rushkoff",
-          "description": "Reflexões após uma viagem lisérgica de “morte do ego”. Hoje, o medo da finitude exacerba – e magnatas da tecnologia já fantasiam com fórmulas para a vida eterna. Conciliar-nos com o fato de que há um fim pode ser ingrediente para sentir e agir de fato, inclusive coletivamente… \nThe post Crônica: Aprender a morrer, uma questão política appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/cronica-aprender-a-morrer-uma-questao-politica/",
-          "publishedOn": "2026-07-24T16:06:31.000Z",
-          "wordCount": null,
-          "title": "Crônica: Aprender a morrer, uma questão política",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191546",
-          "author": "Everaldo de Oliveira Andrade",
-          "description": "Intelectual pernambucano foi grande voz do internacionalismo no Brasil. Liderou a resistência ao fascismo na década de 30. Militante trotskista, auxiliou prisioneiros políticos na ditadura. E defendeu a arte como “exercício experimental da liberdade”\nThe post O marxismo, a arte e o Brasil de Mário Pedrosa appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/o-marxismo-a-arte-e-o-brasil-de-mario-pedrosa/",
-          "publishedOn": "2026-07-23T22:11:57.000Z",
-          "wordCount": null,
-          "title": "O marxismo, a arte e o Brasil de Mário Pedrosa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191561",
-          "author": "Pedro Marin",
-          "description": "Novo livro desvela os meandros da aliança militar do Ocidente. Sua estrutura opaca que blinda o intervencionismo dos EUA. Como tornou-se megacartel da indústria bélica. A nova fase de brutalidade, a partir dos anos 2000. E os planos no Sul global\nThe post Otan: Assim age o clube dos senhores da guerra appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/otan-como-opera-o-clube-dos-senhores-da-guerra/",
-          "publishedOn": "2026-07-23T21:21:15.000Z",
-          "wordCount": null,
-          "title": "Otan: Assim age o clube dos senhores da guerra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191540",
-          "author": "Luiz César Silva",
-          "description": "A crise de 2008 não foi um evento isolado, e repercute até hoje. Revela um ciclo econômico difícil de regenerar-se. Um Estado social forte poderia ser antídoto, mas sequer é cogitado. Superar este cenário demandará mais que meros ajustes econômicos: é resgatar o controle da riqueza\nThe post Assim avança a grande recessão global appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/assim-avanca-grande-recessao-global/",
-          "publishedOn": "2026-07-23T19:40:59.000Z",
-          "wordCount": null,
-          "title": "Assim avança a grande recessão global",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191605",
-          "author": "Johnatan Fuentes",
-          "description": "Análise dos rumos do país, após a vitória de Keiko Fujimori. Empresariado e grande mídia sustentam seu projeto. Oposição digladia-se no Congresso, onde novo governo tem apoio coeso. Mas há grave crise de representatividade e a esquerda ainda mantém grande base popular\nThe post O fujimorismo retorna ao Peru. E agora? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/o-fujimorismo-retorna-ao-peru-e-agora/",
-          "publishedOn": "2026-07-23T19:20:51.000Z",
-          "wordCount": null,
-          "title": "O fujimorismo retorna ao Peru. E agora?",
           "imageUrl": null
         }
       ]
