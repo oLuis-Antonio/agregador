@@ -58,167 +58,30 @@
       ]
     },
     {
-      "title": "Opinião Socialista",
-      "feedUrl": "https://www.opiniaosocialista.com.br/feed",
-      "siteUrl": "https://opiniaosocialista.com.br/",
-      "articles": [
-        {
-          "id": "6a66996ed3cef40358951690",
-          "author": "Diego Cruz",
-          "description": "Estamos assistindo a um lento derretimento da candidatura de Flávio Bolsonaro. Algo que mostra, mais do que uma crise e fragmentação da extrema direita, a resiliência de uma candidatura que, após sucessivos escândalos de corrupção, em",
-          "link": "https://opiniaosocialista.com.br/renan-santos-e-o-partido-missao-o-pior-do-sistema-disfarcado-de-antissistema/",
-          "publishedOn": "2026-07-26T23:46:55.000Z",
-          "wordCount": 2126,
-          "title": "Renan Santos e o partido Missão: o pior do sistema disfarçado de antissistema",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/renan-santos.webp"
-        },
-        {
-          "id": "6a6634e0d3cef40358951668",
-          "author": "PSTU-RS",
-          "description": "Marcelo Soares, do PSTU do Litoral Norte-RS\nNo último Censo do IBGE, o Rio Grande do Sul apresentou um crescimento demográfico de apenas 1,77% entre 2010 e 2022, enquanto o Litoral Norte foi a região que mais cresceu, com um salto de 25,87%",
-          "link": "https://opiniaosocialista.com.br/r/",
-          "publishedOn": "2026-07-26T16:33:58.000Z",
-          "wordCount": 1207,
-          "title": "RS: Mobilização de pescadores e população do litoral garante uma vitória jurídica em defesa do Rio Tramandaí",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/WhatsApp-Image-2026-07-26-at-12.14.47--1-.webp"
-        },
-        {
-          "id": "6a656639d3cef40358951638",
-          "author": "LIT-QI",
-          "description": "Por Mazdoor Inquilab. \nO artigo a seguir foi escrito em 24 de julho, antes do ministro da Educação, Dharmendra Pradhan, anunciar sua renúncia. Hoje, 25 de julho, o ministro da Educação apresentou sua renúncia. No entanto, os protestos continuam em",
-          "link": "https://opiniaosocialista.com.br/a-rebeliao-da-juventude-indiana/",
-          "publishedOn": "2026-07-26T01:47:52.000Z",
-          "wordCount": 3263,
-          "title": "A rebelião da juventude indiana",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/luta-india.webp"
-        },
-        {
-          "id": "6a65193dd3cef4035895160d",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Neste 25 de julho, Dia do Escritor, celebramos uma das maiores obras da literatura brasileira",
-          "link": "https://opiniaosocialista.com.br/o-brasil-dos-muitos-sertoes-70-anos-de-grande-sertao-veredas/",
-          "publishedOn": "2026-07-25T20:41:48.000Z",
-          "wordCount": 1326,
-          "title": "O Brasil dos muitos sertões - 70 anos de 'Grande Sertão: Veredas'",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/grande-sert--o.webp"
-        },
-        {
-          "id": "6a64db02d3cef403589515d9",
-          "author": "Firminia Rodrigues, de Minas Gerais",
-          "description": "Os números revelam uma tragédia com cor e classe",
-          "link": "https://opiniaosocialista.com.br/feminicidio-em-mg-quando-o-machismo-o-racismo-e-o-capitalismo-condenam-as-mulheres-negras-a-morte/",
-          "publishedOn": "2026-07-25T15:59:29.000Z",
-          "wordCount": 1804,
-          "title": "Feminicídio em MG: quando o machismo, o racismo e o capitalismo condenam as mulheres negras à morte",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/mulheres_MG.webp"
-        },
-        {
-          "id": "6a649b47d3cef403589515bf",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Pré-candidata a vice-governadora pelo PSTU afirma que combater o racismo exige enfrentar também a exploração, a violência e as desigualdades sociais que atingem a maioria da população paraense",
-          "link": "https://opiniaosocialista.com.br/no-dia-da-mulher-negra-latino-americana-e-caribenha-well-macedo-denuncia-desigualdades-enfrentadas-pelas-mulheres-negras-no-para/",
-          "publishedOn": "2026-07-25T11:26:19.000Z",
-          "wordCount": 1453,
-          "title": "No Dia da Mulher Negra Latino-Americana e Caribenha, Well Macêdo denuncia desigualdades enfrentadas pelas mulheres negras no Pará",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/faixa.jpeg"
-        },
-        {
-          "id": "6a649548d3cef403589515a1",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Presidente se comprometeu a liberar recursos para pagamento de salários e que Forças Armadas farão encomendas à empresa",
-          "link": "https://opiniaosocialista.com.br/em-visita-de-lula-a-avibras-sindicato-defende-estatizacao-da-empresa/",
-          "publishedOn": "2026-07-25T11:06:39.000Z",
-          "wordCount": 1406,
-          "title": "Em visita de Lula à Avibras, Sindicato defende estatização da empresa",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Avibras.webp"
-        },
-        {
-          "id": "6a6408add3cef4035895156f",
-          "author": "Jeferson Choma",
-          "description": "O Senado Federal aprovou o projeto de lei que reduz em aproximadamente 40% a área da Floresta Nacional (Flona) do Jamanxim, no sudoeste do Pará. A proposta retira cerca de 486 mil hectares da unidade de conservação e transforma essa área em uma Á",
-          "link": "https://opiniaosocialista.com.br/em-ano-de-el-nino-congresso-avanca-sobre-areas-protegidas-e-reduz-flona-do-jamanxim/",
-          "publishedOn": "2026-07-25T01:09:08.000Z",
-          "wordCount": 2178,
-          "title": "Em ano de El Niño, Congresso avança sobre áreas protegidas e reduz Flona do Jamanxim",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/reserva_florestal_jamanxim_leonardo_milano_icmbio-1024x613.webp"
-        },
-        {
-          "id": "6a63b036d3cef40358951555",
-          "author": "Redação",
-          "description": "OS 713 (1)\n\n\nOS 713 (1).pdf\n3 MB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle",
-          "link": "https://opiniaosocialista.com.br/edicao-713/",
-          "publishedOn": "2026-07-24T18:35:39.000Z",
-          "wordCount": 377,
-          "title": "Edição 713",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/Capa-Jornal--1---1-.webp"
-        },
-        {
-          "id": "6a63ab44d3cef4035895153d",
-          "author": "Redação",
-          "description": "Trump aplica um tarifaço no Brasil no mesmo momento que retoma a absurda guerra contra o Irã, mostrando como o imperialismo está disposto a usar agressões comerciais, econômicas e até militares para tentar ampliar o controle dos seus monopólios",
-          "link": "https://opiniaosocialista.com.br/por-que-construir-as-pre-candidaturas-do-pstu-de-esquerda-revolucionaria-e-socialista/",
-          "publishedOn": "2026-07-24T18:15:37.000Z",
-          "wordCount": 1479,
-          "title": "Por que construir as pré-candidaturas do PSTU de esquerda revolucionária e socialista?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/roos2092jpg_990x500_0_0_1_1.webp"
-        },
-        {
-          "id": "6a63a8e3d3cef4035895151e",
-          "author": "Érika Andreassy",
-          "description": "Érika Andreassy e João Pedro Andreassy\nA Copa do Mundo de 2026 terminou coroando uma nova geração. A Espanha confirmou um projeto baseado em um elenco jovem, coletivo e tecnicamente refinado, enquanto uma geração que marcou época se despediu dos",
-          "link": "https://opiniaosocialista.com.br/apito-final-o-que-fica-da-copa-de-2026/",
-          "publishedOn": "2026-07-24T18:10:20.000Z",
-          "wordCount": 1829,
-          "title": "Apito final: o que fica da Copa de 2026",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/Espanha-enfrente-Argentina-no-final-da-Copa-Foto-Fifa.webp"
-        },
-        {
-          "id": "6a63a4b3d3cef403589514fa",
-          "author": "Diego Cruz",
-          "description": "Trata-se de um evidente ataque imperialista contra a soberania do Brasil, porcamente disfarçada de medida alfandegária.",
-          "link": "https://opiniaosocialista.com.br/em-nova-ofensiva-imperialista-trump-quer-o-brasil-de-joelhos/",
-          "publishedOn": "2026-07-24T17:53:53.000Z",
-          "wordCount": 1965,
-          "title": "Em nova ofensiva imperialista, Trump quer o Brasil de joelhos",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/07/President-Donald-J.-Trump-Official-White-House-Photo-by-Patrick-B.-Rudd--1-.webp"
-        },
-        {
-          "id": "6a63a042d3cef403589514db",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Roberto Aguiar e Júlio Anselmo, da redação\nAs propostas apresentadas pela chapa Hertz e Vanessa partem de responder às necessidades mais imediatas da classe trabalhadora brasileira, como por exemplo o fim da escala 6x1 já e o aumento geral dos salários",
-          "link": "https://opiniaosocialista.com.br/enfrentar-o-sistema-por-um-brasil-socialista-e-soberano/",
-          "publishedOn": "2026-07-24T17:43:46.000Z",
-          "wordCount": 1202,
-          "title": "Enfrentar o sistema, por um Brasil socialista e soberano",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/hertz-dias_pstu-1.webp"
-        },
-        {
-          "id": "6a639cd3d3cef403589514bd",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Ao anunciar Hertz Dias como candidato à presidência da República e Vanessa Portugal como candidata à vice-presidência, o PSTU apresenta uma alternativa que representa trajetórias construídas na luta dos trabalhadores do país contra as mazelas sociais produzidas pelo",
-          "link": "https://opiniaosocialista.com.br/venha-com-hertz-e-vanessa-por-uma-alternativa-de-esquerda-revolucionaria-e-socialista/",
-          "publishedOn": "2026-07-24T17:25:08.000Z",
-          "wordCount": 1187,
-          "title": "Venha com Hertz e Vanessa: Por uma alternativa de esquerda revolucionária e socialista",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/hertz-e-vanessa.webp"
-        },
-        {
-          "id": "6a639819d3cef40358951495",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Roberto Aguiar e Júlio Anselmo, da Redação\nProfessor, rapper e militante socialista, Hertz Dias chega às eleições de 2026 levando para a campanha uma trajetória construída nas escolas públicas, nas periferias, no movimento negro e",
-          "link": "https://opiniaosocialista.com.br/hertz-dias-do-microfone-na-mao-as-ruas-entoando-os-versos-da-revolucao/",
-          "publishedOn": "2026-07-24T17:10:45.000Z",
-          "wordCount": 1490,
-          "title": "Hertz Dias: Do microfone na mão às ruas, entoando os versos da revolução",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/hertz-dias.webp"
-        }
-      ]
-    },
-    {
       "title": "Esquerda Diário",
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flip-Silencio-e-teimosia",
+          "author": "Iuri Tonelo",
+          "description": "Comentário sobre as entrevistas de Marta Pérez-Carbonell, Katie Kitamura e Ana Paula Tavares na Flip\nMatérias\n\n/ Cultura, Paraty",
+          "link": "https://www.esquerdadiario.com.br/Flip-Silencio-e-teimosia",
+          "publishedOn": "2026-07-27T14:04:42.000Z",
+          "wordCount": null,
+          "title": "Flip | Silêncio e teimosia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/DACS-e-preciso-organizar-a-luta-contra-a-desvalorizacao-da-filosofia-e-sociologia",
+          "author": "Eliton Renan",
+          "description": "Aprovado na última semana, o PL 4.088/23 mais conhecido por pl da desvalorização da filosofia e sociologia é mais um ataque às disciplinas das ciências humanas que vêm sendo atacadas desde o novo ensino médio. A direção do Diretório Acadêmico de Ciências Sociais da UFPE precisa organizar os estudantes para lutar contra mais esse ataque! \n O PL propõe a criação de uma nova disciplina chamada “Educação política e direitos da cidadania” para a educação básica, essa disciplina é vendida como um (…)\n25-07-2026\n\n/ Juventude, Movimento Estudantil, Reforma do Ensino Médio, Sociologia, Permanência Estudantil, Filosofia, UFPE, Revogação das reformas",
+          "link": "https://www.esquerdadiario.com.br/DACS-e-preciso-organizar-a-luta-contra-a-desvalorizacao-da-filosofia-e-sociologia",
+          "publishedOn": "2026-07-27T12:54:40.000Z",
+          "wordCount": null,
+          "title": "DACS: é preciso organizar a luta contra a desvalorização da filosofia e sociologia",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Os-rumos-do-PSOL-em-disputa-subordinacao-ao-PT-cisoes-na-majoritaria-e-verbas-milionarias",
           "author": "Vitória Camargo",
@@ -359,6 +222,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=161887",
+          "author": "Catarina Duarte",
+          "description": "O diácono José Figueiredo, de 42 anos, foi morto pela Polícia Militar. Dias depois, uma foto tirada de contexto passou a circular na internet, impondo um novo luto à família, que teme ver a memória de José substituída por mentiras\nO conteúdo Da Redação | As duas mortes de José Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/da-redacao-as-duas-mortes-de-jose/",
+          "publishedOn": "2026-07-27T14:34:36.000Z",
+          "wordCount": 5083,
+          "title": "Da Redação | As duas mortes de José",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/Diacono-no-Ministerio-.webp"
+        },
+        {
           "id": "https://ponte.org/?p=161820",
           "author": "Paulo Batistella",
           "description": "Policiais Neemias Barros da Silva e Luiz Antônio de Oliveira alegaram nulidades do processo para tentar suspender júri, mas não tiveram pedido atendido. Mizael Fernandes da Silva, de 13 anos, foi morto com tiro de fuzil em julho de 2020\nO conteúdo TJCE nega recurso de PMs e mantém júri por morte de menino baleado enquanto dormia em casa Pode ser acessado em Ponte Jornalismo.",
@@ -443,13 +316,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261362",
+          "author": "Tabitha Ramalho",
+          "description": "A Venezuela ainda tenta se recuperar da tragédia causada pelos dois terremotos que atingiram as regiões de La Guaira e Caracas, no norte do país, há um mês, em 24 de junho. Os primeiros relatos da imprensa sobre os dois terremotos, de magnitude 7,2 e 7,5 na escala Richter, com apenas 39 segundos de intervalo, […]\nO post Um mês após terremotos na Venezuela, recuperação enfrenta obstáculos com milhares de mortos e desaparecidos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/um-mes-apos-terremotos-na-venezuela-recuperacao-enfrenta-obstaculos-com-milhares-de-mortos-e-desaparecidos/",
+          "publishedOn": "2026-07-27T14:20:39.000Z",
+          "wordCount": 3753,
+          "title": "Um mês após terremotos na Venezuela, recuperação enfrenta obstáculos com milhares de mortos e desaparecidos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/venezuelan-rescue-workers-la-guaira-earthquake.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261348",
+          "author": "Tabitha Ramalho",
+          "description": "O governo da República Democrática do Congo (RDC) elevou nesta segunda-feira (27/07) para 1.405 o número de mortos e para 3.200 o total de casos confirmados de ebola desde o início do surto da doença no fim de abril. Com isso, a taxa de letalidade está em 43,9%, segundo o último boletim do Ministério da […]\nO post República Democrática do Congo tem mais de mil novos casos de ebola em dez dias apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/republica-democratica-do-congo-tem-mais-de-mil-novos-casos-de-ebola-em-dez-dias/",
+          "publishedOn": "2026-07-27T13:40:57.000Z",
+          "wordCount": 3588,
+          "title": "República Democrática do Congo tem mais de mil novos casos de ebola em dez dias",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/78088384_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261355",
+          "author": "Tabitha Ramalho",
+          "description": "Uma marcha e um evento de solidariedade reuniram milhares de pessoas na Cidade do México neste domingo (26/07), durante um dia de comemoração do 73º aniversário do ataque aos quartéis Moncada e Céspedes, que em 1953 iniciou o caminho para a Revolução de 1959, na qual se manifestou a crescente rejeição internacional ao bloqueio dos […]\nO post Mexicanos vão às ruas contra bloqueio a Cuba: ‘escalada genocida de Trump’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/mexicanos-vao-as-ruas-contra-bloqueio-a-cuba-escalada-genocida-de-trump/",
+          "publishedOn": "2026-07-27T13:28:10.000Z",
+          "wordCount": 4454,
+          "title": "Mexicanos vão às ruas contra bloqueio a Cuba: ‘escalada genocida de Trump’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/marcha-cuba-mexico-26jul-5-embaj-1536x864.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261347",
+          "author": "Tatiana Carlotti",
+          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, embarcou nesta segunda-feira (27/07) para os Estados Unidos, onde se reunirá com o presidente norte-americano, Donald Trump, em Washington, nesta terça-feira (28/07). O premiê israelense confirmou, em entrevista à emissora norte-americana Fox News, neste domingo (26/07), que pretende comparecer à Assembleia Geral das Nações Unidas, em Nova York. Netanyahu […]\nO post Após Netanyahu confirmar participação em Assembleia Geral, forças israelenses invadem instalações da ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/apos-netanyahu-confirmar-participacao-em-assembleia-geral-forcas-israelenses-invadem-instalacoes-da-onu/",
+          "publishedOn": "2026-07-27T13:06:23.000Z",
+          "wordCount": 3095,
+          "title": "Após Netanyahu confirmar participação em Assembleia Geral, forças israelenses invadem instalações da ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hmuh-w9wyaau1ir.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261330",
           "author": "Tatiana Carlotti",
-          "description": "O Irã afirmou que as negociações com os Estados Unidos não foram retomadas, após a interrupção dos ataques norte-americanos nesta segunda-feira (27/07). Em declarações a jornalistas em Teerã, o porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, enfatizou que não houve pedidos por parte do país, salientando que Washington encontra-se preso na situação que […]\nO post Irã afirma que não retomou negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-nao-retomou-negociacoes-com-eua-e-reitera-estreito-de-ormuz-esta-fechado/",
+          "description": "O Irã afirmou que as negociações com os Estados Unidos não foram retomadas, após a interrupção dos ataques norte-americanos nesta segunda-feira (27/07). Em declarações a jornalistas em Teerã, o porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, enfatizou que não houve pedidos por parte do país, salientando que Washington encontra-se preso na situação que […]\nO post Irã desmente negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-desmente-negociacoes-com-eua-e-reitera-estreito-de-ormuz-esta-fechado/",
           "publishedOn": "2026-07-27T10:34:53.000Z",
-          "wordCount": 4007,
-          "title": "Irã afirma que não retomou negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’",
+          "wordCount": 4010,
+          "title": "Irã desmente negociações com EUA e reitera: ‘Estreito de Ormuz está fechado’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/irna-1.webp"
         },
         {
@@ -458,7 +371,7 @@
           "description": "O peronismo argentino, representado pelo governador Axel Kicillof, pelo Partido Justicialista (PJ), por La Cámpora e pela Frente Renovadora, uniu-se em defesa do presidente brasileiro Luiz Inácio Lula da Silva após as ofensas proferidas pelo presidente Javier Milei durante o lançamento da campanha presidencial de Flávio Bolsonaro em São Paulo, no último sábado (25/07), onde […]\nO post Líderes peronistas defendem Lula contra insultos de Milei: ‘respeitamos nossos vizinhos’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/lideres-peronistas-defendem-lula-contra-insultos-de-milei-respeitamos-nossos-vizinhos/",
           "publishedOn": "2026-07-27T10:05:10.000Z",
-          "wordCount": 3649,
+          "wordCount": 3645,
           "title": "Líderes peronistas defendem Lula contra insultos de Milei: ‘respeitamos nossos vizinhos’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hok1m8cwmaa3k2x.jpg"
         },
@@ -468,7 +381,7 @@
           "description": "O presidente da China, Xi Jinping, declarou nesta segunda-feira (27/07) que sua nação apoia o Brasil na “rejeição à interferência externa” e que está pronta para fortalecer ainda mais a cooperação bilateral em áreas estratégicas, de acordo com a agência Xinhua. A posição foi dada durante uma conversa por telefone na noite de domingo (26/07) […]\nO post Xi Jinping diz a Lula que apoia Brasil na ‘rejeição à interferência externa’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/xi-jinping-diz-a-lula-que-apoia-brasil-na-rejeicao-a-interferencia-externa/",
           "publishedOn": "2026-07-27T06:55:07.000Z",
-          "wordCount": 3703,
+          "wordCount": 3694,
           "title": "Xi Jinping diz a Lula que apoia Brasil na ‘rejeição à interferência externa’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/673e0e8e59bf5b5d1773be7c.png"
         },
@@ -478,7 +391,7 @@
           "description": "O presidente brasileiro Luiz Inácio Lula da Silva recebe o seu homólogo sul-coreano Lee Jae Myung em Brasília, nesta segunda-feira (27/07), para um encontro de alto nível com o objetivo de aprofundar a cooperação bilateral, especialmente em áreas de semicondutores, minerais críticos, terras raras, inteligência artificial, saúde, cosméticos e educação. A visita de Estado do […]\nO post Lula recebe presidente sul-coreano para discutir minerais críticos e semicondutores apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/lula-recebe-presidente-sul-coreano-para-discutir-minerais-criticos-e-semicondutores/",
           "publishedOn": "2026-07-27T05:05:40.000Z",
-          "wordCount": 2900,
+          "wordCount": 2888,
           "title": "Lula recebe presidente sul-coreano para discutir minerais críticos e semicondutores",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/55111420618_07d1ec45fc_o.webp"
         },
@@ -488,7 +401,7 @@
           "description": "Os colonos israelenses lançaram neste domingo (26/07) uma série de ataques por todo o território da Cisjordânia ocupada, e chegaram a incendiar duas mesquitas em Nablus e Tulkarm, danificando também equipamentos em uma instalação industrial próxima a Ramallah. De acordo com as autoridades palestinas, os colonos estavam sob respaldo das forças israelenes. O portal Middle […]\nO post Colonos israelenses invadem vilarejos e queimam duas mesquitas na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/colonos-israelenses-invadem-vilarejos-e-queimam-duas-mesquitas-na-cisjordania-ocupada/",
           "publishedOn": "2026-07-27T03:22:37.000Z",
-          "wordCount": 3538,
+          "wordCount": 3529,
           "title": "Colonos israelenses invadem vilarejos e queimam duas mesquitas na Cisjordânia ocupada",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-27-001933.png"
         },
@@ -498,49 +411,9 @@
           "description": "Os grandes incêndios que atingem a França e a Espanha desde a semana passada já provocaram a retirada de mais de 325 mil pessoas de suas casas e mobilizam milhares de bombeiros, militares e aeronaves em uma das crises mais severas do verão europeu. Neste domingo (26/07), as autoridades francesas confirmaram que o principal foco […]\nO post Incêndios avançam sobre Bordeaux e forçam retirada de 325 mil na França e na Espanha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/incendios-avancam-sobre-bordeaux-e-forcam-retirada-de-325-mil-na-franca-e-na-espanha/",
           "publishedOn": "2026-07-27T02:14:13.000Z",
-          "wordCount": 4575,
+          "wordCount": 4563,
           "title": "Incêndios avançam sobre Bordeaux e forçam retirada de 325 mil na França e na Espanha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hoecl67wcaey1au.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261305",
-          "author": "Rocio Paik",
-          "description": "A chefe do Departamento de Assuntos Gerais do Partido dos Trabalhadores da Coreia do Norte, Kim Yo Jong, também irmã do líder norte-coreano Kim Jong Un, condenou “nos termos mais rigorosos” uma declaração conjunta emitida neste fim de semana pelos líderes do Fórum Regional da ASEAN (ARF, na sigla em inglês), em Manila, no âmbito […]\nO post Irmã de Kim Jong Un defende ‘atualização constante’ do programa nuclear norte-coreano apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/irma-de-kim-jong-un-defende-atualizacao-constante-do-programa-nuclear-norte-coreano/",
-          "publishedOn": "2026-07-27T01:40:01.000Z",
-          "wordCount": 3228,
-          "title": "Irmã de Kim Jong Un defende ‘atualização constante’ do programa nuclear norte-coreano",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/134140273.1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261298",
-          "author": "Rocio Paik",
-          "description": "Atualizada às 01h25 Os Estados Unidos interromperam seus ataques ao Irã pela terceira noite seguida nesta segunda-feira (27/07), enquanto oficiais militares norte-americanos de alto escalão aconselham o presidente Donald Trump a suspender completamente a sua campanha de bombardeios contra a nação persa, expressando preocupações sobre o estoque de munições, de acordo com o portal Axios. […]\nO post EUA suspendem ataques ao Irã pelo 3º dia seguido após alerta sobre ‘falta de munição’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-suspendem-ataques-ao-ira-pelo-3o-dia-apos-alerta-de-falta-de-municao/",
-          "publishedOn": "2026-07-26T23:57:55.000Z",
-          "wordCount": 3442,
-          "title": "EUA suspendem ataques ao Irã pelo 3º dia seguido após alerta sobre ‘falta de munição’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405042409430787137542434.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261295",
-          "author": "Victor Farinelli",
-          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, responsabilizou diretamente o presidente da Ucrânia, Volodymyr Zelensky, pelo ataque a um navio mercante iraniano no Mar Cáspio. O representante de Teerã disse que o episódio “não pode ficar sem resposta”. A declaração foi publicada neste domingo (26/07) na rede social X, após Teerã atribuir às […]\nO post Irã acusa Ucrânia de atacar navio do país no Mar Cáspio e promete retaliação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/ira/ira-acusa-ucrania-de-atacar-navio-do-pais-no-mar-caspio-e-promete-retaliacao/",
-          "publishedOn": "2026-07-26T21:17:07.000Z",
-          "wordCount": 3215,
-          "title": "Irã acusa Ucrânia de atacar navio do país no Mar Cáspio e promete retaliação",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/abbas-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261292",
-          "author": "Victor Farinelli",
-          "description": "O senador colombiano Alejandro Bermeo, do partido de extrema direita Movimento de Salvação Nacional, anunciou na última sexta-feira (24/07) que promoverá um projeto de lei para instituir uma “Semana Anticomunista” no país. A proposta foi revelada em entrevista ao programa NS Noticias, do canal Caracol TV, e explicou que tentará tornar a iniciativa obrigatória em […]\nO post Senador colombiano anuncia proposta para criar ‘semana anticomunista’ nas escolas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/senador-colombiano-anuncia-proposta-para-criar-semana-anticomunista-nas-escolas/",
-          "publishedOn": "2026-07-26T20:34:29.000Z",
-          "wordCount": 3153,
-          "title": "Senador colombiano anuncia proposta para criar ‘semana anticomunista’ nas escolas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/bermeo.jpg"
         }
       ]
     },
@@ -555,6 +428,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=230365",
+          "author": "Giovanna Maria",
+          "description": "Memorial inaugurado em homenagem ao jovem reuniu familiares de vítimas da violência do velho Estado, amigos e ativistas. “Daqui para frente vai ser luta após luta por justiça por meu filho Gabriel”, afirmou sua mãe.",
+          "link": "https://anovademocracia.com.br/amigos-ativistas-e-familiares-realizam-ato-em-homenagem-a-gabriel-dos-santos-jovem-dancarino-morto-durante-acao-policial-em-2025/",
+          "publishedOn": "2026-07-27T12:55:08.000Z",
+          "wordCount": null,
+          "title": "Amigos, ativistas e familiares realizam ato em homenagem a Gabriel dos Santos, jovem dançarino morto durante ação policial em 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=230263",
           "author": "Redação de AND",
@@ -643,16 +526,6 @@
           "publishedOn": "2026-07-24T21:26:08.000Z",
           "wordCount": null,
           "title": "‘As bets exploram quem busca uma saída para a pobreza e as dificuldades’, diz sociólogo ao AND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230319",
-          "author": "Redação de AND",
-          "description": "Às vésperas da convenção do PL, Flávio e Michelle formalizaram uma trégua pública para conter os danos à campanha; no A Propósito #370, o debate apontou que a extrema direita disputa quem converterá a rejeição ao velho sistema político em reserva para suas posições ultrarreacionárias.",
-          "link": "https://anovademocracia.com.br/extrema-direita-desilusao-velha-democracia/",
-          "publishedOn": "2026-07-24T21:25:19.000Z",
-          "wordCount": null,
-          "title": "‘A extrema direita tenta capturar a desilusão com a velha democracia’: AND analisa pugna pelo espólio bolsonarista na farsa eleitoral",
           "imageUrl": null
         }
       ]
@@ -829,7 +702,7 @@
           "description": "\"Escrita em agosto de 1954, a obra 'Diretrizes para uma política econômica brasileira' circulou por mais de setenta anos como fantasma bibliográfico até que a Boitempo a convertesse num livro de ampla circulação. O ganho da edição está menos em resgatar uma curiosidade de arquivo do que em recolocar em movimento uma das formulações mais densas do marxismo brasileiro sobre a estrutura econômica do país.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/27/uma-feitoria-disfarcada-de-sociedade/",
           "publishedOn": "2026-07-27T11:00:00.000Z",
-          "wordCount": 15753,
+          "wordCount": 15916,
           "title": "Uma feitoria disfarçada de sociedade",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-20.png"
         },
