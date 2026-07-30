@@ -24,36 +24,6 @@
           "wordCount": 2421,
           "title": "A Copa das BETs: entre a Globo e a CazéTV, vence a indústria das apostas",
           "imageUrl": "https://media.jornalofuturo.com.br/WhatsApp%20Image%202026-07-22%20at%2008.21.59-667x517.jpg"
-        },
-        {
-          "id": "DuoF5X",
-          "author": null,
-          "description": "Na segunda parte da nossa reportagem sobre as cozinhas do SESC, mais relatos sobre as péssimas condições de trabalho e os recorrentes assédios pelos quais passam os trabalhadores da instituição",
-          "link": "https://jornalofuturo.com.br/artigo/DuoF5X-o-sesc-que-voce-frequenta-nao-e-o-que-a-gente-trabalha",
-          "publishedOn": "2026-07-25T14:30:00.000Z",
-          "wordCount": 4908,
-          "title": "“O SESC que você frequenta não é o que a gente trabalha!”",
-          "imageUrl": "https://media.jornalofuturo.com.br/SESC%20-%20Danilo%20B-656x650.png"
-        },
-        {
-          "id": "ezN65L",
-          "author": null,
-          "description": "Por trás do caso, está um modelo educacional marcado pela precarização docente, cortes orçamentários e privatizações crescentes",
-          "link": "https://jornalofuturo.com.br/artigo/ezN65L-violencia-contra-professora-em-sao-jose-dos-campos-expoe-contradicoes-do-modelo-educacional-brasileiro",
-          "publishedOn": "2026-07-25T13:00:00.000Z",
-          "wordCount": 4390,
-          "title": "Violência contra professora em São José dos Campos expõe contradições do modelo educacional brasileiro",
-          "imageUrl": "https://media.jornalofuturo.com.br/violencia-contra-professores-1024x576.jpg"
-        },
-        {
-          "id": "rNXicK",
-          "author": null,
-          "description": "Enquanto comunistas defendemos um modelo de educação baseado na pedagogia socialista baseada nos principios da omnilateralidade e da politecnia",
-          "link": "https://jornalofuturo.com.br/artigo/rNXicK-afinal-qual-o-programa-da-escola-popular",
-          "publishedOn": "2026-07-25T11:00:00.000Z",
-          "wordCount": 3107,
-          "title": "Afinal, qual o programa da Escola Popular?",
-          "imageUrl": "https://media.jornalofuturo.com.br/20260401_165944.jpg%20-%20Thalita%20Alves-1280x960.jpg"
         }
       ]
     },
@@ -63,12 +33,22 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a6a873e8ebc79031a15a147",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/como-derrotar-o-tarifaco-de-trump/",
+          "publishedOn": "2026-07-29T23:06:14.000Z",
+          "wordCount": 411,
+          "title": "Como derrotar o tarifaço de Trump?",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
           "id": "6a6a4ff88ebc79031a15a105",
           "author": "PSTU-RS",
           "description": "Rejane de Oliveira, pré-candidata ao governo do Rio Grande do Sul\nA nossa mobilidade para ir trabalhar, estudar, mas também para acessar as unidades de saúde, cultura e lazer, nas nossas cidades, no nosso estado, em tese, é um direito. Mas, na prá",
           "link": "https://opiniaosocialista.com.br/um-debate-necessario-tarifa-zero-sim-mas-enquanto-transporte-for-um-negocio-nao-sera-um-direito/",
           "publishedOn": "2026-07-29T19:26:13.000Z",
-          "wordCount": 1797,
+          "wordCount": 1811,
           "title": "Um debate necessário: Tarifa zero, sim ! Mas enquanto transporte for um negócio, não será um direito !",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/onibus-porto-alegre.webp"
         },
@@ -118,7 +98,7 @@
           "description": "O novo valor do Piso Nacional dos Professores teve reajuste de 5,4% e vai para R$ 5.130,63 para jornada de 40 horas semanais. Mas, grandes capitais como São Paulo, não aplicam em mais de 30% dos municípios, mesmo sendo o estado",
           "link": "https://opiniaosocialista.com.br/apesar-de-lula-sancionar-o-reajuste-do-piso-nacional-da-educacao-30-dos-municipios-nao-cumprem-a-lei/",
           "publishedOn": "2026-07-28T14:48:54.000Z",
-          "wordCount": 1128,
+          "wordCount": 1142,
           "title": "Apesar de Lula sancionar o reajuste do Piso Nacional da Educação, 30% dos municípios não cumprem a lei",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Dra-Eliana.webp"
         },
@@ -128,7 +108,7 @@
           "description": "O MBL não questiona os pilares do sistema capitalista: grandes monopólios, a entrega do país com a perda da soberania e o retrocesso colonial. Ao contrário, seu projeto pretende justamente pisar no acelerador rumo ao abismo em que nos encontramos",
           "link": "https://opiniaosocialista.com.br/renan-santos-e-o-partido-missao-o-pior-do-sistema-disfarcado-de-antissistema/",
           "publishedOn": "2026-07-26T23:46:55.000Z",
-          "wordCount": 2158,
+          "wordCount": 2124,
           "title": "Renan Santos e o partido Missão: o pior do sistema disfarçado de antissistema",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/renan-santos.webp"
         },
@@ -171,26 +151,6 @@
           "wordCount": 1804,
           "title": "Feminicídio em MG: quando o machismo, o racismo e o capitalismo condenam as mulheres negras à morte",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/mulheres_MG.webp"
-        },
-        {
-          "id": "6a649b47d3cef403589515bf",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Pré-candidata a vice-governadora pelo PSTU afirma que combater o racismo exige enfrentar também a exploração, a violência e as desigualdades sociais que atingem a maioria da população paraense",
-          "link": "https://opiniaosocialista.com.br/no-dia-da-mulher-negra-latino-americana-e-caribenha-well-macedo-denuncia-desigualdades-enfrentadas-pelas-mulheres-negras-no-para/",
-          "publishedOn": "2026-07-25T11:26:19.000Z",
-          "wordCount": 1453,
-          "title": "No Dia da Mulher Negra Latino-Americana e Caribenha, Well Macêdo denuncia desigualdades enfrentadas pelas mulheres negras no Pará",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/faixa.jpeg"
-        },
-        {
-          "id": "6a649548d3cef403589515a1",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Presidente se comprometeu a liberar recursos para pagamento de salários e que Forças Armadas farão encomendas à empresa",
-          "link": "https://opiniaosocialista.com.br/em-visita-de-lula-a-avibras-sindicato-defende-estatizacao-da-empresa/",
-          "publishedOn": "2026-07-25T11:06:39.000Z",
-          "wordCount": 1416,
-          "title": "Em visita de Lula à Avibras, Sindicato defende estatização da empresa",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/07/Avibras.webp"
         }
       ]
     },
@@ -199,6 +159,46 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-trouxe-Milei-para-Sao-Paulo-porque-quer-trazer-seu-plano-de-precarizacao-para-o-Brasil",
+          "author": "José Pedro",
+          "description": "Na Convenção Nacional do PL do fim de semana passado, em São Paulo, Flávio Bolsonaro chamou para o show de horrores Javier Milei, o cachorrinho de Trump que inspira a mão de tesouras nessa corrida presidencial. \n O Estádio do Pacaembu foi o palco da Convenção Partidária Nacional do PL no final de semana passado, que buscou lançar oficialmente a candidatura de Flávio Bolsonaro para a Presidência da República. Além de Flávio, dos figurões do PL e de seus aliados mais próximos da direita e do (…)\nMatérias\n\n/ Internacional, Argentina, Flavio Bolsonaro, Brasil, Javier Milei",
+          "link": "https://www.esquerdadiario.com.br/Flavio-trouxe-Milei-para-Sao-Paulo-porque-quer-trazer-seu-plano-de-precarizacao-para-o-Brasil",
+          "publishedOn": "2026-07-30T02:09:13.000Z",
+          "wordCount": null,
+          "title": "Flávio trouxe Milei para São Paulo porque quer trazer seu plano de precarização para o Brasil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/O-Estadao-continua-sem-pudor-defendem-a-miseria-do-povo-em-nome-do-equilibrio-fiscal",
+          "author": "Pedro Oliveira",
+          "description": "Editorial do Estadão desta semana retoma uma velha ladainha, defendendo uma ciência econômica neutra e objetiva, mas que no fim serve a um interesse bem específico: o do mercado financeiro e dos credores da dívida brasileira. \n Um dos principais veículos da burguesia paulista, o jornal o Estado de São Paulo publicou um novo edital hoje. No texto intitulado “A equipe econômica perdeu o pudor”, acusa a atual equipe do Ministério da Fazenda de perder o caráter técnico e assumir um lado (…)\n29-07-2026\n\n/ Economia, Dívida pública, Não ao pagamento da dívida pública!, Governo Lula",
+          "link": "https://www.esquerdadiario.com.br/O-Estadao-continua-sem-pudor-defendem-a-miseria-do-povo-em-nome-do-equilibrio-fiscal",
+          "publishedOn": "2026-07-29T23:46:31.000Z",
+          "wordCount": null,
+          "title": "O Estadão continua sem pudor: defendem a miséria do povo em nome do equilíbrio fiscal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Violencia-policial-incentivada-pelo-bolsonarismo-atinge-o-maior-numero-da-serie-historica-em-2025",
+          "author": "Redação",
+          "description": "Segundo dados do Anuário Brasileiro de Segurança Pública, foram 6602 pessoas mortas pelas polícias brasileiras em 2025. Flávio Bolsonaro, junto com seus aliados nos governos estaduais, são responsáveis pelo avanço, com sua retórica que incentiva a violência policial e defesa da impunidade. No entanto, estados governados pelo PT, como a Bahia, também aparecem entre os líderes nos índices de violência policial. \n Em 2025 foram 6602 pessoas mortas pelas polícias brasileiras, segundo dados do (…)\n29-07-2026\n\n/ Luta Antirracista, Violência policial, Flavio Bolsonaro, Violência racista, Cláudio Castro, Tarcísio de Freitas, Jerônimo Rodrigues",
+          "link": "https://www.esquerdadiario.com.br/Violencia-policial-incentivada-pelo-bolsonarismo-atinge-o-maior-numero-da-serie-historica-em-2025",
+          "publishedOn": "2026-07-29T23:23:52.000Z",
+          "wordCount": null,
+          "title": "Violência policial incentivada pelo bolsonarismo atinge o maior número da série histórica em 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Com-a-negligencia-dos-governos-mais-de-300-pessoas-estao-desabrigadas-com-as-novas-chuvas-e-cheia",
+          "author": "Guilherme Garcia",
+          "description": "As chuvas dos últimos dias no RS deixou 5 rios com alertas de inundação e deixou mais de 300 pessoas dos municipios afetados desabrigadas. Os rios desaguam no Rio Guaíba que irá subir nos próximos dias e atingar moradores da região metropolitana.\n29-07-2026\n\n/ Porto Alegre, Enchentes, Eduardo Leite, Crise Climática, Sebastião Melo, Rio Grande do Sul, Enchentes no RS",
+          "link": "https://www.esquerdadiario.com.br/Com-a-negligencia-dos-governos-mais-de-300-pessoas-estao-desabrigadas-com-as-novas-chuvas-e-cheia",
+          "publishedOn": "2026-07-29T22:34:04.000Z",
+          "wordCount": null,
+          "title": "Com a negligência dos governos, mais de 300 pessoas estão desabrigadas com as novas chuvas e cheia dos rios no RS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Andy-Burnham-e-o-novo-Primeiro-Ministro-do-Reino-Unido-um-plano-B-do-Partido-Trabalhista-em-tempos",
           "author": "Alas Alias",
@@ -318,26 +318,6 @@
           "wordCount": null,
           "title": "Após explosão na linha privatizada, ferroviários exigem reestatização e aprovam indicativo de greve",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Dia-da-Mulher-Negra-Latino-Americana-e-Caribenha-61822",
-          "author": "Pão e Rosas, Quilombo Vermelho",
-          "description": "Confira textos, artigos, declarações, podcast no Dossiê - Dia da Mulher Negra Latino-Americana e Caribenha do Esquerda Diário \n Dossiê - Dia da Mulher Negra Latino-Americana e Caribenha \n25-07-2026\n\n/ Luta Antirracista, Violência contra a Mulher, Racismo, Mulher, Machismo, mulheres negras, Mulheres, Racismo, Racismo Estrutural, Racismo de Estado, Patriarcado, antirracismo, Mulheres Negras e Marxismo, Movimento de mulheres",
-          "link": "https://www.esquerdadiario.com.br/Dia-da-Mulher-Negra-Latino-Americana-e-Caribenha-61822",
-          "publishedOn": "2026-07-25T14:55:20.000Z",
-          "wordCount": null,
-          "title": "Dia da Mulher Negra Latino-Americana e Caribenha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/A-fragmentacao-da-extrema-direita-e-as-dificuldades-da-frente-ampla",
-          "author": "Flavia Valle",
-          "description": "Em MG o bolsonarismo e a frente ampla encontram dificuldades, o que deixa a disputa eleitoral bastante em aberto e alimentada por crises políticas.\n23-06-2026\n\n/ Política, Minas Gerais, Metrô BH, Romeu Zema, Copasa, Governo Lula, Terras Raras",
-          "link": "https://www.esquerdadiario.com.br/A-fragmentacao-da-extrema-direita-e-as-dificuldades-da-frente-ampla",
-          "publishedOn": "2026-07-25T13:24:17.000Z",
-          "wordCount": null,
-          "title": "A fragmentação da extrema direita e as dificuldades da frente ampla",
-          "imageUrl": null
         }
       ]
     },
@@ -360,21 +340,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/07/wide-1.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444313",
-          "author": "Isabella Mota",
-          "description": "Autoproclamado patriota ganhou visto de residência após fugir da Justiça brasileira e agora vira pesadelo para a campanha do irmão.\nO post O ‘green card’ de Eduardo Bolsonaro é o prêmio máximo por seu capachismo aos EUA apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/07/25/green-card-eduardo-bolsonaro-capachismo-eua/",
-          "publishedOn": "2026-07-25T10:00:00.000Z",
-          "wordCount": null,
-          "title": "O ‘green card’ de Eduardo Bolsonaro é o prêmio máximo por seu capachismo aos EUA",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/07/wide.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/07/wide.png"
         }
       ]
     },
@@ -431,6 +396,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74189",
+          "author": "El Salto",
+          "description": "mundo vive um novo aumento da violência armada global. No ano de 2025, foram registrados 40 conflitos armados ativos (37 em 2024), o número mais alto desde 2011 e um dos mais elevados desde que a Escola de Cultura da Paz (ECP) da Universidade Autônoma de Barcelona elabora seus relatórios anuais sobre conflitos internacionais. A […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/29/2025-o-ano-com-mais-guerras-da-ultima-decada/",
+          "publishedOn": "2026-07-29T21:39:12.000Z",
+          "wordCount": 4487,
+          "title": "2025, o ano com mais guerras da última década",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/guerra.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74185",
           "author": "CTXT",
           "description": "s Estados Unidos acabaram de anunciar a imposição de novas tarifas a 60 países, incluindo o Brasil, desta vez apresentadas como uma ação internacional na área dos direitos trabalhistas. Mais especificamente, “por não proibirem nem fazerem cumprir efetivamente a proibição de importar bens produzidos com trabalho forçado”. Somos tentados a aplaudir. O trabalho forçado existe, […]",
@@ -468,12 +443,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261687",
+          "author": "Rocio Paik",
+          "description": "Atualizada às 23h38 O Comando Central dos Estados Unidos (CENTCOM, na sigla em inglês) informou nesta quarta-feira (29/07) ter completado “uma forte onda de ataques” contra dezenas de alvos do Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês) horas após o presidente Donald Trump prometer uma “dura” retaliação contra o país persa. Em […]\nO post Em nova escalada, EUA anunciam ter concluído ‘forte onda de ataques’ no sul do Irã  apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/eua-bombardeiam-sul-do-ira-apos-trump-prometer-duros-ataques-no-pais/",
+          "publishedOn": "2026-07-30T02:08:00.000Z",
+          "wordCount": 3341,
+          "title": "Em nova escalada, EUA anunciam ter concluído ‘forte onda de ataques’ no sul do Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1405042409430787137542434-1.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261682",
+          "author": "Rocio Paik",
+          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, declarou que viajará para Nova York em setembro e atenderá à Assembleia Geral das Nações Unidas (ONU), apesar do prefeito da cidade, Zohran Mamdani, defender o cumprimento do mandado de prisão emitido pelo Tribunal Penal Internacional (TPI) contra a autoridade sionista, que deve responder pelos crimes de guerra cometidos […]\nO post Netanyahu diz que viajará a Nova York apesar de Mamdani defender prisão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/netanyahu-diz-que-viajara-a-nova-york-apesar-dos-apelos-de-mamdani-defendendo-prisao/",
+          "publishedOn": "2026-07-30T01:18:43.000Z",
+          "wordCount": 3274,
+          "title": "Netanyahu diz que viajará a Nova York apesar de Mamdani defender prisão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hoxf6ikxqaazwel.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261677",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, prometeu nesta quarta-feira (29/07) atacar o Irã “com muita força” em resposta a uma ofensiva retaliatória com uso de mísseis balísticos ter atingido bases norte-americanas instaladas no território da Jordânia. Esta ação foi reivindicada pelo Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês). “Vamos acertá‑los [os […]\nO post Trump promete atacar Irã ‘com muita força’ e EUA anunciam novas sanções apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/trump-promete-atacar-ira-com-muita-forca-e-eua-anunciam-novas-sancoes/",
+          "publishedOn": "2026-07-30T00:30:40.000Z",
+          "wordCount": 3475,
+          "title": "Trump promete atacar Irã ‘com muita força’ e EUA anunciam novas sanções",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/140504301350055037607234.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261674",
+          "author": "Rocio Paik",
+          "description": "A presidenta interina da Venezuela, Delcy Rodríguez, anunciou, na noite de terça-feira (28/07), seu pedido ao Supremo Tribunal de Justiça (TSJ) para o estabelecimento de uma jurisdição especial para lidar com questões cíveis relacionadas a processos de propriedade, identidade e herança. Essa decisão surge no contexto da prestação de assistência às vítimas do duplo terremoto […]\nO post Venezuela deve financiar até 80% da reconstrução das casas das vítimas do terremoto apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/venezuela-deve-financiar-ate-80-da-reconstrucao-das-casas-das-vitimas-do-terremoto/",
+          "publishedOn": "2026-07-29T23:48:40.000Z",
+          "wordCount": 3365,
+          "title": "Venezuela deve financiar até 80% da reconstrução das casas das vítimas do terremoto",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/delcy-eua-1.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261667",
           "author": "Fernanda Oliveira",
           "description": "O Ministério Público da Bolívia emitiu nesta quarta-feira (29/07) um mandado de prisão contra o ex-presidente Evo Morales. A medida está relacionada aos bloqueios de estradas que se estenderam por mais de 50 dias em diferentes regiões do país, em protesto contra a gestão do presidente Rodrigo Paz. A ordem de detenção foi emitida pelo […]\nO post MP da Bolívia emite ordem de prisão contra Evo Morales; ‘não nos intimidarão’, diz ex-presidente apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/mp-da-bolivia-emite-ordem-de-prisao-contra-evo-morales-nao-nos-intimidarao-diz-ex-presidente/",
           "publishedOn": "2026-07-29T20:38:50.000Z",
-          "wordCount": 3445,
+          "wordCount": 3443,
           "title": "MP da Bolívia emite ordem de prisão contra Evo Morales; ‘não nos intimidarão’, diz ex-presidente",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/g9bldbxwsaitoup-e1779643285935.webp"
         },
@@ -483,7 +498,7 @@
           "description": "Há 65 anos, em 29 de julho de 1961, o cosmonauta soviético Yuri Gagarin desembarcava no Brasil, um destino estratégico da turnê internacional da “Missão de Paz”. Poucos meses após se tornar o primeiro ser humano a viajar pelo espaço, Gagarin empreendeu uma série de viagens para promover a tecnologia espacial e fortalecer os laços […]\nO post Yuri Gagarin no Brasil: a visita do primeiro viajante soviético espacial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/yuri-gagarin-no-brasil-a-visita-do-primeiro-viajante-sovietico-espacial/",
           "publishedOn": "2026-07-29T19:00:44.000Z",
-          "wordCount": 5944,
+          "wordCount": 5946,
           "title": "Yuri Gagarin no Brasil: a visita do primeiro viajante soviético espacial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/iuri_alekseievitch_gagarin_chega_ao_brasil.tif.jpg"
         },
@@ -493,7 +508,7 @@
           "description": "Organizações de saúde estão pressionando o governo britânico a usar uma cláusula de rescisão em seu contrato com a empresa de tecnologia Palantir e a migrar de sua Plataforma Federada de Dados (FDP, na sigla em inglês) no Serviço Nacional de Saúde (NHS, na sigla em inglês) no início de 2027. Relatórios recentes da Medact, […]\nO post Organizações de saúde pressionam governo britânico a romper contrato com Palantir apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/organizacoes-de-saude-pressionam-governo-britanico-a-romper-contrato-com-palantir/",
           "publishedOn": "2026-07-29T18:20:23.000Z",
-          "wordCount": 4216,
+          "wordCount": 4218,
           "title": "Organizações de saúde pressionam governo britânico a romper contrato com Palantir",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/palantir-cover-image-toolkit.jpg"
         },
@@ -503,7 +518,7 @@
           "description": "A digitalização do tecido social, marcada pela plataformização da vida, tem mudado  não apenas nossa relação com a informação, mas com a própria experiência objetiva e subjetiva do mundo, dando novas condições de possibilidade para o desdobramento de eventos cruciais em nossos tempos. Elas rearranjam o campo de possibilidade e reconfiguram os modos de se […]\nO post As expressões da guerra na digitalização apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/as-expressoes-da-guerra-na-digitalizacao/",
           "publishedOn": "2026-07-29T18:11:57.000Z",
-          "wordCount": 4882,
+          "wordCount": 4885,
           "title": "As expressões da guerra na digitalização",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/webp.webp"
         },
@@ -513,7 +528,7 @@
           "description": "Os acontecimentos que estão se desenrolando na Cisjordânia ocupada desafiam uma interpretação baseada apenas na sucessão de ataques de colonos ou em episódios isolados de violência. O que se observa é a consolidação de um padrão de ocupação territorial que combina expansão dos assentamentos, militarização crescente, deslocamento forçado de comunidades palestinas e alteração gradual da […]\nO post A violência dos colonos e a nova Nakba na Cisjordânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-violencia-dos-colonos-e-a-nova-nakba-na-cisjordania/",
           "publishedOn": "2026-07-29T18:06:27.000Z",
-          "wordCount": 3883,
+          "wordCount": 3969,
           "title": "A violência dos colonos e a nova Nakba na Cisjordânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/26_06_2025_ar_rakeez_02.jpg"
         },
@@ -523,51 +538,17 @@
           "description": "A ex-presidente da Argentina, Cristina Kirchner, anunciou nesta quarta-feira (29/07) ter apresentado uma comunicação ao Comitê de Direitos Humanos das Nações Unidas contra sua condenação, que determinou seis anos de prisão e a proibição de exercer cargos públicos. Em carta aberta, intitulada “O custo democrático da politização da Justiça”, a ex-presidente argentina diz que as […]\nO post Cristina Kirchner denuncia perseguição da Justiça argentina à ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cristina-kirchner-denuncia-perseguicao-da-justica-argentina-a-onu-jamais-me-dobrarei/",
           "publishedOn": "2026-07-29T17:40:23.000Z",
-          "wordCount": 3715,
+          "wordCount": 3713,
           "title": "Cristina Kirchner denuncia perseguição da Justiça argentina à ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/g3gbbcew0aaddok.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261643",
-          "author": "Tabitha Ramalho",
-          "description": "O Ministério das Relações Exteriores da China negou que o Irã receberia um lote de 400 sistemas de mísseis antiaéreos portáteis de fabricação chinesa. “As notícias em questão são completamente infundadas. A China tem desempenhado consistentemente um papel na promoção da paz e no fim do conflito”, afirmou a chancelaria. A notícia teria sido divulgada […]\nO post China nega venda de mísseis antiaéreos ao Irã e afirma que notícias são ‘completamente infundadas’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/china-nega-venda-de-misseis-antiaereos-ao-ira-e-afirma-que-noticias-sao-completamente-infundadas/",
-          "publishedOn": "2026-07-29T17:00:42.000Z",
-          "wordCount": 2860,
-          "title": "China nega venda de mísseis antiaéreos ao Irã e afirma que notícias são ‘completamente infundadas’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/china_flag.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261632",
-          "author": "Tabitha Ramalho",
-          "description": "Na Argentina, a Mãe da Pátria é negra. María Remedios del Valle, nascida em Buenos Aires na segunda metade do século XVIII, foi um dos principais nomes da independência do país e ficou conhecida pela bravura e pela solidariedade aos colegas de luta. Em 2024, em um gesto de reconhecimento, o país estampou a imagem […]\nO post Inspiradas pela ‘Mãe da Pátria’, mulheres negras na Argentina reivindicam pautas históricas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/inspiradas-pela-mae-da-patria-mulheres-negras-na-argentina-reivindicam-pautas-historicas/",
-          "publishedOn": "2026-07-29T15:20:11.000Z",
-          "wordCount": 5324,
-          "title": "Inspiradas pela ‘Mãe da Pátria’, mulheres negras na Argentina reivindicam pautas históricas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/conemoracion_maria_remedios_del_valle_en_diputados.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261633",
-          "author": "Tatiana Carlotti",
-          "description": "Pesquisadores e representantes de instituições científicas da América Latina e do Caribe participam nesta semana, no Rio de Janeiro, do 35º Congresso Latino-Americano de Sociologia, que ocorre entre 26 e 28 de julho nos campi da Universidade Federal do Rio de Janeiro (UFRJ) e da Unirio, na Praia Vermelha. Organizado pela Associação Latino-Americana de Sociologia […]\nO post Congresso de sociologia discute crises e alternativas para América Latina e Caribe apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/congresso-de-sociologia-discute-crises-e-alternativas-para-america-latina-e-caribe/",
-          "publishedOn": "2026-07-29T14:39:00.000Z",
-          "wordCount": 3416,
-          "title": "Congresso de sociologia discute crises e alternativas para América Latina e Caribe",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/alas2025.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261605",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) lidera as intenções de voto para a corrida ao Palácio do Planalto no primeiro turno e vence em todas as simulações de segundo turno testadas para as eleições de outubro, de acordo com nova pesquisa AtlasIntel/Bloomberg divulgada nesta quarta-feira (29/07). No cenário principal de primeiro turno, o […]\nO post AtlasIntel/Bloomberg: Lula lidera primeiro turno e vence todos cenários do segundo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/atlasintel-bloomberg-lula-lidera-primeiro-turno-e-vence-todos-cenarios-do-segundo/",
-          "publishedOn": "2026-07-29T13:10:44.000Z",
-          "wordCount": 3085,
-          "title": "AtlasIntel/Bloomberg: Lula lidera primeiro turno e vence todos cenários do segundo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/54674559931_76f138edbf_c.jpg"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -575,14 +556,24 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=230489",
+          "author": "Editor Executivo",
+          "description": "Fundos da BlackRock controlarão 80% do novo campus de data centers da Meta, projeto de 14 bilhões de dólares que terá 12,5 bilhões de dólares captados em dívida. A operação integra o acúmulo acelerado de capital fictício que prepara a próxima eclosão da crise cíclica de superprodução relativa no sistema imperialista mundial em decomposição sem precedentes.",
+          "link": "https://anovademocracia.com.br/bolha-financeira-ia-avanca-eclosao-crise/",
+          "publishedOn": "2026-07-29T23:58:40.000Z",
+          "wordCount": 9040,
+          "title": "Bolha financeira da IA avança perigosamente rumo à eclosão da crise, alertam especialistas",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/Meta-TXE-Aerial1-1-3-3840-2160-1024x576.webp"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=230474",
           "author": "Giovanna Maria",
           "description": "Organizado pelo rapper e morador Alex Black, o evento contou com a participação de diversos artistas da região e demonstrou a capacidade de mobilização da própria comunidade",
           "link": "https://anovademocracia.com.br/hip-hop-contra-a-fome/",
           "publishedOn": "2026-07-29T18:19:53.000Z",
-          "wordCount": null,
+          "wordCount": 7018,
           "title": "Hip-hop contra a fome mobiliza solidariedade em São José dos Campos",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/image-29.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230425",
@@ -590,9 +581,9 @@
           "description": "A semana de 20 a 26 de julho foi marcada pelo 43º ENEPe, em São Luís (MA), que reuniu estudantes, professores, camponeses organizados pela UCL e pela LCP, indígenas e quilombolas de diferentes regiões. Também nesta edição: o Quilombo do Charco celebrou os títulos territoriais arrancados após 16 anos de luta; famílias do Acampamento Chaparral II retomaram terras públicas griladas no Tocantins; os Avá-Guarani barraram uma ordem que previa despejo e demolições; e lideranças Mura reafirmaram a resistência contra a mineração imperialista no Amazonas.",
           "link": "https://anovademocracia.com.br/boletim-novo-brasil-semana-30-2026/",
           "publishedOn": "2026-07-28T22:58:33.000Z",
-          "wordCount": null,
+          "wordCount": 11064,
           "title": "Boletim Novo Brasil (Semana 30): ‘Derrubar os muros da universidade!’: camponeses, indígenas e quilombolas unem-se à juventude combatente no 43º ENEPe",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-28-boletim-novo-brasil.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230437",
@@ -600,9 +591,9 @@
           "description": "\"Convocamos todos os que reconhecem a importância de uma imprensa democrática, popular, nacional e anti-imperialista a contribuir com o valor que estiver ao seu alcance.\"",
           "link": "https://anovademocracia.com.br/and-campanha-arrecadacao-estudio/",
           "publishedOn": "2026-07-28T20:51:54.000Z",
-          "wordCount": null,
+          "wordCount": 6910,
           "title": "AND lança campanha de arrecadação para reconstrução de estúdio",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/campanha-estudio.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230429",
@@ -610,9 +601,9 @@
           "description": "Autoproclamado “05” do clã Bolsonaro “sentiu o golpe”, distribuiu palavrões e voltou a repetir ataques à luta camponesa.",
           "link": "https://anovademocracia.com.br/bruno-scheid-sente-o-golpe-responde-ao-and/",
           "publishedOn": "2026-07-28T20:16:29.000Z",
-          "wordCount": null,
+          "wordCount": 8343,
           "title": "‘Vá à merda vocês’: candidato ao Senado, Bruno Scheid ‘sente o golpe’ e responde ao AND",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-28-scheid-choraminga.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230420",
@@ -620,9 +611,9 @@
           "description": "Militante da luta pela independência do Saara Ocidental interrompeu greve após a administração penitenciária aceitar abrir diálogo; família e organizações exigem sua libertação e o cumprimento de decisões da ONU.",
           "link": "https://anovademocracia.com.br/preso-politico-protesto-resistindo/",
           "publishedOn": "2026-07-28T18:04:24.000Z",
-          "wordCount": null,
+          "wordCount": 8491,
           "title": "Após 47 dias de greve de fome, preso político saarauí Naâma Asfari suspende protesto e segue resistindo nas masmorras marroquinas",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/preso-politico-28-07-26.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230414",
@@ -630,9 +621,9 @@
           "description": "Sob acusações sem provas contra centenas de famílias do Assentamento 1º de Março, latifundiários e o monopólio da imprensa paraguaia buscam vincular a luta pela terra ao EPP para justificar novas operações repressivas. A ofensiva ocorre em sintonia com a política contrainsurgente do imperialismo ianque e com o avanço da militarização do campo paraguaio.",
           "link": "https://anovademocracia.com.br/latifundiario-paraguaio-criminalizacao-movimento-campones/",
           "publishedOn": "2026-07-28T17:27:27.000Z",
-          "wordCount": null,
+          "wordCount": 8412,
           "title": "Latifundiários e velho Estado paraguaio lançam ofensiva de criminalização do movimento camponês após ataque atribuído ao EPP",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/EPP-posto-policial-28-07-26.avif"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230404",
@@ -640,9 +631,9 @@
           "description": "Exército concentrou R$ 115,6 milhões das transferências; descontos superaram R$ 10 milhões mensais no auge eleitoral de 2022, e o banco teve o credenciamento prorrogado até 2027 meses antes de ser liquidado.",
           "link": "https://anovademocracia.com.br/forcas-armadas-master-dividas-militares/",
           "publishedOn": "2026-07-28T00:08:16.000Z",
-          "wordCount": null,
+          "wordCount": 8292,
           "title": "Forças Armadas repassaram R$ 137,3 milhões ao Banco Master para o pagamento de dívidas de militares e pensionistas",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-27-ffaa-reacionarias-master.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230402",
@@ -650,9 +641,9 @@
           "description": "Inquérito autorizado pelo STF apurará o destino dos recursos e suspeitas de evasão de divisas, lavagem e corrupção; PF também verificará possível favorecimento ao Banco Master por emendas do senador.",
           "link": "https://anovademocracia.com.br/investigacao-master-filme-cla-bolsonaro/",
           "publishedOn": "2026-07-27T23:16:55.000Z",
-          "wordCount": null,
+          "wordCount": 8243,
           "title": "Investigação mira R$ 61 milhões enviados pelo ‘Master’ para filme do clã Bolsonaro",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-27-investigacao-master-filme.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230382",
@@ -660,19 +651,9 @@
           "description": "O Grupo de Solidariedade ao Povo Venezuelano percorre bairros de Dois Vizinhos em campanha porta a porta para arrecadar donativos às vítimas do terremoto. A mobilização se apoia no trabalho de base construído pelo coletivo, que recentemente celebrou um ano do grupo de capoeira Manduco Dandara.",
           "link": "https://anovademocracia.com.br/pr-grupo-de-solidariedade-ao-povo-venezuelano-vai-de-casa-em-casa-arrecadar-doacoes-para-vitimas-do-terremoto/",
           "publishedOn": "2026-07-27T17:52:10.000Z",
-          "wordCount": null,
+          "wordCount": 7414,
           "title": "PR: Grupo de Solidariedade ao Povo Venezuelano vai de casa em casa arrecadar doações para vítimas do terremoto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230377",
-          "author": "Redação de AND",
-          "description": "Sob o pretexto de “combater o narcotráfico”, militares e policiais avançaram sobre Bellavista Callarú; comunidade indígena denuncia criança morta, moradores feridos, casas incendiadas e três menores desaparecidos.",
-          "link": "https://anovademocracia.com.br/exercito-peruano-invade-comunidade-ticuna/",
-          "publishedOn": "2026-07-27T16:14:26.000Z",
-          "wordCount": null,
-          "title": "Exército reacionário peruano invade comunidade ticuna, mata criança, incendeia casas e deixa três menores desaparecidos, denunciam moradores",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/FOTO-DE-CAPA.jpeg"
         }
       ]
     },
@@ -708,6 +689,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3192129",
+          "author": "Gustavo Falcón",
+          "description": "Sai, pela Editora Perspectiva, obra multiautoral sobre a crise civilizatória e seus distintos aspectos. Livro lança alertas, mas vai além. Último capítulo reúne ensaios analíticos sobre as experiências que questionam o capital e apontam saídas\nThe post O Fio da História e o da esperança appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/o-fio-da-historia-e-o-da-esperanca/",
+          "publishedOn": "2026-07-29T21:11:36.000Z",
+          "wordCount": null,
+          "title": "O Fio da História e o da esperança",
+          "imageUrl": null
+        },
         {
           "id": "https://outraspalavras.net/?p=3192142",
           "author": "Fernando Henrique Ferreira",
@@ -797,16 +788,6 @@
           "wordCount": null,
           "title": "Na Índia, a surpreendente Revolta das Baratas",
           "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3191987",
-          "author": "Paulo Kliass",
-          "description": "Páreo se aproxima e presidente não tem projeto claro. Nem parece disposto a enfrentar o financismo – ao contrário, seu ministro da Fazenda aventa mais ajustes fiscais. Meses atrás, Lula apontou para o erro de sucumbir à ortodoxia. Expectativa é que escute sua própria autocrítica\nThe post Qual o programa de Lula 4.0? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/qual-o-programa-de-lula-4-0/",
-          "publishedOn": "2026-07-28T18:12:40.000Z",
-          "wordCount": null,
-          "title": "Qual o programa de Lula 4.0?",
-          "imageUrl": null
         }
       ]
     },
@@ -868,19 +849,9 @@
           "description": "\"Escrita em agosto de 1954, a obra 'Diretrizes para uma política econômica brasileira' circulou por mais de setenta anos como fantasma bibliográfico até que a Boitempo a convertesse num livro de ampla circulação. O ganho da edição está menos em resgatar uma curiosidade de arquivo do que em recolocar em movimento uma das formulações mais densas do marxismo brasileiro sobre a estrutura econômica do país.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/27/uma-feitoria-disfarcada-de-sociedade/",
           "publishedOn": "2026-07-27T11:00:00.000Z",
-          "wordCount": 15916,
+          "wordCount": 15760,
           "title": "Uma feitoria disfarçada de sociedade",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-20.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65685",
-          "author": "Boitempo",
-          "description": "Simone Nascimento escreve sobre o Dia Internacional da Mulher Negra Latino-Americana e Caribenha: \"Quase dois séculos e meio separam Tereza de Benguela de Luana Barbosa. Ainda assim, mulheres negras seguem enfrentando a violência de um Estado que, em vez de nos proteger e assegurar direitos, muitas vezes nos criminaliza, encarcera e extermina.\"",
-          "link": "https://blogdaboitempo.com.br/2026/07/25/o-que-move-as-mulheres-negras-a-marcharem/",
-          "publishedOn": "2026-07-25T11:00:00.000Z",
-          "wordCount": 13711,
-          "title": "O que move as mulheres negras a marcharem?",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-22.png"
         }
       ]
     }
