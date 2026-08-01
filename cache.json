@@ -53,6 +53,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a6d1d168ebc79031a15a24a",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu/",
+          "publishedOn": "2026-07-31T22:10:14.000Z",
+          "wordCount": 395,
+          "title": "Convenção Nacional do PSTU",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
           "id": "6a6ce94c8ebc79031a15a20d",
           "author": "Marina Cintra, de São Paulo (SP)",
           "description": "Marina Cintra e Erika Andreassy, da Secretaria Nacional de Mulheres do PSTU\nIeda e Fabiana eram um casal, mantinham um relacionamento amoroso há um ano e planejavam se casar. Ieda e Fabiana eram mulheres negras, trabalhadoras, viviam em Praia Grande (SP) e já tinham, inclusive, comprado as alian&",
@@ -98,7 +108,7 @@
           "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
           "link": "https://opiniaosocialista.com.br/como-derrotar-o-tarifaco-de-trump/",
           "publishedOn": "2026-07-29T23:06:14.000Z",
-          "wordCount": 411,
+          "wordCount": 397,
           "title": "Como derrotar o tarifaço de Trump?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
         },
@@ -169,6 +179,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/No-Rio-de-Janeiro-governado-por-Paes-e-Castro-100-mil-casas-ficam-seguem-sem-luz",
+          "author": "Kassandra Andrade de Sousa",
+          "description": "Nesta sexta (31), cerca de 100 mil imóveis na Região Metropolitana do Rio continuam sem energia dois dias depois do vendaval com ventos de 120km/h que derrubou mais de 200 árvores, atingindo parte da estrutura de distribuição elétrica do Estado. Enquanto isso, as concessionárias privadas Enel Rio e Light demonstram sua incapacidade de garantir a qualidade do serviço.\n31-07-2026\n\n/ Rio de Janeiro, Privatização, Eduardo Paes, Privatização da Energia, Cláudio Castro, Enel",
+          "link": "https://www.esquerdadiario.com.br/No-Rio-de-Janeiro-governado-por-Paes-e-Castro-100-mil-casas-ficam-seguem-sem-luz",
+          "publishedOn": "2026-07-31T21:37:39.000Z",
+          "wordCount": null,
+          "title": "No Rio de Janeiro de Paes e Castro, 100 mil casas ficam seguem sem luz",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Juri-absolve-PMs-de-Tarcisio-que-assassinaram-jovem-rendido-em-Paraisopolis",
           "author": "Kassandra Andrade de Sousa",
@@ -348,26 +368,6 @@
           "wordCount": null,
           "title": "Sindicatos e dirigentes dos trabalhadores denunciam as privatizações de Tarcísio e chamam as centrais sindicais a mobilizar pela reestatização",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Flip-Silencio-e-teimosia",
-          "author": "Iuri Tonelo",
-          "description": "Comentário sobre as entrevistas de Marta Pérez-Carbonell, Katie Kitamura e Ana Paula Tavares na Flip\nMatérias\n\n/ Cultura, Paraty",
-          "link": "https://www.esquerdadiario.com.br/Flip-Silencio-e-teimosia",
-          "publishedOn": "2026-07-27T14:04:42.000Z",
-          "wordCount": null,
-          "title": "Flip | Silêncio e teimosia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/DACS-e-preciso-organizar-a-luta-contra-a-desvalorizacao-da-filosofia-e-sociologia",
-          "author": "Eliton Renan",
-          "description": "Aprovado na última semana, o PL 4.088/23 mais conhecido por PL da desvalorização da filosofia e sociologia é mais um ataque às disciplinas das ciências humanas que vêm sendo atacadas desde o novo ensino médio. A direção do Diretório Acadêmico de Ciências Sociais da UFPE precisa organizar os estudantes para lutar contra mais esse ataque! \n O PL propõe a criação de uma nova disciplina chamada “Educação política e direitos da cidadania” para a educação básica, essa disciplina é vendida como um (…)\n25-07-2026\n\n/ Juventude, Movimento Estudantil, Reforma do Ensino Médio, Sociologia, Permanência Estudantil, Filosofia, UFPE, Revogação das reformas",
-          "link": "https://www.esquerdadiario.com.br/DACS-e-preciso-organizar-a-luta-contra-a-desvalorizacao-da-filosofia-e-sociologia",
-          "publishedOn": "2026-07-27T12:54:40.000Z",
-          "wordCount": null,
-          "title": "DACS: é preciso organizar a luta contra a desvalorização da filosofia e sociologia",
-          "imageUrl": null
         }
       ]
     },
@@ -447,16 +447,6 @@
           "wordCount": 5413,
           "title": "Invasão da PM a terreiro no AM se baseou em uma única queixa sobre ‘manifestações malignas’",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/461495F6-1665-4B9B-8362-529668A1887C.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=161887",
-          "author": "Catarina Duarte",
-          "description": "O diácono José Figueiredo, de 42 anos, foi morto pela Polícia Militar. Dias depois, uma foto tirada de contexto passou a circular na internet, impondo um novo luto à família, que teme ver a memória de José substituída por mentiras\nO conteúdo Da Redação | As duas mortes de José Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/da-redacao-as-duas-mortes-de-jose/",
-          "publishedOn": "2026-07-27T14:34:36.000Z",
-          "wordCount": 5083,
-          "title": "Da Redação | As duas mortes de José",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/07/Diacono-no-Ministerio-.webp"
         }
       ]
     },
@@ -465,6 +455,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74201",
+          "author": "Globetrotter",
+          "description": "m 14 de julho, em uma reunião em Orlando, o chefe da Agência Antidrogas dos EUA (DEA), Terrance Cole, declarou que os cartéis mexicanos e o governo do México são “a mesma coisa”. Ele não apresentou nenhuma evidência. A presidente Claudia Sheinbaum exigiu provas; nenhuma foi apresentada. O Gabinete de Segurança do México respondeu com […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/07/31/a-guerra-as-drogas-teve-mais-a-ver-com-guerra-do-que-com-drogas/",
+          "publishedOn": "2026-07-31T21:18:41.000Z",
+          "wordCount": 3803,
+          "title": "A “Guerra às Drogas” teve mais a ver com guerra do que com drogas",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/drogas.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74196",
           "author": "El Salto",
@@ -523,12 +523,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=261877",
+          "author": "Patricia de Matos",
+          "description": "Diante do anúncio da Itália de suspender temporariamente a livre circulação de pessoas com a Espanha, o comissário europeu para Assuntos Internos e Migração, Magnus Brunner, negou nesta sexta-feira (31/07), em publicação no X, que estejam ocorrendo deslocamentos de migrantes de Ceuta para o continente europeu.  A declaração acontece em meio à pressão de outros […]\nO post Itália suspende livre circulação com Espanha, enquanto UE defende acordo após crise migratória apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/italia-suspende-livre-circulacao-com-espanha-enquanto-ue-defende-acordo-apos-crise-migratoria/",
+          "publishedOn": "2026-07-31T21:42:37.000Z",
+          "wordCount": 3494,
+          "title": "Itália suspende livre circulação com Espanha, enquanto UE defende acordo após crise migratória",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/migracao.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261884",
+          "author": "Fernanda Oliveira",
+          "description": "Há 114 anos, em 31 de julho de 1912, nascia o economista norte-americano Milton Friedman, um dos principais formuladores do neoliberalismo e expoente da chamada Escola de Chicago. Defensor do “livre mercado”, da redução do papel do Estado na economia e do controle rigoroso da oferta de moeda, Friedman esteve à frente da contrarreforma que […]\nO post Milton Friedman, o arquiteto do neoliberalismo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/milton-friedman-o-arquiteto-do-neoliberalismo/",
+          "publishedOn": "2026-07-31T21:30:18.000Z",
+          "wordCount": 6377,
+          "title": "Milton Friedman, o arquiteto do neoliberalismo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/portrait_of_milton_friedman-e1785532940628.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=261847",
+          "author": "Victor Farinelli",
+          "description": "Em uma entrevista para uma emissora de rádio de Buenos Aires, o chefe de gabinete do presidente argentino Javier Milei, Diego Santilli, defendeu a renúncia da vice-presidente Victoria Villarruel – que também exerce a função de presidente do Senado. A declaração tem relação com comentários feitos por Villarruel em redes sociais nos quais questiona a […]\nO post Braço direito de Milei pede renúncia da vice-presidente argentina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/braco-direito-de-milei-pede-renuncia-da-vice-presidente-argentina/",
+          "publishedOn": "2026-07-31T21:00:29.000Z",
+          "wordCount": 2987,
+          "title": "Braço direito de Milei pede renúncia da vice-presidente argentina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/vicky.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=261880",
           "author": "Pedro Marin",
           "description": "“Em rio que tem piranha, jacaré nada de costas.” – Provérbio popular brasileiro Nove semanas até o primeiro turno das eleições e nada está garantido. A ligeira vantagem de Lula sobre Flávio Bolsonaro nas mais recentes pesquisas de opinião não deve nos iludir. Quem decidiu profetizar uma vitória de Lula no primeiro turno deveria ter […]\nO post Eleições: a linha do ‘já ganhou’ seria um erro fatal apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/eleicoes-a-linha-do-ja-ganhou-seria-um-erro-fatal/",
           "publishedOn": "2026-07-31T20:54:18.000Z",
-          "wordCount": 4963,
+          "wordCount": 4955,
           "title": "Eleições: a linha do ‘já ganhou’ seria um erro fatal",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/eleicoes.webp"
         },
@@ -538,7 +568,7 @@
           "description": "As agruras da candidatura do senador Flávio Bolsonaro (PL) à presidência da República têm deslocado o debate eleitoral para o programa do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, para um eventual quarto mandato. As dificuldades de Flávio em se desvencilhar dos problemas que cercam sua campanha, como o envolvimento no caso […]\nO post O favoritismo de Lula e o desespero do mercado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-favoritismo-de-lula-e-o-desespero-do-mercado/",
           "publishedOn": "2026-07-31T20:29:42.000Z",
-          "wordCount": 3875,
+          "wordCount": 3950,
           "title": "O favoritismo de Lula e o desespero do mercado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/lula.webp"
         },
@@ -548,7 +578,7 @@
           "description": "A figura esmaecida de Nora Ney (1922-2003) ganha lustro novo no Dossiê Nora Ney – Uma Voz Poética e Política, 100 Anos, livro de ensaios organizado pelo músico e pesquisador Raphael Fernandes Lopes Farias em torno da cantora carioca que viveu seu auge artístico entre os anos de 1952 e 1959. Publicado pela editora Garota […]\nO post Livro faz justiça à figura semi-apagada de Nora Ney apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/livro-faz-justica-a-figura-semi-apagada-de-nora-ney/",
           "publishedOn": "2026-07-31T19:55:25.000Z",
-          "wordCount": 6217,
+          "wordCount": 6248,
           "title": "Livro faz justiça à figura semi-apagada de Nora Ney",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/nora-ney.webp"
         },
@@ -558,7 +588,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (31/07) que Washington precisa agir com cautela antes de autorizar terceiros a fabricar armamento com tecnologia estadunidense.  A declaração vem depois de o presidente ucraniano, Volodymyr Zelensky, revelar que o tema da concessão de licenças para a produção de mísseis dos sistemas Patriot em território […]\nO post Trump contradiz autorização para fabricação de mísseis Patriot por parte da Ucrânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/trump-contradiz-autorizacao-para-fabricacao-de-misseis-patriot-por-parte-da-ucrania/",
           "publishedOn": "2026-07-31T19:15:50.000Z",
-          "wordCount": 3510,
+          "wordCount": 3502,
           "title": "Trump contradiz autorização para fabricação de mísseis Patriot por parte da Ucrânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/missel-ucrania.jpeg"
         },
@@ -568,7 +598,7 @@
           "description": "Desde 1991, Banco da Coreia (o Banco Central sul-coreano) publica análises anuais sobre a economia da Coreia do Norte, que não divulga estatísticas oficiais. Segundo a instituição, o PIB norte-coreano cresceu 3,5% no ano passado, alcançando 38,26 trilhões de wons sul-coreanos (cerca de R$ 135 bilhões). “O aprofundamento da cooperação econômica com a Rússia foi […]\nO post Coreia do Norte registra crescimento da economia pelo terceiro ano seguido apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-registra-crescimento-da-economia-pelo-terceiro-ano-seguido/",
           "publishedOn": "2026-07-31T17:20:14.000Z",
-          "wordCount": 3100,
+          "wordCount": 3092,
           "title": "Coreia do Norte registra crescimento da economia pelo terceiro ano seguido",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/kcna.jpg"
         },
@@ -578,7 +608,7 @@
           "description": "O atual surto de ebola na República Democrática do Congo (RDC) se espalhou de maneira mais acelerada desde que começou a ser monitorado. A velocidade de disseminação do vírus supera todas as outras 16 epidemias anteriores, segundo dados das autoridades sanitárias congolesas divulgados pelo jornal britânico The Guardian.  Desde 15 de maio deste ano, quando […]\nO post Surto de ebola na República Democrática do Congo tem crescimento mais rápido da história apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/surto-de-ebola-na-republica-democratica-do-congo-e-o-de-crescimento-mais-rapido-da-historia/",
           "publishedOn": "2026-07-31T16:34:17.000Z",
-          "wordCount": 3007,
+          "wordCount": 2999,
           "title": "Surto de ebola na República Democrática do Congo tem crescimento mais rápido da história",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/unicef.webp"
         },
@@ -588,39 +618,9 @@
           "description": "A economista costarriquenha Rebeca Grynspan saiu na frente na disputa para definir quem assumirá a Secretaria Geral da Organização das Nações Unidas (ONU) a partir de 2027. Na votação informal entre os representantes diplomáticos dos 15 países do Conselho de Segurança, a economista obteve dez votos favoráveis e apenas um negativo, além de quatro abstenções. […]\nO post Candidata da Costa Rica vence primeira votação informal para Secretária Geral da ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/diplomacia/candidata-da-costa-rica-vence-primeira-votacao-informal-para-secretaria-geral-da-onu/",
           "publishedOn": "2026-07-31T16:15:27.000Z",
-          "wordCount": 3156,
+          "wordCount": 3187,
           "title": "Candidata da Costa Rica vence primeira votação informal para Secretária Geral da ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/rebeca.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261819",
-          "author": "Fernanda Oliveira",
-          "description": "Pelo menos onze palestinos, entre eles quatro crianças, ficaram feridos nesta sexta-feira (31/07) durante uma ação conjunta de colonos e soldados israelenses no bairro de Junaid, em Nablus, segundo fontes médicas ouvidas pela emissora catari Al Jazeera. Uma das vítimas foi atingida por arma de fogo no abdômen. Ainda nesta sexta, tropas israelenses prenderam ao […]\nO post Ofensiva militar israelense na Cisjordânia deixa palestinos feridos, entre eles crianças apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/ofensiva-militar-israelense-na-cisjordania-deixa-palestinos-feridos-entre-eles-criancas/",
-          "publishedOn": "2026-07-31T15:35:43.000Z",
-          "wordCount": 3146,
-          "title": "Ofensiva militar israelense na Cisjordânia deixa palestinos feridos, entre eles crianças",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/ououoo_ouuouuo_-_uoouo.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261815",
-          "author": "Tabitha Ramalho",
-          "description": "Cuba avança no mais profundo processo de transformação de seu modelo econômico e social desde o triunfo da Revolução. Como parte desse processo, a Assembleia Nacional do Poder Popular aprovou a Lei de Organização da Administração Central do Estado, uma ampla reforma que redefine a estrutura dos órgãos administrativos e dá início à maior reestruturação […]\nO post Cuba aprova maior reforma do Estado em décadas, com redução de cargos e Ministérios apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cuba-aprova-maior-reforma-do-estado-em-decadas-com-reducao-de-cargos-e-ministerios/",
-          "publishedOn": "2026-07-31T13:51:09.000Z",
-          "wordCount": 3989,
-          "title": "Cuba aprova maior reforma do Estado em décadas, com redução de cargos e Ministérios",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/anpp-julio-202602-1-e56706c0.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=261810",
-          "author": "Tabitha Ramalho",
-          "description": "O primeiro-ministro espanhol, Pedro Sánchez, denunciou uma “violação da integridade territorial da Espanha”, após 50 mil pessoas terem entrado ilegalmente em Ceuta, no norte da África, procedentes de Marrocos nas últimas horas desta sexta-feira (31/07). O presidente do governo espanhol atribuiu a responsabilidade a “máfias de tráfico humano” pela crise migratória e defendeu a resposta […]\nO post Espanha denuncia ‘violação da integridade territorial’ após estimar entrada de 50 mil imigrantes em Ceuta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/espanha-denuncia-violacao-da-integridade-territorial-apos-estimar-entrada-de-50-mil-imigrantes-em-ceuta/",
-          "publishedOn": "2026-07-31T13:11:07.000Z",
-          "wordCount": 4319,
-          "title": "Espanha denuncia ‘violação da integridade territorial’ após estimar entrada de 50 mil imigrantes em Ceuta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/captura-de-tela-2026-07-31-100957.png"
         }
       ]
     },
@@ -636,24 +636,44 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=230634",
+          "author": "Redação de AND",
+          "description": "No A Propósito #371, os participantes relacionaram a ingerência na farsa eleitoral, a pilhagem das riquezas e a submissão militar à base semicolonial e semifeudal do País; para o AND, somente a Revolução de Nova Democracia – que extermine a dominação imperialista, o latifúndio e o capitalismo burocrático – pode garantir soberania e liberdade à Nação.",
+          "link": "https://anovademocracia.com.br/soberania-nacional-nova-democracia-brasil/",
+          "publishedOn": "2026-08-01T01:48:44.000Z",
+          "wordCount": 10353,
+          "title": "‘A soberania nacional não virá das urnas: será conquistada na luta por uma Nova Democracia’: Pedro Marin e Marcelle de Araujo debatem a dominação imperialista sobre o Brasil no ‘A Propósito’",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-31-soberania-nacional-nova-democracia.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=230537",
+          "author": "Redação de AND",
+          "description": "Realizado durante cinco dias na Universidade Federal do Maranhão, o 43º ENEPe colocou no centro do debate a intervenção do Banco Mundial na educação brasileira, as contrarreformas da formação docente e o papel dos estudantes na defesa do ensino público, gratuito e científico.",
+          "link": "https://anovademocracia.com.br/43-enepe-estudantes-pedagogia-sao-luis/",
+          "publishedOn": "2026-08-01T00:30:56.000Z",
+          "wordCount": 10516,
+          "title": "Grandioso 43º Encontro Nacional de Estudantes de Pedagogia mobiliza todo o País e estremece São Luís",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/VIVA-A-VITORIOSA-MANIFESTACAO-DO-43o-ENEPEe-EM-SAO-LUISA-vitoriosa-manifestacao-do-43°-ENEPe-r.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=230607",
           "author": "Redação de AND",
           "description": "Pequim acena com “compartilhamento de tecnologia”, enquanto o EUA avança sobre a única produtora comercial; Brasil segue subordinado aos monopólios imperialistas nas etapas de maior valor.",
           "link": "https://anovademocracia.com.br/eua-china-disputa-terras-raras-brasileiras/",
           "publishedOn": "2026-07-31T19:52:20.000Z",
-          "wordCount": null,
+          "wordCount": 8885,
           "title": "EUA e China aprofundam disputa pelo saque das ‘terras raras’ brasileiras; País concentra cerca de um quarto das reservas estimadas, mas não domina a separação",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/trump-xi-jinping-pequim-1024x576.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230387",
           "author": "Redação de AND",
           "description": "Entre Homero e Hollywood, o Odisseu de Nolan revela menos o passado da Grécia do que a profunda crise política e moral da época do imperialismo na atualidade.",
-          "link": "https://anovademocracia.com.br/a-odisseia-de-nolan-e-a-odisseia-de-homero-quando-o-espirito-do-tempo-fala-mais-alto/",
+          "link": "https://anovademocracia.com.br/a-odisseia-de-nolan-e-a-odisseia-de-homero/",
           "publishedOn": "2026-07-31T18:52:41.000Z",
-          "wordCount": null,
+          "wordCount": 9051,
           "title": "‘A Odisseia’ de Nolan e ‘A Odisseia’ de Homero: quando o espírito do tempo fala mais alto",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/eba2dacd-787f-4308-97ee-c8c9d92babd0.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230573",
@@ -661,9 +681,9 @@
           "description": "Keiko Fujimori, herdeira do clã tirano que assombrou o Peru por uma década, assumiu a chefia do governo peruano em 28 de julho, em cerimônia realizada no Palácio do Governo em Lima, após vencer o pleito por margem inferior a 50 mil votos e com o respaldo de um bloco parlamentar fascista. Fujimori anunciou o emprego das forças de repressão no chamado “combate ao crime”, a construção de uma megaprisão e a adoção de tribunais anônimos, o que motivou a imediata evasão de deputados de forças opositoras dentro da própria legalidade reacionária do plenário portando retratos de mortos do regime",
           "link": "https://anovademocracia.com.br/keiko-fujimori-forcas-armadas-peru-fascismo/",
           "publishedOn": "2026-07-31T18:05:03.000Z",
-          "wordCount": null,
+          "wordCount": 8387,
           "title": "Keiko Fujimori entrega ‘segurança’ às Forças Armadas do Peru e inaugura governo sob as sombras do fascismo de seu pai",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/keiko-fujimori.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230566",
@@ -671,9 +691,9 @@
           "description": "Em desdobramento do A Propósito #370, Victor Bellizia analisou que Jair Bolsonaro ainda consegue impor a candidatura do filho, mas perde capacidade de mobilizar as ruas e destruir politicamente os adversários que o desafiam.",
           "link": "https://anovademocracia.com.br/bolsonaro-hegemonico-direita-declina-and/",
           "publishedOn": "2026-07-31T14:32:12.000Z",
-          "wordCount": null,
+          "wordCount": 7475,
           "title": "‘Bolsonaro é hegemônico na direita, mas sua liderança declina’, analisa diretor-geral de AND",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-29-convencao-pl-1024x683.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230551",
@@ -681,9 +701,9 @@
           "description": "Entre o 1.021º e o 1.027º dias desde o Dilúvio de Al-Aqsa, o EUA interrompeu por cinco dias seus ataques contra o Irã, após 13 jornadas consecutivas de bombardeios e sob pressão da escassez de munições, das baixas impostas pela Resistência Iraniana e do risco de uma ampliação incontrolável da guerra. Washington retomou a agressão em 30 de julho, atingindo novamente o sul iraniano, mas recebeu como resposta novos golpes contra suas bases na Jordânia. No Iêmen, as Forças Armadas atingiram instalações da Aramco, mantiveram o bloqueio marítimo à Arábia Saudita e fizeram ao menos 16 embarcações recuar. Em Gaza, a ocupação prosseguiu assassinando palestinos mesmo sob o cessar-fogo, enquanto equipes de resgate retiraram os restos mortais de 99 pessoas dos escombros de uma única casa.",
           "link": "https://anovademocracia.com.br/plantao-palestina-30-07-2026/",
           "publishedOn": "2026-07-31T02:55:00.000Z",
-          "wordCount": null,
+          "wordCount": 10591,
           "title": "Plantão Palestina (24–30/07): Irã impõe pesadas perdas e obriga o EUA a suspender ataques por cinco dias; ianques retomam agressão e têm base atingida",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-30-plantao-palestina.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230499",
@@ -691,9 +711,9 @@
           "description": "Luis Lumbreras foi o mais importante arqueólogo do Peru. Esta reportagem reconstrói sua convivência com Abimael Guzmán, o Presidente Gonzalo, e publica uma tradução inédita para o português de entrevista em que analisou a realidade peruana e o fenômeno histórico do Partido Comunista do Peru (PCP).",
           "link": "https://anovademocracia.com.br/90-anos-luis-lumbreras-pdte-gonzalo-peru/",
           "publishedOn": "2026-07-31T00:45:47.000Z",
-          "wordCount": null,
+          "wordCount": 14143,
           "title": "90 anos de Luis Lumbreras: em Ayacucho, o maior arqueólogo do Peru conviveu com o Presidente Gonzalo e amou-o como um irmão",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/CDI_DESCO_011349.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230527",
@@ -701,9 +721,9 @@
           "description": "Itamaraty negou vistos a Riley Barnes e Samuel Samson, que pretendiam discutir “integridade eleitoral” em Brasília; pedidos foram apresentados na véspera de Flávio Bolsonaro lançar suspeitas sobre as urnas e pedir mais observadores estrangeiros no pleito.",
           "link": "https://anovademocracia.com.br/eua-emissarios-farsa-eleitoral-ingerencia/",
           "publishedOn": "2026-07-30T23:22:18.000Z",
-          "wordCount": null,
+          "wordCount": 8864,
           "title": "EUA tenta enviar emissários para interferir na farsa eleitoral brasileira e amplia ingerência sobre o País",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-30-funcionarios-euawebp.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=230519",
@@ -711,29 +731,9 @@
           "description": "AND recebe Pedro Marin e Marcelle de Araujo para debater a tentativa ianque de interferir nas eleições, a submissão militar e a disputa de EUA e China pelas “terras raras” brasileiras.",
           "link": "https://anovademocracia.com.br/soberania-sob-chantagem-eua-a-proposito-371/",
           "publishedOn": "2026-07-30T21:19:20.000Z",
-          "wordCount": null,
+          "wordCount": 6978,
           "title": "ASSISTA: Soberania sob chantagem: EUA amplia ingerência e avança sobre riquezas estratégicas do Brasil – A Propósito #371",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230489",
-          "author": "Editor Executivo",
-          "description": "Fundos da BlackRock controlarão 80% do novo campus de data centers da Meta, projeto de 14 bilhões de dólares que terá 12,5 bilhões de dólares captados em dívida. A operação integra o acúmulo acelerado de capital fictício que prepara a próxima eclosão da crise cíclica de superprodução relativa no sistema imperialista mundial em decomposição sem precedentes.",
-          "link": "https://anovademocracia.com.br/bolha-financeira-ia-avanca-eclosao-crise/",
-          "publishedOn": "2026-07-29T23:58:40.000Z",
-          "wordCount": null,
-          "title": "Bolha financeira da IA avança perigosamente rumo à eclosão da crise, alertam especialistas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230474",
-          "author": "Giovanna Maria",
-          "description": "Organizado pelo rapper e morador Alex Black, o evento contou com a participação de diversos artistas da região e demonstrou a capacidade de mobilização da própria comunidade",
-          "link": "https://anovademocracia.com.br/hip-hop-contra-a-fome/",
-          "publishedOn": "2026-07-29T18:19:53.000Z",
-          "wordCount": null,
-          "title": "Hip-hop contra a fome mobiliza solidariedade em São José dos Campos",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/CapasAP371.jpg"
         }
       ]
     },
@@ -770,10 +770,30 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3192492",
+          "author": "Mayara Ribeiro de Oliveira",
+          "description": "Há um olhar patologizante que reduz a deficiência a condição abjeta ou sinônimo de tragédia. Em um mundo que exalta a “eficiência” e “produtividade”, coletivos organizam-se para corrigir a tendência ao isolamento. Vale conhecer e somar-se à luta\nThe post Pessoas com deficiência, uni-vos! appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/pessoas-com-deficiencia-uni-vos/",
+          "publishedOn": "2026-07-31T22:01:07.000Z",
+          "wordCount": null,
+          "title": "Pessoas com deficiência, uni-vos!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3192442",
+          "author": "Lara Sheehi e Stephen Sheehi",
+          "description": "Ocupação sionista vai além do território. Abala regras sociais, deslocamentos diários e até a relação paciente-psicólogo. Como restaurar a identidade e os laços comunitários? Novo livro investiga o significado de clinicar em meio ao terror – e como a prática confronta o regime colonial\nThe post <i>Psicanálise sob Ocupação</i>: A resistência palestina no divã appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/psicanalise-sob-ocupacao-a-resistencia-palestina-no-diva/",
+          "publishedOn": "2026-07-31T21:16:56.000Z",
+          "wordCount": null,
+          "title": "Psicanálise sob Ocupação: A resistência palestina no divã",
+          "imageUrl": null
+        },
+        {
           "id": "https://outraspalavras.net/?p=3192455",
           "author": "Alastair Crooke",
           "description": "Diante de um Irã fortalecido e desafiador, presidente alterna insultos e pedidos de trégua. Conflito alastra-se; faltam mísseis e combustíveis. A três meses das eleições, EUA parecem vítimas de sua aposta supremacista e apolínea\nThe post Guerra: Trump com poucas cartas na mão appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/guerra-trump-com-poucas-cartas-na-mao/",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/guerratrump-com-poucas-cartas-na-mao/",
           "publishedOn": "2026-07-31T21:06:32.000Z",
           "wordCount": null,
           "title": "Guerra: Trump com poucas cartas na mão",
@@ -792,7 +812,7 @@
         {
           "id": "https://outraspalavras.net/?p=3192449",
           "author": "Celeste Murillo",
-          "description": "Série A Arquiteta retrata um futuro em que parar nas calçadas é proibido e até vagas de estacionamentos viram moradias. Suas provocações convidam refletir sobre a gentrificação feroz em cidades de Norte a Sul do planeta e como opera o “patriarcado do tijolo”... \nThe post Vidas encaixotadas: A distopia vira a esquina appeared first on Outras Palavras.",
+          "description": "Série A Arquiteta retrata um futuro em que parar nas calçadas é proibido e até vagas de estacionamentos viram moradias. Suas provocações convidam a refletir sobre a gentrificação feroz em cidades de Norte a Sul do planeta e como opera o “patriarcado do tijolo”... \nThe post Vidas encaixotadas: A distopia vira a esquina appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/vidas-encaixotadas-a-distopia-vira-a-esquina/",
           "publishedOn": "2026-07-31T19:30:18.000Z",
           "wordCount": null,
@@ -848,26 +868,6 @@
           "wordCount": null,
           "title": "Cinema: o orgulho cego de Nolan em Odisseia",
           "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192277",
-          "author": "Sergio Ferrari",
-          "description": "Em vários países, especialmente no Sul global, o ataque dos EUA e Israel eleva preços dos combustíveis, deixa estagnadas as economias e produz mais fome. O que fazer diante de sistemas alimentares tão dependentes dos combustíveis fósseis? \nThe post As vítimas globais da guerra contra o Irã appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/as-vitimas-globais-da-guerra-contra-o-ira/",
-          "publishedOn": "2026-07-30T19:46:50.000Z",
-          "wordCount": null,
-          "title": "As vítimas globais da guerra contra o Irã",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192243",
-          "author": "Bruno Nascimento",
-          "description": "Justiça volta a proibir serviço da Uber. Há enorme risco de mais acidentes e sobrecarga no SUS. Mas é preciso compreender a raiz do problema: o transporte público caríssimo e precário, que leva população a trocar o ônibus por carros e motos de app\nThe post SP: O que a polêmica dos mototáxis revela appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/sp-o-que-a-polemica-dos-mototaxis-revela/",
-          "publishedOn": "2026-07-30T19:17:55.000Z",
-          "wordCount": null,
-          "title": "SP: O que a polêmica dos mototáxis revela",
-          "imageUrl": null
         }
       ]
     },
@@ -909,7 +909,7 @@
           "description": "Felipe Brito parte da revelação de que o Banco Master teria disponibilizado R$ 134 milhões para Flávio Bolsonaro supostamente financiar um filme sobre o pai e extrai um fio da meada que permite percorrer o novelo que embola circuitos financeiros da Faria Lima, crime organizado, setores do establishment político (sobretudo o Centrão e a extrema direita), Poder Judiciário, aparatos policiais etc.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/31/notas-sobre-mercado-estado-e-bolsonarismo-quando-o-sistemico-e-antissistemico-e-vice-versa/",
           "publishedOn": "2026-07-31T11:00:00.000Z",
-          "wordCount": 13813,
+          "wordCount": 13964,
           "title": "Notas sobre mercado, Estado e bolsonarismo: quando o “sistêmico” é “antissistêmico” (e vice-versa)",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-34.png"
         },
@@ -919,7 +919,7 @@
           "description": "\"Os números de propostas de trabalho inscritas e participantes são mesmo impressionantes. Demonstram, por um lado, a força do pensamento marxista e a pluralidade dessa produção. Por outro lado, dão notícia de como ainda são poucos os eventos como esse, capazes de colocar em diálogo trabalhos que de outro modo seriam confinados a uma disciplina ou campo de conhecimento especializado, mas aqui participam de um quadro mais amplo de investigação da realidade social – e sua transformação.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/30/historical-materialism-no-rio-2026-memorias-do-evento/",
           "publishedOn": "2026-07-30T21:03:20.000Z",
-          "wordCount": 11744,
+          "wordCount": 11900,
           "title": "Historical Materialism Rio 2026: memórias do evento",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/header-hm.jpg"
         },
@@ -929,7 +929,7 @@
           "description": "A convite do Blog da Boitempo e inspirado pela leitura de \"O inimigo do apocalipse\", de Felipe Catalani, o crítico de cinema Alysson Oliveira indica longas que refletem sobre a Era Atômica e suas consequências.",
           "link": "https://blogdaboitempo.com.br/2026/07/30/as-impossibilidades-diante-do-trauma-atomico-seis-filmes-sobre-o-tema/",
           "publishedOn": "2026-07-30T11:00:00.000Z",
-          "wordCount": 11857,
+          "wordCount": 11709,
           "title": "As (im)possibilidades diante do trauma atômico: seis filmes sobre o tema",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-32.png"
         },
@@ -962,16 +962,6 @@
           "wordCount": 11998,
           "title": "Não há revolução sustentável que não seja também socialista",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/07/image-12.png?fit=1200%2C796&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65649",
-          "author": "Boitempo",
-          "description": "\"Escrita em agosto de 1954, a obra 'Diretrizes para uma política econômica brasileira' circulou por mais de setenta anos como fantasma bibliográfico até que a Boitempo a convertesse num livro de ampla circulação. O ganho da edição está menos em resgatar uma curiosidade de arquivo do que em recolocar em movimento uma das formulações mais densas do marxismo brasileiro sobre a estrutura econômica do país.\"",
-          "link": "https://blogdaboitempo.com.br/2026/07/27/uma-feitoria-disfarcada-de-sociedade/",
-          "publishedOn": "2026-07-27T11:00:00.000Z",
-          "wordCount": 15764,
-          "title": "Uma feitoria disfarçada de sociedade",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-20.png"
         }
       ]
     }
