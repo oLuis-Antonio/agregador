@@ -318,16 +318,6 @@
           "wordCount": null,
           "title": "Garis paralisam trabalho após morte de colega em São Paulo",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Backrooms-O-cinema-virou-um-nao-lugar",
-          "author": "Felipe Guarnieri",
-          "description": "Sucesso de bilheteria, Backrooms: Um Não-Lugar marcou a estreia da revelação Kane Parsons, cineasta de apenas 20 anos de idade, responsável pela adaptação no cinema da sua famosa websérie inspirada no terror cibernético homônimo. Uma aposta da produtora A24, que recentemente anunciou uma parceria com a Google para o estudo de aplicação de IA no backstage. Algo que pode viralizar rapidamente na indústria cinematográfica. O que o filme reflete sobre isso?\n28-07-2026\n\n/ Cultura",
-          "link": "https://www.esquerdadiario.com.br/Backrooms-O-cinema-virou-um-nao-lugar",
-          "publishedOn": "2026-07-28T20:51:50.000Z",
-          "wordCount": null,
-          "title": "Backrooms: O cinema virou um “não lugar”",
-          "imageUrl": null
         }
       ]
     },
@@ -550,12 +540,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=230664",
+          "author": "Redação de AND",
+          "description": "No 1.029º dia desde o Dilúvio de Al-Aqsa, as direções do Hamas e da Jihad Islâmica reuniram-se no Cairo e afirmaram uma posição nacional unificada, desmentindo a contrapropaganda de que a Resistência Nacional Palestina teria aceitado um “desarmamento completo”. Enquanto Trump celebrava seu “acordo histórico”, equipes da Defesa Civil retiraram 112 corpos, entre eles 40 crianças, dos escombros das residências de uma única família na Cidade de Gaza. No plano regional, o Irã prometeu uma resposta ampla caso o EUA ataque sua infraestrutura energética, enquanto Sanaa esclareceu que o bloqueio no Mar Vermelho atinge embarcações vinculadas à Arábia Saudita e não impõe taxas aos navios comerciais comuns.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-01-08-2026/",
+          "publishedOn": "2026-08-02T09:05:50.000Z",
+          "wordCount": 10548,
+          "title": "Plantão Palestina (01/08): ‘É preciso obrigar a ocupação a retirar-se completamente de Gaza’: Hamas e Jihad Islâmica unificam posição e respondem ao ‘acordo histórico’ de Trump; 112 corpos são retirados dos escombros",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-01-plantao-palestina.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=230654",
           "author": "Redação de AND",
           "description": "No 1.028º dia desde o Dilúvio de Al-Aqsa, a Resistência Nacional Palestina refutou a versão difundida por Donald Trump de que teria aceitado um “desarmamento completo”: o roteiro negociado vincula qualquer inventário ou armazenamento de armas pesadas ao cumprimento das obrigações sionistas, à retirada gradual das tropas e à entrada do Comitê Nacional em Gaza, sem entrega de armamentos à ocupação ou a qualquer parte não palestina. Enquanto as negociações avançavam, a entidade nazi-sionista continuou assassinando palestinos e bombardeou os depósitos de medicamentos do Hospital dos Mártires de Al-Aqsa. Dois anos após o assassinato de Ismail Haniyeh, as frações palestinas reafirmaram seu legado de unidade e Resistência; no plano regional, o Irã voltou a atingir uma base ianque no Kuwait e milhões de iemenitas respaldaram a política de “bloqueio por bloqueio”.",
           "link": "https://anovademocracia.com.br/plantao-palestina-31-07-2026/",
           "publishedOn": "2026-08-01T14:19:31.000Z",
-          "wordCount": 11254,
+          "wordCount": 11255,
           "title": "Plantão Palestina (31/07): ‘Se Israel não cumprir, não cumpriremos’: Hamas desmascara farsa do ‘desarmamento’ e exige retirada sionista; armas seguem sob controle palestino",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-07-31-plantao-palestina.jpg"
         },
@@ -565,7 +565,7 @@
           "description": "Reajuste elevou passagem de R$ 5,20 para R$ 5,80. Usuários relatam superlotação, poucas linhas e dificuldade de acesso a informações; trabalhadores das empresas TCCC e Cidade Verde aprovaram indicativo de greve.",
           "link": "https://anovademocracia.com.br/tarifa-onibus-maringa/",
           "publishedOn": "2026-08-01T12:50:56.000Z",
-          "wordCount": 7390,
+          "wordCount": 7391,
           "title": "Tarifa de ônibus mais cara agrava custo de vida em Maringá",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-01-094135.png"
         },
@@ -575,7 +575,7 @@
           "description": "Em desdobramento do A Propósito #370, o diretor-geral de AND relacionou o descrédito da farsa eleitoral aos problemas sociais não resolvidos pela velha democracia e defendeu o crescimento da luta revolucionária como alternativa à captura promovida pela extrema direita.",
           "link": "https://anovademocracia.com.br/revolucao-agraria-sistema-interesses-povo/",
           "publishedOn": "2026-08-01T11:00:00.000Z",
-          "wordCount": 7727,
+          "wordCount": 7728,
           "title": "‘Da Revolução Agrária surgirá um sistema político correspondente aos interesses do povo’, destaca diretor-geral de AND",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-31-lcp-revolucao-agraria-1024x576.png"
         },
@@ -585,7 +585,7 @@
           "description": "No A Propósito #371, os participantes relacionaram a ingerência na farsa eleitoral, a pilhagem das riquezas e a submissão militar à base semicolonial e semifeudal do País; para o AND, somente a Revolução de Nova Democracia – que extermine a dominação imperialista, o latifúndio e o capitalismo burocrático – pode garantir soberania e liberdade à Nação.",
           "link": "https://anovademocracia.com.br/soberania-nacional-nova-democracia-brasil/",
           "publishedOn": "2026-08-01T01:48:44.000Z",
-          "wordCount": 10347,
+          "wordCount": 10348,
           "title": "‘A soberania nacional não virá das urnas: será conquistada na luta por uma Nova Democracia’: Pedro Marin e Marcelle de Araujo debatem a dominação imperialista sobre o Brasil no ‘A Propósito’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-31-trump-marionete-velha-democracia.jpg"
         },
@@ -595,7 +595,7 @@
           "description": "Realizado durante cinco dias na Universidade Federal do Maranhão, o 43º ENEPe colocou no centro do debate a intervenção do Banco Mundial na educação brasileira, as contrarreformas da formação docente e o papel dos estudantes na defesa do ensino público, gratuito e científico.",
           "link": "https://anovademocracia.com.br/43-enepe-estudantes-pedagogia-sao-luis/",
           "publishedOn": "2026-08-01T00:30:56.000Z",
-          "wordCount": 10510,
+          "wordCount": 10511,
           "title": "Grandioso 43º Encontro Nacional de Estudantes de Pedagogia mobiliza todo o País e estremece São Luís",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/VIVA-A-VITORIOSA-MANIFESTACAO-DO-43o-ENEPEe-EM-SAO-LUISA-vitoriosa-manifestacao-do-43°-ENEPe-r.jpg"
         },
@@ -605,7 +605,7 @@
           "description": "Pequim acena com “compartilhamento de tecnologia”, enquanto o EUA avança sobre a única produtora comercial; Brasil segue subordinado aos monopólios imperialistas nas etapas de maior valor.",
           "link": "https://anovademocracia.com.br/eua-china-disputa-terras-raras-brasileiras/",
           "publishedOn": "2026-07-31T19:52:20.000Z",
-          "wordCount": 8879,
+          "wordCount": 8880,
           "title": "EUA e China aprofundam disputa pelo saque das ‘terras raras’ brasileiras; País concentra cerca de um quarto das reservas estimadas, mas não domina a separação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/trump-xi-jinping-pequim-1024x576.jpg"
         },
@@ -615,7 +615,7 @@
           "description": "Entre Homero e Hollywood, o Odisseu de Nolan revela menos o passado da Grécia do que a profunda crise política e moral da época do imperialismo na atualidade.",
           "link": "https://anovademocracia.com.br/a-odisseia-de-nolan-e-a-odisseia-de-homero/",
           "publishedOn": "2026-07-31T18:52:41.000Z",
-          "wordCount": 9045,
+          "wordCount": 9046,
           "title": "‘A Odisseia’ de Nolan e ‘A Odisseia’ de Homero: quando o espírito do tempo fala mais alto",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/eba2dacd-787f-4308-97ee-c8c9d92babd0.webp"
         },
@@ -625,7 +625,7 @@
           "description": "Keiko Fujimori, herdeira do clã tirano que assombrou o Peru por uma década, assumiu a chefia do governo peruano em 28 de julho, em cerimônia realizada no Palácio do Governo em Lima, após vencer o pleito por margem inferior a 50 mil votos e com o respaldo de um bloco parlamentar fascista. Fujimori anunciou o emprego das forças de repressão no chamado “combate ao crime”, a construção de uma megaprisão e a adoção de tribunais anônimos, o que motivou a imediata evasão de deputados de forças opositoras dentro da própria legalidade reacionária do plenário portando retratos de mortos do regime",
           "link": "https://anovademocracia.com.br/keiko-fujimori-forcas-armadas-peru-fascismo/",
           "publishedOn": "2026-07-31T18:05:03.000Z",
-          "wordCount": 8381,
+          "wordCount": 8382,
           "title": "Keiko Fujimori entrega ‘segurança’ às Forças Armadas do Peru e inaugura governo sob as sombras do fascismo de seu pai",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/keiko-fujimori.jpg"
         },
@@ -635,19 +635,9 @@
           "description": "Em desdobramento do A Propósito #370, Victor Bellizia analisou que Jair Bolsonaro ainda consegue impor a candidatura do filho, mas perde capacidade de mobilizar as ruas e destruir politicamente os adversários que o desafiam.",
           "link": "https://anovademocracia.com.br/bolsonaro-hegemonico-direita-declina-and/",
           "publishedOn": "2026-07-31T14:32:12.000Z",
-          "wordCount": 7469,
+          "wordCount": 7470,
           "title": "‘Bolsonaro é hegemônico na direita, mas sua liderança declina’, analisa diretor-geral de AND",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-29-convencao-pl-1024x683.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230551",
-          "author": "Redação de AND",
-          "description": "Entre o 1.021º e o 1.027º dias desde o Dilúvio de Al-Aqsa, o EUA interrompeu por cinco dias seus ataques contra o Irã, após 13 jornadas consecutivas de bombardeios e sob pressão da escassez de munições, das baixas impostas pela Resistência Iraniana e do risco de uma ampliação incontrolável da guerra. Washington retomou a agressão em 30 de julho, atingindo novamente o sul iraniano, mas recebeu como resposta novos golpes contra suas bases na Jordânia. No Iêmen, as Forças Armadas atingiram instalações da Aramco, mantiveram o bloqueio marítimo à Arábia Saudita e fizeram ao menos 16 embarcações recuar. Em Gaza, a ocupação prosseguiu assassinando palestinos mesmo sob o cessar-fogo, enquanto equipes de resgate retiraram os restos mortais de 99 pessoas dos escombros de uma única casa.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-30-07-2026/",
-          "publishedOn": "2026-07-31T02:55:00.000Z",
-          "wordCount": 10585,
-          "title": "Plantão Palestina (24–30/07): Irã impõe pesadas perdas e obriga o EUA a suspender ataques por cinco dias; ianques retomam agressão e têm base atingida",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2026-07-30-plantao-palestina.jpg"
         }
       ]
     },
@@ -803,7 +793,7 @@
           "description": "Ronaldo Tadeu de Souza: \"Diante do impulso transformador, insurrecional e emancipatório da subjetividade moderna em suas variadas manifestações políticas (e sociais), as obras de Carl Schmitt e Eric Voegelin; Hannah Arendt e Michael Oakeshott; Joseph Schumpeter e Leo Strauss; Russell Kirk e Roger Scruton são 'todas', e à sua maneira, a conformação imanente da busca pelo soerguimento intransigente da natureza contra a busca dos sujeitos modernos por liberdade, reconhecimento e igualdade efetivas.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/01/contrarrevolucao-da-natureza-simone-de-beauvoir-e-perry-anderson-explicam-o-que-e-ser-de-direita-um-ensaio/",
           "publishedOn": "2026-08-01T11:00:00.000Z",
-          "wordCount": 15472,
+          "wordCount": 15628,
           "title": "Contrarrevolução da natureza: Simone de Beauvoir e Perry Anderson explicam o que é ser de direita – um ensaio",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/simone-de-beauvoir.jpg"
         },
@@ -813,7 +803,7 @@
           "description": "Felipe Brito parte da revelação de que o Banco Master teria disponibilizado R$ 134 milhões para Flávio Bolsonaro supostamente financiar um filme sobre o pai e extrai um fio da meada que permite percorrer o novelo que embola circuitos financeiros da Faria Lima, crime organizado, setores do establishment político (sobretudo o Centrão e a extrema direita), Poder Judiciário, aparatos policiais etc.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/31/notas-sobre-mercado-estado-e-bolsonarismo-quando-o-sistemico-e-antissistemico-e-vice-versa/",
           "publishedOn": "2026-07-31T11:00:00.000Z",
-          "wordCount": 13815,
+          "wordCount": 13966,
           "title": "Notas sobre mercado, Estado e bolsonarismo: quando o “sistêmico” é “antissistêmico” (e vice-versa)",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-34.png"
         },
@@ -823,7 +813,7 @@
           "description": "\"Os números de propostas de trabalho inscritas e participantes são mesmo impressionantes. Demonstram, por um lado, a força do pensamento marxista e a pluralidade dessa produção. Por outro lado, dão notícia de como ainda são poucos os eventos como esse, capazes de colocar em diálogo trabalhos que de outro modo seriam confinados a uma disciplina ou campo de conhecimento especializado, mas aqui participam de um quadro mais amplo de investigação da realidade social – e sua transformação.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/30/historical-materialism-no-rio-2026-memorias-do-evento/",
           "publishedOn": "2026-07-30T21:03:20.000Z",
-          "wordCount": 11746,
+          "wordCount": 11744,
           "title": "Historical Materialism Rio 2026: memórias do evento",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/header-hm.jpg"
         },
@@ -833,7 +823,7 @@
           "description": "A convite do Blog da Boitempo e inspirado pela leitura de \"O inimigo do apocalipse\", de Felipe Catalani, o crítico de cinema Alysson Oliveira indica longas que refletem sobre a Era Atômica e suas consequências.",
           "link": "https://blogdaboitempo.com.br/2026/07/30/as-impossibilidades-diante-do-trauma-atomico-seis-filmes-sobre-o-tema/",
           "publishedOn": "2026-07-30T11:00:00.000Z",
-          "wordCount": 11711,
+          "wordCount": 11709,
           "title": "As (im)possibilidades diante do trauma atômico: seis filmes sobre o tema",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-32.png"
         },
@@ -843,7 +833,7 @@
           "description": "De 5 a 9 de agosto de 2026, a Festa Literária Pirata das Editoras Independentes (Flipei) atraca em São Paulo para mais uma edição, promovendo debates, lançamentos, shows e, claro, uma grande feira do livro independente. Confira a programação completa e os destaques da Boitempo no evento.",
           "link": "https://blogdaboitempo.com.br/2026/07/29/boitempo-na-flipei-2026-confira-a-programacao-de-debates-com-nossos-autores/",
           "publishedOn": "2026-07-29T18:00:25.000Z",
-          "wordCount": 11381,
+          "wordCount": 11379,
           "title": "Boitempo na Flipei 2026: confira a programação de debates com nossos autores",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/banner-blog-flipei-2026.jpg"
         },
@@ -853,7 +843,7 @@
           "description": "Bruno Marra: \"O paradoxo do Odisseu de Christopher Nolan é que toda sua glória (resultante da campanha vitoriosa em Tróia) se baseia em feitos que o tempo vai empalidecendo e transformando em signos de profunda covardia – aquilo que na Antiguidade seria razão de orgulho, hoje se transforma em motivo de vergonha e demérito.\"",
           "link": "https://blogdaboitempo.com.br/2026/07/29/o-canto-mudo-das-sereias-sobre-o-cinema-de-christopher-nolan/",
           "publishedOn": "2026-07-29T11:00:00.000Z",
-          "wordCount": 14009,
+          "wordCount": 14007,
           "title": "O canto mudo das sereias: sobre o cinema de Christopher Nolan",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-25.png"
         }
