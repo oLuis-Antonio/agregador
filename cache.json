@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "JfkC1D",
+          "author": null,
+          "description": "A greve por tempo indeterminado dos ferroviários das Linhas 11-Coral, 12-Safira e 13-Jade da CPTM, iniciada em 4 de agosto, marca um novo momento na luta organizada dos trabalhadores contra as privatizações promovidas pelo governo Tarcísio de Freitas. A paralisação ocorre após semanas de denúncias sobre a precarização do sistema, agravadas pelo incêndio em um trem poucos dias depois da transferência das linhas para a concessionária Trivia Trens.",
+          "link": "https://jornalofuturo.com.br/artigo/JfkC1D-greve-dos-ferroviarios-marca-novo-momento-na-luta-contra-as-privatizacoes-no-transporte-publico-paulista",
+          "publishedOn": "2026-08-05T18:00:00.000Z",
+          "wordCount": 3523,
+          "title": "Greve dos ferroviários marca novo momento na luta contra as privatizações no transporte público paulista",
+          "imageUrl": "https://media.jornalofuturo.com.br/3-17-1200x800.webp"
+        },
+        {
           "id": "0SgMVo",
           "author": null,
           "description": "Tarifa aumentou 11,5% e município destinará cerca de R$ 60 milhões ao transporte coletivo em 2026, evidenciando os limites da gestão privada e reforçando a necessidade de estatização e Passe Livre.",
@@ -109,6 +119,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Mamdani-volta-atras-na-expansao-do-NYPD-mas-o-aparato-repressivo-de-Nova-York-segue-intacta",
+          "author": "Maryam Alaniz",
+          "description": "Zohran Mamdani recua no seu plano de expandir o NYPD depois de receber reações negativas do DSA e de organizações ligadas ao movimento anti-polícia. À primeira vista, isso pode parecer uma vitória, mas isso não muda a realidade concreta: o NYPD continua bem financiado e repressivo, reforçando a necessidade de construir um movimento independente contra a polícia.\n05-08-2026\n\n/ Internacional, EUA, Nova York, Democratic Socialists of America (DSA), Zohran Mamdani",
+          "link": "https://www.esquerdadiario.com.br/Mamdani-volta-atras-na-expansao-do-NYPD-mas-o-aparato-repressivo-de-Nova-York-segue-intacta",
+          "publishedOn": "2026-08-05T20:18:02.000Z",
+          "wordCount": null,
+          "title": "Mamdani volta atrás na expansão do NYPD, mas o aparato repressivo de Nova York segue intacta",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Revogacao-de-visto-de-embaixadora-e-a-escalada-da-ingerencia-dos-EUA-nas-eleicoes-brasileiras",
           "author": "Ítalo Gimenes",
@@ -295,13 +315,39 @@
       "title": "Intercept Brasil",
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444337",
+          "author": "Deborah Leão",
+          "description": "Na semana passada, mais de 50 mil pessoas arriscaram suas vidas para atravessar a fronteira entre o Marrocos e Ceuta, o minúsculo enclave espanhol no norte da África, na esperança de chegar à Europa continental. A grande maioria delas já foi devolvida ao Marrocos; permanecem em Ceuta menos de 2 mil refugiados, que, segundo as […]\nO post Migração em massa de marroquinos à Espanha vira munição para extrema direita apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/05/migracao-em-massa-de-marroquinos-a-espanha-vira-municao-para-extrema-direita/",
+          "publishedOn": "2026-08-05T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Migração em massa de marroquinos à Espanha vira munição para extrema direita",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/Header-Migracao-Ceuta-Espanha-Marrocos.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/Header-Migracao-Ceuta-Espanha-Marrocos.jpg"
+        }
+      ]
     },
     {
       "title": "Ponte Jornalismo",
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=162029",
+          "author": "Mariana Rosetti",
+          "description": "Foram 67 ocorrências no primeiro semestre de 2026, maior número desde 2022, alta se concentra na capital e na Grande São Paulo em meio à queda de roubos e ao apagão de dados sobre agentes que fazem \"bicos\" na segurança privada\nO conteúdo Mortes pela polícia com agentes de folga atingem maior número desde 2022 em SP Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/mortes-pela-policia-com-agentes-de-folga-atingem-maior-numero-desde-2022-em-sp/",
+          "publishedOn": "2026-08-05T21:02:10.000Z",
+          "wordCount": 5863,
+          "title": "Mortes pela polícia com agentes de folga atingem maior número desde 2022 em SP",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2024/03/DSC_0124-jpg.webp"
+        },
         {
           "id": "https://ponte.org/?p=162003",
           "author": "Catarina Duarte",
@@ -377,13 +423,73 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262284",
+          "author": "Pedro Marin",
+          "description": "A meados de julho, os Democratas Socialistas da América (DSA) lançaram seu novo programa político. O documento reforça alguns dos compromissos centrais da organização, como a luta pelo acesso universal e gratuito à saúde (“Medicare for All”), e insiste nas propostas de acesso à moradia a preços justos. No campo semântico, o programa adota mais […]\nO post O que o novo programa do DSA diz, ou não diz, sobre uma futura política internacional socialista americana? apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-que-o-novo-programa-do-dsa-diz-ou-nao-diz-sobre-uma-futura-politica-internacional-socialista-americana/",
+          "publishedOn": "2026-08-05T20:53:26.000Z",
+          "wordCount": 4924,
+          "title": "O que o novo programa do DSA diz, ou não diz, sobre uma futura política internacional socialista americana?",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/dsa.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262269",
+          "author": "Patricia de Matos",
+          "description": "O Senado do Chile aprovou nesta terça-feira (04/08) o relatório da comissão mista sobre a megarreforma econômica do governo de José Antonio Kast, com 27 votos a favor e 22 contra, destravando o último ponto de divergência entre as duas casas do Congresso.  Com isso, o projeto conclui sua tramitação legislativa. A proposta agora segue […]\nO post Megarreforma econômica de Kast avança no Chile e encerra tramitação legislativa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/megarreforma-economica-de-kast-avanca-no-chile-e-encerra-tramitacao-legislativa/",
+          "publishedOn": "2026-08-05T20:14:36.000Z",
+          "wordCount": 3155,
+          "title": "Megarreforma econômica de Kast avança no Chile e encerra tramitação legislativa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/53892944337_f8d9a888a5_c.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262252",
+          "author": "Raissa Neves",
+          "description": "O Exército de Israel realizou nesta quarta-feira (05/08)  uma série de ataques aéreos contra o sul do Líbano, alegando que a ofensiva foi uma resposta a uma “violação flagrante” do cessar-fogo por parte do Hezbollah. Segundo o Ministério da Saúde libanês, os bombardeios deixaram uma pessoa morta e outras onze feridas. O ataque que gerou […]\nO post Israel ataca sul do Líbano após acusar, sem provas, Hezbollah de violar cessar-fogo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-ataca-sul-do-libano-apos-acusar-sem-provas-hezbollah-de-violar-cessar-fogo/",
+          "publishedOn": "2026-08-05T19:50:12.000Z",
+          "wordCount": 3336,
+          "title": "Israel ataca sul do Líbano após acusar, sem provas, Hezbollah de violar cessar-fogo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/tiro-libano-1024x570-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262250",
+          "author": "Patricia de Matos",
+          "description": "O chanceler argentino, Pablo Quirno, afirmou nesta quarta-feira (05/08) esperar que o Brasil passe a integrar a “onda conservadora” que avança pela América do Sul.  A declaração ocorre um dia após o governo brasileiro rebaixar as relações diplomáticas com Buenos Aires. O país decidiu manter a representação bilateral apenas no nível de encarregado de negócios […]\nO post Chanceler argentino defende ‘mudança ideológica’ no Brasil em meio à crise diplomática apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/chanceler-argentino-defende-mudanca-ideologica-no-brasil-em-meio-a-crise-diplomatica/",
+          "publishedOn": "2026-08-05T19:00:10.000Z",
+          "wordCount": 3445,
+          "title": "Chanceler argentino defende ‘mudança ideológica’ no Brasil em meio à crise diplomática",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/pablo-quirno.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262255",
+          "author": "Victor Farinelli",
+          "description": "O deputado federal Alfredo Gaspar (PL-AL), que foi anunciado como candidato a vice-presidente na chapa encabeçada por Flávio Bolsonaro (PL) nesta quarta-feira (05/08), é acusado de estupro de uma adolescente que teria ocorrido anos atrás. A relação não consensual teria resultado no nascimento de um filho do parlamentar com a menor de idade. A acusação […]\nO post Flávio Bolsonaro anuncia como vice político acusado por estupro de menor apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-anuncia-como-vice-politico-acusado-por-estupro-de-menor/",
+          "publishedOn": "2026-08-05T18:20:42.000Z",
+          "wordCount": 2914,
+          "title": "Flávio Bolsonaro anuncia como vice político acusado por estupro de menor",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/gaspar.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262248",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério do Comércio chinês anunciou, nesta quarta-feira (05/08), a imposição de novas sanções a seis empresas norte-americanas em resposta às restrições anteriormente impostas por Washington. As empresas afetadas são: Applied DNA Sciences, Stratum Reservoir, Altana Technologies, Responsible Business Alliance, Verite Group e a organização Human Rights in China. Com isso, as autoridades asiáticas proibiram […]\nO post China anuncia sanções a seis empresas dos EUA em resposta a restrições de Washington apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/china-anuncia-sancoes-a-seis-empresas-dos-eua-em-resposta-a-restricoes-de-washington/",
+          "publishedOn": "2026-08-05T17:43:28.000Z",
+          "wordCount": 3012,
+          "title": "China anuncia sanções a seis empresas dos EUA em resposta a restrições de Washington",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1920px-_.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262245",
           "author": "Victor Farinelli",
-          "description": "Em entrevista realizada nesta quarta-feira (05/08), o presidente do Brasil, Luiz Inácio Lula da Silva criticou o governo dos Estados Unidos por revogar o visto da embaixadora brasileira em Washington, Maria Luiza Ribeiro Viotti, em decisão anunciada no dia anterior pelo Departamento de Estado norte-americano. O tema foi levantado durante conversa com jornalistas dos canais […]\nO post Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogar visto de embaixadora do Brasil apareceu primeiro em Opera Mundi.",
+          "description": "Em entrevista realizada nesta quarta-feira (05/08), o presidente do Brasil, Luiz Inácio Lula da Silva criticou o governo dos Estados Unidos por revogar o visto da embaixadora brasileira em Washington, Maria Luiza Ribeiro Viotti, em decisão anunciada no dia anterior pelo Departamento de Estado norte-americano. O tema foi levantado durante conversa com jornalistas dos canais […]\nO post Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogarem visto de embaixadora do Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-afirma-que-eua-tomaram-atitude-irresponsavel-ao-revogar-visto-de-embaixadora-do-brasil/",
           "publishedOn": "2026-08-05T16:35:16.000Z",
-          "wordCount": 3385,
-          "title": "Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogar visto de embaixadora do Brasil",
+          "wordCount": 3301,
+          "title": "Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogarem visto de embaixadora do Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/lula.jpg"
         },
         {
@@ -392,7 +498,7 @@
           "description": "As forças israelenses ampliaram suas operações militares na Cisjordânia ocupada nesta quarta-feira (05/08), realizando um novo ataque ao campo de refugiados de Qalandiya em meio a crescentes restrições e violência por parte das Forças de Defesa de Israel (IDF) que atuam na região ao lado dos colonos. O Exército também distribuiu panfletos no campo de […]\nO post Exército israelense ataca campo de refugiados na Cisjordânia Ocupada apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/exercito-israelense-ataca-campo-de-refugiados-na-cisjordania-ocupada/",
           "publishedOn": "2026-08-05T15:40:12.000Z",
-          "wordCount": 3484,
+          "wordCount": 3486,
           "title": "Exército israelense ataca campo de refugiados na Cisjordânia Ocupada",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhtr5-ux0ai1mdr.jpg"
         },
@@ -402,7 +508,7 @@
           "description": "O instituto Quaest publicou nesta quarta-feira (05/08) uma nova pesquisa relacionada à corrida eleitoral presidencial no Brasil, e que mostra a manutenção da liderança do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, embora sua vantagem sobre Flávio Bolsonaro (PL) seja menor do que a registrada em julho passado. Segundo a medição feita […]\nO post Quaest: Lula mantém liderança nos dois turnos, apesar de crescimento de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/quaest-lula-mantem-lideranca-nos-dois-turnos-apesar-de-crescimento-de-flavio-bolsonaro/",
           "publishedOn": "2026-08-05T15:11:59.000Z",
-          "wordCount": 3010,
+          "wordCount": 3009,
           "title": "Quaest: Lula mantém liderança nos dois turnos, apesar de crescimento de Flávio Bolsonaro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/lula-2.jpg"
         },
@@ -412,69 +518,9 @@
           "description": "O Comando Sul dos Estados Unidos (Southcom) anunciou nesta terça-feira (04/08) a criação da Joint Task Force Western Hemisphere (JTF-WHEM), uma força-tarefa multinacional que reunirá militares norte-americanos e de outros 18 países integrantes da Coalizão das Américas contra Cartéis (Americas Counter Cartel Coalition – A3C).  Segundo o Southcom, a nova estrutura militar será responsável por […]\nO post Comando Sul dos EUA cria força militar com 18 países aliados da América Latina apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/comando-sul-dos-eua-cria-forca-militar-com-18-paises-aliados-da-america-latina/",
           "publishedOn": "2026-08-05T15:09:13.000Z",
-          "wordCount": 3448,
+          "wordCount": 3452,
           "title": "Comando Sul dos EUA cria força militar com 18 países aliados da América Latina",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/escudo-das-americas-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262216",
-          "author": "Tabitha Ramalho",
-          "description": "A Rússia realizou um novo ataque massivo de mísseis e drones em regiões ucranianas na madrugada desta quarta-feira (05/08). A capital ucraniana, Kiev, foi o alvo mais atingido no bombardeio. Segundo as Forças Armadas da Ucrânia, as forças russas lançaram quatro mísseis antinavio Zircon/Onyx, 24 mísseis balísticos Iskander-M e 115 drones de vários tipos contra […]\nO post Rússia realiza ataque retaliatório de mísseis e drones em Kiev apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-realiza-ataque-retaliatorio-de-misseis-e-drones-em-kiev/",
-          "publishedOn": "2026-08-05T13:20:27.000Z",
-          "wordCount": 3226,
-          "title": "Rússia realiza ataque retaliatório de mísseis e drones em Kiev",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1482693.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262214",
-          "author": "Tabitha Ramalho",
-          "description": "Em reunião de emergência, ministros do Interior do bloco concordaram em aumentar os esforços e investimentos contra a imigração ilegal, incluindo a intensificação de retornos e parcerias com países terceiros. A crise no enclave espanhol de Ceuta, no Marrocos, deve acelerar as políticas contra a imigração ilegal na União Europeia. A decisão veio após reunião […]\nO post UE endurece políticas anti-imigração após crise em Ceuta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/ue-endurece-politicas-anti-imigracao-apos-crise-em-ceuta/",
-          "publishedOn": "2026-08-05T12:40:34.000Z",
-          "wordCount": 4003,
-          "title": "UE endurece políticas anti-imigração após crise em Ceuta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/whatsapp-image-2026-07-31-at-10.30.43.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262211",
-          "author": "Tabitha Ramalho",
-          "description": "Os houthis no Iêmen atacaram o petroleiro saudita Wafa no norte do Mar Vermelho, próximo à cidade portuária de Yanbu. Segundo um comunicado divulgado pelo grupo na quarta-feira (05/08), a embarcação foi atingida por vários mísseis balísticos que acertaram o alvo com precisão. O comunicado afirma que esta operação faz parte da implementação da decisão […]\nO post Houthis atacam petroleiro saudita no Mar Vermelho e ampliam bloqueio a navios de Riad apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/houthis-atacam-petroleiro-saudita-no-mar-vermelho-e-ampliam-bloqueio-a-navios-de-riad/",
-          "publishedOn": "2026-08-05T11:58:29.000Z",
-          "wordCount": 3172,
-          "title": "Houthis atacam petroleiro saudita no Mar Vermelho e ampliam bloqueio a navios de Riad",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-05-085715.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262208",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente dos EUA, Donald Trump, disse que seu governo teve “discussões muito boas” com o Irã durante as negociações que duraram o dia todo nesta terça-feira (04/08). “Eles negociaram o dia todo”, disse o republicano ao programa @ Night da Fox News. O Estreito de Ormuz “será aberto muito em breve”, acrescentou Trump. “Se […]\nO post Trump alerta que Irã será ‘atingido com força’ se recuar nas negociações apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-alerta-que-ira-sera-atingido-com-forca-se-recuar-nas-negociacoes/",
-          "publishedOn": "2026-08-05T11:21:13.000Z",
-          "wordCount": 3660,
-          "title": "Trump alerta que Irã será ‘atingido com força’ se recuar nas negociações",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55438549728_9696210f32_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262205",
-          "author": "Rocio Paik",
-          "description": "A Organização Mundial da Saúde (OMS) pediu nesta terça-feira (04/08) um aumento da ajuda da comunidade internacional em todos os níveis para combater a epidemia de ebola na República Democrática do Congo (RDC). A doença está se propagando mais rapidamente do que a resposta sanitária. De acordo com um estudo recente divulgado pela revista Science, […]\nO post OMS pede reforço no combate ao ebola no Congo; estudo aponta atraso de meses na detecção do surto apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/oms-pede-reforco-no-combate-ao-ebola-no-congo-estudo-aponta-atraso-de-meses-na-deteccao-do-surto/",
-          "publishedOn": "2026-08-05T06:50:49.000Z",
-          "wordCount": 3560,
-          "title": "OMS pede reforço no combate ao ebola no Congo; estudo aponta atraso de meses na detecção do surto",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/screening_tents_during_the_1995_kikwit_ebola_outbreak-1.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262201",
-          "author": "Rocio Paik",
-          "description": "O Brasil decidiu nesta terça-feira (04/08) retirar indefinidamente seu embaixador em Buenos Aires, Julio Bitelli, e rebaixar o nível da relação bilateral com a Argentina para o cargo de encarregado de negócios. O governo deve manter o Bitelli em solo brasileiro enquanto Javier Milei mantiver os ataques diretos ao presidente Luiz Inácio Lula da Silva […]\nO post Após ofensas de Milei, Brasil rebaixa relações diplomáticas com Argentina  apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/apos-ofensas-de-milei-brasil-rebaixa-relacoes-diplomaticas-com-argentina/",
-          "publishedOn": "2026-08-05T06:10:24.000Z",
-          "wordCount": 3345,
-          "title": "Após ofensas de Milei, Brasil rebaixa relações diplomáticas com Argentina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/fcd6edac-13a9-4f04-80e1-96a72f81b140_16-9-discover-aspect-ratio_default_0.webp"
         }
       ]
     },
@@ -495,9 +541,9 @@
           "description": "A ciência é social; a maquinaria que a converte em lucro é privada. Quanto mais social se torna a produção da inteligência, mais concentrada se torna sua apropriação.",
           "link": "https://anovademocracia.com.br/inteligencia-artificial-conhecimento-social/",
           "publishedOn": "2026-08-05T15:40:57.000Z",
-          "wordCount": 9663,
+          "wordCount": null,
           "title": "O Senhor dos Dínamos no século XXI: Inteligência Artificial e inovação a serviço do monopólio do conhecimento social",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/china-socialista-computador-150.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230760",
@@ -505,9 +551,9 @@
           "description": "O jornal A Nova Democracia convida e convoca os amigos e leitores, os escritores, poetas, artistas e todos aqueles que acompanham as lutas dos povos oprimidos a participar do IV Concurso Literário de Contos, Crônicas e Poesias.",
           "link": "https://anovademocracia.com.br/iv-concurso-literario-and-anti-imperialista/",
           "publishedOn": "2026-08-05T12:57:28.000Z",
-          "wordCount": 7012,
+          "wordCount": null,
           "title": "AND anuncia IV Concurso Literário de Contos, Crônicas e Poesias com o tema ‘A luta anti-imperialista’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/and-concurso-02.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230730",
@@ -515,9 +561,9 @@
           "description": "A denúncia é reforçada por familiares, que apresentaram um abaixo-assinado em protesto, cobrando medidas que garantam condições mínimas de ensino, aprendizagem e a manutenção dos aparelhos de ar-condicionado.",
           "link": "https://anovademocracia.com.br/am-protesto-comunidade-escolar-manaus/",
           "publishedOn": "2026-08-05T00:56:30.000Z",
-          "wordCount": 7132,
+          "wordCount": null,
           "title": "AM: Comunidade escolar se une em protesto contra falta de merenda escolar e climatizadores em pleno verão amazônico",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-29-at-14.08.06.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230734",
@@ -525,9 +571,9 @@
           "description": "Ministros de Santiago Peña ampliam o cerco a Canindeyú ao transformar indícios balísticos e coincidências territoriais numa pantomima de aliança orgânica, sem apresentar provas de comando, financiamento ou logística comuns entre o EPP e organizações do tráfico.",
           "link": "https://anovademocracia.com.br/velho-estado-acusa-epp-ligacoes-com-trafico/",
           "publishedOn": "2026-08-04T19:03:24.000Z",
-          "wordCount": 9084,
+          "wordCount": null,
           "title": "Incapaz de derrotar o EPP, velho Estado paraguaio forja tese de ‘ligação com o tráfico’ sob cartilha contrainsurgente ianque",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/membros-epp.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230721",
@@ -535,14 +581,14 @@
           "description": "Carlos André de Almeida Cardoso, conhecido como Carlinhos, tinha 19 anos e deixou um filho de um ano. Segundo a família, ele voltava para casa de motocicleta quando foi morto durante abordagem policial.",
           "link": "https://anovademocracia.com.br/prisao-pm-morte-jovem-revogada-manaus/",
           "publishedOn": "2026-08-04T10:50:00.000Z",
-          "wordCount": 7835,
+          "wordCount": null,
           "title": "Prisão de PM acusado pela morte de jovem é revogada em Manaus; familiares cobram justiça: ‘A lei é só para o pobre’",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/VIDEO-01.mp4",
             "length": "6796551",
             "type": "video/mp4"
           },
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/FOTO-CAPA-1.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230704",
@@ -550,9 +596,9 @@
           "description": "Sem apresentar provas públicas da autoria, o velho Estado colombiano atribuiu a explosão ao ELN; o presidente eleito Abelardo de la Espriella assume em 7 de agosto sob a promessa de ampliar a ofensiva contrainsurgente.",
           "link": "https://anovademocracia.com.br/colombia-caca-aos-revolucionarios-eln-bomba/",
           "publishedOn": "2026-08-03T19:47:27.000Z",
-          "wordCount": 8362,
+          "wordCount": null,
           "title": "Caminhão-bomba explode diante de delegacia em Cúcuta, na Colômbia; velho Estado atribui ataque ao ELN e prepara caça aos revolucionários",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/eln-caminhao-bomba-colombia.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230652",
@@ -560,9 +606,9 @@
           "description": "Projeto Cozinheiros do Bem, que distribui refeições há cerca de 10 anos na capital gaúcha, denunciou truculência de agentes no Viaduto da Conceição.",
           "link": "https://anovademocracia.com.br/guarda-marmitas-moradores-porto-alegre/",
           "publishedOn": "2026-08-03T19:03:08.000Z",
-          "wordCount": 7238,
+          "wordCount": null,
           "title": "Guarda Municipal reprime entrega de marmitas a moradores de rua em Porto Alegre",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230692",
@@ -570,9 +616,9 @@
           "description": "Em cobertura do Boletim Popular da Vila Kennedy, população relata que operação com caveirões fechou escolas, comércio e uma Clínica da Família; incêndio provocou queimaduras e inalação de fumaça.",
           "link": "https://anovademocracia.com.br/operacao-vila-kennedy-pm-incendeia-casa/",
           "publishedOn": "2026-08-03T18:07:14.000Z",
-          "wordCount": 7322,
+          "wordCount": null,
           "title": "Operação na Vila Kennedy: polícia terrorista incendeia casa e gera revolta em moradores",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-e1785779164513.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230663",
@@ -580,9 +626,9 @@
           "description": "Declaração denuncia que o Estado português abriu terras comunitárias à mineradora britânica Savannah Resources, associada a monopólios de outras potências imperialistas, inclusive ao capital financeiro ianque; convoca apoio ao acampamento de resistência e saúda a Revolução Agrária em curso no Brasil.",
           "link": "https://anovademocracia.com.br/barroso-minas-megaprojeto-litio-portugal/",
           "publishedOn": "2026-08-03T16:04:32.000Z",
-          "wordCount": 8758,
+          "wordCount": null,
           "title": "‘O povo do Barroso não quer minas!’: anti-imperialistas declaram solidariedade à resistência contra megaprojeto minerário de lítio em Portugal",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/covas-do-barroso-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230669",
@@ -590,9 +636,9 @@
           "description": "Em desdobramento do A Propósito #369, representante da Liga Anti-imperialista Internacional afirmou que a ofensiva contrainsurgente pode ampliar a repressão imediata, mas não possui condições de derrotar estrategicamente a rebelião das massas.",
           "link": "https://anovademocracia.com.br/repressao-bumerangue-contra-comunistas-lai/",
           "publishedOn": "2026-08-03T15:00:42.000Z",
-          "wordCount": 7412,
+          "wordCount": null,
           "title": "‘Essa repressão possui um efeito bumerangue’, afirma LAI sobre política contrarrevolucionária ianque contra anti-imperialistas e comunistas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lai-genebra-lcp.png"
+          "imageUrl": null
         }
       ]
     },
@@ -658,6 +704,36 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3192808",
+          "author": "Jayati Ghosh",
+          "description": "Nesta semana, Convenção da ONU negocia proposta para países tributarem as empresas transnacionais, que hoje evadem lucros para paraísos fiscais. Se adotada, poderia zerar a dívida externa de vários países do Sul global e estimular investimentos em setores essenciais\nThe post Todos ganham ao taxar as corporações estrangeiras appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/todos-ganham-ao-taxar-as-corporacoes-estrangeiras/",
+          "publishedOn": "2026-08-05T20:16:40.000Z",
+          "wordCount": null,
+          "title": "Todos ganham ao taxar as corporações estrangeiras",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3192724",
+          "author": "Elias Clure e Che Chorley",
+          "description": "Os planos da família Trump para construir um megaresort de luxo num paraíso ecológico. População sai às ruas há dois meses e quer a queda de governo que afrouxou leis ambientais e dá subsídios ao projeto. Uma reportagem em texto e fotos\nThe post Albânia: Bem-vindo à Revolução dos Flamingos appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/albania-bem-vindo-a-revolucao-dos-flamingos/",
+          "publishedOn": "2026-08-05T19:52:44.000Z",
+          "wordCount": null,
+          "title": "Albânia: Bem-vindo à Revolução dos Flamingos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3192810",
+          "author": "Roberto Amaral",
+          "description": "Promessa de modernização do país cedeu lugar ao retorno a uma economia agroexportadora. Sem a indústria não há desenvolvimento nem distribuição de renda; prevalece deficiências tributárias e descontinuidade de políticas. Tema estará no debate eleitoral?\nThe post O Brasil continuará governado pelo passado? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/o-brasil-continuara-governado-pelo-passado/",
+          "publishedOn": "2026-08-05T19:39:31.000Z",
+          "wordCount": null,
+          "title": "O Brasil continuará governado pelo passado?",
+          "imageUrl": null
+        },
         {
           "id": "https://outraspalavras.net/?p=3192746",
           "author": "James Görgen",
@@ -727,36 +803,6 @@
           "wordCount": null,
           "title": "Defesa: o Brasil diante da Doutrina Donroe",
           "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192502",
-          "author": "Bruno Barcella",
-          "description": "Em busca de caixa, prefeituras “securitizam” suas arrecadações – leiloando-as com “descontos” obscenos. Resultados: captura da riqueza urbana num ciclo sem fim de endividamento, perda da capacidade de planejar e avanço das privatizações\nThe post Como as cidades se vendem ao rentismo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/como-cidades-se-vendem-ao-rentismo/",
-          "publishedOn": "2026-08-03T21:31:36.000Z",
-          "wordCount": null,
-          "title": "Como as cidades se vendem ao rentismo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192594",
-          "author": "Thiago Gama",
-          "description": "Socióloga analisa os novos dispositivos médico-jurídicos para patologizar “desvios”. Critica determinismo biológico no discurso anti-identitário, inclusive na esquerda. E aponta: pessoas estão morrendo – reconhecimento não pode esperar a revolução\nThe post Quem tem medo dos corpos trans? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/quem-tem-medo-dos-corpos-trans/",
-          "publishedOn": "2026-08-03T21:21:05.000Z",
-          "wordCount": null,
-          "title": "Quem tem medo dos corpos trans?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192544",
-          "author": "Daniel Barreiros",
-          "description": "Magnatas como Peter Thiel sustentam que, em momentos decisivos, as democracias se paralisam. Propõem transferir a soberania para as big techs e os algoritmos, com base em leis desenhadas pelo mercado. Estados sem projeto nacional sólido já são alvo\nThe post A Palantir e o neorreacionarismo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/a-palantir-e-o-projeto-neorreacionarista/",
-          "publishedOn": "2026-08-03T21:12:48.000Z",
-          "wordCount": null,
-          "title": "A Palantir e o neorreacionarismo",
-          "imageUrl": null
         }
       ]
     },
@@ -771,7 +817,7 @@
           "description": "A gramática de classe não exige aparatos burocráticos, exige enraizamento no chão do bairro, da fábrica, do escritório, precisamente o chão que a esquerda evacuou.",
           "link": "https://passapalavra.info/2026/08/159568/",
           "publishedOn": "2026-08-05T17:42:39.000Z",
-          "wordCount": 6982,
+          "wordCount": 6988,
           "title": "A Gramática sem Dono – Parte II",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/08/batman2018-2.jpg"
         },
@@ -781,7 +827,7 @@
           "description": "É difícil enfatizar a importância do esforço para unir não apenas diferentes agendas ou objetivos, mas diferentes procedimentos políticos — para aproveitar as revoltas e as greves juntos, não apenas como táticas, mas como modalidades.  Por Joshua Clover",
           "link": "https://passapalavra.info/2026/08/159560/",
           "publishedOn": "2026-08-04T11:17:18.000Z",
-          "wordCount": 11161,
+          "wordCount": 11167,
           "title": "Revolta. Greve. Revolta: A nova era de levantes (8)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/08/ppdesc.jpg"
         },
@@ -803,12 +849,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=65942",
+          "author": "Boitempo",
+          "description": "Ao longo desse segundo semestre de 2026, as noites de terça-feira curitibanas contarão com uma programação especial: o Curso Livre Marx-Engels: O Essencial, que chega pela primeira vez ao Paraná. Confira a agenda completa de aulas e chame seus camaradas!",
+          "link": "https://blogdaboitempo.com.br/2026/08/05/curso-livre-marx-engels-o-essencial-em-curitiba-confira-a-programacao-completa-de-aulas/",
+          "publishedOn": "2026-08-05T18:32:20.000Z",
+          "wordCount": 12675,
+          "title": "“Curso Livre Marx-Engels: O Essencial” em Curitiba: confira a programação completa de aulas",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/banner-blog-curso-livre-marx-engels-2026-curitiba_01.jpg"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=65851",
           "author": "Boitempo",
           "description": "Ronaldo Tadeu de Souza: \"Diante do impulso transformador, insurrecional e emancipatório da subjetividade moderna em suas variadas manifestações políticas (e sociais), as obras de Carl Schmitt e Eric Voegelin; Hannah Arendt e Michael Oakeshott; Joseph Schumpeter e Leo Strauss; Russell Kirk e Roger Scruton são 'todas', e à sua maneira, a conformação imanente da busca pelo soerguimento intransigente da natureza contra a busca dos sujeitos modernos por liberdade, reconhecimento e igualdade efetivas.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/01/contrarrevolucao-da-natureza-simone-de-beauvoir-e-perry-anderson-explicam-o-que-e-ser-de-direita-um-ensaio/",
           "publishedOn": "2026-08-01T11:00:00.000Z",
-          "wordCount": 15582,
+          "wordCount": 15694,
           "title": "Contrarrevolução da natureza: Simone de Beauvoir e Perry Anderson explicam o que é ser de direita – um ensaio",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/simone-de-beauvoir.jpg"
         }
