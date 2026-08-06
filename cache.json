@@ -43,6 +43,26 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a73e9cb8ebc79031a15a3b9",
+          "author": "PSTU-RJ",
+          "description": "Há uma semana, na tarde de quarta-feira, 29 de julho, um vendaval com rajadas superiores a 100 km/h atingiu o estado do Rio de Janeiro. A ventania provocou mortes, deixou mais de 1 milhão de imóveis sem energia elétrica, paralisou o transporte",
+          "link": "https://opiniaosocialista.com.br/vendaval-deixa-mortos-apagoes-e-transporte-paralisado-no-rio-de-janeiro/",
+          "publishedOn": "2026-08-06T02:02:35.000Z",
+          "wordCount": 2175,
+          "title": "Vendaval deixa mortos, apagões e transporte paralisado no Rio de Janeiro",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/_rbr2767--1-.webp"
+        },
+        {
+          "id": "6a73e7218ebc79031a15a39a",
+          "author": "PSTU-MG",
+          "description": "Vocês estão acompanhando a crise política de alternativa burguesa nas eleições para o governo do estado de Minas Gerais? Por que tanta instabilidade política?\nO primeiro colocado nas pesquisas eleitorais, Senador Cleitinho, mais uma vez mudou de idé",
+          "link": "https://opiniaosocialista.com.br/a-crise-politica-mineira-em-foco/",
+          "publishedOn": "2026-08-06T01:53:01.000Z",
+          "wordCount": 1113,
+          "title": "A crise política mineira em foco",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/crise-politica-em-MG.webp"
+        },
+        {
           "id": "6a729ea28ebc79031a15a35c",
           "author": "Érika Andreassy",
           "description": "No último final de semana, a Polícia Federal, em colaboração com a Europol, expôs uma rede que opera em pelo menos nove países e que transformou o estupro doméstico em negócio. O caso foi divulgado com",
@@ -68,7 +88,7 @@
           "description": "No último dia 24 de julho,  a cidade de Ribeirão Preto (SP) foi atingida por um temporal devastador, provocado pela passagem de uma frente de rajada que gerou ventos de até 70 km/h na cidade e rajadas extremas que atingiram 122 km/h em Prad&",
           "link": "https://opiniaosocialista.com.br/temporal-destroi-ribeirao-preto-e-regiao-escancarando-descaso-dos-governos-com-desastres-das-crises-climaticas/",
           "publishedOn": "2026-08-03T22:53:08.000Z",
-          "wordCount": 1517,
+          "wordCount": 1519,
           "title": "Temporal destroi Ribeirão Preto e região escancarando descaso dos governos com desastres das crises climáticas",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/ribeirao-preto--1-.webp"
         },
@@ -88,7 +108,7 @@
           "description": "Convenção Estadual reuniu militantes do partido e representantes de movimentos sindicais, estudantis, populares, do campo e indígenas",
           "link": "https://opiniaosocialista.com.br/para-pstu-confirma-cleber-rabelo-como-candidato-a-governador-e-well-macedo-a-vice-governadora/",
           "publishedOn": "2026-08-02T20:06:50.000Z",
-          "wordCount": 859,
+          "wordCount": 875,
           "title": "Pará: PSTU confirma Cleber Rabelo como candidato a governador e Well Macêdo à vice-governadora",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/IMG_1138.webp"
         },
@@ -108,7 +128,7 @@
           "description": "O Partido Socialista dos Trabalhadores Unificado (PSTU) oficializou, na noite desta sexta-feira (31), em São Paulo, a candidatura de Hertz Dias à presidência da República e da professora mineira Vanessa Portugal à vice-presidência nas eleições de 2026. A homologa&",
           "link": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
           "publishedOn": "2026-08-01T18:10:05.000Z",
-          "wordCount": 942,
+          "wordCount": 958,
           "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/WhatsApp-Image-2026-08-01-at-13.02.51.webp"
         }
@@ -119,6 +139,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Apos-greve-historica-ferroviarios-aceitam-acordo-e-retornam-ao-trabalho",
+          "author": "Redação",
+          "description": "No final da tarde de hoje, os ferroviários da CPTM aceitaram acordo mediado pelo TRT e decidiram encerrar a greve que começou ontem. A luta, no entanto, irá seguir para garantir que o acordo seja cumprido. \n No final da tarde de hoje, os ferroviários da CPTM aceitaram acordo mediado pelo TRT e decidiram encerrar a greve que começou ontem. A luta, no entanto, irá seguir para garantir que o acordo seja cumprido. \n05-08-2026\n\n/ Classe trabalhadora, São Paulo (capital), Greve da CPTM, Tarcísio de Freitas, CPTM, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Apos-greve-historica-ferroviarios-aceitam-acordo-e-retornam-ao-trabalho",
+          "publishedOn": "2026-08-05T22:43:32.000Z",
+          "wordCount": null,
+          "title": "Após greve histórica, ferroviários aceitam acordo e retornam ao trabalho",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Mamdani-volta-atras-na-expansao-do-NYPD-mas-o-aparato-repressivo-de-Nova-York-segue-intacta",
           "author": "Maryam Alaniz",
@@ -298,16 +328,6 @@
           "wordCount": null,
           "title": "Como patrocínios ambientais da Petrobras compram o silêncio",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Governo-Lula-reserva-R-1-3-bi-para-adaptacao-ao-Super-El-Nino-e-R-600-bi-para-o-agronegocio",
-          "author": "Redação",
-          "description": "Lula destina R$1,3 bi à preparação e adaptação para Super El Niño, mas R$600 bi para o Plano Safra. Da extrema direita à frente ampla, o pacto extrativista segue intacto.\n31-07-2026\n\n/ Meio Ambiente, Agronegócio, Crise Climática, Crise ecológica",
-          "link": "https://www.esquerdadiario.com.br/Governo-Lula-reserva-R-1-3-bi-para-adaptacao-ao-Super-El-Nino-e-R-600-bi-para-o-agronegocio",
-          "publishedOn": "2026-08-01T11:33:20.000Z",
-          "wordCount": null,
-          "title": "Governo Lula reserva R$1,3 bi para adaptação ao Super El Niño e R$600 bi para o agronegócio",
-          "imageUrl": null
         }
       ]
     },
@@ -386,6 +406,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74242",
+          "author": "Middle East Monitor",
+          "description": "s Estratégias de Segurança Nacional dos presidentes dos EUA refletem com precisão a direção de suas políticas externas, que são governadas por interesses americanos que nem sempre são declarados explicitamente, embora não sejam difíceis de deduzir. A Estratégia de Segurança Nacional é um documento presidencial oficial emitido pelo Presidente dos Estados Unidos que delineia as […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/08/05/ira-russia-palestina-uma-leitura-das-estrategias-de-seguranca-nacional-dos-eua/",
+          "publishedOn": "2026-08-05T22:04:39.000Z",
+          "wordCount": 4478,
+          "title": "Irã, Rússia, Palestina: uma leitura das estratégias de segurança nacional dos EUA",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/ira-trump-eua.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74238",
           "author": "Frei Betto",
           "description": "ivemos imersos em um mundo de telas. Para crianças e adolescentes que já nasceram nesse universo, a tecnologia não é uma ferramenta externa, mas uma extensão de sua realidade. Redes digitais, jogos e aplicativos são os palcos onde constroem a identidade, socializam e aprendem. No entanto, essa imersão sem preparo adequado apresenta um perigo silencioso: […]",
@@ -423,12 +453,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262323",
+          "author": "Rocio Paik",
+          "description": "O chanceler israelense Gideon Saar iniciou nesta quarta-feira (05/07) uma viagem pela Colômbia e pelo Equador, para reforçar a aproximação de Israel com governos de direita na América Latina. Ele participará da posse do colombiano Abelardo de la Espriella e discutirá iniciativas como a transferência de embaixadas para Jerusalém, tema sensível na diplomacia internacional. A […]\nO post Chanceler de Israel visita América Latina em busca de apoio político da direita para genocídio em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/chanceler-de-israel-visita-america-latina-em-busca-de-apoio-politico-da-direita-para-genocidio-em-gaza/",
+          "publishedOn": "2026-08-06T02:51:25.000Z",
+          "wordCount": 3409,
+          "title": "Chanceler de Israel visita América Latina em busca de apoio político da direita para genocídio em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ho-0_w-w4aaoud3-scaled.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262320",
+          "author": "Rocio Paik",
+          "description": "A vice-líder do comitê de Relações Exteriores dos Estados Unidos, senadora democrata Jeanne Shaheen, criticou a decisão do governo do presidente Donald Trump de revogar o visto da embaixadora brasileira Maria Luiza Ribeiro Viotti. Por rede social, a congressista disse que Washington “desperdiçou a diplomacia”, degradando as relações bilaterais em inconformidade dos interesses de ambos […]\nO post Senadora dos EUA diz que governo Trump ‘desperdiça diplomacia’ ao revogar visto de embaixadora brasileira apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/senadora-dos-eua-diz-que-governo-trump-desperdica-diplomacia-ao-revogar-visto-de-embaixadora-brasileira/",
+          "publishedOn": "2026-08-06T02:11:35.000Z",
+          "wordCount": 3117,
+          "title": "Senadora dos EUA diz que governo Trump ‘desperdiça diplomacia’ ao revogar visto de embaixadora brasileira",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/jeanne_shaheen_msc_2017.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262316",
+          "author": "Rocio Paik",
+          "description": "A Universidade de Bristol perdeu seu recurso contra uma decisão inédita da corte de apelação trabalhista britânica, o Employment Appeal Tribunal (EAT), nesta quarta-feira (05/08), que determinou que um professor do instituto foi discriminado ao ser demitido injustamente devido às suas crenças antissionistas, uma vez que estas são protegidas pela Lei da Igualdade de 2010. […]\nO post Em decisão histórica, tribunal do Reino Unido determina demissão de professor por crença antissionista é ‘ilegal’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/tribunal-do-reino-unido-determina-demissao-de-professor-por-crenca-antissionista-e-ilegal/",
+          "publishedOn": "2026-08-06T01:16:48.000Z",
+          "wordCount": 3378,
+          "title": "Em decisão histórica, tribunal do Reino Unido determina demissão de professor por crença antissionista é ‘ilegal’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ho9uarbxkaankn8.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262309",
+          "author": "Rocio Paik",
+          "description": "O Corpo da Guarda Revolucionária Islâmica do Irã (IRGC, na sigla em inglês) rejeitou firmar qualquer acordo com os Estados Unidos enquanto as ameaças de ação militar contra o país persa persistirem, conforme relatou o portal Sepah News nesta quarta-feira (05/08), citando um funcionário próximo às negociações em curso com Omã sobre o Estreito de […]\nO post Guarda Revolucionária do Irã rejeita qualquer acordo enquanto houver ameaça militar dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/guarda-revolucionaria-do-ira-rejeita-qualquer-acordo-enquanto-houver-ameaca-militar-dos-eua-diz-midia-iraniana/",
+          "publishedOn": "2026-08-06T00:04:21.000Z",
+          "wordCount": 3309,
+          "title": "Guarda Revolucionária do Irã rejeita qualquer acordo enquanto houver ameaça militar dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405012217173938436372744-2-e1785974539315.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262283",
+          "author": "Raissa Neves",
+          "description": "O governo de Javier Milei tenta votar novamente no Senado, nesta quinta-feira (06/08), projeto de lei que altera os limites para estrangeiros comprarem terras na Argentina. Oposição e setores sociais acusam governo de “entreguismo” e convocaram protestos para o momento da votação. O Senado argentino vinha resistindo a votar a proposta original da Casa Rosada de […]\nO post Milei insiste em votação para modificar limites de terras compradas por estrangeiros apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/milei-insiste-em-votacao-para-modificar-limites-de-terras-compradas-por-estrangeiros/",
+          "publishedOn": "2026-08-05T22:20:20.000Z",
+          "wordCount": 3616,
+          "title": "Milei insiste em votação para modificar limites de terras compradas por estrangeiros",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/54360588236_38f658d264_c-1-750x500-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262286",
+          "author": "Raissa Neves",
+          "description": "Há 154 anos, em 5 de agosto de 1872, nascia o médico e sanitarista Oswaldo Cruz. Ele foi pioneiro nos estudos sobre microbiologia e doenças tropicais no Brasil e teve papel central na criação dos primeiros serviços sanitários. Como diretor do Instituto Soroterápico (atual Fiocruz) e Diretor-Geral de Saúde Pública, Oswaldo Cruz instituiu a obrigatoriedade […]\nO post Oswaldo Cruz: o médico que revolucionou a saúde pública no Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/oswaldo-cruz-o-medico-que-revolucionou-a-saude-publica-no-brasil/",
+          "publishedOn": "2026-08-05T21:00:55.000Z",
+          "wordCount": 5990,
+          "title": "Oswaldo Cruz: o médico que revolucionou a saúde pública no Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/psm_v87_d173_oswaldo_concalves_cruz.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262284",
           "author": "Pedro Marin",
           "description": "A meados de julho, os Democratas Socialistas da América (DSA) lançaram seu novo programa político. O documento reforça alguns dos compromissos centrais da organização, como a luta pelo acesso universal e gratuito à saúde (“Medicare for All”), e insiste nas propostas de acesso à moradia a preços justos. No campo semântico, o programa adota mais […]\nO post O que o novo programa do DSA diz, ou não diz, sobre uma futura política internacional socialista americana? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-que-o-novo-programa-do-dsa-diz-ou-nao-diz-sobre-uma-futura-politica-internacional-socialista-americana/",
           "publishedOn": "2026-08-05T20:53:26.000Z",
-          "wordCount": 4924,
+          "wordCount": 4929,
           "title": "O que o novo programa do DSA diz, ou não diz, sobre uma futura política internacional socialista americana?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/dsa.webp"
         },
@@ -438,7 +528,7 @@
           "description": "O Senado do Chile aprovou nesta terça-feira (04/08) o relatório da comissão mista sobre a megarreforma econômica do governo de José Antonio Kast, com 27 votos a favor e 22 contra, destravando o último ponto de divergência entre as duas casas do Congresso.  Com isso, o projeto conclui sua tramitação legislativa. A proposta agora segue […]\nO post Megarreforma econômica de Kast avança no Chile e encerra tramitação legislativa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/megarreforma-economica-de-kast-avanca-no-chile-e-encerra-tramitacao-legislativa/",
           "publishedOn": "2026-08-05T20:14:36.000Z",
-          "wordCount": 3155,
+          "wordCount": 3248,
           "title": "Megarreforma econômica de Kast avança no Chile e encerra tramitação legislativa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/53892944337_f8d9a888a5_c.png"
         },
@@ -448,7 +538,7 @@
           "description": "O Exército de Israel realizou nesta quarta-feira (05/08)  uma série de ataques aéreos contra o sul do Líbano, alegando que a ofensiva foi uma resposta a uma “violação flagrante” do cessar-fogo por parte do Hezbollah. Segundo o Ministério da Saúde libanês, os bombardeios deixaram uma pessoa morta e outras onze feridas. O ataque que gerou […]\nO post Israel ataca sul do Líbano após acusar, sem provas, Hezbollah de violar cessar-fogo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-ataca-sul-do-libano-apos-acusar-sem-provas-hezbollah-de-violar-cessar-fogo/",
           "publishedOn": "2026-08-05T19:50:12.000Z",
-          "wordCount": 3336,
+          "wordCount": 3345,
           "title": "Israel ataca sul do Líbano após acusar, sem provas, Hezbollah de violar cessar-fogo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/tiro-libano-1024x570-1.webp"
         },
@@ -458,83 +548,27 @@
           "description": "O chanceler argentino, Pablo Quirno, afirmou nesta quarta-feira (05/08) esperar que o Brasil passe a integrar a “onda conservadora” que avança pela América do Sul.  A declaração ocorre um dia após o governo brasileiro rebaixar as relações diplomáticas com Buenos Aires. O país decidiu manter a representação bilateral apenas no nível de encarregado de negócios […]\nO post Chanceler argentino defende ‘mudança ideológica’ no Brasil em meio à crise diplomática apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/chanceler-argentino-defende-mudanca-ideologica-no-brasil-em-meio-a-crise-diplomatica/",
           "publishedOn": "2026-08-05T19:00:10.000Z",
-          "wordCount": 3445,
+          "wordCount": 3451,
           "title": "Chanceler argentino defende ‘mudança ideológica’ no Brasil em meio à crise diplomática",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/pablo-quirno.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262255",
-          "author": "Victor Farinelli",
-          "description": "O deputado federal Alfredo Gaspar (PL-AL), que foi anunciado como candidato a vice-presidente na chapa encabeçada por Flávio Bolsonaro (PL) nesta quarta-feira (05/08), é acusado de estupro de uma adolescente que teria ocorrido anos atrás. A relação não consensual teria resultado no nascimento de um filho do parlamentar com a menor de idade. A acusação […]\nO post Flávio Bolsonaro anuncia como vice político acusado por estupro de menor apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-anuncia-como-vice-politico-acusado-por-estupro-de-menor/",
-          "publishedOn": "2026-08-05T18:20:42.000Z",
-          "wordCount": 2914,
-          "title": "Flávio Bolsonaro anuncia como vice político acusado por estupro de menor",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/gaspar.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262248",
-          "author": "Tabitha Ramalho",
-          "description": "O Ministério do Comércio chinês anunciou, nesta quarta-feira (05/08), a imposição de novas sanções a seis empresas norte-americanas em resposta às restrições anteriormente impostas por Washington. As empresas afetadas são: Applied DNA Sciences, Stratum Reservoir, Altana Technologies, Responsible Business Alliance, Verite Group e a organização Human Rights in China. Com isso, as autoridades asiáticas proibiram […]\nO post China anuncia sanções a seis empresas dos EUA em resposta a restrições de Washington apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/china-anuncia-sancoes-a-seis-empresas-dos-eua-em-resposta-a-restricoes-de-washington/",
-          "publishedOn": "2026-08-05T17:43:28.000Z",
-          "wordCount": 3012,
-          "title": "China anuncia sanções a seis empresas dos EUA em resposta a restrições de Washington",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1920px-_.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262245",
-          "author": "Victor Farinelli",
-          "description": "Em entrevista realizada nesta quarta-feira (05/08), o presidente do Brasil, Luiz Inácio Lula da Silva criticou o governo dos Estados Unidos por revogar o visto da embaixadora brasileira em Washington, Maria Luiza Ribeiro Viotti, em decisão anunciada no dia anterior pelo Departamento de Estado norte-americano. O tema foi levantado durante conversa com jornalistas dos canais […]\nO post Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogarem visto de embaixadora do Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-afirma-que-eua-tomaram-atitude-irresponsavel-ao-revogar-visto-de-embaixadora-do-brasil/",
-          "publishedOn": "2026-08-05T16:35:16.000Z",
-          "wordCount": 3301,
-          "title": "Lula afirma que EUA tomaram ‘atitude irresponsável’ ao revogarem visto de embaixadora do Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/lula.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262234",
-          "author": "Tabitha Ramalho",
-          "description": "As forças israelenses ampliaram suas operações militares na Cisjordânia ocupada nesta quarta-feira (05/08), realizando um novo ataque ao campo de refugiados de Qalandiya em meio a crescentes restrições e violência por parte das Forças de Defesa de Israel (IDF) que atuam na região ao lado dos colonos. O Exército também distribuiu panfletos no campo de […]\nO post Exército israelense ataca campo de refugiados na Cisjordânia Ocupada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/exercito-israelense-ataca-campo-de-refugiados-na-cisjordania-ocupada/",
-          "publishedOn": "2026-08-05T15:40:12.000Z",
-          "wordCount": 3486,
-          "title": "Exército israelense ataca campo de refugiados na Cisjordânia Ocupada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhtr5-ux0ai1mdr.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262236",
-          "author": "Victor Farinelli",
-          "description": "O instituto Quaest publicou nesta quarta-feira (05/08) uma nova pesquisa relacionada à corrida eleitoral presidencial no Brasil, e que mostra a manutenção da liderança do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, embora sua vantagem sobre Flávio Bolsonaro (PL) seja menor do que a registrada em julho passado. Segundo a medição feita […]\nO post Quaest: Lula mantém liderança nos dois turnos, apesar de crescimento de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/quaest-lula-mantem-lideranca-nos-dois-turnos-apesar-de-crescimento-de-flavio-bolsonaro/",
-          "publishedOn": "2026-08-05T15:11:59.000Z",
-          "wordCount": 3009,
-          "title": "Quaest: Lula mantém liderança nos dois turnos, apesar de crescimento de Flávio Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/lula-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262219",
-          "author": "Patricia de Matos",
-          "description": "O Comando Sul dos Estados Unidos (Southcom) anunciou nesta terça-feira (04/08) a criação da Joint Task Force Western Hemisphere (JTF-WHEM), uma força-tarefa multinacional que reunirá militares norte-americanos e de outros 18 países integrantes da Coalizão das Américas contra Cartéis (Americas Counter Cartel Coalition – A3C).  Segundo o Southcom, a nova estrutura militar será responsável por […]\nO post Comando Sul dos EUA cria força militar com 18 países aliados da América Latina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/comando-sul-dos-eua-cria-forca-militar-com-18-paises-aliados-da-america-latina/",
-          "publishedOn": "2026-08-05T15:09:13.000Z",
-          "wordCount": 3452,
-          "title": "Comando Sul dos EUA cria força militar com 18 países aliados da América Latina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/escudo-das-americas-1.webp"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=230799",
+          "author": "Redação de AND",
+          "description": "“Me perguntaram se o EUA quisesse invadir o Brasil, o que é que eu faria. Temos que abrir o portão. O Brasil não tem equipamento para enfrentá-lo, nem tem dinheiro para consertar o portão. Eu prefiro abrir o portão”. Essa afirmação, que soa inacreditável, foi proferida por ninguém menos que o atual ministro da Defesa do governo oportunista de Luiz Inácio (PT), que coordena as Forças Armadas reacionárias na sua suposta missão constitucional de defender a Pátria. O crime de traição nacional, em forma de palavras, foi cometido durante um evento com a Confederação Nacional da Indústria (CNI), instituição da",
+          "link": "https://anovademocracia.com.br/mucio-abriria-o-portao-invasao-eua-brasil/",
+          "publishedOn": "2026-08-06T01:27:22.000Z",
+          "wordCount": null,
+          "title": "José Múcio afirma que ‘abriria o portão’ em caso de invasão do EUA ao Brasil",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=230772",
           "author": "Marconne Oliveira",
@@ -629,16 +663,6 @@
           "wordCount": null,
           "title": "‘O povo do Barroso não quer minas!’: anti-imperialistas declaram solidariedade à resistência contra megaprojeto minerário de lítio em Portugal",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230669",
-          "author": "Redação de AND",
-          "description": "Em desdobramento do A Propósito #369, representante da Liga Anti-imperialista Internacional afirmou que a ofensiva contrainsurgente pode ampliar a repressão imediata, mas não possui condições de derrotar estrategicamente a rebelião das massas.",
-          "link": "https://anovademocracia.com.br/repressao-bumerangue-contra-comunistas-lai/",
-          "publishedOn": "2026-08-03T15:00:42.000Z",
-          "wordCount": null,
-          "title": "‘Essa repressão possui um efeito bumerangue’, afirma LAI sobre política contrarrevolucionária ianque contra anti-imperialistas e comunistas",
-          "imageUrl": null
         }
       ]
     },
@@ -648,12 +672,42 @@
       "siteUrl": "https://opoderpopular.com.br/",
       "articles": [
         {
+          "id": "6a73c3ab01e7cd37414d37f2",
+          "author": "O Poder Popular",
+          "description": "Sinpro NF\nA Convenção Coletiva de Trabalho (CCT) – período 2026/2027 – dos professores e professoras que trabalham em instituições particulares de ensino da Educação Básica (ED) dos municípios de Nova Friburgo, Bom Jardim,",
+          "link": "https://opoderpopular.com.br/sinpro-nova-friburgo-e-regiao-renova-cct-2026-27-da-educacao-basica-com-reajuste-de-4-11/",
+          "publishedOn": "2026-08-05T23:16:42.000Z",
+          "wordCount": 1365,
+          "title": "Sinpro Nova Friburgo e Região Renova CCT 2026/27 da Educação Básica com Reajuste de 4,11%",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/snapinsta-1785971590912.jpg"
+        },
+        {
+          "id": "6a73c2bb01e7cd37414d3775",
+          "author": "O Poder Popular",
+          "description": "Unidade Classista Petroleiros RJ \nUma nota sobre o tema, recém publicada no portal, pelo RH, consiste num autoelogio sem autocrítica, propagandeando que o PCR seria um plano dos mais completos no setor. Soa muito estranho que uma gestão de um governo que denunciava conosco",
+          "link": "https://opoderpopular.com.br/proposta-de-ajuste-no-pcr-do-rh-nao-traz-qualquer-avanco-e-ainda-exalta-o-plano-que-foi-filho-do-golpe-de-2016/",
+          "publishedOn": "2026-08-05T23:12:42.000Z",
+          "wordCount": 1634,
+          "title": "Proposta de ajuste no PCR do RH não traz qualquer avanço e ainda exalta o plano que foi filho do Golpe de 2016",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/snapinsta-1785971357188.jpg"
+        },
+        {
+          "id": "6a73c0fa01e7cd37414d3705",
+          "author": "O Poder Popular",
+          "description": "Editorial do Jornal O Poder Popular Nº 108 - Agosto 2026\nUma candidatura pelo Poder Popular\nPara combater a exploração e as opressões\nEntramos em agosto num capítulo importante e tenso da luta de classes no Brasil e na América",
+          "link": "https://opoderpopular.com.br/uma-candidatura-pelo-poder-popular/",
+          "publishedOn": "2026-08-05T23:06:12.000Z",
+          "wordCount": 1641,
+          "title": "Uma candidatura pelo Poder Popular",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/298799902_486408576824035_6675726856310978443_n-3.jpg"
+        },
+        {
           "id": "6a71337001e7cd37414d3689",
           "author": "O Poder Popular",
           "description": "por Da Redação do Jornal 082 Notícias - 30 jul, 2026\nA Escola Municipal Jayme Amorim de Miranda, no bairro de Santa Lúcia, em Maceió, realizou nessa quarta-feira (29) uma homenagem pelo centenário de nascimento de seu patrono,",
           "link": "https://opoderpopular.com.br/centenario-de-jayme-miranda-e-lembrado-em-escola-que-leva-o-nome-do-jornalista-e-militante-politico/",
           "publishedOn": "2026-08-04T00:39:25.000Z",
-          "wordCount": 1572,
+          "wordCount": 1574,
           "title": "Centenário de Jayme Miranda é lembrado em escola que leva o nome do jornalista e militante político",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/IMG-20260729-WA0093.webp"
         },
@@ -663,7 +717,7 @@
           "description": "Prefeitura quer botar na rua 12 famílias do Jardim Novo Paulista\nPor: PCB Maringá (PR)\nToda cidade vende uma imagem no cartão-postal. Em Maringá, a publicidade se apresenta com a florada dos ipês, as avenidas largas e a promessa de um lugar",
           "link": "https://opoderpopular.com.br/se-morar-e-privilegio-ocupar-e-direito-contra-o-despejo-da-comunidade-santo-antonio-em-maringa-pr/",
           "publishedOn": "2026-08-04T00:29:20.000Z",
-          "wordCount": 1712,
+          "wordCount": 1711,
           "title": "Se Morar é Privilégio, Ocupar é Direito: Contra o Despejo da Comunidade Santo Antônio em Maringá (PR)",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/298799902_486408576824035_6675726856310978443_n-2.jpg"
         },
@@ -673,7 +727,7 @@
           "description": "Neste 1º de agosto, a União da Juventude Comunista completa 99 anos de existência. Fundada em 1927, cinco anos após a criação do Partido Comunista Brasileiro, a UJC nasceu da necessidade de organizar politicamente a juventude trabalhadora e estudantil em",
           "link": "https://opoderpopular.com.br/99-anos-da-ujc-a-juventude-do-pcb/",
           "publishedOn": "2026-08-03T23:56:24.000Z",
-          "wordCount": 1878,
+          "wordCount": 1861,
           "title": "99 anos da UJC, a Juventude do PCB!",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/88512.webp"
         },
@@ -683,7 +737,7 @@
           "description": "PCB SAÚDA A ESCOLA DE INVERNO DO PCS!\nAos camaradas do Partido Comunista da Suazilândia\nPrezados camaradas:\nFoi com grande satisfação que o Partido Comunista Brasileiro tomou conhecimento da realização, no próximo período 31 de julho",
           "link": "https://opoderpopular.com.br/pcb-sauda-a-escola-de-inverno-do-pc-da-suazilandia/",
           "publishedOn": "2026-08-03T23:36:07.000Z",
-          "wordCount": 1453,
+          "wordCount": 1447,
           "title": "PCB saúda a escola de inverno do PC da Suazilândia",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/298799902_486408576824035_6675726856310978443_n-1.jpg"
         },
@@ -693,7 +747,7 @@
           "description": "PCB SAÚDA O CENTENÁRIO DE FUNDAÇÃO DO PARTIDO COMUNISTA DO CHIPRE - AKEL!\nPrezados camaradas do Partido Progressista do Povo Trabalhador do Chipre (AKEL):\nO Partido Comunista Brasileiro – PCB – saúda com júbilo revolucionário e camaradagem",
           "link": "https://opoderpopular.com.br/pcb-sauda-o-centenario-do-partido-akel-chipre/",
           "publishedOn": "2026-08-03T23:26:50.000Z",
-          "wordCount": 1473,
+          "wordCount": 1467,
           "title": "PCB saúda o centenário do partido AKEL - Chipre",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/298799902_486408576824035_6675726856310978443_n.jpg"
         }
@@ -705,13 +759,23 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3192883",
+          "author": "Antonio Martins",
+          "description": "Amplia-se sequência de vitórias dos socialistas do DSA em primárias do Partido Democrata. O que é esta organização. Que linhas de ação militante promove. Qual seu horizonte político. O que ela diz ao Brasil, às vésperas de estranhas eleições \nThe post A surpreendente arrancada da esquerda nos EUA appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/a-surpreendente-arrancada-da-esquerda-americana/",
+          "publishedOn": "2026-08-05T23:14:16.000Z",
+          "wordCount": null,
+          "title": "A surpreendente arrancada da esquerda nos EUA",
+          "imageUrl": null
+        },
+        {
           "id": "https://outraspalavras.net/?p=3192808",
           "author": "Jayati Ghosh",
-          "description": "Nesta semana, Convenção da ONU negocia proposta para países tributarem as empresas transnacionais, que hoje evadem lucros para paraísos fiscais. Se adotada, poderia zerar a dívida externa de vários países do Sul global e estimular investimentos em setores essenciais\nThe post Todos ganham ao taxar as corporações estrangeiras appeared first on Outras Palavras.",
+          "description": "Nações Unidas debatem, esta semana, direito dos países tributarem as empresas transnacionais em seu território – e não em paraísos fiscais. Se adotada, bloqueará evasão fiscal, zerará dívida externa de vários países e estimulará investimentos em setores essenciais\nThe post A luta contra a sonegação global chega à ONU appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/todos-ganham-ao-taxar-as-corporacoes-estrangeiras/",
           "publishedOn": "2026-08-05T20:16:40.000Z",
           "wordCount": null,
-          "title": "Todos ganham ao taxar as corporações estrangeiras",
+          "title": "A luta contra a sonegação global chega à ONU",
           "imageUrl": null
         },
         {
@@ -793,16 +857,6 @@
           "wordCount": null,
           "title": "Por trás da panaceia das cidades inteligentes",
           "imageUrl": null
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3192636",
-          "author": "Antonio Martins",
-          "description": "Lula está certo: rearmamento das Forças Armadas não pode ser tabu. Mas país aposta em falsos caminhos para garantir sua soberania territorial. Quais as alternativas? Outras Palavras e FESPSP debatem o tema com dois grandes pesquisadores, em 4/3\nThe post Defesa: o Brasil diante da Doutrina Donroe appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/defesa-o-brasil-diante-da-doutrina-donroe/",
-          "publishedOn": "2026-08-03T22:49:20.000Z",
-          "wordCount": null,
-          "title": "Defesa: o Brasil diante da Doutrina Donroe",
-          "imageUrl": null
         }
       ]
     },
@@ -837,7 +891,7 @@
           "description": "Por Jan Cenek Conheci o escritor argentino Ernesto Sabato (1911-2011) procurando por Albert Camus (1913-1960). Queria ler algo sobre este e encontrei Mensageiros das fúrias: uma leitura camusiana de Ernesto Sabato, de Janer Cristaldo [1], que, entre outras atividades, traduziu o escritor argentino para o português. Sempre retorno aos livros de Sabato, costumo reler especialmente […]",
           "link": "https://passapalavra.info/2026/08/159557/",
           "publishedOn": "2026-08-03T21:36:18.000Z",
-          "wordCount": 6351,
+          "wordCount": 6445,
           "title": "O escritor, seus fantasmas e o outro",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_3.jpg"
         }
@@ -854,19 +908,9 @@
           "description": "Ao longo desse segundo semestre de 2026, as noites de terça-feira curitibanas contarão com uma programação especial: o Curso Livre Marx-Engels: O Essencial, que chega pela primeira vez ao Paraná. Confira a agenda completa de aulas e chame seus camaradas!",
           "link": "https://blogdaboitempo.com.br/2026/08/05/curso-livre-marx-engels-o-essencial-em-curitiba-confira-a-programacao-completa-de-aulas/",
           "publishedOn": "2026-08-05T18:32:20.000Z",
-          "wordCount": 12675,
+          "wordCount": 12827,
           "title": "“Curso Livre Marx-Engels: O Essencial” em Curitiba: confira a programação completa de aulas",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/banner-blog-curso-livre-marx-engels-2026-curitiba_01.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=65851",
-          "author": "Boitempo",
-          "description": "Ronaldo Tadeu de Souza: \"Diante do impulso transformador, insurrecional e emancipatório da subjetividade moderna em suas variadas manifestações políticas (e sociais), as obras de Carl Schmitt e Eric Voegelin; Hannah Arendt e Michael Oakeshott; Joseph Schumpeter e Leo Strauss; Russell Kirk e Roger Scruton são 'todas', e à sua maneira, a conformação imanente da busca pelo soerguimento intransigente da natureza contra a busca dos sujeitos modernos por liberdade, reconhecimento e igualdade efetivas.\"",
-          "link": "https://blogdaboitempo.com.br/2026/08/01/contrarrevolucao-da-natureza-simone-de-beauvoir-e-perry-anderson-explicam-o-que-e-ser-de-direita-um-ensaio/",
-          "publishedOn": "2026-08-01T11:00:00.000Z",
-          "wordCount": 15694,
-          "title": "Contrarrevolução da natureza: Simone de Beauvoir e Perry Anderson explicam o que é ser de direita – um ensaio",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/simone-de-beauvoir.jpg"
         }
       ]
     }
