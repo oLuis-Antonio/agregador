@@ -120,6 +120,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Amanha-Fenomeno-socialista-Myriam-Bregman-em-Sao-Paulo-lanca-seu-livro-Moderada-Nunca",
+          "author": "Redação",
+          "description": "É amanhã! Participe da atividade com Myriam Bregman, deputada federal trotskista da Frente de Esquerda e dos Trabalhadores-Unidade (FIT-U) da Argentina, com atividades simultâneas em todo o país, uma oportunidade para debater como construir uma alternativa revolucionária dos trabalhadores, da juventude e dos setores oprimidos! \n É amanhã! \n Participe da atividade com Myriam Bregman, deputada federal trotskista da Frente de Esquerda e dos Trabalhadores-Unidade (FIT-U) da Argentina, com (…)\n07/08/2026\n\n/ Internacional, PTS na FIT, Myriam Bregman, Partido dos Trabalhadores Socialistas (PTS), Javier Milei",
+          "link": "https://www.esquerdadiario.com.br/Amanha-Fenomeno-socialista-Myriam-Bregman-em-Sao-Paulo-lanca-seu-livro-Moderada-Nunca",
+          "publishedOn": "2026-08-07T13:56:13.000Z",
+          "wordCount": null,
+          "title": "Amanhã! Fenômeno socialista Myriam Bregman em São Paulo lança seu livro \"Moderada Nunca\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Com-lucro-de-R-52-4-bi-Petrobras-faz-festa-para-os-acionistas-e-segue-atacando-trabalhadores",
           "author": "Alexandre Miguez, Movimento Nossa Classe - Petroleiros",
           "description": "A Petrobrás registrou lucro de 52,4 bilhões de reais no segundo trimestre de 2026, um aumento de 60,6% em relação ao trimestre anterior, quando foi a segunda petroleira mais lucrativa do mundo. Enquanto para os acionistas, em maioria privados e imperialistas, isso se traduziu em uma grande entrega de dividendos, os trabalhadores quem movem a empresa seguem sofrendo restrições e ataques.\n07/08/2026\n\n/ Classe trabalhadora, Privatização da Petrobras, Petrobras, Petróleo, Petroleiros",
@@ -483,12 +493,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262462",
+          "author": "Victor Farinelli",
+          "description": "O médico militar Taylor Highland decidiu que deixaria as Forças Armadas dos Estados Unidos quando seu país e Israel lançaram seus primeiros ataques contra o Irã, há quase seis meses. Para ele, o estopim foi o míssil que atingiu uma escola de meninas no sul do país e que, segundo Teerã, deixou mais de 150 […]\nO post Guerra contra Irã provoca aumento em desligamento de militares nos EUA, diz reportagem apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/guerra-contra-ira-provoca-aumento-em-desligamento-de-militares-nos-eua-diz-reportagem/",
+          "publishedOn": "2026-08-07T16:03:11.000Z",
+          "wordCount": 4432,
+          "title": "Guerra contra Irã provoca aumento em desligamento de militares nos EUA, diz reportagem",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/centcom.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262458",
+          "author": "Victor Farinelli",
+          "description": "Os governos de Arábia Saudita, Paquistão e Turquia assinaram nesta sexta-feira (07/08) um acordo de defesa conjunto para cooperação em segurança diante de conflitos militares na região do Oriente Médio. O documento foi batizado como Acordo Trilateral de Meca, por ter sido assinado durante encontro na cidade sagrada do Islã. Estiveram presentes nesse evento o […]\nO post Arábia Saudita, Paquistão e Turquia assinam acordo de cooperação em defesa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/arabia-saudita-paquistao-e-turquia-assinam-acordo-de-cooperacao-em-defesa/",
+          "publishedOn": "2026-08-07T15:10:27.000Z",
+          "wordCount": 2939,
+          "title": "Arábia Saudita, Paquistão e Turquia assinam acordo de cooperação em defesa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/arab.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262450",
+          "author": "Patricia de Matos",
+          "description": "A Espanha endureceu o tom contra a Itália e deu prazo até o próximo domingo (09/08) para que Roma suspenda o controle de fronteira imposto a viajantes vindos do país ibérico.  A decisão do governo italiano ocorreu após a crise migratória em Ceuta, que levou cerca de 72 mil pessoas a atravessar a fronteira e […]\nO post Espanha ameaça retaliar Itália caso mantenha fronteiras fechadas após onda migratória apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/espanha-ameaca-retaliar-italia-caso-mantenha-fronteiras-fechadas-apos-onda-migratoria/",
+          "publishedOn": "2026-08-07T14:27:01.000Z",
+          "wordCount": 3357,
+          "title": "Espanha ameaça retaliar Itália caso mantenha fronteiras fechadas após onda migratória",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ceuta2capa.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262443",
           "author": "Fernanda Oliveira",
           "description": "Mais de 20 milhões de muçulmanos xiitas se reuniram no santuário do Imam Hussein, em Karbala, no Iraque, no que é considerado a maior peregrinação anual do mundo, conhecida como Arbaeen. O objetivo comum a todos os fiéis é prestar tributo ao imam, neto do profeta Muhammad, que sacrificou a própria vida em uma batalha […]\nO post Como a guerra dos EUA contra o Irã transformou Arbaeen de 2026 em uma peregrinação política apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/como-a-guerra-dos-eua-contra-o-ira-transformou-arbaeen-de-2026-em-uma-peregrinacao-politica/",
           "publishedOn": "2026-08-07T12:54:04.000Z",
-          "wordCount": 5066,
+          "wordCount": 5104,
           "title": "Como a guerra dos EUA contra o Irã transformou Arbaeen de 2026 em uma peregrinação política",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/dsc02513-scaled.jpg"
         },
@@ -508,7 +548,7 @@
           "description": "Alvo de denúncias de fraude eleitoral, o ultradireitista Abelardo de la Espriella toma posse nesta sexta-feira (07/08), em Cali, capital do Vale do Cauca, assumindo a Presidência da República da Colômbia para o período entre 2026 e 2030. Neste mesmo dia, termina constitucionalmente o mandato presidencial de Gustavo Petro, que tem acusado o opositor de […]\nO post Abelardo de la Espriella toma posse na Colômbia em meio a denúncias de fraude eleitoral apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/colombia-abelardo-de-la-espriella-toma-posse-nesta-sexta-07-em-meio-a-denuncia-de-fraude-eleitoral/",
           "publishedOn": "2026-08-07T10:30:48.000Z",
-          "wordCount": 3308,
+          "wordCount": 3225,
           "title": "Abelardo de la Espriella toma posse na Colômbia em meio a denúncias de fraude eleitoral",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/colombian_presidential_candidate_abelardo_de_la_espriella.jpg"
         },
@@ -551,60 +591,14 @@
           "wordCount": 3884,
           "title": "Venezuela: chavismo e oposição concluem primeira rodada de diálogos que sugere novas eleições",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/7eb7af51-f18e-492a-962d-d53966e4f772.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262413",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (06/08) acreditar que a guerra contra o Irã vai terminar “bem em breve”. A declaração dada a repórteres não é a primeira da natureza, uma vez que o republicano veio ultimamente prometendo que um acordo estava muito perto de ser assinado com Teerã – este […]\nO post Trump volta a dizer que guerra contra Irã vai acabar ‘bem em breve’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-volta-a-dizer-que-guerra-contra-ira-vai-acabar-bem-em-breve/",
-          "publishedOn": "2026-08-07T00:36:34.000Z",
-          "wordCount": 3242,
-          "title": "Trump volta a dizer que guerra contra Irã vai acabar ‘bem em breve’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55429087783_1867716909_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262410",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, fez nesta quinta-feira (06/08) mais uma tentativa de restringir a cidadania por nascimento, assinando duas ordens voltadas àqueles que, segundo ele, entram no país sob o pretexto de turismo, quando na verdade pretendem parir uma criança em solo norte-americano. “Eles pegaram a cidadania por nascimento e a transformaram […]\nO post Trump assina ordem executiva para restringir cidadania por nascimento nos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-assina-ordem-executiva-para-restringir-cidadania-por-nascimento-nos-eua/",
-          "publishedOn": "2026-08-06T23:28:41.000Z",
-          "wordCount": 3399,
-          "title": "Trump assina ordem executiva para restringir cidadania por nascimento nos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55439956591_a2d4a6f18c_k-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262365",
-          "author": "Victor Farinelli",
-          "description": "A China vai construir em Hefei, capital da província de Anhui, um laboratório de proteção planetária para receber e processar as amostras de Marte que prevê trazer para a Terra em 2031, segundo o Laboratório de Exploração do Espaço Profundo, que operará parte da instalação. O laboratório desenvolverá um sistema de proteção bidirecional: isolará as […]\nO post China construirá laboratório especial para tratar amostras de Marte apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/china/china-construira-laboratorio-especial-para-tratar-amostras-de-marte/",
-          "publishedOn": "2026-08-06T22:30:01.000Z",
-          "wordCount": 3253,
-          "title": "China construirá laboratório especial para tratar amostras de Marte",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/china.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
-        {
-          "id": "https://anovademocracia.com.br/?p=230893",
-          "author": "Rosana Bond",
-          "description": "Um século após a fundação de Amauta, Mariátegui segue vivo como marxista convicto, fundador do Partido Comunista do Peru e teórico da Revolução Peruana, apesar dos que tentam separar sua obra da luta de classes e da ideologia científica do proletariado.",
-          "link": "https://anovademocracia.com.br/peru-100-anos-revista-amauta-mariategui/",
-          "publishedOn": "2026-08-07T12:37:50.000Z",
-          "wordCount": null,
-          "title": "Peru: 100 anos da Revista Amauta – Mariátegui está vivo",
-          "imageUrl": null
-        },
         {
           "id": "https://anovademocracia.com.br/?p=230900",
           "author": "Redação de AND",
@@ -694,6 +688,16 @@
           "wordCount": 11547,
           "title": "Plantão Palestina (02–05/08): ‘A trama para desarmar o Hamas já fracassou’, afirma Guarda Revolucionária do Irã; ‘Israel’ e ‘Satãnyahu’ rejeitam acordo e sabotam cessar-fogo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-05-plantao-palestina.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=230799",
+          "author": "Redação de AND",
+          "description": "“Me perguntaram se o EUA quisesse invadir o Brasil, o que é que eu faria. Temos que abrir o portão. O Brasil não tem equipamento para enfrentá-lo, nem tem dinheiro para consertar o portão. Eu prefiro abrir o portão”. Essa afirmação, que soa inacreditável, foi proferida por ninguém menos que o atual ministro da Defesa do governo oportunista de Luiz Inácio (PT), que coordena as Forças Armadas reacionárias na sua suposta missão constitucional de defender a Pátria. O crime de traição nacional, em forma de palavras, foi cometido durante um evento com a Confederação Nacional da Indústria (CNI), instituição da",
+          "link": "https://anovademocracia.com.br/mucio-abriria-o-portao-invasao-eua-brasil/",
+          "publishedOn": "2026-08-06T01:27:22.000Z",
+          "wordCount": 9258,
+          "title": "José Múcio afirma que ‘abriria o portão’ em caso de invasão do EUA ao Brasil",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-1.png"
         }
       ]
     },
@@ -823,7 +827,7 @@
           "id": "https://outraspalavras.net/?p=3192947",
           "author": "Matheus Silveira de Souza",
           "description": "Condições precárias levam trabalhadores a escolher o “menos pior”. Planos de saúde pagam R$ 15 por sessão. Clínicas extorquem por salas de terapia. Plataformas vendem “preço social” e levam profissionais a atender até 40 pacientes por semana. Qualidade das ocupações definha\nThe post Psicólogos: por que a categoria se uberiza? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/psicologos-por-que-a-categoria-se-uberiza/",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/psicologos-por-que-categoria-se-uberiza/",
           "publishedOn": "2026-08-06T18:59:21.000Z",
           "wordCount": null,
           "title": "Psicólogos: por que a categoria se uberiza?",
@@ -934,12 +938,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=66015",
+          "author": "Boitempo",
+          "description": "Paula Varela escreve sobre os desafios políticos do marxismo na atualidade: \"não é suficiente uma visão do trabalho e da classe trabalhadora que não seja reducionista. Esse é um ponto de partida, não de chegada, que mantém sem resolução o problema do poder da classe que vive do trabalho. Como pensar hoje o poder da classe trabalhadora?\"",
+          "link": "https://blogdaboitempo.com.br/2026/08/07/a-teoria-marxista-hoje/",
+          "publishedOn": "2026-08-07T15:10:34.000Z",
+          "wordCount": 15846,
+          "title": "A teoria marxista hoje",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/paula-varela.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=65798",
           "author": "Boitempo",
           "description": "O termo 'profissionais da educação' inclui um grupo bastante heterogêneo, em que \"cada segmento desempenha funções indissociáveis e, no entanto, submetidas a regimes jurídicos e condições materiais profundamente desiguais. A fragmentação da categoria é uma tecnologia de controle que facilita a precarização seletiva. Não é possível pensar em valorização docente quando ela se dá em detrimento da precarização de outros setores, por exemplo\", defendem Fátima Machado e Ricardo Normanha.",
           "link": "https://blogdaboitempo.com.br/2026/08/06/dia-dos-profissionais-da-educacao-entre-a-miragem-da-valorizacao-e-as-lutas-em-2026/",
           "publishedOn": "2026-08-06T09:00:00.000Z",
-          "wordCount": 14607,
+          "wordCount": 14476,
           "title": "Dia das e dos profissionais da educação: entre a “miragem da valorização” e as lutas em 2026",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/image-33.png"
         },
