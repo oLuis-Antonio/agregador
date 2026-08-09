@@ -111,16 +111,6 @@
           "wordCount": 1115,
           "title": "A crise política mineira em foco",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/crise-politica-em-MG.webp"
-        },
-        {
-          "id": "6a729ea28ebc79031a15a35c",
-          "author": "Érika Andreassy",
-          "description": "No último final de semana, a Polícia Federal, em colaboração com a Europol, expôs uma rede que opera em pelo menos nove países e que transformou o estupro doméstico em negócio. O caso foi divulgado com",
-          "link": "https://opiniaosocialista.com.br/corpos-a-venda-rede-de-estupros-domesticos-revela-mercado-que-lucra-com-a-violencia-as-mulheres/",
-          "publishedOn": "2026-08-05T02:31:31.000Z",
-          "wordCount": 1868,
-          "title": "Corpos à venda: rede de estupros domésticos revela mercado que lucra com a violência às mulheres",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/materia-fantastico.webp"
         }
       ]
     },
@@ -129,6 +119,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/A-candidatura-da-socialista-Kshama-Sawant-em-Seattle-mostra-que-e-possivel-lutar-por-um-partido-da",
+          "author": "Sou Mi",
+          "description": "A candidatura abertamente socialista e independente Kshama Sawant obteve 15% dos votos e ficou em terceiro lugar nas primárias para o Congresso no 9o Distrito Congressional de Washington. Sawant se apresentou por fora dos partidos democrata e republicano, que estão cada vez mais questionados e seu bom resultado mostra que, diferentemente da estratégia do Democratic Socialist of America (DSA) que apresentam candidaturas dentro do Partido Democrata, é possível lutar por um partido da classe trabalhadora nos EUA.\n09-08-2026\n\n/ Internacional, EUA, Democratic Socialists of America (DSA)",
+          "link": "https://www.esquerdadiario.com.br/A-candidatura-da-socialista-Kshama-Sawant-em-Seattle-mostra-que-e-possivel-lutar-por-um-partido-da",
+          "publishedOn": "2026-08-09T14:05:15.000Z",
+          "wordCount": null,
+          "title": "A candidatura da socialista Kshama Sawant em Seattle mostra que é possível lutar por um partido da classe trabalhadora",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Myriam-Bregman-lanca-Moderada-Nunca-no-Brasil-acompanhe-ao-vivo",
           "author": "Redação",
@@ -358,12 +358,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262561",
+          "author": "Patricia de Matos",
+          "description": "O vice-premiê e ministro das Relações Exteriores da Itália, Antonio Tajani, classificou como “incompreensível e totalmente inaceitável” a decisão da Espanha de adotar controles de fronteira. A medida anunciada por Marid ocorre em resposta à suspensão temporária das regras de livre circulação do espaço Schengen, determinada por Roma, no contexto da crise migratória de Ceuta […]\nO post Reação da Espanha ao controle de fronteira é ‘inaceitável’, diz chanceler italiano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/reacao-da-espanha-ao-controle-de-fronteira-e-inaceitavel-diz-chanceler-italiano/",
+          "publishedOn": "2026-08-09T15:45:04.000Z",
+          "wordCount": 3930,
+          "title": "Reação da Espanha ao controle de fronteira é ‘inaceitável’, diz chanceler italiano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/27275288697_79db7e223a_b.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262555",
+          "author": "Patricia de Matos",
+          "description": "O novo governo da Colômbia anunciou na última sexta-feira (07/08) que reconhece a soberania do Marrocos sobre o Saara Ocidental, em uma mudança significativa na política externa adotada pelo país nos últimos anos. A decisão foi comunicada horas após a posse do presidente Abelardo de la Espriella, durante uma reunião entre autoridades colombianas e o […]\nO post Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina-e-politica-internacional/alinhada-aos-eua-colombia-reconhece-soberania-do-marrocos-sobre-saara-ocidental/",
+          "publishedOn": "2026-08-09T14:30:28.000Z",
+          "wordCount": 3825,
+          "title": "Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpon2sexkaajqx3.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262551",
+          "author": "Patricia de Matos",
+          "description": "Ventos fortes alimentaram o incêndio de Bald Range, próximo ao lago Okanagan, no sul da Colúmbia Britânica. As chamas se alastraram rapidamente e já destruíram mais de 10 mil hectares, afetando comunidades nos vales da região. Os bombeiros da província registraram 102 incêndios florestais ativos na manhã deste domingo. Quase metade deles parece estar fora […]\nO post Incêndios forçam retirada de 20 mil pessoas no Oeste do Canadá apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/desastre-natural/incendios-forcam-retirada-de-20-mil-pessoas-no-oeste-do-canada/",
+          "publishedOn": "2026-08-09T13:33:03.000Z",
+          "wordCount": 3179,
+          "title": "Incêndios forçam retirada de 20 mil pessoas no Oeste do Canadá",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/incendios-canada.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262542",
           "author": "Patricia de Matos",
           "description": "O governo de Donald Trump pretende destinar US$ 1 bilhão em assistência de segurança à Colômbia durante a gestão do novo presidente, Abelardo De La Espriella.  O anúncio foi feito nesta sexta-feira (08/08) pelo Departamento de Estado norte-americano, no mesmo dia em que o político de direita assumiu o cargo. Segundo o governo de Donald […]\nO post EUA prometem US$ 1 bilhão à Colômbia após posse de Espriella apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/eua-destinarao-us-1-bilhao-a-seguranca-da-colombia-apos-posse-de-ultradireitista/",
           "publishedOn": "2026-08-08T20:47:07.000Z",
-          "wordCount": 3629,
+          "wordCount": 3635,
           "title": "EUA prometem US$ 1 bilhão à Colômbia após posse de Espriella",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/colombian_president_abelardo_de_la_espriella.png"
         },
@@ -373,7 +403,7 @@
           "description": "Teerã condicionou a reabertura do Estreito de Ormuz ao atendimento de uma série de demandas dirigidas a Washington, anunciadas neste sábado (08/08). Por meio da via marítima passa um quinto do petróleo comercializado no mundo. A informação, atribuída ao secretário do Conselho Supremo de Segurança Nacional iraniano, chegou ao público por meio de comunicado da […]\nO post Irã divulga lista de exigências aos EUA para reabertura do Estreito de Ormuz apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-divulga-lista-de-exigencias-aos-eua-para-reabertura-do-estreito-de-ormuz/",
           "publishedOn": "2026-08-08T19:22:26.000Z",
-          "wordCount": 3444,
+          "wordCount": 3450,
           "title": "Irã divulga lista de exigências aos EUA para reabertura do Estreito de Ormuz",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/houthis-red-sea-1.jpeg"
         },
@@ -381,9 +411,9 @@
           "id": "https://operamundi.uol.com.br/?p=262532",
           "author": "Patricia de Matos",
           "description": "Uma investigação da empresa espanhola de tecnologia Golden Owl concluiu que o fluxo de migrantes foi “uma operação organizada”. As autoridades agora buscam entender como esse rumor se espalhou e quem está por trás dele. Na sexta-feira (07/08), a União Europeia pediu explicações à Meta e ao TikTok para obter mais informações. Segundo o bloco, […]\nO post União Europeia cobra bigtechs por desinformação ligada à onda migratória em Ceuta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/uniao-europeia-cobra-bigtechs-por-desinformacao-ligada-a-onda-migratoria-em-ceuta/",
+          "link": "https://operamundi.uol.com.br/europa/uniao-europeia-cobra-bigtechs-por-desinformacao-ligada-a-onda-migratoria-em-ceuta/",
           "publishedOn": "2026-08-08T18:14:39.000Z",
-          "wordCount": 3644,
+          "wordCount": 3687,
           "title": "União Europeia cobra bigtechs por desinformação ligada à onda migratória em Ceuta",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ceuta2capa-1.jpg"
         },
@@ -393,7 +423,7 @@
           "description": "O Senado dos Estados Unidos confirmou na madrugada deste sábado (08/08) Todd Blanche como novo secretário de Justiça do país, em uma votação apertada de 50 votos a 49.  Ex-advogado pessoal de Donald Trump, Blanche já comandava interinamente o Departamento de Justiça desde abril, após a demissão de Pam Bondi em meio à crise envolvendo […]\nO post Com votação apertada, Senado dos EUA confirma ex-advogado de Trump no comando da Justiça apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/com-votacao-apertada-senado-dos-eua-confirma-ex-advogado-de-trump-no-comando-da-justica/",
           "publishedOn": "2026-08-08T16:30:19.000Z",
-          "wordCount": 3559,
+          "wordCount": 3565,
           "title": "Com votação apertada, Senado dos EUA confirma ex-advogado de Trump no comando da Justiça",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/todd_blanche_outside_manhattan_criminal_courthouse_cropped.jpg"
         },
@@ -426,36 +456,6 @@
           "wordCount": 3571,
           "title": "Lula diz que Marco Rubio é um ‘latino-americano frustrado’ e que ‘odeia o Brasil’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/8566797744_3e0d9461ab_b.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262497",
-          "author": "Victor Farinelli",
-          "description": "Gustavo Petro já não é mais presidente da Colômbia. O líder da coalizão progressista Pacto Histórico deixou o Palácio de Governo em uma cerimônia realizada nesta sexta-feira (07/08), em Bogotá, horas antes da posse do novo presidente, Abelardo de la Espriella – evento ao qual o agora ex-presidente não irá comparecer. Em sua despedida, Petro […]\nO post Petro deixa governo colombiano e não vai a posse de Espriella apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petro-deixa-governo-colombiano-e-nao-vai-a-posse-de-espriella/",
-          "publishedOn": "2026-08-07T21:25:48.000Z",
-          "wordCount": 3126,
-          "title": "Petro deixa governo colombiano e não vai a posse de Espriella",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/apetro.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262479",
-          "author": "Patricia de Matos",
-          "description": "Pesquisadores dos Estados Unidos conseguiram, pela primeira vez, usar inteligência artificial para projetar o genoma completo de um vírus. O avanço, publicado na última quinta-feira (06/08) na revista científica Science, é considerado um marco para a biologia sintética. A descoberta pode acelerar o desenvolvimento de novos tratamentos contra infecções resistentes a antibióticos, embora também tenha […]\nO post IA cria vírus inédito e abre caminho para avanços médicos, mas desperta alerta sobre biossegurança apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/ia-cria-virus-inedito-e-abre-caminho-para-avancos-medicos-mas-desperta-alerta-sobre-biosseguranca/",
-          "publishedOn": "2026-08-07T21:00:01.000Z",
-          "wordCount": 3148,
-          "title": "IA cria vírus inédito e abre caminho para avanços médicos, mas desperta alerta sobre biossegurança",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/sin-nombre-virus-hanta-tem-1137-lores-53b583-1024.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262466",
-          "author": "Raissa Neves",
-          "description": "“A gente reivindica a autodefesa a partir dessa perspectiva de autonomia e não de individualidade”, afirmou a militante feminista Vitória Lobo, coordenadora do Centro Social e Desportivo Estrela Vermelha. Para ela, a capacidade de se defender precisa ser construída também a partir da participação coletiva e de redes de apoio. A análise ocorreu durante a mesa […]\nO post ‘Autodefesa coletiva é caminho para enfrentar o patriarcado’, defendem feministas na Flipei apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/direitos-humanos/autodefesa-coletiva-e-caminho-para-enfrentar-o-patriarcado-defendem-feministas-na-flipei/",
-          "publishedOn": "2026-08-07T20:00:11.000Z",
-          "wordCount": 3684,
-          "title": "‘Autodefesa coletiva é caminho para enfrentar o patriarcado’, defendem feministas na Flipei",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/whatsapp-image-2026-08-07-at-14.56.36.jpeg"
         }
       ]
     },
@@ -660,7 +660,7 @@
           "description": "De la Espriella assume a presidência num país polarizado. Seu discurso é de paranoia e paramilitarismo. Ostenta vida de luxo num dos países mais desiguais do mundo. E insufla a virilidade e o machismo como virtudes máximas. Como venceu?",
           "link": "https://outraspalavras.net/direita-assanhada/colombia-a-ascensao-do-populismo-elitista/",
           "publishedOn": "2026-08-08T00:02:06.000Z",
-          "wordCount": 6972,
+          "wordCount": 6969,
           "title": "Colômbia: A ascensão do populismo elitista",
           "imageUrl": null
         },
@@ -670,7 +670,7 @@
           "description": "O telex começa a chacoalhar furioso, vomitando resmas de notícias. Onde está o presidente? Ninguém sabe. No Sul emerge a figura de Brizola. Diz que respeitará a Constituição, convoca a Brigada Militar e se prepara para a resistência armada",
           "link": "https://outraspalavras.net/historia-e-memoria/o-dia-em-que-janio-quadros-renunciou/",
           "publishedOn": "2026-08-07T22:18:39.000Z",
-          "wordCount": 3837,
+          "wordCount": 3840,
           "title": "O dia em que Jânio Quadros renunciou",
           "imageUrl": null
         },
@@ -690,7 +690,7 @@
           "description": "Em tempos de bolhas e instabilidade financeira, vale recordar os fatos que levaram à Grande Depressão. Do colapso da bolsa de NY às primeiras fissuras globais. O auge da crise e a fragmentação dos mercados. Os nacionalismos econômicos. E as guerras que salvaram o capitalismo",
           "link": "https://outraspalavras.net/historia-e-memoria/crise-de-1929-quando-o-mundo-economico-se-choca/",
           "publishedOn": "2026-08-07T21:04:31.000Z",
-          "wordCount": 9413,
+          "wordCount": 9410,
           "title": "Crise de 1929: Quando o mundo econômico se choca",
           "imageUrl": null
         },
@@ -730,7 +730,7 @@
           "description": "Escritor, operário e jornalista jamaicano articulou a luta antirracista com a de classes. Foi membro ativo da Internacional Comunista. Negro, boêmio e bissexual, criticou o racismo e o conservadorismo, inclusive na esquerda. Hoje, sua obra é resgatada nos estudos interseccionais",
           "link": "https://outraspalavras.net/historia-e-memoria/o-marxismo-de-claude-mckay/",
           "publishedOn": "2026-08-06T22:04:23.000Z",
-          "wordCount": 8538,
+          "wordCount": 8541,
           "title": "O marxismo de Claude McKay",
           "imageUrl": null
         }
