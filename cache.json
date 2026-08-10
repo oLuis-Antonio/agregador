@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "mIWTpm",
+          "author": null,
+          "description": "Após demolir centros acadêmicos, a Universidade Estadual de Londrina instalou contêineres para abrigar estudantes, enquanto amplia a presença de iniciativas financiadas pela iniciativa privada.",
+          "link": "https://jornalofuturo.com.br/artigo/mIWTpm-da-precariedade-ao-incentivo-privado-uel-demole-centros-academicos-e-os-substitui-por-conteineres",
+          "publishedOn": "2026-08-10T15:00:00.000Z",
+          "wordCount": 2213,
+          "title": "Da precariedade ao incentivo privado: UEL demole centros acadêmicos e os substitui por contêineres",
+          "imageUrl": "https://media.jornalofuturo.com.br/UEL_DEMOLI%C3%83%C3%83O_CAs%20-%20Alyn%20Batarce-1024x683.jpg"
+        },
+        {
           "id": "AbN0kb",
           "author": null,
           "description": "O Comitê Central (CC) do Partido Comunista Brasileiro Revolucionário (PCBR) se reuniu no domingo, dia 26 de julho, para avaliar o desenvolvimento das forças em disputa nas eleições burguesas em 2026. O presente artigo visa a disparar uma discussão de atualização de nossa tática eleitoral, desenvolvida e apresentada ao público em dezembro de 2025.",
@@ -81,26 +91,6 @@
           "wordCount": 2178,
           "title": "A ofensiva das Big Techs em Minas Gerais",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/projeto-data-center-em-uberlandia.webp"
-        },
-        {
-          "id": "6a73e9cb8ebc79031a15a3b9",
-          "author": "PSTU-RJ",
-          "description": "Há uma semana, na tarde de quarta-feira, 29 de julho, um vendaval com rajadas superiores a 100 km/h atingiu o estado do Rio de Janeiro. A ventania provocou mortes, deixou mais de 1 milhão de imóveis sem energia elétrica, paralisou o transporte",
-          "link": "https://opiniaosocialista.com.br/vendaval-deixa-mortos-apagoes-e-transporte-paralisado-no-rio-de-janeiro/",
-          "publishedOn": "2026-08-06T02:02:35.000Z",
-          "wordCount": 2175,
-          "title": "Vendaval deixa mortos, apagões e transporte paralisado no Rio de Janeiro",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/_rbr2767--1-.webp"
-        },
-        {
-          "id": "6a73e7218ebc79031a15a39a",
-          "author": "PSTU-MG",
-          "description": "Vocês estão acompanhando a crise política de alternativa burguesa nas eleições para o governo do estado de Minas Gerais? Por que tanta instabilidade política?\nO primeiro colocado nas pesquisas eleitorais, Senador Cleitinho, mais uma vez mudou de idé",
-          "link": "https://opiniaosocialista.com.br/a-crise-politica-mineira-em-foco/",
-          "publishedOn": "2026-08-06T01:53:01.000Z",
-          "wordCount": 1137,
-          "title": "A crise política mineira em foco",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/crise-politica-em-MG.webp"
         }
       ]
     },
@@ -109,6 +99,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Lula-se-reune-com-Alcolumbre-para-negociar-acordos-eleitorais-com-a-direita-inimiga-dos",
+          "author": "Redação",
+          "description": "A reaproximação entre Lula e o presidente do Senado, Davi Alcolumbre, mostra que o PT já trabalha para recompor suas alianças com partidos do Centrão e setores tradicionais da direita mirando as eleições de 2026 e a formação de uma nova coalizão de governo.\n10-08-2026\n\n/ Davi Alcolumbre, Governo Lula, jornada 6x1, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Lula-se-reune-com-Alcolumbre-para-negociar-acordos-eleitorais-com-a-direita-inimiga-dos",
+          "publishedOn": "2026-08-10T16:24:04.000Z",
+          "wordCount": null,
+          "title": "Lula se reúne com Alcolumbre para negociar acordos eleitorais com a direita inimiga dos trabalhadores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Senado-americano-aprova-aliado-de-Trump-como-embaixador-do-Brasil-e-reforca-intervencao-nas",
+          "author": "Redação",
+          "description": "O Senado dos Estados Unidos confirmou na última sexta-feira (7) Daniel Perez, indicado por Donald Trump para comandar a embaixada norte-americana no Brasil. Agente da política de Trump para intervir nas eleições brasileiras foi aprovado por maioria de Republicanos.\n10-08-2026\n\n/ Política, Lula, Donald Trump, Imperialismo, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Senado-americano-aprova-aliado-de-Trump-como-embaixador-do-Brasil-e-reforca-intervencao-nas",
+          "publishedOn": "2026-08-10T14:32:34.000Z",
+          "wordCount": null,
+          "title": "Trump avança ingerência com aprovação de embaixador do Brasil no Senado. Fora Trump da América Latina!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Maira-Machado-Sozinhos-somos-muito-fracos-Precisamos-organizar-nossas-forcas-de-maneira-unificada",
           "author": "Redação",
@@ -294,6 +304,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=162152",
+          "author": "Jessica Santos",
+          "description": "Há 12 anos, a Ponte usa o jornalismo para denunciar violações de direitos, ampliar vozes invisibilizadas e produzir impacto em segurança pública e justiça\nO conteúdo Da Redação |  Como — e por que —  a Ponte faz jornalismo de causas  Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/jornalismo-de-causas-ponte-jornalismo/",
+          "publishedOn": "2026-08-10T14:59:25.000Z",
+          "wordCount": 5974,
+          "title": "Da Redação |  Como — e por que —  a Ponte faz jornalismo de causas",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/2026_07_18_Festival_Ponte_12anos_Foto_SergioSilva_-102-scaled.webp"
+        },
+        {
           "id": "https://ponte.org/?p=162028",
           "author": "Paulo Batistella",
           "description": "Após conseguir quatro adiamentos em dois anos, advogado do réu Gilberto Eric Rodrigues deixou o caso a uma semana do julgamento. Mudança abre margem para novo advogado alegar falta de tempo hábil e violação do direito de ampla defesa\nO conteúdo Ex-PM réu por morte de jovem negro muda advogado e deixa júri sob ameaça de ter quinto adiamento Pode ser acessado em Ponte Jornalismo.",
@@ -338,12 +358,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262657",
+          "author": "Tabitha Ramalho",
+          "description": "O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet vem derrubando o tráfego direto de internautas em sites jornalísticos, prejudicando o financiamento do jornalismo profissional no Brasil. Isso ocorre porque parte dos usuários tem deixado de clicar nos links diretos dos sites, restringindo a pesquisa aos resumos das IAs. […]\nO post Avanço da IA corrói financiamento do jornalismo profissional no Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil/",
+          "publishedOn": "2026-08-10T16:58:45.000Z",
+          "wordCount": 4651,
+          "title": "Avanço da IA corrói financiamento do jornalismo profissional no Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ja_0377.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262646",
+          "author": "Victor Farinelli",
+          "description": "Segundo um informe do Departamento de Segurança Interna (DHS) difundido na imprensa norte-americana neste domingo (09/08), o número de migrantes detidos pelas autoridades do país atingiu no mês de julho o seu maior nível durante o atual mandato de Donald Trump – iniciado em janeiro de 2025. O relatório indica que houve aproximadamente 50 mil […]\nO post EUA registram recordes consecutivos de migrantes presos durante Copa do Mundo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-registram-recordes-consecutivos-de-migrantes-presos-durante-copa-do-mundo/",
+          "publishedOn": "2026-08-10T16:10:02.000Z",
+          "wordCount": 3182,
+          "title": "EUA registram recordes consecutivos de migrantes presos durante Copa do Mundo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ice.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262642",
+          "author": "Pedro Marin",
+          "description": "Em 2026, passado o primeiro quarto do século 21, é preciso ressaltar – ainda – que o acesso à eletricidade é uma questão de direitos humanos reconhecida pela própria ONU, já que dele dependem outros direitos essenciais, como saúde, água, alimentação, moradia, educação e trabalho. Como uma paulista, francorrochense-paulistana, nunca tinha efetivamente refletido sobre tudo […]\nO post ‘Vai pra Cuba!’: não precisei, Paraty virou Havana apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/vai-pra-cuba-nao-precisei-paraty-virou-havana/",
+          "publishedOn": "2026-08-10T15:36:29.000Z",
+          "wordCount": 7385,
+          "title": "‘Vai pra Cuba!’: não precisei, Paraty virou Havana",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/paraty-havana-45.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262636",
+          "author": "Tabitha Ramalho",
+          "description": "A Colômbia foi atingida por um forte terremoto de magnitude 7,4 nesta segunda-feira (10/08). De acordo com o relatório preliminar apresentado pelo Serviço Geológico Colombiano, o impacto foi registrado por volta das 7h34 da manhã, no horário local. 🗣️ Con relación al sismo ocurrido hoy, 10 de agosto, a las a. m., con epicentro en […]\nO post Terremoto de magnitude 7,4 atinge Colômbia; ao menos 21 pessoas morreram apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/terremoto-de-magnitude-74-atinge-colombia-ao-menos-21-pessoas-morreram/",
+          "publishedOn": "2026-08-10T15:30:38.000Z",
+          "wordCount": 3383,
+          "title": "Terremoto de magnitude 7,4 atinge Colômbia; ao menos 21 pessoas morreram",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpxjyvnxiaeyadf.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262639",
+          "author": "Pedro Marin",
+          "description": "Quando o Federal Reserve (Fed), o banco central dos Estados Unidos, aumenta sua taxa de juros, os efeitos ultrapassam rapidamente as fronteiras norte-americanas. Moedas se desvalorizam, capitais deixam países emergentes, governos passam a pagar mais caro para se financiar, as dívidas públicas sobem e produtos ficam mais caros. O que parece uma decisão de política […]\nO post Quanto custa ao Sul Global depender do dólar? apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/quanto-custa-ao-sul-global-depender-do-dolar/",
+          "publishedOn": "2026-08-10T14:26:59.000Z",
+          "wordCount": 3921,
+          "title": "Quanto custa ao Sul Global depender do dólar?",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/dolar.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262631",
+          "author": "Tabitha Ramalho",
+          "description": "As Forças Armadas da Ucrânia disseram ter atingido a refinaria de petróleo TANECO da Tatneft, na região do Tartaristão, a cerca de 800 km a leste de Moscou, acrescentando que um incêndio foi registrado nas instalações. A refinaria também foi alvo de bombardeios de Kiev em junho. Em paralelo, pelo menos 13 pessoas morreram, incluindo […]\nO post Rússia abre processo criminal contra Ucrânia após ataque com drones atingir refinaria apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-abre-processo-criminal-contra-ucrania-apos-ataque-com-drones-atingir-refinaria/",
+          "publishedOn": "2026-08-10T14:06:41.000Z",
+          "wordCount": 3276,
+          "title": "Rússia abre processo criminal contra Ucrânia após ataque com drones atingir refinaria",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpxite4wkaewwa2.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262629",
           "author": "Tabitha Ramalho",
           "description": "O debate sobre a propriedade estrangeira de terras na Argentina, impulsionado pela impopular Lei da Inviolabilidade da Propriedade Privada de Javier Milei, confirmou a crescente rejeição, entre os setores mais jovens, do governo do presidente libertário, um distanciamento que pode estar influenciando o resultado das eleições em um país onde 53% dos eleitores têm menos […]\nO post Argentina: rejeição a Milei entre jovens atinge 76,9% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/argentina-rejeicao-a-milei-entre-jovens-atinge-769/",
           "publishedOn": "2026-08-10T12:10:51.000Z",
-          "wordCount": 3348,
+          "wordCount": 3343,
           "title": "Argentina: rejeição a Milei entre jovens atinge 76,9%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/milei.webp"
         },
@@ -353,7 +433,7 @@
           "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, afirmou que o Estreito de Ormuz não será reaberto enquanto os EUA mantiverem o bloqueio naval contra Teerã, enfatizando que Washington deve pôr fim e reparar suas “ações destrutivas” antes que novas medidas possam ser discutidas. “Enquanto o bloqueio naval dos EUA continuar, as […]\nO post Irã condiciona reabertura de Ormuz ao fim de bloqueio naval dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-condiciona-reabertura-de-ormuz-ao-fim-de-bloqueio-naval-dos-eua/",
           "publishedOn": "2026-08-10T11:26:15.000Z",
-          "wordCount": 3238,
+          "wordCount": 3236,
           "title": "Irã condiciona reabertura de Ormuz ao fim de bloqueio naval dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405012217173938436372744-e1786361005621.jpg"
         },
@@ -373,69 +453,9 @@
           "description": "O Ministério das Relações Exteriores e Comércio Internacional da Venezuela recebeu neste domingo (09/08), na sede em Caracas, o rabino-chefe da Associação Israelita venezuelana Isaac Cohen, que entregou uma carta endereçada à presidente interina Delcy Rodríguez. O documento, de acordo com o comunicado com a pasta, realiza um apelo para o restabelecimento das relações diplomáticas […]\nO post Associação Israelita da Venezuela pede a Delcy Rodríguez retomada de relações diplomáticas com Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/associacao-israelita-da-venezuela-pede-a-delcy-rodriguez-retomada-de-relacoes-diplomaticas-com-israel/",
           "publishedOn": "2026-08-10T05:20:22.000Z",
-          "wordCount": 3213,
+          "wordCount": 3208,
           "title": "Associação Israelita da Venezuela pede a Delcy Rodríguez retomada de relações diplomáticas com Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/productodestacado260809061237.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262610",
-          "author": "Rocio Paik",
-          "description": "Os houthis do Iêmen apoiados pelo Irã reivindicaram neste domingo (09/08) um ataque com drones e mísseis balísticos contra tropas e equipamentos sauditas na cidade portuária iemenita de Mokha, às margens do Mar Vermelho, segundo fontes militares do governo do Iêmen. No território saudita, o grupo também afirmou ter bombardeado a refinaria de Jazan, pertencente […]\nO post Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/houthis-reivindicam-ataque-contra-refinaria-na-arabia-saudita-e-tropas-do-pais-no-iemen/",
-          "publishedOn": "2026-08-10T04:20:52.000Z",
-          "wordCount": 3454,
-          "title": "Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-10-004649.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262607",
-          "author": "Rocio Paik",
-          "description": "O governo da República Democrática do Congo confirmou no domingo (09/08) que o número de mortos pela epidemia de ebola subiu para mais de 1.900 pessoas. As autoridades de saúde registraram mais de 4 mil casos acumulados desde a declaração do surto em 15 de maio, com uma taxa de letalidade de cerca de quarenta […]\nO post RD Congo: sobe para mais de 1,9 mil mortes por surto de ebola apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/rd-congo-sobe-para-mais-de-19-mil-mortes-por-surto-de-ebola/",
-          "publishedOn": "2026-08-10T03:22:06.000Z",
-          "wordCount": 3100,
-          "title": "RD Congo: sobe para mais de 1,9 mil mortes por surto de ebola",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/6136_phil_scientists_ppe_ebola_outbreak_1995.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262602",
-          "author": "Rocio Paik",
-          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, e o seu ministro da Defesa, Israel Katz, sinalizaram estar iniciando, de forma discreta, os trabalhos de reconstrução no sul da Faixa de Gaza, de acordo com as informações divulgadas pela Rádio do Exército de Israel (Galei Zahal), veículo operado pelas forças militares, neste domingo (09/08). Conforme o Galei […]\nO post Sem anúncio, Netanyahu inicia reconstrução no sul de Gaza, diz rádio israelense  apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/netanyahu-inicia-secretamente-reconstrucao-no-sul-de-gaza-diz-radio-israelense/",
-          "publishedOn": "2026-08-10T02:36:12.000Z",
-          "wordCount": 3477,
-          "title": "Sem anúncio, Netanyahu inicia reconstrução no sul de Gaza, diz rádio israelense",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/an_aerial_view_showing_destruction_in_rafah_after_israeli_forces_withdrawal_and_as_the_ceasefire_took_hold_gaza_strip.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262599",
-          "author": "Rocio Paik",
-          "description": "O líder supremo do Irã, Mojtaba Khamenei, nomeou neste domingo (09/08) o ex-comandante do Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês), Mohsen Rezaee, como novo secretário do Conselho Supremo de Segurança Nacional (SNSC, na sigla em inglês). “À luz de suas valiosas experiências, eu os nomeio, que são um dos pioneiros do […]\nO post Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ex-chefe-da-guarda-revolucionaria-assume-cargo-mais-alto-de-seguranca-no-pais/",
-          "publishedOn": "2026-08-10T01:22:48.000Z",
-          "wordCount": 3199,
-          "title": "Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/mohsenrezaeemilitaryuniform.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262596",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (09/08) que Washington está negociando com o Irã de forma discreta, uma vez que, na avaliação dele, o país persa está passando por dificuldades econômicas. “Estamos apenas semi-negociando com eles. Estamos apenas observando o Irã com sua enorme inflação e o fato de não terem […]\nO post Trump alega estar negociando ‘discretamente’ com Irã e sugere ampliar pressão econômica apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-sugere-ampliar-pressao-economica-contra-ira/",
-          "publishedOn": "2026-08-10T00:21:36.000Z",
-          "wordCount": 3179,
-          "title": "Trump alega estar negociando ‘discretamente’ com Irã e sugere ampliar pressão econômica",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55447694437_67c0d67f42_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262593",
-          "author": "Rocio Paik",
-          "description": "Na Groenlândia, a transferência de equipamentos de perfuração para um aeroporto no leste do território autônomo, no fim de julho, fez ressurgir o debate sobre a presença norte-americana na ilha. Declarações recentes do presidente norte-americano Donald Trump indicam que ele mantém seu interesse em ampliar a influência dos Estados Unidos na região. A pista do […]\nO post Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/empresa-petrolifera-ligada-a-trump-prepara-perfuracao-sem-autorizacao-na-groenlandia/",
-          "publishedOn": "2026-08-09T23:19:13.000Z",
-          "wordCount": 4032,
-          "title": "Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/image-1779536277325.webp"
         }
       ]
     },
@@ -451,6 +471,16 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=230963",
+          "author": "Redação de AND",
+          "description": "Reportagem especial mostra como o país Estados Unidos (EUA), depois de proclamar o “fim do comunismo”, articula agora uma política contrarrevolucionária preventiva internacional contra comunistas, anti-imperialistas e movimentos populares.",
+          "link": "https://anovademocracia.com.br/ressurgimento-comunismo-imperialismo-alerta/",
+          "publishedOn": "2026-08-10T15:07:25.000Z",
+          "wordCount": 7031,
+          "title": "ASSISTA: ‘Ressurgimento do comunismo’ põe imperialismo ianque em alerta; AND explica em reportagem especial",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/reportagem-and-ressurgimento-comunismo.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=230956",
           "author": "Redação de AND",
           "description": "Nos 1.034º, 1.035º, 1.036º e 1.037º dias desde o Dilúvio de Al-Aqsa, o Hamas reafirmou que seguirá “positiva e responsavelmente” a implementação dos 15 pontos negociados para a segunda fase do cessar-fogo, com o objetivo de encerrar o sofrimento em Gaza e “proteger os direitos e interesses nacionais” palestinos, enquanto o genocida Benjamin Netanyahu rejeitou expressamente o documento e condicionou qualquer retirada sionista ao desarmamento da Resistência. O chamado Conselho de Paz dirigido pelo EUA, por sua vez, destinou seu primeiro contrato de construção em Gaza não à reconstrução, mas a uma base para tropas estrangeiras. No Irã, autoridades aprovaram um novo plano estratégico para o Estreito de Ormuz e afirmaram que Teerã não abrirá mão do controle da passagem “a qualquer custo”; o comandante das Forças Terrestres advertiu que qualquer força ianque que pise em território iraniano será enfrentada. No Iêmen, um drone atingiu uma refinaria da Aramco em Jizan, ataque após o qual a própria Arábia Saudita confirmou um incêndio na instalação.",
@@ -461,22 +491,12 @@
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-09-plantao-palestina-1.jpg"
         },
         {
-          "id": "https://anovademocracia.com.br/?p=230917",
-          "author": "Redação de AND",
-          "description": "Em desdobramento do A Propósito #369, Victor Bellizia afirmou que o alarme ianque sobre o “ressurgimento da extrema esquerda” admite o fracasso da propaganda de que o socialismo, o comunismo e a revolução haviam acabado.",
-          "link": "https://anovademocracia.com.br/lutas-revolucionarias-debate-pitillo-lai/",
-          "publishedOn": "2026-08-09T22:29:21.000Z",
-          "wordCount": 7483,
-          "title": "‘As lutas revolucionárias já não podem mais ser tratadas como fenômenos do passado pelos reacionários’, aponta AND em debate com Pitillo e Liga Anti-imperialista",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/bandeiras-palestina-lai-1024x683.webp"
-        },
-        {
           "id": "https://anovademocracia.com.br/?p=230951",
           "author": "Giovanna Maria",
           "description": "Vídeo mostra brigadiano fardado entrando no local, agredindo Wilian Wink e disparando contra ele. Caso ocorreu após reclamação por suposto excesso de barulho.",
           "link": "https://anovademocracia.com.br/pm-atira-quatro-vezes-contra-trabalhador-oficina-sobradinho/",
           "publishedOn": "2026-08-08T11:47:11.000Z",
-          "wordCount": 7219,
+          "wordCount": 7209,
           "title": "RS: PM atira quatro vezes contra trabalhador dentro de oficina em Sobradinho",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-4.png"
         },
@@ -486,7 +506,7 @@
           "description": "Candidato do PSD se vende como “agro raiz”, mas expansão do latifúndio agroexportador preserva a concentração da terra e as relações semifeudais, avança com violência e devastação, recebe bilhões do velho Estado e serve ao lucro máximo do imperialismo.",
           "link": "https://anovademocracia.com.br/caiado-latifundio-semifeudal-servidao-campo/",
           "publishedOn": "2026-08-07T23:57:15.000Z",
-          "wordCount": 10023,
+          "wordCount": 10013,
           "title": "Caiado rumina expansão do latifúndio semifeudal como ‘progresso’, mas dados expõem miséria, servidão e violência reacionária no campo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/caiado-scaled-1-1024x951.jpg"
         },
@@ -496,7 +516,7 @@
           "description": "Trump e Rubio estão certos: o movimento revolucionário “está de volta” ao mundo e ameaça, sim, os interesses do imperialismo. Sua fracassada ofensiva contrarrevolucionária geral não conseguiu extirpar as revoluções, por impossibilidade histórica, pois não existe derrota definitiva para o proletariado, senão que apenas transitória.",
           "link": "https://anovademocracia.com.br/editorial-comunismo-preocupa-imperialismo/",
           "publishedOn": "2026-08-07T19:55:12.000Z",
-          "wordCount": 8099,
+          "wordCount": 8089,
           "title": "Editorial – O Comunismo volta ao centro das preocupações públicas do imperialismo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/capa-editorial-comunismo-1024x689.png"
         },
@@ -506,7 +526,7 @@
           "description": "Um século após a fundação de Amauta, Mariátegui segue vivo como marxista convicto, fundador do Partido Comunista do Peru e teórico da Revolução Peruana, apesar dos que tentam separar sua obra da luta de classes e da ideologia científica do proletariado.",
           "link": "https://anovademocracia.com.br/peru-100-anos-revista-amauta-mariategui/",
           "publishedOn": "2026-08-07T18:00:00.000Z",
-          "wordCount": 8151,
+          "wordCount": 8141,
           "title": "Peru: 100 anos da Revista Amauta – Mariátegui está vivo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/mariategui-amauta.jpg"
         },
@@ -516,7 +536,7 @@
           "description": "A Campanha Internacional em Solidariedade à Família Villalba informou que, desde 2024, as prisioneiras políticas enfrentam o regime excepcional de segurança máxima em celas individuais e solitárias 24 horas por dia.",
           "link": "https://anovademocracia.com.br/villalba-andino-greve-fome-estado-paraguaio/",
           "publishedOn": "2026-08-07T12:00:34.000Z",
-          "wordCount": 7856,
+          "wordCount": 7846,
           "title": "Carmen Villalba, Laura Villalba e Francisca Andino iniciam greve de fome em denúncia aos crimes do velho Estado paraguaio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/villalba.webp"
         },
@@ -526,7 +546,7 @@
           "description": "Alfredo Gaspar, escolhido por Flávio Bolsonaro como seu vice, é acusado de manter relação com adolescente de 13 anos; teia de crimes e escândalos revela que a extrema direita, o \"centrão\" e a falsa esquerda se unem com o que há de menos honorável na sociedade brasileira.",
           "link": "https://anovademocracia.com.br/vice-flavio-bolsonaro-investigacao-estupro/",
           "publishedOn": "2026-08-07T02:08:55.000Z",
-          "wordCount": 8018,
+          "wordCount": 8008,
           "title": "Vice de Flávio Bolsonaro é alvo de investigação por estupro de vulnerável",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-3.png"
         },
@@ -536,7 +556,7 @@
           "description": "Após um dia e meio de paralisação, ferroviários arrancaram do governo o compromisso de absorver todos os empregados da CPTM; paralisações crescentes de ferroviários, metroviários, rodoviários e caminhoneiros apontam o caminho da Greve Geral de Resistência Nacional.",
           "link": "https://anovademocracia.com.br/greve-sao-paulo-expoe-fiasco-privatizacao/",
           "publishedOn": "2026-08-06T21:15:05.000Z",
-          "wordCount": 8733,
+          "wordCount": 8723,
           "title": "Greve dos ferroviários em São Paulo dobra o governo e expõe fiasco da privatização; mobilizações classistas crescem em todo o País",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/panfleto-privatizacao-sp.jpg"
         },
@@ -546,7 +566,7 @@
           "description": "Mobilizações realizadas nas duas maiores cidades catarinenses integraram o Breque Nacional dos entregadores e denunciaram a intensificação da exploração promovida pelas plataformas digitais, em especial pela modalidade \"Mais Entregas\", do iFood. Além do fim do programa, a categoria reivindicou remuneração justa, melhores condições de trabalho e infraestrutura para os trabalhadores.",
           "link": "https://anovademocracia.com.br/entregadores-paralisam-atividades-em-florianopolis-e-joinville-contra-plataformas/",
           "publishedOn": "2026-08-06T20:56:14.000Z",
-          "wordCount": 8295,
+          "wordCount": 8285,
           "title": "SC: Entregadores paralisam atividades em Florianópolis e Joinville contra a intensificação da exploração pelas plataformas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-1.jpeg"
         }
@@ -582,107 +602,107 @@
     {
       "title": "Outras Palavras",
       "feedUrl": "http://www.outraspalavras.net/feed/",
-      "siteUrl": "https://outraspalavras.net",
+      "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
           "id": "https://outraspalavras.net/?p=3017653",
           "author": "Rôney Rodrigues",
-          "description": "São Paulo na garupa: quem decide para onde a cidade anda, e por que a necessidade não se esgota na […]",
+          "description": "São Paulo na garupa: quem decide para onde a cidade anda, e por que a necessidade não se esgota na […]\nThe post  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/sem-categoria/3017653/",
           "publishedOn": "2026-08-08T04:55:51.000Z",
-          "wordCount": 5117,
+          "wordCount": 5179,
           "title": "Untitled",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/retrato-da-colonizacao-acelerada-da-cisjordania/",
           "author": "Antonio Martins",
-          "description": "Enquanto o mundo volta os olhos à Gaza, expansão de assentamentos sionistas reconfigura o mapa palestino no Vale do Jordão. A violência dos colonos é central neste plano. Israel formaliza expulsão e prisão de palestinos. Nova operação militar escala a crise",
+          "description": "Enquanto o mundo volta os olhos à Gaza, expansão de assentamentos sionistas reconfigura o mapa palestino no Vale do Jordão. A violência dos colonos é central neste plano. Israel formaliza expulsão e prisão de palestinos. Nova operação militar escala a crise\nThe post Retrato da colonização acelerada da Cisjordânia appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/retrato-da-colonizacao-acelerada-da-cisjordania/",
           "publishedOn": "2026-08-08T00:19:52.000Z",
-          "wordCount": 5009,
+          "wordCount": 5048,
           "title": "Retrato da colonização acelerada da Cisjordânia",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-07-at-18-18-49-798050245.webp-imagem-WEBP-3000-%C3%97-1689-pixels-Redimensionada-38.png"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/colombia-a-ascensao-do-populismo-elitista/",
           "author": "Antonio Martins",
-          "description": "De la Espriella assume a presidência num país polarizado. Seu discurso é de paranoia e paramilitarismo. Ostenta vida de luxo num dos países mais desiguais do mundo. E insufla a virilidade e o machismo como virtudes máximas. Como venceu?",
+          "description": "De la Espriella assume a presidência num país polarizado. Seu discurso é de paranoia e paramilitarismo. Ostenta vida de luxo num dos países mais desiguais do mundo. E insufla a virilidade e o machismo como virtudes máximas. Como venceu?\nThe post Colômbia: A ascensão do populismo elitista appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/colombia-a-ascensao-do-populismo-elitista/",
           "publishedOn": "2026-08-08T00:02:06.000Z",
-          "wordCount": 7016,
+          "wordCount": 7064,
           "title": "Colômbia: A ascensão do populismo elitista",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-1-1.png"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/o-dia-em-que-janio-quadros-renunciou/",
           "author": "Carlos Azevedo",
-          "description": "O telex começa a chacoalhar furioso, vomitando resmas de notícias. Onde está o presidente? Ninguém sabe. No Sul emerge a figura de Brizola. Diz que respeitará a Constituição, convoca a Brigada Militar e se prepara para a resistência armada",
+          "description": "O telex começa a chacoalhar furioso, vomitando resmas de notícias. Onde está o presidente? Ninguém sabe. No Sul emerge a figura de Brizola. Diz que respeitará a Constituição, convoca a Brigada Militar e se prepara para a resistência armada\nThe post O dia em que Jânio Quadros renunciou appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/o-dia-em-que-janio-quadros-renunciou/",
           "publishedOn": "2026-08-07T22:18:39.000Z",
-          "wordCount": 3881,
+          "wordCount": 3924,
           "title": "O dia em que Jânio Quadros renunciou",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5165931392154668260_y.jpg"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/carlos-azevedo-passageiro-da-historia/",
           "author": "Antonio Martins",
-          "description": "Outras Palavras passa a publicar as memórias de um grande jornalista brasileiro. Em suas lembranças, um país em que a repressão não era capaz de sufocar a esperança; uma esquerda ansiosa por revolução; e o surgimento de uma imprensa empenhada em desvendar os grandes dilemas de seu tempo",
+          "description": "Outras Palavras passa a publicar as memórias de um grande jornalista brasileiro. Em suas lembranças, um país em que a repressão não era capaz de sufocar a esperança; uma esquerda ansiosa por revolução; e o surgimento de uma imprensa empenhada em desvendar os grandes dilemas de seu tempo\nThe post Carlos Azevedo, <i>Passageiro da História</i> appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/carlos-azevedo-passageiro-da-historia/",
           "publishedOn": "2026-08-07T22:15:48.000Z",
-          "wordCount": 3364,
+          "wordCount": 3413,
           "title": "Carlos Azevedo, Passageiro da História",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Captura-de-tela-de-2026-08-08-08-20-11.png"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/crise-de-1929-quando-o-mundo-economico-se-choca/",
           "author": "Antonio Martins",
-          "description": "Em tempos de bolhas e instabilidade financeira, vale recordar os fatos que levaram à Grande Depressão. Do colapso da bolsa de NY às primeiras fissuras globais. O auge da crise e a fragmentação dos mercados. Os nacionalismos econômicos. E as guerras que salvaram o capitalismo",
+          "description": "Em tempos de bolhas e instabilidade financeira, vale recordar os fatos que levaram à Grande Depressão. Do colapso da bolsa de NY às primeiras fissuras globais. O auge da crise e a fragmentação dos mercados. Os nacionalismos econômicos. E as guerras que salvaram o capitalismo\nThe post Crise de 1929: Quando o mundo econômico se choca appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/crise-de-1929-quando-o-mundo-economico-se-choca/",
           "publishedOn": "2026-08-07T21:04:31.000Z",
-          "wordCount": 9457,
+          "wordCount": 9512,
           "title": "Crise de 1929: Quando o mundo econômico se choca",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-07-at-14-50-04-Questao-2-Observe-a-imagem-e-as-traducoes-a-seguir.-Worlds-highest-standard-of-living-O-mais-alto-brainly.com_.br_.png"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/defesa-nacional-um-imperativo-existencial/",
           "author": "Antonio Martins",
-          "description": "Brasil, enfim, acorda para a necessidade de investir em Defesa. Ataque dos EUA à Venezuela foi alerta. Não precisamos deixar de ser país pacífico. Mas, como mostra o Irã, é possível resistir a uma guerra assimétrica – mesmo sem armas nucleares",
+          "description": "Brasil, enfim, acorda para a necessidade de investir em Defesa. Ataque dos EUA à Venezuela foi alerta. Não precisamos deixar de ser país pacífico. Mas, como mostra o Irã, é possível resistir a uma guerra assimétrica – mesmo sem armas nucleares\nThe post Defesa nacional, um imperativo existencial  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/defesa-nacional-um-imperativo-existencial/",
           "publishedOn": "2026-08-07T20:27:47.000Z",
-          "wordCount": 3808,
+          "wordCount": 3938,
           "title": "Defesa nacional, um imperativo existencial",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5165931392154668220_y.jpg"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/doutrina-donroe-a-proxima-etapa/",
           "author": "Antonio Martins",
-          "description": "Num encontro obscuro com 60 governos, Trump lança nova cruzada. Ingredientes: ampliar guerra cultural conservadora, suscitar fantasmas como a Internacional Antifa e implodir direito internacional. Objetivo: eternizar direita na América Latina",
+          "description": "Num encontro obscuro com 60 governos, Trump lança nova cruzada. Ingredientes: ampliar guerra cultural conservadora, suscitar fantasmas como a Internacional Antifa e implodir direito internacional. Objetivo: eternizar direita na América Latina\nThe post Doutrina Donroe: a próxima etapa appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/doutrina-donroe-a-proxima-etapa/",
           "publishedOn": "2026-08-07T00:12:54.000Z",
-          "wordCount": 6967,
+          "wordCount": 7006,
           "title": "Doutrina Donroe: a próxima etapa",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-4-2.jpeg"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/o-direito-a-saude-em-disputa/",
           "author": "Antonio Martins",
-          "description": "A dois meses das eleições, parece claro que o país precisa atualizar o projeto da Reforma Sanitária. Que mudanças no cenário nacional e internacional exigem esta mudança. De que forma elas afetam o SUS e a saúde dos brasileiros. Quais as pistas para o que precisa ser feito?",
+          "description": "A dois meses das eleições, parece claro que o país precisa atualizar o projeto da Reforma Sanitária. Que mudanças no cenário nacional e internacional exigem esta mudança. De que forma elas afetam o SUS e a saúde dos brasileiros. Quais as pistas para o que precisa ser feito?\nThe post O direito à Saúde em disputa appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/o-direito-a-saude-em-disputa/",
           "publishedOn": "2026-08-06T22:13:34.000Z",
-          "wordCount": 9768,
+          "wordCount": 9821,
           "title": "O direito à Saúde em disputa",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/covid-img.jpg"
         },
         {
           "id": "https://outraspalavras.net/sem-categoria/o-marxismo-de-claude-mckay/",
           "author": "Antonio Martins",
-          "description": "Escritor, operário e jornalista jamaicano articulou a luta antirracista com a de classes. Foi membro ativo da Internacional Comunista. Negro, boêmio e bissexual, criticou o racismo e o conservadorismo, inclusive na esquerda. Hoje, sua obra é resgatada nos estudos interseccionais",
+          "description": "Escritor, operário e jornalista jamaicano articulou a luta antirracista com a de classes. Foi membro ativo da Internacional Comunista. Negro, boêmio e bissexual, criticou o racismo e o conservadorismo, inclusive na esquerda. Hoje, sua obra é resgatada nos estudos interseccionais\nThe post O marxismo de Claude McKay appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/o-marxismo-de-claude-mckay/",
           "publishedOn": "2026-08-06T22:04:23.000Z",
-          "wordCount": 8582,
+          "wordCount": 8631,
           "title": "O marxismo de Claude McKay",
-          "imageUrl": null
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Claude-McKay.jpeg"
         }
       ]
     },
