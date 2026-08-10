@@ -218,16 +218,6 @@
           "wordCount": null,
           "title": "Sob pretexto de combater cartéis, EUA ampliam ofensiva imperialista sobre a América Latina",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Apos-greve-historica-ferroviarios-aceitam-acordo-e-retornam-ao-trabalho",
-          "author": "Redação",
-          "description": "No final da tarde de quarta (05), os ferroviários da CPTM aceitaram acordo mediado pelo TRT e decidiram encerrar a greve que começou ontem. A luta, no entanto, irá seguir para garantir que o acordo seja cumprido.\n05-08-2026\n\n/ Classe trabalhadora, São Paulo (capital), Greve da CPTM, Tarcísio de Freitas, CPTM, Greve contra Tarcísio",
-          "link": "https://www.esquerdadiario.com.br/Apos-greve-historica-ferroviarios-aceitam-acordo-e-retornam-ao-trabalho",
-          "publishedOn": "2026-08-05T22:43:32.000Z",
-          "wordCount": null,
-          "title": "Após greve histórica, ferroviários aceitam acordo e retornam ao trabalho",
-          "imageUrl": null
         }
       ]
     },
@@ -236,6 +226,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444383",
+          "author": "Bianca Pyl",
+          "description": "Ataques de Washington e provocações de Milei não são meras crises diplomáticas, mas parte de uma ofensiva calculada para subjugar o país.\nO post Trump e Rubio fingem diplomacia para ameaçar a soberania do Brasil apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/10/trump-e-rubio-ameacam-soberania-do-brasil/",
+          "publishedOn": "2026-08-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Trump e Rubio fingem diplomacia para ameaçar a soberania do Brasil",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/wide-2.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/wide-2.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444378",
           "author": "Bianca Pyl",
@@ -324,16 +329,6 @@
           "wordCount": 4047,
           "title": "O escudo da China que permite que o Irã siga na luta",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/07/ira-china.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74242",
-          "author": "Middle East Monitor",
-          "description": "s Estratégias de Segurança Nacional dos presidentes dos EUA refletem com precisão a direção de suas políticas externas, que são governadas por interesses americanos que nem sempre são declarados explicitamente, embora não sejam difíceis de deduzir. A Estratégia de Segurança Nacional é um documento presidencial oficial emitido pelo Presidente dos Estados Unidos que delineia as […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/08/05/ira-russia-palestina-uma-leitura-das-estrategias-de-seguranca-nacional-dos-eua/",
-          "publishedOn": "2026-08-05T22:04:39.000Z",
-          "wordCount": 4478,
-          "title": "Irã, Rússia, Palestina: uma leitura das estratégias de segurança nacional dos EUA",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/ira-trump-eua.webp"
         }
       ]
     },
@@ -343,12 +338,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262629",
+          "author": "Tabitha Ramalho",
+          "description": "O debate sobre a propriedade estrangeira de terras na Argentina, impulsionado pela impopular Lei da Inviolabilidade da Propriedade Privada de Javier Milei, confirmou a crescente rejeição, entre os setores mais jovens, do governo do presidente libertário, um distanciamento que pode estar influenciando o resultado das eleições em um país onde 53% dos eleitores têm menos […]\nO post Argentina: rejeição a Milei entre jovens atinge 76,9% apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/argentina-rejeicao-a-milei-entre-jovens-atinge-769/",
+          "publishedOn": "2026-08-10T12:10:51.000Z",
+          "wordCount": 3348,
+          "title": "Argentina: rejeição a Milei entre jovens atinge 76,9%",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/milei.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262624",
+          "author": "Tabitha Ramalho",
+          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, afirmou que o Estreito de Ormuz não será reaberto enquanto os EUA mantiverem o bloqueio naval contra Teerã, enfatizando que Washington deve pôr fim e reparar suas “ações destrutivas” antes que novas medidas possam ser discutidas. “Enquanto o bloqueio naval dos EUA continuar, as […]\nO post Irã condiciona reabertura de Ormuz ao fim de bloqueio naval dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-condiciona-reabertura-de-ormuz-ao-fim-de-bloqueio-naval-dos-eua/",
+          "publishedOn": "2026-08-10T11:26:15.000Z",
+          "wordCount": 3238,
+          "title": "Irã condiciona reabertura de Ormuz ao fim de bloqueio naval dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405012217173938436372744-e1786361005621.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262617",
           "author": "Rocio Paik",
           "description": "O tufão Dolphin atingiu a costa leste da China e mais de um milhão de pessoas tiveram de ser evacuadas no domingo (09/08) em meio a chuvas torrenciais e rajadas de vento. As autoridades de Wenzhou, uma cidade costeira na província de Zhejiang, informaram ter realocado mais de 900 mil pessoas e aberto mais de […]\nO post Tufão Dolphin atinge leste da China e mais de um milhão de pessoas são evacuadas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/tufao-dolphin-atinge-leste-da-china-e-mais-de-um-milhao-de-pessoas-sao-evacuadas/",
           "publishedOn": "2026-08-10T06:21:02.000Z",
-          "wordCount": 3129,
+          "wordCount": 3121,
           "title": "Tufão Dolphin atinge leste da China e mais de um milhão de pessoas são evacuadas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-10-030802.png"
         },
@@ -358,7 +373,7 @@
           "description": "O Ministério das Relações Exteriores e Comércio Internacional da Venezuela recebeu neste domingo (09/08), na sede em Caracas, o rabino-chefe da Associação Israelita venezuelana Isaac Cohen, que entregou uma carta endereçada à presidente interina Delcy Rodríguez. O documento, de acordo com o comunicado com a pasta, realiza um apelo para o restabelecimento das relações diplomáticas […]\nO post Associação Israelita da Venezuela pede a Delcy Rodríguez retomada de relações diplomáticas com Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/associacao-israelita-da-venezuela-pede-a-delcy-rodriguez-retomada-de-relacoes-diplomaticas-com-israel/",
           "publishedOn": "2026-08-10T05:20:22.000Z",
-          "wordCount": 3224,
+          "wordCount": 3213,
           "title": "Associação Israelita da Venezuela pede a Delcy Rodríguez retomada de relações diplomáticas com Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/productodestacado260809061237.jpg"
         },
@@ -368,7 +383,7 @@
           "description": "Os houthis do Iêmen apoiados pelo Irã reivindicaram neste domingo (09/08) um ataque com drones e mísseis balísticos contra tropas e equipamentos sauditas na cidade portuária iemenita de Mokha, às margens do Mar Vermelho, segundo fontes militares do governo do Iêmen. No território saudita, o grupo também afirmou ter bombardeado a refinaria de Jazan, pertencente […]\nO post Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/houthis-reivindicam-ataque-contra-refinaria-na-arabia-saudita-e-tropas-do-pais-no-iemen/",
           "publishedOn": "2026-08-10T04:20:52.000Z",
-          "wordCount": 3459,
+          "wordCount": 3454,
           "title": "Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-10-004649.png"
         },
@@ -378,7 +393,7 @@
           "description": "O governo da República Democrática do Congo confirmou no domingo (09/08) que o número de mortos pela epidemia de ebola subiu para mais de 1.900 pessoas. As autoridades de saúde registraram mais de 4 mil casos acumulados desde a declaração do surto em 15 de maio, com uma taxa de letalidade de cerca de quarenta […]\nO post RD Congo: sobe para mais de 1,9 mil mortes por surto de ebola apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/rd-congo-sobe-para-mais-de-19-mil-mortes-por-surto-de-ebola/",
           "publishedOn": "2026-08-10T03:22:06.000Z",
-          "wordCount": 3105,
+          "wordCount": 3100,
           "title": "RD Congo: sobe para mais de 1,9 mil mortes por surto de ebola",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/6136_phil_scientists_ppe_ebola_outbreak_1995.jpg"
         },
@@ -388,7 +403,7 @@
           "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, e o seu ministro da Defesa, Israel Katz, sinalizaram estar iniciando, de forma discreta, os trabalhos de reconstrução no sul da Faixa de Gaza, de acordo com as informações divulgadas pela Rádio do Exército de Israel (Galei Zahal), veículo operado pelas forças militares, neste domingo (09/08). Conforme o Galei […]\nO post Sem anúncio, Netanyahu inicia reconstrução no sul de Gaza, diz rádio israelense  apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/netanyahu-inicia-secretamente-reconstrucao-no-sul-de-gaza-diz-radio-israelense/",
           "publishedOn": "2026-08-10T02:36:12.000Z",
-          "wordCount": 3485,
+          "wordCount": 3477,
           "title": "Sem anúncio, Netanyahu inicia reconstrução no sul de Gaza, diz rádio israelense",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/an_aerial_view_showing_destruction_in_rafah_after_israeli_forces_withdrawal_and_as_the_ceasefire_took_hold_gaza_strip.jpg"
         },
@@ -398,7 +413,7 @@
           "description": "O líder supremo do Irã, Mojtaba Khamenei, nomeou neste domingo (09/08) o ex-comandante do Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês), Mohsen Rezaee, como novo secretário do Conselho Supremo de Segurança Nacional (SNSC, na sigla em inglês). “À luz de suas valiosas experiências, eu os nomeio, que são um dos pioneiros do […]\nO post Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ex-chefe-da-guarda-revolucionaria-assume-cargo-mais-alto-de-seguranca-no-pais/",
           "publishedOn": "2026-08-10T01:22:48.000Z",
-          "wordCount": 3208,
+          "wordCount": 3199,
           "title": "Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/mohsenrezaeemilitaryuniform.jpg"
         },
@@ -408,7 +423,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (09/08) que Washington está negociando com o Irã de forma discreta, uma vez que, na avaliação dele, o país persa está passando por dificuldades econômicas. “Estamos apenas semi-negociando com eles. Estamos apenas observando o Irã com sua enorme inflação e o fato de não terem […]\nO post Trump alega estar negociando ‘discretamente’ com Irã e sugere ampliar pressão econômica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-sugere-ampliar-pressao-economica-contra-ira/",
           "publishedOn": "2026-08-10T00:21:36.000Z",
-          "wordCount": 3188,
+          "wordCount": 3179,
           "title": "Trump alega estar negociando ‘discretamente’ com Irã e sugere ampliar pressão econômica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55447694437_67c0d67f42_k.jpg"
         },
@@ -418,29 +433,9 @@
           "description": "Na Groenlândia, a transferência de equipamentos de perfuração para um aeroporto no leste do território autônomo, no fim de julho, fez ressurgir o debate sobre a presença norte-americana na ilha. Declarações recentes do presidente norte-americano Donald Trump indicam que ele mantém seu interesse em ampliar a influência dos Estados Unidos na região. A pista do […]\nO post Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/empresa-petrolifera-ligada-a-trump-prepara-perfuracao-sem-autorizacao-na-groenlandia/",
           "publishedOn": "2026-08-09T23:19:13.000Z",
-          "wordCount": 4040,
+          "wordCount": 4032,
           "title": "Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/image-1779536277325.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262584",
-          "author": "Patricia de Matos",
-          "description": "O ministro das Relações Exteriores do Brasil, Mauro Vieira, afirmou que o governo de Javier Milei precisa interromper imediatamente as críticas e os ataques dirigidos ao Brasil. Segundo o chanceler, somente a partir disso as relações entre os dois países poderão voltar à normalidade. A declaração foi dada em uma entrevista exclusiva, publicada neste domingo […]\nO post Argentina deve acabar imediatamente agressões contra Lula, diz Mauro Vieira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/argentina-deve-acabar-imediatamente-agressoes-contra-lula-diz-mauro-vieira/",
-          "publishedOn": "2026-08-09T19:49:32.000Z",
-          "wordCount": 3944,
-          "title": "Argentina deve acabar imediatamente agressões contra Lula, diz Mauro Vieira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/26657786125_ffc8db1291_b.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262577",
-          "author": "Patricia de Matos",
-          "description": "Rússia e Ucrânia trocaram novos ataques durante a madrugada e a manhã deste domingo (09/08), deixando mortos e dezenas de feridos nos dois lados da fronteira. As forças russas atingiram principalmente as regiões ucranianas de Kharkiv e Odessa, enquanto um ataque de drones atribuído por Moscou a Kiev deixou ao menos cinco mortos na cidade […]\nO post Rússia e Ucrânia trocam novos ataques, deixando mortos e feridos dos dois lados da fronteira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-e-ucrania-trocam-novos-ataques-deixando-mortos-e-feridos/",
-          "publishedOn": "2026-08-09T18:46:14.000Z",
-          "wordCount": 3658,
-          "title": "Rússia e Ucrânia trocam novos ataques, deixando mortos e feridos dos dois lados da fronteira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/russian_bombardment_of_kyiv_tv_tower.jpg"
         }
       ]
     },
@@ -581,36 +576,6 @@
           "wordCount": 5617,
           "title": "O marxismo de Leôncio Basbaum",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/Basbaum_banner.webp"
-        },
-        {
-          "id": "6a73c3ab01e7cd37414d37f2",
-          "author": "O Poder Popular",
-          "description": "Sinpro NF\nA Convenção Coletiva de Trabalho (CCT) – período 2026/2027 – dos professores e professoras que trabalham em instituições particulares de ensino da Educação Básica (ED) dos municípios de Nova Friburgo, Bom Jardim,",
-          "link": "https://opoderpopular.com.br/sinpro-nova-friburgo-e-regiao-renova-cct-2026-27-da-educacao-basica-com-reajuste-de-4-11/",
-          "publishedOn": "2026-08-05T23:16:42.000Z",
-          "wordCount": 1345,
-          "title": "Sinpro Nova Friburgo e Região Renova CCT 2026/27 da Educação Básica com Reajuste de 4,11%",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/snapinsta-1785971590912.jpg"
-        },
-        {
-          "id": "6a73c2bb01e7cd37414d3775",
-          "author": "O Poder Popular",
-          "description": "Unidade Classista Petroleiros RJ \nUma nota sobre o tema, recém publicada no portal, pelo RH, consiste num autoelogio sem autocrítica, propagandeando que o PCR seria um plano dos mais completos no setor. Soa muito estranho que uma gestão de um governo que denunciava conosco",
-          "link": "https://opoderpopular.com.br/proposta-de-ajuste-no-pcr-do-rh-nao-traz-qualquer-avanco-e-ainda-exalta-o-plano-que-foi-filho-do-golpe-de-2016/",
-          "publishedOn": "2026-08-05T23:12:42.000Z",
-          "wordCount": 1614,
-          "title": "Proposta de ajuste no PCR do RH não traz qualquer avanço e ainda exalta o plano que foi filho do Golpe de 2016",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/snapinsta-1785971357188.jpg"
-        },
-        {
-          "id": "6a73c0fa01e7cd37414d3705",
-          "author": "O Poder Popular",
-          "description": "Editorial do Jornal O Poder Popular Nº 108 - Agosto 2026\nUma candidatura pelo Poder Popular\nPara combater a exploração e as opressões\nEntramos em agosto num capítulo importante e tenso da luta de classes no Brasil e na América",
-          "link": "https://opoderpopular.com.br/uma-candidatura-pelo-poder-popular/",
-          "publishedOn": "2026-08-05T23:06:12.000Z",
-          "wordCount": 1607,
-          "title": "Uma candidatura pelo Poder Popular",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/08/298799902_486408576824035_6675726856310978443_n-3.jpg"
         }
       ]
     },
@@ -625,7 +590,7 @@
           "description": "São Paulo na garupa: quem decide para onde a cidade anda, e por que a necessidade não se esgota na […]",
           "link": "https://outraspalavras.net/sem-categoria/3017653/",
           "publishedOn": "2026-08-08T04:55:51.000Z",
-          "wordCount": 5120,
+          "wordCount": 5117,
           "title": "Untitled",
           "imageUrl": null
         },
@@ -645,7 +610,7 @@
           "description": "De la Espriella assume a presidência num país polarizado. Seu discurso é de paranoia e paramilitarismo. Ostenta vida de luxo num dos países mais desiguais do mundo. E insufla a virilidade e o machismo como virtudes máximas. Como venceu?",
           "link": "https://outraspalavras.net/direita-assanhada/colombia-a-ascensao-do-populismo-elitista/",
           "publishedOn": "2026-08-08T00:02:06.000Z",
-          "wordCount": 7013,
+          "wordCount": 7016,
           "title": "Colômbia: A ascensão do populismo elitista",
           "imageUrl": null
         },
@@ -655,7 +620,7 @@
           "description": "O telex começa a chacoalhar furioso, vomitando resmas de notícias. Onde está o presidente? Ninguém sabe. No Sul emerge a figura de Brizola. Diz que respeitará a Constituição, convoca a Brigada Militar e se prepara para a resistência armada",
           "link": "https://outraspalavras.net/historia-e-memoria/o-dia-em-que-janio-quadros-renunciou/",
           "publishedOn": "2026-08-07T22:18:39.000Z",
-          "wordCount": 3884,
+          "wordCount": 3881,
           "title": "O dia em que Jânio Quadros renunciou",
           "imageUrl": null
         },
@@ -665,7 +630,7 @@
           "description": "Outras Palavras passa a publicar as memórias de um grande jornalista brasileiro. Em suas lembranças, um país em que a repressão não era capaz de sufocar a esperança; uma esquerda ansiosa por revolução; e o surgimento de uma imprensa empenhada em desvendar os grandes dilemas de seu tempo",
           "link": "https://outraspalavras.net/historia-e-memoria/carlos-azevedo-passageiro-da-historia/",
           "publishedOn": "2026-08-07T22:15:48.000Z",
-          "wordCount": 3367,
+          "wordCount": 3364,
           "title": "Carlos Azevedo, Passageiro da História",
           "imageUrl": null
         },
@@ -675,7 +640,7 @@
           "description": "Em tempos de bolhas e instabilidade financeira, vale recordar os fatos que levaram à Grande Depressão. Do colapso da bolsa de NY às primeiras fissuras globais. O auge da crise e a fragmentação dos mercados. Os nacionalismos econômicos. E as guerras que salvaram o capitalismo",
           "link": "https://outraspalavras.net/historia-e-memoria/crise-de-1929-quando-o-mundo-economico-se-choca/",
           "publishedOn": "2026-08-07T21:04:31.000Z",
-          "wordCount": 9454,
+          "wordCount": 9457,
           "title": "Crise de 1929: Quando o mundo econômico se choca",
           "imageUrl": null
         },
@@ -705,7 +670,7 @@
           "description": "A dois meses das eleições, parece claro que o país precisa atualizar o projeto da Reforma Sanitária. Que mudanças no cenário nacional e internacional exigem esta mudança. De que forma elas afetam o SUS e a saúde dos brasileiros. Quais as pistas para o que precisa ser feito?",
           "link": "https://outraspalavras.net/mercadovsdemocracia/o-direito-a-saude-em-disputa/",
           "publishedOn": "2026-08-06T22:13:34.000Z",
-          "wordCount": 9765,
+          "wordCount": 9768,
           "title": "O direito à Saúde em disputa",
           "imageUrl": null
         },
@@ -715,7 +680,7 @@
           "description": "Escritor, operário e jornalista jamaicano articulou a luta antirracista com a de classes. Foi membro ativo da Internacional Comunista. Negro, boêmio e bissexual, criticou o racismo e o conservadorismo, inclusive na esquerda. Hoje, sua obra é resgatada nos estudos interseccionais",
           "link": "https://outraspalavras.net/historia-e-memoria/o-marxismo-de-claude-mckay/",
           "publishedOn": "2026-08-06T22:04:23.000Z",
-          "wordCount": 8585,
+          "wordCount": 8582,
           "title": "O marxismo de Claude McKay",
           "imageUrl": null
         }
