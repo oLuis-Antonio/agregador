@@ -53,6 +53,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a79064e8ebc79031a15a4cc",
+          "author": "PSTU-SP",
+          "description": "A candidatura de Vera (PSTU) ao governo de São Paulo, com Renata França vice, apresenta um programa voltado às necessidades imediatas e urgentes dos trabalhadores e da povo pobre do estado. E mostra como concretizá-lo, através do enfrentamento às multinacionais,",
+          "link": "https://opiniaosocialista.com.br/confira-o-programa-de-vera-governadora-para-sao-paulo/",
+          "publishedOn": "2026-08-09T23:04:57.000Z",
+          "wordCount": 602,
+          "title": "Confira o programa de Vera governadora para São Paulo",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/programa-sp.webp"
+        },
+        {
           "id": "6a766e498ebc79031a15a47c",
           "author": "PSTU Floripa",
           "description": "Roberto Henrique, de Florianópolis (SC)\nNo último dia 4 de agosto, entraram em vigor as novas regras da Anvisa que regulamentam a produção, o cultivo e a pesquisa científica com Cannabis Sativa, popularmente, a maconha. Agora, é permitido o plantio da erva",
@@ -108,7 +118,7 @@
           "description": "Vocês estão acompanhando a crise política de alternativa burguesa nas eleições para o governo do estado de Minas Gerais? Por que tanta instabilidade política?\nO primeiro colocado nas pesquisas eleitorais, Senador Cleitinho, mais uma vez mudou de idé",
           "link": "https://opiniaosocialista.com.br/a-crise-politica-mineira-em-foco/",
           "publishedOn": "2026-08-06T01:53:01.000Z",
-          "wordCount": 1115,
+          "wordCount": 1137,
           "title": "A crise política mineira em foco",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/crise-politica-em-MG.webp"
         }
@@ -119,6 +129,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Maira-Machado-Sozinhos-somos-muito-fracos-Precisamos-organizar-nossas-forcas-de-maneira-unificada",
+          "author": "Redação",
+          "description": "Durante o lançamento de Moderada Nunca, em São Paulo, Maíra Machado, coordenadora pela Oposição da Subsede da APEOESP de Santo André, relacionou as experiências de luta narradas por Myriam Bregman aos desafios enfrentados hoje pelos trabalhadores no Brasil.\n09-08-2026\n\n/ Direito ao aborto, Professores, Myriam Bregman, PTS, Apeoesp, Maré , MRT, Professora Maíra Machado, Gênero e Sexualidade, Apeoesp Santo André",
+          "link": "https://www.esquerdadiario.com.br/Maira-Machado-Sozinhos-somos-muito-fracos-Precisamos-organizar-nossas-forcas-de-maneira-unificada",
+          "publishedOn": "2026-08-09T22:30:52.000Z",
+          "wordCount": null,
+          "title": "Maíra Machado: “Sozinhos somos muito fracos. Precisamos organizar nossas forças de maneira unificada”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Marcello-Pablito-Zumbi-Dandara-e-toda-a-esperanca-que-a-luta-das-maes-traz-reafirmam-Moderada-nunca",
           "author": "Redação",
@@ -398,19 +418,49 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262599",
+          "author": "Rocio Paik",
+          "description": "O líder supremo do Irã, Mojtaba Khamenei, nomeou neste domingo (09/08) o ex-comandante do Corpo da Guarda Revolucionária Islâmica (IRGC, na sigla em inglês), Mohsen Rezaee, como novo secretário do Conselho Supremo de Segurança Nacional (SNSC, na sigla em inglês). “À luz de suas valiosas experiências, eu os nomeio, que são um dos pioneiros do […]\nO post Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ex-chefe-da-guarda-revolucionaria-assume-cargo-mais-alto-de-seguranca-no-pais/",
+          "publishedOn": "2026-08-10T01:22:48.000Z",
+          "wordCount": 3206,
+          "title": "Irã: ex-chefe da Guarda Revolucionária assume cargo mais alto de segurança no país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/mohsenrezaeemilitaryuniform.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262596",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (09/08) que Washington está negociando com o Irã de forma discreta, uma vez que, na avaliação dele, o país persa está passando por dificuldades econômicas. “Estamos apenas semi-negociando com eles. Estamos apenas observando o Irã com sua enorme inflação e o fato de não terem […]\nO post Trump alega ‘negociar discretamente’ com Irã e sugere ampliar pressão econômica apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-sugere-ampliar-pressao-economica-contra-ira/",
+          "publishedOn": "2026-08-10T00:21:36.000Z",
+          "wordCount": 3183,
+          "title": "Trump alega ‘negociar discretamente’ com Irã e sugere ampliar pressão econômica",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55447694437_67c0d67f42_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262593",
+          "author": "Rocio Paik",
+          "description": "Na Groenlândia, a transferência de equipamentos de perfuração para um aeroporto no leste do território autônomo, no fim de julho, fez ressurgir o debate sobre a presença norte-americana na ilha. Declarações recentes do presidente norte-americano Donald Trump indicam que ele mantém seu interesse em ampliar a influência dos Estados Unidos na região. A pista do […]\nO post Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/empresa-petrolifera-ligada-a-trump-prepara-perfuracao-sem-autorizacao-na-groenlandia/",
+          "publishedOn": "2026-08-09T23:19:13.000Z",
+          "wordCount": 4039,
+          "title": "Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/image-1779536277325.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262584",
           "author": "Patricia de Matos",
           "description": "O ministro das Relações Exteriores do Brasil, Mauro Vieira, afirmou que o governo de Javier Milei precisa interromper imediatamente as críticas e os ataques dirigidos ao Brasil. Segundo o chanceler, somente a partir disso as relações entre os dois países poderão voltar à normalidade. A declaração foi dada em uma entrevista exclusiva, publicada neste domingo […]\nO post Argentina deve acabar imediatamente agressões contra Lula, diz Mauro Vieira apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/argentina-deve-acabar-imediatamente-agressoes-contra-lula-diz-mauro-vieira/",
           "publishedOn": "2026-08-09T19:49:32.000Z",
-          "wordCount": 3947,
+          "wordCount": 3945,
           "title": "Argentina deve acabar imediatamente agressões contra Lula, diz Mauro Vieira",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/26657786125_ffc8db1291_b.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=262577",
           "author": "Patricia de Matos",
-          "description": "Rússia e Ucrânia trocaram novos ataques durante a madrugada e a manhã deste domingo (0908), deixando mortos e dezenas de feridos nos dois lados da fronteira. As forças russas atingiram principalmente as regiões ucranianas de Kharkiv e Odessa, enquanto um ataque de drones atribuído por Moscou a Kiev deixou ao menos cinco mortos na cidade […]\nO post Rússia e Ucrânia trocam novos ataques, deixando mortos e feridos dos dois lados da fronteira apareceu primeiro em Opera Mundi.",
+          "description": "Rússia e Ucrânia trocaram novos ataques durante a madrugada e a manhã deste domingo (09/08), deixando mortos e dezenas de feridos nos dois lados da fronteira. As forças russas atingiram principalmente as regiões ucranianas de Kharkiv e Odessa, enquanto um ataque de drones atribuído por Moscou a Kiev deixou ao menos cinco mortos na cidade […]\nO post Rússia e Ucrânia trocam novos ataques, deixando mortos e feridos dos dois lados da fronteira apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-e-ucrania-trocam-novos-ataques-deixando-mortos-e-feridos/",
           "publishedOn": "2026-08-09T18:46:14.000Z",
           "wordCount": 3661,
@@ -433,7 +483,7 @@
           "description": "Dois ataques a bomba em diferentes partes da Colômbia, no sábado (8), marcaram o primeiro dia de mandato do presidente Abelardo de la Espriella, deixando pelo menos um policial morto e pessoas feridas. Um posto de pedágio foi destruído por grupos armados no município de Santander de Quilichao e, no departamento de Cesar, no norte […]\nO post Ataques a bomba marcam primeiro dia do governo de extrema direita da Colômbia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/ataques-a-bomba-marcam-primeiro-dia-do-governo-de-extrema-direita-da-colombia/",
           "publishedOn": "2026-08-09T17:16:06.000Z",
-          "wordCount": 3260,
+          "wordCount": 3251,
           "title": "Ataques a bomba marcam primeiro dia do governo de extrema direita da Colômbia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/redimensionada-presidente.png"
         },
@@ -443,7 +493,7 @@
           "description": "O vice-premiê e ministro das Relações Exteriores da Itália, Antonio Tajani, classificou como “incompreensível e totalmente inaceitável” a decisão da Espanha de adotar controles de fronteira. A medida anunciada por Marid ocorre em resposta à suspensão temporária das regras de livre circulação do espaço Schengen, determinada por Roma, no contexto da crise migratória de Ceuta […]\nO post Reação da Espanha ao controle de fronteira é ‘inaceitável’, diz chanceler italiano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/reacao-da-espanha-ao-controle-de-fronteira-e-inaceitavel-diz-chanceler-italiano/",
           "publishedOn": "2026-08-09T15:45:04.000Z",
-          "wordCount": 3928,
+          "wordCount": 3925,
           "title": "Reação da Espanha ao controle de fronteira é ‘inaceitável’, diz chanceler italiano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/27275288697_79db7e223a_b.jpg"
         },
@@ -453,7 +503,7 @@
           "description": "O novo governo da Colômbia anunciou na última sexta-feira (07/08) que reconhece a soberania do Marrocos sobre o Saara Ocidental, em uma mudança significativa na política externa adotada pelo país nos últimos anos. A decisão foi comunicada horas após a posse do presidente Abelardo de la Espriella, durante uma reunião entre autoridades colombianas e o […]\nO post Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina-e-politica-internacional/alinhada-aos-eua-colombia-reconhece-soberania-do-marrocos-sobre-saara-ocidental/",
           "publishedOn": "2026-08-09T14:30:28.000Z",
-          "wordCount": 3820,
+          "wordCount": 3817,
           "title": "Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpon2sexkaajqx3.jpeg"
         },
@@ -463,39 +513,9 @@
           "description": "Ventos fortes alimentaram o incêndio de Bald Range, próximo ao lago Okanagan, no sul da Colúmbia Britânica. As chamas se alastraram rapidamente e já destruíram mais de 10 mil hectares, afetando comunidades nos vales da região. Os bombeiros da província registraram 102 incêndios florestais ativos na manhã deste domingo. Quase metade deles parece estar fora […]\nO post Incêndios forçam retirada de 20 mil pessoas no Oeste do Canadá apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/desastre-natural/incendios-forcam-retirada-de-20-mil-pessoas-no-oeste-do-canada/",
           "publishedOn": "2026-08-09T13:33:03.000Z",
-          "wordCount": 3094,
+          "wordCount": 3174,
           "title": "Incêndios forçam retirada de 20 mil pessoas no Oeste do Canadá",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/incendios-canada.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262542",
-          "author": "Patricia de Matos",
-          "description": "O governo de Donald Trump pretende destinar US$ 1 bilhão em assistência de segurança à Colômbia durante a gestão do novo presidente, Abelardo De La Espriella.  O anúncio foi feito nesta sexta-feira (08/08) pelo Departamento de Estado norte-americano, no mesmo dia em que o político de direita assumiu o cargo. Segundo o governo de Donald […]\nO post EUA prometem US$ 1 bilhão à Colômbia após posse de Espriella apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eua-destinarao-us-1-bilhao-a-seguranca-da-colombia-apos-posse-de-ultradireitista/",
-          "publishedOn": "2026-08-08T20:47:07.000Z",
-          "wordCount": 3545,
-          "title": "EUA prometem US$ 1 bilhão à Colômbia após posse de Espriella",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/colombian_president_abelardo_de_la_espriella.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262537",
-          "author": "Patricia de Matos",
-          "description": "Teerã condicionou a reabertura do Estreito de Ormuz ao atendimento de uma série de demandas dirigidas a Washington, anunciadas neste sábado (08/08). Por meio da via marítima passa um quinto do petróleo comercializado no mundo. A informação, atribuída ao secretário do Conselho Supremo de Segurança Nacional iraniano, chegou ao público por meio de comunicado da […]\nO post Irã divulga lista de exigências aos EUA para reabertura do Estreito de Ormuz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-divulga-lista-de-exigencias-aos-eua-para-reabertura-do-estreito-de-ormuz/",
-          "publishedOn": "2026-08-08T19:22:26.000Z",
-          "wordCount": 3452,
-          "title": "Irã divulga lista de exigências aos EUA para reabertura do Estreito de Ormuz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/houthis-red-sea-1.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262532",
-          "author": "Patricia de Matos",
-          "description": "Uma investigação da empresa espanhola de tecnologia Golden Owl concluiu que o fluxo de migrantes foi “uma operação organizada”. As autoridades agora buscam entender como esse rumor se espalhou e quem está por trás dele. Na sexta-feira (07/08), a União Europeia pediu explicações à Meta e ao TikTok para obter mais informações. Segundo o bloco, […]\nO post União Europeia cobra bigtechs por desinformação ligada à onda migratória em Ceuta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/uniao-europeia-cobra-bigtechs-por-desinformacao-ligada-a-onda-migratoria-em-ceuta/",
-          "publishedOn": "2026-08-08T18:14:39.000Z",
-          "wordCount": 3606,
-          "title": "União Europeia cobra bigtechs por desinformação ligada à onda migratória em Ceuta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ceuta2capa-1.jpg"
         }
       ]
     },
@@ -511,14 +531,24 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=230917",
+          "author": "Redação de AND",
+          "description": "Em desdobramento do A Propósito #369, Victor Bellizia afirmou que o alarme ianque sobre o “ressurgimento da extrema esquerda” admite o fracasso da propaganda de que o socialismo, o comunismo e a revolução haviam acabado.",
+          "link": "https://anovademocracia.com.br/lutas-revolucionarias-debate-pitillo-lai/",
+          "publishedOn": "2026-08-09T22:29:21.000Z",
+          "wordCount": null,
+          "title": "‘As lutas revolucionárias já não podem mais ser tratadas como fenômenos do passado pelos reacionários’, aponta AND em debate com Pitillo e Liga Anti-imperialista",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=230951",
           "author": "Giovanna Maria",
           "description": "Vídeo mostra brigadiano fardado entrando no local, agredindo Wilian Wink e disparando contra ele. Caso ocorreu após reclamação por suposto excesso de barulho.",
           "link": "https://anovademocracia.com.br/pm-atira-quatro-vezes-contra-trabalhador-oficina-sobradinho/",
           "publishedOn": "2026-08-08T11:47:11.000Z",
-          "wordCount": 7191,
+          "wordCount": null,
           "title": "RS: PM atira quatro vezes contra trabalhador dentro de oficina em Sobradinho",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-4.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230942",
@@ -526,9 +556,9 @@
           "description": "Candidato do PSD se vende como “agro raiz”, mas expansão do latifúndio agroexportador preserva a concentração da terra e as relações semifeudais, avança com violência e devastação, recebe bilhões do velho Estado e serve ao lucro máximo do imperialismo.",
           "link": "https://anovademocracia.com.br/caiado-latifundio-semifeudal-servidao-campo/",
           "publishedOn": "2026-08-07T23:57:15.000Z",
-          "wordCount": 9995,
+          "wordCount": null,
           "title": "Caiado rumina expansão do latifúndio semifeudal como ‘progresso’, mas dados expõem miséria, servidão e violência reacionária no campo",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/caiado-scaled-1-1024x951.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230916",
@@ -536,9 +566,9 @@
           "description": "Trump e Rubio estão certos: o movimento revolucionário “está de volta” ao mundo e ameaça, sim, os interesses do imperialismo. Sua fracassada ofensiva contrarrevolucionária geral não conseguiu extirpar as revoluções, por impossibilidade histórica, pois não existe derrota definitiva para o proletariado, senão que apenas transitória.",
           "link": "https://anovademocracia.com.br/editorial-comunismo-preocupa-imperialismo/",
           "publishedOn": "2026-08-07T19:55:12.000Z",
-          "wordCount": 8071,
+          "wordCount": null,
           "title": "Editorial – O Comunismo volta ao centro das preocupações públicas do imperialismo",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/capa-editorial-comunismo-1024x689.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230893",
@@ -546,9 +576,9 @@
           "description": "Um século após a fundação de Amauta, Mariátegui segue vivo como marxista convicto, fundador do Partido Comunista do Peru e teórico da Revolução Peruana, apesar dos que tentam separar sua obra da luta de classes e da ideologia científica do proletariado.",
           "link": "https://anovademocracia.com.br/peru-100-anos-revista-amauta-mariategui/",
           "publishedOn": "2026-08-07T18:00:00.000Z",
-          "wordCount": 8123,
+          "wordCount": null,
           "title": "Peru: 100 anos da Revista Amauta – Mariátegui está vivo",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/mariategui-amauta.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230900",
@@ -556,9 +586,9 @@
           "description": "A Campanha Internacional em Solidariedade à Família Villalba informou que, desde 2024, as prisioneiras políticas enfrentam o regime excepcional de segurança máxima em celas individuais e solitárias 24 horas por dia.",
           "link": "https://anovademocracia.com.br/villalba-andino-greve-fome-estado-paraguaio/",
           "publishedOn": "2026-08-07T12:00:34.000Z",
-          "wordCount": 7828,
+          "wordCount": null,
           "title": "Carmen Villalba, Laura Villalba e Francisca Andino iniciam greve de fome em denúncia aos crimes do velho Estado paraguaio",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/villalba.webp"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230896",
@@ -566,9 +596,9 @@
           "description": "Alfredo Gaspar, escolhido por Flávio Bolsonaro como seu vice, é acusado de manter relação com adolescente de 13 anos; teia de crimes e escândalos revela que a extrema direita, o \"centrão\" e a falsa esquerda se unem com o que há de menos honorável na sociedade brasileira.",
           "link": "https://anovademocracia.com.br/vice-flavio-bolsonaro-investigacao-estupro/",
           "publishedOn": "2026-08-07T02:08:55.000Z",
-          "wordCount": 7990,
+          "wordCount": null,
           "title": "Vice de Flávio Bolsonaro é alvo de investigação por estupro de vulnerável",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-3.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230866",
@@ -576,9 +606,9 @@
           "description": "Após um dia e meio de paralisação, ferroviários arrancaram do governo o compromisso de absorver todos os empregados da CPTM; paralisações crescentes de ferroviários, metroviários, rodoviários e caminhoneiros apontam o caminho da Greve Geral de Resistência Nacional.",
           "link": "https://anovademocracia.com.br/greve-sao-paulo-expoe-fiasco-privatizacao/",
           "publishedOn": "2026-08-06T21:15:05.000Z",
-          "wordCount": 8705,
+          "wordCount": null,
           "title": "Greve dos ferroviários em São Paulo dobra o governo e expõe fiasco da privatização; mobilizações classistas crescem em todo o País",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/panfleto-privatizacao-sp.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230844",
@@ -586,9 +616,9 @@
           "description": "Mobilizações realizadas nas duas maiores cidades catarinenses integraram o Breque Nacional dos entregadores e denunciaram a intensificação da exploração promovida pelas plataformas digitais, em especial pela modalidade \"Mais Entregas\", do iFood. Além do fim do programa, a categoria reivindicou remuneração justa, melhores condições de trabalho e infraestrutura para os trabalhadores.",
           "link": "https://anovademocracia.com.br/entregadores-paralisam-atividades-em-florianopolis-e-joinville-contra-plataformas/",
           "publishedOn": "2026-08-06T20:56:14.000Z",
-          "wordCount": 8267,
+          "wordCount": null,
           "title": "SC: Entregadores paralisam atividades em Florianópolis e Joinville contra a intensificação da exploração pelas plataformas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-1.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=230848",
@@ -596,19 +626,9 @@
           "description": "O neoliberalismo morreu em Washington, onde nasceu. Os que celebraram sua chegada não explicam agora as razões de seu fracasso – e nós tampouco lamentamos sua morte.",
           "link": "https://anovademocracia.com.br/requiem-para-o-neoliberalismo/",
           "publishedOn": "2026-08-06T18:22:04.000Z",
-          "wordCount": 8009,
+          "wordCount": null,
           "title": "Réquiem para o neoliberalismo",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/trump-tarifas-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230849",
-          "author": "Redação de AND",
-          "description": "AND recebe Adriano Pistorelo, especialista em direito migratório e direitos humanos, e a Liga Anti-imperialista Internacional (LAI) – Seção Brasil, para debater as guerras, a miséria, a superexploração e a repressão que atravessam a migração em massa.",
-          "link": "https://anovademocracia.com.br/imperialismo-imigrantes-a-proposito-372/",
-          "publishedOn": "2026-08-06T17:37:48.000Z",
-          "wordCount": 6868,
-          "title": "ASSISTA: Fronteiras da miséria: imperialismo expulsa e superexplora milhões de imigrantes – A Propósito #372",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/CapasAP.png"
+          "imageUrl": null
         }
       ]
     },
@@ -680,7 +700,7 @@
           "description": "São Paulo na garupa: quem decide para onde a cidade anda, e por que a necessidade não se esgota na […]",
           "link": "https://outraspalavras.net/sem-categoria/3017653/",
           "publishedOn": "2026-08-08T04:55:51.000Z",
-          "wordCount": 5073,
+          "wordCount": 5075,
           "title": "Untitled",
           "imageUrl": null
         },
@@ -690,7 +710,7 @@
           "description": "Enquanto o mundo volta os olhos à Gaza, expansão de assentamentos sionistas reconfigura o mapa palestino no Vale do Jordão. A violência dos colonos é central neste plano. Israel formaliza expulsão e prisão de palestinos. Nova operação militar escala a crise",
           "link": "https://outraspalavras.net/geopoliticaeguerra/retrato-da-colonizacao-acelerada-da-cisjordania/",
           "publishedOn": "2026-08-08T00:19:52.000Z",
-          "wordCount": 4962,
+          "wordCount": 4964,
           "title": "Retrato da colonização acelerada da Cisjordânia",
           "imageUrl": null
         },
@@ -700,7 +720,7 @@
           "description": "De la Espriella assume a presidência num país polarizado. Seu discurso é de paranoia e paramilitarismo. Ostenta vida de luxo num dos países mais desiguais do mundo. E insufla a virilidade e o machismo como virtudes máximas. Como venceu?",
           "link": "https://outraspalavras.net/direita-assanhada/colombia-a-ascensao-do-populismo-elitista/",
           "publishedOn": "2026-08-08T00:02:06.000Z",
-          "wordCount": 6972,
+          "wordCount": 6971,
           "title": "Colômbia: A ascensão do populismo elitista",
           "imageUrl": null
         },
@@ -730,7 +750,7 @@
           "description": "Em tempos de bolhas e instabilidade financeira, vale recordar os fatos que levaram à Grande Depressão. Do colapso da bolsa de NY às primeiras fissuras globais. O auge da crise e a fragmentação dos mercados. Os nacionalismos econômicos. E as guerras que salvaram o capitalismo",
           "link": "https://outraspalavras.net/historia-e-memoria/crise-de-1929-quando-o-mundo-economico-se-choca/",
           "publishedOn": "2026-08-07T21:04:31.000Z",
-          "wordCount": 9413,
+          "wordCount": 9410,
           "title": "Crise de 1929: Quando o mundo econômico se choca",
           "imageUrl": null
         },
@@ -740,7 +760,7 @@
           "description": "Brasil, enfim, acorda para a necessidade de investir em Defesa. Ataque dos EUA à Venezuela foi alerta. Não precisamos deixar de ser país pacífico. Mas, como mostra o Irã, é possível resistir a uma guerra assimétrica – mesmo sem armas nucleares",
           "link": "https://outraspalavras.net/crise-brasileira/defesa-nacional-um-imperativo-existencial/",
           "publishedOn": "2026-08-07T20:27:47.000Z",
-          "wordCount": 3764,
+          "wordCount": 3762,
           "title": "Defesa nacional, um imperativo existencial",
           "imageUrl": null
         },
@@ -750,7 +770,7 @@
           "description": "Num encontro obscuro com 60 governos, Trump lança nova cruzada. Ingredientes: ampliar guerra cultural conservadora, suscitar fantasmas como a Internacional Antifa e implodir direito internacional. Objetivo: eternizar direita na América Latina",
           "link": "https://outraspalavras.net/geopoliticaeguerra/doutrina-donroe-a-proxima-etapa/",
           "publishedOn": "2026-08-07T00:12:54.000Z",
-          "wordCount": 6920,
+          "wordCount": 6923,
           "title": "Doutrina Donroe: a próxima etapa",
           "imageUrl": null
         },
@@ -760,7 +780,7 @@
           "description": "A dois meses das eleições, parece claro que o país precisa atualizar o projeto da Reforma Sanitária. Que mudanças no cenário nacional e internacional exigem esta mudança. De que forma elas afetam o SUS e a saúde dos brasileiros. Quais as pistas para o que precisa ser feito?",
           "link": "https://outraspalavras.net/mercadovsdemocracia/o-direito-a-saude-em-disputa/",
           "publishedOn": "2026-08-06T22:13:34.000Z",
-          "wordCount": 9724,
+          "wordCount": 9723,
           "title": "O direito à Saúde em disputa",
           "imageUrl": null
         },
@@ -770,7 +790,7 @@
           "description": "Escritor, operário e jornalista jamaicano articulou a luta antirracista com a de classes. Foi membro ativo da Internacional Comunista. Negro, boêmio e bissexual, criticou o racismo e o conservadorismo, inclusive na esquerda. Hoje, sua obra é resgatada nos estudos interseccionais",
           "link": "https://outraspalavras.net/historia-e-memoria/o-marxismo-de-claude-mckay/",
           "publishedOn": "2026-08-06T22:04:23.000Z",
-          "wordCount": 8541,
+          "wordCount": 8537,
           "title": "O marxismo de Claude McKay",
           "imageUrl": null
         }
