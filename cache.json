@@ -43,12 +43,22 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a7c93158ebc79031a15a59b",
+          "author": "PSTU-RS",
+          "description": "Baixe aqui o programa do PSTU às eleições para o governo do Rio Grande do Sul",
+          "link": "https://opiniaosocialista.com.br/programa-eleitoral-da-candidatura-rejane-oliveira-e-adao-lima-pstu-ao-governo-do-rio-grande-do-sul/",
+          "publishedOn": "2026-08-12T15:43:47.000Z",
+          "wordCount": 527,
+          "title": "Programa eleitoral da candidatura Rejane Oliveira e Adão Lima (PSTU) ao governo do Rio Grande do Sul",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/rejane-oliveira-pstu.webp"
+        },
+        {
           "id": "6a7ba2578ebc79031a15a57b",
           "author": "PSTU Paraná",
           "description": "Nota de falecimento de nossa companheira Priscila Guedes da Luz",
           "link": "https://opiniaosocialista.com.br/priscila-presente-sua-luta-continuara-em-nossas-lutas/",
           "publishedOn": "2026-08-11T22:40:06.000Z",
-          "wordCount": 1201,
+          "wordCount": 1207,
           "title": "Priscila presente! Sua luta continuará em nossas lutas!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/priscila.webp"
         },
@@ -367,6 +377,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=444436",
+          "author": "Eduardo Goulart",
+          "description": "Com curso online e grupos no Discord, candidatos do Missão ensinam militância a ganhar dinheiro de big techs enquanto fazem campanha.\nO post MBL copia estratégia de ‘cortes’ de Pablo Marçal e pode deixar Renan Santos inelegível apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/12/mbl-estrategia-cortes-pode-deixar-renan-santos-inelegivel/",
+          "publishedOn": "2026-08-12T15:10:00.000Z",
+          "wordCount": null,
+          "title": "MBL copia estratégia de ‘cortes’ de Pablo Marçal e pode deixar Renan Santos inelegível",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/6AXfmYD7-Headerfeat-9.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/6AXfmYD7-Headerfeat-9.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=444404",
           "author": "Isabella Mota",
           "description": "Levantamento inédito revela que empresas do setor fizeram 6 em cada 10 pedidos para conectar data centers à rede básica de energia no Brasil - o que exigirá obras que podem deixar a conta de luz mais cara.\nO post Indústria de energia renovável ignora impacto ambiental e impulsiona data centers no Brasil de olho no lucro apareceu primeiro em Intercept Brasil.",
@@ -498,12 +523,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=262808",
+          "author": "Tabitha Ramalho",
+          "description": "O moderado chefe do executivo do condado de Milwaukee, David Crowley, conquistou a indicação democrata para governador do Wisconsin na madrugada desta quarta-feira (12/08), derrotando a socialista democrata Francesca Hong. Crowley enfrentará o deputado republicano Tom Tiffany, apoiado por Donald Trump, em uma eleição geral que será uma das disputas para governador. Crowley obteve 39,8% […]\nO post Democratas de Wisconsin escolhem moderado em vez de socialista para governo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/democratas-de-wisconsin-escolhem-moderado-em-vez-de-socialista-para-governo/",
+          "publishedOn": "2026-08-12T16:18:34.000Z",
+          "wordCount": 3256,
+          "title": "Democratas de Wisconsin escolhem moderado em vez de socialista para governo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/herajs-awaa11zu-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262809",
+          "author": "Victor Farinelli",
+          "description": "O governo de Cuba anunciou ter recebido cartas oficiais da China e da Rússia em homenagem ao líder Revolução Cubana, Fidel Castro, em função dos 100 anos de seu natalício, que se comemoram nesta quinta-feira (13/08). As mensagens difundidas por Pequim e Moscou foram endereçadas tanto ao presidente cubano Miguel Díaz-Canel quanto ao ex-presidente Raúl […]\nO post China e Rússia enviam homenagens aos 100 anos de Fidel Castro: ‘memória sagrada’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brics/china-e-russia-enviam-homenagens-aos-100-anos-de-fidel-castro-memoria-sagrada/",
+          "publishedOn": "2026-08-12T15:41:04.000Z",
+          "wordCount": 2996,
+          "title": "China e Rússia enviam homenagens aos 100 anos de Fidel Castro: ‘memória sagrada’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/fidel.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262805",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério das Relações Exteriores da Venezuela informou nesta terça-feira (11/08) que concordou com o governo de Israel em “permitir a continuidade da cooperação técnica bilateral decorrente dos esforços de emergência e recuperação após os terremotos”, assim como “facilitar a prestação de serviços consulares” a cidadãos de ambos os países. No comunicado divulgado, a chancelaria […]\nO post Governo interino da Venezuela anuncia retomada de serviços consulares com Israel; movimentos protestam apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/governo-interino-da-venezuela-anuncia-retomada-de-servicos-consulares-com-israel-movimentos-protestam/",
+          "publishedOn": "2026-08-12T14:43:10.000Z",
+          "wordCount": 4032,
+          "title": "Governo interino da Venezuela anuncia retomada de serviços consulares com Israel; movimentos protestam",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/depositphotos_873216744-stock-photo-israel-venezuela-flags-waving-clear.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=262801",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente russo, Vladimir Putin, alertou nesta quarta-feira (12/08) para a crescente presença da OTAN na região. “Vemos que, infelizmente, o potencial para conflitos está aumentando aqui. A OTAN está se infiltrando, novos blocos político-militares estão sendo criados. Novos sistemas de armas estão sendo implantados aqui, e há planos para implantá-los, o que também representa […]\nO post Putin fala em ‘crescente presença’ da OTAN em regiões próximas à Rússia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/putin-fala-em-crescente-presenca-da-otan-em-regioes-proximas-a-russia/",
+          "publishedOn": "2026-08-12T14:02:34.000Z",
+          "wordCount": 4095,
+          "title": "Putin fala em ‘crescente presença’ da OTAN em regiões próximas à Rússia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/1481845.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=262797",
           "author": "Tabitha Ramalho",
           "description": "O presidente da Colômbia, Abelardo de la Espriella, decretou, a partir desta terça-feira (11/08), três dias de luto nacional após o forte terremoto que atingiu o oeste do país em 10 de agosto, deixando até o momento já 254 mortos, 1.679 feridos e 243 estruturas desabadas. “O governo nacional, em nome do povo colombiano, expressa […]\nO post Colômbia decreta luto de três dias após terremoto que deixou mais de 250 mortos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/colombia-decreta-luto-de-tres-dias-apos-terremoto-que-deixou-mais-de-250-mortos/",
           "publishedOn": "2026-08-12T12:54:08.000Z",
-          "wordCount": 3234,
+          "wordCount": 3239,
           "title": "Colômbia decreta luto de três dias após terremoto que deixou mais de 250 mortos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-12-094834.png"
         },
@@ -513,7 +578,7 @@
           "description": "As ondas de calor ainda são um desastre “completamente negligenciado” no Brasil e podem se tornar mais frequentes e intensas com a chegada de um novo El Niño. O alerta é da professora do Departamento de Meteorologia da Universidade Federal do Rio de Janeiro (UFRJ), Renata Libonati, que também é membro do Comitê de Especialistas […]\nO post Ondas de calor ainda são negligenciadas no Brasil e podem piorar com El Niño, diz pesquisadora apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/ondas-de-calor-ainda-sao-negligenciadas-no-brasil-e-podem-piorar-com-el-nino-diz-pesquisadora/",
           "publishedOn": "2026-08-12T11:00:13.000Z",
-          "wordCount": 4077,
+          "wordCount": 4080,
           "title": "Ondas de calor ainda são negligenciadas no Brasil e podem piorar com El Niño, diz pesquisadora",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/mg_7105.webp"
         },
@@ -523,7 +588,7 @@
           "description": "O governo da Argentina oficializou a eliminação do atendimento gratuito em hospitais públicos nacionais para estrangeiros não residentes por meio da Resolução 1066/2025 do Ministério da Saúde, medida que entra em vigor a partir desta quarta-feira (12/08). Como parte das políticas anti-imigrantes promovidas pela administração de Javier Milei por meio do Decreto de Necessidade e […]\nO post Governo Milei elimina atendimento médico gratuito para estrangeiros apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/governo-milei-elimina-atendimento-medico-gratuito-para-estrangeiros/",
           "publishedOn": "2026-08-12T10:00:24.000Z",
-          "wordCount": 3535,
+          "wordCount": 3540,
           "title": "Governo Milei elimina atendimento médico gratuito para estrangeiros",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/retrato_oficial_del_presidente_javier_milei.png"
         },
@@ -543,7 +608,7 @@
           "description": "Apesar das tensões militares e do impasse nas negociações, o presidente dos Estados Unidos, Donald Trump, disse nesta terça-feira (11/08) que a situação com o Irã está “indo bem” e que as forças norte-americanas estão no “controle total” do Estreito de Ormuz. “Controlamos totalmente o Estreito de Ormuz. Temos controle sobre ela. Ninguém mais, apenas […]\nO post Trump diz que EUA têm ‘controle total’ sobre Ormuz: ‘ninguém mais, apenas nós’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-eua-tem-controle-total-sobre-ormuz/",
           "publishedOn": "2026-08-12T05:26:17.000Z",
-          "wordCount": 3108,
+          "wordCount": 3111,
           "title": "Trump diz que EUA têm ‘controle total’ sobre Ormuz: ‘ninguém mais, apenas nós’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55457685534_ad339fcb9c_k.jpg"
         },
@@ -553,49 +618,9 @@
           "description": "A crescente utilização de mísseis balísticos pela Rússia expõe a fragilidade cada vez maior da defesa aérea ucraniana. Para enfrentar esse tipo de ameaça, Kiev depende fortemente do apoio ocidental, sobretudo dos mísseis interceptadores Patriot, fabricados nos Estados Unidos. Mas, ao longo da guerra, esses recursos essenciais têm se tornado cada vez mais escassos. A […]\nO post Ucrânia tenta reduzir dependência de defesa antiárea dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-tenta-reduzir-dependencia-de-defesa-antiarea-dos-eua/",
           "publishedOn": "2026-08-12T04:00:10.000Z",
-          "wordCount": 4826,
+          "wordCount": 4829,
           "title": "Ucrânia tenta reduzir dependência de defesa antiárea dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/96e00a0b-e41c-40a3-84f0-3ef2c73776c0-captura-de-tela-2026-08-05-as-12.43.49.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262778",
-          "author": "Rocio Paik",
-          "description": "O governo da Colômbia anunciou nesta terça-feira (11/08) que prepara a decretação do estado de emergência econômica para destinar fundos ao cuidado das populações afetadas pelo terremoto de magnitude 7,4 nesta semana, que resultou em ampla destruição e mortes de pelo menos 254 cidadãos, de acordo com a Associação Colombiana das Cidades Capitais (Asocapitales). Com […]\nO post Colômbia planeja decretar estado de emergência econômica para responder à crise após terremoto apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/colombia-planeja-decretar-estado-de-emergencia-economica-para-responder-a-crise-apos-terremoto/",
-          "publishedOn": "2026-08-12T03:00:18.000Z",
-          "wordCount": 3259,
-          "title": "Colômbia planeja decretar estado de emergência econômica para responder à crise após terremoto",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/e156bce6-1a33-4ccc-b3d3-bb86a38f656e-captura-de-tela-2026-08-11-as-18.09.39.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262775",
-          "author": "Rocio Paik",
-          "description": "Três quartos da Inglaterra estão oficialmente em estado de seca, resultado de um verão excepcional no Hemisfério Norte, marcado por calor intenso e forte incidência solar. Julho registrou o menor volume de chuvas da história do país, conhecido por seu clima instável e pela frequência de precipitações. Até o momento, 27 milhões de pessoas estão […]\nO post Com mais de 70% da Inglaterra em estado de seca, população enfrenta restrições no consumo de água apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/com-mais-de-70-da-inglaterra-em-estado-de-seca-populacao-enfrenta-restricoes-no-consumo-de-agua/",
-          "publishedOn": "2026-08-12T02:00:18.000Z",
-          "wordCount": 3411,
-          "title": "Com mais de 70% da Inglaterra em estado de seca, população enfrenta restrições no consumo de água",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpbf-ddwcaansgt-scaled.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262772",
-          "author": "Rocio Paik",
-          "description": "O ministro do Interior do Paquistão, Mohsin Naqvi, reuniu-se nesta terça-feira (11/08) com o chanceler do Irã, Abbas Araghchi, na capital Teerã, em meio a esforços de mediação para encerrar a guerra em curso promovida pelos Estados Unidos e Israel, de acordo com a emissora catari Al Jazeera. Conforme fontes diplomáticas citadas pela agência de […]\nO post Em Teerã, ministro paquistanês defende fortalecer laços com Irã e ‘acelerar’ implementação de acordos  apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/em-teera-ministro-paquistanes-defende-fortalecer-lacos-com-ira-e-acelerar-implementacao-de-acordos/",
-          "publishedOn": "2026-08-12T01:02:25.000Z",
-          "wordCount": 3373,
-          "title": "Em Teerã, ministro paquistanês defende fortalecer laços com Irã e ‘acelerar’ implementação de acordos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/173034103.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=262769",
-          "author": "Rocio Paik",
-          "description": "Os países do Golfo Pérsico estão prontos para aceitar o acordo atual em consideração que prevê o controle do Irã sobre o tráfego marítimo no Estreito de Ormuz, ao avaliar que uma escalada militar entre os Estados Unidos e o país persa colocaria a infraestrutura energética das nações árabes em risco, conforme noticiado pelo jornal […]\nO post Países do Golfo devem aceitar controle iraniano sobre Estreito de Ormuz, diz jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/paises-do-golfo-devem-aceitar-controle-iraniano-sobre-estreito-de-ormuz-diz-jornal/",
-          "publishedOn": "2026-08-11T23:53:37.000Z",
-          "wordCount": 3328,
-          "title": "Países do Golfo devem aceitar controle iraniano sobre Estreito de Ormuz, diz jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/uss_tempest_pc_2_transits_the_strait_of_hormuz._50679762106.jpg"
         }
       ]
     },
@@ -610,6 +635,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=231068",
+          "author": "Ana Nascimento",
+          "description": "Este não é o primeiro registro de atrito entre a segurança privada e a comunidade acadêmica no campus. Em março de 2025, ativistas do Comitê de Apoio de Recife, que realizavam uma atividade em homenagem ao professor Fausto Arruda, denunciaram uma tentativa de intimidação por parte dos vigilantes.",
+          "link": "https://anovademocracia.com.br/pe-seguranca-privada-intimida-alunos-ufpe/",
+          "publishedOn": "2026-08-12T16:10:47.000Z",
+          "wordCount": 7149,
+          "title": "PE: Empresa de segurança privada tenta intimidar estudantes na UFPE",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/IMG_12962.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231034",
+          "author": "Giovanna Maria",
+          "description": "Após assembleia com mais de 400 trabalhadores, categoria aprovou paralisação para cobrar piso na carreira, retroativos, reajuste dos técnicos e auxílio-alimentação.",
+          "link": "https://anovademocracia.com.br/professores-e-tecnicos-de-porto-velho-preparam-greve/",
+          "publishedOn": "2026-08-12T14:52:14.000Z",
+          "wordCount": 7439,
+          "title": "RO: Professores e técnicos municipais de Porto Velho preparam greve para esta quarta-feira, dia 12",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Reproducao_SINTERO.jpeg"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=231046",
           "author": "Redação de AND",
@@ -694,26 +739,6 @@
           "wordCount": 7564,
           "title": "Há 36 anos, camponeses resistiram à repressão da brigada militar na Praça da Matriz, em Porto Alegre",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-5.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230962",
-          "author": "Ana Nascimento",
-          "description": "Jair, pai de Bruno Girão, juntou-se ao protesto exigindo justiça e a responsabilização da Guarda Municipal de Manaus e da Polícia Militar do Amazonas pelos assassinatos cometidos contra jovens.",
-          "link": "https://anovademocracia.com.br/am-protesto-pai-filho-assassinado-gm/",
-          "publishedOn": "2026-08-10T17:26:23.000Z",
-          "wordCount": 7694,
-          "title": "AM: Pai de jovem assassinado denuncia Guarda Municipal de Manaus em protesto por justiça",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/FOTO-CAPA.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=230963",
-          "author": "Redação de AND",
-          "description": "Reportagem especial mostra como o país Estados Unidos (EUA), depois de proclamar o “fim do comunismo”, articula agora uma política contrarrevolucionária preventiva internacional contra comunistas, anti-imperialistas e movimentos populares.",
-          "link": "https://anovademocracia.com.br/ressurgimento-comunismo-imperialismo-alerta/",
-          "publishedOn": "2026-08-10T15:07:25.000Z",
-          "wordCount": 7029,
-          "title": "ASSISTA: ‘Ressurgimento do comunismo’ põe imperialismo ianque em alerta; AND explica em reportagem especial",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/reportagem-and-ressurgimento-comunismo.png"
         }
       ]
     },
@@ -755,7 +780,7 @@
           "description": "Temperaturas oceânicas já anunciam: vem aí uma ruptura climática inédita. O que a provoca? Quais seus nexos com o aquecimento global? Que esperar agora? Por que quase todos os governos permanecem em dissonância cognitiva? \nThe post Exame do Super El Niño e do que ele revela appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/terraeantropoceno/exame-do-super-el-nino-e-do-que-ele-revela/",
           "publishedOn": "2026-08-11T21:10:23.000Z",
-          "wordCount": 5477,
+          "wordCount": 5564,
           "title": "Exame do Super El Niño e do que ele revela",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/5177286353677389061.jpg"
         },
@@ -765,7 +790,7 @@
           "description": "Muitas promessas do presidente ficaram pelo caminho. E agora seu programa de governo frustra ao reafirmar compromisso com o fiscalismo. Sua intenção de ser mais do que o “pai do Bolsa Família” depende de uma iniciativa firme: livrar seu governo das amarras do Arcabouço\nThe post O que esperar de um possível Lula 4?  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/o-que-esperar-de-um-possivel-lula-4/",
           "publishedOn": "2026-08-11T20:52:33.000Z",
-          "wordCount": 5107,
+          "wordCount": 5157,
           "title": "O que esperar de um possível Lula 4?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-11-at-17-50-20-imagem-principal-pt-oficializa-candidatura-lula-reeleicao-sp-lula-chapeu.webp-imagem-WEBP-1200-%C3%97-800-pixels-Redimensionada-74.png"
         },
@@ -785,7 +810,7 @@
           "description": "País avança na produção de drones e já consegue provocar danos no território russo. Putin lida com crise interna. Mas narrativa do Ocidente, de iminente vitória, é ficção que esconde escândalos de corrupção e dificuldade crônica de Zelensky para recrutar soldados\nThe post O impasse na Ucrânia e os devaneios da Otan appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/o-impasse-na-ucrania-os-devaneios-da-otan/",
           "publishedOn": "2026-08-11T19:53:13.000Z",
-          "wordCount": 4994,
+          "wordCount": 4991,
           "title": "O impasse na Ucrânia e os devaneios da Otan",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5179191437961137472_y.jpg"
         },
@@ -795,7 +820,7 @@
           "description": "Por que o emprego deixou de garantir a segurança e cidadania às famílias. Como a mercantilização de serviços públicos agrava o problema, ao abocanhar uma fatia expressiva dos salários. Os caminhos para o Estado ir além das políticas de transferência de renda\nThe post Quando o trabalho não sustenta a vida appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/quando-o-trabalho-nao-sustenta-a-vida/",
           "publishedOn": "2026-08-11T18:25:12.000Z",
-          "wordCount": 6792,
+          "wordCount": 6795,
           "title": "Quando o trabalho não sustenta a vida",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5177286353677388994_w.jpg"
         },
@@ -825,7 +850,7 @@
           "description": "Quem se apropriará dos ganhos tecnológicos? Hyundai tenta introduzir IA humanoide para substituir trabalhadores. Sindicatos organizam greves e negociam acordos preventivos, para manter ocupações e participar dos lucros. Luta chega ao setor de chips e imigrantes terceirizados\nThe post Robotização: o laboratório da resistência coreana appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/robotizacao-o-laboratorio-da-resistencia-coreana/",
           "publishedOn": "2026-08-10T20:23:41.000Z",
-          "wordCount": 5983,
+          "wordCount": 5986,
           "title": "Robotização: o laboratório da resistência coreana",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5175034553863704144_x1-1.jpg"
         },
@@ -845,7 +870,7 @@
           "description": "Conflitos agrários tornam-se mais letais. Número de assassinatos dobrou e houve dois massacres ano passado. Sem-terra e indígenas são as principais vítimas. Movimentos sociais articulam campanha nacional para denunciar crimes e a flexibilização de leis, como o PL da Devastação\nThe post Violência no campo: Retrato e resistências appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/violencia-no-campo-retrato-e-resistencias/",
           "publishedOn": "2026-08-10T18:35:06.000Z",
-          "wordCount": 4779,
+          "wordCount": 4776,
           "title": "Violência no campo: Retrato e resistências",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_5175034553863704118_y-1.jpg"
         }
