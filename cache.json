@@ -111,16 +111,6 @@
           "wordCount": 407,
           "title": "Desmascarando Renan Santos e seu plano El Salvador para segurança",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
-        },
-        {
-          "id": "6a7d17d28ebc79031a15a5b8",
-          "author": "Diego Cruz",
-          "description": "Vídeo publicado pelo Departamento de Estado dos Estados Unidos, nesta terça-feira, avisa que seu domínio imperialista sobre todo o continente americano \"nunca mais será questionado\".",
-          "link": "https://opiniaosocialista.com.br/governo-trump-divulga-video-afirmando-que-seu-dominio-imperialista-na-america-do-sul-nunca-mais-sera-questionado/",
-          "publishedOn": "2026-08-13T01:20:14.000Z",
-          "wordCount": 1462,
-          "title": "Governo Trump divulga vídeo afirmando que seu domínio na América do Sul “nunca mais será questionado”",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/video-eua.webp"
         }
       ]
     },
@@ -129,6 +119,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-fala-em-tesouraco-e-ameaca-entregar-mais-verba-da-saude-e-educacao-aos-grandes",
+          "author": "Redação",
+          "description": "No ato que abriu sua campanha presidencial neste domingo (16), em Copacabana, Flávio Bolsonaro apresentou uma das principais palavras de ordem de seu programa econômico: o “tesouraço”. Por trás de um discurso de enxugamento da máquina pública, falando em redução de impostos, da burocracia e da corrupção, encontra-se a verdadeira face desse programa: um ajuste neoliberal profundo para enxugar a educação e a saúde pública.\n17-08-2026\n\n/ Privatização, Flavio Bolsonaro, Teto de Gastos, Javier Milei , Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-fala-em-tesouraco-e-ameaca-entregar-mais-verba-da-saude-e-educacao-aos-grandes",
+          "publishedOn": "2026-08-17T15:20:38.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro fala em \"tesouraço\" e ameaça entregar mais verba da saúde e educação aos grandes bancos",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Empresario-da-Faria-Lima-e-preso-por-agressao-brutal-contra-esposa",
           "author": "Redação",
@@ -228,16 +228,6 @@
           "wordCount": null,
           "title": "Um espectro ronda Minas Gerais: Casa Marx inaugura sua nova sede no dia 12/09",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Servidores-da-educacao-de-Goiania-decretam-greve-na-terca-para-lutar-por-mais-direitos-contra-a",
-          "author": "Redação",
-          "description": "Nesta terça-feira (11/08), os servidores da administração municipal de Goiânia decidiram decretar greve contra proposta que não oferece plano de carreira digno para os trabalhadores da categoria no município. \n Foto: Sindicato dos Trabalhadores em educação de Goiás (SINTEGO) \n11-08-2026\n\n/ Educação, Goiás, Greve, Greve de professores",
-          "link": "https://www.esquerdadiario.com.br/Servidores-da-educacao-de-Goiania-decretam-greve-na-terca-para-lutar-por-mais-direitos-contra-a",
-          "publishedOn": "2026-08-13T01:44:01.000Z",
-          "wordCount": null,
-          "title": "Servidores da educação de Goiânia decretam greve na terça para lutar por mais direitos contra a proposta rebaixada da Prefeitura",
-          "imageUrl": null
         }
       ]
     },
@@ -329,6 +319,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=162405",
+          "author": "Jessica Santos",
+          "description": "Projeto da Ponte vai analisar seis problemas centrais da segurança pública brasileira e apresentar propostas construídas por movimentos sociais, pesquisadores, especialistas e moradores dos territórios mais afetados pelas políticas de violência\nO conteúdo Da Redação | O que precisa mudar para a segurança pública deixar de produzir violência? Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/eleicoes-2026-propostas-seguranca-publica/",
+          "publishedOn": "2026-08-17T14:45:53.000Z",
+          "wordCount": 5190,
+          "title": "Da Redação | O que precisa mudar para a segurança pública deixar de produzir violência?",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2018/04/Luther-king-Marielle-e-Maya-angelou.jpg"
+        },
+        {
           "id": "https://ponte.org/?p=162379",
           "author": "Paulo Batistella",
           "description": "STJ reconheceu que uma ação civil pública para reparação das famílias pelos Crimes de Maio não está sujeita à prescrição. Estado alegava que apenas graves violações de direitos humanos ocorridas na ditadura seriam imprescritíveis\nO conteúdo Como decisão sobre Crimes de Maio impõe marco histórico contra violações na democracia Pode ser acessado em Ponte Jornalismo.",
@@ -361,7 +361,7 @@
           "description": "governo de coalizão alemão de Friedrich Merz afirma que quer adaptar os instrumentos do Estado às novas ameaças, especialmente à suposta “ameaça russa”. As medidas que pretende impor prenunciam um futuro em que a censura, a repressão e a falta de transparência se tornariam a norma. Para obter apoio às suas propostas, tanto de seus […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/08/16/militarismo-na-alemanha-governo-propoe-a-licenca-para-matar-para-seus-servicos-secretos/",
           "publishedOn": "2026-08-16T15:52:45.000Z",
-          "wordCount": 4014,
+          "wordCount": 4024,
           "title": "Militarismo na Alemanha: governo propõe a “licença para matar” para seus serviços secretos",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/alemanha.webp"
         },
@@ -393,13 +393,43 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263146",
+          "author": "Victor Farinelli",
+          "description": "Foi Nelson Mandela quem disse a famosa frase: “A liberdade nunca é concedida voluntariamente pelo opressor; ela deve ser exigida pelos oprimidos”. Com isso em mente, homenageamos os sacrifícios e a resiliência dos presos palestinos que passaram anos atrás das grades. Um desses presos, Sameeh Maher Salama al-Haddad, de 40 anos, conta sua experiência pessoal […]\nO post Ex-preso palestino denuncia torturas após passar duas décadas detido: ‘Israel ameaçou me matar’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/ex-preso-palestino-denuncia-torturas-apos-passar-duas-decadas-detido-israel-ameacou-me-matar/",
+          "publishedOn": "2026-08-17T16:00:30.000Z",
+          "wordCount": 5195,
+          "title": "Ex-preso palestino denuncia torturas após passar duas décadas detido: ‘Israel ameaçou me matar’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/israel.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263144",
+          "author": "Tabitha Ramalho",
+          "description": "O partido Likud, do primeiro-ministro israelense Benjamin Netanyahu, realizará eleições primárias entre seus membros nesta segunda-feira (17/08) para escolher os candidatos para as eleições do Knesset em Israel, marcadas para 27 de outubro. “As primárias são o teste decisivo do movimento”, disse uma fonte ao jornal de Tel Aviv, Haaretz, referindo-se a se a direção […]\nO post Partido de Netanyahu realiza primárias para definir chapa das eleições israelenses apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/partido-de-netanyahu-realiza-primarias-para-definir-chapa-das-eleicoes-israelenses/",
+          "publishedOn": "2026-08-17T15:18:30.000Z",
+          "wordCount": 3859,
+          "title": "Partido de Netanyahu realiza primárias para definir chapa das eleições israelenses",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hjy2a0-xuaa6d3i.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263139",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente dos EUA, Donald Trump, ameaçou nesta segunda-feira (17/08) bombardear Omã caso o país “atrapalhe” um acordo com o Irã sobre o Estreito de Ormuz e pediu a rendição do Irã. Ao se referir às negociações em curso entre Mascate e Teerã sobre o controle da rota marítima, enquanto Washington também busca suas próprias […]\nO post Trump ameaça bombardear Omã se país ‘atrapalhar’ acordo com Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-bombardear-oma-se-pais-atrapalhar-acordo-com-ira/",
+          "publishedOn": "2026-08-17T13:50:51.000Z",
+          "wordCount": 3125,
+          "title": "Trump ameaça bombardear Omã se país ‘atrapalhar’ acordo com Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/55295069734_cce23082b4_c-1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263132",
           "author": "Tabitha Ramalho",
-          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, afirmou que não havia nenhuma disposição no texto do memorando que estabelecesse um prazo de 60 dias, explicando que o documento previa apenas negociações sobre a questão nuclear dentro desse período. “Não iniciamos qualquer negociação e os EUA violaram o entendimento desde o início; […]\nO post Irã descarta extensão de sessenta dias do memorando de entendimento com EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-descarta-extensao-de-sessenta-dias-do-memorando-de-entendimento-com-eua/",
+          "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, afirmou que não havia nenhuma disposição no texto do memorando que estabelecesse um prazo de 60 dias, explicando que o documento previa apenas negociações sobre a questão nuclear dentro desse período. “Não iniciamos qualquer negociação e os EUA violaram o entendimento desde o início; […]\nO post Irã recusa estender prazo de sessenta dias do acordo de entendimento com EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-recusa-estender-prazo-de-sessenta-dias-do-memorando-de-entendimento-com-eua/",
           "publishedOn": "2026-08-17T12:37:48.000Z",
-          "wordCount": 3095,
-          "title": "Irã descarta extensão de sessenta dias do memorando de entendimento com EUA",
+          "wordCount": 3093,
+          "title": "Irã recusa estender prazo de sessenta dias do acordo de entendimento com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1280px-ismail_baghai_20250414_1.jpg"
         },
         {
@@ -408,7 +438,7 @@
           "description": "A COP17 contra a desertificação acontece em Ulã-Bator de 17 a 28 de agosto. A Mongólia recebeu, nesta semana, o Global Pastoralist Gathering and Conference, um encontro inédito que reuniu mais de 400 pastoralistas do mundo inteiro, criadores que praticam a pecuária extensiva. Eles chegaram a um consenso sobre uma série de reivindicações para, enfim, […]\nO post Antes da COP17 sobre desertificação, pastores se reúnem na Mongólia para proteger suas terras apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/antes-da-cop17-sobre-desertificacao-pastores-se-reunem-na-mongolia-para-proteger-suas-terras/",
           "publishedOn": "2026-08-17T11:00:01.000Z",
-          "wordCount": 2984,
+          "wordCount": 2971,
           "title": "Antes da COP17 sobre desertificação, pastores se reúnem na Mongólia para proteger suas terras",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hp5gdx9ayaadthf.jpeg"
         },
@@ -418,18 +448,18 @@
           "description": "Há 19 anos, em 17 de agosto de 2007, ocorria em São Paulo o principal ato do “Movimento Cívico pelo Direito dos Brasileiros”, mais conhecido como “Cansei”. Criado por iniciativa de João Doria, o movimento reunia socialites, empresários e celebridades e tinha por objetivo denunciar o “apagão aéreo” de 2006-2007, atribuindo sua responsabilidade ao governo […]\nO post Movimento Cansei: a elite vai às ruas contra o ‘caos aéreo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/movimento-cansei-a-elite-vai-as-ruas-contra-o-caos-aereo/",
           "publishedOn": "2026-08-17T10:00:25.000Z",
-          "wordCount": 5201,
+          "wordCount": 5190,
           "title": "Movimento Cansei: a elite vai às ruas contra o ‘caos aéreo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/cansei-movimento.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=263129",
           "author": "Rocio Paik",
-          "description": "As forças israelenses detiveram na noite de domingo (16/08) nove membros de uma família palestina em uma casa nos arredores da vila de Beit Imrin, a noroeste de Nablus, na Cisjordânia ocupada, após um ataque de colonos israelenses, de acordo com a agência de notícias Wafa. O veículo informou que os colonos cercaram a residência […]\nO post Forças israelenses emitem ordens de despejo forçado e invadem casas na Cisjordânia  apareceu primeiro em Opera Mundi.",
+          "description": "As forças israelenses detiveram na noite de domingo (16/08) nove membros de uma família palestina em uma casa nos arredores da vila de Beit Imrin, a noroeste de Nablus, na Cisjordânia ocupada, após um ataque de colonos israelenses, de acordo com a agência de notícias Wafa. O veículo informou que os colonos cercaram a residência […]\nO post Militares israelenses emitem ordens de despejo forçado e invadem casas na Cisjordânia  apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-emite-ordens-de-despejo-forcado-a-palestinos-e-invade-casas-na-cisjordania/",
           "publishedOn": "2026-08-17T06:36:09.000Z",
-          "wordCount": 2990,
-          "title": "Forças israelenses emitem ordens de despejo forçado e invadem casas na Cisjordânia",
+          "wordCount": 2979,
+          "title": "Militares israelenses emitem ordens de despejo forçado e invadem casas na Cisjordânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/2003-09-01-west-bank-1.jpg"
         },
         {
@@ -438,7 +468,7 @@
           "description": "Uma pesquisa exclusiva realizada pela consultoria Projection revelou, no domingo (16/08), uma deterioração progressiva nas perspectivas eleitorais da administração liderada pelo presidente Javier Milei na Argentina. O estudo aponta que o impacto das medidas econômicas sobre a população enfraqueceu a base do partido governista, colocando o peronismo na vanguarda das preferências para as próximas eleições […]\nO post Deterioração do apoio eleitoral a Milei está associada à precariedade econômica, aponta pesquisa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/deterioracao-do-apoio-eleitoral-a-milei-esta-associada-a-precariedade-economica-aponta-pesquisa/",
           "publishedOn": "2026-08-17T05:00:40.000Z",
-          "wordCount": 3186,
+          "wordCount": 3140,
           "title": "Deterioração do apoio eleitoral a Milei está associada à precariedade econômica, aponta pesquisa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/g_si5odxsae4iig.jpeg"
         },
@@ -448,7 +478,7 @@
           "description": "O ministro de Segurança Nacional de Israel, Itamar Ben-Gvir, defendeu que as forças israelenses deveriam “matar 30 ou 40” palestinos todas as noites na Faixa de Gaza porque eles “não merecem viver” e construir assentamentos no enclave. A posição foi dada durante neste domingo (16/08) durante um podcast apresentado por Rom Braslavski, um ex-prisioneiro israelense […]\nO post Ministro israelense defende matar ’30 ou 40′ palestinos por noite em Gaza: ‘não merecem viver’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/ministro-israelense-defende-matar-30-ou-40-palestinos-por-noite-em-gaza-nao-merecem-viver/",
           "publishedOn": "2026-08-17T04:00:13.000Z",
-          "wordCount": 3421,
+          "wordCount": 3423,
           "title": "Ministro israelense defende matar ’30 ou 40′ palestinos por noite em Gaza: ‘não merecem viver’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hctv-dawiaadkts.jpeg"
         },
@@ -458,39 +488,9 @@
           "description": "Neste domingo (16/08), a Indonésia decretou estado de emergência por 14 dias na província de Nusa Tenggara Oriental após o terremoto de magnitude 7,7 que atingiu a Ilha das Flores no sábado (15/08), informou a agência Xinhua. Segundo o balanço mais recente, o número de vítimas subiu para 53 mortos e 130 feridos. Milhares de […]\nO post Indonésia decreta duas semanas de estado de emergência após terremoto que matou 53 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/indonesia-decreta-duas-semanas-de-estado-de-emergencia-apos-terremoto-que-matou-53/",
           "publishedOn": "2026-08-17T02:30:51.000Z",
-          "wordCount": 3277,
+          "wordCount": 3306,
           "title": "Indonésia decreta duas semanas de estado de emergência após terremoto que matou 53",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-16-221639.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263107",
-          "author": "Rocio Paik",
-          "description": "Os líderes do Hamas se reuniram neste domingo (16/08) com o enviado dos Estados Unidos para o Oriente Médio, Jared Kushner, também genro do presidente Donald Trump, na cidade costeira egípcia de El-Alamein, em meio aos esforços de Washington na implementação de um plano de paz para a Faixa de Gaza rejeitado por Israel. De […]\nO post Genro de Trump se reúne com líderes do Hamas e promete impedir deslocamento em Gaza, diz mídia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/genro-de-trump-se-reune-com-lider-do-hamas-e-rejeita-deslocamento-forcado-em-gaza-diz-midia/",
-          "publishedOn": "2026-08-17T01:30:20.000Z",
-          "wordCount": 3981,
-          "title": "Genro de Trump se reúne com líderes do Hamas e promete impedir deslocamento em Gaza, diz mídia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hp2sn59xkaaoz3e.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263104",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, informou ter ordenado o secretário de Defesa, Pete Hegseth, a reduzir “substancialmente” os exercícios militares conjuntos entre suas tropas com as da Coreia do Sul, apontando que as ações não comente poderiam ser “custosas” como também configurar um “sinal totalmente inadequado e hostil” à Coreia do Norte.  A […]\nO post Trump ordena reduzir exercícios militares com Seul e diz que Coreia do Norte tem sido ‘inofensiva e respeitosa’  apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/trump-ordena-reduzir-exercicios-militares-com-seul-coreia-do-norte-tem-sido-inofensiva-e-respeitosa/",
-          "publishedOn": "2026-08-17T00:01:22.000Z",
-          "wordCount": 4174,
-          "title": "Trump ordena reduzir exercícios militares com Seul e diz que Coreia do Norte tem sido ‘inofensiva e respeitosa’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpxayszacaamkf8-e1786924817144.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263100",
-          "author": "Victor Farinelli",
-          "description": "O Bohemian Football Club, de Dublin, atualmente entre os primeiros colocados do campeonato irlandês, lançou em parceria com o grupo britânico Massive Attack uma terceira camisa inspirada em Cuba e na longa tradição de solidariedade entre irlandeses e cubanos. Segundo a divulgação da colaboração, 30% dos lucros obtidos com as vendas serão destinados a duas […]\nO post Clube irlândes transforma nova camisa em campanha de solidariedade a Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/clube-irlandes-transforma-nova-camisa-em-campanha-de-solidariedade-a-cuba/",
-          "publishedOn": "2026-08-16T19:56:02.000Z",
-          "wordCount": 4000,
-          "title": "Clube irlândes transforma nova camisa em campanha de solidariedade a Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1bohem.jpg"
         }
       ]
     },
@@ -522,7 +522,7 @@
           "description": "AND cobriu o evento e entrevistou lideranças Guarani-Kaiowá e Manoki e o secretário-executivo do Cimi, que denunciaram ataques às retomadas e a atuação das forças de repressão junto a bandos armados do latifúndio; levantamento registra 258 assassinatos de indígenas, alta de 22,3%.",
           "link": "https://anovademocracia.com.br/cimi-indigenas-autodefesa-latifundio-estado/",
           "publishedOn": "2026-08-17T00:37:07.000Z",
-          "wordCount": 9574,
+          "wordCount": 9577,
           "title": "Cimi lança relatório em Brasília; ao AND, indígenas defendem autodefesa e retomadas diante da guerra reacionária do latifúndio e do velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lanamento-do-relatrio-violncia-contra-os-povos-indgenas-no-brasil-dados-de-2025_55464143361_o-1024x576.jpg"
         },
@@ -540,10 +540,10 @@
           "id": "https://anovademocracia.com.br/?p=231356",
           "author": "Giovanna Maria",
           "description": "Entre as principais exigências estão a recuperação das estradas vicinais utilizadas diariamente pelas famílias para circular, levar crianças às escolas e escoar a produção.",
-          "link": "https://anovademocracia.com.br/camponeses-fecham-br-364-contra-abandono-dos-ramais-em-bujari/",
+          "link": "https://anovademocracia.com.br/camponeses-acre-fecham-br-abandono-bujari/",
           "publishedOn": "2026-08-16T19:41:15.000Z",
-          "wordCount": 7492,
-          "title": "AC: Camponeses fecham BR-364 contra abandono dos ramais em Bujari; moradores pagam máquinas do próprio bolso",
+          "wordCount": 7510,
+          "title": "Camponeses do Acre fecham BR-364 contra abandono dos ramais em Bujari; moradores pagam máquinas do próprio bolso",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Video-2026-08-06-at-19.09.12-1.mp4",
             "length": "8412488",
@@ -557,7 +557,7 @@
           "description": "O programa A Propósito #372 partiu do problema de Ceuta para discutir como guerras, pilhagem imperialista e miséria expulsam massas das nações oprimidas, enquanto milhões de imigrantes engrossam as fileiras mais superexploradas do proletariado, submetidos a salários menores e alvo de crescente repressão.",
           "link": "https://anovademocracia.com.br/imperialismo-explora-proletariado-imigrante/",
           "publishedOn": "2026-08-15T15:59:30.000Z",
-          "wordCount": 10986,
+          "wordCount": 10989,
           "title": "‘Imperialismo produz a migração em massa e lucra com a superexploração do proletariado imigrante’: Liga Anti-imperialista e especialista em direito migratório debatem no ‘A Propósito’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/crise-migratoria-ceuta-1024x683.jpg"
         },
@@ -567,7 +567,7 @@
           "description": "Em desdobramento do A Propósito #371, pesquisadora relacionou a disputa pelos recursos amazônicos à militarização e destacou que os territórios defendidos por camponeses, indígenas e quilombolas dificultam a pilhagem imperialista.",
           "link": "https://anovademocracia.com.br/luta-pela-terra-aquiles-imperialista/",
           "publishedOn": "2026-08-15T15:00:00.000Z",
-          "wordCount": 7352,
+          "wordCount": 7355,
           "title": "‘A luta pela terra é o calcanhar de Aquiles da ocupação imperialista da Amazônia’, afirma pesquisadora Marcelle de Araujo no ‘A Propósito’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/20240928_131831-scaled-1-1024x478.jpg"
         },
@@ -577,7 +577,7 @@
           "description": "Moradores ergueram barricadas e fecharam vias após Lucas Afonso de Carvalho, de 6 anos, ser atingido durante a operação; o menino perdeu a visão de um dos olhos",
           "link": "https://anovademocracia.com.br/rmenino-de-6-anos-perde-visao-operacao-mangueira/",
           "publishedOn": "2026-08-15T13:11:18.000Z",
-          "wordCount": 7619,
+          "wordCount": 7622,
           "title": "RJ: Menino de 6 anos perde visão após operação repressiva da Policia Civil; Mangueira responde com protesto combativo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-21.png"
         },
@@ -587,7 +587,7 @@
           "description": "\"Até quando continuará o clima de perseguição às famílias e a sua criminalização por grileiros no poder?\"",
           "link": "https://anovademocracia.com.br/grileiros-poder-campones-acre-amazonas/",
           "publishedOn": "2026-08-15T11:00:00.000Z",
-          "wordCount": 7232,
+          "wordCount": 7235,
           "title": "‘Todos os que apontam grileiros no poder são criminalizados, presos ou mortos’ – lamenta líder camponês no Acre e Amazonas",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-denuncia-paulo-sergio-amacro.mp4",
@@ -602,7 +602,7 @@
           "description": "Enquanto o velho Estado mobiliza verba pública para transformar a área da Baía da Babitonga em polo de turismo e escoamento de mercadorias, uma comunidade centenária na mesma região de Joinville enfrenta a violência policial, multas abusivas e despejos a mando da gestão municipal.",
           "link": "https://anovademocracia.com.br/sc-despejo-morro-amaral-repressao/",
           "publishedOn": "2026-08-14T23:40:06.000Z",
-          "wordCount": 7728,
+          "wordCount": 7731,
           "title": "SC: Comunidade de pescadores do Morro do Amaral em Joinville resiste a despejo, demolições e especulação imobiliária",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-14-as-20.14.59.png"
         },
@@ -612,7 +612,7 @@
           "description": "A ação ocorrida no DF integra a 17ª Jornada Nacional da Juventude Sem Terra, inserida na campanha nacional \"Sejamos Todos como Fidel\", organizada em solidariedade internacionalista e em celebração ao centenário de nascimento do dirigente cubano.",
           "link": "https://anovademocracia.com.br/eua-guerra-pm-picho-embaixada-ianque/",
           "publishedOn": "2026-08-14T22:23:00.000Z",
-          "wordCount": 7496,
+          "wordCount": 7499,
           "title": "‘EUA faz guerra e lucra com a morte’: PM prende advogado após pichação de cunho anti-imperialista na embaixada ianque em Brasília",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-14-muro.webp"
         },
@@ -793,7 +793,7 @@
           "description": "Edson Teles:  \"É significativo que a única condenação penal de um torturador da ditadura tenha ocorrido por estupro, justamente quando o país enfrenta uma de suas maiores crises de violência urbana, com o aumento das mortes cometidas por agentes de segurança pública e de feminicídios.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/14/evidencias-da-memoria-ii-a-primeira-condenacao-penal-de-um-torturador-da-ditadura/",
           "publishedOn": "2026-08-14T16:00:00.000Z",
-          "wordCount": 12997,
+          "wordCount": 12854,
           "title": "Evidências da memória II: a primeira condenação penal de um torturador da ditadura",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/image-5.png"
         },
