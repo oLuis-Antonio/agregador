@@ -33,6 +33,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a8452078ebc79031a15a775",
+          "author": "PSTU Araraquara",
+          "description": "Walter Miranda, de Araraquara (SP)\nLer o editorial da Folha de S.Paulo, na edição de 1º de agosto de 2026, propondo mais uma vez mudanças na Previdência Social sob o pretexto do envelhecimento populacional e das transformações no",
+          "link": "https://opiniaosocialista.com.br/previdencia-social-e-necessaria-uma-nova-reforma/",
+          "publishedOn": "2026-08-18T12:41:32.000Z",
+          "wordCount": 1114,
+          "title": "Previdência Social: É necessária uma nova reforma?",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/aposentadoria.webp"
+        },
+        {
           "id": "6a83bdb28ebc79031a15a750",
           "author": "Roberto Aguiar, da redação",
           "description": "Candidato do PSTU à presidência da República participou de panfletagem e diálogo com trabalhadores ao lado de dirigentes sindicais e apoiadores",
@@ -111,16 +121,6 @@
           "wordCount": 871,
           "title": "PSTU anuncia mudança na candidatura ao governo do Pará",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Well-Mac--do.webp"
-        },
-        {
-          "id": "6a7e53108ebc79031a15a639",
-          "author": "Luiz Carlos Prates (Mancha), de São José dos Campos (SP)",
-          "description": "O início da campanha para a reeleição de Lula à Presidência foi marcado para o dia 16, no Estádio de Vila Euclides, em São Bernardo do Campo (SP). Neste estádio, em 1979, foram realizadas grandiosas assembleias de",
-          "link": "https://opiniaosocialista.com.br/de-volta-aonde-tudo-comecou/",
-          "publishedOn": "2026-08-13T23:29:59.000Z",
-          "wordCount": 1207,
-          "title": "De volta aonde tudo começou?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/lula-na-vila-euclides.webp"
         }
       ]
     },
@@ -129,6 +129,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Sanae-Takaichi-e-Incapaz-de-Reverter-a-Crise-Enfrentada-pelo-Japao",
+          "author": "Sam Carliner",
+          "description": "Com o encerramento da primeira sessão legislativa do ano, a popularidade da primeira-ministra japonesa caiu e, com isso, ela não conseguiu aprovar medidas econômicas importantes, mesmo com uma imensa maioria no parlamento. Isso, junto do seu nacionalismo e pressão pelo rearmamento do país, mostra a necessidade de um forte movimento socialista no Japão unindo trabalhadores e setores progressistas da juventude.\n18-08-2026\n\n/ Internacional, Militarização, Japão",
+          "link": "https://www.esquerdadiario.com.br/Sanae-Takaichi-e-Incapaz-de-Reverter-a-Crise-Enfrentada-pelo-Japao",
+          "publishedOn": "2026-08-18T12:37:34.000Z",
+          "wordCount": null,
+          "title": "Sanae Takaichi é incapaz de reverter a crise enfrentada pelo Japão",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Alvaro-Dias-PL-fala-de-metodo-Paulo-Freire-enquanto-professores-fazem-greve-contra-seu-legado-para",
           "author": "Redação",
@@ -247,26 +257,6 @@
           "publishedOn": "2026-08-14T20:46:31.000Z",
           "wordCount": null,
           "title": "ABSURDO: Justiça burguesa garante a impunidade dos acusados de matar o adolescente Guilherme Silva Guedes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Trump-quer-transformar-a-America-Latina-em-uma-colonia-e-preciso-responder-com-mobilizacao",
-          "author": "Danilo Paris, Diana Assunção",
-          "description": "O imperialismo norte-americano quer deixar claro que quem manda na América Latina são eles. Um vídeo produzido pelo governo Trump e divulgado nos últimos dias é uma expressão brutal dessa política. A peça faz propaganda aberta da hegemonia norte-americana sobre as Américas e apresenta como ameaça qualquer força que conteste os interesses de Washington. Não é simplesmente propaganda ideológica, se trata de clara mensagem política.\n13-08-2026\n\n/ América Latina, MRT, Lula, Myriam Bregman, Donald Trump, Argentina, Governo Lula, Tarifas de Trump",
-          "link": "https://www.esquerdadiario.com.br/Trump-quer-transformar-a-America-Latina-em-uma-colonia-e-preciso-responder-com-mobilizacao",
-          "publishedOn": "2026-08-13T23:10:30.000Z",
-          "wordCount": null,
-          "title": "Trump quer transformar a América Latina em uma colônia: é preciso responder com mobilização",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/A-rejeicao-a-fantasia-no-cinema-da-Era-Digital-61923",
-          "author": "Felipe Guarnieri",
-          "description": "As críticas da imprensa especializada e a rejeição do público em torno de “A Última Casa”, recentemente lançado pela Netflix e estrelado pelo ator brasileiro Wagner Moura, reatualizam polêmicas da primeira década do século com o diretor M. Night Shyamalan, principalmente a partir de “A Dama na Água” (2006). Naturalmente, o filme tem seus problemas, por outro lado, quando nos tornamos tão resistentes à suspensão da descrença?\n13-08-2026\n\n/ Cultura",
-          "link": "https://www.esquerdadiario.com.br/A-rejeicao-a-fantasia-no-cinema-da-Era-Digital-61923",
-          "publishedOn": "2026-08-13T21:30:43.000Z",
-          "wordCount": null,
-          "title": "A rejeição à fantasia no cinema da Era Digital",
           "imageUrl": null
         }
       ]
@@ -388,6 +378,36 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263219",
+          "author": "Tabitha Ramalho",
+          "description": "Em meio às críticas à forma como o governo lidou com o terremoto de magnitude 7,4 que atingiu o país em 10 de agosto, o presidente colombiano, Abelardo de la Espriella, informou na segunda-feira (17/08) que os danos materiais causados ​​pelo terremoto são estimados em cerca de 30 trilhões de pesos (aproximadamente 7,5 bilhões de […]\nO post Colômbia: danos materiais causados ​​pelo terremoto são estimados em US$ 7,5 bilhões apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/colombia-danos-materiais-causados-pelo-terremoto-sao-estimados-em-us-75-bilhoes/",
+          "publishedOn": "2026-08-18T12:26:31.000Z",
+          "wordCount": 3487,
+          "title": "Colômbia: danos materiais causados ​​pelo terremoto são estimados em US$ 7,5 bilhões",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpxjyvnxiaeyadf.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263212",
+          "author": "Rocio Paik",
+          "description": "O governo da Venezuela anunciou a realização de uma nova Consulta Popular Nacional, marcada para o dia 11 de outubro. O comunicado foi feito pela presidenta em exercício, Delcy Rodríguez, que destacou o mecanismo como uma forma de consolidar o caminho democrático e popular do país.  A intenção é que os recursos públicos sejam destinados […]\nO post Governo da Venezuela convoca nova Consulta Popular Nacional para 11 de outubro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/governo-da-venezuela-convoca-nova-consulta-popular-nacional-para-11-de-outubro/",
+          "publishedOn": "2026-08-18T11:00:28.000Z",
+          "wordCount": 3156,
+          "title": "Governo da Venezuela convoca nova Consulta Popular Nacional para 11 de outubro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/05zc7074p-scaled-1-37a6ae1c-2048x1554-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263215",
+          "author": "Rocio Paik",
+          "description": "O ministro da Fazenda, Dario Durigan, defendeu nesta segunda-feira (17/08) a estratégia de abertura do comércio de produtos brasileiros para outros países.  Segundo ele, outros governos e investidores olham para o Brasil com confiança. “Em um mundo de incertezas, temos de construir o Brasil como um porto seguro, temos de projetar segurança e previsibilidade”, disse […]\nO post Em meio a tarifaço dos EUA, ministro da Fazenda defende que Brasil amplie comércio exterior apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/em-meio-a-tarifaco-dos-eua-ministro-da-fazenda-defende-que-brasil-amplie-comercio-exterior/",
+          "publishedOn": "2026-08-18T10:00:55.000Z",
+          "wordCount": 3161,
+          "title": "Em meio a tarifaço dos EUA, ministro da Fazenda defende que Brasil amplie comércio exterior",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/0d9a7586.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263209",
           "author": "Rocio Paik",
           "description": "Diversos setores políticos da oposição na Colômbia rechaçam a presença de 82 soldados israelenses no território nacional após o terremoto de magnitude 7,4 que atingiu a região oeste do país na semana anterior, exigindo a saída imediata do contingente. Em publicação na segunda-feira (17/08), o legislador Santiago Osorio exigiu que o presidente recém-eleito Abelardo de […]\nO post Oposição exige expulsão de soldados israelenses na Colômbia após terremoto que matou 289 apareceu primeiro em Opera Mundi.",
@@ -403,7 +423,7 @@
           "description": "A Petrobras confirmou nesta segunda-feira (17/08) a descoberta de petróleo na bacia da Foz do Amazonas, no litoral do Amapá, no poço Morpho. A presidente da estatal, Magda Chambriard, afirmou a repórteres em coletiva de imprensa em Oiapoque que ainda não se sabe a quantidade de petróleo que existe na região. “Ainda precisamos delimitar a […]\nO post Petrobras anuncia descoberta de petróleo na Foz do Rio Amazonas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-rio-amazonas/",
           "publishedOn": "2026-08-18T05:00:32.000Z",
-          "wordCount": 3981,
+          "wordCount": 3986,
           "title": "Petrobras anuncia descoberta de petróleo na Foz do Rio Amazonas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hp9xtigxkaapcvm-scaled.jpeg"
         },
@@ -413,7 +433,7 @@
           "description": "O governo norte-americano de Donald Trump trocou nesta segunda-feira (17/08) a chefia do Escritório de Assuntos do Hemisfério Ocidental, um órgão do Departamento de Estado responsável pelas relações entre Estados Unidos e América Latina, incluindo o Brasil. O novo secretário de Estado adjunto, Juan Pablo Segura, de ascendência argentina, assume o cargo, substituindo o diplomata […]\nO post Governo Trump troca chefe de escritório responsável pelas relações entre EUA e Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-troca-chefe-de-escritorio-responsavel-pelas-relacoes-entre-eua-e-brasil/",
           "publishedOn": "2026-08-18T03:30:11.000Z",
-          "wordCount": 3293,
+          "wordCount": 3296,
           "title": "Governo Trump troca chefe de escritório responsável pelas relações entre EUA e Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/juan-pablo-segura-official-photo-august-2026-1125x1406-1-e1787016275600.jpg"
         },
@@ -423,7 +443,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, alegou nesta segunda-feira (17/08) que o líder norte-coreano Kim Jong Un tem respondido às suas declarações e pedidos de conversa. A posição foi dada no Salão Oval, quando questionado pela imprensa sobre o silêncio da autoridade de Pyongyang sobre o republicano, desde que assumiu seu segundo mandato presidencial […]\nO post Trump critica Coreia do Sul por recusar aliança contra Irã e alega que Kim Jong Un ‘responde’ a ele apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/trump-critica-coreia-do-sul-por-recusar-alianca-na-guerra-contra-ira-e-alega-que-kim-jong-un-responde-a-ele/",
           "publishedOn": "2026-08-18T02:30:57.000Z",
-          "wordCount": 3555,
+          "wordCount": 3554,
           "title": "Trump critica Coreia do Sul por recusar aliança contra Irã e alega que Kim Jong Un ‘responde’ a ele",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/trump_and_kim_pose_a_photo_before_singapore_summit_square_crop-e1787032314992.jpg"
         },
@@ -433,7 +453,7 @@
           "description": "O genro de Donald Trump e enviado norte-americano ao Oriente Médio, Jared Kushner, informou nesta segunda-feira (17/08) que houve, em Israel, progressos nas conversas e esclarecimento de “mal-entendidos” com o primeiro-ministro Benjamin Netanyahu em relação ao plano de paz de Gaza. Nos últimos dias, o premiê rejeitou publicamente a etapa mais recente do projeto costurado […]\nO post Genro de Trump e Netanyahu concordam em desarmar Hamas antes de retirar tropas israelenses de Gaza, diz agência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/genro-de-trump-e-netanyahu-concordam-em-desarmar-hamas-antes-de-retirar-tropas-israelenses-de-gaza/",
           "publishedOn": "2026-08-18T01:00:27.000Z",
-          "wordCount": 3586,
+          "wordCount": 3582,
           "title": "Genro de Trump e Netanyahu concordam em desarmar Hamas antes de retirar tropas israelenses de Gaza, diz agência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hp7lmrqwoaawdls.jpeg"
         },
@@ -443,7 +463,7 @@
           "description": "O presidente chinês Xi Jinping homenageou Jiang Zemin nesta segunda-feira (17/08), centenário de seu nascimento. Em discurso no Grande Salão do Povo, Xi afirmou que Jiang Zemin criou “um novo cenário de reforma e abertura abrangentes, alcançando uma sociedade moderadamente próspera para o povo e impulsionando com sucesso o socialismo com características chinesas para o […]\nO post No centenário de Jiang Zemin, Xi elogiou dirigente por impulsionar socialismo chinês ao século 21 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/no-centenario-de-jiang-zemin-xi-elogiou-dirigente-por-impulsionar-socialismo-chines-ao-seculo-21/",
           "publishedOn": "2026-08-17T23:30:05.000Z",
-          "wordCount": 3852,
+          "wordCount": 3846,
           "title": "No centenário de Jiang Zemin, Xi elogiou dirigente por impulsionar socialismo chinês ao século 21",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/afp20260817xxjpbee00040520260817pepfn0a001v1highreschinabeijinggrandgath-3fbaed35-2048x1198-1.webp"
         },
@@ -453,39 +473,9 @@
           "description": "As autoridades iranianas endureceram o discurso contra os Estados Unidos nesta segunda-feira (17/08)  após a expiração oficial do Memorando de Entendimento firmado entre os dois países em junho. Embora o acordo já tivesse perdido força com a retomada dos confrontos, integrantes da liderança iraniana passaram a sinalizar uma possível mudança de uma postura predominantemente defensiva […]\nO post Irã se diz preparado para possível operação terrestre dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-se-diz-preparado-para-possivel-operacao-terrestre-dos-eua/",
           "publishedOn": "2026-08-17T21:51:02.000Z",
-          "wordCount": 4083,
+          "wordCount": 4084,
           "title": "Irã se diz preparado para possível operação terrestre dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/p20260724mr-0892.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263181",
-          "author": "Victor Farinelli",
-          "description": "A campanha eleitoral em São Paulo registrou um incidente violento nesta segunda-feira (17/08), no qual a ex-ministra Marina Silva (Rede), foi alvo de uma tentativa de agressão durante um ato de campanha no centro da capital paulista, no qual teria sido abordada por um home de forma hostil. “Ele se atirou na frente com agressividade. […]\nO post Marina Silva relata tentativa de agressão durante ato com Haddad e Tebet em São Paulo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/marina-silva-relata-tentativa-de-agressao-durante-ato-com-haddad-e-tebet-em-sao-paulo/",
-          "publishedOn": "2026-08-17T21:01:25.000Z",
-          "wordCount": 3083,
-          "title": "Marina Silva relata tentativa de agressão durante ato com Haddad e Tebet em São Paulo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/marina.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263170",
-          "author": "Raissa Neves",
-          "description": "O governo do Canadá se prepara para uma nova medida comercial dos Estados Unidos que pode aumentar a pressão sobre empresas e trabalhadores do país. A partir desta quarta-feira (19/08), uma tarifa de 50% deverá ser aplicada a diversos produtos canadenses, em uma decisão que também pode dificultar as negociações entre os dois países sobre […]\nO post Dois dias antes da taxação, Canadá tenta evitar tarifas de 50% apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/dois-dias-antes-da-taxacao-canada-tenta-evitar-tarifas-de-50/",
-          "publishedOn": "2026-08-17T20:20:46.000Z",
-          "wordCount": 3295,
-          "title": "Dois dias antes da taxação, Canadá tenta evitar tarifas de 50%",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/p20260603mr-0327.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263168",
-          "author": "Tabitha Ramalho",
-          "description": "O surto de Ebola na República Democrática do Congo é considerado o mais mortal da história do país, com pelo menos 2.325 mortos, segundo dados do governo, ultrapassando o número de vítimas do surto de 2018-2020. O Instituto Nacional de Saúde Pública da RD Congo informou que o número de casos confirmados já chegou a […]\nO post Ebola na RD do Congo se torna surto mais mortal na história do país, diz OMS apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/ebola-na-rd-do-congo-se-torna-surto-mais-mortal-na-historia-do-pais-diz-oms/",
-          "publishedOn": "2026-08-17T19:40:31.000Z",
-          "wordCount": 3037,
-          "title": "Ebola na RD do Congo se torna surto mais mortal na história do país, diz OMS",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/supplies-for-ebola-response-dr-congo-2026.tmb-sm.jpg"
         }
       ]
     },
@@ -512,12 +502,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=231445",
+          "author": "Redação de AND",
+          "description": "Nos 1.042º, 1.043º, 1.044º e 1.045º dias desde o Dilúvio de Al-Aqsa, o Irã anunciou uma mudança em sua postura militar diante das violações ianques ao Memorando de Islamabad, com um comandante do Corpo de Guardiões da Revolução Islâmica (CGRI) advertindo que “o inimigo deve esperar surpresas estratégicas”. Na Faixa de Gaza, Jared Kushner reuniu-se diretamente com o chefe do Hamas, Khalil al-Hayya, mas a posterior maratona de negociações com Netanyahu terminou sem qualquer compromisso sionista de retirar tropas dos cerca de 60% do território palestino ainda ocupados. No Iêmen, as Forças Armadas afirmaram ter destruído um navio de desembarque saudita e atingido embarcações de escolta, enquanto no Sul do Líbano a nova escalada sionista assassinou 11 pessoas, entre elas três crianças.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-17-08-2026/",
+          "publishedOn": "2026-08-18T11:39:49.000Z",
+          "wordCount": 9935,
+          "title": "Plantão Palestina (14–17/08): ‘O inimigo deve esperar surpresas estratégicas’, adverte comandante iraniano; ‘Israel’ bloqueia retirada de Gaza",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Plantao-Palestina.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=231433",
           "author": "Ana Nascimento",
           "description": "Manifestação na rodovia BR-470 defende a demarcação de terras e os direitos indígenas em meio ao julgamento no Supremo Tribunal Federal (STF). \"Sem terra nós não vivemos\", afirmam os indígenas Laklãnõ-Xokleng presentes.",
           "link": "https://anovademocracia.com.br/sc-povo-laklano-xokleng-protesta-demarcacao/",
           "publishedOn": "2026-08-18T01:00:37.000Z",
-          "wordCount": 7159,
+          "wordCount": 7166,
           "title": "SC: Indígenas Laklãnõ-Xokleng protestam em Ibirama contra o Marco Temporal sob chuva intensa",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-23.png"
         },
@@ -527,7 +527,7 @@
           "description": "Com a participação de representantes do Irã, do Saara Ocidental e da Venezuela, a diversidade das presenças destacou o caráter internacionalista da luta,",
           "link": "https://anovademocracia.com.br/cuba-centenario-fidel-castro-solidariedade/",
           "publishedOn": "2026-08-17T23:01:31.000Z",
-          "wordCount": 8591,
+          "wordCount": 8598,
           "title": "‘O povo cubano vai lutar até a morte’: no centenário de Fidel Castro, anti-imperialistas reforçam a solidariedade à Cuba em Brasília",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-9-1024x768.jpeg"
         },
@@ -537,7 +537,7 @@
           "description": "Mobilizações iniciadas em 10 de agosto concentram-se em Pucallpa e mantêm bloqueios em importantes vias; Frente de Defesa de Ucayali denuncia dirigentes que abandonaram a luta após negociações particulares com autoridades",
           "link": "https://anovademocracia.com.br/peru-greve-ucayali-bloqueios-combustiveis/",
           "publishedOn": "2026-08-17T19:53:13.000Z",
-          "wordCount": 7458,
+          "wordCount": 7465,
           "title": "Greve regional se fortalece em Ucayali com bloqueios e protestos contra alto preço dos combustíveis no Peru",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-17-peru.webp"
         },
@@ -547,7 +547,7 @@
           "description": "Em entrevista ao AND, dirigente do Sepe Niterói declarou: “O instrumento da greve é quando não tem diálogo, é o instrumento que a gente tem para pressionar esse governo”",
           "link": "https://anovademocracia.com.br/trabalhadores-educacao-realizam-paralisacao-niteroi/",
           "publishedOn": "2026-08-17T19:42:08.000Z",
-          "wordCount": 7466,
+          "wordCount": 7473,
           "title": "RJ: Trabalhadores da educação realizam paralisação de 24 horas em Niterói",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-7.jpeg"
         },
@@ -557,7 +557,7 @@
           "description": "Embora seja um direito a policiais civis, militares e agentes federais concorrer a cargos públicos eletivos, o tom das campanhas de alguns deles segue inalterado desde 2017, quando o capitão expulso do Exército, o ex-presidente da República Jair Bolsonaro, fazia sua campanha.",
           "link": "https://anovademocracia.com.br/ex-comandante-deputado-propganda-arma/",
           "publishedOn": "2026-08-17T19:41:12.000Z",
-          "wordCount": 7553,
+          "wordCount": 7560,
           "title": "Ex-comandante candidato a deputado aparece em propaganda manobrando arma pesada",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/ChatGPT-Image-17-de-ago.-de-2026-16_27_36.jpg"
         },
@@ -567,7 +567,7 @@
           "description": "O massacre de 9 de agosto de 1995 é tratado pela historiografia e pelo movimento camponês com o mesmo padrão de violência agrária de outras situações de despejo forçado e criminalização de quem ocupa terra em disputa, aponta relatório da Comissão Pastoral da Terra (CPT).",
           "link": "https://anovademocracia.com.br/santa-elina-armada-imperialismo-resistencia/",
           "publishedOn": "2026-08-17T18:54:38.000Z",
-          "wordCount": 8522,
+          "wordCount": 8529,
           "title": "Santa Elina: os 31 anos da batalha armada dão um tapa no imperialismo e inspiram a resistência camponesa",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-17-at-13.46.23.jpeg"
         },
@@ -577,7 +577,7 @@
           "description": "AND cobriu o evento e entrevistou lideranças Guarani-Kaiowá e Manoki e o secretário-executivo do Cimi, que denunciaram ataques às retomadas e a atuação das forças de repressão junto a bandos armados do latifúndio; levantamento registra 258 assassinatos de indígenas, alta de 22,3%.",
           "link": "https://anovademocracia.com.br/cimi-indigenas-autodefesa-latifundio-estado/",
           "publishedOn": "2026-08-17T00:37:07.000Z",
-          "wordCount": 9562,
+          "wordCount": 9569,
           "title": "Cimi lança relatório em Brasília; ao AND, indígenas defendem autodefesa e retomadas diante da guerra reacionária do latifúndio e do velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lanamento-do-relatrio-violncia-contra-os-povos-indgenas-no-brasil-dados-de-2025_55464143361_o-1024x576.jpg"
         },
@@ -587,7 +587,7 @@
           "description": "Ativistas apresentaram linha do tempo da ocupação sionista e da Resistência Palestina no quadro “Vozes pela Palestina”, transmitido no Tribuna do Trabalhador.",
           "link": "https://anovademocracia.com.br/mg-comite-mineiro-realiza-edicao-especial-de-programa-sobre-a-palestina/",
           "publishedOn": "2026-08-16T19:55:50.000Z",
-          "wordCount": 7135,
+          "wordCount": 7142,
           "title": "MG: Comitê Mineiro realiza edição especial de programa sobre a Palestina",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-5.jpeg"
         },
@@ -597,7 +597,7 @@
           "description": "Entre as principais exigências estão a recuperação das estradas vicinais utilizadas diariamente pelas famílias para circular, levar crianças às escolas e escoar a produção.",
           "link": "https://anovademocracia.com.br/camponeses-acre-fecham-br-abandono-bujari/",
           "publishedOn": "2026-08-16T19:41:15.000Z",
-          "wordCount": 7495,
+          "wordCount": 7502,
           "title": "Camponeses do Acre fecham BR-364 contra abandono dos ramais em Bujari; moradores pagam máquinas do próprio bolso",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Video-2026-08-06-at-19.09.12-1.mp4",
@@ -605,16 +605,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-06-at-08.57.20-720x800-1.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231333",
-          "author": "Redação de AND",
-          "description": "O programa A Propósito #372 partiu do problema de Ceuta para discutir como guerras, pilhagem imperialista e miséria expulsam massas das nações oprimidas, enquanto milhões de imigrantes engrossam as fileiras mais superexploradas do proletariado, submetidos a salários menores e alvo de crescente repressão.",
-          "link": "https://anovademocracia.com.br/imperialismo-explora-proletariado-imigrante/",
-          "publishedOn": "2026-08-15T15:59:30.000Z",
-          "wordCount": 10974,
-          "title": "‘Imperialismo produz a migração em massa e lucra com a superexploração do proletariado imigrante’: Liga Anti-imperialista e especialista em direito migratório debatem no ‘A Propósito’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/crise-migratoria-ceuta-1024x683.jpg"
         }
       ]
     },
@@ -639,7 +629,7 @@
           "description": "Casa Branca autoriza empresas estadunidenses a vigiar e interferir em redes estrangeiras, no âmbito de nova “guerra ao terror”. No Brasil, brecha é aberta a pretexto da “caça ao PCC”. Como o movimento ameaça as eleições? De que forma o país pode se prevenir?\nThe post A nova ameaça de Trump contra o Brasil appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/a-nova-ameaca-de-trump-contra-o-brasil/",
           "publishedOn": "2026-08-17T21:33:33.000Z",
-          "wordCount": 7058,
+          "wordCount": 7055,
           "title": "A nova ameaça de Trump contra o Brasil",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-17-at-18-32-04-imrs.php-imagem-JPEG-1440-%C3%97-810-pixels-Redimensionada-80.png"
         },
