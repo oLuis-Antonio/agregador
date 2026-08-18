@@ -24,16 +24,6 @@
           "wordCount": 2265,
           "title": "Redução da maioridade penal é aposta na gestão repressiva da pobreza",
           "imageUrl": "https://media.jornalofuturo.com.br/Maioridade-1040x780.webp"
-        },
-        {
-          "id": "TB8OqZ",
-          "author": null,
-          "description": "Na semana passada, a liderança cubana prosseguiu com importantes reformas econômicas e sociais (um total de 176 medidas organizadas em 23 categorias). Após uma sessão extraordinária do Comitê Central do Partido Comunista de Cuba, a Assembleia Nacional aprovou medidas que afetam todos os setores da economia.",
-          "link": "https://jornalofuturo.com.br/artigo/TB8OqZ-cuba-mudancas-economicas-adotadas-representam-serios-riscos",
-          "publishedOn": "2026-08-13T15:00:00.000Z",
-          "wordCount": 2212,
-          "title": "CUBA: Mudanças econômicas adotadas representam sérios riscos",
-          "imageUrl": "https://media.jornalofuturo.com.br/Fidel-1280x1686.jpg"
         }
       ]
     },
@@ -42,6 +32,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6a83bdb28ebc79031a15a750",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Candidato do PSTU à presidência da República participou de panfletagem e diálogo com trabalhadores ao lado de dirigentes sindicais e apoiadores",
+          "link": "https://opiniaosocialista.com.br/em-jacarei-sp-hertz-dias-defende-estatizacao-da-avibras/",
+          "publishedOn": "2026-08-18T02:17:22.000Z",
+          "wordCount": 1136,
+          "title": "Em Jacareí (SP), Hertz Dias defende estatização da Avibras",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/avibras-hertz.webp"
+        },
         {
           "id": "6a834e208ebc79031a15a723",
           "author": "Roberto Aguiar, da redação",
@@ -131,16 +131,6 @@
           "wordCount": 1992,
           "title": "Correios: Uma reestruturação que ameaça destruir a empresa pública",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/correios-1.webp"
-        },
-        {
-          "id": "6a7df0578ebc79031a15a5e7",
-          "author": "Redação",
-          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
-          "link": "https://opiniaosocialista.com.br/desmascarando-renan-santos-e-seu-plano-el-salvador-para-seguranca/",
-          "publishedOn": "2026-08-13T16:27:35.000Z",
-          "wordCount": 407,
-          "title": "Desmascarando Renan Santos e seu plano El Salvador para segurança",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
         }
       ]
     },
@@ -149,6 +139,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Alvaro-Dias-PL-fala-de-metodo-Paulo-Freire-enquanto-professores-fazem-greve-contra-seu-legado-para",
+          "author": "Redação",
+          "description": "No debate da Band RN entre os candidatos ao governo, Álvaro Dias (PL) tentou responder às críticas sobre a educação durante sua gestão em Natal prometendo um programa de alfabetização baseado no método Paulo Freire.\n17-08-2026\n\n/ Política, Educação, Álvaro Dias PL, Paulo Freire, Greve de professores, Paulinho Freire",
+          "link": "https://www.esquerdadiario.com.br/Alvaro-Dias-PL-fala-de-metodo-Paulo-Freire-enquanto-professores-fazem-greve-contra-seu-legado-para",
+          "publishedOn": "2026-08-18T01:05:41.000Z",
+          "wordCount": null,
+          "title": "Álvaro Dias (PL) fala de método Paulo Freire enquanto professores fazem greve contra seu legado para educação de Natal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Oitavo-candidato-da-direita-a-presidencia-A-possivel-candidatura-de-Pablo-Marcal",
           "author": "Redação",
@@ -298,16 +298,6 @@
           "wordCount": null,
           "title": "Rimas de Recife: \"Quem não está morto, tem dois empregos para sobreviver\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Um-espectro-ronda-Minas-Gerais-Casa-Marx-inaugura-sua-nova-sede-no-dia-12-09",
-          "author": "MRT Minas Gerais, Redação Minas Gerais",
-          "description": "No próximo dia 12 de setembro, a partir das 16h, será inaugurada a Casa Marx Belo Horizonte, um espaço político e cultural na Rua Tabaiares, 22 (próximo à Sapucaí).\n13-08-2026\n\n/ Teoria, cultura, Esquerda Diário, Casa Marx, Política, Sudeste",
-          "link": "https://www.esquerdadiario.com.br/Um-espectro-ronda-Minas-Gerais-Casa-Marx-inaugura-sua-nova-sede-no-dia-12-09",
-          "publishedOn": "2026-08-13T14:18:24.000Z",
-          "wordCount": null,
-          "title": "Um espectro ronda Minas Gerais: Casa Marx inaugura sua nova sede no dia 12/09",
-          "imageUrl": null
         }
       ]
     },
@@ -360,21 +350,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/08/Header-Israel-Treinamento-IA.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444533",
-          "author": "Leandro Becker",
-          "description": "Serena pretende conectar 12 data centers na rede básica e gastar muita energia em Gentio do Ouro. Enquanto isso, muitos moradores sofrem com falta de luz e reclamam que a conta já está cara demais.\nO post Empresa de energia renovável quer transformar pequena cidade da Bahia em quintal de data centers apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/08/13/empresa-energia-renovavel-bahia-quintal-data-centers/",
-          "publishedOn": "2026-08-13T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Empresa de energia renovável quer transformar pequena cidade da Bahia em quintal de data centers",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/08/Headerfeat-11.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/08/Headerfeat-11.jpg"
         }
       ]
     },
@@ -446,7 +421,7 @@
           "description": "governo de coalizão alemão de Friedrich Merz afirma que quer adaptar os instrumentos do Estado às novas ameaças, especialmente à suposta “ameaça russa”. As medidas que pretende impor prenunciam um futuro em que a censura, a repressão e a falta de transparência se tornariam a norma. Para obter apoio às suas propostas, tanto de seus […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/08/16/militarismo-na-alemanha-governo-propoe-a-licenca-para-matar-para-seus-servicos-secretos/",
           "publishedOn": "2026-08-16T15:52:45.000Z",
-          "wordCount": 4014,
+          "wordCount": 4024,
           "title": "Militarismo na Alemanha: governo propõe a “licença para matar” para seus serviços secretos",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/alemanha.webp"
         },
@@ -459,16 +434,6 @@
           "wordCount": 3724,
           "title": "Cuba após seis meses de bloqueio petrolífero: a crise e o caminho para a recuperação",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/cuba_1024px.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74276",
-          "author": "Frei Betto",
-          "description": "idel faria 100 anos hoje, 13 de agosto. Faleceu aos 90, em 2016. Nossa amizade durou 36 anos, desde que o conheci na Nicarágua, em 1980. Na noite de 20 de julho ele, Lula e eu conversamos das duas da madrugada às seis da manhã.  Supus ser a única oportunidade de interpelar o mais destacado […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/08/13/fidel-100-anos/",
-          "publishedOn": "2026-08-13T16:29:54.000Z",
-          "wordCount": 3063,
-          "title": "Fidel, 100 anos",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/fidel-castro-frei-betto.webp"
         }
       ]
     },
@@ -477,6 +442,16 @@
       "feedUrl": "https://operamundi.uol.com.br/feed",
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
+        {
+          "id": "https://operamundi.uol.com.br/?p=263203",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, alegou nesta segunda-feira (17/08) que o líder norte-coreano Kim Jong Un tem respondido às suas declarações e pedidos de conversa. A posição foi dada no Salão Oval, quando questionado pela imprensa sobre o silêncio da autoridade de Pyongyang sobre o republicano, desde que assumiu seu segundo mandato presidencial […]\nO post Trump critica Coreia do Sul por recusar aliança na guerra contra Irã e alega que Kim Jong Un ‘responde’ a ele apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/trump-critica-coreia-do-sul-por-recusar-alianca-na-guerra-contra-ira-e-alega-que-kim-jong-un-responde-a-ele/",
+          "publishedOn": "2026-08-18T02:30:57.000Z",
+          "wordCount": 3566,
+          "title": "Trump critica Coreia do Sul por recusar aliança na guerra contra Irã e alega que Kim Jong Un ‘responde’ a ele",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/trump_and_kim_pose_a_photo_before_singapore_summit_square_crop.jpg"
+        },
         {
           "id": "https://operamundi.uol.com.br/?p=263193",
           "author": "Rocio Paik",
@@ -493,7 +468,7 @@
           "description": "O presidente chinês Xi Jinping homenageou Jiang Zemin nesta segunda-feira (17/08), centenário de seu nascimento. Em discurso no Grande Salão do Povo, Xi afirmou que Jiang Zemin criou “um novo cenário de reforma e abertura abrangentes, alcançando uma sociedade moderadamente próspera para o povo e impulsionando com sucesso o socialismo com características chinesas para o […]\nO post No centenário de Jiang Zemin, Xi elogiou dirigente por impulsionar socialismo chinês ao século 21 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/no-centenario-de-jiang-zemin-xi-elogiou-dirigente-por-impulsionar-socialismo-chines-ao-seculo-21/",
           "publishedOn": "2026-08-17T23:30:05.000Z",
-          "wordCount": 3843,
+          "wordCount": 3850,
           "title": "No centenário de Jiang Zemin, Xi elogiou dirigente por impulsionar socialismo chinês ao século 21",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/afp20260817xxjpbee00040520260817pepfn0a001v1highreschinabeijinggrandgath-3fbaed35-2048x1198-1.webp"
         },
@@ -503,7 +478,7 @@
           "description": "As autoridades iranianas endureceram o discurso contra os Estados Unidos nesta segunda-feira (17/08)  após a expiração oficial do Memorando de Entendimento firmado entre os dois países em junho. Embora o acordo já tivesse perdido força com a retomada dos confrontos, integrantes da liderança iraniana passaram a sinalizar uma possível mudança de uma postura predominantemente defensiva […]\nO post Irã se diz preparado para possível operação terrestre dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-se-diz-preparado-para-possivel-operacao-terrestre-dos-eua/",
           "publishedOn": "2026-08-17T21:51:02.000Z",
-          "wordCount": 4082,
+          "wordCount": 4084,
           "title": "Irã se diz preparado para possível operação terrestre dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/p20260724mr-0892.webp"
         },
@@ -513,7 +488,7 @@
           "description": "A campanha eleitoral em São Paulo registrou um incidente violento nesta segunda-feira (17/08), no qual a ex-ministra Marina Silva (Rede), foi alvo de uma tentativa de agressão durante um ato de campanha no centro da capital paulista, no qual teria sido abordada por um home de forma hostil. “Ele se atirou na frente com agressividade. […]\nO post Marina Silva relata tentativa de agressão durante ato com Haddad e Tebet em São Paulo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/marina-silva-relata-tentativa-de-agressao-durante-ato-com-haddad-e-tebet-em-sao-paulo/",
           "publishedOn": "2026-08-17T21:01:25.000Z",
-          "wordCount": 3084,
+          "wordCount": 3085,
           "title": "Marina Silva relata tentativa de agressão durante ato com Haddad e Tebet em São Paulo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/marina.jpg"
         },
@@ -523,7 +498,7 @@
           "description": "O governo do Canadá se prepara para uma nova medida comercial dos Estados Unidos que pode aumentar a pressão sobre empresas e trabalhadores do país. A partir desta quarta-feira (19/08), uma tarifa de 50% deverá ser aplicada a diversos produtos canadenses, em uma decisão que também pode dificultar as negociações entre os dois países sobre […]\nO post Dois dias antes da taxação, Canadá tenta evitar tarifas de 50% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/dois-dias-antes-da-taxacao-canada-tenta-evitar-tarifas-de-50/",
           "publishedOn": "2026-08-17T20:20:46.000Z",
-          "wordCount": 3299,
+          "wordCount": 3300,
           "title": "Dois dias antes da taxação, Canadá tenta evitar tarifas de 50%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/p20260603mr-0327.webp"
         },
@@ -533,7 +508,7 @@
           "description": "O surto de Ebola na República Democrática do Congo é considerado o mais mortal da história do país, com pelo menos 2.325 mortos, segundo dados do governo, ultrapassando o número de vítimas do surto de 2018-2020. O Instituto Nacional de Saúde Pública da RD Congo informou que o número de casos confirmados já chegou a […]\nO post Ebola na RD do Congo se torna surto mais mortal na história do país, diz OMS apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/ebola-na-rd-do-congo-se-torna-surto-mais-mortal-na-historia-do-pais-diz-oms/",
           "publishedOn": "2026-08-17T19:40:31.000Z",
-          "wordCount": 3039,
+          "wordCount": 3041,
           "title": "Ebola na RD do Congo se torna surto mais mortal na história do país, diz OMS",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/supplies-for-ebola-response-dr-congo-2026.tmb-sm.jpg"
         },
@@ -543,7 +518,7 @@
           "description": "Uma missão da Organização das Nações Unidas que visitou o Haiti no final de julho emitiu um informe neste fim de semana denunciando que as investigações sobre o magnicídio do ex-presidente do país, Jovenel Moïse (2017-2021), estão “travadas” e que é “urgente” fornecer ao sistema judiciário local os recursos necessários para avançar no processo. “O […]\nO post ONU denuncia ‘investigação travada’ sobre assassinato de presidente do Haiti apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/onu-denuncia-investigacao-travada-sobre-assassinato-de-presidente-do-haiti/",
           "publishedOn": "2026-08-17T19:00:37.000Z",
-          "wordCount": 2899,
+          "wordCount": 2900,
           "title": "ONU denuncia ‘investigação travada’ sobre assassinato de presidente do Haiti",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/jovenel.jpg"
         },
@@ -553,7 +528,7 @@
           "description": "Chavistas e opositores finalizaram o primeiro ciclo de conversas no marco do Programa Nacional de Convivência Democrática. Foram cinco reuniões presenciais a portas fechadas, em que foi aprovada a metodologia de funcionamento e a instalação de mesas técnicas de trabalho, informa o porta-voz do governo, o presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez. “Para este ciclo, […]\nO post Governo e oposição chegam a acordos na Venezuela sobre reconstrução pós-terremoto e reforma do Judiciário apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/governo-e-oposicao-chegam-a-acordos-na-venezuela-sobre-reconstrucao-pos-terremoto-reforma-do-judiciario-e-renovacao-do-orgao-eleitoral/",
           "publishedOn": "2026-08-17T18:10:39.000Z",
-          "wordCount": 4638,
+          "wordCount": 4640,
           "title": "Governo e oposição chegam a acordos na Venezuela sobre reconstrução pós-terremoto e reforma do Judiciário",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/aperto-de-mao-jorge-rodriguez-dinorah-figuera-5028744a-1024x766-1.webp"
         },
@@ -566,33 +541,6 @@
           "wordCount": 4061,
           "title": "Brasil, China e EUA: não alinhamento ou autonomia estratégica?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/52819348035_94f967e721_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263158",
-          "author": "Tabitha Ramalho",
-          "description": "Milhares de pessoas deslocadas por um potente terremoto no leste da Indonésia no sábado (15/08) ainda aguardavam a chegada de ajuda nesta segunda-feira (17/08). Acampadas diante de escolas, delegacias de polícia e prédios públicos, a população teme réplicas do tremor de 7,7 graus de magnitude que matou 68 pessoas e feriu mais de 100, segundo […]\nO post Terremoto na Indonésia deixa 68 mortos e 12,8 mil deslocados apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/terremoto-na-indonesia-deixa-68-mortos-e-128-mil-deslocados/",
-          "publishedOn": "2026-08-17T17:30:06.000Z",
-          "wordCount": 3282,
-          "title": "Terremoto na Indonésia deixa 68 mortos e 12,8 mil deslocados",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-17-141416-e1786986891515.png"
-        }
-      ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": [
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32485",
-          "author": "De Olho nos Ruralistas",
-          "description": "Primeiro episódio retrata conexões políticas e econômicas do advogado Willer Tomaz, da amizade com Flávio Bolsonaro às relações com parlamentares e com o agronegócio; próximo episódio terá como tema a face agrária da família Dallagnol Por Alceu Luís Castilho e Tonsk Fialho Que Brasil está por trás de personagens como Willer Tomaz? O advogado amigo […]\nO post De Olho nos Ruralistas inaugura série investigativa chamada Brasil Profundo apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/08/14/brasil-profundo/",
-          "publishedOn": "2026-08-14T12:55:41.000Z",
-          "wordCount": 2882,
-          "title": "De Olho nos Ruralistas inaugura série investigativa chamada Brasil Profundo",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/thumb-brasilprofundo-ep1.png"
         }
       ]
     },
@@ -617,7 +565,7 @@
           "description": "A diversidade das presenças destacou o caráter internacionalista da luta. O ato ainda contou com a participação de Ahmed Mulay, embaixador do Saara Ocidental no Brasil e representante da Frente Polisário, Sheik Ali Reza Mirjalili, adido cultural da Embaixada do Irã no Brasil, além de Manuel Vadell, embaixador da Venezuela no Brasil.",
           "link": "https://anovademocracia.com.br/povo-cubano-centenario-de-fidel-castro-ativistas-brasilia/",
           "publishedOn": "2026-08-17T23:01:31.000Z",
-          "wordCount": 8651,
+          "wordCount": 8653,
           "title": "“O povo cubano vai lutar até a morte”; No centenário de Fidel Castro, ativistas reforçam a solidariedade ao povo cubano em Brasília",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-9-1024x768.jpeg"
         },
@@ -657,7 +605,7 @@
           "description": "O massacre de 9 de agosto de 1995 é tratado pela historiografia e pelo movimento camponês com o mesmo padrão de violência agrária de outras situações de despejo forçado e criminalização de quem ocupa terra em disputa, aponta relatório da Comissão Pastoral da Terra (CPT).",
           "link": "https://anovademocracia.com.br/santa-elina-armada-imperialismo-resistencia/",
           "publishedOn": "2026-08-17T18:54:38.000Z",
-          "wordCount": 8521,
+          "wordCount": 8523,
           "title": "Santa Elina: os 31 anos da batalha armada dão um tapa no imperialismo e inspiram a resistência camponesa",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-17-at-13.46.23.jpeg"
         },
@@ -667,7 +615,7 @@
           "description": "AND cobriu o evento e entrevistou lideranças Guarani-Kaiowá e Manoki e o secretário-executivo do Cimi, que denunciaram ataques às retomadas e a atuação das forças de repressão junto a bandos armados do latifúndio; levantamento registra 258 assassinatos de indígenas, alta de 22,3%.",
           "link": "https://anovademocracia.com.br/cimi-indigenas-autodefesa-latifundio-estado/",
           "publishedOn": "2026-08-17T00:37:07.000Z",
-          "wordCount": 9561,
+          "wordCount": 9563,
           "title": "Cimi lança relatório em Brasília; ao AND, indígenas defendem autodefesa e retomadas diante da guerra reacionária do latifúndio e do velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lanamento-do-relatrio-violncia-contra-os-povos-indgenas-no-brasil-dados-de-2025_55464143361_o-1024x576.jpg"
         },
@@ -677,7 +625,7 @@
           "description": "Ativistas apresentaram linha do tempo da ocupação sionista e da Resistência Palestina no quadro “Vozes pela Palestina”, transmitido no Tribuna do Trabalhador.",
           "link": "https://anovademocracia.com.br/mg-comite-mineiro-realiza-edicao-especial-de-programa-sobre-a-palestina/",
           "publishedOn": "2026-08-16T19:55:50.000Z",
-          "wordCount": 7134,
+          "wordCount": 7136,
           "title": "MG: Comitê Mineiro realiza edição especial de programa sobre a Palestina",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-5.jpeg"
         },
@@ -687,7 +635,7 @@
           "description": "Entre as principais exigências estão a recuperação das estradas vicinais utilizadas diariamente pelas famílias para circular, levar crianças às escolas e escoar a produção.",
           "link": "https://anovademocracia.com.br/camponeses-acre-fecham-br-abandono-bujari/",
           "publishedOn": "2026-08-16T19:41:15.000Z",
-          "wordCount": 7494,
+          "wordCount": 7496,
           "title": "Camponeses do Acre fecham BR-364 contra abandono dos ramais em Bujari; moradores pagam máquinas do próprio bolso",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Video-2026-08-06-at-19.09.12-1.mp4",
@@ -702,7 +650,7 @@
           "description": "O programa A Propósito #372 partiu do problema de Ceuta para discutir como guerras, pilhagem imperialista e miséria expulsam massas das nações oprimidas, enquanto milhões de imigrantes engrossam as fileiras mais superexploradas do proletariado, submetidos a salários menores e alvo de crescente repressão.",
           "link": "https://anovademocracia.com.br/imperialismo-explora-proletariado-imigrante/",
           "publishedOn": "2026-08-15T15:59:30.000Z",
-          "wordCount": 10973,
+          "wordCount": 10975,
           "title": "‘Imperialismo produz a migração em massa e lucra com a superexploração do proletariado imigrante’: Liga Anti-imperialista e especialista em direito migratório debatem no ‘A Propósito’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/crise-migratoria-ceuta-1024x683.jpg"
         }
