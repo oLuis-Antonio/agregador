@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "UL2b6t",
+          "author": null,
+          "description": "A crescente descrença dos estadunidenses no capitalismo, na mobilidade social e nas instituições burguesas revela uma profunda crise de hegemonia da ordem imperial dos Estados Unidos",
+          "link": "https://jornalofuturo.com.br/artigo/UL2b6t-a-crise-de-legitimidade-do-capitalismo-estadunidense-e-os-limites-da-ordem-imperial",
+          "publishedOn": "2026-08-19T20:00:00.000Z",
+          "wordCount": 3462,
+          "title": "A crise de legitimidade do capitalismo estadunidense e os limites da ordem imperial",
+          "imageUrl": "https://media.jornalofuturo.com.br/AP25291551721522-1280x853.webp"
+        },
+        {
           "id": "b3hS0r",
           "author": null,
           "description": "A categoria bancária inicia mais uma campanha salarial diante de um cenário marcado por lucros bilionários dos bancos, intensificação da exploração e crescente adoecimento. É possível enfrentar essa ofensiva mantendo a mesma tática sindical que predominou nas últimas décadas?",
@@ -287,6 +297,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=444589",
+          "author": "Eduardo Goulart",
+          "description": "Documentos revelam que empresa da família de Felício Ramuth foi autuada pelo Carf por evasão de divisas, em esquema do caso Banestado\nO post Empresa de vice de Tarcísio foi punida por envio ilegal de dinheiro aos EUA apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/19/empresa-vice-tarcisio-punida-envio-ilegal-dinheiro-eua/",
+          "publishedOn": "2026-08-19T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Empresa de vice de Tarcísio foi punida por envio ilegal de dinheiro aos EUA",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/Ramuth_Banestado_Headerfeat.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/Ramuth_Banestado_Headerfeat.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=444583",
           "author": "Isabella Mota",
           "description": "Anunciado como “legado da COP30”, o data center BEL1 avança em Belém, no Pará, enquanto permanecem sem resposta perguntas sobre licenciamento, consumo de energia, clientes, impactos ambientais no território  e benefícios reais para a população amazônica. Em 9 de julho de 2026, a Secretaria Municipal de Meio Ambiente de Belém informou, por meio do Ofício […]\nO post A promessa de ‘legado da COP30’ em Belém começa com um data center sem licença ambiental  apareceu primeiro em Intercept Brasil.",
@@ -323,6 +348,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=162498",
+          "author": "Catarina Duarte",
+          "description": "Diante de operações policiais, mortes e interrupção da vida cotidiana, organizações de favelas constroem redes próprias de proteção, cuidado, memória e denúncia\nO conteúdo Artigo | Ajuda humanitária nas favelas: quando a guerra não é declarada, mas a população precisa sobreviver Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/artigo-ajuda-humanitaria-nas-favelas-quando-a-guerra-nao-e-declarada-mas-a-populacao-precisa-sobreviver/",
+          "publishedOn": "2026-08-19T17:24:46.000Z",
+          "wordCount": 6118,
+          "title": "Artigo | Ajuda humanitária nas favelas: quando a guerra não é declarada, mas a população precisa sobreviver",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/operacao-policial-baixada-fluminense-tania-rego-agencia-brasil.webp"
+        },
         {
           "id": "https://ponte.org/?p=162418",
           "author": "Paulo Batistella",
@@ -428,12 +463,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263340",
+          "author": "Raissa Neves",
+          "description": "Neste artigo que segue, demonstramos dois fatores complementares do desenvolvimento do poder iraniano contemporâneo. O princípio diplomático “vizinhos primeiro”, onde se dá a integração continental (asiática e eurasiática) na busca pela complementaridade econômica. Outro princípio é o desenvolvimento de bens de produção, da indústria de base, de componentes de alto valor agregado, complementando as lacunas […]\nO post Dois fatores permanentes do poder iraniano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/dois-fatores-permanentes-do-poder-iraniano/",
+          "publishedOn": "2026-08-19T19:51:06.000Z",
+          "wordCount": 4708,
+          "title": "Dois fatores permanentes do poder iraniano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ali_khamenei_azadi_tehran.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263335",
+          "author": "Raissa Neves",
+          "description": "Os anos entre 1939 e 1945 foram duros em praticamente todo o globo. A Segunda Guerra Mundial ceifou a vida de quase 90 milhões de pessoas. Se contarmos os conflitos no Pacífico Asiático, os números são ainda maiores, embora geralmente não sejam incorporados como resultados do grande conflito mundial, europeizado ao ponto de situar seu […]\nO post 1946: o ano do carnaval comunista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/1946-o-ano-do-carnaval-comunista/",
+          "publishedOn": "2026-08-19T19:31:57.000Z",
+          "wordCount": 5269,
+          "title": "1946: o ano do carnaval comunista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/50824808346_b08e6554fa_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263326",
+          "author": "Raissa Neves",
+          "description": "Após mais de dois anos desde a morte da menina palestina Hind Rajab, as Forças de Defesa de Israel (IDF) anunciaram a abertura de uma investigações criminal. Uma revisão do caso apontou “supostas falhas na coordenação da movimentação da ambulância do Crescente Vermelho Palestino”, segundo o comunicado divulgado pelo Exército Israelense nesta quarta-feira (19/08). Vale […]\nO post Exército israelense admite ter atirado contra carro de Hind Rajab, palestina de cinco anos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/exercito-israelense-admite-ter-atirado-contra-carro-de-hind-rajab-palestina-de-cinco-anos/",
+          "publishedOn": "2026-08-19T19:21:14.000Z",
+          "wordCount": 3614,
+          "title": "Exército israelense admite ter atirado contra carro de Hind Rajab, palestina de cinco anos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/whatsapp-image-2026-08-19-at-16.00.52.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263323",
+          "author": "Victor Farinelli",
+          "description": "O presidente do Senado, Davi Alcolumbre (União-AP), assinou os despachos que dão início ao trâmite, nas comissões da Casa, de propostas de interesse do governo. Entre as matérias estão as PECs que tratam da segurança pública e do fim da jornada de trabalho 6×1, além do projeto de lei que estabelece uma política nacional para […]\nO post Senado encaminha para votação fim da escala 6×1 e PEC da Segurança Pública apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/senado-encaminha-para-votacao-fim-da-escala-6x1-e-pec-da-seguranca-publica/",
+          "publishedOn": "2026-08-19T17:20:18.000Z",
+          "wordCount": 3092,
+          "title": "Senado encaminha para votação fim da escala 6×1 e PEC da Segurança Pública",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/lula-davi.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263319",
+          "author": "Tabitha Ramalho",
+          "description": "Uma nova pesquisa da Reuters/Ipsos revelou que cerca de 69% dos norte-americanos — incluindo dois terços dos independentes e nove em cada dez democratas — disseram acreditar que os interesses comerciais privados de Donald Trump estavam influenciando suas decisões presidenciais. Os estadunidenses estão divididos sobre se a corrupção piorou durante o governo Trump em comparação […]\nO post Reuters/Ipsos: 69% dos estadunidenses acreditam que Trump usa governo para interesses comerciais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/reuters-ipsos-69-dos-estadunidenses-acreditam-que-trump-usa-governo-para-interesses-comerciais/",
+          "publishedOn": "2026-08-19T16:40:41.000Z",
+          "wordCount": 3408,
+          "title": "Reuters/Ipsos: 69% dos estadunidenses acreditam que Trump usa governo para interesses comerciais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55472262929_3d7f0d698d_c.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263315",
           "author": "Victor Farinelli",
           "description": "O governo de Javier Milei solicitou aos seus líderes de bancada no Congresso argentino que retirassem da pauta o projeto de reforma política com o qual se pretendia, entre outras coisas, eliminar as chamadas Primárias Abertas Simultâneas e Obrigatórias (conhecidas no país pela sigla PASO). Segundo o diário local Página/12, a Casa Rosada avalia que […]\nO post Para evitar novo fracasso no Congresso, Milei freia projeto de reforma eleitoral apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/para-evitar-novo-fracasso-no-congresso-milei-freia-projeto-de-reforma-eleitoral/",
           "publishedOn": "2026-08-19T15:50:33.000Z",
-          "wordCount": 3153,
+          "wordCount": 3162,
           "title": "Para evitar novo fracasso no Congresso, Milei freia projeto de reforma eleitoral",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/jm.jpg"
         },
@@ -443,7 +528,7 @@
           "description": "A socialista democrática Angie Nixon venceu as primárias democratas da Flórida para o Senado dos Estados Unidos, nesta terça-feira (18/08). Ela derrotou o ex-funcionário de segurança nacional Alex Vindman, que arrecadou 16 vezes mais dinheiro que Nixon e ganhou destaque em 2019 ao depor durante o primeiro impeachment de Trump. Sua vitória ocorreu em um […]\nO post Socialista Angie Nixon vence primária democrata na Flórida apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/socialista-angie-nixon-vence-primaria-democrata-na-florida/",
           "publishedOn": "2026-08-19T15:03:25.000Z",
-          "wordCount": 3616,
+          "wordCount": 3623,
           "title": "Socialista Angie Nixon vence primária democrata na Flórida",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-120144.png"
         },
@@ -453,7 +538,7 @@
           "description": "A República Popular Democrática da Coreia (RPDC) emitiu um alerta severo na quarta-feira (19/08), em meio aos exercícios militares conjuntos anuais entre os EUA e a Coreia do Sul, lembrando a todos do seu direito à autodefesa. “Enquanto nossos inimigos não abandonarem seu sonho temerário de subjugar qualquer um pela força e não cessarem suas […]\nO post Coreia do Norte alerta para ‘ações mais evidentes’ sobre exercícios militares EUA-Coreia do Sul apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-alerta-para-acoes-mais-evidentes-sobre-exercicios-militares-eua-coreia-do-sul/",
           "publishedOn": "2026-08-19T13:20:34.000Z",
-          "wordCount": 3219,
+          "wordCount": 3224,
           "title": "Coreia do Norte alerta para ‘ações mais evidentes’ sobre exercícios militares EUA-Coreia do Sul",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/2faf544a4a2174750f6e11afe74e48e33b62560182fd2d288a0e7d2d23c41705.jpg"
         },
@@ -463,7 +548,7 @@
           "description": "A presidente interina da Venezuela, Delcy Rodríguez, anunciou na terça-feira (18/08) que a nova data para a segunda Consulta Popular Nacional de 2026 será 18 de outubro. Por meio desse mecanismo, a população escolhe projetos que beneficiarão sua comunidade. O anúncio foi feito durante uma videoconferência com o Sistema de Governo Popular e Comunal, na […]\nO post Venezuela adia Consulta Popular Nacional para 18 de outubro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/venezuela-adia-consulta-popular-nacional-para-18-de-outubro/",
           "publishedOn": "2026-08-19T12:35:21.000Z",
-          "wordCount": 3235,
+          "wordCount": 3244,
           "title": "Venezuela adia Consulta Popular Nacional para 18 de outubro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-093426.png"
         },
@@ -473,59 +558,9 @@
           "description": "A disputa por influência na Síria voltou a expor as tensões entre Israel e Turquia. Um dia após bombardeios contra a base aérea síria de Abu al-Duhur, atribuídos pelos Estados Unidos a Israel, o governo turco rejeitou nesta quarta-feira (19/08) as acusações de que estaria se preparando para enviar tropas à Síria. O episódio evidencia […]\nO post Turquia nega envio de tropas à Síria após ataque israelense apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/turquia-nega-envio-de-tropas-a-siria-apos-ataque-israelense/",
           "publishedOn": "2026-08-19T12:17:15.000Z",
-          "wordCount": 3876,
+          "wordCount": 3881,
           "title": "Turquia nega envio de tropas à Síria após ataque israelense",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/copia-de-nao-deletar-fotos-pb-breno-redacao-22.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263293",
-          "author": "Rocio Paik",
-          "description": "O surto de ebola na República Democrática do Congo (RDC) está avançando mais rapidamente do que qualquer epidemia anterior da doença e corre o risco de se espalhar para outros países, alertou nesta terça-feira (18/08) o diretor-geral da Organização Mundial da Saúde (OMS). “Precisamos ser francos: a epidemia está longe de estar sob controle”, afirmou […]\nO post OMS alerta para alto risco de disseminação do ebola em outros países apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/oms-alerta-para-alto-risco-de-disseminacao-do-ebola-na-rd-do-congo-e-outros-paises/",
-          "publishedOn": "2026-08-19T11:00:59.000Z",
-          "wordCount": 3799,
-          "title": "OMS alerta para alto risco de disseminação do ebola em outros países",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ebola_signs_and_symptoms.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263296",
-          "author": "Rocio Paik",
-          "description": "Os Estados Unidos impuseram sanções à presidente do Tribunal Penal Internacional (TPI) e a um advogado sênior do tribunal, informou nesta terça-feira (18/08) o secretário de Estado americano, Marco Rubio. A decisão é a mais recente escalada na campanha do governo do presidente Donald Trump contra o tribunal de Haia, estabelecido em 2002 pela comunidade […]\nO post EUA sancionam presidente do TPI e advogado que mandou prender Netanyahu apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/eua-sancionam-presidente-do-tpi-e-advogado-que-mandou-prender-netanyahu/",
-          "publishedOn": "2026-08-19T10:00:22.000Z",
-          "wordCount": 3722,
-          "title": "EUA sancionam presidente do TPI e advogado que mandou prender Netanyahu",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/international_criminal_court_2018.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263287",
-          "author": "Rocio Paik",
-          "description": "O Hamas acusou nesta terça-feira (18/08) o primeiro-ministro de Israel, Benjamin Netanyahu, de estar minando propositalmente os esforços internacionais para avançar com o plano de paz para a Faixa de Gaza. A posição foi emitida após um ataque israelense atingir uma área portuária ao oeste da Cidade de Gaza, matando pelo menos sete pessoas, incluindo […]\nO post Hamas acusa Netanyahu de sabotar negociações após novo ataque a Gaza apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/hamas-acusa-netanyahu-de-sabotar-negociacoes-apos-novo-ataque-a-gaza/",
-          "publishedOn": "2026-08-19T06:00:47.000Z",
-          "wordCount": 2993,
-          "title": "Hamas acusa Netanyahu de sabotar negociações após novo ataque a Gaza",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/tgug.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263290",
-          "author": "Rocio Paik",
-          "description": "Em meio à mais recente crise nas relações entre Estados Unidos e Coreia do Sul, o Estado-Maior Conjunto (JCS, na sigla em inglês) de Seul confirmou nesta quarta-feira (19/08) que ambas as nações concordaram em encerrar antecipadamente o exercício Ulchi Freedom Shield (UFS) e a reduzir alguns dos treinamentos combinados em campo. A operação anual […]\nO post Coreia do Sul e EUA cancelam maior exercício militar anual e reduzem treinamentos em campo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/coreia-do-sul-e-eua-encerram-maior-exercicio-militar-anual-e-reduzem-treinamentos-em-campo/",
-          "publishedOn": "2026-08-19T04:30:37.000Z",
-          "wordCount": 3403,
-          "title": "Coreia do Sul e EUA cancelam maior exercício militar anual e reduzem treinamentos em campo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hp5fzy8w0aaojlz.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263280",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, está pressionando seus assessores para organizar uma reunião com o líder norte-coreano Kim Jong Un para este ano, de acordo com autoridades norte-americanas consultadas pelo The Wall Street Journal nesta terça-feira (18/08). De acordo com o veículo, um possível encontro, se aceito pelo mandatário asiático, poderia acontecer em […]\nO post Trump pressiona governo por reunião com Kim Jong Un ainda neste ano, afirma jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/trump-pressiona-governo-para-marcar-reuniao-com-kim-jong-un-neste-ano-afirma-jornal/",
-          "publishedOn": "2026-08-19T03:00:33.000Z",
-          "wordCount": 3216,
-          "title": "Trump pressiona governo por reunião com Kim Jong Un ainda neste ano, afirma jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/trump_and_kim_finished_1-on-1_meeting.jpg"
         }
       ]
     },
@@ -533,7 +568,28 @@
       "title": "De Olho nos Ruralistas",
       "feedUrl": "https://deolhonosruralistas.com.br/feed/",
       "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://deolhonosruralistas.com.br/?p=32512",
+          "author": "De Olho nos Ruralistas",
+          "description": "De um lado, uma música com mais de 20 anos de carreira, em Jataí (GO), com cachês normais para o padrão brasileiro; do outro, uma jovem que já entrou no mercado cobrando entre R$ 100 mil e R$ 150 mil por show; a homônima da goiana tem a bênção de uma das empresas mais contratadas […]\nO post Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-talita-mel/",
+          "publishedOn": "2026-08-19T20:21:40.000Z",
+          "wordCount": 3143,
+          "title": "Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/talitavstalita.jpg.jpeg"
+        },
+        {
+          "id": "https://deolhonosruralistas.com.br/?p=32500",
+          "author": "De Olho nos Ruralistas",
+          "description": "Sindicalistas da Bahia, Minas e São Paulo comentam impacto dos dados do relatório e desafios observados pela categoria; observatório realiza live nesta quarta com presidente do Sindimus-MG e cantora que teve nome artístico copiado por “incubada” da produtora Vybbe Por Carolina Bataier Cinco bilhões de reais. Essa é a soma dos cachês pagos por prefeituras […]\nO post Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-sindicatos/",
+          "publishedOn": "2026-08-19T17:28:29.000Z",
+          "wordCount": 2500,
+          "title": "Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/capa-sindicatos.jpeg"
+        }
+      ]
     },
     {
       "title": "A Nova Democracia",
@@ -541,12 +597,52 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=231570",
+          "author": "Redação de AND",
+          "description": "Participantes de diferentes países confeccionaram faixa de mais de seis metros e realizaram atividade em apoio ao PCI (Maoísta); um ano antes, acampamento da AGEB na Grécia homenageou Basavaraj e reuniu debates políticos e culturais. Iniciativas ocorrem em meio ao recrudescimento do interesse pelo marxismo entre a juventude",
+          "link": "https://anovademocracia.com.br/europeus-guerra-popular-india-acampamento/",
+          "publishedOn": "2026-08-19T19:48:05.000Z",
+          "wordCount": 8155,
+          "title": "Revolucionários de toda a Europa se erguem em solidariedade à Guerra Popular na Índia em acampamentos internacionalistas",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-india-1024x577.webp"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231561",
+          "author": "Redação de AND",
+          "description": "Novos comunicados registram confrontos em Abra, Mindoro e Samar, denunciam o Pax Silica e as bases militares ianques e relatam perseguição e resistência de camponeses e povos originários",
+          "link": "https://anovademocracia.com.br/revolucionarios-miitarizacao-filipinas/",
+          "publishedOn": "2026-08-19T18:46:11.000Z",
+          "wordCount": 8554,
+          "title": "Revolucionários denunciam militarização e expansão ianque nas Filipinas enquanto organizações populares ampliam atuação pelo país",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-filipina-1024x768.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231531",
+          "author": "Giovanna Maria",
+          "description": "Candidato a deputado federal pelo Novo defende retorno da PM ao campus e promete “criminalizar” intervenções estudantis; autonomia universitária é assegurada pela Constituição.",
+          "link": "https://anovademocracia.com.br/ao-lado-de-pichacao-sobre-a-lcp-candidato-de-extrema-direita-wilker-leao-promete-ataque-a-autonomia-universitaria-da-unb/",
+          "publishedOn": "2026-08-19T17:57:52.000Z",
+          "wordCount": 8338,
+          "title": "Ao lado de pichação sobre a LCP, candidato de extrema-direita Wilker Leão promete ataque à autonomia universitária da UnB",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-25.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231557",
+          "author": "Redação de AND",
+          "description": "Mobilização ocorreu diante da fábrica da Terma, que produz componentes para caças F-35 utilizados por ‘Israel’ nos ataques contra Gaza; Røde Fanedenuncia criminalização crescente do movimento de solidariedade à Palestina",
+          "link": "https://anovademocracia.com.br/dinamarca-manifestantes-contra-sionismo/",
+          "publishedOn": "2026-08-19T17:36:44.000Z",
+          "wordCount": 7428,
+          "title": "Dinamarca: 141 manifestantes são presos em protesto contra fornecimento de armas à entidade sionista",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-dinamarca.webp"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=231512",
           "author": "Redação de AND",
           "description": "A semana de 10 a 16 de agosto foi marcada pelo recrudescimento dos conflitos fundiários na AMACRO, onde camponeses enfrentam grilagem, ameaças e violência armada. Na Gleba Novo Natal, o TRF-1 restabeleceu a portaria que arrecadou 28,4 mil hectares como terras da União e permitiu ao Incra retomar a destinação da área às famílias da Comunidade Marielle Franco. No mesmo período, mais de 70 organizações realizaram a Semana Nacional de Enfrentamento à Violência no Campo, com mobilizações contra assassinatos, ameaças e ataques do latifúndio, de seus bandos paramilitares e das forças repressivas do velho Estado.",
           "link": "https://anovademocracia.com.br/boletim-novo-brasil-semana-33-2026/",
           "publishedOn": "2026-08-19T02:34:04.000Z",
-          "wordCount": 18429,
+          "wordCount": 18433,
           "title": "Boletim Novo Brasil (Semana 33): Comunidades da AMACRO enfrentam grilagem e repressão; mobilização nacional denuncia crimes do latifúndio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/boletim-novo-brasil-semana-33-2026.jpg"
         },
@@ -556,7 +652,7 @@
           "description": "Contrato milionário, reconhecimento facial racista e conexões com tecnologias nazi-sionistas sustentam aparato de vigilância sobre as massas.",
           "link": "https://anovademocracia.com.br/smartsampa-o-programa-de-perseguicao-e-vigilancia-sobre-as-massas-populares/",
           "publishedOn": "2026-08-18T22:25:32.000Z",
-          "wordCount": 9425,
+          "wordCount": 9429,
           "title": "SmartSampa: o programa de perseguição e vigilância sobre as massas populares",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/01_smartsampa_congonhas.jpg"
         },
@@ -566,7 +662,7 @@
           "description": "O MOU prevê uma atuação maior do órgão com sede em Washington, capital do país Estados Unidos (EUA), no projeto lançado por Luiz Inácio (PT) em maio, o programa “Brasil Contra o Crime Organizado”.",
           "link": "https://anovademocracia.com.br/brasil-bid-crime-organizado-interpol/",
           "publishedOn": "2026-08-18T20:00:00.000Z",
-          "wordCount": 9323,
+          "wordCount": 9327,
           "title": "Acordo entre Brasil e BID prevê R$ 5 bilhões contra o ‘crime organizado’; Interpol realizará ‘cooperação técnica’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-lula-interpol-1024x683.jpg"
         },
@@ -576,7 +672,7 @@
           "description": "A taxa Selic saiu de 2% no fim de 2020 para 14% ao ano, encarecendo tanto o financiamento das empresas quanto o crédito necessário para que os consumidores comprem mercadorias.",
           "link": "https://anovademocracia.com.br/varejistas-crise-capitalismo-burocratico/",
           "publishedOn": "2026-08-18T19:45:00.000Z",
-          "wordCount": 8934,
+          "wordCount": 8938,
           "title": "Monopólios varejistas entram em recuperação fiscal e expõem crise do capitalismo burocrático",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-monopolios.avif"
         },
@@ -586,7 +682,7 @@
           "description": "O objetivo da operação é fazer os cubanos substituírem os considerados “linha-dura” anti-imperialistas, colocando no lugar o que chamaram de “líderes mais pragmáticos e mais receptivos” às exigências de Trump (uma quinta-coluna).",
           "link": "https://anovademocracia.com.br/cia-forca-tarefa-derrubar-cuba/",
           "publishedOn": "2026-08-18T19:09:54.000Z",
-          "wordCount": 8453,
+          "wordCount": 8457,
           "title": "CIA criou força-tarefa secreta visando derrubar o governo cubano, afirma NYT",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-cuba.jpg"
         },
@@ -596,54 +692,9 @@
           "description": "Ao menos três “marines” teriam tentado cometer suicídio se jogando no Mar Arábico e sete teriam morrido durante uma briga generalizada promovida pela escassez de mantimentos no “possante” USS Abraham Lincoln.",
           "link": "https://anovademocracia.com.br/suicidios-porta-avioes-ianque-retirada-mar/",
           "publishedOn": "2026-08-18T19:00:07.000Z",
-          "wordCount": 7421,
+          "wordCount": 7425,
           "title": "‘Pulando da barca’: motins, suicídios e escassez forçam retirada de ‘super porta-aviões’ ianque do Mar Arábico",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-abraham-lincom.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231486",
-          "author": "Redação de AND",
-          "description": "A comandante enfatiza que a “guerra que vivemos hoje é motivada por este vínculo estreito dos traidores com seus carrascos”, reafirmando que continuaram lutando pela libertação da Colômbia, finalizando com o lema “Nem um passo atrás, libertação ou morte!”",
-          "link": "https://anovademocracia.com.br/eln-luta-armada-apos-ameaca-eua/",
-          "publishedOn": "2026-08-18T18:46:41.000Z",
-          "wordCount": 8282,
-          "title": "‘Nem um passo atrás, libertação ou morte!’: ELN reafirma caminho da luta armada após ameaças do EUA",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-10-1024x451.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231473",
-          "author": "Montezuma Cruz",
-          "description": "Após fiscais do Ibama queimarem trator de uso geral, moradores da Comunidade Marielle Franco, de Rio Branco e Vila Caquetá se uniram para fechar o tráfego na rodovia BR-317, na manhã de 18 de agosto.",
-          "link": "https://anovademocracia.com.br/amazonia-moradores-comunidade-fecham-br-317/",
-          "publishedOn": "2026-08-18T15:45:13.000Z",
-          "wordCount": 7656,
-          "title": "Protesto na Amazônia Ocidental: no dia seguinte à queima do trator, moradores da Comunidade Marielle Franco fecham a BR-317",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Video-2026-08-18-at-12.16.15.mp4",
-            "length": "5785040",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-comunidade-marielle-franco-protesto-1.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231457",
-          "author": "Redação de AND",
-          "description": "Ex-comandante afirmou ter colocado tropas especiais na “caça” aos camponeses pobres e reivindicou “contraguerrilha” contra supostos “grupos armados” ligados à LCP. Agora candidato, colocou a organização camponesa na mesma linha de tiro de organizações ligadas ao tráfico de drogas.",
-          "link": "https://anovademocracia.com.br/contraguerrilha-braguin-declara-guerra-lcp/",
-          "publishedOn": "2026-08-18T14:31:10.000Z",
-          "wordCount": 10383,
-          "title": "Após reivindicar ações de ‘contraguerrilha’ do BOPE contra ‘grupos armados’ camponeses, Braguin lança candidatura e declara guerra à LCP",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/regis-braguin-lcp.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231445",
-          "author": "Redação de AND",
-          "description": "Nos 1.042º, 1.043º, 1.044º e 1.045º dias desde o Dilúvio de Al-Aqsa, o Irã anunciou uma mudança em sua postura militar diante das violações ianques ao Memorando de Islamabad, com um comandante do Corpo de Guardiões da Revolução Islâmica (CGRI) advertindo que “o inimigo deve esperar surpresas estratégicas”. Na Faixa de Gaza, Jared Kushner reuniu-se diretamente com o chefe do Hamas, Khalil al-Hayya, mas a posterior maratona de negociações com Netanyahu terminou sem qualquer compromisso sionista de retirar tropas dos cerca de 60% do território palestino ainda ocupados. No Iêmen, as Forças Armadas afirmaram ter destruído um navio de desembarque saudita e atingido embarcações de escolta, enquanto no Sul do Líbano a nova escalada sionista assassinou 11 pessoas, entre elas três crianças.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-17-08-2026/",
-          "publishedOn": "2026-08-18T11:39:49.000Z",
-          "wordCount": 9924,
-          "title": "Plantão Palestina (14–17/08): ‘O inimigo deve esperar surpresas estratégicas’, adverte comandante iraniano; ‘Israel’ bloqueia retirada de Gaza",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Plantao-Palestina.jpg"
         }
       ]
     },
@@ -653,12 +704,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3201443",
+          "author": "Lucas Scatolini",
+          "description": "Estudo tenta entender como se dá, no país, a “rotulagem”, etapa essencial para dar sentido às respostas dos modelos. Estado delega trabalho a empresas tecnológicas. Rotuladores têm profissão reconhecida. Viés político valoriza coesão e orgulho nacionais e pune atitudes cínicas\nThe post Assim a China treina suas IAs appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/assim-a-china-treina-suas-ias/",
+          "publishedOn": "2026-08-19T20:12:39.000Z",
+          "wordCount": 4980,
+          "title": "Assim a China treina suas IAs",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/frame-70-1.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201460",
+          "author": "Kauany Rocha",
+          "description": "Neste final de semana, 3º Festival Literário Floc Vento Leste convida o público a reafirmar a literatura como espaço de encontro, criação e resistência. Edição promove seu primeiro concurso de poesia falada. Programação vai muito além de uma feira literária…\nThe post SP: Festa de poesia urbana na Zona Leste appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/sp-festa-de-poesia-urbana-na-zona-leste/",
+          "publishedOn": "2026-08-19T19:36:32.000Z",
+          "wordCount": 4601,
+          "title": "SP: Festa de poesia urbana na Zona Leste",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4913711722619669704_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201465",
+          "author": "Kauany Rocha",
+          "description": "Elon Musk soa como um fanático que perpetua sonhos de domínio e subjugação. Idealiza fugir ao espaço e substituir a inteligência humana. Assim o homo sapiens cria as condições de seu próprio fim. Restará aos trabalhadores a missão de construir algo mais digno\nThe post Suicídio da espécie: a distopia final appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/suicidio-da-especie-a-distopia-final/",
+          "publishedOn": "2026-08-19T19:20:38.000Z",
+          "wordCount": 4973,
+          "title": "Suicídio da espécie: a distopia final",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/2858933.webp"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3201223",
           "author": "Lucas Scatolini",
           "description": "Nos anos 1980, um episódio da financeirização global abriu as portas para nosso retrocesso – mas o falta de um projeto de país a prolonga há quatro décadas. Surgem novas condições para revertê-la. Quais são elas e como aproveitá-las?\nThe post A reprimarização do Brasil e a possível virada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/reprimarizacao-do-brasil-e-a-possivel-virada/",
           "publishedOn": "2026-08-18T21:37:23.000Z",
-          "wordCount": 4612,
+          "wordCount": 4684,
           "title": "A reprimarização do Brasil e a possível virada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo19.jpg"
         },
@@ -668,7 +749,7 @@
           "description": "Pressionadas pela China, big techs aderem momentaneamente aos “sistemas de pesos abertos”. Afinal, eles ampliam ou enfraquecem a segurança? Como OpenAI e Anthropic tentam estabelecer novo oligopólio? E por que seus argumentos de “pirataria” tornaram-se insustentáveis?\nThe post IA: Os EUA ensaiam um recuo? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-por-que-os-eua-ensaiam-um-recuo/",
           "publishedOn": "2026-08-18T21:35:20.000Z",
-          "wordCount": 6941,
+          "wordCount": 6924,
           "title": "IA: Os EUA ensaiam um recuo?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/covers-2.png"
         },
@@ -678,7 +759,7 @@
           "description": "Há seis anos, morria o bispo que enfrentou a ditadura e os ruralistas do Araguaia. Dizia-se ser um homem da palavra e tão poeta quanto sacerdote. Sua obra rechaça o hermetismo: é tecida junto às dores do povo e um chamado à resistência e esperança\nThe post A poesia encarnada de Pedro Casaldáliga appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/a-poesia-encarnada-de-pedro-casaldaliga/",
           "publishedOn": "2026-08-18T21:07:49.000Z",
-          "wordCount": 6441,
+          "wordCount": 6442,
           "title": "A poesia encarnada de Pedro Casaldáliga",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-14.jpeg"
         },
@@ -708,7 +789,7 @@
           "description": "Documento encomendado pela COP30 e lançado hoje, em Brasília, demonstra: deixar para trás o modelo do “Agro” e transitar para soluções agroecológicas é ponto-chave para enfrentar o desmatamento e superar a era dos combustíveis fósseis. Leia a introdução e baixe o texto, na íntegra\nThe post Clima: por que a saída está na Agricultura Familiar appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/clima-por-que-a-saida-esta-na-agricultura-familiar/",
           "publishedOn": "2026-08-18T19:36:17.000Z",
-          "wordCount": 4563,
+          "wordCount": 4566,
           "title": "Clima: por que a saída está na Agricultura Familiar",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4911512287047257360_y.jpg"
         },
@@ -721,36 +802,6 @@
           "wordCount": 4499,
           "title": "Lula vencerá com as armas do passado?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/49069605322465641931.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201221",
-          "author": "Lucas Scatolini",
-          "description": "Casa Branca autoriza empresas estadunidenses a vigiar e interferir em redes estrangeiras, no âmbito de nova “guerra ao terror”. No Brasil, brecha é aberta a pretexto da “caça ao PCC”. Como o movimento ameaça as eleições? De que forma o país pode se prevenir?\nThe post A nova ameaça de Trump contra o Brasil appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/a-nova-ameaca-de-trump-contra-o-brasil/",
-          "publishedOn": "2026-08-17T21:33:33.000Z",
-          "wordCount": 7058,
-          "title": "A nova ameaça de Trump contra o Brasil",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-17-at-18-32-04-imrs.php-imagem-JPEG-1440-%C3%97-810-pixels-Redimensionada-80.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201219",
-          "author": "Lucas Scatolini",
-          "description": "O totalitarismo do século XX retorna com nova parafernália tecnológica e reflete-se nas escolas. Moldados pelas telas e redes sociais, como os alunos percebem sua própria época e desenvolvem ideias críticas? Quem “doutrina” mais: o professor de História ou o influencer?\nThe post Educação: as Humanidades diante do colapso appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/educacao-as-humanidades-diante-do-colapso/",
-          "publishedOn": "2026-08-17T19:33:17.000Z",
-          "wordCount": 6309,
-          "title": "Educação: as Humanidades diante do colapso",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4906960532246564139_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201234",
-          "author": "Rôney Rodrigues",
-          "description": "Historiador mostra como os grandes barcos a vela europeus foram tecnologias essenciais para o capitalismo. E a organização coletiva de marinheiros contra Estados e o capital no século XVII, que levou à criação de “democracias piratas”\nThe post Rediker: o navio, a fábrica antes da fábrica appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/rediker-o-navio-a-fabrica-antes-da-fabrica/",
-          "publishedOn": "2026-08-17T19:21:01.000Z",
-          "wordCount": 9465,
-          "title": "Rediker: o navio, a fábrica antes da fábrica",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/iStock-909045422-1920.jpg"
         }
       ]
     },
@@ -812,7 +863,7 @@
           "description": "A apropriação crítica dos impactos da tecnologia sobre o trabalho e as possibilidades de reorganização econômica pós-capitalista têm sido debates centrais das ciências sociais contemporâneas. Nesse contexto, a obra de Aaron Benanav emerge como uma das contribuições mais originais e provocadoras da última década. Leia a entrevista com o autor de \"Automação e o futuro do trabalho\".",
           "link": "https://blogdaboitempo.com.br/2026/08/19/a-esquerda-precisa-fazer-mais-para-imaginar-o-futuro-entrevista-com-aaron-benanav/",
           "publishedOn": "2026-08-19T11:00:00.000Z",
-          "wordCount": 14264,
+          "wordCount": 14412,
           "title": "“A esquerda precisa fazer mais para imaginar o futuro” – entrevista com Aaron Benanav",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/aaron-benanav_c2a9mateus-rodrigues_editora-boitempo_01.jpg?fit=1200%2C800&ssl=1"
         },
@@ -822,9 +873,9 @@
           "description": "Anita Prestes: \"Como sempre no Brasil, chegava-se a um compromisso, resultado da correlação de forças então presente: nem os setores democráticos e populares, junto aos quais o PCB adquiria penetração crescente, tiveram força para alcançar o adiamento das eleições presidenciais para depois da promulgação da nova Carta, nem os setores golpistas de direita puderam reverter inteiramente o processo de democratização da sociedade brasileira, apesar de sabidamente tal processo ter se  mostrado frágil e inconsequente, mesmo com a promulgação da Constituição de 1946, em que importantes conquistas democráticas ficariam inscritas.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/18/os-comunistas-e-a-assembleia-constituinte-de-1946-80-anos-da-constituicao-democratica/",
           "publishedOn": "2026-08-18T21:26:38.000Z",
-          "wordCount": 17793,
+          "wordCount": 17801,
           "title": "Os comunistas e a Assembleia Constituinte de 1946: 80 anos da Constituição Democrática",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/image-7.png"
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/prestes-marighella-gregorio-na-constituinte-de-46.jpg"
         }
       ]
     }
