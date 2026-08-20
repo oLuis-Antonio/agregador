@@ -327,6 +327,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=444608",
+          "author": "Isabella Mota",
+          "description": "Sob o pretexto de combater o narcotráfico, iniciativa de extrema direita de Donald Trump avança sobre a região e ameaça a soberania do Brasil.\nO post Escudo das Américas: como Trump está usando a guerra às drogas para dominar América Latina apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/20/trump-guerra-drogas-america-latina/",
+          "publishedOn": "2026-08-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Escudo das Américas: como Trump está usando a guerra às drogas para dominar América Latina",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/wide-4.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/wide-4.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=444589",
           "author": "Eduardo Goulart",
           "description": "Documentos revelam que empresa da família de Felício Ramuth foi autuada pelo Carf por evasão de divisas, em esquema do caso Banestado\nO post Empresa de vice de Tarcísio foi punida por envio ilegal de dinheiro aos EUA apareceu primeiro em Intercept Brasil.",
@@ -488,6 +503,36 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263395",
+          "author": "Tabitha Ramalho",
+          "description": "O governo espanhol começou nesta quinta-feira (20/08) a transferir migrantes que permaneciam em acampamentos improvisados ou nas ruas de Ceuta para espaços temporários de acolhimento. A ação acontece quase três semanas depois da entrada em massa registrada nos dias 30 e 31 de julho. A primeira operação teve início com as pessoas que estavam na […]\nO post Espanha realoca migrantes em Ceuta; 500 menores devem ser transferidos para o continente apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/espanha-realoca-migrantes-em-ceuta-500-menores-devem-ser-transferidos-para-o-continente/",
+          "publishedOn": "2026-08-20T12:51:20.000Z",
+          "wordCount": 4988,
+          "title": "Espanha realoca migrantes em Ceuta; 500 menores devem ser transferidos para o continente",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/conferencia-infancia-migrante-1106.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263385",
+          "author": "Rocio Paik",
+          "description": "O ex-ministro da Defesa ucraniano, Mykhailo Fedorov, declarou, nesta quarta-feira (19/08), que a Ucrânia deve realizar novas eleições presidenciais. Ele pediu a busca por um “mecanismo legal, seguro e realista” que permita à Ucrânia “retomar um processo democrático pleno, mesmo em meio à guerra em curso”. Mykhailo Fedorov foi recentemente afastado pelo presidente ucraniano, Volodymyr […]\nO post Ex-ministro da Defesa da Ucrânia pressiona Zelensky por novas eleições apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ex-ministro-da-defesa-da-ucrania-pressiona-zelensky-por-novas-eleicoes/",
+          "publishedOn": "2026-08-20T11:00:49.000Z",
+          "wordCount": 3227,
+          "title": "Ex-ministro da Defesa da Ucrânia pressiona Zelensky por novas eleições",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpdbx2gxsaabsfl-scaled.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263388",
+          "author": "Rocio Paik",
+          "description": "A França e a Alemanha condenaram nesta quarta-feira (19/08) as declarações do ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, que defendeu a realização de assassinatos em Gaza e afirmou que Israel deveria matar “30 ou 40” pessoas “todas as noites” no território palestino. O chefe da diplomacia francesa, Jean-Noël Barrot, reagiu às declarações do […]\nO post França e Alemanha condenam declarações de ministro israelense que defendeu mortes em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/franca-e-alemanha-condenam-declaracoes-de-ministro-israelense-que-defendeu-mortes-em-gaza/",
+          "publishedOn": "2026-08-20T10:00:59.000Z",
+          "wordCount": 3464,
+          "title": "França e Alemanha condenam declarações de ministro israelense que defendeu mortes em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/itamar_ben_gvir_3_cropped_cropped.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263392",
           "author": "Rocio Paik",
           "description": "O governo da República Democrática do Congo (RDC) elevou o número de casos confirmados de ebola para 5.105 e o número de mortes para 2.420. De acordo com o último boletim do Ministério da Saúde Pública na quarta-feira (19/08), a epidemia que atingiu o leste do país africano foi consolidada como a segunda pior da […]\nO post RD do Congo ultrapassa cinco mil casos confirmados de ebola apareceu primeiro em Opera Mundi.",
@@ -503,7 +548,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta quarta-feira (19/08) um novo ataque contra o Irã, o que ele descreveu como a “operação econômica mais devastadora já realizada contra qualquer país”, tendo como objetivo isolar financeiramente a República Islâmica e cortar seus canais de apoio externo. Segundo ele, a economia iraniana está à beira […]\nO post Trump anuncia ‘operação econômica mais devastadora’ contra Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-anuncia-operacao-economica-mais-devastadora-contra-ira/",
           "publishedOn": "2026-08-20T05:30:27.000Z",
-          "wordCount": 3145,
+          "wordCount": 3147,
           "title": "Trump anuncia ‘operação econômica mais devastadora’ contra Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55470921403_6619cf9945_k.jpg"
         },
@@ -513,7 +558,7 @@
           "description": "A situação em Qusra parece ter chegado a um impasse. Pela segunda semana consecutiva, palestinos permanecem confinados em suas próprias casas por colonos israelenses que os impedem de sair. O Exército está presente nos arredores dessa aldeia da Cisjordânia, mas ainda não retirou os agressores. Uma tenda para jornalistas foi montada em uma encosta com […]\nO post Famílias palestinas sitiadas por colonos na Cisjordânia vivem sem água, luz e internet apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/familias-palestinas-sitiadas-por-colonos-na-cisjordania-vivem-sem-agua-luz-e-internet/",
           "publishedOn": "2026-08-20T04:00:15.000Z",
-          "wordCount": 4084,
+          "wordCount": 4086,
           "title": "Famílias palestinas sitiadas por colonos na Cisjordânia vivem sem água, luz e internet",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-221159.png"
         },
@@ -523,7 +568,7 @@
           "description": "Um levantamento da Articulação dos Povos Indígenas do Brasil (Apib) indica que as Eleições 2026 contarão com o maior número de candidaturas indígenas já registradas no Brasil. Segundo a organização, 191 postulantes aos cargos em disputa declararam ao Tribunal Superior Eleitoral (TSE) que descendem de povos originários. O total representa menos de 1% de todos […]\nO post Eleições de 2026 no Brasil registram recorde de candidaturas indígenas, aponta Apib apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/eleicoes-de-2026-no-brasil-registram-recorde-de-candidaturas-indigenas-aponta-apib/",
           "publishedOn": "2026-08-20T02:30:21.000Z",
-          "wordCount": 3573,
+          "wordCount": 3575,
           "title": "Eleições de 2026 no Brasil registram recorde de candidaturas indígenas, aponta Apib",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/img_5118.jpg_1.webp"
         },
@@ -533,7 +578,7 @@
           "description": "Matéria atualizada às 02h47, 20 de agosto de 2026 A chefe do Departamento de Assuntos Gerais do Partido dos Trabalhadores da Coreia do Norte, Kim Yo Jong, indicou desconhecer sobre as supostas comunicações alegadas pelo presidente norte-americano Donald Trump com o seu irmão, o líder norte-coreano Kim Jong Un. Em comunicado emitido nesta quarta-feira (19/08), […]\nO post Trump diz manter ‘boa relação’ com Coreia do Norte porque país tem ‘57 armas nucleares muito poderosas’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/trump-diz-que-se-da-bem-com-coreia-do-norte-por-ter-57-armas-nucleares-muito-poderosas/",
           "publishedOn": "2026-08-20T01:00:38.000Z",
-          "wordCount": 4017,
+          "wordCount": 4019,
           "title": "Trump diz manter ‘boa relação’ com Coreia do Norte porque país tem ‘57 armas nucleares muito poderosas’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55472081411_e457f25caf_k.jpg"
         },
@@ -543,7 +588,7 @@
           "description": "A Rússia realizou uma série de bombardeios durante a noite desta quarta-feira (19/08) em Kiev, de acordo com o prefeito da capital ucraniana, Vitali Klichko. De acordo com a autoridade, o lançamento de mísseis balísticos nos distritos de Sviatoshinskii e Darnitskii provocou um incêndio em instalações localizadas em áreas não residenciais. Além disso, outro incêndio […]\nO post Rússia lança ataque massivo com mísseis balísticos contra instalações em Kiev apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-lanca-ataque-massivo-com-misseis-balisticos-contra-instalacoes-em-kiev/",
           "publishedOn": "2026-08-19T23:38:45.000Z",
-          "wordCount": 2995,
+          "wordCount": 2997,
           "title": "Rússia lança ataque massivo com mísseis balísticos contra instalações em Kiev",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/6a861f43e9ff713dcc07b8e4.jpeg"
         },
@@ -553,39 +598,9 @@
           "description": "O presidente do Brasil Luiz Inácio Lula da Silva reafirmou, nesta quarta-feira (19/08), o compromisso do governo federal em manter os investimentos no Programa Nuclear da Marinha (PNM) e no Programa de Desenvolvimento de Submarinos (PROSUB). A declaração foi feita durante uma visita ao Centro Industrial Nuclear de Aramar (CINA), em Iperó (SP), onde está […]\nO post Lula reforça investimentos no programa nuclear da Marinha para submarino brasileiro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-reforca-investimentos-no-programa-nuclear-da-marinha-para-submarino-brasileiro/",
           "publishedOn": "2026-08-19T21:50:51.000Z",
-          "wordCount": 3863,
+          "wordCount": 3865,
           "title": "Lula reforça investimentos no programa nuclear da Marinha para submarino brasileiro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/pres-lula-visita-centro-industrial-nuclear-ricardostuckert-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263348",
-          "author": "Victor Farinelli",
-          "description": "A administração de Gaza, realizada pelo Hamas, denunciou nesta quarta-feira (19/08) uma nova série de ataques israelenses contra o campo de refugiados de Nuseirat, um dos locais com maior aglomeração de pessoas no centro do território palestino. Segundo o comunicado, ao menos dez civis palestinos foram mortos pelos bombardeios, e outros 15 ficaram feridos. A […]\nO post Hamas denuncia ataque israelense contra campo de refugiados: ‘novo crime de guerra’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/hamas-denuncia-ataque-israelense-contra-campo-de-refugiados-novo-crime-de-guerra/",
-          "publishedOn": "2026-08-19T21:07:02.000Z",
-          "wordCount": 3122,
-          "title": "Hamas denuncia ataque israelense contra campo de refugiados: ‘novo crime de guerra’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/arab-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263344",
-          "author": "Raissa Neves",
-          "description": "Há 143 anos, em 19 de agosto de 1883, nascia a estilista e empresária francesa Coco Chanel, uma das figuras mais influentes da história da moda. Ela foi responsável por construir um império bilionário no mercado de luxo e ajudou a renovar o vestuário feminino, popularizando roupas mais simples e funcionais. Se a contribuição de […]\nO post Coco Chanel e o nazismo: a moda de luxo a serviço da barbárie apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/coco-chanel-e-o-nazismo-a-moda-de-luxo-a-servico-da-barbarie/",
-          "publishedOn": "2026-08-19T20:40:49.000Z",
-          "wordCount": 6079,
-          "title": "Coco Chanel e o nazismo: a moda de luxo a serviço da barbárie",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/coco_chanel_in_los_angeles_1931_cropped.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263327",
-          "author": "Victor Farinelli",
-          "description": "A tentativa frustrada de feminicídio contra a advogada Nadia Beller se tornou o principal tema do noticiário na Bolívia após a sobrevivente do atentado publicar um depoimento nas redes sociais, nesta terça-feira (18/08) com revelações contra seu ex-namorado, o influenciador e consultor político argentino Fernando Cerimedo, acusado de ser o mandante do ataque ao que […]\nO post Assessor ligado a Milei e clã Bolsonaro é acusado de conspirar contra Evo Morales apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/assessor-ligado-a-milei-e-cla-bolsonaro-e-acusado-de-plano-contra-evo-morales/",
-          "publishedOn": "2026-08-19T20:00:38.000Z",
-          "wordCount": 3423,
-          "title": "Assessor ligado a Milei e clã Bolsonaro é acusado de conspirar contra Evo Morales",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/cerimedo.jpg"
         }
       ]
     },
@@ -595,12 +610,22 @@
       "siteUrl": "https://deolhonosruralistas.com.br/",
       "articles": [
         {
+          "id": "https://deolhonosruralistas.com.br/?p=32525",
+          "author": "De Olho nos Ruralistas",
+          "description": "Governo do Rio bancou 17 apresentações do pagodeiro entre julho de 2024 e janeiro de 2026; político e artista são filiados ao PL; em 2022, Belo fez show da campanha à reeleição e outro de aniversário do ex-governador, hoje investigado pela Polícia Federal Por Alceu Luís Castilho e Carolina Bataier Amigo pessoal do ex-governador Cláudio […]\nO post Belo recebeu R$ 7 milhões em cachês durante governo do amigo Cláudio Castro apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/20/belo-recebeu-r-7-milhoes-em-caches-durante-governo-do-amigo-claudio-castro/",
+          "publishedOn": "2026-08-20T12:12:45.000Z",
+          "wordCount": 2635,
+          "title": "Belo recebeu R$ 7 milhões em cachês durante governo do amigo Cláudio Castro",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/774059080_1599973938266531_5135287237955347401_n.jpg"
+        },
+        {
           "id": "https://deolhonosruralistas.com.br/?p=32512",
           "author": "De Olho nos Ruralistas",
           "description": "De um lado, uma música com mais de 20 anos de carreira, em Jataí (GO), com cachês normais para o padrão brasileiro; do outro, uma jovem que já entrou no mercado cobrando entre R$ 100 mil e R$ 150 mil por show; a homônima da goiana tem a bênção de uma das empresas mais contratadas […]\nO post Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião apareceu primeiro em De Olho nos Ruralistas.",
           "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-talita-mel/",
           "publishedOn": "2026-08-19T20:21:40.000Z",
-          "wordCount": 3142,
+          "wordCount": 3143,
           "title": "Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/talitavstalita.jpg.jpeg"
         },
@@ -627,9 +652,9 @@
           "description": "A população luta contra construtoras que estão instalando resorts e praticando crimes ambientais na região. Moradores também denunciam o assédio de órgãos públicos através de multas injustificadas aos pescadores, causando sua expulsão da praia.",
           "link": "https://anovademocracia.com.br/pb-denuncia-moradores-construtoras-expulsao/",
           "publishedOn": "2026-08-20T04:44:04.000Z",
-          "wordCount": 7458,
+          "wordCount": null,
           "title": "PB: Moradores da Praia da Penha denunciam construtoras e expulsão de pescadores",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/arquivo-1-foto-capa.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231383",
@@ -637,9 +662,9 @@
           "description": "AND cobriu evento do Cimi em Brasília, em que Luis Ventura Fernández denunciou a participação crescente das polícias na “violência que mata” indígenas, camponeses e quilombolas; liderança Guarani-Kaiowá detalha ataque direto de agentes contra comunidade no Mato Grosso do Sul.",
           "link": "https://anovademocracia.com.br/forcas-repressao-latifundio-secretario-cimi/",
           "publishedOn": "2026-08-19T22:23:50.000Z",
-          "wordCount": 7429,
+          "wordCount": null,
           "title": "Forças de repressão vão ‘se adicionando’ aos bandos armados do latifúndio, afirma secretário-executivo do Cimi",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lanamento-do-relatrio-violncia-contra-os-povos-indgenas-no-brasil-dados-de-2025_55464266223_o-1024x617.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231570",
@@ -647,9 +672,9 @@
           "description": "Participantes de diferentes países confeccionaram faixa de mais de seis metros e realizaram atividade em apoio ao PCI (Maoísta); um ano antes, acampamento da AGEB na Grécia homenageou Basavaraj e reuniu debates políticos e culturais. Iniciativas ocorrem em meio ao recrudescimento do interesse pelo marxismo entre a juventude",
           "link": "https://anovademocracia.com.br/europeus-guerra-popular-india-acampamento/",
           "publishedOn": "2026-08-19T19:48:05.000Z",
-          "wordCount": 8150,
+          "wordCount": null,
           "title": "Revolucionários de toda a Europa se erguem em solidariedade à Guerra Popular na Índia em acampamentos internacionalistas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-india-1024x577.webp"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231561",
@@ -657,9 +682,9 @@
           "description": "Novos comunicados registram confrontos em Abra, Mindoro e Samar, denunciam o Pax Silica e as bases militares ianques e relatam perseguição e resistência de camponeses e povos originários",
           "link": "https://anovademocracia.com.br/revolucionarios-miitarizacao-filipinas/",
           "publishedOn": "2026-08-19T18:46:11.000Z",
-          "wordCount": 8546,
+          "wordCount": null,
           "title": "Revolucionários denunciam militarização e expansão ianque nas Filipinas enquanto organizações populares ampliam atuação pelo país",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-filipina-1024x768.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231531",
@@ -667,9 +692,9 @@
           "description": "Candidato a deputado federal pelo Novo defende retorno da PM ao campus e promete “criminalizar” intervenções estudantis; autonomia universitária é assegurada pela Constituição.",
           "link": "https://anovademocracia.com.br/pichacao-lcp-wilker-leao-extrema-direita/",
           "publishedOn": "2026-08-19T17:57:52.000Z",
-          "wordCount": 8498,
+          "wordCount": null,
           "title": "‘Viva a Revolução Agrária!’: indignado com pichação, candidato baderneiro de extrema direita Wilker Leão criminaliza estudantes e ataca direitos democráticos nas universidades",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-25.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231557",
@@ -677,9 +702,9 @@
           "description": "Mobilização ocorreu diante da fábrica da Terma, que produz componentes para caças F-35 utilizados por ‘Israel’ nos ataques contra Gaza; Røde Fanedenuncia criminalização crescente do movimento de solidariedade à Palestina",
           "link": "https://anovademocracia.com.br/dinamarca-manifestantes-contra-sionismo/",
           "publishedOn": "2026-08-19T17:36:44.000Z",
-          "wordCount": 7425,
+          "wordCount": null,
           "title": "Dinamarca: 141 manifestantes são presos em protesto contra fornecimento de armas à entidade sionista",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-dinamarca.webp"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231512",
@@ -687,9 +712,9 @@
           "description": "A semana de 10 a 16 de agosto foi marcada pelo recrudescimento dos conflitos fundiários na AMACRO, onde camponeses enfrentam grilagem, ameaças e violência armada. Na Gleba Novo Natal, o TRF-1 restabeleceu a portaria que arrecadou 28,4 mil hectares como terras da União e permitiu ao Incra retomar a destinação da área às famílias da Comunidade Marielle Franco. No mesmo período, mais de 70 organizações realizaram a Semana Nacional de Enfrentamento à Violência no Campo, com mobilizações contra assassinatos, ameaças e ataques do latifúndio, de seus bandos paramilitares e das forças repressivas do velho Estado.",
           "link": "https://anovademocracia.com.br/boletim-novo-brasil-semana-33-2026/",
           "publishedOn": "2026-08-19T02:34:04.000Z",
-          "wordCount": 18430,
+          "wordCount": null,
           "title": "Boletim Novo Brasil (Semana 33): Comunidades da AMACRO enfrentam grilagem e repressão; mobilização nacional denuncia crimes do latifúndio",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/boletim-novo-brasil-semana-33-2026.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231520",
@@ -697,9 +722,9 @@
           "description": "Contrato milionário, reconhecimento facial racista e conexões com tecnologias nazi-sionistas sustentam aparato de vigilância sobre as massas.",
           "link": "https://anovademocracia.com.br/smartsampa-o-programa-de-perseguicao-e-vigilancia-sobre-as-massas-populares/",
           "publishedOn": "2026-08-18T22:25:32.000Z",
-          "wordCount": 9426,
+          "wordCount": null,
           "title": "SmartSampa: o programa de perseguição e vigilância sobre as massas populares",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/01_smartsampa_congonhas.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231507",
@@ -707,9 +732,9 @@
           "description": "O MOU prevê uma atuação maior do órgão com sede em Washington, capital do país Estados Unidos (EUA), no projeto lançado por Luiz Inácio (PT) em maio, o programa “Brasil Contra o Crime Organizado”.",
           "link": "https://anovademocracia.com.br/brasil-bid-crime-organizado-interpol/",
           "publishedOn": "2026-08-18T20:00:00.000Z",
-          "wordCount": 9324,
+          "wordCount": null,
           "title": "Acordo entre Brasil e BID prevê R$ 5 bilhões contra o ‘crime organizado’; Interpol realizará ‘cooperação técnica’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-lula-interpol-1024x683.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=231501",
@@ -717,9 +742,9 @@
           "description": "A taxa Selic saiu de 2% no fim de 2020 para 14% ao ano, encarecendo tanto o financiamento das empresas quanto o crédito necessário para que os consumidores comprem mercadorias.",
           "link": "https://anovademocracia.com.br/varejistas-crise-capitalismo-burocratico/",
           "publishedOn": "2026-08-18T19:45:00.000Z",
-          "wordCount": 8935,
+          "wordCount": null,
           "title": "Monopólios varejistas entram em recuperação fiscal e expõem crise do capitalismo burocrático",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-monopolios.avif"
+          "imageUrl": null
         }
       ]
     },
@@ -734,7 +759,7 @@
           "description": "Planejamento é sucateado. Mesmo em governos progressistas, crescimento econômico não se traduz em melhorias urbanas. Como superar espoliações e construir políticas voltadas ao Direito à Cidade? Novo livro resgata e atualiza um clássico da sociologia urbana\nThe post São Paulo, riqueza e desigualdades appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/sp-riqueza-e-desigualdade/",
           "publishedOn": "2026-08-19T21:36:10.000Z",
-          "wordCount": 10669,
+          "wordCount": 10658,
           "title": "São Paulo, riqueza e desigualdades",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-17.jpeg"
         },
@@ -744,7 +769,7 @@
           "description": "Por que tantas pessoas defendem a concentração extrema de riqueza, mesmo sendo prejudicadas – e veem a taxação de fortunas como ataque à liberdade? Como os rostos e as causas das injustiças são camuflados? Uma psicóloga ajuda a compreender estas distorções\nThe post A armadilha psicológica que protege os super-ricos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/a-armadilha-psicologica-que-protege-os-super-ricos/",
           "publishedOn": "2026-08-19T21:34:51.000Z",
-          "wordCount": 5739,
+          "wordCount": 5742,
           "title": "A armadilha psicológica que protege os super-ricos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/ELON-MUSK-tesla.png"
         },
@@ -764,7 +789,7 @@
           "description": "Estudo tenta entender como se dá, no país, a “rotulagem”, etapa essencial para dar sentido às respostas dos modelos. Estado delega trabalho a empresas tecnológicas. Rotuladores têm profissão reconhecida. Viés político valoriza coesão e orgulho nacionais e pune atitudes cínicas\nThe post Assim a China treina suas IAs appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/assim-a-china-treina-suas-ias/",
           "publishedOn": "2026-08-19T20:12:39.000Z",
-          "wordCount": 4969,
+          "wordCount": 4972,
           "title": "Assim a China treina suas IAs",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/frame-70-1.png"
         },
@@ -784,7 +809,7 @@
           "description": "Elon Musk soa como um fanático que perpetua sonhos de domínio e subjugação. Idealiza fugir ao espaço e substituir a inteligência humana. Assim o homo sapiens cria as condições de seu próprio fim. Restará aos trabalhadores a missão de construir algo mais digno\nThe post Suicídio da espécie: a distopia final appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/suicidio-da-especie-a-distopia-final/",
           "publishedOn": "2026-08-19T19:20:38.000Z",
-          "wordCount": 4981,
+          "wordCount": 4973,
           "title": "Suicídio da espécie: a distopia final",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/2858933.webp"
         },
@@ -794,7 +819,7 @@
           "description": "Nos anos 1980, um episódio da financeirização global abriu as portas para nosso retrocesso – mas o falta de um projeto de país a prolonga há quatro décadas. Surgem novas condições para revertê-la. Quais são elas e como aproveitá-las?\nThe post A reprimarização do Brasil e a possível virada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/reprimarizacao-do-brasil-e-a-possivel-virada/",
           "publishedOn": "2026-08-18T21:37:23.000Z",
-          "wordCount": 4672,
+          "wordCount": 4675,
           "title": "A reprimarização do Brasil e a possível virada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo19.jpg"
         },
@@ -804,7 +829,7 @@
           "description": "Pressionadas pela China, big techs aderem momentaneamente aos “sistemas de pesos abertos”. Afinal, eles ampliam ou enfraquecem a segurança? Como OpenAI e Anthropic tentam estabelecer novo oligopólio? E por que seus argumentos de “pirataria” tornaram-se insustentáveis?\nThe post IA: Os EUA ensaiam um recuo? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-por-que-os-eua-ensaiam-um-recuo/",
           "publishedOn": "2026-08-18T21:35:20.000Z",
-          "wordCount": 6924,
+          "wordCount": 6921,
           "title": "IA: Os EUA ensaiam um recuo?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/covers-2.png"
         },
@@ -814,7 +839,7 @@
           "description": "Há seis anos, morria o bispo que enfrentou a ditadura e os ruralistas do Araguaia. Dizia-se ser um homem da palavra e tão poeta quanto sacerdote. Sua obra rechaça o hermetismo: é tecida junto às dores do povo e um chamado à resistência e esperança\nThe post A poesia encarnada de Pedro Casaldáliga appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/a-poesia-encarnada-de-pedro-casaldaliga/",
           "publishedOn": "2026-08-18T21:07:49.000Z",
-          "wordCount": 6442,
+          "wordCount": 6439,
           "title": "A poesia encarnada de Pedro Casaldáliga",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-14.jpeg"
         },
@@ -824,7 +849,7 @@
           "description": "Revitalizar prédios é demanda antiga de movimentos por moradia. Mas o atual programa entregou só 7% à faixa mais pobre e virou política de valorização privada. Objetivo não deveria ser apenas “reformar”, mas garantir permanência de quem vive e trabalha na região\nThe post O centro de SP precisa de <i>retrofit</i>? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/o-centro-de-sp-precisa-de-retrofit/",
           "publishedOn": "2026-08-18T20:28:10.000Z",
-          "wordCount": 4913,
+          "wordCount": 4916,
           "title": "O centro de SP precisa de retrofit?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4911512287047257386_w.jpg"
         }
@@ -862,6 +887,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=65890",
+          "author": "Boitempo",
+          "description": "No aniversário de Roberto Schwarz, Fabio Mascaro Querido faz um convite à leitura de sua obra: \"Mais do que o crítico que provocou uma reviravolta na análise de Machado de Assis, Schwarz é responsável por uma verdadeira interpretação do Brasil, a qual se destaca por seu ceticismo em relação às possibilidades da modernização capitalista.\"",
+          "link": "https://blogdaboitempo.com.br/2026/08/20/por-que-ler-roberto-schwarz/",
+          "publishedOn": "2026-08-20T11:00:00.000Z",
+          "wordCount": 13379,
+          "title": "Por que ler Roberto Schwarz?",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/roberto_sesc.jpg"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=66103",
           "author": "Boitempo",
