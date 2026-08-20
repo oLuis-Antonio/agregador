@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "MgjsfY",
+          "author": null,
+          "description": "Os recordes nas compras chinesas de soja brasileira evidenciam menos um avanço rumo à soberania econômica do que a permanência da inserção dependente do Brasil na divisão internacional do trabalho.",
+          "link": "https://jornalofuturo.com.br/artigo/MgjsfY-china-agronegocio-e-dependencia-brasileira",
+          "publishedOn": "2026-08-20T20:00:00.000Z",
+          "wordCount": 1805,
+          "title": "China, agronegócio e dependência brasileira",
+          "imageUrl": "https://media.jornalofuturo.com.br/Abertura-Nacional-do-Plantio-da-Soja-Fotos-Frank-N%C3%83%C2%A9ry-19.09-228-1280x853.jpg"
+        },
+        {
           "id": "UL2b6t",
           "author": null,
           "description": "A crescente descrença dos estadunidenses no capitalismo, na mobilidade social e nas instituições burguesas revela uma profunda crise de hegemonia da ordem imperial dos Estados Unidos",
@@ -42,6 +52,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6a8747f6551676dd41e7c253",
+          "author": "Secretaria Nacional de Mulheres do PSTU",
+          "description": "Você já recebeu seu salário e, poucos dias depois, se viu refém da calculadora, tentando descobrir qual necessidade básica terá que cortar? \nA inflação dos alimentos corrói o prato. O aluguel consome metade da renda.",
+          "link": "https://opiniaosocialista.com.br/por-que-o-salario-acaba-e-o-mes-continua-e-por-que-propor-menos-direitos-para-ganhar-mais-nao-e-a-saida/",
+          "publishedOn": "2026-08-20T18:51:41.000Z",
+          "wordCount": 2450,
+          "title": "Por que o salário acaba e o mês continua e por que propor “menos direitos para ganhar mais” não é a saída",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/nota-secretaria-mulheres-pstu-1.webp"
+        },
         {
           "id": "6a84ee378ebc79031a15a7b7",
           "author": "Renata França",
@@ -119,6 +139,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Mais-de-100-mortos-em-mina-na-Republica-Centro-Africana-ouro-para-exportacao-morte-para-os",
+          "author": "Redação",
+          "description": "Mais de 100 trabalhadores morreram após o desabamento de uma mina artesanal de ouro em Zamboye, no oeste da República Centro-Africana, localidade próxima à fronteira com Camarões. O acidente ocorreu na terça-feira (18), soterrando trabalhadores que atuavam em túneis subterrâneos. O número de vítimas tende a aumentar, já que há pessoas desaparecidas sob os escombros. \n Mais de 100 trabalhadores morreram após o desabamento de uma mina artesanal de ouro em Zamboye, no oeste da República (…)\n20-08-2026\n\n/ Internacional, África, Mineração",
+          "link": "https://www.esquerdadiario.com.br/Mais-de-100-mortos-em-mina-na-Republica-Centro-Africana-ouro-para-exportacao-morte-para-os",
+          "publishedOn": "2026-08-20T17:33:09.000Z",
+          "wordCount": null,
+          "title": "Mais de 100 mortos em mina na República Centro-Africana: ouro para exportação, morte para os trabalhadores",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Todo-apoio-a-paralisacao-nacional-dos-bancarios-nesta-quinta",
           "author": "Bancários do MRT",
@@ -503,12 +533,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263421",
+          "author": "Raissa Neves",
+          "description": "O Departamento do Tesouro dos Estados Unidos divulgou nesta quarta-feira (19/08) dados de que a dívida pública bruta do país ultrapassou pela primeira vez a marca de US$ 40 trilhões (cerca de R$ 207,93 trilhões). O novo recorde intensifica o debate em Washington sobre o crescimento dos gastos públicos, o custo do financiamento do governo […]\nO post Dívida dos EUA bate recorde de US$ 40 trilhões nos governos Trump e Biden apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/divida-dos-eua-bate-recorde-de-us-40-trilhoes-nos-governos-trump-e-biden/",
+          "publishedOn": "2026-08-20T20:00:32.000Z",
+          "wordCount": 4318,
+          "title": "Dívida dos EUA bate recorde de US$ 40 trilhões nos governos Trump e Biden",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/david-everett-strickler-igcbfrmd11i-unsplash-2-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263439",
+          "author": "Raissa Neves",
+          "description": "Nos últimos tempos, despontam notícias de crimes brutais cometidos por jovens, especialmente adolescentes, transmitidos ao vivo em plataformas digitais. Crimes que se dirigem a vítimas extremamente vulneráveis: animais, crianças mais novas, por vezes até mesmo bebês. Mais do que a transmissão, as condições objetivas e subjetivas para a realização de tais atos são cultivadas nos […]\nO post Infância e violência nas redes sociais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/infancia-e-violencia-nas-redes-sociais/",
+          "publishedOn": "2026-08-20T19:58:04.000Z",
+          "wordCount": 6292,
+          "title": "Infância e violência nas redes sociais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/51203949789_dc540af3e8_z.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263423",
+          "author": "Tabitha Ramalho",
+          "description": "O ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, publicou um vídeo mostrando a construção de um futuro “centro de enforcamento” de presos nos centros do país, mas que será utilizado contra palestinos condenados por crimes de terrorismo, excluindo extremistas israelenses acusados de delitos semelhantes. Nas redes sociais, Ben-Gvir divulgou um vídeo de uma visita […]\nO post Ministro israelense divulga vídeo de estrutura para execuções de presos palestinos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/ministro-israelense-divulga-video-de-estrutura-para-execucoes-de-presos-palestinos/",
+          "publishedOn": "2026-08-20T19:20:44.000Z",
+          "wordCount": 3114,
+          "title": "Ministro israelense divulga vídeo de estrutura para execuções de presos palestinos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-20-153656.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263420",
+          "author": "Victor Farinelli",
+          "description": "Enquanto o Exército israelense continua realizando ataques diários no sul do Líbano – os bombardeios do fim de semana deixaram 11 mortos, entre eles crianças –, a região também vem sendo devastada por numerosos incêndios. Moradores, ONGs e integrantes da Defesa Civil acusam Israel de ser responsável pelas queimadas e de adotar uma estratégia de […]\nO post Em meio a incêndios no sul do Líbano, moradores acusam Israel de queimadas deliberadas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/em-meio-a-incendios-no-sul-do-libano-moradores-acusam-israel-de-queimadas-deliberadas/",
+          "publishedOn": "2026-08-20T18:40:52.000Z",
+          "wordCount": 3633,
+          "title": "Em meio a incêndios no sul do Líbano, moradores acusam Israel de queimadas deliberadas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/incendio.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263407",
+          "author": "Raissa Neves",
+          "description": "Há 23 anos, o governo Lula iniciava a implementação do “Programa Um Milhão de Cisternas” (P1MC). O objetivo central do programa era garantir a segurança hídrica das famílias que vivem no Semiárido brasileiro, uma região historicamente marcada por secas prolongadas e por períodos de grave escassez de água. O programa promoveu a construção em larga […]\nO post Um Milhão de Cisternas: programa que transformou o Semiárido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/um-milhao-de-cisternas-o-programa-que-transformou-o-semiarido/",
+          "publishedOn": "2026-08-20T18:00:53.000Z",
+          "wordCount": 4511,
+          "title": "Um Milhão de Cisternas: programa que transformou o Semiárido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/31-01-cisterna1-768x510-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263406",
+          "author": "Tabitha Ramalho",
+          "description": "A China e a Coreia do Sul deram novos passos para recuperar o diálogo bilateral durante a visita do ministro das Relações Exteriores chinês, Wang Yi, a Seul, encerrada nesta quinta-feira (20/08). A viagem aconteceu em um momento de tensão na península coreana e de disputa crescente entre Estados Unidos e China pela influência na […]\nO post China e Coreia do Sul retomam diálogo em meio a tensões de ambos países com EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/china-e-coreia-do-sul-retomam-dialogo-em-meio-a-tensoes-de-ambos-paises-com-eua/",
+          "publishedOn": "2026-08-20T17:10:30.000Z",
+          "wordCount": 4734,
+          "title": "China e Coreia do Sul retomam diálogo em meio a tensões de ambos países com EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/coreia-china-951704af.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263408",
           "author": "Victor Farinelli",
           "description": "As primárias do Partido Republicano vêm registrando uma tendência negativa para o presidente dos Estados Unidos, Donald Trump, já que muitos pré-candidatos apoiados por ele foram derrotados nas disputas internas, relativas as eleições de meio termo. Um levantamento do jornal The New York Times (NYT) mostra que políticos escolhidos por Trump para concorrer a cargos […]\nO post EUA: candidatos apoiados por Trump perdem nas primárias republicanas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-candidatos-apoiados-por-trump-perdem-nas-primarias-republicanas/",
           "publishedOn": "2026-08-20T16:30:27.000Z",
-          "wordCount": 3368,
+          "wordCount": 3364,
           "title": "EUA: candidatos apoiados por Trump perdem nas primárias republicanas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/trump-1.jpg"
         },
@@ -518,7 +608,7 @@
           "description": "Os governos do Egito, Catar e Turquia condenaram nesta quinta-feira (20/08) a mais recente agressão de Israel contra palestinos na Faixa de Gaza, que resultou na morte e em ferimentos de vários civis, incluindo mulheres e crianças, e afirmaram que os ataques israelenses já prejudicam os esforços regionais e internacionais para implementar o plano abrangente […]\nO post Egito, Catar e Turquia condenam novos ataques israelenses que mataram dez palestinos em Gaza apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/egito-catar-e-turquia-condenam-novos-ataques-israelenses-que-mataram-dez-palestinos-em-gaza/",
           "publishedOn": "2026-08-20T15:49:26.000Z",
-          "wordCount": 3464,
+          "wordCount": 3460,
           "title": "Egito, Catar e Turquia condenam novos ataques israelenses que mataram dez palestinos em Gaza",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/wafaimage-9.jpg"
         },
@@ -528,7 +618,7 @@
           "description": "O Irã reagiu duramente ao anúncio do presidente dos EUA, Donald Trump, de uma suposta “operação econômica ainda mais devastadora” contra o país persa. O ministro das Relações Exteriores do Irã, Abbas Araghchi, descreveu, nesta quinta-feira (20/08), o chamado “Dia D econômico” como uma manobra para desviar a atenção da crise que, segundo ele, os […]\nO post Irã acusa Trump de ‘terrorismo econômico’ após ofensiva comercial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-acusa-trump-de-terrorismo-economico-apos-ofensiva-comercial/",
           "publishedOn": "2026-08-20T13:31:06.000Z",
-          "wordCount": 3104,
+          "wordCount": 3114,
           "title": "Irã acusa Trump de ‘terrorismo econômico’ após ofensiva comercial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/960px-dr._seyed_abbas_araghchi_51102694356_cropped.jpg"
         },
@@ -538,69 +628,9 @@
           "description": "O governo espanhol começou nesta quinta-feira (20/08) a transferir migrantes que permaneciam em acampamentos improvisados ou nas ruas de Ceuta para espaços temporários de acolhimento. A ação acontece quase três semanas depois da entrada em massa registrada nos dias 30 e 31 de julho. A primeira operação teve início com as pessoas que estavam na […]\nO post Espanha realoca migrantes em Ceuta e transfere ao menos 500 menores para o país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/espanha-realoca-migrantes-em-ceuta-e-transfere-ao-menos-500-menores-para-o-pais/",
           "publishedOn": "2026-08-20T12:51:20.000Z",
-          "wordCount": 5010,
+          "wordCount": 5006,
           "title": "Espanha realoca migrantes em Ceuta e transfere ao menos 500 menores para o país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/conferencia-infancia-migrante-1106.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263385",
-          "author": "Rocio Paik",
-          "description": "O ex-ministro da Defesa ucraniano, Mykhailo Fedorov, declarou, nesta quarta-feira (19/08), que a Ucrânia deve realizar novas eleições presidenciais. Ele pediu a busca por um “mecanismo legal, seguro e realista” que permita à Ucrânia “retomar um processo democrático pleno, mesmo em meio à guerra em curso”. Mykhailo Fedorov foi recentemente afastado pelo presidente ucraniano, Volodymyr […]\nO post Ex-ministro da Defesa da Ucrânia pressiona Zelensky por novas eleições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ex-ministro-da-defesa-da-ucrania-pressiona-zelensky-por-novas-eleicoes/",
-          "publishedOn": "2026-08-20T11:00:49.000Z",
-          "wordCount": 3226,
-          "title": "Ex-ministro da Defesa da Ucrânia pressiona Zelensky por novas eleições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpdbx2gxsaabsfl-scaled.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263388",
-          "author": "Rocio Paik",
-          "description": "A França e a Alemanha condenaram nesta quarta-feira (19/08) as declarações do ministro da Segurança Nacional de Israel, Itamar Ben-Gvir, que defendeu a realização de assassinatos em Gaza e afirmou que Israel deveria matar “30 ou 40” pessoas “todas as noites” no território palestino. O chefe da diplomacia francesa, Jean-Noël Barrot, reagiu às declarações do […]\nO post França e Alemanha condenam declarações de ministro israelense que defendeu mortes em Gaza apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/franca-e-alemanha-condenam-declaracoes-de-ministro-israelense-que-defendeu-mortes-em-gaza/",
-          "publishedOn": "2026-08-20T10:00:59.000Z",
-          "wordCount": 3463,
-          "title": "França e Alemanha condenam declarações de ministro israelense que defendeu mortes em Gaza",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/itamar_ben_gvir_3_cropped_cropped.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263392",
-          "author": "Rocio Paik",
-          "description": "O governo da República Democrática do Congo (RDC) elevou o número de casos confirmados de ebola para 5.105 e o número de mortes para 2.420. De acordo com o último boletim do Ministério da Saúde Pública na quarta-feira (19/08), a epidemia que atingiu o leste do país africano foi consolidada como a segunda pior da […]\nO post RD do Congo ultrapassa cinco mil casos confirmados de ebola apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/rd-do-congo-ultrapassa-cinco-mil-casos-confirmados-de-ebola/",
-          "publishedOn": "2026-08-20T06:30:11.000Z",
-          "wordCount": 2993,
-          "title": "RD do Congo ultrapassa cinco mil casos confirmados de ebola",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/disinfection_ebola_outbreak_1995.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263382",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta quarta-feira (19/08) um novo ataque contra o Irã, o que ele descreveu como a “operação econômica mais devastadora já realizada contra qualquer país”, tendo como objetivo isolar financeiramente a República Islâmica e cortar seus canais de apoio externo. Segundo ele, a economia iraniana está à beira […]\nO post Trump anuncia ‘operação econômica mais devastadora’ contra Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-anuncia-operacao-economica-mais-devastadora-contra-ira/",
-          "publishedOn": "2026-08-20T05:30:27.000Z",
-          "wordCount": 3143,
-          "title": "Trump anuncia ‘operação econômica mais devastadora’ contra Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55470921403_6619cf9945_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263374",
-          "author": "Rocio Paik",
-          "description": "A situação em Qusra parece ter chegado a um impasse. Pela segunda semana consecutiva, palestinos permanecem confinados em suas próprias casas por colonos israelenses que os impedem de sair. O Exército está presente nos arredores dessa aldeia da Cisjordânia, mas ainda não retirou os agressores. Uma tenda para jornalistas foi montada em uma encosta com […]\nO post Famílias palestinas sitiadas por colonos na Cisjordânia vivem sem água, luz e internet apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/familias-palestinas-sitiadas-por-colonos-na-cisjordania-vivem-sem-agua-luz-e-internet/",
-          "publishedOn": "2026-08-20T04:00:15.000Z",
-          "wordCount": 4085,
-          "title": "Famílias palestinas sitiadas por colonos na Cisjordânia vivem sem água, luz e internet",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-221159.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263366",
-          "author": "Rocio Paik",
-          "description": "Um levantamento da Articulação dos Povos Indígenas do Brasil (Apib) indica que as Eleições 2026 contarão com o maior número de candidaturas indígenas já registradas no Brasil. Segundo a organização, 191 postulantes aos cargos em disputa declararam ao Tribunal Superior Eleitoral (TSE) que descendem de povos originários. O total representa menos de 1% de todos […]\nO post Eleições de 2026 no Brasil registram recorde de candidaturas indígenas, aponta Apib apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/eleicoes-de-2026-no-brasil-registram-recorde-de-candidaturas-indigenas-aponta-apib/",
-          "publishedOn": "2026-08-20T02:30:21.000Z",
-          "wordCount": 3574,
-          "title": "Eleições de 2026 no Brasil registram recorde de candidaturas indígenas, aponta Apib",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/img_5118.jpg_1.webp"
         }
       ]
     },
@@ -647,12 +677,52 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=231599",
+          "author": "Redação de AND",
+          "description": "Em desdobramento do A Propósito #371, Victor Bellizia afirmou que a interferência ianque não ocorre contra o pleito, mas por meio dele, e que a particularidade de 2026 é o caráter aberto assumido por uma dominação antes exercida sob formas menos ostensivas.",
+          "link": "https://anovademocracia.com.br/imperialismo-ingerencia-farsa-eleicoes-and/",
+          "publishedOn": "2026-08-20T20:17:47.000Z",
+          "wordCount": 7628,
+          "title": "‘O imperialismo sempre intervém nas eleições; agora a ingerência está escancarada’: diretor-geral de AND analisa farsa eleitoral",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-20-eleicao.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231637",
+          "author": "Redação de AND",
+          "description": "A associação entre luta pela terra e “guerrilha” não é nova. O coronel reformado Fernando Montenegro, ex-oficial do destacamento de contraterrorismo das Forças Especiais. chama áreas da LCP de “base de guerrilha”, “guerra irregular”, “guerra híbrida”, e diz que a LCP estaria numa “primeira fase de preparação” de uma insurgência e numa “transição perigosa para a segunda fase da guerrilha”.",
+          "link": "https://anovademocracia.com.br/guerrilha-pollon-indigenas-terroristas-ms/",
+          "publishedOn": "2026-08-20T19:28:45.000Z",
+          "wordCount": 9931,
+          "title": "‘Técnicas de guerrilha’: deputado Pollon chama Guarani-Kaiowá de ‘terroristas’ enquanto indígenas são atacados em retomadas no MS",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Deputado-Pollo-1024x576.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231629",
+          "author": "Redação de AND",
+          "description": "Segundo uma fonte sionista ouvida pela CNN e citada pela Al Mayadeen, Netanyahu afirmou durante as conversas que avançar com o roteiro representa um “problema” para ele por causa das eleições de outubro e deixou claro que não pretende alterar sua política de assassinatos com drones em Gaza.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-20-08-2026/",
+          "publishedOn": "2026-08-20T18:56:17.000Z",
+          "wordCount": 10027,
+          "title": "Plantão Palestina (18–19/08): Hamas acusa Netanyahu de sabotar acordo após massacre em Gaza; Irã nega negociações diretas com EUA",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Plantao-Palestina2.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=231608",
+          "author": "Redação de AND",
+          "description": "Alto Comando tenta limpar sua imagem e apresentar-se como “antigolpista”, mas foi ele próprio o berço da serpente golpista, desde 2015, quando aprofundou a intervenção militar na vida política da Nação e nas eleições. Em 2022, não rejeitou o golpismo: divergiu de Bolsonaro sobre o método, o ritmo e as condições da ruptura da ordem constitucional.",
+          "link": "https://anovademocracia.com.br/forcas-armadas-politica-bolsonaro-golpistas/",
+          "publishedOn": "2026-08-20T16:42:58.000Z",
+          "wordCount": 10845,
+          "title": "‘Trincheira antigolpista’? Ex-comandante da Aeronáutica lança livro para ocultar a intervenção militar das Forças Armadas na vida política nacional e lançar toda a culpa sobre Bolsonaro",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-golpismo-acfa.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=231606",
           "author": "Redação de AND",
           "description": "“Quando eu chegava, ela já estava lá”: crônicas do trabalho persistente e cotidiano de quem fez da propaganda da imprensa popular e democrática uma tarefa de toda a vida.",
           "link": "https://anovademocracia.com.br/cronica-do-agitador-ela-ja-estava-la/",
           "publishedOn": "2026-08-20T14:59:57.000Z",
-          "wordCount": 7500,
+          "wordCount": 7513,
           "title": "Crônica do agitador: Ela já estava lá",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-20-cronica-do-agitador-2.jpg"
         },
@@ -662,7 +732,7 @@
           "description": "A população luta contra construtoras que estão instalando resorts e praticando crimes ambientais na região. Moradores também denunciam o assédio de órgãos públicos através de multas injustificadas aos pescadores, causando sua expulsão da praia.",
           "link": "https://anovademocracia.com.br/pb-denuncia-moradores-construtoras-expulsao/",
           "publishedOn": "2026-08-20T04:44:04.000Z",
-          "wordCount": 7451,
+          "wordCount": 7464,
           "title": "PB: Moradores da Praia da Penha denunciam construtoras e expulsão de pescadores",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/arquivo-1-foto-capa.jpg"
         },
@@ -672,7 +742,7 @@
           "description": "AND cobriu evento do Cimi em Brasília, em que Luis Ventura Fernández denunciou a participação crescente das polícias na “violência que mata” indígenas, camponeses e quilombolas; liderança Guarani-Kaiowá detalha ataque direto de agentes contra comunidade no Mato Grosso do Sul.",
           "link": "https://anovademocracia.com.br/forcas-repressao-latifundio-secretario-cimi/",
           "publishedOn": "2026-08-19T22:23:50.000Z",
-          "wordCount": 7422,
+          "wordCount": 7435,
           "title": "Forças de repressão vão ‘se adicionando’ aos bandos armados do latifúndio, afirma secretário-executivo do Cimi",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lanamento-do-relatrio-violncia-contra-os-povos-indgenas-no-brasil-dados-de-2025_55464266223_o-1024x617.jpg"
         },
@@ -682,7 +752,7 @@
           "description": "Participantes de diferentes países confeccionaram faixa de mais de seis metros e realizaram atividade em apoio ao PCI (Maoísta); um ano antes, acampamento da AGEB na Grécia homenageou Basavaraj e reuniu debates políticos e culturais. Iniciativas ocorrem em meio ao recrudescimento do interesse pelo marxismo entre a juventude",
           "link": "https://anovademocracia.com.br/europeus-guerra-popular-india-acampamento/",
           "publishedOn": "2026-08-19T19:48:05.000Z",
-          "wordCount": 8143,
+          "wordCount": 8156,
           "title": "Revolucionários de toda a Europa se erguem em solidariedade à Guerra Popular na Índia em acampamentos internacionalistas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-india-1024x577.webp"
         },
@@ -692,7 +762,7 @@
           "description": "Novos comunicados registram confrontos em Abra, Mindoro e Samar, denunciam o Pax Silica e as bases militares ianques e relatam perseguição e resistência de camponeses e povos originários",
           "link": "https://anovademocracia.com.br/revolucionarios-miitarizacao-filipinas/",
           "publishedOn": "2026-08-19T18:46:11.000Z",
-          "wordCount": 8539,
+          "wordCount": 8552,
           "title": "Revolucionários denunciam militarização e expansão ianque nas Filipinas enquanto organizações populares ampliam atuação pelo país",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-filipina-1024x768.jpg"
         },
@@ -702,49 +772,9 @@
           "description": "Candidato a deputado federal pelo Novo defende retorno da PM ao campus e promete “criminalizar” intervenções estudantis; autonomia universitária é assegurada pela Constituição.",
           "link": "https://anovademocracia.com.br/pichacao-lcp-wilker-leao-extrema-direita/",
           "publishedOn": "2026-08-19T17:57:52.000Z",
-          "wordCount": 8491,
+          "wordCount": 8504,
           "title": "‘Viva a Revolução Agrária!’: indignado com pichação, candidato baderneiro de extrema direita Wilker Leão criminaliza estudantes e ataca direitos democráticos nas universidades",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-25.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231557",
-          "author": "Redação de AND",
-          "description": "Mobilização ocorreu diante da fábrica da Terma, que produz componentes para caças F-35 utilizados por ‘Israel’ nos ataques contra Gaza; Røde Fanedenuncia criminalização crescente do movimento de solidariedade à Palestina",
-          "link": "https://anovademocracia.com.br/dinamarca-manifestantes-contra-sionismo/",
-          "publishedOn": "2026-08-19T17:36:44.000Z",
-          "wordCount": 7418,
-          "title": "Dinamarca: 141 manifestantes são presos em protesto contra fornecimento de armas à entidade sionista",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-19-dinamarca.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231512",
-          "author": "Redação de AND",
-          "description": "A semana de 10 a 16 de agosto foi marcada pelo recrudescimento dos conflitos fundiários na AMACRO, onde camponeses enfrentam grilagem, ameaças e violência armada. Na Gleba Novo Natal, o TRF-1 restabeleceu a portaria que arrecadou 28,4 mil hectares como terras da União e permitiu ao Incra retomar a destinação da área às famílias da Comunidade Marielle Franco. No mesmo período, mais de 70 organizações realizaram a Semana Nacional de Enfrentamento à Violência no Campo, com mobilizações contra assassinatos, ameaças e ataques do latifúndio, de seus bandos paramilitares e das forças repressivas do velho Estado.",
-          "link": "https://anovademocracia.com.br/boletim-novo-brasil-semana-33-2026/",
-          "publishedOn": "2026-08-19T02:34:04.000Z",
-          "wordCount": 18535,
-          "title": "Boletim Novo Brasil (Semana 33): Comunidades da AMACRO enfrentam grilagem e repressão; mobilização nacional denuncia crimes do latifúndio",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/boletim-novo-brasil-semana-33-2026.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231520",
-          "author": "Redação de AND",
-          "description": "Contrato milionário, reconhecimento facial racista e conexões com tecnologias nazi-sionistas sustentam aparato de vigilância sobre as massas.",
-          "link": "https://anovademocracia.com.br/smartsampa-o-programa-de-perseguicao-e-vigilancia-sobre-as-massas-populares/",
-          "publishedOn": "2026-08-18T22:25:32.000Z",
-          "wordCount": 9419,
-          "title": "SmartSampa: o programa de perseguição e vigilância sobre as massas populares",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/01_smartsampa_congonhas.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231507",
-          "author": "Redação de AND",
-          "description": "O MOU prevê uma atuação maior do órgão com sede em Washington, capital do país Estados Unidos (EUA), no projeto lançado por Luiz Inácio (PT) em maio, o programa “Brasil Contra o Crime Organizado”.",
-          "link": "https://anovademocracia.com.br/brasil-bid-crime-organizado-interpol/",
-          "publishedOn": "2026-08-18T20:00:00.000Z",
-          "wordCount": 9317,
-          "title": "Acordo entre Brasil e BID prevê R$ 5 bilhões contra o ‘crime organizado’; Interpol realizará ‘cooperação técnica’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-18-lula-interpol-1024x683.jpg"
         }
       ]
     },
@@ -754,12 +784,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3201573",
+          "author": "Lucas Scatolini",
+          "description": "Invasão da Venezuela expõe vulnerabilidade do Brasil e importância do reaparelhamento militar. Mas precisa vir acompanhada de reforma das Forças Armadas, para não fortalecer nem os privilégios castrenses, nem possíveis aventuras antidemocráticas\nThe post Lula e a Defesa: proteger o país sem atiçar o militarismo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/lula-e-a-defesa-proteger-o-pais-sem-aticar-o-militarismo/",
+          "publishedOn": "2026-08-20T20:06:04.000Z",
+          "wordCount": 5280,
+          "title": "Lula e a Defesa: proteger o país sem atiçar o militarismo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4915963522433354944_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201565",
+          "author": "Lucas Scatolini",
+          "description": "Há uma aparente paralisia cultural. Nunca tivemos acesso a uma quantidade tão vasta de filmes, músicas e livros, mas as indicações “personalizadas” impedem a experiência com o novo. A verdadeira censura algorítmica não é proibir, mas tornar invisível o que não aprendemos a procurar\nThe post A era do <i>streaming</i> é o reino da mesmice? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/a-era-do-streaming-e-o-reino-da-mesmice/",
+          "publishedOn": "2026-08-20T19:32:35.000Z",
+          "wordCount": 3751,
+          "title": "A era do streaming é o reino da mesmice?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4915963522433354939_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201563",
+          "author": "Rôney Rodrigues",
+          "description": "Cidade congela valor para locação de um milhão de imóveis. Como inquilinos se organizaram e desmascararam a especulação. A aposta do prefeito na educação cidadã para enfrentar a burocracia municipal. E as novas lutas por moradia digna que podem emergir\nThe post Aluguel: Assim Mamdani enfrenta a crise de moradia appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/aluguel-assim-mamdani-enfrenta-a-crise-de-moradia/",
+          "publishedOn": "2026-08-20T19:10:14.000Z",
+          "wordCount": 6746,
+          "title": "Aluguel: Assim Mamdani enfrenta a crise de moradia",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/25met-rent-freeze-wtk-01-qwcj-facebookJumbo.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3201458",
           "author": "Kauany Rocha",
           "description": "Planejamento é sucateado. Mesmo em governos progressistas, crescimento econômico não se traduz em melhorias urbanas. Como superar espoliações e construir políticas voltadas ao Direito à Cidade? Novo livro resgata e atualiza um clássico da sociologia urbana\nThe post São Paulo, riqueza e desigualdades appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/sp-riqueza-e-desigualdade/",
           "publishedOn": "2026-08-19T21:36:10.000Z",
-          "wordCount": 10661,
+          "wordCount": 10730,
           "title": "São Paulo, riqueza e desigualdades",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-17.jpeg"
         },
@@ -769,7 +829,7 @@
           "description": "Por que tantas pessoas defendem a concentração extrema de riqueza, mesmo sendo prejudicadas – e veem a taxação de fortunas como ataque à liberdade? Como os rostos e as causas das injustiças são camuflados? Uma psicóloga ajuda a compreender estas distorções\nThe post A armadilha psicológica que protege os super-ricos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/a-armadilha-psicologica-que-protege-os-super-ricos/",
           "publishedOn": "2026-08-19T21:34:51.000Z",
-          "wordCount": 6001,
+          "wordCount": 6004,
           "title": "A armadilha psicológica que protege os super-ricos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/ELON-MUSK-tesla.png"
         },
@@ -779,7 +839,7 @@
           "description": "Há sinais de grande descoberta. Mas riqueza petroleira do Brasil é desperdiçada em privatização, juros, royalties desiguais e captura dos lucros da Petrobras. Não faltam saídas – políticas, econômicas e ambientais. Falta tirar o país da depressão\nThe post Petróleo no Amapá: saída ou ilusão? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/petroleo-no-amapa-saida-ou-ilusao/",
           "publishedOn": "2026-08-19T21:30:13.000Z",
-          "wordCount": 4305,
+          "wordCount": 4306,
           "title": "Petróleo no Amapá: saída ou ilusão?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4913711722619669734.jpg"
         },
@@ -799,7 +859,7 @@
           "description": "Neste final de semana, 3º Festival Literário Floc Vento Leste convida o público a reafirmar a literatura como espaço de encontro, criação e resistência. Edição promove seu primeiro concurso de poesia falada. Programação vai muito além de uma feira literária…\nThe post SP: Festa de poesia urbana na Zona Leste appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/sp-festa-de-poesia-urbana-na-zona-leste/",
           "publishedOn": "2026-08-19T19:36:32.000Z",
-          "wordCount": 4604,
+          "wordCount": 4612,
           "title": "SP: Festa de poesia urbana na Zona Leste",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4913711722619669704_y.jpg"
         },
@@ -809,7 +869,7 @@
           "description": "Elon Musk soa como um fanático que perpetua sonhos de domínio e subjugação. Idealiza fugir ao espaço e substituir a inteligência humana. Assim o homo sapiens cria as condições de seu próprio fim. Restará aos trabalhadores a missão de construir algo mais digno\nThe post Suicídio da espécie: a distopia final appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/suicidio-da-especie-a-distopia-final/",
           "publishedOn": "2026-08-19T19:20:38.000Z",
-          "wordCount": 4973,
+          "wordCount": 5041,
           "title": "Suicídio da espécie: a distopia final",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/2858933.webp"
         },
@@ -819,39 +879,9 @@
           "description": "Nos anos 1980, um episódio da financeirização global abriu as portas para nosso retrocesso – mas o falta de um projeto de país a prolonga há quatro décadas. Surgem novas condições para revertê-la. Quais são elas e como aproveitá-las?\nThe post A reprimarização do Brasil e a possível virada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/reprimarizacao-do-brasil-e-a-possivel-virada/",
           "publishedOn": "2026-08-18T21:37:23.000Z",
-          "wordCount": 4675,
+          "wordCount": 4665,
           "title": "A reprimarização do Brasil e a possível virada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo19.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201368",
-          "author": "Lucas Scatolini",
-          "description": "Pressionadas pela China, big techs aderem momentaneamente aos “sistemas de pesos abertos”. Afinal, eles ampliam ou enfraquecem a segurança? Como OpenAI e Anthropic tentam estabelecer novo oligopólio? E por que seus argumentos de “pirataria” tornaram-se insustentáveis?\nThe post IA: Os EUA ensaiam um recuo? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-por-que-os-eua-ensaiam-um-recuo/",
-          "publishedOn": "2026-08-18T21:35:20.000Z",
-          "wordCount": 6921,
-          "title": "IA: Os EUA ensaiam um recuo?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/covers-2.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201323",
-          "author": "Lucas Scatolini",
-          "description": "Há seis anos, morria o bispo que enfrentou a ditadura e os ruralistas do Araguaia. Dizia-se ser um homem da palavra e tão poeta quanto sacerdote. Sua obra rechaça o hermetismo: é tecida junto às dores do povo e um chamado à resistência e esperança\nThe post A poesia encarnada de Pedro Casaldáliga appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/a-poesia-encarnada-de-pedro-casaldaliga/",
-          "publishedOn": "2026-08-18T21:07:49.000Z",
-          "wordCount": 6439,
-          "title": "A poesia encarnada de Pedro Casaldáliga",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Sem-titulo-14.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201325",
-          "author": "Lucas Scatolini",
-          "description": "Revitalizar prédios é demanda antiga de movimentos por moradia. Mas o atual programa entregou só 7% à faixa mais pobre e virou política de valorização privada. Objetivo não deveria ser apenas “reformar”, mas garantir permanência de quem vive e trabalha na região\nThe post O centro de SP precisa de <i>retrofit</i>? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/o-centro-de-sp-precisa-de-retrofit/",
-          "publishedOn": "2026-08-18T20:28:10.000Z",
-          "wordCount": 4916,
-          "title": "O centro de SP precisa de retrofit?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4911512287047257386_w.jpg"
         }
       ]
     },
@@ -903,7 +933,7 @@
           "description": "No aniversário de Roberto Schwarz, Fabio Mascaro Querido faz um convite à leitura de sua obra: \"Mais do que o crítico que provocou uma reviravolta na análise de Machado de Assis, Schwarz é responsável por uma verdadeira interpretação do Brasil, a qual se destaca por seu ceticismo em relação às possibilidades da modernização capitalista.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/20/por-que-ler-roberto-schwarz/",
           "publishedOn": "2026-08-20T11:00:00.000Z",
-          "wordCount": 13530,
+          "wordCount": 13484,
           "title": "Por que ler Roberto Schwarz?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/roberto_sesc.jpg"
         },
