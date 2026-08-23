@@ -48,163 +48,6 @@
       ]
     },
     {
-      "title": "Opinião Socialista",
-      "feedUrl": "https://www.opiniaosocialista.com.br/feed",
-      "siteUrl": "https://opiniaosocialista.com.br/",
-      "articles": [
-        {
-          "id": "6a88cc0ccd6b09206e7b3ff0",
-          "author": "PSTU-AM",
-          "description": "Yashim e Lohana\nManaus é uma das dez cidades mais hostis do planeta para o corpo humano. É o que aponta o estudo publicado em 2026 na revista Sustainable Cities and Society. A pesquisa avaliou 205 grandes cidades com mais de 1 milhão de habitantes e utilizou tr&",
-          "link": "https://opiniaosocialista.com.br/a-agonia-de-manaus-onde-o-capitalismo-sufoca-o-povo-e-a-floresta/",
-          "publishedOn": "2026-08-21T22:15:22.000Z",
-          "wordCount": 1480,
-          "title": "A agonia de Manaus: onde o capitalismo sufoca o povo e a floresta",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/image.jpg.webp"
-        },
-        {
-          "id": "6a88b36ecd6b09206e7b3fd0",
-          "author": "Redação",
-          "description": "OS 714 \n\n\nOS 714 .pdf\n3 MB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle",
-          "link": "https://opiniaosocialista.com.br/edicao-714/",
-          "publishedOn": "2026-08-21T20:22:45.000Z",
-          "wordCount": 377,
-          "title": "Edição 714",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Pagina----o-Ed.-714.webp"
-        },
-        {
-          "id": "6a88ae32cd6b09206e7b3fb1",
-          "author": "Jovipe",
-          "description": "Uma odisseia à parte para assistir ao filme como o diretor o idealizou: no Brasil existem apenas 12 salas IMAX (cinco delas no estado de São Paulo), e isso ainda não é o suficiente: as salas aqui não projetam como lá - t&",
-          "link": "https://opiniaosocialista.com.br/odisseu-vai-a-terapia/",
-          "publishedOn": "2026-08-21T20:10:20.000Z",
-          "wordCount": 2059,
-          "title": "Odisseu vai à terapia",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/odisseia--1-.webp"
-        },
-        {
-          "id": "6a88a9cecd6b09206e7b3f98",
-          "author": "Redação",
-          "description": "A campanha eleitoral começou oficialmente no dia 16 de agosto. Como de costume, fomos bombardeados com as mesmas propagandas de sempre, velhas e novas caras prometendo mundos e fundos, mas sempre com o mesmo sentido: vote em mim que a sua vida vai melhorar.\nA candidatura de Fl&",
-          "link": "https://opiniaosocialista.com.br/com-quantos-programas-se-faz-uma-eleicao/",
-          "publishedOn": "2026-08-21T19:52:45.000Z",
-          "wordCount": 1566,
-          "title": "Com quantos programas se faz uma eleição?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Hertz-e-Vanessa-3--1--1.webp"
-        },
-        {
-          "id": "6a88a407cd6b09206e7b3f6a",
-          "author": "Redação",
-          "description": "Nesta eleição, temos o curioso caso em que todos os candidatos se dizem contra o sistema. A questão que fica é: se todos são contra o sistema, como e por que ele continua existindo? Porque não é bem assim. \nO sistema",
-          "link": "https://opiniaosocialista.com.br/vote-hertz-e-vanessa-com-os-trabalhadores-contra-o-sistema/",
-          "publishedOn": "2026-08-21T19:33:40.000Z",
-          "wordCount": 1984,
-          "title": "Vote Hertz e Vanessa: Com os trabalhadores, contra o sistema",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/hertz-e-vanessa--1---1-.webp"
-        },
-        {
-          "id": "6a88a0dfcd6b09206e7b3f4d",
-          "author": "Ana Godoi",
-          "description": "A jornada de trabalho é uma das questões centrais para compreender uma contradição fundamental do desenvolvimento econômico. O avanço da técnica permite produzir cada vez mais mercadorias utilizando menos trabalho. Em princípio, portanto, o aumento da produtividade",
-          "link": "https://opiniaosocialista.com.br/jornada-de-trabalho-produtividade-e-o-direito-ao-tempo-livre/",
-          "publishedOn": "2026-08-21T19:06:51.000Z",
-          "wordCount": 1839,
-          "title": "Jornada de trabalho, produtividade e o direito ao tempo livre",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/6x1_01.webp"
-        },
-        {
-          "id": "6a889ab4cd6b09206e7b3f28",
-          "author": "Gustavo Machado",
-          "description": "Na maior parte do tempo, a soberania nacional costuma aparecer no debate público como um tema distante da vida cotidiana. Algo reservado às relações diplomáticas, às fronteiras, às Forças Armadas ou às disputas entre governos. Mas basta",
-          "link": "https://opiniaosocialista.com.br/quem-controla-a-riqueza-produzida-no-brasil/",
-          "publishedOn": "2026-08-21T18:59:39.000Z",
-          "wordCount": 1913,
-          "title": "Quem controla a riqueza produzida no Brasil?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/fotoAgenciaBrasil.webp"
-        },
-        {
-          "id": "6a88797dcd6b09206e7b3f01",
-          "author": "Roberto Aguiar, da redação",
-          "description": "A campanha “Queremos a Esquerda nos Debates” ganhou repercussão nas últimas semanas, mobilizando apoiadores de diferentes organizações políticas que defendem a ampliação da participação de candidaturas de esquerda nos debates e sabatinas promovidos pelos",
-          "link": "https://opiniaosocialista.com.br/campanha-por-maior-pluralidade-nos-debates-eleitorais-ganha-forca-nas-redes-e-chega-as-ruas/",
-          "publishedOn": "2026-08-21T18:30:00.000Z",
-          "wordCount": 1171,
-          "title": "Campanha por maior pluralidade nos debates eleitorais ganha força nas redes e chega às ruas",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/Ato-em-frente-a-Band-contra-o-veto-das-candidaturas-da-esquerda.webp"
-        },
-        {
-          "id": "6a887252cd6b09206e7b3ed6",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Em São Paulo, Hertz Dias e Vanessa Portugal defenderam a reestatização de setores estratégicos da economia",
-          "link": "https://opiniaosocialista.com.br/pstu-da-largada-a-campanha-eleitoral-com-mobilizacoes-em-todo-o-pais/",
-          "publishedOn": "2026-08-21T16:11:54.000Z",
-          "wordCount": 1127,
-          "title": "PSTU dá largada à campanha eleitoral com mobilizações em todo o país",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/Campanha-eleitoral-PSTU.webp"
-        },
-        {
-          "id": "6a886f89cd6b09206e7b3eb8",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Vera Lúcia, candidata do PSTU ao governo de São Paulo, segue aparecendo em terceiro lugar nas pesquisas, mas sofre um forte boicote da grande mídia. As regras atuais de financiamento e acesso à propaganda eleitoral, somadas aos critérios adotados por parte da",
-          "link": "https://opiniaosocialista.com.br/vera-aparece-em-3o-lugar-nas-pesquisas-mas-sofre-boicote-da-grande-midia/",
-          "publishedOn": "2026-08-21T15:42:41.000Z",
-          "wordCount": 1255,
-          "title": "Vera aparece em 3º lugar nas pesquisas, mas sofre boicote da grande mídia",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/vera.webp"
-        },
-        {
-          "id": "6a88696fcd6b09206e7b3e96",
-          "author": "Mariucha Fontana",
-          "description": "Até o final de agosto, será publicado pela Editora Sundermann o livro Programa revolucionário para o Brasil & Análise do Brasil contemporâneo.\nEste livro é dois em um. O Programa revolucionário para o Brasil (ou Programa de Transiçã",
-          "link": "https://opiniaosocialista.com.br/livro-programa-revolucionario-para-o-brasil-esta-no-prelo/",
-          "publishedOn": "2026-08-21T15:17:02.000Z",
-          "wordCount": 1303,
-          "title": "Livro Programa revolucionário para o Brasil está no prelo",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/livro_mariucha.webp"
-        },
-        {
-          "id": "6a8864d0cd6b09206e7b3e6e",
-          "author": "Redação",
-          "description": "Não à condenação de Zé Maria por defender o povo palestino",
-          "link": "https://opiniaosocialista.com.br/nao-nos-calarao-nem-uma-voz-pela-palestina-sera-silenciada/",
-          "publishedOn": "2026-08-21T15:00:39.000Z",
-          "wordCount": 1335,
-          "title": "Não nos calarão: nem uma voz pela Palestina será silenciada",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Ze-Maria.webp"
-        },
-        {
-          "id": "6a87b58bcd6b09206e7b3e48",
-          "author": "Denior José Machado, de Porto Alegre (RS)",
-          "description": "A tarefa que Trotsky nos deixou é a elaboração de um programa de transição, que parta das demandas imediatas dos trabalhadores integradas num sistema cujo objetivo é a luta pelo poder.",
-          "link": "https://opiniaosocialista.com.br/apos-86-anos-de-sua-morte-por-que-trotsky-continua-fundamental/",
-          "publishedOn": "2026-08-21T03:03:09.000Z",
-          "wordCount": 1271,
-          "title": "Após 86 anos de sua morte, por que Trotsky continua fundamental?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Lev-Trostsky.webp"
-        },
-        {
-          "id": "6a87a793cd6b09206e7b3e2b",
-          "author": "Samuel Mattos, de Curitiba (PR)",
-          "description": "A saúde é algo muito importante para os trabalhadores, pois se a pessoa não tem saúde, ou seja, não está apta para trabalhar, não tem comida na mesa. Quem nunca ouviu a pergunta: ter saúde é o",
-          "link": "https://opiniaosocialista.com.br/pr-por-um-sus-100-publico-e-de-qualidade/",
-          "publishedOn": "2026-08-21T01:22:42.000Z",
-          "wordCount": 2239,
-          "title": "PR: Por um SUS 100%público e de qualidade",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/SUS_materiaPR.webp"
-        },
-        {
-          "id": "6a878beacd6b09206e7b3e0e",
-          "author": "Érika Andreassy",
-          "description": "Quatro mulheres vítimas da violência machista em uma semana. Três delas morreram. E o país nem parou.",
-          "link": "https://opiniaosocialista.com.br/quatro-mulheres-em-uma-semana-e-o-pais-nem-parou/",
-          "publishedOn": "2026-08-20T23:29:15.000Z",
-          "wordCount": 1808,
-          "title": "Quatro mulheres em uma semana e o país nem parou",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/imagem_materia.webp"
-        }
-      ]
-    },
-    {
       "title": "Esquerda Diário",
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
@@ -307,26 +150,6 @@
           "publishedOn": "2026-08-18T17:29:29.000Z",
           "wordCount": null,
           "title": "Travesti Comunista detona Rubinho Nunes e sua defesa do capitalismo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Justica-por-Angelita-trabalhadora-morta-a-facadas-em-fila-de-supermercado-em-Sao-Paulo",
-          "author": "Pão e Rosas",
-          "description": "Angelita vivia uma relação abusiva, marcada por um histórico de violência e foi assassinada porque queria romper com seu agressor.\n18-08-2026\n\n/ Gênero e sexualidade, Violência contra a Mulher, Feminicídio",
-          "link": "https://www.esquerdadiario.com.br/Justica-por-Angelita-trabalhadora-morta-a-facadas-em-fila-de-supermercado-em-Sao-Paulo",
-          "publishedOn": "2026-08-18T15:47:14.000Z",
-          "wordCount": null,
-          "title": "Justiça por Angelita, trabalhadora morta a facadas em fila de supermercado em São Paulo!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Lula-fala-em-lucrar-com-petroleo-na-foz-do-Amazonas-se-estreito-de-Ormuz-estiver-fechado",
-          "author": "Jean Barroso",
-          "description": "Em evento nesta segunda (17), Lula afirmou que, se o estreito de Ormuz permanecer fechado, Brasil poderia suprir mercado mundial com petróleo da margem equatorial.\n18-08-2026\n\n/ Política, Petrobras, Destruição do meio ambiente, Margem Equatorial",
-          "link": "https://www.esquerdadiario.com.br/Lula-fala-em-lucrar-com-petroleo-na-foz-do-Amazonas-se-estreito-de-Ormuz-estiver-fechado",
-          "publishedOn": "2026-08-18T15:01:43.000Z",
-          "wordCount": null,
-          "title": "Lula fala em lucrar com petróleo na foz do Amazonas se estreito de Ormuz estiver fechado",
           "imageUrl": null
         }
       ]
@@ -692,7 +515,7 @@
           "description": "Correspondentes locais registram protestos contra crimes de policiais e a resistência indígena, enquanto agitadores e propagandistas realizam brigadas, coberturas, atividades de formação e outras iniciativas em diferentes regiões do País.",
           "link": "https://anovademocracia.com.br/and-brasil-adentro-semana-33-2026/",
           "publishedOn": "2026-08-21T22:26:42.000Z",
-          "wordCount": 9648,
+          "wordCount": 9645,
           "title": "AND Brasil Adentro (Semana 33): ‘A gente só vê esses políticos na época de eleição’, denunciam moradores da Vila Esperança; Várzea e Mangueira se levantam contra violência policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-and-brasil-adentro-semana-33.jpg"
         },
@@ -923,7 +746,7 @@
           "description": "“É preciso pensar tanto a psicanálise como sintoma do Brasil quanto o Brasil como sintoma da psicanálise”, escreve Christian Dunker no seu novo livro, \"Psicanálise nos trópicos\". Leia a apresentação de Rafael Alves Lima ao lançamento que chega em primeira mão para os assinantes do Armas da Crítica – o clube do livro da Boitempo.",
           "link": "https://blogdaboitempo.com.br/2026/08/21/existe-uma-psicanalise-brasileira/",
           "publishedOn": "2026-08-21T17:41:17.000Z",
-          "wordCount": 11879,
+          "wordCount": 11731,
           "title": "Existe uma psicanálise brasileira?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/pomological_watercolor.jpg"
         },
@@ -933,7 +756,7 @@
           "description": "Bruno Prado Prates: \"Em 'O Mundo do Socialismo', Caio Prado Júnior relata uma viagem feita nos anos 1960, quando passou inclusive por Wuhan. Ali, viu um 'maravilhoso país' sendo construído 'para uma vida feliz de todo mundo'. A China que encontrei exibe uma fisionomia muito distinta da que Caio Prado conheceu, mas preserva o mesmo dinamismo que tanto o impressionou.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/21/uma-jornada-a-wuhan-a-cidade-punk-da-china/",
           "publishedOn": "2026-08-21T11:00:00.000Z",
-          "wordCount": 14632,
+          "wordCount": 14796,
           "title": "Uma jornada a Wuhan, a cidade punk da China",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/image.png?fit=1200%2C913&ssl=1"
         },
@@ -943,7 +766,7 @@
           "description": "No aniversário de Roberto Schwarz, Fabio Mascaro Querido faz um convite à leitura de sua obra: \"Mais do que o crítico que provocou uma reviravolta na análise de Machado de Assis, Schwarz é responsável por uma verdadeira interpretação do Brasil, a qual se destaca por seu ceticismo em relação às possibilidades da modernização capitalista.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/20/por-que-ler-roberto-schwarz/",
           "publishedOn": "2026-08-20T11:00:00.000Z",
-          "wordCount": 13635,
+          "wordCount": 13484,
           "title": "Por que ler Roberto Schwarz?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/roberto_sesc.jpg"
         },
@@ -953,7 +776,7 @@
           "description": "A apropriação crítica dos impactos da tecnologia sobre o trabalho e as possibilidades de reorganização econômica pós-capitalista têm sido debates centrais das ciências sociais contemporâneas. Nesse contexto, a obra de Aaron Benanav emerge como uma das contribuições mais originais e provocadoras da última década. Leia a entrevista com o autor de \"Automação e o futuro do trabalho\".",
           "link": "https://blogdaboitempo.com.br/2026/08/19/a-esquerda-precisa-fazer-mais-para-imaginar-o-futuro-entrevista-com-aaron-benanav/",
           "publishedOn": "2026-08-19T11:00:00.000Z",
-          "wordCount": 14412,
+          "wordCount": 14264,
           "title": "“A esquerda precisa fazer mais para imaginar o futuro” – entrevista com Aaron Benanav",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/aaron-benanav_c2a9mateus-rodrigues_editora-boitempo_01.jpg?fit=1200%2C800&ssl=1"
         },
@@ -963,7 +786,7 @@
           "description": "Anita Prestes: \"Como sempre no Brasil, chegava-se a um compromisso, resultado da correlação de forças então presente: nem os setores democráticos e populares, junto aos quais o PCB adquiria penetração crescente, tiveram força para alcançar o adiamento das eleições presidenciais para depois da promulgação da nova Carta, nem os setores golpistas de direita puderam reverter inteiramente o processo de democratização da sociedade brasileira, apesar de sabidamente tal processo ter se  mostrado frágil e inconsequente, mesmo com a promulgação da Constituição de 1946, em que importantes conquistas democráticas ficariam inscritas.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/18/os-comunistas-e-a-assembleia-constituinte-de-1946-80-anos-da-constituicao-democratica/",
           "publishedOn": "2026-08-18T21:26:38.000Z",
-          "wordCount": 17957,
+          "wordCount": 17801,
           "title": "Os comunistas e a Assembleia Constituinte de 1946: 80 anos da Constituição Democrática",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/prestes-marighella-gregorio-na-constituinte-de-46.jpg"
         }
