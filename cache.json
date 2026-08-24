@@ -372,16 +372,6 @@
           "wordCount": 6118,
           "title": "Artigo | Ajuda humanitária nas favelas: quando a guerra não é declarada, mas a população precisa sobreviver",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/operacao-policial-baixada-fluminense-tania-rego-agencia-brasil.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=162418",
-          "author": "Paulo Batistella",
-          "description": "Daniel Pereira Noda, Carlos Vinicius Batista Bruno e Thiago Freitas da Silva atiraram quando vítima estava nua e usava banheiro de cooperativa de mototáxi em Santos.\nO conteúdo ‘Seguimos até o fim’: PMs vão a júri por tentarem matar motoboy negro durante a Operação Escudo Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/pms-vao-a-juri-por-tentarem-matar-motoboy-negro-durante-a-operacao-escudo/",
-          "publishedOn": "2026-08-19T14:07:14.000Z",
-          "wordCount": 5358,
-          "title": "‘Seguimos até o fim’: PMs vão a júri por tentarem matar motoboy negro durante a Operação Escudo",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/C3FEBBE0-6E60-4BCE-91E2-F7864293A6C0.webp"
         }
       ]
     },
@@ -438,12 +428,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263643",
+          "author": "Rocio Paik",
+          "description": "Uma empresa sul-coreana de navegação doméstica anunciou neste domingo (23/08) o envio de seu navio cargueiro com destino à Europa usando, pela primeira vez, a rota do Ártico. Trata-se de um projeto-piloto encabeçado pelo Ministério dos Oceanos e Pescas, juntamente com associações de navegação, em meio às dificuldades do tráfego marítimo como consequência da guerra […]\nO post Navio cargueiro sul-coreano testa rota do Ártico em meio à guerra no Oriente Médio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/navio-cargueiro-sul-coreano-testa-rota-do-artico-em-meio-a-guerra-no-oriente-medio/",
+          "publishedOn": "2026-08-24T04:00:56.000Z",
+          "wordCount": 3409,
+          "title": "Navio cargueiro sul-coreano testa rota do Ártico em meio à guerra no Oriente Médio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/878606_534650_4955.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263639",
+          "author": "Rocio Paik",
+          "description": "O Hamas declarou neste domingo (23/08) que o governo de Israel está criando um pretexto para intensificar suas agressões na Faixa de Gaza, ao ameaçar a ampliar as evacuações e ataques aéreos caso pipas de papel continuassem sendo lançadas do território palestino. De acordo com o porta-voz do movimento, Hazem Qassem, a medida do regime […]\nO post Israel diz que pipas lançadas por crianças são ‘ato de guerra’ e intensifica ataques em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-associa-lancamento-de-pipas-por-criancas-a-ato-de-guerra-e-intensifica-ataques-em-gaza/",
+          "publishedOn": "2026-08-24T02:30:17.000Z",
+          "wordCount": 3318,
+          "title": "Israel diz que pipas lançadas por crianças são ‘ato de guerra’ e intensifica ataques em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hqcu17ux0aavgpo.jpeg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263634",
           "author": "Rocio Paik",
           "description": "O presidente do Parlamento do Irã, Mohammad Baqer Qalibaf, afirmou neste domingo (23/08) que a operação econômica dos Estados Unidos, anunciada pelo presidente Donald Trump como “a mais devastadora” contra a nação persa se tornou um “bumerangue” contra a própria economia norte-americana, que enfrenta uma dívida nacional em níveis históricos em meio aos gastos excessivos […]\nO post Autoridades iranianas dizem que sanções econômicas dos EUA expõem ‘desespero’ e ‘fracasso militar’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/autoridades-do-ira-falam-em-fracasso-militar-dos-eua-apos-anuncio-de-guerra-economica/",
           "publishedOn": "2026-08-24T01:00:07.000Z",
-          "wordCount": 3260,
+          "wordCount": 3265,
           "title": "Autoridades iranianas dizem que sanções econômicas dos EUA expõem ‘desespero’ e ‘fracasso militar’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405060115530841037944664.jpg"
         },
@@ -453,7 +463,7 @@
           "description": "Neste domingo (23/08), a epidemia de ebola na República Democrática do Congo (RDC) completa exatamente 100 dias desde que foi oficialmente declarada. O papa Leão XIV pediu que a comunidade internacional contribua para conter a propagação do vírus e encerrar o surto mais letal da história do país africano, com 2.557 mortes registradas entre 5.375 […]\nO post Papa Leão 16 pede esforços para conter ebola na RDC, que completa 100 dias fora de controle apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/papa-leao-16-pede-esforcos-contra-ebola-na-rdc-que-completa-100-dias-fora-de-controle/",
           "publishedOn": "2026-08-23T23:19:38.000Z",
-          "wordCount": 3455,
+          "wordCount": 3460,
           "title": "Papa Leão 16 pede esforços para conter ebola na RDC, que completa 100 dias fora de controle",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/cq5dam.thumbnail.cropped.1500.844.jpeg"
         },
@@ -463,7 +473,7 @@
           "description": "O governo peruano declarou estado de emergência no domingo (23/08) em cinco distritos do departamento de Ayacucho para agilizar o envio de ajuda às 500 vítimas do terremoto de magnitude 7,2. A ordem oficial publicada em um veículo de comunicação nacional estabelece a medida por 60 dias nas cidades de Chumpi, Coracora, Pullo e Upahuacho, […]\nO post Peru decreta estado de emergência em cinco distritos após terremoto de 7,2 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-decreta-estado-de-emergencia-em-cinco-distritos-apos-terremoto-de-72/",
           "publishedOn": "2026-08-23T20:50:57.000Z",
-          "wordCount": 2917,
+          "wordCount": 2922,
           "title": "Peru decreta estado de emergência em cinco distritos após terremoto de 7,2",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hmalkwbxuaaagrh.jpg"
         },
@@ -473,7 +483,7 @@
           "description": "A Síria espera que as negociações com Israel sobre um acordo de segurança sejam retomadas em breve e que levem à retirada israelense do território sírio, disse o ministro das Relações Exteriores, Asaad al-Shaibani, em entrevista à Reuters. No entanto, ele declarou que “não confiamos em Israel atualmente”. “Acreditamos que deva haver contato, especialmente com […]\nO post Mesmo alegando ‘não confiar’ em Israel, Síria pede retomada de negociações por acordo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/mesmo-alegando-nao-confiar-em-israel-siria-pede-retomada-de-negociacoes-por-acordo/",
           "publishedOn": "2026-08-23T19:53:15.000Z",
-          "wordCount": 3418,
+          "wordCount": 3423,
           "title": "Mesmo alegando ‘não confiar’ em Israel, Síria pede retomada de negociações por acordo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/glwyqohwcaabgb9.jpg"
         },
@@ -483,7 +493,7 @@
           "description": "Em discurso transmitido pela televisão estatal neste domingo (23/08), o presidente iraniano Masoud Pezeshkian voltou a falar sobre o impacto das sanções econômicas impostas pelos Estados Unidos ao país e pediu solidariedade e unidade entre a população. Pezeshkian destacou a resiliência do povo iraniano como um fator que surpreendeu o mundo. O presidente classificou a […]\nO post Presidente do Irã pede unidade nacional diante de pressão econômica dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-do-ira-pede-unidade-nacional-diante-de-pressao-economica-dos-eua/",
           "publishedOn": "2026-08-23T18:00:09.000Z",
-          "wordCount": 3143,
+          "wordCount": 3148,
           "title": "Presidente do Irã pede unidade nacional diante de pressão econômica dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/1080px-masoud_pezeshkian_2024_a.jpg"
         },
@@ -493,7 +503,7 @@
           "description": "A ala de esquerda do Partido Democrata está passando por uma ascensão histórica impulsionada pela liderança de Zohran Mamdani na prefeitura de Nova York, apoiada pela aliança estratégica com Bernie Sanders e Alexandria Ocasio-Cortez em nível nacional. Por gerações, a sigla funcionou como uma ampla coalizão na qual os setores centristas, moderados e liberais pró-empresas […]\nO post O dilema dos democratas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-dilema-dos-democratas/",
           "publishedOn": "2026-08-23T17:00:12.000Z",
-          "wordCount": 5324,
+          "wordCount": 5329,
           "title": "O dilema dos democratas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/zohran_mamdani_at_the_resist_fascism_rally_in_bryant_park_on_oct_27th_2024.jpg"
         },
@@ -503,7 +513,7 @@
           "description": "Um grupo de 23 intelectuais do Ocidente assinaram uma carta aberta em repúdio à República Islâmica do Irã, com mensagem que coloca no mesmo patamar o caráter imperialista dos ataques dos Estados Unidos e de Israel ao país persa e as denúncias de violações aos direitos humanos de presos políticos no país persa. Entre os […]\nO post Intelectuais do Ocidente publicam carta criticando Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/intelectuais-do-ocidente-publicam-carta-criticando-ira/",
           "publishedOn": "2026-08-23T16:48:50.000Z",
-          "wordCount": 5374,
+          "wordCount": 5379,
           "title": "Intelectuais do Ocidente publicam carta criticando Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ia.jpg"
         },
@@ -513,29 +523,46 @@
           "description": "Está em cartaz nas salas de cinema de todo o Brasil o filme Terra à Deriva 2, produção chinesa que promete ser uma das obras com a qual o país asiático pretende catapultar sua crescente indústria de filmes de ficção científica. A obra, que estreou na última quinta-feira (20/08), traz uma novidade interessante: a presença […]\nO post ‘China realizou meu sonho de ser atriz’, diz brasileira protagonista de blockbuster chinês apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/china-realizou-meu-sonho-de-ser-atriz-diz-brasileira-protagonista-de-blockbuster-chines/",
           "publishedOn": "2026-08-23T15:30:38.000Z",
-          "wordCount": 5429,
+          "wordCount": 5434,
           "title": "‘China realizou meu sonho de ser atriz’, diz brasileira protagonista de blockbuster chinês",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/daniela.jpg"
+        }
+      ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": [
+        {
+          "id": "https://deolhonosruralistas.com.br/?p=32525",
+          "author": "De Olho nos Ruralistas",
+          "description": "Governo do Rio bancou 17 apresentações do pagodeiro entre julho de 2024 e janeiro de 2026; político e artista são filiados ao PL; em 2022, Belo fez show da campanha à reeleição e outro de aniversário do ex-governador, hoje investigado pela Polícia Federal Por Alceu Luís Castilho e Carolina Bataier Amigo pessoal do ex-governador Cláudio […]\nO post Belo recebeu R$ 7 milhões em cachês durante governo do amigo Cláudio Castro apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/20/belo-recebeu-r-7-milhoes-em-caches-durante-governo-do-amigo-claudio-castro/",
+          "publishedOn": "2026-08-20T12:12:45.000Z",
+          "wordCount": 2639,
+          "title": "Belo recebeu R$ 7 milhões em cachês durante governo do amigo Cláudio Castro",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/774059080_1599973938266531_5135287237955347401_n.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=263596",
-          "author": "Tabitha Ramalho",
-          "description": "A guerra comercial entre Estados Unidos e Canadá ganhou um novo capítulo neste domingo (23/08), quando o presidente norte-americano Donald Trump criticou duramente as medidas de retaliação anunciadas por Ottawa em resposta às novas tarifas impostas por Washington. As contramedidas canadenses entrarão em vigor em 8 de setembro e atingirão setores como aço, produtos lácteos, […]\nO post Trump publica mensagem enfurecida sobre retaliação do Canadá ao tarifaço apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada/",
-          "publishedOn": "2026-08-23T14:40:50.000Z",
-          "wordCount": 3583,
-          "title": "Trump publica mensagem enfurecida sobre retaliação do Canadá ao tarifaço",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/img_9145.jpeg"
+          "id": "https://deolhonosruralistas.com.br/?p=32512",
+          "author": "De Olho nos Ruralistas",
+          "description": "De um lado, uma música com mais de 20 anos de carreira, em Jataí (GO), com cachês normais para o padrão brasileiro; do outro, uma jovem que já entrou no mercado cobrando entre R$ 100 mil e R$ 150 mil por show; a homônima da goiana tem a bênção de uma das empresas mais contratadas […]\nO post Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-talita-mel/",
+          "publishedOn": "2026-08-19T20:21:40.000Z",
+          "wordCount": 3142,
+          "title": "Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/talitavstalita.jpg.jpeg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=263593",
-          "author": "Tabitha Ramalho",
-          "description": "O líder do regime ucraniano, Vladimir Zelensky, rejeitou novamente a ideia de realizar eleições presidenciais no país, chamando-as de “um tsunami para o Estado”, informou a mídia local. “Considero que, em um período de guerra como este, as eleições em geral representam grandes riscos. Realizar eleições neste momento é um tsunami para o Estado que […]\nO post Zelensky rechaça convocação de eleições presidenciais na Ucrânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/zelensky-rechaca-eleicoes-presidenciais-na-ucrania/",
-          "publishedOn": "2026-08-23T13:50:15.000Z",
-          "wordCount": 2909,
-          "title": "Zelensky rechaça convocação de eleições presidenciais na Ucrânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/img_9144.jpeg"
+          "id": "https://deolhonosruralistas.com.br/?p=32500",
+          "author": "De Olho nos Ruralistas",
+          "description": "Sindicalistas da Bahia, Minas e São Paulo comentam impacto dos dados do relatório e desafios observados pela categoria; observatório realiza live nesta quarta com presidente do Sindimus-MG e cantora que teve nome artístico copiado por “incubada” da produtora Vybbe Por Carolina Bataier Cinco bilhões de reais. Essa é a soma dos cachês pagos por prefeituras […]\nO post Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-sindicatos/",
+          "publishedOn": "2026-08-19T17:28:29.000Z",
+          "wordCount": 2500,
+          "title": "Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/capa-sindicatos.jpeg"
         }
       ]
     },
@@ -560,7 +587,7 @@
           "description": "Comitiva da Embaixada discute acesso a informações e novos treinamentos no Acre; estado já enviou policiais à SWAT e recebeu adidos da Força Aérea, Guarda Costeira e órgãos de inteligência do EUA, enquanto tropas ianques ampliam exercícios de combate na Amazônia.",
           "link": "https://anovademocracia.com.br/agentes-ianques-fronteira/",
           "publishedOn": "2026-08-23T22:07:14.000Z",
-          "wordCount": 8316,
+          "wordCount": 8312,
           "title": "Agentes ianques percorrem fronteira no Acre para ampliar acesso a informações e tutela sobre as forças de repressão brasileiras",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-33.png"
         },
@@ -667,7 +694,7 @@
           "description": "Chatbots de aplicativos como o Replika suprem o vazio de jovens isolados, homens inseguros e mulheres cansadas de opressão. Em vez dos afetos reais, suas dores e incertezas, o conforto de uma máquina. Mas e se, de súbito, desligarem o bot?\nThe post Nas asas flácidas do amor sem riscos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/nas-asas-flacidas-do-amor-sem-riscos/",
           "publishedOn": "2026-08-21T21:24:01.000Z",
-          "wordCount": 5227,
+          "wordCount": 5230,
           "title": "Nas asas flácidas do amor sem riscos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4920744602717850674.jpg"
         },
