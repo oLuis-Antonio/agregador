@@ -24,16 +24,6 @@
           "wordCount": 1805,
           "title": "China, agronegócio e dependência brasileira",
           "imageUrl": "https://media.jornalofuturo.com.br/Abertura-Nacional-do-Plantio-da-Soja-Fotos-Frank-N%C3%83%C2%A9ry-19.09-228-1280x853.jpg"
-        },
-        {
-          "id": "UL2b6t",
-          "author": null,
-          "description": "A crescente descrença dos estadunidenses no capitalismo, na mobilidade social e nas instituições burguesas revela uma profunda crise de hegemonia da ordem imperial dos Estados Unidos",
-          "link": "https://jornalofuturo.com.br/artigo/UL2b6t-a-crise-de-legitimidade-do-capitalismo-estadunidense-e-os-limites-da-ordem-imperial",
-          "publishedOn": "2026-08-19T20:00:00.000Z",
-          "wordCount": 3462,
-          "title": "A crise de legitimidade do capitalismo estadunidense e os limites da ordem imperial",
-          "imageUrl": "https://media.jornalofuturo.com.br/AP25291551721522-1280x853.webp"
         }
       ]
     },
@@ -340,21 +330,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/08/wide-4.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444589",
-          "author": "Eduardo Goulart",
-          "description": "Documentos revelam que empresa da família de Felício Ramuth foi autuada pelo Carf por evasão de divisas, em esquema do caso Banestado\nO post Empresa de vice de Tarcísio foi punida por envio ilegal de dinheiro aos EUA apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/08/19/empresa-vice-tarcisio-punida-envio-ilegal-dinheiro-eua/",
-          "publishedOn": "2026-08-19T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Empresa de vice de Tarcísio foi punida por envio ilegal de dinheiro aos EUA",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/08/Ramuth_Banestado_Headerfeat.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/08/Ramuth_Banestado_Headerfeat.jpg"
         }
       ]
     },
@@ -362,18 +337,7 @@
       "title": "Ponte Jornalismo",
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
-      "articles": [
-        {
-          "id": "https://ponte.org/?p=162498",
-          "author": "Catarina Duarte",
-          "description": "Diante de operações policiais, mortes e interrupção da vida cotidiana, organizações de favelas constroem redes próprias de proteção, cuidado, memória e denúncia\nO conteúdo Artigo | Ajuda humanitária nas favelas: quando a guerra não é declarada, mas a população precisa sobreviver Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/artigo-ajuda-humanitaria-nas-favelas-quando-a-guerra-nao-e-declarada-mas-a-populacao-precisa-sobreviver/",
-          "publishedOn": "2026-08-19T17:24:46.000Z",
-          "wordCount": 6118,
-          "title": "Artigo | Ajuda humanitária nas favelas: quando a guerra não é declarada, mas a população precisa sobreviver",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/operacao-policial-baixada-fluminense-tania-rego-agencia-brasil.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Revista Opera",
@@ -428,12 +392,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263646",
+          "author": "Rocio Paik",
+          "description": "O Ministério do Petróleo do Irã anunciou a descoberta de um novo campo com 7,5 trilhões de pés cúbicos de gás no sul da província de Fars. “Essa constatação traz uma quantidade significativa de hidrocarbonetos adicionais para as reservas nacionais do Irã e reflete os esforços da indústria do petróleo para identificar e explorar novos […]\nO post Irã anuncia descoberta de 7,5 trilhões de pés cúbicos de gás natural apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-anuncia-descoberta-de-75-trilhoes-de-pes-cubicos-de-gas-natural/",
+          "publishedOn": "2026-08-24T06:00:17.000Z",
+          "wordCount": 3002,
+          "title": "Irã anuncia descoberta de 7,5 trilhões de pés cúbicos de gás natural",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/bidboland_gas_refinery.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263643",
           "author": "Rocio Paik",
           "description": "Uma empresa sul-coreana de navegação doméstica anunciou neste domingo (23/08) o envio de seu navio cargueiro com destino à Europa usando, pela primeira vez, a rota do Ártico. Trata-se de um projeto-piloto encabeçado pelo Ministério dos Oceanos e Pescas, juntamente com associações de navegação, em meio às dificuldades do tráfego marítimo como consequência da guerra […]\nO post Navio cargueiro sul-coreano testa rota do Ártico em meio à guerra no Oriente Médio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/navio-cargueiro-sul-coreano-testa-rota-do-artico-em-meio-a-guerra-no-oriente-medio/",
           "publishedOn": "2026-08-24T04:00:56.000Z",
-          "wordCount": 3409,
+          "wordCount": 3405,
           "title": "Navio cargueiro sul-coreano testa rota do Ártico em meio à guerra no Oriente Médio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/878606_534650_4955.jpg"
         },
@@ -443,7 +417,7 @@
           "description": "O Hamas declarou neste domingo (23/08) que o governo de Israel está criando um pretexto para intensificar suas agressões na Faixa de Gaza, ao ameaçar a ampliar as evacuações e ataques aéreos caso pipas de papel continuassem sendo lançadas do território palestino. De acordo com o porta-voz do movimento, Hazem Qassem, a medida do regime […]\nO post Israel diz que pipas lançadas por crianças são ‘ato de guerra’ e intensifica ataques em Gaza apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-associa-lancamento-de-pipas-por-criancas-a-ato-de-guerra-e-intensifica-ataques-em-gaza/",
           "publishedOn": "2026-08-24T02:30:17.000Z",
-          "wordCount": 3318,
+          "wordCount": 3314,
           "title": "Israel diz que pipas lançadas por crianças são ‘ato de guerra’ e intensifica ataques em Gaza",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hqcu17ux0aavgpo.jpeg"
         },
@@ -453,7 +427,7 @@
           "description": "O presidente do Parlamento do Irã, Mohammad Baqer Qalibaf, afirmou neste domingo (23/08) que a operação econômica dos Estados Unidos, anunciada pelo presidente Donald Trump como “a mais devastadora” contra a nação persa se tornou um “bumerangue” contra a própria economia norte-americana, que enfrenta uma dívida nacional em níveis históricos em meio aos gastos excessivos […]\nO post Autoridades iranianas dizem que sanções econômicas dos EUA expõem ‘desespero’ e ‘fracasso militar’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/autoridades-do-ira-falam-em-fracasso-militar-dos-eua-apos-anuncio-de-guerra-economica/",
           "publishedOn": "2026-08-24T01:00:07.000Z",
-          "wordCount": 3265,
+          "wordCount": 3256,
           "title": "Autoridades iranianas dizem que sanções econômicas dos EUA expõem ‘desespero’ e ‘fracasso militar’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405060115530841037944664.jpg"
         },
@@ -473,7 +447,7 @@
           "description": "O governo peruano declarou estado de emergência no domingo (23/08) em cinco distritos do departamento de Ayacucho para agilizar o envio de ajuda às 500 vítimas do terremoto de magnitude 7,2. A ordem oficial publicada em um veículo de comunicação nacional estabelece a medida por 60 dias nas cidades de Chumpi, Coracora, Pullo e Upahuacho, […]\nO post Peru decreta estado de emergência em cinco distritos após terremoto de 7,2 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/peru-decreta-estado-de-emergencia-em-cinco-distritos-apos-terremoto-de-72/",
           "publishedOn": "2026-08-23T20:50:57.000Z",
-          "wordCount": 2922,
+          "wordCount": 2918,
           "title": "Peru decreta estado de emergência em cinco distritos após terremoto de 7,2",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hmalkwbxuaaagrh.jpg"
         },
@@ -483,7 +457,7 @@
           "description": "A Síria espera que as negociações com Israel sobre um acordo de segurança sejam retomadas em breve e que levem à retirada israelense do território sírio, disse o ministro das Relações Exteriores, Asaad al-Shaibani, em entrevista à Reuters. No entanto, ele declarou que “não confiamos em Israel atualmente”. “Acreditamos que deva haver contato, especialmente com […]\nO post Mesmo alegando ‘não confiar’ em Israel, Síria pede retomada de negociações por acordo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/mesmo-alegando-nao-confiar-em-israel-siria-pede-retomada-de-negociacoes-por-acordo/",
           "publishedOn": "2026-08-23T19:53:15.000Z",
-          "wordCount": 3423,
+          "wordCount": 3419,
           "title": "Mesmo alegando ‘não confiar’ em Israel, Síria pede retomada de negociações por acordo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/glwyqohwcaabgb9.jpg"
         },
@@ -493,7 +467,7 @@
           "description": "Em discurso transmitido pela televisão estatal neste domingo (23/08), o presidente iraniano Masoud Pezeshkian voltou a falar sobre o impacto das sanções econômicas impostas pelos Estados Unidos ao país e pediu solidariedade e unidade entre a população. Pezeshkian destacou a resiliência do povo iraniano como um fator que surpreendeu o mundo. O presidente classificou a […]\nO post Presidente do Irã pede unidade nacional diante de pressão econômica dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-do-ira-pede-unidade-nacional-diante-de-pressao-economica-dos-eua/",
           "publishedOn": "2026-08-23T18:00:09.000Z",
-          "wordCount": 3148,
+          "wordCount": 3139,
           "title": "Presidente do Irã pede unidade nacional diante de pressão econômica dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/1080px-masoud_pezeshkian_2024_a.jpg"
         },
@@ -503,7 +477,7 @@
           "description": "A ala de esquerda do Partido Democrata está passando por uma ascensão histórica impulsionada pela liderança de Zohran Mamdani na prefeitura de Nova York, apoiada pela aliança estratégica com Bernie Sanders e Alexandria Ocasio-Cortez em nível nacional. Por gerações, a sigla funcionou como uma ampla coalizão na qual os setores centristas, moderados e liberais pró-empresas […]\nO post O dilema dos democratas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-dilema-dos-democratas/",
           "publishedOn": "2026-08-23T17:00:12.000Z",
-          "wordCount": 5329,
+          "wordCount": 5325,
           "title": "O dilema dos democratas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/zohran_mamdani_at_the_resist_fascism_rally_in_bryant_park_on_oct_27th_2024.jpg"
         },
@@ -513,19 +487,9 @@
           "description": "Um grupo de 23 intelectuais do Ocidente assinaram uma carta aberta em repúdio à República Islâmica do Irã, com mensagem que coloca no mesmo patamar o caráter imperialista dos ataques dos Estados Unidos e de Israel ao país persa e as denúncias de violações aos direitos humanos de presos políticos no país persa. Entre os […]\nO post Intelectuais do Ocidente publicam carta criticando Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/intelectuais-do-ocidente-publicam-carta-criticando-ira/",
           "publishedOn": "2026-08-23T16:48:50.000Z",
-          "wordCount": 5379,
+          "wordCount": 5370,
           "title": "Intelectuais do Ocidente publicam carta criticando Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ia.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263568",
-          "author": "Victor Farinelli",
-          "description": "Está em cartaz nas salas de cinema de todo o Brasil o filme Terra à Deriva 2, produção chinesa que promete ser uma das obras com a qual o país asiático pretende catapultar sua crescente indústria de filmes de ficção científica. A obra, que estreou na última quinta-feira (20/08), traz uma novidade interessante: a presença […]\nO post ‘China realizou meu sonho de ser atriz’, diz brasileira protagonista de blockbuster chinês apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/cultura/china-realizou-meu-sonho-de-ser-atriz-diz-brasileira-protagonista-de-blockbuster-chines/",
-          "publishedOn": "2026-08-23T15:30:38.000Z",
-          "wordCount": 5434,
-          "title": "‘China realizou meu sonho de ser atriz’, diz brasileira protagonista de blockbuster chinês",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/daniela.jpg"
         }
       ]
     },
@@ -543,26 +507,6 @@
           "wordCount": 2639,
           "title": "Belo recebeu R$ 7 milhões em cachês durante governo do amigo Cláudio Castro",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/774059080_1599973938266531_5135287237955347401_n.jpg"
-        },
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32512",
-          "author": "De Olho nos Ruralistas",
-          "description": "De um lado, uma música com mais de 20 anos de carreira, em Jataí (GO), com cachês normais para o padrão brasileiro; do outro, uma jovem que já entrou no mercado cobrando entre R$ 100 mil e R$ 150 mil por show; a homônima da goiana tem a bênção de uma das empresas mais contratadas […]\nO post Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-talita-mel/",
-          "publishedOn": "2026-08-19T20:21:40.000Z",
-          "wordCount": 3142,
-          "title": "Talita Mel x Talita Mel: a “original” luta pelo nome contra artista da produtora de Xand Avião",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/talitavstalita.jpg.jpeg"
-        },
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32500",
-          "author": "De Olho nos Ruralistas",
-          "description": "Sindicalistas da Bahia, Minas e São Paulo comentam impacto dos dados do relatório e desafios observados pela categoria; observatório realiza live nesta quarta com presidente do Sindimus-MG e cantora que teve nome artístico copiado por “incubada” da produtora Vybbe Por Carolina Bataier Cinco bilhões de reais. Essa é a soma dos cachês pagos por prefeituras […]\nO post Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/08/19/farras-sindicatos/",
-          "publishedOn": "2026-08-19T17:28:29.000Z",
-          "wordCount": 2500,
-          "title": "Dossiê Farras deve subsidiar ações penais, avaliam sindicatos de músicos",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/08/capa-sindicatos.jpeg"
         }
       ]
     },
@@ -572,12 +516,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=231794",
+          "author": "Redação de AND",
+          "description": "Hamas, Jihad Islâmica, correntes dissidentes do Fatah e outras forças palestinas avançaram na formação de uma ampla aliança para as eleições legislativas de novembro, enquanto organizações da Resistência defenderam o mais amplo consenso nacional e a participação popular. A movimentação provocou reação na cúpula de Mahmoud Abbas: fontes ouvidas pela Quds News Network (QNN) afirmam que seu círculo próximo estuda adiar o pleito utilizando Al-Quds ocupada como justificativa, repetindo a manobra de 2021. Em Gaza, a entidade nazi-sionista ameaçou novos assassinatos e deslocamentos forçados por causa de pipas de papel lançadas por crianças.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-23-08-2026/",
+          "publishedOn": "2026-08-24T02:00:00.000Z",
+          "wordCount": 9347,
+          "title": "Plantão Palestina (22–23/08): Frações da Resistência avançam aliança nacional e círculo de Abbas estuda adiar eleições; ‘Israel’ ameaça Gaza por pipas de papel",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2027-07-22-plantao-palestina.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=231770",
           "author": "Ana Nascimento",
           "description": "Essa massiva ausência de adesão aos nomes apresentados demonstra que a maioria do povo não acredita mais que a farsa eleitoral e os projetos dos políticos modificarão a realidade social.",
           "link": "https://anovademocracia.com.br/df-maioria-povo-rejeita-farsa-eleitoral/",
           "publishedOn": "2026-08-24T01:02:22.000Z",
-          "wordCount": 8944,
+          "wordCount": 8955,
           "title": "DF: Maioria da população de Brasília não tem candidato para a farsa eleitoral de 2026",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-15.jpeg"
         },
@@ -587,7 +541,7 @@
           "description": "Comitiva da Embaixada discute acesso a informações e novos treinamentos no Acre; estado já enviou policiais à SWAT e recebeu adidos da Força Aérea, Guarda Costeira e órgãos de inteligência do EUA, enquanto tropas ianques ampliam exercícios de combate na Amazônia.",
           "link": "https://anovademocracia.com.br/agentes-ianques-fronteira/",
           "publishedOn": "2026-08-23T22:07:14.000Z",
-          "wordCount": 8312,
+          "wordCount": 8323,
           "title": "Agentes ianques percorrem fronteira no Acre para ampliar acesso a informações e tutela sobre as forças de repressão brasileiras",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-33.png"
         },
@@ -597,7 +551,7 @@
           "description": "Mobilizações de julho reuniram estudantes e usuários contra redução da frota e atrasos que chegam a horas; crise é resultado de anos de contratos emergenciais, subsídios crescentes, dívidas trabalhistas e sucessivas paralisações.",
           "link": "https://anovademocracia.com.br/estudantes-ocupam-terminal-rio-branco/",
           "publishedOn": "2026-08-23T20:30:47.000Z",
-          "wordCount": 8566,
+          "wordCount": 8577,
           "title": "AC: Estudantes ocupam Terminal Urbano e enfrentam repressão em luta contra colapso do transporte em Rio Branco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-29.png"
         },
@@ -607,7 +561,7 @@
           "description": "Quase quatro em cada dez pessoas encarceradas no Amazonas permanecem em prisão preventiva, sem condenação definitiva. Dos 8.195 presos registrados no estado, 3.254 ainda aguardam julgamento ou o trânsito em julgado de seus processos.",
           "link": "https://anovademocracia.com.br/am-presos-sem-condenacao-superlotacao/",
           "publishedOn": "2026-08-22T18:45:41.000Z",
-          "wordCount": 7880,
+          "wordCount": 7891,
           "title": "AM: Quase 40% dos presos seguem sem condenação definitiva e em presídios superlotados",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-29.jpg"
         },
@@ -617,7 +571,7 @@
           "description": "No A Propósito #371, diretor-geral de AND afirmou que as contradições entre o governo de Luiz Inácio e Washington não representam uma ruptura com o imperialismo, mas uma barganha pela parcela destinada à grande burguesia na pilhagem do País.",
           "link": "https://anovademocracia.com.br/governo-nao-soberania-vende-la-eleitoral/",
           "publishedOn": "2026-08-22T15:00:00.000Z",
-          "wordCount": 7451,
+          "wordCount": 7462,
           "title": "‘O governo não quer fazer prevalecer a soberania; quer o direito de vendê-la’: ‘A Propósito’ debate falsa polarização eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-lula.webp"
         },
@@ -627,7 +581,7 @@
           "description": "O canibal Donald Trump anunciou uma “guerra econômica” contra o Irã e ameaçou países, bancos e empresas que mantenham relações financeiras, comerciais ou logísticas com Teerã. O secretário do Tesouro Scott Bessent prometeu as “sanções mais duras da história” e explicitou o objetivo de levar o governo iraniano ao colapso. Teerã respondeu que as sucessivas campanhas de pressão ianques fracassaram e advertiu que novas agressões receberão resposta militar. Na Palestina, Hamas, Jihad Islâmica, FPLP, FDLP e outras forças avançaram nas discussões para disputar as eleições legislativas em uma lista nacional comum.",
           "link": "https://anovademocracia.com.br/plantao-palestina-21-08-2026/",
           "publishedOn": "2026-08-22T01:00:00.000Z",
-          "wordCount": 9293,
+          "wordCount": 9304,
           "title": "Plantão Palestina (20–21/08): Trump declara ‘guerra econômica’ contra Irã e ameaça parceiros de Teerã; frações palestinas avançam lista nacional unificada",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-plantao-palestina.jpg"
         },
@@ -637,7 +591,7 @@
           "description": "Correspondentes locais registram protestos contra crimes de policiais e a resistência indígena, enquanto agitadores e propagandistas realizam brigadas, coberturas, atividades de formação e outras iniciativas em diferentes regiões do País.",
           "link": "https://anovademocracia.com.br/and-brasil-adentro-semana-33-2026/",
           "publishedOn": "2026-08-21T22:26:42.000Z",
-          "wordCount": 9591,
+          "wordCount": 9602,
           "title": "AND Brasil Adentro (Semana 33): ‘A gente só vê esses políticos na época de eleição’, denunciam moradores da Vila Esperança; Várzea e Mangueira se levantam contra violência policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-and-brasil-adentro-semana-33.jpg"
         },
@@ -647,7 +601,7 @@
           "description": "Comunidade pobre formada sobretudo por famílias expulsas do campo bloqueou por 12 horas uma das principais rodovias do país para exigir água potável, pavimentação e atendimento aos atingidos por deslizamento; após oferecer apenas nova reunião, velho Estado atacou moradores com gás lacrimogêneo e granadas atordoantes.",
           "link": "https://anovademocracia.com.br/moradores-bloqueiam-rodovia-agua-colombia/",
           "publishedOn": "2026-08-21T18:22:09.000Z",
-          "wordCount": 7727,
+          "wordCount": 7738,
           "title": "‘Daremos luta, custe o que custar’: moradores de Granizal bloqueiam rodovia por água e enfrentam repressão na Colômbia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-colombia-1024x576.webp"
         },
@@ -657,19 +611,9 @@
           "description": "Completamente desconhecido, candidato bolsonarista Victor Jansen tenta ganhar relevância surfando na onda do arruaceiro Wilker Leão e se une ao clube \"valentões da madrugada\", seleto grupo de frouxos da extrema direita que invade universidades vazias para praguejar contra os estudantes.",
           "link": "https://anovademocracia.com.br/candidato-extrema-direita-unb/",
           "publishedOn": "2026-08-21T17:22:54.000Z",
-          "wordCount": 8845,
+          "wordCount": 8856,
           "title": "Amedrontado com ‘símbolos comunistas’, candidato bolsonarista invade a UnB vazia e ladra contra o movimento estudantil",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-27-1024x576.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231691",
-          "author": "Giovanna Maria",
-          "description": "Trabalhadores contratados pela Produserv paralisaram atividades após novo atraso de salários e benefícios; funcionária relata sobrecarga, falta de materiais e trabalhadoras que precisaram fazer faxinas extras para comprar alimentos e pagar contas.",
-          "link": "https://anovademocracia.com.br/terceirizados-uem-greve/",
-          "publishedOn": "2026-08-21T13:55:31.000Z",
-          "wordCount": 8418,
-          "title": "Terceirizados da Universidade Estadual de Maringá entram em greve após atraso de salários e denunciam condições precárias de trabalho",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-26.png"
         }
       ]
     },
@@ -704,7 +648,7 @@
           "description": "Memórias do Jornalismo: A direita trama o golpe de 1964, mas Brizola, Jango e os que querem mudar o país têm raízes na sociedade. Surgem rachas nos jornais. Ao relatar o fiasco de uma reunião de pelegos sindicais financiada pela CIA, descobre-se a “regra do jogo”\nThe post Um país polarizado e um repórter brincando com fogo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/um-pais-polarizado-e-um-reporter-brincando-com-fogo/",
           "publishedOn": "2026-08-21T21:14:18.000Z",
-          "wordCount": 6068,
+          "wordCount": 6071,
           "title": "Um país polarizado e um repórter brincando com fogo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-21-at-18-10-38-10-Populacao-presente-no-Comicio-da-Central-1024x602.jpg.webp-imagem-WEBP-1024-%C3%97-602-pixels.png"
         },
@@ -714,7 +658,7 @@
           "description": "Carta sobre o destino de mais uma mulher trans. E quando a violência que arrasa corpos dissidentes vem justamente de um corpo também oprimido? Já passa da hora de implodir a economia simbólica da mais-valia. Ela precisa fazer alguém menos para que outro possa ser mais\nThe post “Todas somos Bárbara” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/feminismos/todas-somos-barbara/",
           "publishedOn": "2026-08-21T20:53:09.000Z",
-          "wordCount": 6104,
+          "wordCount": 6106,
           "title": "“Todas somos Bárbara”",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/49207446027178506581.jpg"
         },
