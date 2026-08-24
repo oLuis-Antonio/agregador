@@ -43,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a8c61bf91d6a002fdc10c93",
+          "author": "PSTU-SE",
+          "description": "Partido não terá candidaturas no Estado, chama \"voto crítico\" no Psol e apresenta programa radical para o Brasil e para Sergipe",
+          "link": "https://opiniaosocialista.com.br/pstu-convoca-sergipanos-e-sergipanas-a-votar-em-hertz-dias-para-presidente/",
+          "publishedOn": "2026-08-24T18:53:29.000Z",
+          "wordCount": 2654,
+          "title": "PSTU convoca sergipanos e sergipanas a votar em  Hertz Dias para presidente",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Hertz-Dias-e-Vanessa-Portugal-1.webp"
+        },
+        {
           "id": "6a8c563e91d6a002fdc10c7b",
           "author": "Samuel Mattos, de Curitiba (PR)",
           "description": "No capitalismo, a exploração da classe trabalhadora é sustentada por diferentes formas de opressão, como o racismo, o machismo e a LGBTIfobia. Essas opressões não são apenas preconceitos individuais, mas mecanismos que dividem os trabalhadores e impedem sua unidade",
@@ -148,7 +158,7 @@
           "description": "A campanha “Queremos a Esquerda nos Debates” ganhou repercussão nas últimas semanas, mobilizando apoiadores de diferentes organizações políticas que defendem a ampliação da participação de candidaturas de esquerda nos debates e sabatinas promovidos pelos",
           "link": "https://opiniaosocialista.com.br/campanha-por-maior-pluralidade-nos-debates-eleitorais-ganha-forca-nas-redes-e-chega-as-ruas/",
           "publishedOn": "2026-08-21T18:30:00.000Z",
-          "wordCount": 1169,
+          "wordCount": 1179,
           "title": "Campanha por maior pluralidade nos debates eleitorais ganha força nas redes e chega às ruas",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/Ato-em-frente-a-Band-contra-o-veto-das-candidaturas-da-esquerda.webp"
         },
@@ -158,7 +168,7 @@
           "description": "Em São Paulo, Hertz Dias e Vanessa Portugal defenderam a reestatização de setores estratégicos da economia",
           "link": "https://opiniaosocialista.com.br/pstu-da-largada-a-campanha-eleitoral-com-mobilizacoes-em-todo-o-pais/",
           "publishedOn": "2026-08-21T16:11:54.000Z",
-          "wordCount": 1125,
+          "wordCount": 1135,
           "title": "PSTU dá largada à campanha eleitoral com mobilizações em todo o país",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/Campanha-eleitoral-PSTU.webp"
         },
@@ -168,7 +178,7 @@
           "description": "Vera Lúcia, candidata do PSTU ao governo de São Paulo, segue aparecendo em terceiro lugar nas pesquisas, mas sofre um forte boicote da grande mídia. As regras atuais de financiamento e acesso à propaganda eleitoral, somadas aos critérios adotados por parte da",
           "link": "https://opiniaosocialista.com.br/vera-aparece-em-3o-lugar-nas-pesquisas-mas-sofre-boicote-da-grande-midia/",
           "publishedOn": "2026-08-21T15:42:41.000Z",
-          "wordCount": 1253,
+          "wordCount": 1263,
           "title": "Vera aparece em 3º lugar nas pesquisas, mas sofre boicote da grande mídia",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/vera.webp"
         },
@@ -181,16 +191,6 @@
           "wordCount": 1291,
           "title": "Livro Programa revolucionário para o Brasil está no prelo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/livro_mariucha.webp"
-        },
-        {
-          "id": "6a8864d0cd6b09206e7b3e6e",
-          "author": "Redação",
-          "description": "Não à condenação de Zé Maria por defender o povo palestino",
-          "link": "https://opiniaosocialista.com.br/nao-nos-calarao-nem-uma-voz-pela-palestina-sera-silenciada/",
-          "publishedOn": "2026-08-21T15:00:39.000Z",
-          "wordCount": 1335,
-          "title": "Não nos calarão: nem uma voz pela Palestina será silenciada",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/08/Ze-Maria.webp"
         }
       ]
     },
@@ -200,13 +200,23 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Departamento-de-Guerra-injeta-R-3-8-bi-na-compra-da-Serra-Verde-Fora-Trump-da-America-Latina",
+          "author": "Redação",
+          "description": "A ofensiva dos Estados Unidos sobre as terras raras brasileiras deu nesta segunda-feira (24) um salto de qualidade. A norte-americana USA Rare Earth anunciou que concluiu a capitalização de US$ 1,55 bilhão para destravar a aquisição da Serra Verde. Nada menos que US$ 750 milhões, cerca de R$ 3,8 bilhões serão aportados diretamente pelo Departamento de Guerra dos EUA, US$ 250 milhões acima do previsto. Trump, tire as mãos das nossas terras raras!\n24-08-2026\n\n/ Donald Trump, Imperialismo, Anti-imperialista, Mineração, Terras Raras",
+          "link": "https://www.esquerdadiario.com.br/Departamento-de-Guerra-injeta-R-3-8-bi-na-compra-da-Serra-Verde-Fora-Trump-da-America-Latina",
+          "publishedOn": "2026-08-24T19:35:26.000Z",
+          "wordCount": null,
+          "title": "Departamento de Guerra dos EUA injeta R$3,8 bi na compra da Serra Verde. Fora Trump da América Latina!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/A-ingerencia-de-Trump-nas-eleicoes-segue-e-dialogo-com-Lula-nao-vai-barra-la-mas-a-mobilizacao",
           "author": "Redação",
           "description": "Luiz Inácio Lula da Silva e Donald Trump conversaram por uma hora e vinte minutos na sexta-feira (21), em um telefonema tido por “amistoso e cordial” por parte do Palácio do Planalto.\n24-08-2026\n\n/ Lula, Donald Trump, Governo Lula, Tarifas de Trump, Eleições 2026",
           "link": "https://www.esquerdadiario.com.br/A-ingerencia-de-Trump-nas-eleicoes-segue-e-dialogo-com-Lula-nao-vai-barra-la-mas-a-mobilizacao",
           "publishedOn": "2026-08-24T16:29:37.000Z",
           "wordCount": null,
-          "title": "A ingerência de Trump nas eleições segue e diálogo com Lula não vai barrá-la, mas a mobilização!",
+          "title": "Segue ingerência de Trump nas eleições e diálogo de Lula não vai barrá-la, mas sim a mobilização!",
           "imageUrl": null
         },
         {
@@ -216,7 +226,7 @@
           "link": "https://www.esquerdadiario.com.br/Sem-Lula-e-Flavio-debate-da-Band-vira-show-de-reacionarismo-com-exclusao-da-esquerda",
           "publishedOn": "2026-08-24T14:15:00.000Z",
           "wordCount": null,
-          "title": "Sem Lula e Flávio, debate da Band vira show de reacionarismo com exclusão da esquerda",
+          "title": "Debate na Band foi um show de reacionarismo, excluiu a esquerda e Lula e Flávio estavam ausentes",
           "imageUrl": null
         },
         {
@@ -344,6 +354,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=162600",
+          "author": "Catarina Duarte",
+          "description": "Relatório aponta uso recorrente de agentes químicos em celas fechadas, marcas compatíveis com disparos de bala de borracha em portas, revistas vexatórias e falhas na assistência à saúde\nO conteúdo Inspeção denuncia uso de bombas de gás contra presas em unidade feminina de Palmas (TO) Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/inspecao-denuncia-uso-de-bombas-de-gas-contra-presas-em-unidade-feminina-de-palmas-to/",
+          "publishedOn": "2026-08-24T19:03:33.000Z",
+          "wordCount": 7242,
+          "title": "Inspeção denuncia uso de bombas de gás contra presas em unidade feminina de Palmas (TO)",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/spray-de-pimenta-e-tonfas.webp"
+        },
+        {
           "id": "https://ponte.org/?p=162659",
           "author": "Mariana Rosetti",
           "description": "Acusado de ameaçar cidadãos, atirar contra cães e coagir servidores, Moacir Cova (Podemos) perdeu o cargo em Itu (SP)\nO conteúdo ‘Bonde do Moacir’: vereador tem mandato cassado por quebra de decoro Pode ser acessado em Ponte Jornalismo.",
@@ -370,6 +390,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74590",
+          "author": "Mintpress News",
+          "description": "e Taylor Swift e Kim Kardashian a Jennifer Aniston e Lionel Messi, celebridades de todo o mundo estão contratando equipes de guarda-costas israelenses compostas por ex-membros do Shin Bet, do Mossad e das forças especiais israelenses. Mas até que ponto é seguro confiar sua vida e seus detalhes mais íntimos a agentes de agências de […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/08/24/de-gaza-a-hollywood-como-ex-espioes-de-israel-se-consolidaram-no-mercado-de-seguranca-para-celebridades/",
+          "publishedOn": "2026-08-24T20:17:41.000Z",
+          "wordCount": 4406,
+          "title": "De Gaza a Hollywood: como ex-espiões de Israel se consolidaram no mercado de segurança para celebridades",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/israel.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74586",
           "author": "Globetrotter",
@@ -408,12 +438,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263713",
+          "author": "Raissa Neves",
+          "description": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta segunda-feira (24/08) que as tarifas aplicadas a carros, caminhões, autopeças e aço importados do Canadá passarão para 50% a partir de 1º de janeiro de 2027. Em uma publicação na rede Truth Social, o mandatário norte-americano  acusou o Canadá de explorar os Estados Unidos durante anos […]\nO post Trump anuncia tarifa de 50% sobre veículos e aço do Canadá apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/trump-anuncia-tarifa-de-50-sobre-veiculos-e-aco-do-canada/",
+          "publishedOn": "2026-08-24T20:20:21.000Z",
+          "wordCount": 3842,
+          "title": "Trump anuncia tarifa de 50% sobre veículos e aço do Canadá",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/president_donald_trump_meets_with_canadian_prime_minister_mark_carney_in_the_oval_office_54502028696-1-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263720",
+          "author": "Raissa Neves",
+          "description": "“Se quiser ir rápido, vá sozinho. Se quiser ir longe, vá acompanhado.” – Sabedoria popular africana Não é preciso ter uma avaliação exaltada destes últimos três anos e meio – um legado positivo, quando comparado com os seis anos anteriores, mas limitado, dizendo o mínimo –, para compreender que a eleição de Lula é vital, […]\nO post As duas almas da esquerda brasileira apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/as-duas-almas-da-esquerda-brasileira/",
+          "publishedOn": "2026-08-24T19:34:30.000Z",
+          "wordCount": 5808,
+          "title": "As duas almas da esquerda brasileira",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55481283700_3aa983391e_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263715",
+          "author": "Victor Farinelli",
+          "description": "O secretário do Conselho Supremo de Segurança Nacional do Irã, Mohsen Rezaei, afirmou nesta segunda-feira (24/08) que o país está preparado para reagir contra os países que atuarem para tentar desestabilizar sua economia. A declaração faz referência ao pacote de sanções anunciado na última quarta-feira (19/08) pelo governo dos Estados Unidos, e que foi descrito […]\nO post Irã promete retaliação ‘semelhante a terremoto’ contra países que adotarem sanções dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-promete-retaliacao-semelhante-a-terremoto-contra-paises-que-adotarem-sancoes-dos-eua/",
+          "publishedOn": "2026-08-24T18:46:18.000Z",
+          "wordCount": 3070,
+          "title": "Irã promete retaliação ‘semelhante a terremoto’ contra países que adotarem sanções dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/reza.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263712",
+          "author": "Tabitha Ramalho",
+          "description": "As Forças Armadas da Ucrânia realizaram um novo ataque de drones em regiões russas na madrugada desta segunda-feira (24/08), atingindo diversas instalações da empresa de comércio eletrônico Wildberries e Ozon. Na região de Krasnodar, duas crianças morreram em um dos ataques. O governador da região de Krasnodar, Veniamin Kondratyev, disse que “detritos de drone” caíram […]\nO post Ucrânia realiza ataques de drones a centros logísticos russos pelo terceiro dia consecutivo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-realiza-ataques-de-drones-a-centros-logisticos-russos-pelo-terceiro-dia-consecutivo/",
+          "publishedOn": "2026-08-24T17:46:25.000Z",
+          "wordCount": 3329,
+          "title": "Ucrânia realiza ataques de drones a centros logísticos russos pelo terceiro dia consecutivo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/photo2026-07-2407-37-36-325111e7.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263706",
           "author": "Tatiana Carlotti",
           "description": "Os democratas ampliaram suas possibilidades de retomar o controle do Senado nas eleições legislativas, marcadas para novembro deste ano nos Estados Unidos. A avaliação é de uma reportagem publicada nesta segunda-feira (24/08) pelo New York Times, que ouviu estrategistas dos dois partidos e analistas independentes. Segundo o jornal, o cenário eleitoral encontra-se marcado pela queda […]\nO post NYT: democratas avançam na disputa pelo Senado em meio à baixa popularidade de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/nyt-democratas-avancam-na-disputa-pelo-senado-em-meio-a-baixa-popularidade-de-trump/",
           "publishedOn": "2026-08-24T16:40:09.000Z",
-          "wordCount": 3762,
+          "wordCount": 3765,
           "title": "NYT: democratas avançam na disputa pelo Senado em meio à baixa popularidade de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/molly-riley-wh.jpg"
         },
@@ -423,7 +493,7 @@
           "description": "A emissora pública holandesa anunciou que não participará do Festival Eurovision da Canção do próximo ano, pois o evento “não pode mais ser considerado neutro” devido às divisões em curso sobre a guerra em Gaza. “É inegável que os conflitos internacionais estão afetando cada vez mais o Festival, minando seu caráter neutro. O Festival Eurovisão […]\nO post Holanda boicota Eurovision: ‘não pode mais ser considerado neutro’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/holanda-boicota-eurovision-nao-pode-mais-ser-considerado-neutro/",
           "publishedOn": "2026-08-24T15:58:27.000Z",
-          "wordCount": 2856,
+          "wordCount": 2857,
           "title": "Holanda boicota Eurovision: ‘não pode mais ser considerado neutro’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-12-104634.png"
         },
@@ -433,7 +503,7 @@
           "description": "Entidades de professores e trabalhadores das universidades públicas da Argentina, como o Conselho Interuniversitário Nacional (CIN) e a Federação Universitária Argentina (FUA), reúnem-se nesta segunda-feira (24/08) para preparar uma nova greve universitária no país contra as políticas do governo Milei para o setor. A paralisação de 48 horas está prevista para a próxima quinta-feira (27/08). […]\nO post Professores e trabalhadores de universidades argentinas anunciam greve contra políticas de Milei apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/professores-e-trabalhadores-de-universidades-argentinas-anunciam-greve-contra-politicas-de-milei/",
           "publishedOn": "2026-08-24T15:10:34.000Z",
-          "wordCount": 3304,
+          "wordCount": 3305,
           "title": "Professores e trabalhadores de universidades argentinas anunciam greve contra políticas de Milei",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/javier_milei_viva22_2.jpg"
         },
@@ -443,7 +513,7 @@
           "description": "A fusão dos partidos Hadash-Ta’al e Balad na Lista Conjunta aumentaria o número de cadeiras ocupadas pelos partidos árabes em uma. Mostra uma pesquisa do Kan 11 publicada na noite de domingo (23/08). Os partidos Hadash, Ta’al e Balad anunciaram na quarta-feira (19/08) que chegaram a um acordo para concorrer em uma chapa conjunta nas próximas eleições […]\nO post Israel: partidos árabes podem ampliar cadeiras no Parlamento após lista conjunta, aponta pesquisa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/israel-partidos-arabes-podem-ampliar-cadeiras-no-parlamento-apos-lista-conjunta-aponta-pesquisa/",
           "publishedOn": "2026-08-24T14:26:17.000Z",
-          "wordCount": 2964,
+          "wordCount": 2965,
           "title": "Israel: partidos árabes podem ampliar cadeiras no Parlamento após lista conjunta, aponta pesquisa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hnqvqyxw8aa2rpn.jpg"
         },
@@ -453,7 +523,7 @@
           "description": "O Exército dos Estados Unidos anunciou nesta segunda-feira (24/08) ter matado dois homens em um ataque aéreo realizado na véspera contra um barco de supostos traficantes de drogas no leste do oceano Pacífico. Segundo o Comando Sul das Forças Armadas americanas (Southcom), a embarcação “operava ao longo de rotas conhecidas do narcotráfico” na região. “Informações […]\nO post EUA matam dois em novo ataque a barco suspeito de narcotráfico no Pacífico apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/eua-matam-dois-em-novo-ataque-a-barco-suspeito-de-narcotrafico-no-pacifico/",
           "publishedOn": "2026-08-24T13:40:53.000Z",
-          "wordCount": 3393,
+          "wordCount": 3394,
           "title": "EUA matam dois em novo ataque a barco suspeito de narcotráfico no Pacífico",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/690d771359bf5b6ff25c0079.jpg"
         },
@@ -463,49 +533,9 @@
           "description": "O secretário do Tesouro norte-americano, Scott Bessent, afirmou que Washington irá anunciar nesta segunda-feira (24/08) uma nova e ampla ofensiva de sanções contra o Irã. Segundo ele, trata-se da “maior ofensiva financeira já orquestrada contra um adversário”. O porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, respondeu às ameaças e disse que “o Irã […]\nO post Irã diz que não aceitará imposições dos EUA e rechaça ameaças de novas sanções apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-diz-que-nao-aceitara-imposicoes-dos-eua-e-rechaca-ameacas-de-novas-sancoes/",
           "publishedOn": "2026-08-24T12:57:42.000Z",
-          "wordCount": 3710,
+          "wordCount": 3711,
           "title": "Irã diz que não aceitará imposições dos EUA e rechaça ameaças de novas sanções",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ira-baghaei.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263673",
-          "author": "Tabitha Ramalho",
-          "description": "O ex-presidente colombiano Gustavo Petro, em entrevista recente à Al Jazeera, condenou a reabertura das relações diplomáticas entre seu país e Israel pelo novo presidente, Abelardo de la Espriella, e pediu que as vítimas do conflito em Gaza sejam lembradas. “Abrir relações com Israel hoje, enquanto Netanyahu está no poder, é aplaudir o genocídio de […]\nO post Petro condena reabertura de relações da Colômbia com Israel: ‘aplaudir genocídio’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/petro-condena-reabertura-de-relacoes-da-colombia-com-israel-aplaudir-genocidio/",
-          "publishedOn": "2026-08-24T12:40:06.000Z",
-          "wordCount": 3279,
-          "title": "Petro condena reabertura de relações da Colômbia com Israel: ‘aplaudir genocídio’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/colombia-petro-embajadores01.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263672",
-          "author": "Tatiana Carlotti",
-          "description": "A relatora especial das Nações Unidas (ONU), Francesca Albanese, pediu o envio de forças internacionais de proteção na Cisjordânia ocupada, Jerusalém e Faixa de Gaza, para proteger o povo palestino dos ataques israelenses. “Uma presença internacional de proteção na Cisjordânia, Jerusalém Oriental e Gaza é absolutamente urgente”, declarou a relatora da ONU sobre a situação […]\nO post Relatora da ONU pede presença internacional ‘urgente’ em Gaza e na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/relatora-da-onu-pede-presenca-internacional-urgente-em-gaza-e-na-cisjordania/",
-          "publishedOn": "2026-08-24T11:54:30.000Z",
-          "wordCount": 3005,
-          "title": "Relatora da ONU pede presença internacional ‘urgente’ em Gaza e na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/x-albanese.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263660",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente Luiz Inácio Lula da Silva afirmou que mantém uma relação “civilizada” e “respeitosa” com o presidente dos Estados Unidos, Donald Trump, mas criticou as medidas adotadas por Washington contra o país, rejeitando qualquer ingerência externa nos assuntos brasileiros. “O Brasil não pode aceitar interferências de outros países em seus assuntos internos”, declarou à […]\nO post ‘Brasil não pode aceitar interferências de outros países em assuntos internos’, diz Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/brasil-nao-pode-aceitar-interferencias-de-outros-paises-em-assuntos-internos-diz-lula/",
-          "publishedOn": "2026-08-24T10:44:37.000Z",
-          "wordCount": 4754,
-          "title": "‘Brasil não pode aceitar interferências de outros países em assuntos internos’, diz Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/lula-brics_mcamgo_abr_26022025-3.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263652",
-          "author": "Rocio Paik",
-          "description": "O presidente cubano Miguel Díaz-Canel Bermúdez afirmou que as 176 medidas econômicas aprovadas pela Assembleia Nacional, 75% delas já com respaldo legal, buscam fortalecer a economia nacional e não são concessões aos Estados Unidos nem um abandono do processo socialista de construção no país caribenho. “As 176 medidas econômicas anunciadas são resultado de um debate […]\nO post Díaz-Canel denuncia ‘guerra multidimensional’ dos EUA contra Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-denuncia-guerra-multidimensional-dos-eua-a-cuba-sancoes-se-transformam-em-genocidio/",
-          "publishedOn": "2026-08-24T10:00:47.000Z",
-          "wordCount": 4928,
-          "title": "Díaz-Canel denuncia ‘guerra multidimensional’ dos EUA contra Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/4371b125-853e-4745-90b8-ccb632b5ef9fjpg.jpeg__2713.0x2181.0_q85_subsampling-2-scaled.jpg"
         }
       ]
     },
@@ -532,23 +562,33 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=231806",
+          "author": "Redação de AND",
+          "description": "Entidade denuncia que advogada popular está presa há mais de nove meses sem que testemunhas a relacionem a qualquer crime e exige o fim do segredo de justiça; Lenir Correia foi reconhecida como prisioneira política pelo Tribunal Popular contra os Crimes do Latifúndio.",
+          "link": "https://anovademocracia.com.br/godos-lenir-correia-luta-pela-terra-abrapo/",
+          "publishedOn": "2026-08-24T18:46:53.000Z",
+          "wordCount": 8784,
+          "title": "Sigilo da Operação ‘Godos’ blinda perseguição a Lenir Correia e criminalização da luta pela terra, denuncia ABRAPO",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/lenir-correia-coelho-arte.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=231794",
           "author": "Redação de AND",
           "description": "Hamas, Jihad Islâmica, correntes dissidentes do Fatah e outras forças palestinas avançaram na formação de uma ampla aliança para as eleições legislativas de novembro, enquanto organizações da Resistência defenderam o mais amplo consenso nacional e a participação popular. A movimentação provocou reação na cúpula de Mahmoud Abbas: fontes ouvidas pela Quds News Network (QNN) afirmam que seu círculo próximo estuda adiar o pleito utilizando Al-Quds ocupada como justificativa, repetindo a manobra de 2021. Em Gaza, a entidade nazi-sionista ameaçou novos assassinatos e deslocamentos forçados por causa de pipas de papel lançadas por crianças.",
           "link": "https://anovademocracia.com.br/plantao-palestina-23-08-2026/",
           "publishedOn": "2026-08-24T02:00:00.000Z",
-          "wordCount": 9347,
+          "wordCount": 9355,
           "title": "Plantão Palestina (22–23/08): Frações da Resistência avançam aliança nacional e círculo de Abbas estuda adiar eleições; ‘Israel’ ameaça Gaza por pipas de papel",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/2027-07-22-plantao-palestina.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=231770",
           "author": "Ana Nascimento",
-          "description": "Essa massiva ausência de adesão aos nomes apresentados demonstra que a maioria do povo não acredita mais que a farsa eleitoral e os projetos dos políticos modificarão a realidade social.",
+          "description": "Nas ruas, o cenário encontrado pela correspondência local de AND é de desilusão. Essa massiva ausência de adesão aos nomes apresentados demonstra que a maioria do povo não acredita mais que a farsa eleitoral e a velha política oficial modificarão a realidade do País.",
           "link": "https://anovademocracia.com.br/df-maioria-povo-rejeita-farsa-eleitoral/",
           "publishedOn": "2026-08-24T01:02:22.000Z",
-          "wordCount": 8955,
-          "title": "DF: Maioria da população de Brasília não tem candidato para a farsa eleitoral de 2026",
+          "wordCount": 9047,
+          "title": "Maioria da população de Brasília não vê ‘ninguém em quem confiar’ e não tem candidato para a farsa eleitoral de 2026",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-15.jpeg"
         },
         {
@@ -557,7 +597,7 @@
           "description": "Comitiva da Embaixada discute acesso a informações e novos treinamentos no Acre; estado já enviou policiais à SWAT e recebeu adidos da Força Aérea, Guarda Costeira e órgãos de inteligência do EUA, enquanto tropas ianques ampliam exercícios de combate na Amazônia.",
           "link": "https://anovademocracia.com.br/agentes-ianques-fronteira/",
           "publishedOn": "2026-08-23T22:07:14.000Z",
-          "wordCount": 8323,
+          "wordCount": 8331,
           "title": "Agentes ianques percorrem fronteira no Acre para ampliar acesso a informações e tutela sobre as forças de repressão brasileiras",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-33.png"
         },
@@ -567,7 +607,7 @@
           "description": "Mobilizações de julho reuniram estudantes e usuários contra redução da frota e atrasos que chegam a horas; crise é resultado de anos de contratos emergenciais, subsídios crescentes, dívidas trabalhistas e sucessivas paralisações.",
           "link": "https://anovademocracia.com.br/estudantes-ocupam-terminal-rio-branco/",
           "publishedOn": "2026-08-23T20:30:47.000Z",
-          "wordCount": 8577,
+          "wordCount": 8585,
           "title": "AC: Estudantes ocupam Terminal Urbano e enfrentam repressão em luta contra colapso do transporte em Rio Branco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-29.png"
         },
@@ -577,7 +617,7 @@
           "description": "Quase quatro em cada dez pessoas encarceradas no Amazonas permanecem em prisão preventiva, sem condenação definitiva. Dos 8.195 presos registrados no estado, 3.254 ainda aguardam julgamento ou o trânsito em julgado de seus processos.",
           "link": "https://anovademocracia.com.br/am-presos-sem-condenacao-superlotacao/",
           "publishedOn": "2026-08-22T18:45:41.000Z",
-          "wordCount": 7891,
+          "wordCount": 7899,
           "title": "AM: Quase 40% dos presos seguem sem condenação definitiva e em presídios superlotados",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-29.jpg"
         },
@@ -587,7 +627,7 @@
           "description": "No A Propósito #371, diretor-geral de AND afirmou que as contradições entre o governo de Luiz Inácio e Washington não representam uma ruptura com o imperialismo, mas uma barganha pela parcela destinada à grande burguesia na pilhagem do País.",
           "link": "https://anovademocracia.com.br/governo-nao-soberania-vende-la-eleitoral/",
           "publishedOn": "2026-08-22T15:00:00.000Z",
-          "wordCount": 7462,
+          "wordCount": 7470,
           "title": "‘O governo não quer fazer prevalecer a soberania; quer o direito de vendê-la’: ‘A Propósito’ debate falsa polarização eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-lula.webp"
         },
@@ -597,7 +637,7 @@
           "description": "O canibal Donald Trump anunciou uma “guerra econômica” contra o Irã e ameaçou países, bancos e empresas que mantenham relações financeiras, comerciais ou logísticas com Teerã. O secretário do Tesouro Scott Bessent prometeu as “sanções mais duras da história” e explicitou o objetivo de levar o governo iraniano ao colapso. Teerã respondeu que as sucessivas campanhas de pressão ianques fracassaram e advertiu que novas agressões receberão resposta militar. Na Palestina, Hamas, Jihad Islâmica, FPLP, FDLP e outras forças avançaram nas discussões para disputar as eleições legislativas em uma lista nacional comum.",
           "link": "https://anovademocracia.com.br/plantao-palestina-21-08-2026/",
           "publishedOn": "2026-08-22T01:00:00.000Z",
-          "wordCount": 9304,
+          "wordCount": 9312,
           "title": "Plantão Palestina (20–21/08): Trump declara ‘guerra econômica’ contra Irã e ameaça parceiros de Teerã; frações palestinas avançam lista nacional unificada",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-plantao-palestina.jpg"
         },
@@ -607,7 +647,7 @@
           "description": "Correspondentes locais registram protestos contra crimes de policiais e a resistência indígena, enquanto agitadores e propagandistas realizam brigadas, coberturas, atividades de formação e outras iniciativas em diferentes regiões do País.",
           "link": "https://anovademocracia.com.br/and-brasil-adentro-semana-33-2026/",
           "publishedOn": "2026-08-21T22:26:42.000Z",
-          "wordCount": 9602,
+          "wordCount": 9610,
           "title": "AND Brasil Adentro (Semana 33): ‘A gente só vê esses políticos na época de eleição’, denunciam moradores da Vila Esperança; Várzea e Mangueira se levantam contra violência policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-and-brasil-adentro-semana-33.jpg"
         },
@@ -620,16 +660,6 @@
           "wordCount": 7738,
           "title": "‘Daremos luta, custe o que custar’: moradores de Granizal bloqueiam rodovia por água e enfrentam repressão na Colômbia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-21-colombia-1024x576.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=231711",
-          "author": "Giovanna Maria",
-          "description": "Completamente desconhecido, candidato bolsonarista Victor Jansen tenta ganhar relevância surfando na onda do arruaceiro Wilker Leão e se une ao clube \"valentões da madrugada\", seleto grupo de frouxos da extrema direita que invade universidades vazias para praguejar contra os estudantes.",
-          "link": "https://anovademocracia.com.br/candidato-extrema-direita-unb/",
-          "publishedOn": "2026-08-21T17:22:54.000Z",
-          "wordCount": 8856,
-          "title": "Amedrontado com ‘símbolos comunistas’, candidato bolsonarista invade a UnB vazia e ladra contra o movimento estudantil",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-27-1024x576.png"
         }
       ]
     },
@@ -639,12 +669,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3201878",
+          "author": "Lucas Scatolini",
+          "description": "Mudar nem sempre significa encontrar um novo começo. Revisão de 143 estudos sobre discriminação e adaptação psicológica de migrantes brasileiros revela formas de sofrimento emocional, muitas delas pouco visíveis. E porque o retorno pode ser ainda mais complexo\nThe post A <i>ansiedade migratória</i> na busca de uma vida melhor appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/3201878/",
+          "publishedOn": "2026-08-24T20:34:56.000Z",
+          "wordCount": 5414,
+          "title": "A ansiedade migratória na busca de uma vida melhor",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/MW-EK737_NA_cau_ZH_20160420124735.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201889",
+          "author": "Lucas Scatolini",
+          "description": "Modelo inovador chinês revela que a commodity digital exige mercado regulado para ter valor econômico. Mas há lacuna sobre dados pessoais que favorece corporações. Que pistas oferece ao Brasil, que já desenha leis de como enfrentar captura e empoderar usuários?\nThe post Monetização de dados: lições da experiência chinesa appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/monetizacao-de-dados-licoes-da-experiencia-chinesa/",
+          "publishedOn": "2026-08-24T20:04:24.000Z",
+          "wordCount": 6903,
+          "title": "Monetização de dados: lições da experiência chinesa",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Money_in_DataViz1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3201886",
+          "author": "Lucas Scatolini",
+          "description": "Brasil deu o primeiro passo, em 2014. Hoje, avanços contam com programas como a Cozinha Solidária e formação de Agentes Populares de Saúde, que absorvem a experiência comunitária. Mas elevar qualidade requer enfrentar subfinanciamento da agricultura familiar\nThe post Combate à fome: a aposta na participação popular appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/combate-a-fome-a-aposta-na-participacao-popular/",
+          "publishedOn": "2026-08-24T19:47:25.000Z",
+          "wordCount": 5004,
+          "title": "Combate à fome: a aposta na participação popular",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4929331530832743603_y.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3201801",
           "author": "Lucas Scatolini",
           "description": "Pela primeira vez em cinco séculos, domínio eurocêntrico está ameaçado. Ocidente resiste, reacende a chama tóxica do racismo e busca submeter a periferia. Brasil pode jogar papel político e simbólico na emergência do Sul Global. Mas as elites preferem a submissão\nThe post A Era do Obscurantismo e o complexo de vira-lata appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/a-era-do-obscurantismo-e-o-complexo-de-vira-lata/",
           "publishedOn": "2026-08-21T21:53:17.000Z",
-          "wordCount": 5754,
+          "wordCount": 5746,
           "title": "A Era do Obscurantismo e o complexo de vira-lata",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-21-at-18-37-56-O-anticapitalismo-e-o-antipatriotismo-bolsonarista.webp-imagem-WEBP-750-%C3%97-500-pixels.png"
         },
@@ -684,7 +744,7 @@
           "description": "O risco de sistemas que agem de forma autônoma é real. Com quais valores e interesses estão sendo moldados? E como delegar às máquinas decisões sensíveis? Será possível interromper seu desenvolvimento, para que as sociedades reflitam e decidam?\nThe post As IAs herdarão o futuro? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/as-ias-herdarao-o-futuro/",
           "publishedOn": "2026-08-21T20:31:42.000Z",
-          "wordCount": 8156,
+          "wordCount": 8153,
           "title": "As IAs herdarão o futuro?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4920744602717850652_w.jpg"
         },
@@ -694,7 +754,7 @@
           "description": "Diante de secas e avanço de pragas, universidades e agricultores do sul da Bahia se unem. Satélites, sensores e IA auxiliam a compreender as dinâmicas do território. Mas a grande aposta são nos sistemas agroflorestais tradicionais, como a cabruca\nThe post Cacau: Como contornar os dissabores da crise climática appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/cacau-como-contornar-os-dissabores-da-crise-climatica/",
           "publishedOn": "2026-08-21T20:10:37.000Z",
-          "wordCount": 6010,
+          "wordCount": 6008,
           "title": "Cacau: Como contornar os dissabores da crise climática",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4920744602717850665_y.jpg"
         },
@@ -704,39 +764,9 @@
           "description": "O ato de ler e suas várias revoluções. Da leitura corporal com rolos de papel a instigante invenção das páginas. Da dessacralização do livro pós-Gutenberg a Era Digital, que liberta o leitor de hierarquias, mas ameaça a imersão – no livro e em si\nThe post Uma viagem pela história tecnológica do livro appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/uma-viagem-pela-historia-tecnologica-do-livro/",
           "publishedOn": "2026-08-20T22:20:25.000Z",
-          "wordCount": 5821,
+          "wordCount": 5725,
           "title": "Uma viagem pela história tecnológica do livro",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/dd8b8873-6dfc-4817-be3e-aeb89621b658_1204x960-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201632",
-          "author": "Rôney Rodrigues",
-          "description": "Marcado pela ideia do homem provedor, transporte urbano prioriza trajeto casa-emprego. Rotas do trabalho reprodutivo seguem negligenciadas. Quais são elas? Como desenhar ambientes seguros e cidades que acolham mulheres e o Cuidado?\nThe post Cidades: o porquê de uma mobilidade feminista appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/cidades-porque-de-uma-mobilidade-feminista/",
-          "publishedOn": "2026-08-20T21:53:00.000Z",
-          "wordCount": 6182,
-          "title": "Cidades: o porquê de uma mobilidade feminista",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-20-at-18-47-31-OP-PautasIdeias.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201568",
-          "author": "Lucas Scatolini",
-          "description": "Mídia e economistas neoliberais alardeiam: dívida do Estado está se tornando “insustentável”; é preciso cortar radicalmente o gasto público. Para enfrentar esta campanha interesseira, vale examinar o papel da moeda e das relações econômicas e sociais que sua emissão produz\nThe post Para enfrentar a grita por “novo ajuste fiscal” appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/para-enfrentar-grita-por-novo-ajuste-fiscal/",
-          "publishedOn": "2026-08-20T21:00:25.000Z",
-          "wordCount": 4407,
-          "title": "Para enfrentar a grita por “novo ajuste fiscal”",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/49159635224333549581.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3201573",
-          "author": "Lucas Scatolini",
-          "description": "Invasão da Venezuela expõe vulnerabilidade do Brasil e importância do reaparelhamento militar. Mas precisa vir acompanhada de reforma das Forças Armadas, para não fortalecer nem os privilégios castrenses, nem possíveis aventuras antidemocráticas\nThe post Lula e a Defesa: proteger o país sem atiçar o militarismo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/lula-e-a-defesa-proteger-o-pais-sem-aticar-o-militarismo/",
-          "publishedOn": "2026-08-20T20:06:04.000Z",
-          "wordCount": 5129,
-          "title": "Lula e a Defesa: proteger o país sem atiçar o militarismo",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4915963522433354944_y.jpg"
         }
       ]
     },
@@ -828,7 +858,7 @@
           "description": "Bruno Prado Prates: \"Em 'O Mundo do Socialismo', Caio Prado Júnior relata uma viagem feita nos anos 1960, quando passou inclusive por Wuhan. Ali, viu um 'maravilhoso país' sendo construído 'para uma vida feliz de todo mundo'. A China que encontrei exibe uma fisionomia muito distinta da que Caio Prado conheceu, mas preserva o mesmo dinamismo que tanto o impressionou.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/21/uma-jornada-a-wuhan-a-cidade-punk-da-china/",
           "publishedOn": "2026-08-21T11:00:00.000Z",
-          "wordCount": 14632,
+          "wordCount": 14796,
           "title": "Uma jornada a Wuhan, a cidade punk da China",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/image.png?fit=1200%2C913&ssl=1"
         },
@@ -838,7 +868,7 @@
           "description": "No aniversário de Roberto Schwarz, Fabio Mascaro Querido faz um convite à leitura de sua obra: \"Mais do que o crítico que provocou uma reviravolta na análise de Machado de Assis, Schwarz é responsável por uma verdadeira interpretação do Brasil, a qual se destaca por seu ceticismo em relação às possibilidades da modernização capitalista.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/20/por-que-ler-roberto-schwarz/",
           "publishedOn": "2026-08-20T11:00:00.000Z",
-          "wordCount": 13484,
+          "wordCount": 13635,
           "title": "Por que ler Roberto Schwarz?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/07/roberto_sesc.jpg"
         }
