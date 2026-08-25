@@ -190,6 +190,26 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Se-inicia-a-campanha-eleitoral-em-Israel-entre-o-massacre-aos-palestinos-e-o-ataque-ao-Libano",
+          "author": "Mirta Pacheco",
+          "description": "O início da campanha eleitoral em Israel, com os comícios gerais agendados para 27 de outubro de 2026, marca um feito histórico: pela primeira vez em quase quarenta anos, o Knesset completará seu mandato legislativo antes de ir às urnas. Entretanto, esta aparente estabilidade institucional é a cobertura de uma crise de sobrevivência política terminal de Benjamin Netanyahu a profundas fraturas no regime sionista.\n25-08-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, Genocídio",
+          "link": "https://www.esquerdadiario.com.br/Se-inicia-a-campanha-eleitoral-em-Israel-entre-o-massacre-aos-palestinos-e-o-ataque-ao-Libano",
+          "publishedOn": "2026-08-25T12:52:05.000Z",
+          "wordCount": null,
+          "title": "Se inicia a campanha eleitoral em Israel entre o massacre aos palestinos e o ataque ao Líbano",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Vinda-de-Flavio-Bolsonaro-e-Lula-a-BH-reafirma-para-enfrentar-a-direita-tem-que-ser-anti",
+          "author": "Flavia Valle",
+          "description": "Na primeira semana de campanha Flávio Bolsonaro e Lula priorizaram a vinda para Minas Gerais para eventos de suas candidaturas, estado que tem grande importância nas eleições nacionais.\n25-08-2026\n\n/ Política, Lula, Imperialismo, Minas Gerais, Flavio Bolsonaro, Brumadinho , Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Vinda-de-Flavio-Bolsonaro-e-Lula-a-BH-reafirma-para-enfrentar-a-direita-tem-que-ser-anti",
+          "publishedOn": "2026-08-25T12:34:25.000Z",
+          "wordCount": null,
+          "title": "Vinda de Flávio Bolsonaro e Lula a BH reafirma: para enfrentar a direita, tem que ser anti-imperialista e ter independência de classe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Departamento-de-Guerra-injeta-R-3-8-bi-na-compra-da-Serra-Verde-Fora-Trump-da-America-Latina",
           "author": "Redação",
           "description": "A ofensiva dos Estados Unidos sobre as terras raras brasileiras deu nesta segunda-feira (24) um salto de qualidade. A norte-americana USA Rare Earth anunciou que concluiu a capitalização de US$ 1,55 bilhão para destravar a aquisição da Serra Verde. Nada menos que US$ 750 milhões, cerca de R$ 3,8 bilhões serão aportados diretamente pelo Departamento de Guerra dos EUA, US$ 250 milhões acima do previsto. Trump, tire as mãos das nossas terras raras!\n24-08-2026\n\n/ Donald Trump, Imperialismo, Anti-imperialista, Mineração, Terras Raras",
@@ -248,16 +268,6 @@
           "wordCount": null,
           "title": "Grande ato dos professores de Natal enfrenta Paulinho Freire e a judicialização da greve",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Greve-dos-ferroviarios-impoe-recuo-do-Governo-Tarcisio-e-conquista-Projeto-de-Lei-pela-manutencao",
-          "author": "Nossa Classe Metroviários",
-          "description": "A greve dos ferroviários da CPTM impôs um recuo a Tarcísio e foi uma amostra da força da classe trabalhadora para enfrentar as privatizações e todos os ataques.\n20-08-2026\n\n/ Classe trabalhadora, Transporte, Precarização do Transporte Público, Trabalhadores dos Transportes, Privatização dos transportes, Tarcísio de Freitas, Greve dos Transportes, Greve contra Tarcísio",
-          "link": "https://www.esquerdadiario.com.br/Greve-dos-ferroviarios-impoe-recuo-do-Governo-Tarcisio-e-conquista-Projeto-de-Lei-pela-manutencao",
-          "publishedOn": "2026-08-21T00:41:12.000Z",
-          "wordCount": null,
-          "title": "Greve dos ferroviários impõe recuo do Governo Tarcísio e conquista Projeto de Lei pela manutenção dos empregos",
-          "imageUrl": null
         }
       ]
     },
@@ -266,6 +276,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444619",
+          "author": "Isabella Mota",
+          "description": "Leia um trecho inédito do recém-lançado livro de Myriam Bregman ‘Moderada nunca’. Em meio ao avanço da extrema direita na América Latina, Bregman entrelaça trajetória de vida e militância com reflexões urgentes sobre as perspectivas de resistência para o continente. \nO post É possível derrotar o capitalismo? apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/08/25/e-possivel-derrotar-o-capitalismo/",
+          "publishedOn": "2026-08-25T12:00:00.000Z",
+          "wordCount": null,
+          "title": "É possível derrotar o capitalismo?",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/08/Headerwide-7.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/08/Headerwide-7.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444616",
           "author": "Isabella Mota",
@@ -394,16 +419,6 @@
           "wordCount": 3433,
           "title": "Por que a Coreia do Norte rejeitou o gesto de paz de Trump",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/coreia-do-norte.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74576",
-          "author": "El Salto",
-          "description": "retorno gradual do serviço militar ocorre em um contexto de forte pressão internacional sobre a Europa para que invista na guerra. Os governos europeus justificam o aumento de seus orçamentos de Defesa e a mobilização da população pela suposta ameaça da Rússia desde a invasão em grande escala da Ucrânia em 2022. Afirmam também sua […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/08/20/o-retorno-do-servico-militar-na-europa-alemanha-e-franca-fazem-valer-sua-vontade-apesar-dos-protestos/",
-          "publishedOn": "2026-08-20T23:24:47.000Z",
-          "wordCount": 4112,
-          "title": "O retorno do serviço militar na Europa: Alemanha e França fazem valer sua vontade, apesar dos protestos",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/08/militar.webp"
         }
       ]
     },
@@ -413,12 +428,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=263785",
+          "author": "Tabitha Ramalho",
+          "description": "O número de mortos pelo terremoto de magnitude 7,4 que atingiu a Colômbia há duas semanas subiu para 331 nesta segunda-feira (24/08), segundo um novo relatório da Unidade Nacional de Gestão de Riscos de Desastres (UNGRD). O balanço oficial destaca que há 4.439 feridos, 240 desaparecidos e 364 pessoas resgatadas, em um cenário humanitário que […]\nO post Sobe para 331 o número de mortos pelo terremoto na Colômbia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/sobe-para-331-o-numero-de-mortos-pelo-terremoto-na-colombia/",
+          "publishedOn": "2026-08-25T12:40:10.000Z",
+          "wordCount": 2797,
+          "title": "Sobe para 331 o número de mortos pelo terremoto na Colômbia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/hpjwwanw4aaa4az.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263780",
+          "author": "Tatiana Carlotti",
+          "description": "Dois meses após os devastadores terremotos de magnitude 7,2 e 7,5 que atingiram o país em 24 de junho, a presidente interina da Venezuela, Delcy Rodríguez, apresentou um relatório abrangente sobre a assistência social e os esforços de reconstrução em um discurso dirigido a toda a nação na segunda-feira (24/08). Durante seu discurso, a presidente […]\nO post Delcy Rodríguez apresenta relatório sobre recuperação da Venezuela após terremotos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-apresenta-relatorio-sobre-recuperacao-da-venezuela-apos-terremotos/",
+          "publishedOn": "2026-08-25T11:59:47.000Z",
+          "wordCount": 4005,
+          "title": "Delcy Rodríguez apresenta relatório sobre recuperação da Venezuela após terremotos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/img-0345-2048x1639-1.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263769",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente do Irã, Masoud Pezeshkian, cobrou dos Estados Unidos uma mudança de postura em relação a Teerã durante uma reunião, nesta segunda-feira (24/08), com o marechal Asim Munir, chefe do Exército do Paquistão, país que atua como mediador do confronto. No encontro, Pezeshkian defendeu que Washington cumpra os compromissos assumidos no memorando de entendimento […]\nO post Pezeshkian insta Washington a mudar abordagem e cumprir memorando de entendimento apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pezeshkian-insta-washington-a-mudar-abordagem-e-cumprir-memorado-de-entendimento/",
+          "publishedOn": "2026-08-25T11:01:37.000Z",
+          "wordCount": 3378,
+          "title": "Pezeshkian insta Washington a mudar abordagem e cumprir memorando de entendimento",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1405060309305431137968374.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=263764",
+          "author": "Rocio Paik",
+          "description": "O governo federal definiu como serão aplicados os R$ 13,5 bilhões em linhas de crédito do Plano Brasil Soberano destinados a empresas afetadas pelo tarifaço dos Estados Unidos e pelos impactos de conflitos e da instabilidade internacional. A resolução que detalha a distribuição dos recursos foi publicada nesta segunda-feira (24/08) no Diário Oficial da União […]\nO post Plano Brasil Soberano: governo libera R$ 13,5 bilhões a empresas atingidas por tarifaço e guerras apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/plano-brasil-soberano-governo-libera-r-135-bilhoes-a-empresas-atingidas-por-tarifaco-e-guerras/",
+          "publishedOn": "2026-08-25T08:00:03.000Z",
+          "wordCount": 3773,
+          "title": "Plano Brasil Soberano: governo libera R$ 13,5 bilhões a empresas atingidas por tarifaço e guerras",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/bandeira_do_brasil_00.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=263755",
           "author": "Rocio Paik",
           "description": "O Departamento de Estado norte-americano removeu formalmente a Síria de sua lista de “Estados patrocinadores do terrorismo”, uma decisão anunciada formalmente pelo secretário Marco Rubio nesta segunda-feira (24/08) e que foi classificada pelo presidente sírio Ahmed al-Sharaa como “histórica”. Na prática, Washington revoga a categorização imposta à nação árabe desde 1979, que impunha severas restrições […]\nO post EUA retiram Síria da lista de ‘Estados patrocinadores do terrorismo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/eua-retiram-siria-da-lista-de-estados-patrocinadores-do-terrorismo/",
           "publishedOn": "2026-08-25T06:30:31.000Z",
-          "wordCount": 3287,
+          "wordCount": 3282,
           "title": "EUA retiram Síria da lista de ‘Estados patrocinadores do terrorismo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/syrian_president_ahmed_al-sharaa_with_u.s._president_donald_trump_november_2025.jpg"
         },
@@ -428,7 +483,7 @@
           "description": "O Departamento de Gestão de Barragens e Prevenção de Desastres do Vietnã relatou nesta segunda-feira (24/08) que 2.314 famílias foram evacuadas com a chegada do tufão Narra, fenômeno que já provocou chuvas intensas e enchentes na região norte do país asiático, como também em Guangxi, no sul da China. De acordo com a agência oficial,  […]\nO post Vietnã evacua mais de 2,3 mil famílias devido ao risco de enchentes do tufão Narra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/vietna-evacua-mais-de-23-mil-familias-devido-ao-risco-de-enchentes-do-tufao-narra/",
           "publishedOn": "2026-08-25T05:00:19.000Z",
-          "wordCount": 3107,
+          "wordCount": 3109,
           "title": "Vietnã evacua mais de 2,3 mil famílias devido ao risco de enchentes do tufão Narra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/ngap-4-17875764166452128585983.webp"
         },
@@ -438,7 +493,7 @@
           "description": "Ao longo da noite de segunda-feira (25/08). as tropas e colonos israelenses continuaram sua campanha de ataques, prisões, demolições e apreensões de terras em toda a Cisjordânia ocupada. De acordo com a agência Wafa, três cidadãos palestinos ficaram feridos em uma ofensiva realizada por colonos armados em Khirbet Ghuwein, na cidade de As-Samu, ao sul […]\nO post Forças e colonos israelenses usam gás lacrimogênio e munição real contra moradores na Cisjordânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/forcas-e-colonos-israelenses-usam-gas-lacrimogenio-e-municao-real-contra-moradores-na-cisjordania/",
           "publishedOn": "2026-08-25T04:00:26.000Z",
-          "wordCount": 3111,
+          "wordCount": 3106,
           "title": "Forças e colonos israelenses usam gás lacrimogênio e munição real contra moradores na Cisjordânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/2003-09-01-west-bank-1-750x536-1.jpg"
         },
@@ -448,7 +503,7 @@
           "description": "Nesta segunda-feira (24/08), o terremoto duplo que devastou o estado de La Guaira, na Venezuela, completa dois meses. Nas áreas mais afetadas, sobraram pilhas de concreto e entulho. O movimento diminuiu, mas algumas localidades ainda mantêm operações de busca por vítimas que permanecem soterradas sob os escombros. Até o momento, o governo venezuelano indica que […]\nO post Dois meses após terremotos na Venezuela, famílias ainda buscam por parentes desaparecidos em La Guaira apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/dois-meses-apos-terremotos-na-venezuela-familias-ainda-buscam-por-parentes-desaparecidos-em-la-guaira/",
           "publishedOn": "2026-08-25T02:30:38.000Z",
-          "wordCount": 3780,
+          "wordCount": 3777,
           "title": "Dois meses após terremotos na Venezuela, famílias ainda buscam por parentes desaparecidos em La Guaira",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/81d0f29c-d64d-4f92-9df0-213a8e8f65fe-vene5.webp"
         },
@@ -458,7 +513,7 @@
           "description": "Em uma chamada telefônica nesta segunda-feira (24/08), o presidente da República brasileiro, Luiz Inácio Lula da Silva, combinou, com o presidente da Turquia, Recep Erdogan, a criação de um Conselho Estratégico, em nível vice-presidencial, para aprofundar as relações entre os dois países. “O Presidente Lula afirmou que o Brasil tenciona ampliar investimentos na área de […]\nO post Lula e Erdogan acertam ampliação de investimentos na área de defesa entre Brasil e Turquia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-e-erdogan-acertam-ampliacao-investimentos-na-area-de-defesa-entre-brasil-e-turquia/",
           "publishedOn": "2026-08-25T01:30:13.000Z",
-          "wordCount": 3132,
+          "wordCount": 3137,
           "title": "Lula e Erdogan acertam ampliação de investimentos na área de defesa entre Brasil e Turquia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/54147191684_15c2be255c_c-e1731884748290.webp"
         },
@@ -468,49 +523,9 @@
           "description": "O ministro das Relações Exteriores sul-coreano Cho Hyun e o secretário de Estado norte-americano Marco Rubio realizaram nesta segunda-feira (24/08) uma ligação telefônica, durante a qual concordaram em manter estreita a cooperação mútua em busca da estabilidade na Península Coreana e da “resolução da questão nuclear norte-coreana”.  Trata-se do primeiro diálogo de alto nível após […]\nO post Marco Rubio e chanceler sul-coreano reiteram cooperação por ‘paz na península’ em meio a desgaste diplomático apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/marco-rubio-e-chanceler-sul-coreano-reiteram-cooperacao-apos-tensoes-diplomaticas-fomentadas-por-trump/",
           "publishedOn": "2026-08-25T00:12:15.000Z",
-          "wordCount": 3574,
+          "wordCount": 3570,
           "title": "Marco Rubio e chanceler sul-coreano reiteram cooperação por ‘paz na península’ em meio a desgaste diplomático",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/54691651968_379d877da3_k-1536x1196-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263733",
-          "author": "Victor Farinelli",
-          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (24/08) a Policia Federal (PF) a ter acesso a dados da investigação que envolve a produtora audiovisual Go Up Enterteinment, responsável pelas gravações do filme Dark Horse, cinebiografia do ex-presidente Jair Bolsonaro. A decisão foi motivada por um pedido da PF para acessar […]\nO post Flávio Dino autoriza PF a acessar investigação sobre produtora do filme ‘Dark Horse’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/flavio-dino-autoriza-pf-a-acessar-investigacao-sobre-produtora-do-filme-dark-horse/",
-          "publishedOn": "2026-08-24T22:30:31.000Z",
-          "wordCount": 2909,
-          "title": "Flávio Dino autoriza PF a acessar investigação sobre produtora do filme ‘Dark Horse’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/fld.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263730",
-          "author": "Victor Farinelli",
-          "description": "Em entrevista realizada nesta segunda-feira (24/08), o secretário do Tesouro dos Estados Unidos, Scott Bessent, fez alusões ameaçadoras à China, quando perguntado sobre qual seria a reação de Washington caso Pequim não respeite as sanções econômicas contra o Irã, anunciadas recentemente pelo presidente norte-americano Donald Trump. Segundo Bessent, as sanções aplicadas pelos Estados Unidos ao […]\nO post Secretário dos EUA afirma que ‘China será alvo’ se ajudar Irã a driblar sanções apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/secretario-dos-eua-afirma-que-china-sera-alvo-se-ajudar-ira-a-driblar-sancoes/",
-          "publishedOn": "2026-08-24T21:40:37.000Z",
-          "wordCount": 3198,
-          "title": "Secretário dos EUA afirma que ‘China será alvo’ se ajudar Irã a driblar sanções",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/bessent.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263723",
-          "author": "Raissa Neves",
-          "description": "O presidente da Colômbia, Abelardo de la Espriella, ordenou nesta segunda-feira (24/08) o início de uma operação para localizar e deportar imigrantes em situação migratória irregular. A medida deverá ser conduzida pela autoridade migratória do país em conjunto com a polícia, tendo como foco inicial estrangeiros suspeitos ou envolvidos em crimes, e pessoas que permanecem […]\nO post De la Espriella anuncia operação para deportar imigrantes irregulares na Colômbia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/de-la-espriella-anuncia-operacao-para-deportar-imigrantes-irregulares-na-colombia/",
-          "publishedOn": "2026-08-24T21:00:17.000Z",
-          "wordCount": 3126,
-          "title": "De la Espriella anuncia operação para deportar imigrantes irregulares na Colômbia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/colombian_president_abelardo_de_la_espriella-1-750x422-1-1.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=263713",
-          "author": "Raissa Neves",
-          "description": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta segunda-feira (24/08) que as tarifas aplicadas a carros, caminhões, autopeças e aço importados do Canadá passarão para 50% a partir de 1º de janeiro de 2027. Em uma publicação na rede Truth Social, o mandatário norte-americano  acusou o Canadá de explorar os Estados Unidos durante anos […]\nO post Trump anuncia tarifa de 50% sobre veículos e aço do Canadá apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-anuncia-tarifa-de-50-sobre-veiculos-e-aco-do-canada/",
-          "publishedOn": "2026-08-24T20:20:21.000Z",
-          "wordCount": 3851,
-          "title": "Trump anuncia tarifa de 50% sobre veículos e aço do Canadá",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/president_donald_trump_meets_with_canadian_prime_minister_mark_carney_in_the_oval_office_54502028696-1-scaled.jpg"
         }
       ]
     },
