@@ -11,7 +11,7 @@
           "description": "A campanha ocorre depois de uma década sem uma greve nacional unificada. Em 2025, os bancos acumularam R$ 171 bilhões em lucro líquido, enquanto os bancários seguem submetidos à intensificação do trabalho e à precarização",
           "link": "https://jornalofuturo.com.br/artigo/ULqb6t-paralisacao-dos-bancarios-apos-uma-decada-sem-greve-",
           "publishedOn": "2026-08-31T21:00:00.000Z",
-          "wordCount": 2669,
+          "wordCount": 2674,
           "title": "Paralisação dos bancários após uma década sem greve",
           "imageUrl": "https://media.jornalofuturo.com.br/25_bancarios-1200x1600.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "O cálculo político realizado por Alcolumbre, que agora se acerta com Lula, é extremamente benéfico para que senadores contrários à proposição se sintam muito melhor colocados para votarem contra o fim da 6x1",
           "link": "https://jornalofuturo.com.br/artigo/ow7yUA-a-luta-pelo-fim-da-6x1-enfrenta-o-calendario-do-senado",
           "publishedOn": "2026-08-29T16:00:00.000Z",
-          "wordCount": 2930,
+          "wordCount": 2935,
           "title": "A luta pelo fim da 6x1 enfrenta o “calendário” do Senado",
           "imageUrl": "https://media.jornalofuturo.com.br/1000575817-1280x853.jpg"
         }
@@ -128,16 +128,6 @@
           "wordCount": null,
           "title": "Os primeiros bloqueios começam enfrentando a repressão e as tensões aumentam enquanto Paz defende a prorrogação do estado de exceção",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Lula-anuncia-que-votacao-da-6x1-sera-antes-das-eleicoes-so-a-mobilizacao-dos-trabalhadores-pode",
-          "author": "Julia Cardoso",
-          "description": "O governo de Lula-Alckmin anunciou acordo com Alcolumbre para votar o fim da 6x1 antes das eleições. Construamos uma forte mobilização independente rumo a revogação das reformas anti operárias e o Arcabouço Fiscal. Por 30 horas semanais, sem redução salarial! Trabalhar menos, trabalhar todos!\nMatérias\n\n/ Política, Capitalismo, Governo Lula-Alckmin, escala 6x1",
-          "link": "https://www.esquerdadiario.com.br/Lula-anuncia-que-votacao-da-6x1-sera-antes-das-eleicoes-so-a-mobilizacao-dos-trabalhadores-pode",
-          "publishedOn": "2026-08-28T01:42:42.000Z",
-          "wordCount": null,
-          "title": "Pacto com Motta e Alcolumbre não garante fim da 6x1. O caminho é a luta",
-          "imageUrl": null
         }
       ]
     },
@@ -146,6 +136,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444767",
+          "author": "Bianca Pyl",
+          "description": "Em entrevista, o jornalista e cientista político explica por que o debate sobre a jornada é uma trincheira contra retrocessos – e como o julgamento do Tema 1.389 na corte pode anular essa vitória.\nO post Fim da escala 6×1 pode perder efeito se STF liberar pejotização irrestrita, alerta Leonardo Sakamoto apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/01/escala-6x1-leonardo-sakamoto/",
+          "publishedOn": "2026-09-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Fim da escala 6×1 pode perder efeito se STF liberar pejotização irrestrita, alerta Leonardo Sakamoto",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/wide-1.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-1.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444759",
           "author": "Isabella Mota",
@@ -199,12 +204,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=161911",
+          "author": "Paulo Batistella",
+          "description": "Série de reportagens da Ponte discute segurança como tema central das eleições. Com apelo político cada vez maior, gastos com a área subiram a R$ 163 bilhões em 2025, enquanto segurança é tratada como sinônimo de confronto e militarismo\nO conteúdo O seu candidato quer gastar ainda mais com segurança pública. Mas o que é segurança para ele? Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/o-seu-candidato-quer-gastar-ainda-mais-com-seguranca-publica-mas-o-que-e-seguranca-para-ele/",
+          "publishedOn": "2026-09-01T16:00:46.000Z",
+          "wordCount": 7553,
+          "title": "O seu candidato quer gastar ainda mais com segurança pública. Mas o que é segurança para ele?",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/orcamento-eleicoes-ponte-juniao.webp"
+        },
+        {
           "id": "https://ponte.org/?p=162845",
           "author": "Jessica Santos",
           "description": "Caso de Cláudio Rafael Landeiro, morto após ser falsamente acusado de roubo em Copacabana, expõe como a sensação de insegurança e o punitivismo ajudam a legitimar linchamentos e a ideia de que qualquer pessoa pode julgar e punir\nO conteúdo Da Redação | Quando a sensação de insegurança vira justiçamento  Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/justicamento-inseguranca-linchamento-brasil/",
           "publishedOn": "2026-08-31T14:56:45.000Z",
-          "wordCount": 5495,
+          "wordCount": 5497,
           "title": "Da Redação | Quando a sensação de insegurança vira justiçamento",
           "imageUrl": "https://ponte.org/wp-content/uploads/2014/07/Materia_Faurto_Ponte_72.jpg"
         },
@@ -253,104 +268,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=264520",
+          "author": "Pedro Marin",
+          "description": "Todo dia primeiro de setembro, como hoje, meu pai mergulhava num silêncio quase sepulcral. Criança, eu não entendia o motivo. Quando meus irmãos e eu insistíamos em puxar conversa, minha mãe o protegia e nos mantinha fora do alcance. Só na adolescência fui juntar as peças, ouvindo um pedaço de conversa aqui, outro acolá. Nessa […]\nO post O suicídio de um velho comunista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-suicidio-de-um-velho-comunista/",
+          "publishedOn": "2026-09-01T18:36:09.000Z",
+          "wordCount": 3911,
+          "title": "O suicídio de um velho comunista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/rsz_stalin_comunista.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264496",
+          "author": "Tabitha Ramalho",
+          "description": "O Congresso sobre segurança pública realizado pela Federação das Indústrias do Estado de São Paulo (Fiesp) nesta segunda-feira (31/08), em sua sede, foi marcado pela uníssona defesa de uma figura política: o presidente de El Salvador, Nayib Bukele. O seu modelo de encarceramento em massa, inspiração para diversos políticos brasileiros, já colocou quase 2% da […]\nO post Inspiração para candidatos da direita, modelo Bukele de segurança é defendido na Fiesp apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/inspiracao-para-candidatos-da-direita-modelo-bukele-de-seguranca-e-defendido-na-fiesp/",
+          "publishedOn": "2026-09-01T18:00:06.000Z",
+          "wordCount": 5322,
+          "title": "Inspiração para candidatos da direita, modelo Bukele de segurança é defendido na Fiesp",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/whatsapp-image-2026-09-01-at-12.16.47-e1788276145887.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264506",
+          "author": "Tatiana Carlotti",
+          "description": "Parlamentares republicanos estão investigando alguns dos principais sindicatos norte-americanos às vésperas das eleições legislativas nos Estados Unidos, programadas para novembro. Eles acusam as entidades sindicais de usarem recursos provenientes das contribuições dos trabalhadores para financiar atividades políticas em prol do Partido Democrata. Reportagem do britânico The Guardian, publicada nesta terça-feira (01/03), aponta que a ofensiva, […]\nO post Republicanos ampliam investigações contra sindicatos nos Estados Unidos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/republicanos-ampliam-investigacoes-contra-sindicatos-nos-estados-unidos/",
+          "publishedOn": "2026-09-01T17:10:29.000Z",
+          "wordCount": 3790,
+          "title": "Republicanos ampliam investigações contra sindicatos nos Estados Unidos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/united_states_capitol_west_front_edit2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264493",
+          "author": "Tabitha Ramalho",
+          "description": "Há 116 anos, em 1º de setembro de 1910, um grupo de operários de São Paulo fundava o Sport Club Corinthians Paulista. Rompendo com o caráter elitista que predominava entre os primeiros clubes de futebol do país, o “time do povo” se tornou uma das principais expressões culturais das classes populares e amealhou uma das […]\nO post Salve o Corinthians: 116 anos do ‘Timão’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/salve-o-corinthians-116-anos-do-timao/",
+          "publishedOn": "2026-09-01T16:30:18.000Z",
+          "wordCount": 4444,
+          "title": "Salve o Corinthians: 116 anos do ‘Timão’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/eg14jqhxcae28fb.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264497",
+          "author": "Tatiana Carlotti",
+          "description": "O número de pessoas desempregadas no Chile cresceu 10,4% em comparação com os dados do ano passado. Entre maio e julho, o país contabilizou 981.044 pessoas desempregadas, informa o mais recente balanço do Instituto Nacional de Estatísticas (INE), divulgado na última sexta-feira (28/08). A taxa de desemprego atingiu 9,5%, o maior nível registrado no país […]\nO post Desemprego no Chile afeta mais de 980 mil pessoas e atinge maior nível em cinco anos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/desemprego-no-chile-afeta-mais-de-980-mil-pessoas-e-atinge-maior-nivel-em-cinco-anos/",
+          "publishedOn": "2026-09-01T15:20:48.000Z",
+          "wordCount": 3435,
+          "title": "Desemprego no Chile afeta mais de 980 mil pessoas e atinge maior nível em cinco anos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-27-103356.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264489",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente da França, Emmanuel Macron, e o primeiro-ministro da Suécia, Ulf Kristersson, reforçaram nesta segunda-feira (31/08), em Estocolmo, a cooperação entre os dois países na área de defesa. A iniciativa, segundo os líderes, contribui para fortalecer o chamado “pilar europeu” da Organização do Tratado do Atlântico Norte (OTAN) em um cenário internacional considerado cada […]\nO post França e Suécia fecham acordo bilionário militar para ‘fortalecer pilar europeu’ na Otan apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/franca-e-suecia-fecham-acordo-bilionario-militar-para-fortalecer-pilar-europeu-na-otan/",
+          "publishedOn": "2026-09-01T14:40:42.000Z",
+          "wordCount": 3915,
+          "title": "França e Suécia fecham acordo bilionário militar para ‘fortalecer pilar europeu’ na Otan",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hreibl7wmaawds_-e1788271445968.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264483",
+          "author": "Tatiana Carlotti",
+          "description": "O Partido Liberal do primeiro-ministro do Canadá, Mark Carney, venceu três eleições suplementares, obtendo maioria na Câmara dos Comuns. A votação ocorreu nesta segunda-feira (31/08), em meio à escalada das tensões comerciais e políticas com Estados Unidos. Com essas três vitórias, os Liberais conquistam agora 173 das 343 cadeiras da Câmara dos Comuns, um assento […]\nO post Partido de Carney vence em três distritos e retoma maioria no Parlamento canadense apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/politica-e-economia/partido-de-carney-vence-em-tres-distritos-e-retoma-maioria-no-parlamento-canadense/",
+          "publishedOn": "2026-09-01T14:00:07.000Z",
+          "wordCount": 3363,
+          "title": "Partido de Carney vence em três distritos e retoma maioria no Parlamento canadense",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/canada-eua-daniel-torok-white-house.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264481",
+          "author": "Tabitha Ramalho",
+          "description": "A Rússia está fornecendo ao Irã a assistência necessária durante o período difícil que o país atravessa em meio ao conflito com os EUA, afirmou o presidente Vladimir Putin em uma reunião com o presidente iraniano Masoud Pezeshkian à margem da cúpula da Organização de Cooperação de Xangai (OCX) realizada em Bishkek, capital do Quirguistão, […]\nO post Rússia promete assistência ao Irã em meio a conflito com EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/russia-promete-assistencia-ao-ira-em-meio-a-conflito-com-eua/",
+          "publishedOn": "2026-09-01T13:20:34.000Z",
+          "wordCount": 3097,
+          "title": "Rússia promete assistência ao Irã em meio a conflito com EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1485327.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264471",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente Donald Trump declarou nesta segunda-feira (31/08) que não descarta revisar a posição de neutralidade dos EUA em relação à soberania sobre as Ilhas Malvinas. Os Estados Unidos, assim como a maioria das nações ocidentais, reconhecem a administração do arquipélago pelo Reino Unido, mas não adotam uma posição oficial sobre a questão da soberania, […]\nO post Trump sugere revisar posição dos EUA sobre Ilhas Malvinas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/trump-sugere-revisar-posicao-dos-eua-sobre-ilhas-malvinas/",
+          "publishedOn": "2026-09-01T12:40:50.000Z",
+          "wordCount": 3209,
+          "title": "Trump sugere revisar posição dos EUA sobre Ilhas Malvinas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/78406987_303-e1788264161614.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=264472",
           "author": "Tatiana Carlotti",
           "description": "Um atentado com carro-bomba contra uma estação policial deixou uma pessoa morta e pelo menos 11 feridos na noite desta segunda-feira (31/08) em Los Patios, município da região metropolitana de Cúcuta, no departamento de Santander, na Colômbia. A vítima fatal foi identificada pela imprensa colombiana como Jhon Sandoval Sepúlveda, cidadão venezuelano que passava de motocicleta […]\nO post Atentado com carro-bomba mata uma pessoa e deixa feridos na Colômbia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/atentado-com-carro-bomba-mata-uma-pessoa-e-deixa-feridos-na-colombia/",
           "publishedOn": "2026-09-01T12:12:57.000Z",
-          "wordCount": 3438,
+          "wordCount": 3441,
           "title": "Atentado com carro-bomba mata uma pessoa e deixa feridos na Colômbia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/colombia-coche-bomba01-1024x648.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264465",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente do Irã, Masoud Pezeshkian, afirmou que o país está disposto a cumprir imediatamente sua parte no memorando de entendimento, firmado com os Estados Unidos em junho, desde que Washington também retome os compromissos assumidos no acordo. “Afirmo explicitamente que, se os Estados Unidos retornarem aos seus compromissos no âmbito do memorando de entendimento […]\nO post Pezeshkian afirma que Irã retomará negociações se EUA cumprirem acordo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/pezeshkian-afirma-que-ira-retomara-negociacoes-se-eua-cumprirem-acordo/",
-          "publishedOn": "2026-09-01T11:00:53.000Z",
-          "wordCount": 3299,
-          "title": "Pezeshkian afirma que Irã retomará negociações se EUA cumprirem acordo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1404051716272578133630524.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264458",
-          "author": "Rocio Paik",
-          "description": "O governo do Iraque rejeitou a proposta de Washington de manter tropas norte-americanas em seu território após 30 de setembro, data marcada para o desarmamento das facções. A posição foi anunciada na segunda-feira, 31 de agosto, por meio do porta-voz Haider al-Aboudi, durante uma coletiva de imprensa em Bagdá. O primeiro-ministro Ali al-Zaidi rejeitou a […]\nO post Iraque se recusa a manter tropas norte-americanas no país após 30 de setembro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/iraque-se-recusa-a-manter-tropas-norte-americanas-no-pais-apos-30-de-setembro/",
-          "publishedOn": "2026-09-01T08:00:28.000Z",
-          "wordCount": 3580,
-          "title": "Iraque se recusa a manter tropas norte-americanas no país após 30 de setembro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/iraq-war-us-tanks-620x350-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264455",
-          "author": "Rocio Paik",
-          "description": "O secretário do Exército dos Estados Unidos, Dan Driscoll, apresentou sua renúncia à Casa Branca na segunda-feira (31/08), em meio às disputas internas do Pentágono e aos atritos com o secretário de Defesa, Pete Hegseth, de acordo com fontes familiarizadas com o assunto ao The Wall Street Journal. Conforme um oficial do Exército, Driscoll “conversou […]\nO post Chefe do Exército dos EUA renuncia em meio a tensões com Pete Hegseth apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/chefe-do-exercito-dos-eua-renuncia-ao-cargo-em-meio-a-tensoes-com-pete-hegseth/",
-          "publishedOn": "2026-09-01T06:30:13.000Z",
-          "wordCount": 3180,
-          "title": "Chefe do Exército dos EUA renuncia em meio a tensões com Pete Hegseth",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/secretary_of_the_army_dan_driscoll_reviews_transformation_initiatives_during_visit_to_clay_kaserne_8965274.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264452",
-          "author": "Rocio Paik",
-          "description": "A petrolífera dos Estados Unidos, North American Blue Energy Partners (NABEP) assumirá o controle de campos de petróleo venezuelanos, algumas das quais anteriormente estavam sendo operados por empresas chinesas e russas, de acordo com dois funcionários norte-americanos à agência Reuters nesta segunda-feira (31/08). Segundo eles, a aquisição faz parte do acordo petroleiro recentemente firmado entre […]\nO post Empresa dos EUA assume campos de petróleo na Venezuela, anuncia Casa Branca apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/empresa-dos-eua-assume-campos-de-petroleo-na-venezuela-anuncia-casa-branca/",
-          "publishedOn": "2026-09-01T05:30:37.000Z",
-          "wordCount": 3462,
-          "title": "Empresa dos EUA assume campos de petróleo na Venezuela, anuncia Casa Branca",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/dji_0658.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264449",
-          "author": "Rocio Paik",
-          "description": "O Comitê para a Eliminação da Discriminação Racial (CERD) da ONU afirmou nesta segunda-feira (31/08) que Estados que participaram do tráfico transatlântico de pessoas escravizadas e da colonização da África devem adotar medidas reparatórias, incluindo compensação financeira, para enfrentar os danos decorrentes. A posição consta de diretrizes emitidas pelo CERD, órgão composto por 18 especialistas […]\nO post Comitê da ONU defende reparações por escravidão e colonização da África apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/comite-da-onu-defende-reparacoes-por-escravidao-e-colonizacao-da-africa/",
-          "publishedOn": "2026-09-01T04:30:28.000Z",
-          "wordCount": 4131,
-          "title": "Comitê da ONU defende reparações por escravidão e colonização da África",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/united-nations-general-assembly.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264446",
-          "author": "Rocio Paik",
-          "description": "A União Europeia vai suspender, a partir da próxima quinta-feira (03/08), a importação de carne bovina e de aves do Brasil. O anúncio foi feito pela Comissão Europeia, que acrescentou que aguarda garantias do país sul-americano para o cumprimento das normas sanitárias do bloco. “O Brasil é um parceiro importante da União Europeia e estamos […]\nO post União Europeia suspenderá importação de carne bovina brasileira a partir de quinta (03) apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/ue-suspendera-importacao-de-carne-bovina-brasileira-a-partir-de-quinta/",
-          "publishedOn": "2026-09-01T03:30:46.000Z",
-          "wordCount": 3162,
-          "title": "União Europeia suspenderá importação de carne bovina brasileira a partir de quinta (03)",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/carne_de_sol_maturada.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264439",
-          "author": "Rocio Paik",
-          "description": "O primeiro-ministro da Espanha, Pedro Sánchez, afirmou nesta segunda-feira (31/08) haver indícios de que Rússia e Israel disseminaram desinformação sobre a política migratória espanhola, o que desencadeou a corrida em massa de imigrantes rumo a Ceuta em julho, vindos da fronteira com o Marrocos. Sánchez, contudo, disse não haver evidências de que o Marrocos tenha […]\nO post Premiê da Espanha atribui crise em Ceuta à Rússia e Israel, que rejeitam acusações apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/premie-da-espanha-atribui-crise-em-ceuta-a-russia-e-israel-que-rejeitam-acusacoes/",
-          "publishedOn": "2026-09-01T02:00:32.000Z",
-          "wordCount": 4041,
-          "title": "Premiê da Espanha atribui crise em Ceuta à Rússia e Israel, que rejeitam acusações",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/pedro_sanchez_2022.06.26_08.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264436",
-          "author": "Rocio Paik",
-          "description": "Atualizada às 04:07, 01 de setembro O número de mortos no Nepal e na China ultrapassou a marca dos mil na manhã desta terça-feira (01/09). Ao todo, são 1.003 mortes, enquanto 4.462 pessoas continuam desaparecidas em decorrência do colapso glacial da semana passada, que provocou enchentes e deslizamentos de terra pela região fronteiriça. As equipes […]\nO post Mortes ultrapassam mil após enchentes massivas no Nepal e na China apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/mortes-ultrapassam-mil-apos-enchentes-massivas-no-nepal-e-na-china/",
-          "publishedOn": "2026-09-01T01:00:28.000Z",
-          "wordCount": 3179,
-          "title": "Mortes ultrapassam mil após enchentes massivas no Nepal e na China",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/73229858-8b0b-4ad1-9938-f0e9bb0c643d-salva3-e1788222646312.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264433",
-          "author": "Rocio Paik",
-          "description": "Após o tarifaço imposto pelo governo norte-americano de Donald Trump, os ministros brasileiros das Relações Exteriores, Mauro Vieira, como também do Desenvolvimento, Indústria, Comércio e Serviço, Márcio Elias Rosa, criticaram o tratamento dos Estados Unidos ao país sul-americano, descrevendo-o como “injusto e discriminatório”, sendo incompatível com as regras multilaterais de comércio. A posição foi divulgada […]\nO post Brasil diz aos EUA que tarifaço é ‘injusto e discriminatório’ em 1ª reunião bilateral sobre tema apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/brasil-diz-aos-eua-que-tarifaco-e-injusto-e-discriminatorio-em-nova-reuniao/",
-          "publishedOn": "2026-09-01T00:00:10.000Z",
-          "wordCount": 3288,
-          "title": "Brasil diz aos EUA que tarifaço é ‘injusto e discriminatório’ em 1ª reunião bilateral sobre tema",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/president_donald_trump_meets_with_brazilian_president_luiz_inacio_da_silva_during_the_asean_summit_at_the_kuala_lumpur_convention_center_54883804063-1.jpg"
         }
       ]
     },
@@ -366,12 +381,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232238",
+          "author": "Redação de AND",
+          "description": "Uma unidade de forças especiais sionistas infiltrada no oeste da Cidade de Gaza para atingir um comandante da Resistência foi descoberta antes de concluir a missão e entrou em confronto com combatentes palestinos; a ocupação mobilizou mais de dez aeronaves para cobrir o recuo da força. No país Estados Unidos (EUA), mandos dos comandos da Europa, Indo-Pacífico e Sul advertiram Pete Hegseth de que prolongar as operações em larga escala contra o Irã é “insustentável”: somente um quarto dos destróieres está pronto para mobilização, estoques de Patriot, THAAD e Tomahawk foram fortemente consumidos e cerca de 25% dos drones MQ-9 Reaper foram perdidos durante a guerra.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-31-08-2026/",
+          "publishedOn": "2026-09-01T18:52:44.000Z",
+          "wordCount": 9752,
+          "title": "Plantão Palestina (31/08): Resistência detecta e enfrenta força especial sionista infiltrada na Cidade de Gaza; cúpula militar ianque alerta que guerra contra Irã é ‘insustentável’",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina1.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232220",
           "author": "Redação de AND",
           "description": "Relatório registra 210 casos de invasão e exploração ilegal de recursos em 151 terras indígenas; ao AND, secretário-executivo do Cimi denuncia pressão para entregar a grandes monopólios a exploração mineral dos territórios, enquanto grilagem e outras atividades predatórias avançam sobre as terras dos povos.",
           "link": "https://anovademocracia.com.br/indigenas-and-pilhagem-mineraria-latifundio/",
           "publishedOn": "2026-09-01T12:04:43.000Z",
-          "wordCount": 8033,
+          "wordCount": 8041,
           "title": "‘É uma invasão total dos territórios indígenas’: em entrevista ao AND, secretário-executivo do Cimi denuncia pilhagem minerária e do latifúndio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/ISA_0535.jpg"
         },
@@ -381,7 +406,7 @@
           "description": "Declaração da LCP do Nordeste é publicada após a mobilização das famílias do Engenho Fervedouro e em meio a novos ataques contra os posseiros de Barro Branco, onde camponeses já derrotaram uma ofensiva do bando paramilitar “Invasão Zero” e realizaram um Tribunal Popular contra os crimes do latifúndio.",
           "link": "https://anovademocracia.com.br/lcp-revolucao-agraria-vs-farsa-eleitoral/",
           "publishedOn": "2026-09-01T00:45:03.000Z",
-          "wordCount": 8717,
+          "wordCount": 8725,
           "title": "‘Abandonar as ilusões!’: LCP contrapõe vitórias da luta pela terra em Pernambuco à farsa eleitoral e conclama à Revolução Agrária",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/IMG_20260429_213954-1024x768.jpg"
         },
@@ -391,7 +416,7 @@
           "description": "A organização afirma combater tanto a dominação do imperialismo ianque e das demais potências imperialistas ocidentais quanto a crescente ingerência do imperialismo russo e do social-imperialismo chinês no continente africano.",
           "link": "https://anovademocracia.com.br/liga-comunista-uganda-congresso-presos/",
           "publishedOn": "2026-08-31T19:57:29.000Z",
-          "wordCount": 7035,
+          "wordCount": 7043,
           "title": "Liga Comunista de Uganda realiza 1º Congresso Nacional; dirigentes são presos dias depois",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/feat-uganda-08292026.webp"
         },
@@ -401,7 +426,7 @@
           "description": "O EUA rompeu a pausa nos ataques diretos contra território iraniano e bombardeou, em 30 de agosto, a ilha de Larak, no Estreito de Ormuz. Teerã respondeu já no fechamento desta edição com operações de mísseis e drones contra instalações utilizadas por tropas ianques na Jordânia e nos Emirados Árabes Unidos e anunciou a derrubada de um MQ-9 sobre Ormuz. O ataque, classificado pelos Guardas da Revolução como um “erro estratégico e fatal”, reabre militarmente uma segunda campanha da guerra de agressão que Washington não conseguiu vencer na primeira metade do ano.",
           "link": "https://anovademocracia.com.br/plantao-palestina-30-08-2026/",
           "publishedOn": "2026-08-31T18:54:05.000Z",
-          "wordCount": 10255,
+          "wordCount": 10263,
           "title": "Plantão Palestina (29–30/08): ‘Erro estratégico e fatal’: Irã contra-ataca bases ianques após EUA bombardear ilha de Larak",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Plantao-Palestina-1.jpg"
         },
@@ -411,7 +436,7 @@
           "description": "Pesquisa de Matheus Viana Braz expõe a força de trabalho explorada que sustenta a IA: trabalhadores treinam, verificam e, em alguns casos, executam tarefas apresentadas ao público como automatizadas. Monopólios concentram tecnologia, patentes e lucros enquanto terceirizam trabalho, custos e riscos para trabalhadores dos países oprimidos.",
           "link": "https://anovademocracia.com.br/ia-exploracao-trabalho-humano-automacao/",
           "publishedOn": "2026-08-31T18:42:33.000Z",
-          "wordCount": 9785,
+          "wordCount": 9793,
           "title": "IA dos monopólios esconde exploração do trabalho humano por trás da ‘automação’, revela pesquisador ao AND",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/AI-tagging-1024x576.webp"
         },
@@ -421,7 +446,7 @@
           "description": "O jornal A Nova Democracia convida e convoca os amigos e leitores, os escritores, poetas, artistas e todos aqueles que acompanham as lutas dos povos oprimidos a participar do IV Concurso Literário de Contos, Crônicas e Poesias.",
           "link": "https://anovademocracia.com.br/and-iv-concurso-literario-luta-anti-imperialista/",
           "publishedOn": "2026-08-31T17:12:26.000Z",
-          "wordCount": 7014,
+          "wordCount": 7022,
           "title": "AND anuncia IV Concurso Literário de Contos, Crônicas e Poesias com o tema ‘A luta anti-imperialista’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-13.54.39.jpeg"
         },
@@ -431,7 +456,7 @@
           "description": "Esgotada a via da intervenção militar passo a passo, o ACFA prepara seu “Plano B”: ampliar o emprego das Forças Armadas reacionárias na guerra contrassubversiva sob a bandeira do “narcoterrorismo”.",
           "link": "https://anovademocracia.com.br/editorial-ofensiva-seguranca-eleitoral-2026/",
           "publishedOn": "2026-08-31T14:59:54.000Z",
-          "wordCount": 9218,
+          "wordCount": 9226,
           "title": "Editorial – A ofensiva contrarrevolucionária preventiva e a segurança como pauta central na farsa eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-31-editorial-and-1024x576.png"
         },
@@ -441,7 +466,7 @@
           "description": "A entidade nazi-sionista realizou um raro ataque aéreo contra Jenin, na Cisjordânia ocupada, e assassinou Qais al-Bitawi, Basel Turkman e Moamen Jaradat. Tropas cercaram o local, retiveram os corpos e impediram o acesso de ambulâncias. O Hamas classificou o bombardeio como um “crime hediondo” e afirmou que “a Cisjordânia permanecerá um manancial de combatentes da Resistência e de atos de heroísmo”. Em Gaza, cinco palestinos foram mortos sob o cessar-fogo. No Irã, a Marinha dos Guardas da Revolução reafirmou seu “controle completo e decisivo” sobre o Estreito de Ormuz e vinculou o fim das restrições à interrupção das agressões ianques.",
           "link": "https://anovademocracia.com.br/plantao-palestina-28-08-2026/",
           "publishedOn": "2026-08-29T15:44:58.000Z",
-          "wordCount": 9105,
+          "wordCount": 9113,
           "title": "Plantão Palestina (28/08): ‘Cisjordânia permanecerá um manancial de combatentes da Resistência’, afirma Hamas após massacre em Jenin",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-28-plantao-palestina.jpg"
         },
@@ -451,19 +476,9 @@
           "description": "As três jovens resgatadas tinham entre 20 e 25 anos, sendo que uma delas estava grávida. Mantidas em cárcere privado, as vítimas eram submetidas a condições análogas à escravidão, sendo coagidas por meio de agressões físicas em um prostíbulo. O caso evidencia o caráter de exploração sexual extrema da prostituição, que atinge principalmente as mulheres do povo.",
           "link": "https://anovademocracia.com.br/rs-mulheres-resgatadas-prostituicao/",
           "publishedOn": "2026-08-29T13:34:07.000Z",
-          "wordCount": 7329,
+          "wordCount": 7337,
           "title": "RS: Três mulheres são resgatadas em esquema de prostituição e exploração na cidade de Ijuí",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-28.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232122",
-          "author": "Giovanna Maria",
-          "description": "Mães e familiares de vítimas da violência do velho Estado realizaram ato na frente do TJ antes do julgamento, que foi adiado pela 4ª vez.",
-          "link": "https://anovademocracia.com.br/pm-matou-jovens-pavuna/",
-          "publishedOn": "2026-08-28T23:01:30.000Z",
-          "wordCount": 7927,
-          "title": "RJ: Júri de PM que matou dois jovens na Pavuna é adiado pela 4ª vez; PM alega ter ‘confundido’ macaco hidráulico com arma",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-27.jpeg"
         }
       ]
     },
@@ -489,6 +504,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3202883",
+          "author": "Rôney Rodrigues",
+          "description": "Retorno do bolsonarismo seria trágico. Por isso, é preocupante que o presidente insista em mimar a Faria Lima sem reunir-se com movimentos populares e oferecer propostas concretas para a população. Para conquistar os 10% de indecisos, é hora de sair da mesmice\nThe post Eleições: Lula não pode mais “jogar parado” appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/eleicoes-lula-nao-pode-mais-jogar-parado/",
+          "publishedOn": "2026-09-01T19:17:02.000Z",
+          "wordCount": 4729,
+          "title": "Eleições: Lula não pode mais “jogar parado”",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4951802400293458205_w-2.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3202850",
           "author": "Lucas Scatolini",
@@ -525,7 +550,7 @@
           "description": "Entrevistamos Olúfémi Táiwò (Femi). Nascido nos EUA, com raízes nigerianas, ele dispara: para reverter os desastres do eurocentrismo, o central não são nem indenizações, nem lugar de fala. É preciso justiça social e políticas redistributivas\nThe post O filósofo negro que quer rever as reparações coloniais appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/o-filosofo-negro-que-quer-rever-as-reparacoes-coloniais/",
           "publishedOn": "2026-08-31T20:46:34.000Z",
-          "wordCount": 7729,
+          "wordCount": 7726,
           "title": "O filósofo negro que quer rever as reparações coloniais",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4947298800666087347.jpg"
         },
@@ -565,7 +590,7 @@
           "description": "Estimulado por farmacêuticas, big techs e indústria alimentícia, estereótipo de masculinidade precisa se materializar num ideal de corpo inalcançável. O resultado: misoginia e epidemia de mortes precoces de jovens. Agroecologia pode oferecer outro caminho\nThe post Machosfera: Músculos, corações explosivos e mentes aflitas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/machosfera-musculos-coracoes-explosivos-e-mentes-aflitas/",
           "publishedOn": "2026-08-28T21:30:43.000Z",
-          "wordCount": 7436,
+          "wordCount": 7439,
           "title": "Machosfera: Músculos, corações explosivos e mentes aflitas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4940830442479357025.jpg"
         },
@@ -575,19 +600,9 @@
           "description": "Big pharma investe em antidepressivos com base no princípio ativo da “planta de poder” ancestral. Mas, no ritual indígena, superar dores é tarefa mais complexa do que ingerir substâncias. Sabem, há milênios, que algo maior escapa a métrica rígida da ciência ocidental\nThe post Ayahuasca: O sofrimento do espírito se cura na farmácia? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/ayahuasca-o-sofrimento-do-espirito-se-cura-na-farmacia/",
           "publishedOn": "2026-08-28T20:48:59.000Z",
-          "wordCount": 4675,
+          "wordCount": 4672,
           "title": "Ayahuasca: O sofrimento do espírito se cura na farmácia?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/Screenshot-2026-08-28-at-17-45-56-OP-PautasIdeias.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3202587",
-          "author": "Kauany Rocha",
-          "description": "A esquerda propaga as Reformas de Base, mas não se prepara para a reação das elites. Diante da quartelada, Jango foge. Há caça às bruxas nas redações. Nas dobras, porém, avança um projeto de revista. Parte dele é produzir uma grande reportagem sobre os índios\nThe post Memórias do Jornalismo: Em 1964, vendo o golpe acontecer appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-em-1964-vendo-o-golpe-acontecer/",
-          "publishedOn": "2026-08-28T19:46:19.000Z",
-          "wordCount": 5895,
-          "title": "Memórias do Jornalismo: Em 1964, vendo o golpe acontecer",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4940801541644422286.jpg"
         }
       ]
     },
@@ -602,7 +617,7 @@
           "description": "Por Jan Cenek Como sacaram os criadores de memes: o Brasil é hexa. Foi eliminado da sexta Copa do Mundo consecutivamente. Entre as eliminações consta a surra de 7 x 1 para a Alemanha, na Copa de 2014, disputada no Brasil. Mas, como o que é ruim sempre pode piorar, a eliminação para a Noruega […]",
           "link": "https://passapalavra.info/2026/08/159748/",
           "publishedOn": "2026-08-31T14:58:57.000Z",
-          "wordCount": 6435,
+          "wordCount": 6448,
           "title": "A cara do Brasil",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_3.jpg"
         },
@@ -629,7 +644,7 @@
           "description": "Michel Goulart da Silva: \"Engels combate no terreno da ideologia e da luta de classes as compreensões metafísicas e idealistas do trabalho e da evolução humana. Mostra, assim, o papel do trabalho no desenvolvimento da humanidade e, por conseguinte, a necessidade de superação da exploração econômica na sociedade.\"",
           "link": "https://blogdaboitempo.com.br/2026/09/01/friedrich-engels-e-a-dialetica-da-evolucao/",
           "publishedOn": "2026-09-01T11:00:00.000Z",
-          "wordCount": 12746,
+          "wordCount": 12894,
           "title": "Friedrich Engels e a dialética da evolução",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/f-engels.jpg"
         },
@@ -659,7 +674,7 @@
           "description": "Ivana Jinkings apresenta \"Meu Antônio\", memórias de sua mãe, Isa Jinkings: \"O que temos aqui é, antes de tudo, o relato amoroso de uma existência compartilhada por mais de quarenta anos. Dando voltas no tempo, Isa vai do encontro com Antônio à morte dele, aos 68 anos. Namoro, casamento, militância.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/28/raimundo-jinkings-uma-vida-marcada-pela-generosidade-e-pela-luta-em-prol-da-emancipacao-humana/",
           "publishedOn": "2026-08-28T11:00:00.000Z",
-          "wordCount": 12227,
+          "wordCount": 12271,
           "title": "Raimundo Jinkings: uma vida marcada pela generosidade e pela luta em prol da emancipação humana",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/meu-antonio-frente-e1787867988376.jpg?fit=1200%2C674&ssl=1"
         }
