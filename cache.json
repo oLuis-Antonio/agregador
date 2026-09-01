@@ -61,16 +61,6 @@
           "wordCount": 907,
           "title": "Juscelino nos deixou, mas seus ideais e lutas seguem em todos nós!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/juscelino.png"
-        },
-        {
-          "id": "6a904af4fdb1eb030328430f",
-          "author": "Érika Andreassy",
-          "description": "Nikolas Ferreira voltou a falar sobre aborto. Em entrevista ao programa Política em Minutos, da LeoDiasTV-PlatôBR, afirmou ser contra o aborto “sob qualquer circunstância”, inclusive nos casos de gravidez decorrente de estupro. Disse considerar a vida um direito fundamental, rejeitou argumentos relacionados",
-          "link": "https://opiniaosocialista.com.br/proibir-nao-impede-o-aborto-obrigar-a-gestar-nao-protege-a-mulher-uma-resposta-a-nikolas-ferreira/",
-          "publishedOn": "2026-08-27T15:29:27.000Z",
-          "wordCount": 2528,
-          "title": "Proibir não impede o aborto, obrigar a gestar não protege a mulher: uma resposta a Nikolas Ferreira",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/08/Nikolas-FerreiraZeca-Ribeiro-Camara-dos-Deputados.webp"
         }
       ]
     },
@@ -79,6 +69,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Aprofundando-giro-a-direita-Ciro-Gomes-elogia-reacionario-Renan-Santos-lider-do-MBL",
+          "author": "Abayomi Abebe",
+          "description": "O mais novo tucano, Ciro Gomes, vem aprofundando seu giro à direita em sua primeira candidatura pela sigla. Primeiro, fez acordo político com o PL cearense, partido dos Bolsonaro que tanto disse abominar. Agora, chama Renan Santos, líder do reacionário MBL/Missão, de “talento”.\n31-08-2026\n\n/ Política, MBL, Ciro Gomes, Eleições 2026, Renan Santos (Missão)",
+          "link": "https://www.esquerdadiario.com.br/Aprofundando-giro-a-direita-Ciro-Gomes-elogia-reacionario-Renan-Santos-lider-do-MBL",
+          "publishedOn": "2026-09-01T00:37:29.000Z",
+          "wordCount": null,
+          "title": "Aprofundando giro à direita, Ciro Gomes elogia reacionário Renan Santos, líder do MBL",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Reacionario-Renan-Santos-defende-escala-6x1-e-mais-ataques-aos-direitos-trabalhistas",
           "author": "Redação",
@@ -323,12 +323,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=264446",
+          "author": "Rocio Paik",
+          "description": "A União Europeia vai suspender, a partir da próxima quinta-feira (03/08), a importação de carne bovina e de aves do Brasil. O anúncio foi feito pela Comissão Europeia, que acrescentou que aguarda garantias do país sul-americano para o cumprimento das normas sanitárias do bloco. “O Brasil é um parceiro importante da União Europeia e estamos […]\nO post União Europeia suspenderá importação de carne bovina brasileira a partir de quinta (03) apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/ue-suspendera-importacao-de-carne-bovina-brasileira-a-partir-de-quinta/",
+          "publishedOn": "2026-09-01T03:30:46.000Z",
+          "wordCount": 3160,
+          "title": "União Europeia suspenderá importação de carne bovina brasileira a partir de quinta (03)",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/carne_de_sol_maturada.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264439",
+          "author": "Rocio Paik",
+          "description": "O primeiro-ministro da Espanha, Pedro Sánchez, afirmou nesta segunda-feira (31/08) haver indícios de que Rússia e Israel disseminaram desinformação sobre a política migratória espanhola, o que desencadeou a corrida em massa de imigrantes rumo a Ceuta em julho, vindos da fronteira com o Marrocos. Sánchez, contudo, disse não haver evidências de que o Marrocos tenha […]\nO post Premiê da Espanha atribui crise em Ceuta à Rússia e Israel, que rejeitam acusações apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/crise-migratoria-na-europa/premie-da-espanha-atribui-crise-em-ceuta-a-russia-e-israel-que-rejeitam-acusacoes/",
+          "publishedOn": "2026-09-01T02:00:32.000Z",
+          "wordCount": 4039,
+          "title": "Premiê da Espanha atribui crise em Ceuta à Rússia e Israel, que rejeitam acusações",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/pedro_sanchez_2022.06.26_08.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264436",
+          "author": "Rocio Paik",
+          "description": "O número de mortos no Nepal e na China subiu para 955 na noite de segunda-feira (31/08), enquanto 4.471 pessoas continuam desaparecidas em decorrência do colapso glacial da semana passada, que provocou enchentes e deslizamentos de terra pela região fronteiriça. As equipes de busca e resgate seguem na área afetada pelo sexto dia consecutivo, em […]\nO post Mortes chegam a quase mil após enchentes massivas no Nepal e na China apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/mortes-chegam-a-quase-mil-apos-enchentes-massivas-no-nepal-e-na-china/",
+          "publishedOn": "2026-09-01T01:00:28.000Z",
+          "wordCount": 3117,
+          "title": "Mortes chegam a quase mil após enchentes massivas no Nepal e na China",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/73229858-8b0b-4ad1-9938-f0e9bb0c643d-salva3-e1788222646312.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264433",
+          "author": "Rocio Paik",
+          "description": "Após o tarifaço imposto pelo governo norte-americano de Donald Trump, os ministros brasileiros das Relações Exteriores, Mauro Vieira, como também do Desenvolvimento, Indústria, Comércio e Serviço, Márcio Elias Rosa, criticaram o tratamento dos Estados Unidos ao país sul-americano, descrevendo-o como “injusto e discriminatório”, sendo incompatível com as regras multilaterais de comércio. A posição foi divulgada […]\nO post Brasil diz aos EUA que tarifaço é ‘injusto e discriminatório’ em 1ª reunião bilateral sobre tema apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/brasil-diz-aos-eua-que-tarifaco-e-injusto-e-discriminatorio-em-nova-reuniao/",
+          "publishedOn": "2026-09-01T00:00:10.000Z",
+          "wordCount": 3286,
+          "title": "Brasil diz aos EUA que tarifaço é ‘injusto e discriminatório’ em 1ª reunião bilateral sobre tema",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/president_donald_trump_meets_with_brazilian_president_luiz_inacio_da_silva_during_the_asean_summit_at_the_kuala_lumpur_convention_center_54883804063-1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=264392",
           "author": "Tatiana Carlotti",
           "description": "Por um placar de 18 votos a 6, o Tribunal de Justiça do Rio Grande do Sul rejeitou nesta segunda-feira (31/08) uma denúncia criminal, apresentada pelo Ministério Público do Rio Grande do Sul (MP-RS), contra a deputada estadual Luciana Genro (PSOL) por suas manifestações feitas nas redes sociais em defesa da Palestina e críticas a […]\nO post Tribunal do RS rejeita denúncia contra Luciana Genro por suposta discriminação contra judeus apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/tribunal-do-rs-rejeita-denuncia-contra-luciana-genro-por-suposta-discriminacao-contra-judeus/",
           "publishedOn": "2026-08-31T22:19:46.000Z",
-          "wordCount": 5003,
+          "wordCount": 5015,
           "title": "Tribunal do RS rejeita denúncia contra Luciana Genro por suposta discriminação contra judeus",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/386878_g-1200x630-1.jpg"
         },
@@ -338,7 +378,7 @@
           "description": "O presidente da China, Xi Jinping, e o mandatário russo, Vladimir Putin, se encontraram nesta segunda-feira (31/08), em evento à margem da cúpula da Organização de Cooperação de Xangai (OCX), em Bishkek, no Quirguistão. No encontro, as duas lideranças defenderam uma ordem internacional multipolar. “As incertezas e os fatores imprevisíveis no cenário internacional aumentaram significativamente”, […]\nO post ‘Deixar para trás guerra sem fim’: Modi, Xi e Putin defendem ordem multipolar em cúpula apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/deixar-para-tras-guerra-sem-fim-modi-xi-e-putin-defendem-ordem-multipolar-em-cupula/",
           "publishedOn": "2026-08-31T22:00:47.000Z",
-          "wordCount": 3267,
+          "wordCount": 3272,
           "title": "‘Deixar para trás guerra sem fim’: Modi, Xi e Putin defendem ordem multipolar em cúpula",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/putin-xi-c70f0f7b-1536x1093-1.webp"
         },
@@ -348,7 +388,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, prometeu nesta segunda-feira (31/08) uma nova ofensiva militar contra o Irã após ataques iranianos contra bases norte-americanas na Jordânia e instalações nos Emirados Árabes Unidos. Em entrevista à Fox News, o mandatário afirmou: “vamos atacá-los com força. Haverá uma resposta”. Na rede Truth Social, Trump também publicou uma […]\nO post Trump ameaça nova ofensiva contra Irã: ‘vamos atacá-los com força’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-nova-ofensiva-contra-ira-vamos-ataca-los-com-forca/",
           "publishedOn": "2026-08-31T21:00:14.000Z",
-          "wordCount": 3276,
+          "wordCount": 3281,
           "title": "Trump ameaça nova ofensiva contra Irã: ‘vamos atacá-los com força’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/p20260819am-1256.webp"
         },
@@ -358,7 +398,7 @@
           "description": "Seis meses depois de Estados Unidos e Israel iniciarem sua guerra contra o Irã, em 28 de fevereiro, é possível avaliar o conflito não apenas pelos danos provocados ou pelo número de mísseis disparados, mas pela constatação objetiva de que Washington e Tel Aviv não alcançaram seus objetivos estratégicos. O projeto era muito mais ambicioso […]\nO post A guerra contra o Irã fracassou em reordenar a Ásia Ocidental apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-guerra-contra-o-ira-fracassou-em-reordenar-a-asia-ocidental/",
           "publishedOn": "2026-08-31T20:15:13.000Z",
-          "wordCount": 4071,
+          "wordCount": 4076,
           "title": "A guerra contra o Irã fracassou em reordenar a Ásia Ocidental",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/population_participating_in_ali_khameneis_funeral_-_tehran.jpg"
         },
@@ -368,7 +408,7 @@
           "description": "Um grupo personalidades judias divulgou no último sábado (29/08) um manifesto em apoio à reeleição do presidente Luiz Inácio Lula da Silva (PT) nas eleições de outubro. O manifesto foi criado a partir de uma petição pública que, na manhã desta segunda-feira (31/08), contava com mais de mil assinaturas – e que está aberta a […]\nO post Após Flávio anunciar presidente da CONIB como ministro, judeus lançam manifesto pró-Lula apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/apos-flavio-anunciar-presidente-da-conib-como-ministro-judeus-lancam-manifesto-pro-lula/",
           "publishedOn": "2026-08-31T19:49:09.000Z",
-          "wordCount": 3765,
+          "wordCount": 3777,
           "title": "Após Flávio anunciar presidente da CONIB como ministro, judeus lançam manifesto pró-Lula",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/claudio_lottenberg_-_presidente-2_837719c83a984a51fd75b8a9c388f215-1.jpg"
         },
@@ -378,49 +418,9 @@
           "description": "Há 59 anos, em 31 de agosto de 1967, a revolucionária teuto-argentina Tamara Bunke era assassinada por militares bolivianos durante uma emboscada no Vado del Yeso, coordenada pelo capitão Mario Vargas. Filha de comunistas exilados que fugiram da Alemanha após a ascensão de Adolf Hitler, Tamara exerceu diversas funções no governo revolucionário cubano. Em 1963, […]\nO post Militante, espiã e guerrilheira: a trajetória de Tamara Bunke apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/militante-espia-e-guerrilheira-a-trajetoria-de-tamara-bunke/",
           "publishedOn": "2026-08-31T18:00:16.000Z",
-          "wordCount": 6191,
+          "wordCount": 6196,
           "title": "Militante, espiã e guerrilheira: a trajetória de Tamara Bunke",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/a-historia-da-guerrilheira-que-lutou-ao-lado-de-che-guevara-ate-o-fim-tamara-bunke.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264383",
-          "author": "Tabitha Ramalho",
-          "description": "Os eleitores da Guiné-Bissau, governada por militares, votaram neste domingo (31/08) em um referendo que pode dar mais poderes ao presidente, antes das eleições gerais para restabelecer o regime civil. A oposição, no entanto, classificou a votação como “fracasso total” e afirmou que a abstenção superior a 90% reflete rejeição ao regime militar. As coligações […]\nO post Guiné-Bissau: oposição aponta abstenção de 90% como ‘fracasso’ de referendo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/guine-bissau-oposicao-aponta-abstencao-de-90-como-fracasso-de-referendo/",
-          "publishedOn": "2026-08-31T17:10:31.000Z",
-          "wordCount": 3710,
-          "title": "Guiné-Bissau: oposição aponta abstenção de 90% como ‘fracasso’ de referendo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/captura-de-tela-2026-08-31-121138.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264390",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) mantém a liderança na disputa pelas eleições presidenciais de 2026 e supera o senador Flávio Bolsonaro (PL) no cenário de segundo turno, aponta o levantamento realizado em parceria pela AtlasIntel e Bloomberg, divulgado nesta segunda-feira (31/08). No eventual confronto direto de segundo turno com Flávio Bolsonaro — […]\nO post AtlasIntel: Lula lidera 2º turno contra Flávio Bolsonaro com 47,1% das intenções de voto apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/atlasintel-lula-lidera-2o-turno-contra-flavio-bolsonaro-com-471-das-intencoes-de-voto/",
-          "publishedOn": "2026-08-31T16:00:14.000Z",
-          "wordCount": 3316,
-          "title": "AtlasIntel: Lula lidera 2º turno contra Flávio Bolsonaro com 47,1% das intenções de voto",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/55491473972_7ada3ead49_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264389",
-          "author": "Pedro Marin",
-          "description": "Na recente visita do diretor da CIA a Moscou, a inefável inteligência externa americana foi, como costuma ser, um marco. A última visita desse naipe antecedeu a Operação Z, a operação militar da Rússia na Ucrânia. A natureza desse evento é um rito de troca de informações entre Rússia e Estados Unidos, quando estão prestes […]\nO post A CIA visitou Moscou para tomar o chá das cinco apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-cia-visitou-moscou-para-tomar-o-cha-das-cinco/",
-          "publishedOn": "2026-08-31T15:53:37.000Z",
-          "wordCount": 5039,
-          "title": "A CIA visitou Moscou para tomar o chá das cinco",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/putin-moscow-trump-russia-ucrania.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264385",
-          "author": "Victor Farinelli",
-          "description": "Uma pesquisa realizada pela consultora Equipo Mide, publicada neste domingo (30/08), mostra que o governo de Javier Milei acumula uma rejeição de mais de 70% em Buenos Aires, principal centro urbano da Argentina. Apesar de o índice a nível nacional ser menos alarmante que em medições anteriores, esse novo estudo mostrou dados preocupantes na capital […]\nO post Milei enfrenta rejeição superior a 70% em Buenos Aires apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/milei-enfrenta-rejeicao-superior-a-70-em-buenos-aires-e-crescimento-inclusive-entre-seus-eleitores/",
-          "publishedOn": "2026-08-31T15:35:53.000Z",
-          "wordCount": 3230,
-          "title": "Milei enfrenta rejeição superior a 70% em Buenos Aires",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/milei-2.jpg"
         }
       ]
     },
@@ -436,12 +436,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232211",
+          "author": "Redação de AND",
+          "description": "Declaração da LCP do Nordeste é publicada após a mobilização das famílias do Engenho Fervedouro e em meio a novos ataques contra os posseiros de Barro Branco, onde camponeses já derrotaram uma ofensiva do bando paramilitar “Invasão Zero” e realizaram um Tribunal Popular contra os crimes do latifúndio.",
+          "link": "https://anovademocracia.com.br/lcp-revolucao-agraria-vs-farsa-eleitoral/",
+          "publishedOn": "2026-09-01T00:45:03.000Z",
+          "wordCount": 8697,
+          "title": "‘Abandonar as ilusões!’: LCP contrapõe vitórias da luta pela terra em Pernambuco à farsa eleitoral e conclama à Revolução Agrária",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/IMG_20260429_213954-1024x768.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232200",
           "author": "Redação de AND",
           "description": "A organização afirma combater tanto a dominação do imperialismo ianque e das demais potências imperialistas ocidentais quanto a crescente ingerência do imperialismo russo e do social-imperialismo chinês no continente africano.",
           "link": "https://anovademocracia.com.br/liga-comunista-uganda-congresso-presos/",
           "publishedOn": "2026-08-31T19:57:29.000Z",
-          "wordCount": 7025,
+          "wordCount": 7030,
           "title": "Liga Comunista de Uganda realiza 1º Congresso Nacional; dirigentes são presos dias depois",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/feat-uganda-08292026.webp"
         },
@@ -451,7 +461,7 @@
           "description": "O EUA rompeu a pausa nos ataques diretos contra território iraniano e bombardeou, em 30 de agosto, a ilha de Larak, no Estreito de Ormuz. Teerã respondeu já no fechamento desta edição com operações de mísseis e drones contra instalações utilizadas por tropas ianques na Jordânia e nos Emirados Árabes Unidos e anunciou a derrubada de um MQ-9 sobre Ormuz. O ataque, classificado pelos Guardas da Revolução como um “erro estratégico e fatal”, reabre militarmente uma segunda campanha da guerra de agressão que Washington não conseguiu vencer na primeira metade do ano.",
           "link": "https://anovademocracia.com.br/plantao-palestina-30-08-2026/",
           "publishedOn": "2026-08-31T18:54:05.000Z",
-          "wordCount": 10245,
+          "wordCount": 10250,
           "title": "Plantão Palestina (29–30/08): ‘Erro estratégico e fatal’: Irã contra-ataca bases ianques após EUA bombardear ilha de Larak",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Plantao-Palestina-1.jpg"
         },
@@ -461,7 +471,7 @@
           "description": "Pesquisa de Matheus Viana Braz expõe a força de trabalho explorada que sustenta a IA: trabalhadores treinam, verificam e, em alguns casos, executam tarefas apresentadas ao público como automatizadas. Monopólios concentram tecnologia, patentes e lucros enquanto terceirizam trabalho, custos e riscos para trabalhadores dos países oprimidos.",
           "link": "https://anovademocracia.com.br/ia-exploracao-trabalho-humano-automacao/",
           "publishedOn": "2026-08-31T18:42:33.000Z",
-          "wordCount": 9775,
+          "wordCount": 9780,
           "title": "IA dos monopólios esconde exploração do trabalho humano por trás da ‘automação’, revela pesquisador ao AND",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/AI-tagging-1024x576.webp"
         },
@@ -471,7 +481,7 @@
           "description": "O jornal A Nova Democracia convida e convoca os amigos e leitores, os escritores, poetas, artistas e todos aqueles que acompanham as lutas dos povos oprimidos a participar do IV Concurso Literário de Contos, Crônicas e Poesias.",
           "link": "https://anovademocracia.com.br/and-iv-concurso-literario-luta-anti-imperialista/",
           "publishedOn": "2026-08-31T17:12:26.000Z",
-          "wordCount": 7004,
+          "wordCount": 7009,
           "title": "AND anuncia IV Concurso Literário de Contos, Crônicas e Poesias com o tema ‘A luta anti-imperialista’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-13.54.39.jpeg"
         },
@@ -481,7 +491,7 @@
           "description": "Esgotada a via da intervenção militar passo a passo, o ACFA prepara seu “Plano B”: ampliar o emprego das Forças Armadas reacionárias na guerra contrassubversiva sob a bandeira do “narcoterrorismo”.",
           "link": "https://anovademocracia.com.br/editorial-ofensiva-seguranca-eleitoral-2026/",
           "publishedOn": "2026-08-31T14:59:54.000Z",
-          "wordCount": 9208,
+          "wordCount": 9213,
           "title": "Editorial – A ofensiva contrarrevolucionária preventiva e a segurança como pauta central na farsa eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-31-editorial-and-1024x576.png"
         },
@@ -491,7 +501,7 @@
           "description": "A entidade nazi-sionista realizou um raro ataque aéreo contra Jenin, na Cisjordânia ocupada, e assassinou Qais al-Bitawi, Basel Turkman e Moamen Jaradat. Tropas cercaram o local, retiveram os corpos e impediram o acesso de ambulâncias. O Hamas classificou o bombardeio como um “crime hediondo” e afirmou que “a Cisjordânia permanecerá um manancial de combatentes da Resistência e de atos de heroísmo”. Em Gaza, cinco palestinos foram mortos sob o cessar-fogo. No Irã, a Marinha dos Guardas da Revolução reafirmou seu “controle completo e decisivo” sobre o Estreito de Ormuz e vinculou o fim das restrições à interrupção das agressões ianques.",
           "link": "https://anovademocracia.com.br/plantao-palestina-28-08-2026/",
           "publishedOn": "2026-08-29T15:44:58.000Z",
-          "wordCount": 9095,
+          "wordCount": 9100,
           "title": "Plantão Palestina (28/08): ‘Cisjordânia permanecerá um manancial de combatentes da Resistência’, afirma Hamas após massacre em Jenin",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/2026-08-28-plantao-palestina.jpg"
         },
@@ -501,7 +511,7 @@
           "description": "As três jovens resgatadas tinham entre 20 e 25 anos, sendo que uma delas estava grávida. Mantidas em cárcere privado, as vítimas eram submetidas a condições análogas à escravidão, sendo coagidas por meio de agressões físicas em um prostíbulo. O caso evidencia o caráter de exploração sexual extrema da prostituição, que atinge principalmente as mulheres do povo.",
           "link": "https://anovademocracia.com.br/rs-mulheres-resgatadas-prostituicao/",
           "publishedOn": "2026-08-29T13:34:07.000Z",
-          "wordCount": 7319,
+          "wordCount": 7324,
           "title": "RS: Três mulheres são resgatadas em esquema de prostituição e exploração na cidade de Ijuí",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-28.jpeg"
         },
@@ -511,7 +521,7 @@
           "description": "Mães e familiares de vítimas da violência do velho Estado realizaram ato na frente do TJ antes do julgamento, que foi adiado pela 4ª vez.",
           "link": "https://anovademocracia.com.br/pm-matou-jovens-pavuna/",
           "publishedOn": "2026-08-28T23:01:30.000Z",
-          "wordCount": 7917,
+          "wordCount": 7922,
           "title": "RJ: Júri de PM que matou dois jovens na Pavuna é adiado pela 4ª vez; PM alega ter ‘confundido’ macaco hidráulico com arma",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/image-27.jpeg"
         },
@@ -521,19 +531,9 @@
           "description": "Governo ianque incluiu o Masar Badil na lista de “terroristas globais especialmente designados” e sancionou Rawa Alsagheer, militante palestina que atua no Brasil; mesma medida atingiu o Palestine Action e o coletivo digital italiano Autistici/Inventati, acusando-os de integrarem \"redes terroristas transnacionais de extrema-esquerda\".",
           "link": "https://anovademocracia.com.br/palestina-rawa-classificada-eua-terrorista/",
           "publishedOn": "2026-08-28T22:17:51.000Z",
-          "wordCount": 7669,
+          "wordCount": 7674,
           "title": "‘Os imperialistas e os sionistas sabem que estão perdendo’, afirma ativista palestina Rawa Alsagheer após ser classificada pelo EUA como ‘terrorista’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-02-at-17.50.22.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232095",
-          "author": "Giovanna Maria",
-          "description": "Centenas de estudantes responderam às provocações de Wilker Leão com um ato político-cultural na UnB. A mobilização expôs um áudio que aponta pagamento a integrantes de torcida organizada para garantir a segurança do baderneiro de extrema-direita.",
-          "link": "https://anovademocracia.com.br/estudantes-unb-wilker-leao/",
-          "publishedOn": "2026-08-28T20:38:13.000Z",
-          "wordCount": 8610,
-          "title": "Estudantes da UnB realizam ato em resposta às investidas do baderneiro de extrema direita Wilker Leão",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/08/Coletivo-1024x576.jpg"
         }
       ]
     },
@@ -541,7 +541,18 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6a9633717f8ed50598a02844",
+          "author": "O Poder Popular",
+          "description": "Segundo Edmilson Costa, candidato do PCB à Presidência, o Brasil precisa romper com o ciclo de políticas neoliberais que vem desde o início da década de 90.\n\nConversamos com Edmilson Costa, candidato à Presidência da República pelo PCB",
+          "link": "https://opoderpopular.com.br/conversa-com-edmilson-costa-candidato-a-presidencia-pelo-pcb/",
+          "publishedOn": "2026-09-01T02:14:59.000Z",
+          "wordCount": 2760,
+          "title": "Conversa com Edmilson Costa, candidato à presidência pelo PCB",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/09/17871729466a86185217d0e_1787172946_9x16_lg.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
@@ -554,7 +565,7 @@
           "description": "Ao sequestrar petróleo do país, Trump executa plano vital para manter o hegemon de Washington e sua moeda. Qual é ele? Como os EUA zombam do direito internacional, em favor do projeto. Por que a resistência do Irã frustra seus planos\nThe post Na Venezuela, a última chance do dólar? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/na-venezuela-a-ultima-chance-do-dolar/",
           "publishedOn": "2026-08-31T22:39:56.000Z",
-          "wordCount": 7821,
+          "wordCount": 7818,
           "title": "Na Venezuela, a última chance do dólar?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4947298800666087390.jpg"
         },
@@ -574,7 +585,7 @@
           "description": "Estudo sugere: mais da metade do fundo público é direcionado ao setor privado e filantrópico. Os desvios também avançam via OSs. Arcabouço fiscal trouxe novas ameaças. Frente defende volta aos princípios da Reforma Sanitária\nThe post Saúde: Retrato da captura privada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/saude-retrato-da-capturaprivada/",
           "publishedOn": "2026-08-31T20:54:06.000Z",
-          "wordCount": 5545,
+          "wordCount": 5534,
           "title": "Saúde: Retrato da captura privada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/ubs_resolve_dom_pedro-08-claudio_vieira1.jpg"
         },
@@ -584,7 +595,7 @@
           "description": "Entrevistamos Olúfémi Táiwò (Femi). Nascido nos EUA, com raízes nigerianas, ele dispara: para reverter os desastres do eurocentrismo, o central não são nem indenizações, nem lugar de fala. É preciso justiça social e políticas redistributivas\nThe post O filósofo negro que quer rever as reparações coloniais appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/o-filosofo-negro-que-quer-rever-as-reparacoes-coloniais/",
           "publishedOn": "2026-08-31T20:46:34.000Z",
-          "wordCount": 7726,
+          "wordCount": 7729,
           "title": "O filósofo negro que quer rever as reparações coloniais",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4947298800666087347.jpg"
         },
@@ -594,7 +605,7 @@
           "description": "Mídia e economistas ortodoxos defendem a “lipoaspiração” do benefício, para reduzir custos às empresas. Proposta tornaria ainda mais precarizado e rotativo o mercado de trabalho brasileiro. Em movimento contrário, Espanha ampliou a Seguridade e revitalizou a economia\nThe post Por que os neoliberais atacam o seguro-desemprego appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/por-que-os-neoliberais-atacam-o-seguro-desemprego/",
           "publishedOn": "2026-08-31T19:34:17.000Z",
-          "wordCount": 4085,
+          "wordCount": 4088,
           "title": "Por que os neoliberais atacam o seguro-desemprego",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4947298800666087375_y.jpg"
         },
@@ -604,7 +615,7 @@
           "description": "Sem debate ou aviso, fundação de pesquisa de SP muda regras, limita bolsas no exterior e atinge milhares de cientistas. Comunidade acadêmica reage e denuncia distribuição desigual de recursos, enquanto entidade estadual se cala \nThe post Cortes na Ciência: a estranha decisão da FAPESP appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/cortes-na-ciencia-a-estranha-decisao-da-fapesp/",
           "publishedOn": "2026-08-31T19:05:00.000Z",
-          "wordCount": 4493,
+          "wordCount": 4496,
           "title": "Cortes na Ciência: a estranha decisão da FAPESP",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/photo_4947298800666087360_w.jpg"
         },
@@ -614,7 +625,7 @@
           "description": "Dois autores chineses sustentam: em versão transhumanista, capital quer sacrificar, no altar da técnica, as ideias de futuro coletivo e de vidas regidas pela ética. Mas surgem contrapontos. A cidade, habitada pelo caos e o Comum, é grande trincheira\nThe post Para enfrentar o cancelamento da política appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/enfrentar-o-cancelamento-da-politica/",
           "publishedOn": "2026-08-28T22:01:51.000Z",
-          "wordCount": 5031,
+          "wordCount": 5034,
           "title": "Para enfrentar o cancelamento da política",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/10194357-3337-4d00-b529-60c58973962f-1.jpg"
         },
@@ -624,7 +635,7 @@
           "description": "Estimulado por farmacêuticas, big techs e indústria alimentícia, estereótipo de masculinidade precisa se materializar num ideal de corpo inalcançável. O resultado: misoginia e epidemia de mortes precoces de jovens. Agroecologia pode oferecer outro caminho\nThe post Machosfera: Músculos, corações explosivos e mentes aflitas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/machosfera-musculos-coracoes-explosivos-e-mentes-aflitas/",
           "publishedOn": "2026-08-28T21:30:43.000Z",
-          "wordCount": 7439,
+          "wordCount": 7436,
           "title": "Machosfera: Músculos, corações explosivos e mentes aflitas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4940830442479357025.jpg"
         },
@@ -644,7 +655,7 @@
           "description": "A esquerda propaga as Reformas de Base, mas não se prepara para a reação das elites. Diante da quartelada, Jango foge. Há caça às bruxas nas redações. Nas dobras, porém, avança um projeto de revista. Parte dele é produzir uma grande reportagem sobre os índios\nThe post Memórias do Jornalismo: Em 1964, vendo o golpe acontecer appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-em-1964-vendo-o-golpe-acontecer/",
           "publishedOn": "2026-08-28T19:46:19.000Z",
-          "wordCount": 5895,
+          "wordCount": 5892,
           "title": "Memórias do Jornalismo: Em 1964, vendo o golpe acontecer",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/08/4940801541644422286.jpg"
         }
@@ -688,7 +699,7 @@
           "description": "Bruna Della Torre: \"No interior do marxismo, a Escola de Frankfurt constitui a tradição que se dedicou de maneira mais prolongada e sistemática, inclusive no plano empírico, ao estudo do fascismo. Enquanto diversos autores abordaram individualmente o tema, de Clara Zetkin, Antonio Gramsci, Nicos Poulantzas e Ernest Mandel a formulações mais recentes e situadas em polos distintos, como as de Domenico Losurdo e Enzo Traverso, a Teoria Crítica fez dele um objeto de investigação coletiva.\"",
           "link": "https://blogdaboitempo.com.br/2026/08/31/o-que-e-fascismo-para-a-teoria-critica/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 17898,
+          "wordCount": 17747,
           "title": "O que é fascismo para a Teoria Crítica?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/08/image-9.png"
         },
