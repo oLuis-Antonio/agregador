@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "HMelL8",
+          "author": null,
+          "description": "A condição de vanguarda se conquista na capacidade de compreender o movimento da sociedade, reconhecer suas contradições e organizar a intervenção do proletariado sobre elas.",
+          "link": "https://jornalofuturo.com.br/artigo/HMelL8-editorial-construir-o-jornal-construir-o-partido-construir-o-futuro",
+          "publishedOn": "2026-09-01T15:00:00.000Z",
+          "wordCount": 2725,
+          "title": "EDITORIAL: Construir o jornal, construir o Partido, construir o futuro!",
+          "imageUrl": "https://media.jornalofuturo.com.br/distribui%C3%83%C2%A7%C3%83%C2%A3o%20de%20jornal-5-1280x1131.jpg"
+        },
+        {
           "id": "ULqb6t",
           "author": null,
           "description": "A campanha ocorre depois de uma década sem uma greve nacional unificada. Em 2025, os bancos acumularam R$ 171 bilhões em lucro líquido, enquanto os bancários seguem submetidos à intensificação do trabalho e à precarização",
@@ -59,6 +69,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Comecou-a-greve-bancaria-no-Para-o-espirito-da-Cabanagem-vive-em-nossa-luta",
+          "author": "Redação",
+          "description": "Os bancários do Pará iniciam hoje uma importante greve da categoria, que já tem data marcada para começar também no Maranhão e no Rio Grande do Norte, a partir do dia 8. Em carta, os bancários do Pará evocam o espírito da Cabanagem como parte da sua mobilização contra a exploração em um forte chamado a fortalecer a greve, enquanto em SP o sindicato faz de tudo para impedir que aconteça. Reproduzimos a seguir essa carta que circula entre a categoria bancária de todo o país.\n04-09-2026\n\n/ Classe trabalhadora, Bancários, CUT, Greve Bancários, Belém , Pará",
+          "link": "https://www.esquerdadiario.com.br/Comecou-a-greve-bancaria-no-Para-o-espirito-da-Cabanagem-vive-em-nossa-luta",
+          "publishedOn": "2026-09-04T13:00:16.000Z",
+          "wordCount": null,
+          "title": "Começou a greve bancária no Pará \"o espírito da Cabanagem vive em nossa luta\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Thiago-Medina-PL-racista-nojento-tire-as-maos-da-Jurema-Sagrada-Pela-separacao-entre-igreja-e",
           "author": "Renato Shakur",
@@ -224,7 +244,7 @@
           "description": "De Rondônia à Bahia, de São Paulo ao Rio, decisões de governadores ajudam a explicar por que as polícias seguem matando milhares de pessoas por ano no Brasil\nO conteúdo Por que o seu candidato deveria falar de letalidade policial nessas eleições?  Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/por-que-o-seu-candidato-deveria-falar-de-letalidade-policial-nessas-eleicoes/",
           "publishedOn": "2026-09-03T15:58:57.000Z",
-          "wordCount": 8968,
+          "wordCount": 8889,
           "title": "Por que o seu candidato deveria falar de letalidade policial nessas eleições?",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/letalidade-policial-ponte-jornalismo-juniao.webp"
         },
@@ -293,13 +313,93 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=264869",
+          "author": "Tabitha Ramalho",
+          "description": "As Nações Unidas votaram a favor da adoção de uma resolução para mudar o mapa-múndi tradicional de Mercator, do século XVI, para o modelo Equal Earth de 2018 que mostra com mais precisão a dimensão da África. Em uma sessão realizada em sua sede em Nova York nesta sexta-feira (04/09), 164 países votaram a favor. […]\nO post ONU aprova novo mapa-múndi que mostra tamanho real da África; EUA são único voto contra apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/onu-aprova-novo-mapa-mundi-que-mostra-tamanho-real-da-africa-eua-sao-unico-voto-contra/",
+          "publishedOn": "2026-09-04T18:31:09.000Z",
+          "wordCount": 3512,
+          "title": "ONU aprova novo mapa-múndi que mostra tamanho real da África; EUA são único voto contra",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hrvkxynbkaaejvf.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264863",
+          "author": "Raissa Neves",
+          "description": "O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, afirmou nesta sexta-feira (04/09) que a Corte dará uma resposta “firme, proporcional e rigorosa” à crise interna que envolve ministros do tribunal. A declaração foi feita durante um evento no Palácio do Planalto, ao lado do presidente Luiz Inácio Lula da Silva e do procurador-geral […]\nO post Fachin defende fim do inquérito das fake news e promete resposta à crise no STF apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/fachin-anuncia-fim-do-inquerito-das-fake-news-e-promete-resposta-a-crise-no-stf/",
+          "publishedOn": "2026-09-04T17:16:52.000Z",
+          "wordCount": 4085,
+          "title": "Fachin defende fim do inquérito das fake news e promete resposta à crise no STF",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/81342-768x512-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264859",
+          "author": "Victor Farinelli",
+          "description": "A Procuradoria Metropolitana de Santiago do Chile anunciou nesta quinta-feira (03/09) que iniciará uma investigação sobre possíveis crimes relativos às atividades do empresário e consultor argentino Fernando Cerimedo durante processos eleitorais no país realizados entre os anos de 2021 e 2025. O inquérito foi aberto a partir de uma representação do Partido Socialista, impulsionada pelo […]\nO post Procuradoria do Chile aprova investigação sobre influência de Cerimedo em eleições recentes apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/procuradoria-do-chile-aprova-investigacao-sobre-influencia-de-cerimedo-em-eleicoes-recentes/",
+          "publishedOn": "2026-09-04T16:18:54.000Z",
+          "wordCount": 3387,
+          "title": "Procuradoria do Chile aprova investigação sobre influência de Cerimedo em eleições recentes",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/cerimedo-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264853",
+          "author": "Tabitha Ramalho",
+          "description": "O governo Trump entrou com um pedido de emergência na Suprema Corte dos EUA solicitando a revogação da ordem que impede o Serviço Postal dos EUA (USPS) de implementar restrições ao voto por correspondência. Dessa forma, o Departamento de Justiça solicitou que o tribunal revogue a ordem da juíza Indira Talwani, que impede temporariamente o […]\nO post Governo Trump pede à Suprema Corte para implementar restrições ao voto por correio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-pede-a-suprema-corte-para-implementar-restricoes-ao-voto-por-correio/",
+          "publishedOn": "2026-09-04T15:00:41.000Z",
+          "wordCount": 3398,
+          "title": "Governo Trump pede à Suprema Corte para implementar restrições ao voto por correio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/c74606ab-1ec5-47e5-9ff1-089148b9c8b0-trump.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264852",
+          "author": "Victor Farinelli",
+          "description": "O presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quinta-feira (03/09) que todas as pessoas envolvidas no caso Banco Master sejam investigadas, independentemente dos cargos que ocupem. Em sua primeira manifestação sobre a crise provocada no Supremo Tribunal Federal (STF) pelas novas revelações do caso, Lula também criticou “vazamentos seletivos” das investigações. “É fundamental […]\nO post Lula defende investigação no caso Master: ‘doa a quem doer’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-defende-investigacao-no-caso-master-doa-a-quem-doer/",
+          "publishedOn": "2026-09-04T14:45:48.000Z",
+          "wordCount": 3822,
+          "title": "Lula defende investigação no caso Master: ‘doa a quem doer’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lula-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264848",
+          "author": "Tabitha Ramalho",
+          "description": "O ex-presidente colombiano e ex-governador de Antioquia, Álvaro Uribe Vélez, enfrentará uma importante audiência perante o sistema judiciário colombiano na sexta-feira (04/09). A Procuradoria-Geral da República o intimou a partir das 9h da manhã para prestar depoimento no âmbito de três processos criminais que investigam a formação de exércitos paramilitares privados em Antioquia durante a […]\nO post Álvaro Uribe é intimado para interrogatório por conta dos massacres de El Aro e La Granja apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/alvaro-uribe-e-intimado-para-interrogatorio-por-conta-dos-massacres-de-el-aro-e-la-granja/",
+          "publishedOn": "2026-09-04T14:10:33.000Z",
+          "wordCount": 3697,
+          "title": "Álvaro Uribe é intimado para interrogatório por conta dos massacres de El Aro e La Granja",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/imagem-do-whatsapp-de-2025-08-07-as-07.02.34_75ab8def.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264844",
+          "author": "Tabitha Ramalho",
+          "description": "Os olhos de toda Alemanha se voltam neste domingo (06/09) para a região da Saxônia-Anhalt, onde os eleitores poderão dar uma vitória no parlamento local ao partido de extrema direita Alternativa para a Alemanha (AfD). As pesquisas apontam que há chances de a AfD conseguir formar, pela primeira vez, maioria para governar um dos 16 […]\nO post Alemanha: AfD pode vencer eleição na Saxônia-Anhalt e governar estado pela primeira vez apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-afd-pode-vencer-eleicao-na-saxonia-anhalt-e-governar-estado-pela-primeira-vez/",
+          "publishedOn": "2026-09-04T13:30:40.000Z",
+          "wordCount": 4368,
+          "title": "Alemanha: AfD pode vencer eleição na Saxônia-Anhalt e governar estado pela primeira vez",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-04-094932.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264841",
+          "author": "Tabitha Ramalho",
+          "description": "Dois trabalhadores foram resgatados nesta sexta-feira (04/08) de um túnel soterrado por destroços em usina hidrelétrica, nove dias após a catástrofe que deixou de 1,2 mil mortos na região de fronteira entre o Nepal e a China. Os dois trabalhadores do túnel da usina hidrelétrica Upper Trishuli 3A foram os primeiros a serem resgatados após […]\nO post Após nove dias, dois trabalhadores são resgatados de túnel no Nepal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/apos-nove-dias-dois-trabalhadores-sao-resgatados-de-tunel-no-nepal/",
+          "publishedOn": "2026-09-04T12:50:21.000Z",
+          "wordCount": 4284,
+          "title": "Após nove dias, dois trabalhadores são resgatados de túnel no Nepal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/78896931_303.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=264838",
           "author": "Tabitha Ramalho",
-          "description": "O presidente argentino, Javier Milei, garantiu nesta sexta-feira (04/09) que seu governo não permitirá a apropriação indevida do território ou dos recursos que circundam o arquipélago das Ilhas Malvinas, cuja soberania é disputada por Buenos Aires contra o Reino Unido. “Nossa causa exige uma resposta. Não permitiremos isso. A Argentina não ficará de braços cruzados. […]\nO post Argentina não permitirá ‘apropriação indevida’ do território ou recursos das Ilhas Malvinas apareceu primeiro em Opera Mundi.",
+          "description": "O presidente argentino, Javier Milei, garantiu nesta sexta-feira (04/09) que seu governo não permitirá a apropriação indevida do território ou dos recursos que circundam o arquipélago das Ilhas Malvinas, cuja soberania é disputada por Buenos Aires contra o Reino Unido. “Nossa causa exige uma resposta. Não permitiremos isso. A Argentina não ficará de braços cruzados. […]\nO post Argentina não permitirá apropriação indevida do território ou recursos das Malvinas, diz Milei apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/argentina-nao-permitira-apropriacao-indevida-do-territorio-ou-recursos-das-ilhas-malvinas/",
           "publishedOn": "2026-09-04T12:05:21.000Z",
-          "wordCount": 4089,
-          "title": "Argentina não permitirá ‘apropriação indevida’ do território ou recursos das Ilhas Malvinas",
+          "wordCount": 4086,
+          "title": "Argentina não permitirá apropriação indevida do território ou recursos das Malvinas, diz Milei",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-04-090155.png"
         },
         {
@@ -308,91 +408,17 @@
           "description": "O Reino Unido anunciou nesta quinta-feira (03/09) o aporte de US$ 540 milhões ao Fundo Florestas Tropicais para Sempre (TFFF, na sigla em inglês), mecanismo de financiamento para manter a floresta de pé liderado pelo Brasil e lançado oficialmente durante a COP30, realizada em Belém. O governo britânico enviou comunicado sobre a decisão ao Parlamento. […]\nO post Reino Unido anuncia aporte de R$ 2,7 bilhões ao Fundo Florestas Tropicais para Sempre apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/meio-ambiente/reino-unido-anuncia-aporte-de-r-27-bilhoes-ao-fundo-florestas-tropicais-para-sempre/",
           "publishedOn": "2026-09-04T08:00:04.000Z",
-          "wordCount": 3945,
+          "wordCount": 3941,
           "title": "Reino Unido anuncia aporte de R$ 2,7 bilhões ao Fundo Florestas Tropicais para Sempre",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/floresta_amazonica_6127721175.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264831",
-          "author": "Rocio Paik",
-          "description": "Os Estados Unidos lançaram na quinta-feira (03/09) jogos online que transformam a deportação de imigrantes indocumentados em uma brincadeira, ação que gerou críticas de grupos de direitos humanos no contexto em que Donald Trump intensifica e busca normalizar seu programa anti-imigração no país.  Os jogos estão disponibilizados no site oficial da Casa Branca, e se […]\nO post Casa Branca lança jogos no seu site institucional em que imigrantes são caçados para deportação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/casa-branca-lanca-jogos-no-seu-site-institucional-em-que-imigrantes-sao-cacados-para-deportacao/",
-          "publishedOn": "2026-09-04T06:30:14.000Z",
-          "wordCount": 3477,
-          "title": "Casa Branca lança jogos no seu site institucional em que imigrantes são caçados para deportação",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-04-024051.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264828",
-          "author": "Rocio Paik",
-          "description": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), retirou nesta quinta-feira (03/09) o sigilo de decisão que aponta supostas irregularidades na atuação do colega André Mendonça na relatoria de processos relacionados às operações Sem Desconto e Compliance Zero. O magistrado, relator do inquérito das fake news, decidiu encaminhar os documentos de inteligência da […]\nO post Moraes encaminha ao presidente do STF pedido de investigação contra Mendonça apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/moraes-encaminha-ao-presidente-do-stf-pedido-de-investigacao-contra-mendonca/",
-          "publishedOn": "2026-09-04T05:30:20.000Z",
-          "wordCount": 3364,
-          "title": "Moraes encaminha ao presidente do STF pedido de investigação contra Mendonça",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55367429687_67831ee575_o.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264824",
-          "author": "Rocio Paik",
-          "description": "A União Europeia (UE) começou nesta quinta-feira (03/09) a suspensão da entrada de produtos de origem animal do Brasil em seus 27 países-membros. A medida atinge carnes bovina, de frango e suína, além de mel, pescados e ovos, e pode afetar até US$ 2 bilhões por ano em exportações brasileiras. O bloqueio, porém, não é […]\nO post União Europeia suspende carnes do Brasil; entenda impacto e próximos passos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/uniao-europeia-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos/",
-          "publishedOn": "2026-09-04T04:40:52.000Z",
-          "wordCount": 5021,
-          "title": "União Europeia suspende carnes do Brasil; entenda impacto e próximos passos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/dhfji.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264821",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, nomeou nesta quinta-feira (03/09) Adam Telle como novo secretário interino do Exército após a saída de Daniel Driscoll no início da semana, em meio a relatos de tensões com o secretário de Defesa, Pete Hegseth.  “Ele é um Grande Patriota, respeitado por todos”, escreveu o mandatário em uma […]\nO post Adam Telle é nomeado secretário interino do Exército dos EUA em meio à crise interna no Pentágono apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/adam-telle-e-nomeado-secretario-interino-do-exercito-dos-eua-em-meio-a-crise-interna-no-pentagono/",
-          "publishedOn": "2026-09-04T03:30:53.000Z",
-          "wordCount": 3464,
-          "title": "Adam Telle é nomeado secretário interino do Exército dos EUA em meio à crise interna no Pentágono",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/webp.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264818",
-          "author": "Rocio Paik",
-          "description": "O vice-presidente dos Estados Unidos, JD Vance, recusou-se nesta quinta-feira (03/09) a oferecer um cronograma para o fim da guerra que promove, juntamente com Israel, contra o Irã. Iniciado em 28 de fevereiro, o conflito não apresenta sinais de trégua e, nesta semana, o Exército de Washington voltou a bombardear o sul iraniano. Em uma […]\nO post JD Vance minimiza guerra e recusa fornecer cronograma para fim das agressões contra Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/jd-vance-minimiza-guerra-e-recusa-fornecer-cronograma-para-fim-das-agressoes-contra-ira/",
-          "publishedOn": "2026-09-04T02:30:42.000Z",
-          "wordCount": 3598,
-          "title": "JD Vance minimiza guerra e recusa fornecer cronograma para fim das agressões contra Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vice_president_jd_vance_hosting_the_charlie_kirk_show.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264815",
-          "author": "Rocio Paik",
-          "description": "O presidente russo, Vladimir Putin, discursou nesta quinta-feira (03/09) na sessão plenária do Fórum Econômico Oriental, realizado na cidade russa de Vladivostok, entre 1 e 4 de setembro. Ele delineou os planos do governo para a situação econômica da Rússia, dando destaque à estratégia do país para o desenvolvimento das regiões do Ártico e do […]\nO post Putin apresenta estratégia econômica da Rússia e projeta recorde comercial com China apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/putin-apresenta-estrategia-economica-da-russia-e-projeta-recorde-comercial-com-china/",
-          "publishedOn": "2026-09-04T01:20:53.000Z",
-          "wordCount": 4024,
-          "title": "Putin apresenta estratégia econômica da Rússia e projeta recorde comercial com China",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vaiaeqbwqeo2nhdtaphazgh6eae92e5e-adb6e42d.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264809",
-          "author": "Rocio Paik",
-          "description": "O gabinete presidencial da Coreia do Sul desmentiu em um primeiro momento os recentes relatos da mídia local que alegam que o governo está considerando enviar tropas e recursos militares para o Estreito de Ormuz, atendendo aos apelos do presidente norte-americano Donald Trump. De acordo com um comunicado emitido pela Casa Azul nesta quinta-feira (03/09), […]\nO post Coreia do Sul planeja deslocar forças navais para Ormuz, informa mídia local; governo nega relatos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/coreia-do-sul-planeja-deslocar-forcas-navais-para-ormuz-informa-midia-local-governo-nega-relatos/",
-          "publishedOn": "2026-09-03T23:56:18.000Z",
-          "wordCount": 3560,
-          "title": "Coreia do Sul planeja deslocar forças navais para Ormuz, informa mídia local; governo nega relatos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/uss_tempest_pc_2_transits_the_strait_of_hormuz._50679762106.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=264804",
-          "author": "Victor Farinelli",
-          "description": "Em mensagem difundida nesta quinta-feira (03/09), o presidente dos Estados Unidos, Donald Trump, disse pedirá às nações europeias que reembolsassem os Estados Unidos pela ajuda militar e pelas munições enviadas à Ucrânia durante a guerra contra a Rússia A medida seria um aprofundamento de uma política instituída em 2025 na qual os Estados Unidos, através […]\nO post Trump diz que EUA cobrarão da Europa pagamento retroativo da ajuda enviada à Ucrânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-diz-que-eua-cobrarao-da-europa-pagamento-retroativo-da-ajuda-enviada-a-ucrania/",
-          "publishedOn": "2026-09-03T22:40:10.000Z",
-          "wordCount": 3312,
-          "title": "Trump diz que EUA cobrarão da Europa pagamento retroativo da ajuda enviada à Ucrânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/trump.jpg"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -400,12 +426,52 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232430",
+          "author": "Giovanna Maria",
+          "description": "Metalúrgicos da General Motors (GM), em São José dos Campos, paralisaram a produção por duas horas após rejeitarem proposta de apenas 1% de ganho real apresentada pela montadora. Em estado de greve desde 31 de agosto, trabalhadores podem ampliar a mobilização diante da intransigência patronal.",
+          "link": "https://anovademocracia.com.br/gm-paralisacao-metalurgicos/",
+          "publishedOn": "2026-09-04T18:06:32.000Z",
+          "wordCount": 7341,
+          "title": "SP: Metalúrgicos paralisam produção da General Motors em São José dos Campos",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-11.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232411",
+          "author": "Giovanna Maria",
+          "description": "Segundo os estudantes, o bingo surgiu da necessidade de se “elevar a mobilização dos cursos do campus de São Lázaro (região onde se situam a FFCH e IPSS), tanto no sentido de elevarmos o espírito de união estudantil quanto de haver um momento de convivência”.",
+          "link": "https://anovademocracia.com.br/estudantes-organizam-bingo-independente/",
+          "publishedOn": "2026-09-04T17:15:51.000Z",
+          "wordCount": 7101,
+          "title": "BA: Estudantes organizam e mobilizam bingo independente no campus São Lázaro da UFBA",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-9.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232406",
+          "author": "Redação de AND",
+          "description": "A velha ordem, asquerosa como seja, precisa decompor-se para servir de matéria ao que nasce sobre ela: o terreno de onde brotará uma nova realidade e uma nova democracia.",
+          "link": "https://anovademocracia.com.br/circo-eleitoral-caso-moraes-tutela-militar/",
+          "publishedOn": "2026-09-04T14:27:23.000Z",
+          "wordCount": 9974,
+          "title": "Sobre os diabos e as violetas: o circo eleitoral, o caso Moraes e a recomposição da tutela militar",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/alexandre-de-moraes-luiz-inacio-paulo-gonet-1024x768.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232382",
+          "author": "Redação de AND",
+          "description": "Marcha ocupou as principais vias da capital e chegou às imediações da residência presidencial; dois dias depois, governo anunciou 2,5 mil subsídios habitacionais, mas regularização das terras segue pendente.",
+          "link": "https://anovademocracia.com.br/camponeses-indigenas-terra-moradia-paraguai/",
+          "publishedOn": "2026-09-04T12:58:55.000Z",
+          "wordCount": 7837,
+          "title": "Milhares de camponeses e indígenas marcham em Assunção por terra e moradia e dobram governo reacionário paraguaio",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-3.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232366",
           "author": "Redação de AND",
           "description": "Ataques recentes contra os Guarani-Kaiowá, participação crescente das forças policiais e acusações de “terrorismo” e “guerrilha” contra retomadas expõem uma guerra pela terra que atravessa governos. No A Propósito, diretor-geral de AND relacionou o genocídio à expansão do latifúndio e destacou o avanço da resistência e da autodefesa indígena.",
           "link": "https://anovademocracia.com.br/camponeses-quilombolas-indigenas-guerra/",
           "publishedOn": "2026-09-03T15:00:00.000Z",
-          "wordCount": 8881,
+          "wordCount": 8872,
           "title": "‘Aos camponeses, indígenas e quilombolas só resta a guerra’: diretor-geral de AND analisa genocídio contra os povos indígenas e avanço das retomadas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-02-indigenas-1.jpg"
         },
@@ -415,17 +481,17 @@
           "description": "A divulgação do relatório agravou a pugna no interior do STF e entre as instituições do velho Estado, chegando a demonstrar também as relações diretas entre o Procurador-Geral da República, Paulo Gonet, e o ex-banqueiro. O próprio relator André Mendonça também chegou a ter reunião com Vorcaro.",
           "link": "https://anovademocracia.com.br/relacoes-vorcaro-alexandre-de-moraes-pgr/",
           "publishedOn": "2026-09-03T13:31:12.000Z",
-          "wordCount": 8521,
-          "title": "Contratos milionários, charutos e uísque: Quebra de sigilo expõe relações de Vorcaro com Alexandre de Moraes e PGR",
+          "wordCount": 8448,
+          "title": "Contratos milionários, charutos e uísque: quebra de sigilo expõe relações de Vorcaro com Alexandre de Moraes e PGR",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-03-moraes-1024x579.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=232385",
-          "author": "Editor Executivo",
+          "author": "Redação de AND",
           "description": "O procurador Lucas de Morais Gualtieri, que atuou na Operação “Trapiche”, levará a investigação sobre uma suposta célula do Hezbollah no Brasil ao circuito continental de “contraterrorismo” ianque, em workshop realizado em Assunção; Washington custeará passagens, traslados, hospedagem e alimentação.",
           "link": "https://anovademocracia.com.br/eua-brasil-workshop-combate-ira-americas/",
           "publishedOn": "2026-09-03T12:58:20.000Z",
-          "wordCount": 8268,
+          "wordCount": 8263,
           "title": "EUA banca servil procurador brasileiro para workshop sobre ‘combate ao Irã e seus representantes nas Américas’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-4.png"
         },
@@ -435,7 +501,7 @@
           "description": "Mulher negra e surda, sequestrada ainda criança, passou quase 40 anos sem salário nem direitos na casa de um desembargador; anulação do TRT-12 revela a impunidade contra a burguesia e expõe a opressão de classe às mulheres do povo.",
           "link": "https://anovademocracia.com.br/caso-sonia-escravistas-trabalho-domestico/",
           "publishedOn": "2026-09-03T11:00:00.000Z",
-          "wordCount": 7830,
+          "wordCount": 7827,
           "title": "Caso Sônia expõe raízes servis e semi-escravistas do trabalho doméstico no Brasil",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-1.png"
         },
@@ -445,7 +511,7 @@
           "description": "O assassinato do professor Catalino Correa e do líder indígena Antonio Carrillo, ocorrido na comunidade Avá Guaraní Tekoha Y’apo em 14 de agosto, no distrito de Corpus Christi, departamento de Canindeyú, Paraguai, revela a face brutal da repressão do velho Estado contra os movimentos que lutam pela terra. Durante a chamada Operação Redenção, agentes da Secretaria Nacional Antidrogas (SENAD) e da Força-Tarefa Conjunta (FTC) executaram os dois homens, alegando, sem provas concretas, ligações com o grupo criminoso liderado por Felipe Santiago Acosta Riveros, vulgo Macho. A ação, marcada por fortes indícios de tortura e execução sumária, é denunciada pelas famílias",
           "link": "https://anovademocracia.com.br/indigenas-denunciam-execucao-policial-no-paraguai-em-area-de-conflito-agrario/",
           "publishedOn": "2026-09-02T19:06:52.000Z",
-          "wordCount": 8795,
+          "wordCount": 8786,
           "title": "Indígenas denunciam execução policial no Paraguai em área de conflito agrário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-02-paraguai.jpg"
         },
@@ -455,49 +521,9 @@
           "description": "Estudantes realizam dois cinedebates nos dias 21 e 27 de agosto, na Universidade Federal da Paraíba, de maneira independente, para assistir a um documentário e a um filme. As atividades cumpriram seu papel de debater acerca da luta estudantil e das condições de ensino no Brasil.",
           "link": "https://anovademocracia.com.br/estudantes-cinedebate-paraiba/",
           "publishedOn": "2026-09-02T19:00:58.000Z",
-          "wordCount": 7191,
+          "wordCount": 7182,
           "title": "Estudantes realizam cinedebates durante o período de recesso da Universidade Federal da Paraíba",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/1greveunir2011-b6c.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232335",
-          "author": "Redação de AND",
-          "description": "Uma unidade de forças especiais sionistas infiltrada no oeste da Cidade de Gaza para atingir um comandante da Resistência foi descoberta antes de concluir a missão e entrou em confronto com combatentes palestinos; a ocupação mobilizou mais de dez aeronaves para cobrir o recuo da força. No país Estados Unidos (EUA), mandos dos comandos da Europa, Indo-Pacífico e Sul advertiram Pete Hegseth de que prolongar as operações em larga escala contra o Irã é “insustentável”: somente um quarto dos destróieres está pronto para mobilização, estoques de Patriot, THAAD e Tomahawk foram fortemente consumidos e cerca de 25% dos drones MQ-9 Reaper foram perdidos durante a guerra.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-01-09-2026/",
-          "publishedOn": "2026-09-02T18:53:12.000Z",
-          "wordCount": 10253,
-          "title": "Plantão Palestina (01/09): Resistência apreende armas e prende três colaboradores após frustrar operação sionista em Gaza; Irã amplia ataques contra bases ianques",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina2.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232327",
-          "author": "Redação de AND",
-          "description": "Há 6 anos, o Velho Estado paraguaio cometia um crime que ainda hoje se encontra impune. No dia 2 de setembro de 2020, policiais fortemente armados da Força Tarefa Conjunta (FTC), do Exército reacionário paraguaio, assassinaram duas meninas argentinas, Lilian Mariana Villalba e Maria Carmen Villalba, ambas com 11 anos, nas densas florestas tropicais da pequena cidade de Yby Yaú, no departamento de Concepción. Na mesma ofensiva criminosa, as forças de repressão encurralaram outras três crianças de 14 anos, abrindo fogo e desencadeando uma violenta perseguição que culminou no desaparecimento forçado de Carmen Elizabeth Villalba, conhecida como Lichita, marcando seis",
-          "link": "https://anovademocracia.com.br/onde-esta-lichita-6-anos-de-impunidade-no-caso-das-meninas-villalba/",
-          "publishedOn": "2026-09-02T16:50:16.000Z",
-          "wordCount": 8400,
-          "title": "‘Onde está Lichita?’: 6 anos de impunidade no caso das meninas Villalba",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232264",
-          "author": "Redação de AND",
-          "description": "Decisão mantém em liberdade Varavara Rao, Sudha Bharadwaj, Vernon Gonsalves e Arun Ferreira, perseguidos há anos no caso denunciado como fabricação do velho Estado indiano.",
-          "link": "https://anovademocracia.com.br/tribunal-indiano-rejeita-tentativa-presos/",
-          "publishedOn": "2026-09-02T13:33:05.000Z",
-          "wordCount": 7001,
-          "title": "Revolucionários acusados do caso Bhima Koregaon conquistam vitória contra nova tentativa de criminalização pelo velho Estado indiano",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-01-india.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232295",
-          "author": "Redação de AND",
-          "description": "Declaração destaca que “a luta pela terra é uma guerra” e acusa o ex-comandante da PM-RO Régis Braguin de organizar serviços de pistolagem para latifundiários, caracteriza a Operação “Godos” como ação de contrainsurgência e denuncia negociatas com terras públicas no Incra-RO.",
-          "link": "https://anovademocracia.com.br/nossa-guerra-sagrada-lcp-revolucao-agraria/",
-          "publishedOn": "2026-09-02T00:06:42.000Z",
-          "wordCount": 9252,
-          "title": "‘Nossa guerra é sagrada!’: aos 31 anos de Santa Elina, LCP reafirma que ataques da reação ‘não podem deter a Revolução Agrária!’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/lcp-presidente-gonzalo-2021.png"
         }
       ]
     },
@@ -524,12 +550,22 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3203379",
+          "author": "Lucas Scatolini",
+          "description": "Nas Primeiras Estórias, pelo olhar de um menino, o mestre mineiro descobre no inseto crepuscular a luz intermitente que nos sustenta ao atravessar as trevas. “É preciso arrancar a alegria ao futuro”, aprende. Esta mesma luzinha inspirou Pasolini – em pleno fascismo\nThe post Silviano sobre Rosa: Um va ga lu me appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/silviano-sobre-rosa-um-va-ga-lu-me/",
+          "publishedOn": "2026-09-04T18:56:01.000Z",
+          "wordCount": 5191,
+          "title": "Silviano sobre Rosa: Um va ga lu me",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/machado-de-silviano-santiago-vence-o-jabuti-1.webp"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3203300",
           "author": "Antonio Martins",
           "description": "Investida do ministro é ilegal, abusiva e hipócrita. Mas tem impacto eleitoral, porque expõe as relações que a esquerda estabeleceu com instituições corruptas, arrogantes e submissas às elites. Como sair da cilada, a um mês das eleições?\nThe post O veneno de André Mendonça e seu antídoto appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/o-veneno-de-andre-mendonca-e-seu-antidoto/",
           "publishedOn": "2026-09-03T23:03:05.000Z",
-          "wordCount": 5685,
+          "wordCount": 5731,
           "title": "O veneno de André Mendonça e seu antídoto",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/4958783624819969356.jpg"
         },
@@ -539,7 +575,7 @@
           "description": "Em obra essencial, novo livro de Lauro Mattei detalha o desmonte das políticas redistributivas, a partir dos anos 1990. E como se agravaram nos governos Temer e Bolsonaro – interrompendo o breve ciclo de conquistas cidadãs inaugurado há quase quatro décadas\nThe post A cruzada das elites contra a Previdência appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/a-cruzada-do-estado-brasileiro-contra-a-previdencia/",
           "publishedOn": "2026-09-03T21:59:56.000Z",
-          "wordCount": 4392,
+          "wordCount": 4400,
           "title": "A cruzada das elites contra a Previdência",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-03-at-18-59-00-A-reforma-da-Previdencia-e-necessaria-%E2%80%93-Conexao-UFRJ.png"
         },
@@ -549,7 +585,7 @@
           "description": "IBGE prepara o primeiro censo nacional. A contagem é complexa: horários, locais e categoria de inclusão escolhidos geram dados divergentes. Caso de Aracajú evidencia isso. Transparência é central: mais que um número final, deve-se refletir quem ainda permanece invisível\nThe post Quem cabe nas estatísticas da população de rua? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/quem-cabe-nas-estatisticas-da-populacao-de-rua/",
           "publishedOn": "2026-09-03T21:11:18.000Z",
-          "wordCount": 7043,
+          "wordCount": 7040,
           "title": "Quem cabe nas estatísticas da população de rua?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/4958783624819969312.jpg"
         },
@@ -559,7 +595,7 @@
           "description": "Como uma moeda de prata nascida de uma mina europeia deixa de ser metal e se torna promessa escrita em papel nas Américas. O cálculo de conveniência feito por milhares de pessoas comuns. E como foi alçado a eixo mundial de câmbio – sempre prestes a desabar\nThe post A fascinante e caótica história do dólar appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/a-fascinante-e-caotica-historia-do-dolar/",
           "publishedOn": "2026-09-03T21:06:26.000Z",
-          "wordCount": 7568,
+          "wordCount": 7404,
           "title": "A fascinante e caótica história do dólar",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/4958783624819969346.jpg"
         },
@@ -569,7 +605,7 @@
           "description": "Novo livro de Adrienne Savazoni é um convite à inteligência espiritual diante das ilusões do Antropoceno. Das ruínas, poderão emergir formas esquecidas de habitar o mundo? Como deslocar o olhar para o ouvido? “Escute o pequeno silêncio!”, provoca ela, antes que seja tarde\nThe post Poesia: Escutar o abismo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/poesia-escutar-o-abismo/",
           "publishedOn": "2026-09-03T20:22:37.000Z",
-          "wordCount": 4402,
+          "wordCount": 4399,
           "title": "Poesia: Escutar o abismo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/IMG_0301-scaled.jpg"
         },
@@ -579,7 +615,7 @@
           "description": "Menos discursos e mais histórias. Ideias fortes e apelo emocional. Construir movimentos e angariar votos. Nessas eleições, conheça manual prático que reúne, com 59 jogadas e 141 dicas baseados em casos concretos em 30 países, antídotos às estratégias e padrões da extrema-direita\nThe post Kit Antiautoritário: Como varrer a ultradireita appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/kit-antiautoritario-como-varrer-a-ultradireita/",
           "publishedOn": "2026-09-03T19:42:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4553,
           "title": "Kit Antiautoritário: Como varrer a ultradireita",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4958783624819969315_y.jpg"
         },
@@ -589,7 +625,7 @@
           "description": "Autor volta a Guizhou, província de sua infância. Paisagem montanhosa e pobre está agora coalhada de cidades vibrantes, ferrovias e polos tecnológicos. A natureza persiste, preservada. Regresso convida a refletir sobre as mudanças, impasses e desafios de um país em transe\nThe post China: Crônica sobre três décadas de transformações appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/china-cronica-sobre-tres-decadas-de-transformacoes/",
           "publishedOn": "2026-09-02T22:43:21.000Z",
-          "wordCount": 6917,
+          "wordCount": 6920,
           "title": "China: Crônica sobre três décadas de transformações",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/4956545891024178271.jpg"
         },
@@ -612,16 +648,6 @@
           "wordCount": 4393,
           "title": "O avesso da soberania",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/cade-investiga-venda-serra-verde-usa-rare-earth-terras-raras.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3203032",
-          "author": "Lucas Scatolini",
-          "description": "Privatização da energia tem consequência pouco examinada: postes, fios e cabos das cidades estão cada vez mais carregados, poluídos e perigosos. Como isso se relaciona à ausência de regulação? Por que, em países como a França, a estatização total foi a saída? \nThe post Os fios expostos do sistema elétrico brasileiro appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/os-fios-expostos-do-sistema-eletrico-brasileiro/",
-          "publishedOn": "2026-09-02T20:02:19.000Z",
-          "wordCount": 5121,
-          "title": "Os fios expostos do sistema elétrico brasileiro",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Canal-Solar-Furtos-de-energia-somam-prejuizos-bilionarios-a-consumidores-e-distribuidoras-2-1200x900-1.jpg"
         }
       ]
     },
