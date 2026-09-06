@@ -399,17 +399,43 @@
       ]
     },
     {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
+    },
+    {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=232465",
+          "author": "Redação de AND",
+          "description": "O relato acrescenta as campanhas de Jair Bolsonaro e Tarcísio às relações atribuídas ao Master com agentes de diferentes partidos e instituições; apurações anteriores já haviam ligado o clã Bolsonaro a Vorcaro pelo financiamento de “Dark Horse”.",
+          "link": "https://anovademocracia.com.br/bolsonaro-tarcisio-propina-kassab-vorcaro/",
+          "publishedOn": "2026-09-06T10:02:31.000Z",
+          "wordCount": 7610,
+          "title": "Doações às campanhas de Bolsonaro e Tarcísio foram propina negociada com Kassab, afirma Vorcaro",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-13-1024x683.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232461",
+          "author": "Redação de AND",
+          "description": "Decisão separa a acusação de Moraes contra Mendonça do inquérito relatado pelo próprio acusador; diferentes grupos de Poder já disputam quem conduzirá os casos Master e INSS.",
+          "link": "https://anovademocracia.com.br/fachin-mendonca-inquerito-agrava-racha-stf/",
+          "publishedOn": "2026-09-06T01:00:00.000Z",
+          "wordCount": 8151,
+          "title": "Fachin retira pedido de Moraes contra Mendonça do inquérito das fake news; racha no STF se agrava",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-12-1024x679.png"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=232447",
           "author": "Redação de AND",
           "description": "Banqueiro acusa a PF de dificultar colaboração que envolveria o governo de turno; propostas rejeitadas também atingiram bolsonaristas, enquanto relações com STF e PGR expõem uma teia que atravessa o velho Estado.",
           "link": "https://anovademocracia.com.br/vorcaro-delacao-nucleo-governo-crise-estado/",
           "publishedOn": "2026-09-04T21:03:34.000Z",
-          "wordCount": 8453,
+          "wordCount": 8457,
           "title": "Vorcaro diz que delação miraria ‘núcleo do atual governo’; crise profunda se abre no velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/image-43-1024x683.png"
         },
@@ -419,7 +445,7 @@
           "description": "Ato do Coletivo Aurora Democrática no Restaurante Universitário da UFPB celebra a histórica conquista de transporte para o 43º ENEPe, fruto de meses de mobilização popular, e denuncia a perseguição política e o oportunismo da direção do DCE.",
           "link": "https://anovademocracia.com.br/pb-coletiva-aurora-democratica-ato-ufpb/",
           "publishedOn": "2026-09-04T20:44:48.000Z",
-          "wordCount": 7222,
+          "wordCount": 7226,
           "title": "PB: Coletivo Aurora Democrática realiza ato no Restaurante Universitário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/foto-capa.jpg"
         },
@@ -429,7 +455,7 @@
           "description": "Metalúrgicos da General Motors (GM), em São José dos Campos, paralisaram a produção por duas horas após rejeitarem proposta de apenas 1% de ganho real apresentada pela montadora. Em estado de greve desde 31 de agosto, trabalhadores podem ampliar a mobilização diante da intransigência patronal.",
           "link": "https://anovademocracia.com.br/gm-paralisacao-metalurgicos/",
           "publishedOn": "2026-09-04T18:06:32.000Z",
-          "wordCount": 7330,
+          "wordCount": 7334,
           "title": "SP: Metalúrgicos paralisam produção da General Motors em São José dos Campos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-11.png"
         },
@@ -439,7 +465,7 @@
           "description": "Segundo os estudantes, o bingo surgiu da necessidade de se “elevar a mobilização dos cursos do campus de São Lázaro (região onde se situam a FFCH e IPSS), tanto no sentido de elevarmos o espírito de união estudantil quanto de haver um momento de convivência”.",
           "link": "https://anovademocracia.com.br/estudantes-organizam-bingo-independente/",
           "publishedOn": "2026-09-04T17:15:51.000Z",
-          "wordCount": 7090,
+          "wordCount": 7094,
           "title": "BA: Estudantes organizam e mobilizam bingo independente no campus São Lázaro da UFBA",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-9.png"
         },
@@ -449,7 +475,7 @@
           "description": "A velha ordem, asquerosa como seja, precisa decompor-se para servir de matéria ao que nasce sobre ela: o terreno de onde brotará uma nova realidade e uma nova democracia.",
           "link": "https://anovademocracia.com.br/circo-eleitoral-caso-moraes-tutela-militar/",
           "publishedOn": "2026-09-04T14:27:23.000Z",
-          "wordCount": 9963,
+          "wordCount": 9967,
           "title": "Sobre os diabos e as violetas: o circo eleitoral, o caso Moraes e a recomposição da tutela militar",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/alexandre-de-moraes-luiz-inacio-paulo-gonet-1024x768.jpg"
         },
@@ -459,7 +485,7 @@
           "description": "Marcha ocupou as principais vias da capital e chegou às imediações da residência presidencial; dois dias depois, governo anunciou 2,5 mil subsídios habitacionais, mas regularização das terras segue pendente.",
           "link": "https://anovademocracia.com.br/camponeses-indigenas-terra-moradia-paraguai/",
           "publishedOn": "2026-09-04T12:58:55.000Z",
-          "wordCount": 7826,
+          "wordCount": 7830,
           "title": "Milhares de camponeses e indígenas marcham em Assunção por terra e moradia e dobram governo reacionário paraguaio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-3.png"
         },
@@ -469,7 +495,7 @@
           "description": "Ataques recentes contra os Guarani-Kaiowá, participação crescente das forças policiais e acusações de “terrorismo” e “guerrilha” contra retomadas expõem uma guerra pela terra que atravessa governos. No A Propósito, diretor-geral de AND relacionou o genocídio à expansão do latifúndio e destacou o avanço da resistência e da autodefesa indígena.",
           "link": "https://anovademocracia.com.br/camponeses-quilombolas-indigenas-guerra/",
           "publishedOn": "2026-09-03T15:00:00.000Z",
-          "wordCount": 8861,
+          "wordCount": 8865,
           "title": "‘Aos camponeses, indígenas e quilombolas só resta a guerra’: diretor-geral de AND analisa genocídio contra os povos indígenas e avanço das retomadas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-02-indigenas-1.jpg"
         },
@@ -479,29 +505,9 @@
           "description": "A divulgação do relatório agravou a pugna no interior do STF e entre as instituições do velho Estado, chegando a demonstrar também as relações diretas entre o Procurador-Geral da República, Paulo Gonet, e o ex-banqueiro. O próprio relator André Mendonça também chegou a ter reunião com Vorcaro.",
           "link": "https://anovademocracia.com.br/relacoes-vorcaro-alexandre-de-moraes-pgr/",
           "publishedOn": "2026-09-03T13:31:12.000Z",
-          "wordCount": 8437,
+          "wordCount": 8441,
           "title": "Contratos milionários, charutos e uísque: quebra de sigilo expõe relações de Vorcaro com Alexandre de Moraes e PGR",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-03-moraes-1024x579.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232385",
-          "author": "Redação de AND",
-          "description": "O procurador Lucas de Morais Gualtieri, que atuou na Operação “Trapiche”, levará a investigação sobre uma suposta célula do Hezbollah no Brasil ao circuito continental de “contraterrorismo” ianque, em workshop realizado em Assunção; Washington custeará passagens, traslados, hospedagem e alimentação.",
-          "link": "https://anovademocracia.com.br/eua-brasil-workshop-combate-ira-americas/",
-          "publishedOn": "2026-09-03T12:58:20.000Z",
-          "wordCount": 8252,
-          "title": "EUA banca servil procurador brasileiro para workshop sobre ‘combate ao Irã e seus representantes nas Américas’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-4.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232346",
-          "author": "Redação de AND",
-          "description": "Mulher negra e surda, sequestrada ainda criança, passou quase 40 anos sem salário nem direitos na casa de um desembargador; anulação do TRT-12 revela a impunidade contra a burguesia e expõe a opressão de classe às mulheres do povo.",
-          "link": "https://anovademocracia.com.br/caso-sonia-escravistas-trabalho-domestico/",
-          "publishedOn": "2026-09-03T11:00:00.000Z",
-          "wordCount": 7816,
-          "title": "Caso Sônia expõe raízes servis e semi-escravistas do trabalho doméstico no Brasil",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-1.png"
         }
       ]
     },
