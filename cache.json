@@ -197,6 +197,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=444906",
+          "author": "Bianca Pyl",
+          "description": "Moraes esconde dados como o filho do ex-presidente, enquanto Mendonça aparelha processos para influenciar as eleições como na Lava Jato.\nO post Crise mostra como STF normalizou abuso institucional para proteger interesses de ministros apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/08/stf-normalizou-abuso-institucional-interesses-ministros/",
+          "publishedOn": "2026-09-08T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Crise mostra como STF normalizou abuso institucional para proteger interesses de ministros",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/email.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/email.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=444869",
           "author": "Isabella Mota",
           "description": "Apesar do terrorismo da mídia hegemônica e da extrema direita, o problema das contas brasileiras não é o gasto social, mas a taxa de juros da Selic.\nO post O Brasil não quebrou nem vai quebrar: quem ganha com o alarmismo fiscal? apareceu primeiro em Intercept Brasil.",
@@ -264,12 +279,42 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163174",
+          "author": "Paulo Batistella",
+          "description": "Francisco se juntou ao movimento após o filho Paulo Alexandre ter sido vítima de desaparecimento forçado em meio aos Crimes de Maio. Ele também era pai de Francilene, outra integrante das Mães de Maio, e Juliana, assassinada nos anos 90\nO conteúdo Morre Francisco Gomes, pai de vítimas do Estado e integrante do Movimento Mães de Maio Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/morre-francisco-gomes-pai-de-vitimas-do-estado-e-integrante-do-movimento-maes-de-maio/",
+          "publishedOn": "2026-09-08T17:53:30.000Z",
+          "wordCount": 5165,
+          "title": "Morre Francisco Gomes, pai de vítimas do Estado e integrante do Movimento Mães de Maio",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/foto-ponte-1.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=162559",
+          "author": "Mariana Rosetti",
+          "description": "Do Carandiru a Altamira, massacres, superlotação e guerra às drogas revelam o fracasso do encarceramento em massa e ajudam a entender por que prometer mais punição ainda rende mais votos\nO conteúdo Avisa seu candidato: mais prisões não significam mais segurança Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/avisa-seu-candidato-mais-prisoes-nao-significam-mais-seguranca/",
+          "publishedOn": "2026-09-08T15:52:22.000Z",
+          "wordCount": 7738,
+          "title": "Avisa seu candidato: mais prisões não significam mais segurança",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/ILUSTRACAO-1.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=163154",
+          "author": "Jessica Santos",
+          "description": "Casos recentes envolvendo Natália Viana e Juliana Dal Piva mostram como ameaças, ataques à aparência, sexualização e violência de gênero são usados para tentar desqualificar mulheres que investigam figuras públicas e o poder\nO conteúdo Da Redação | Quando querem destruir a jornalista para apagar a denúncia Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/ataques-mulheres-jornalistas-misoginia-natalia-viana-juliana-dal-piva/",
+          "publishedOn": "2026-09-08T14:03:23.000Z",
+          "wordCount": 5466,
+          "title": "Da Redação | Quando querem destruir a jornalista para apagar a denúncia",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/dal_piva_viana_montagem.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163087",
           "author": "Catarina Duarte",
           "description": "Comissão de Anistia reconheceu que crianças foram diretamente atingidas pela ditadura, mas manifestações internas da pasta dos Direitos Humanos levaram à rejeição dos pedidos\nO conteúdo Ministério nega anistia a filhos de perseguidos políticos pela ditadura Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/ministerio-nega-anistia-a-filhos-de-perseguidos-politicos-pela-ditadura/",
           "publishedOn": "2026-09-04T19:04:23.000Z",
-          "wordCount": 6349,
+          "wordCount": 6351,
           "title": "Ministério nega anistia a filhos de perseguidos políticos pela ditadura",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Andreia-Palmar-e-a-filha-adolescente-Foto_-Arquivo-Pessoal.webp"
         }
@@ -318,13 +363,83 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=265097",
+          "author": "Raissa Neves",
+          "description": "O presidente da Rússia, Vladimir Putin, e o presidente dos Estados Unidos, Donald Trump, discutiram nesta terça-feira (08/09) o resultado das negociações sobre a guerra da Ucrânia durante a visita dos enviados especiais da presidência dos EUA, Steve Witkoff e Jared Kushner, em Moscou e Kiev nos últimos dias. A informação foi divulgada pelo assessor presidencial russo, […]\nO post Putin e Trump falam em retomar relações EUA-Rússia após fim da guerra na Ucrânia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-e-trump-falam-em-retomar-relacoes-eua-russia-apos-fim-da-guerra-na-ucrania/",
+          "publishedOn": "2026-09-08T19:00:14.000Z",
+          "wordCount": 3912,
+          "title": "Putin e Trump falam em retomar relações EUA-Rússia após fim da guerra na Ucrânia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/trump_putin_alaska_arrival_9260677-1-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265092",
+          "author": "Tabitha Ramalho",
+          "description": "Uma semana e meia antes de 7 de outubro de 2023, o presidente dos Emirados Árabes Unidos, Mohamed Bin Zayed, ligou para o primeiro-ministro israelense, Benjamin Netanyahu, para alertar que o líder do Hamas em Gaza, Yahya Sinwar, estava planejando uma ofensiva contra Israel. A investigação, publicada pelo Haaretz, foi realizada para o livro Reféns: […]\nO post Netanyahu foi avisado sobre ofensiva do Hamas e ignorou alerta, diz Haaretz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/netanyahu-foi-avisado-sobre-ofensiva-do-hamas-e-ignorou-alerta-diz-haaretz/",
+          "publishedOn": "2026-09-08T18:10:26.000Z",
+          "wordCount": 3624,
+          "title": "Netanyahu foi avisado sobre ofensiva do Hamas e ignorou alerta, diz Haaretz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-10.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265089",
+          "author": "Raissa Neves",
+          "description": "Por ocasião do Dia da Independência, o encarregado de negócios da Embaixada do Brasil em Buenos Aires, Eduardo Uziel, fez um discurso coordenado com o embaixador do Brasil na Argentina, Julio Bitelli, atualmente chamado a consultas em Brasília, e com o chanceler Mauro Vieira. A fala foi repleta de indiretas, críticas sutis e alusões ao […]\nO post Brasil critica postura de Milei e cobra respeito na relação entre países apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/brasil-critica-postura-de-milei-e-cobra-respeito-na-relacao-entre-paises/",
+          "publishedOn": "2026-09-08T17:00:41.000Z",
+          "wordCount": 4321,
+          "title": "Brasil critica postura de Milei e cobra respeito na relação entre países",
+          "imageUrl": null
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265080",
+          "author": "Tabitha Ramalho",
+          "description": "A Alemanha solicitou ao tribunal superior das Nações Unidas que indefira uma ação movida contra a Nicarágua que acusa Berlim de “facilitar o genocídio” em Gaza por meio da venda armamentos a Israel. Julia Monar, representante da Alemanha na Corte Internacional de Justiça (CIJ), afirmou nessa segunda-feira (07/09) que os juízes não têm jurisdição para […]\nO post Alemanha tenta arquivar ação na Corte Internacional de Justiça por apoio militar a Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/alemanha-tenta-arquivar-acao-na-corte-internacional-de-justica-por-apoio-militar-a-israel/",
+          "publishedOn": "2026-09-08T16:20:34.000Z",
+          "wordCount": 4241,
+          "title": "Alemanha tenta arquivar ação na Corte Internacional de Justiça por apoio militar a Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/74459700_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264903",
+          "author": "Victor Farinelli",
+          "description": "O Supremo Tribunal Federal (STF) atravessa o que muitos avaliam como sua crise institucional mais grave das últimas décadas. Marcado por vazamentos de informações e pelo suposto envolvimento de ministros de campos distintos, como Alexandre de Moraes e André Mendonça, o atual cenário de disputas internas e quebra de credibilidade passou a interferir diretamente na […]\nO post Disputa entre Mendonça e Moraes evidencia ‘privatização das instituições’, diz jurista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-entrevista/disputa-entre-mendonca-e-moraes-evidencia-privatizacao-das-instituicoes-diz-jurista/",
+          "publishedOn": "2026-09-08T15:30:55.000Z",
+          "wordCount": 6311,
+          "title": "Disputa entre Mendonça e Moraes evidencia ‘privatização das instituições’, diz jurista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/53331816063_8560be428a_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265069",
+          "author": "Tabitha Ramalho",
+          "description": "Doze países incluindo Reino Unido, França e Canadá, anunciaram nesta terça-feira (08/09) sanções ao comércio com os assentamentos israelenses ilegais na Cisjordânia ocupada. A nota em conjunto com as chancelarias, instaram o governo de Israel a “interromper imediatamente a expansão dos assentamentos e dos poderes administrativos civis”, como também garantir a “responsabilização pela violência dos […]\nO post Reino Unido mais onze países anunciam sanções a assentamentos israelenses apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/reino-unido-franca-e-mais-dez-paises-anunciam-sancoes-a-assentamentos-ilegais-israelenses/",
+          "publishedOn": "2026-09-08T15:01:44.000Z",
+          "wordCount": 3885,
+          "title": "Reino Unido mais onze países anunciam sanções a assentamentos israelenses",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/assentamentos-al-masara-_-foto_-arquivo-spsc-2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265070",
+          "author": "Fernanda Oliveira",
+          "description": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta terça-feira (08/09) o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, a menos de um mês das eleições presidenciais de 4 de outubro. A decisão foi tomada de forma monocrática e deve ser discutida ainda nesta terça-feira pela Segunda Turma do STF, da qual […]\nO post Mendonça escala crise no Supremo e determina afastamento de diretor-geral da PF apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/mendonca-escala-crise-no-supremo-e-determina-afastamento-de-diretor-geral-da-pf/",
+          "publishedOn": "2026-09-08T14:04:24.000Z",
+          "wordCount": 3632,
+          "title": "Mendonça escala crise no Supremo e determina afastamento de diretor-geral da PF",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/53629152127_76d8b6eb32_k.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=265059",
           "author": "Tabitha Ramalho",
-          "description": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, alertou na terça-feira (08/09) que qualquer confronto militar entre a Rússia e os países europeus seria “muito breve”, lembrando as palavras do presidente Vladimir Putin de que Moscou não tem intenção de atacar a Europa, mas responderia de forma diferente caso o país fosse atacado. Em […]\nO post Lavrov alerta que se a União Europeia atacar a Rússia, a guerra será ‘muito curta’ apareceu primeiro em Opera Mundi.",
+          "description": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, alertou na terça-feira (08/09) que qualquer confronto militar entre a Rússia e os países europeus seria “muito breve”, lembrando as palavras do presidente Vladimir Putin de que Moscou não tem intenção de atacar a Europa, mas responderia de forma diferente caso o país fosse atacado. Em […]\nO post Lavrov diz que guerra será ‘muito curta’ caso União Europeia ataque Moscou apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/lavrov-alerta-que-se-a-uniao-europeia-atacar-a-russia-a-guerra-sera-muito-curta/",
           "publishedOn": "2026-09-08T12:41:31.000Z",
-          "wordCount": 3633,
-          "title": "Lavrov alerta que se a União Europeia atacar a Rússia, a guerra será ‘muito curta’",
+          "wordCount": 3614,
+          "title": "Lavrov diz que guerra será ‘muito curta’ caso União Europeia ataque Moscou",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/1469675.jpg"
         },
         {
@@ -333,7 +448,7 @@
           "description": "O governo argentino anunciou nesta segunda-feira (07/09) que apresentará uma denúncia criminal contra cinco empresas envolvidas em atividades de exploração e produção de hidrocarbonetos nas proximidades das Ilhas Malvinas, alegando que elas operam sem autorização das autoridades nacionais. A denúncia será apresentada pelo Ministro das Relações Exteriores, Pablo Quirno, com representação legal do Procurador-Geral da […]\nO post Governo argentino denuncia cinco petroleiras por operar nas Malvinas sem autorização apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/governo-argentino-denuncia-cinco-petroleiras-por-operar-nas-malvinas-sem-autorizacao/",
           "publishedOn": "2026-09-08T12:19:19.000Z",
-          "wordCount": 3675,
+          "wordCount": 3672,
           "title": "Governo argentino denuncia cinco petroleiras por operar nas Malvinas sem autorização",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/milei-chile.jpg"
         },
@@ -343,79 +458,9 @@
           "description": "A partir desta terça-feira (08/09), o Canadá dará início a uma nova série de tarifas sobre produtos norte-americanos, intensificando a guerra comercial que eclodiu entre Ottawa e Washington após o fracasso das negociações bilaterais e a imposição de tarifas adicionais pelo governo Trump. As contramedidas do Canadá, por outro lado, afetarão as importações dos Estados […]\nO post Canadá impõe tarifas de até 50% sobre produtos dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/canada-impoe-tarifas-de-ate-50-sobre-produtos-dos-eua/",
           "publishedOn": "2026-09-08T11:59:31.000Z",
-          "wordCount": 3189,
+          "wordCount": 3184,
           "title": "Canadá impõe tarifas de até 50% sobre produtos dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/54502389070_322834f22a_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265034",
-          "author": "Fernanda Oliveira",
-          "description": "“A Europa tem reações distintas com relação à imigração. Nestes casos, como o de Ceuta, vemos uma criminalização do islamismo, que é associado à delinquência e ao terrorismo”. A análise é da politóloga espanhola Carmen Lumbierres. Segundo a especialista, a migração virou uma “prioridade política” europeia, especialmente para governos conservadores e de direita. Para Lumbierres, […]\nO post Crise em Ceuta vira trunfo da extrema direita para eleições na Europa, avaliam especialistas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/crise-em-ceuta-vira-trunfo-da-extrema-direita-para-eleicoes-na-europa-avaliam-especialistas/",
-          "publishedOn": "2026-09-07T21:30:30.000Z",
-          "wordCount": 3961,
-          "title": "Crise em Ceuta vira trunfo da extrema direita para eleições na Europa, avaliam especialistas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/310726-sanchez-reunion-coordinacion-ceuta3.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265046",
-          "author": "Raissa Neves",
-          "description": "Movimentos sociais realizaram nesta segunda-feira (07/09) a 32ª edição do Grito dos Excluídos. Houve marchas e atos em mais de 50 cidades, em todas as regiões do país, segundo os organizadores. Faixas, bandeiras e gritos de guerra ajudaram a expor o lema da edição, “Na defesa da Terra, da Paz e da Moradia, erguemos a […]\nO post Grito dos Excluídos reúne manifestações em mais de 50 cidades brasileiras apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/grito-dos-excluidos-reune-manifestacoes-em-mais-de-50-cidades-por-moradia-e-contra-violencia/",
-          "publishedOn": "2026-09-07T21:00:53.000Z",
-          "wordCount": 4955,
-          "title": "Grito dos Excluídos reúne manifestações em mais de 50 cidades brasileiras",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/int4888.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265040",
-          "author": "Raissa Neves",
-          "description": "Chile, Argentina, Bolívia e Peru assinaram, em Santiago, uma declaração conjunta para coordenar a exploração de minerais estratégicos. Pelo documento, formalizado no último dia 28 de agosto, os países se colocam na posição de fornecer cobre, lítio e outros minerais de terras raras. O documento foi fruto do primeiro encontro ministerial dos países do Cone Sul […]\nO post Alinhados aos EUA, Chile, Argentina, Bolívia e Peru criam bloco para exportar minerais críticos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/alinhados-aos-eua-chile-argentina-bolivia-e-peru-criam-bloco-para-exportar-minerais-criticos/",
-          "publishedOn": "2026-09-07T20:14:00.000Z",
-          "wordCount": 3471,
-          "title": "Alinhados aos EUA, Chile, Argentina, Bolívia e Peru criam bloco para exportar minerais críticos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/whatsapp-image-2026-03-07-at-16.34.13.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265025",
-          "author": "Raissa Neves",
-          "description": "O poder de compra do salário mínimo argentino caiu cerca de 40,8% entre novembro de 2023 e setembro de 2026, segundo um estudo do Centro de Economia Política Argentina (CEPA). O período analisado abrange o fim do governo de Alberto Fernández e a gestão do atual presidente Javier Milei. Com base nos dados apresentados pelo […]\nO post Poder de compra do salário mínimo argentino cai 41% e atinge pior nível desde 2002, segundo pesquisa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/poder-de-compra-do-salario-minimo-argentino-cai-41-e-atinge-pior-nivel-desde-2002-segundo-pesquisa/",
-          "publishedOn": "2026-09-07T19:30:44.000Z",
-          "wordCount": 3719,
-          "title": "Poder de compra do salário mínimo argentino cai 41% e atinge pior nível desde 2002, segundo pesquisa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/georgi-kalaydzhiev-ksf8g_vmh7w-unsplash-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265026",
-          "author": "Fernanda Oliveira",
-          "description": "Milhares de pessoas se reuniram em Belgrado, capital da Sérvia, nesta segunda-feira (07/09) para o funeral do criminoso de guerra condenado Ratko Mladic, provocando condenação de Bruxelas pela glorificação de um homem condenado por genocídio durante a guerra da Bósnia na década de 1990. Mladic morreu no final de agosto, aos 84 anos, enquanto cumpria […]\nO post Enterro de general condenado por genocídio atrai milhares na Sérvia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/enterro-de-general-condenado-por-genocidio-atrai-milhares-na-servia/",
-          "publishedOn": "2026-09-07T18:24:36.000Z",
-          "wordCount": 4051,
-          "title": "Enterro de general condenado por genocídio atrai milhares na Sérvia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/79147764_101.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265009",
-          "author": "Raissa Neves",
-          "description": "O Kremlin sinalizou nesta segunda-feira (07/09) que está aberto à possibilidade de retomar as conversas entre Rússia, Ucrânia e Estados Unidos para buscar uma saída para o conflito, embora ainda não veja condições para estabelecer uma data ou definir o local de um eventual novo encontro. A posição foi apresentada pelo porta-voz do governo russo, […]\nO post Governo da Rússia sinaliza que não descarta retomada das negociações de paz com Ucrânia e EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/governo-da-russia-sinaliza-que-nao-descarta-retomada-das-negociacoes-de-paz-com-ucrania-e-eua/",
-          "publishedOn": "2026-09-07T17:12:21.000Z",
-          "wordCount": 3638,
-          "title": "Governo da Rússia sinaliza que não descarta retomada das negociações de paz com Ucrânia e EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/f68pl15f5r4xaeidsrvogxoms5ehkxop-f2b3a57f-1536x948-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265013",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) afirmou que o Brasil não deve “baixar a cabeça diante de potências estrangeiras” e que o país “não será colônia de ninguém”. A declaração foi feita neste domingo (06/09), em pronunciamento em cadeia nacional de rádio e TV por ocasião do 7 de Setembro. A soberania nacional, […]\nO post 7 de Setembro: Lula diz que Brasil não deve ‘baixar a cabeça’ diante de potências estrangeiras apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/7-de-setembro-lula-diz-que-brasil-nao-deve-baixar-a-cabeca-diante-de-potencias-estrangeiras/",
-          "publishedOn": "2026-09-07T16:00:58.000Z",
-          "wordCount": 4591,
-          "title": "7 de Setembro: Lula diz que Brasil não deve ‘baixar a cabeça’ diante de potências estrangeiras",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55513985025_c7a82068e6_c.jpg"
         }
       ]
     },
@@ -431,12 +476,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232485",
+          "author": "Rosana Bond",
+          "description": "Um brinquedo de poucos reais, feito com tubos de PVC, ajuda crianças a ler melhor e revela o engenho de professoras que enfrentam, com criatividade, o sucateamento da escola pública.",
+          "link": "https://anovademocracia.com.br/pedagogia-invencao-brinquedo-ativa-leitura/",
+          "publishedOn": "2026-09-08T17:08:58.000Z",
+          "wordCount": 8115,
+          "title": "8 de setembro – Pedagogia: Professoras inventam brinquedo que ativa leitura para contornar sucateamento do ensino",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/sussurrofone-1.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232475",
+          "author": "Redação de AND",
+          "description": "Atividade reuniu estudantes, docentes e comunidade externa e percorreu diferentes gerações de artistas, escritores e jornalistas palestinos marcados pela Nakba, pela ocupação sionista e pela resistência.",
+          "link": "https://anovademocracia.com.br/palestra-universidade-federal-do-acre-arte-jornalismo-resistencia-palestina/",
+          "publishedOn": "2026-09-08T16:26:29.000Z",
+          "wordCount": 7780,
+          "title": "Palestra na Universidade Federal do Acre aborda arte e jornalismo na Resistência Nacional Palestina",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image.jpeg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232481",
           "author": "Redação de AND",
           "description": "Mobilizações reuniram estudantes, forças antifascistas e organizações populares contra o V Encontro Regional do Foro de Madrid; tropas policiais reprimiram os manifestantes.",
           "link": "https://anovademocracia.com.br/chile-estudantes-protestam-foro-de-madrid/",
           "publishedOn": "2026-09-08T02:56:02.000Z",
-          "wordCount": 6962,
+          "wordCount": 6961,
           "title": "Chile: Estudantes e forças anti-imperialistas protestam contra encontro do Foro de Madrid em Santiago",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-16.png"
         },
@@ -446,7 +511,7 @@
           "description": "Iniciativa do CEPASP e da Comuna CEPASP reúne a memória de indígenas, quilombolas e camponeses assassinados na luta pela terra no Sul e Sudeste do Pará, região marcada pela violência do latifúndio, pelo terror do regime militar fascista e pela resistência popular.",
           "link": "https://anovademocracia.com.br/cepasp-instala-memorial-da-luta-camponesa-no-sudeste-do-para/",
           "publishedOn": "2026-09-07T10:48:00.000Z",
-          "wordCount": 8995,
+          "wordCount": 8994,
           "title": "CEPASP instala Memorial da Luta Camponesa no sudeste do Pará",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-14.png"
         },
@@ -456,7 +521,7 @@
           "description": "O relato acrescenta as campanhas de Jair Bolsonaro e Tarcísio às relações atribuídas ao Master com agentes de diferentes partidos e instituições; apurações anteriores já haviam ligado o clã Bolsonaro a Vorcaro pelo financiamento de “Dark Horse”.",
           "link": "https://anovademocracia.com.br/bolsonaro-tarcisio-propina-kassab-vorcaro/",
           "publishedOn": "2026-09-06T10:02:31.000Z",
-          "wordCount": 7610,
+          "wordCount": 7609,
           "title": "Doações às campanhas de Bolsonaro e Tarcísio foram propina negociada com Kassab, afirma Vorcaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-13-1024x683.png"
         },
@@ -466,7 +531,7 @@
           "description": "Decisão separa a acusação de Moraes contra Mendonça do inquérito relatado pelo próprio acusador; diferentes grupos de Poder já disputam quem conduzirá os casos Master e INSS.",
           "link": "https://anovademocracia.com.br/fachin-mendonca-inquerito-agrava-racha-stf/",
           "publishedOn": "2026-09-06T01:00:00.000Z",
-          "wordCount": 8153,
+          "wordCount": 8152,
           "title": "Fachin retira pedido de Moraes contra Mendonça do inquérito das fake news; racha no STF se agrava",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-12-1024x679.png"
         },
@@ -476,7 +541,7 @@
           "description": "Banqueiro acusa a PF de dificultar colaboração que envolveria o governo de turno; propostas rejeitadas também atingiram bolsonaristas, enquanto relações com STF e PGR expõem uma teia que atravessa o velho Estado.",
           "link": "https://anovademocracia.com.br/vorcaro-delacao-nucleo-governo-crise-estado/",
           "publishedOn": "2026-09-04T21:03:34.000Z",
-          "wordCount": 8459,
+          "wordCount": 8458,
           "title": "Vorcaro diz que delação miraria ‘núcleo do atual governo’; crise profunda se abre no velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/image-43-1024x683.png"
         },
@@ -486,7 +551,7 @@
           "description": "Ato do Coletivo Aurora Democrática no Restaurante Universitário da UFPB celebra a histórica conquista de transporte para o 43º ENEPe, fruto de meses de mobilização popular, e denuncia a perseguição política e o oportunismo da direção do DCE.",
           "link": "https://anovademocracia.com.br/pb-coletiva-aurora-democratica-ato-ufpb/",
           "publishedOn": "2026-09-04T20:44:48.000Z",
-          "wordCount": 7228,
+          "wordCount": 7227,
           "title": "PB: Coletivo Aurora Democrática realiza ato no Restaurante Universitário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/foto-capa.jpg"
         },
@@ -496,7 +561,7 @@
           "description": "Metalúrgicos da General Motors (GM), em São José dos Campos, paralisaram a produção por duas horas após rejeitarem proposta de apenas 1% de ganho real apresentada pela montadora. Em estado de greve desde 31 de agosto, trabalhadores podem ampliar a mobilização diante da intransigência patronal.",
           "link": "https://anovademocracia.com.br/gm-paralisacao-metalurgicos/",
           "publishedOn": "2026-09-04T18:06:32.000Z",
-          "wordCount": 7336,
+          "wordCount": 7335,
           "title": "SP: Metalúrgicos paralisam produção da General Motors em São José dos Campos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-11.png"
         },
@@ -506,29 +571,9 @@
           "description": "Segundo os estudantes, o bingo surgiu da necessidade de se “elevar a mobilização dos cursos do campus de São Lázaro (região onde se situam a FFCH e IPSS), tanto no sentido de elevarmos o espírito de união estudantil quanto de haver um momento de convivência”.",
           "link": "https://anovademocracia.com.br/estudantes-organizam-bingo-independente/",
           "publishedOn": "2026-09-04T17:15:51.000Z",
-          "wordCount": 7096,
+          "wordCount": 7095,
           "title": "BA: Estudantes organizam e mobilizam bingo independente no campus São Lázaro da UFBA",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-9.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232406",
-          "author": "Redação de AND",
-          "description": "A velha ordem, asquerosa como seja, precisa decompor-se para servir de matéria ao que nasce sobre ela: o terreno de onde brotará uma nova realidade e uma nova democracia.",
-          "link": "https://anovademocracia.com.br/circo-eleitoral-caso-moraes-tutela-militar/",
-          "publishedOn": "2026-09-04T14:27:23.000Z",
-          "wordCount": 9969,
-          "title": "Sobre os diabos e as violetas: o circo eleitoral, o caso Moraes e a recomposição da tutela militar",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/alexandre-de-moraes-luiz-inacio-paulo-gonet-1024x768.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232382",
-          "author": "Redação de AND",
-          "description": "Marcha ocupou as principais vias da capital e chegou às imediações da residência presidencial; dois dias depois, governo anunciou 2,5 mil subsídios habitacionais, mas regularização das terras segue pendente.",
-          "link": "https://anovademocracia.com.br/camponeses-indigenas-terra-moradia-paraguai/",
-          "publishedOn": "2026-09-04T12:58:55.000Z",
-          "wordCount": 7832,
-          "title": "Milhares de camponeses e indígenas marcham em Assunção por terra e moradia e dobram governo reacionário paraguaio",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-3.png"
         }
       ]
     },
@@ -543,6 +588,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3203586",
+          "author": "Rôney Rodrigues",
+          "description": "Civilização ou barbárie estão em jogo -- por isso, derrotar a ultradireita é crucial. Mas a campanha do presidente continua morna. “Vender” conquistas não bastará. Duas propostas poderiam empolgar a população e militância: aumento robusto do salário mínimo e proibição das bets\nThe post Como Lula pode sacudir a poeira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/como-lula-pode-sacudir-a-poeira/",
+          "publishedOn": "2026-09-08T18:11:07.000Z",
+          "wordCount": 4434,
+          "title": "Como Lula pode sacudir a poeira",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4974544222061006544_y1.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3203358",
           "author": "Rôney Rodrigues",
