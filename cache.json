@@ -23,6 +23,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a9f5feedb44284cd522d0d5",
+          "author": "Adriano Espíndola, de Uberaba (MG)",
+          "description": "ParteI: O mito da incapacidade operária e afarsa do monopólio do saber\nDias atrás me deparei com o noticiário de sites jurídicos e da imprensa tradicional falando da sustentação oral feita por um trabalhador da construç",
+          "link": "https://opiniaosocialista.com.br/o-curioso-caso-do-pedreiro-edilson-takahara-da-divisao-social-do-saber-ao-direito-universal-a-universidade-publica/",
+          "publishedOn": "2026-09-08T01:23:32.000Z",
+          "wordCount": 3816,
+          "title": "O “curioso” caso do pedreiro Edilson Takahara: Da divisão social do saber ao direito universal à universidade pública",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/edilson-takahara.webp"
+        },
+        {
           "id": "6a9f0214db44284cd522d0b6",
           "author": "Érika Andreassy",
           "description": "Mark Ruffalo é conhecido mundialmente por interpretar o Hulk nos filmes da Marvel. Mas, nos últimos meses, o ator decidiu assumir um papel diferente: tornou-se uma das principais vozes de Hollywood contra a fusão entre a Paramount e a Warner Bros. Uma operação avaliada",
@@ -81,16 +91,6 @@
           "wordCount": 5014,
           "title": "Manifesto: Rebeldia para romper com as engrenagens do sistema capitalista!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Bia-pstu-parana.webp"
-        },
-        {
-          "id": "6a997badfdb1eb0303284493",
-          "author": "Renata França",
-          "description": "Nesta semana, a PEC do fim da Escala 6x1 pode ser votada no Senado. No dia 2 de setembro, a PEC foi aprovada na CCJ (Comissão de Constituição e Justiça) depois que o relator, Omar Aziz (PSD-AM), apresentou parecer favorável e",
-          "link": "https://opiniaosocialista.com.br/o-fim-da-escala-6x1-para-alem-do-senado/",
-          "publishedOn": "2026-09-03T14:08:29.000Z",
-          "wordCount": 1353,
-          "title": "O fim da Escala 6x1 para além do Senado",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/GM-1.webp"
         }
       ]
     },
@@ -302,16 +302,6 @@
           "wordCount": 6349,
           "title": "Ministério nega anistia a filhos de perseguidos políticos pela ditadura",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Andreia-Palmar-e-a-filha-adolescente-Foto_-Arquivo-Pessoal.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=162385",
-          "author": "Mariana Rosetti",
-          "description": "De Rondônia à Bahia, de São Paulo ao Rio, decisões de governadores ajudam a explicar por que as polícias seguem matando milhares de pessoas por ano no Brasil\nO conteúdo Por que o seu candidato deveria falar de letalidade policial nessas eleições?  Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/por-que-o-seu-candidato-deveria-falar-de-letalidade-policial-nessas-eleicoes/",
-          "publishedOn": "2026-09-03T15:58:57.000Z",
-          "wordCount": 8889,
-          "title": "Por que o seu candidato deveria falar de letalidade policial nessas eleições?",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/letalidade-policial-ponte-jornalismo-juniao.webp"
         }
       ]
     },
@@ -320,6 +310,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74675",
+          "author": "El Salto",
+          "description": "os últimos dias de agosto, um personagem que até então havia permanecido na obscuridade para o público em geral, o argentino Fernando Cerimedo, ganhou as primeiras páginas dos meios de comunicação por ter contratado assassinos para matar sua companheira, a boliviana Nadia Beller, grávida dele e que, milagrosamente, sobreviveu, fingindo estar morta após levar três […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/09/07/fernando-cerimedo-o-engenheiro-do-caos-da-extrema-direita-latino-americana/",
+          "publishedOn": "2026-09-07T23:22:06.000Z",
+          "wordCount": 6688,
+          "title": "Fernando Cerimedo, o engenheiro do caos da extrema direita latino-americana",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/rsz_fernando_cerimedo-1.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74657",
           "author": "REDAÇÃO",
@@ -460,23 +460,27 @@
       ]
     },
     {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
-    },
-    {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=232481",
+          "author": "Redação de AND",
+          "description": "Mobilizações reuniram estudantes, forças antifascistas e organizações populares contra o V Encontro Regional do Foro de Madrid; tropas policiais reprimiram os manifestantes.",
+          "link": "https://anovademocracia.com.br/chile-estudantes-protestam-foro-de-madrid/",
+          "publishedOn": "2026-09-08T02:56:02.000Z",
+          "wordCount": 6962,
+          "title": "Chile: Estudantes e forças anti-imperialistas protestam contra encontro do Foro de Madrid em Santiago",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-16.png"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=232471",
           "author": "Giovanna Maria",
           "description": "Iniciativa do CEPASP e da Comuna CEPASP reúne a memória de indígenas, quilombolas e camponeses assassinados na luta pela terra no Sul e Sudeste do Pará, região marcada pela violência do latifúndio, pelo terror do regime militar fascista e pela resistência popular.",
           "link": "https://anovademocracia.com.br/cepasp-instala-memorial-da-luta-camponesa-no-sudeste-do-para/",
           "publishedOn": "2026-09-07T10:48:00.000Z",
-          "wordCount": 8996,
+          "wordCount": 8995,
           "title": "CEPASP instala Memorial da Luta Camponesa no sudeste do Pará",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-14.png"
         },
@@ -486,7 +490,7 @@
           "description": "O relato acrescenta as campanhas de Jair Bolsonaro e Tarcísio às relações atribuídas ao Master com agentes de diferentes partidos e instituições; apurações anteriores já haviam ligado o clã Bolsonaro a Vorcaro pelo financiamento de “Dark Horse”.",
           "link": "https://anovademocracia.com.br/bolsonaro-tarcisio-propina-kassab-vorcaro/",
           "publishedOn": "2026-09-06T10:02:31.000Z",
-          "wordCount": 7611,
+          "wordCount": 7610,
           "title": "Doações às campanhas de Bolsonaro e Tarcísio foram propina negociada com Kassab, afirma Vorcaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-13-1024x683.png"
         },
@@ -496,7 +500,7 @@
           "description": "Decisão separa a acusação de Moraes contra Mendonça do inquérito relatado pelo próprio acusador; diferentes grupos de Poder já disputam quem conduzirá os casos Master e INSS.",
           "link": "https://anovademocracia.com.br/fachin-mendonca-inquerito-agrava-racha-stf/",
           "publishedOn": "2026-09-06T01:00:00.000Z",
-          "wordCount": 8154,
+          "wordCount": 8153,
           "title": "Fachin retira pedido de Moraes contra Mendonça do inquérito das fake news; racha no STF se agrava",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-12-1024x679.png"
         },
@@ -506,7 +510,7 @@
           "description": "Banqueiro acusa a PF de dificultar colaboração que envolveria o governo de turno; propostas rejeitadas também atingiram bolsonaristas, enquanto relações com STF e PGR expõem uma teia que atravessa o velho Estado.",
           "link": "https://anovademocracia.com.br/vorcaro-delacao-nucleo-governo-crise-estado/",
           "publishedOn": "2026-09-04T21:03:34.000Z",
-          "wordCount": 8460,
+          "wordCount": 8459,
           "title": "Vorcaro diz que delação miraria ‘núcleo do atual governo’; crise profunda se abre no velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/image-43-1024x683.png"
         },
@@ -516,7 +520,7 @@
           "description": "Ato do Coletivo Aurora Democrática no Restaurante Universitário da UFPB celebra a histórica conquista de transporte para o 43º ENEPe, fruto de meses de mobilização popular, e denuncia a perseguição política e o oportunismo da direção do DCE.",
           "link": "https://anovademocracia.com.br/pb-coletiva-aurora-democratica-ato-ufpb/",
           "publishedOn": "2026-09-04T20:44:48.000Z",
-          "wordCount": 7229,
+          "wordCount": 7228,
           "title": "PB: Coletivo Aurora Democrática realiza ato no Restaurante Universitário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/foto-capa.jpg"
         },
@@ -526,7 +530,7 @@
           "description": "Metalúrgicos da General Motors (GM), em São José dos Campos, paralisaram a produção por duas horas após rejeitarem proposta de apenas 1% de ganho real apresentada pela montadora. Em estado de greve desde 31 de agosto, trabalhadores podem ampliar a mobilização diante da intransigência patronal.",
           "link": "https://anovademocracia.com.br/gm-paralisacao-metalurgicos/",
           "publishedOn": "2026-09-04T18:06:32.000Z",
-          "wordCount": 7337,
+          "wordCount": 7336,
           "title": "SP: Metalúrgicos paralisam produção da General Motors em São José dos Campos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-11.png"
         },
@@ -536,7 +540,7 @@
           "description": "Segundo os estudantes, o bingo surgiu da necessidade de se “elevar a mobilização dos cursos do campus de São Lázaro (região onde se situam a FFCH e IPSS), tanto no sentido de elevarmos o espírito de união estudantil quanto de haver um momento de convivência”.",
           "link": "https://anovademocracia.com.br/estudantes-organizam-bingo-independente/",
           "publishedOn": "2026-09-04T17:15:51.000Z",
-          "wordCount": 7097,
+          "wordCount": 7096,
           "title": "BA: Estudantes organizam e mobilizam bingo independente no campus São Lázaro da UFBA",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-9.png"
         },
@@ -546,7 +550,7 @@
           "description": "A velha ordem, asquerosa como seja, precisa decompor-se para servir de matéria ao que nasce sobre ela: o terreno de onde brotará uma nova realidade e uma nova democracia.",
           "link": "https://anovademocracia.com.br/circo-eleitoral-caso-moraes-tutela-militar/",
           "publishedOn": "2026-09-04T14:27:23.000Z",
-          "wordCount": 9970,
+          "wordCount": 9969,
           "title": "Sobre os diabos e as violetas: o circo eleitoral, o caso Moraes e a recomposição da tutela militar",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/alexandre-de-moraes-luiz-inacio-paulo-gonet-1024x768.jpg"
         },
@@ -556,19 +560,9 @@
           "description": "Marcha ocupou as principais vias da capital e chegou às imediações da residência presidencial; dois dias depois, governo anunciou 2,5 mil subsídios habitacionais, mas regularização das terras segue pendente.",
           "link": "https://anovademocracia.com.br/camponeses-indigenas-terra-moradia-paraguai/",
           "publishedOn": "2026-09-04T12:58:55.000Z",
-          "wordCount": 7833,
+          "wordCount": 7832,
           "title": "Milhares de camponeses e indígenas marcham em Assunção por terra e moradia e dobram governo reacionário paraguaio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-3.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232366",
-          "author": "Redação de AND",
-          "description": "Ataques recentes contra os Guarani-Kaiowá, participação crescente das forças policiais e acusações de “terrorismo” e “guerrilha” contra retomadas expõem uma guerra pela terra que atravessa governos. No A Propósito, diretor-geral de AND relacionou o genocídio à expansão do latifúndio e destacou o avanço da resistência e da autodefesa indígena.",
-          "link": "https://anovademocracia.com.br/camponeses-quilombolas-indigenas-guerra/",
-          "publishedOn": "2026-09-03T15:00:00.000Z",
-          "wordCount": 8868,
-          "title": "‘Aos camponeses, indígenas e quilombolas só resta a guerra’: diretor-geral de AND analisa genocídio contra os povos indígenas e avanço das retomadas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-02-indigenas-1.jpg"
         }
       ]
     },
@@ -709,16 +703,6 @@
           "wordCount": 4197,
           "title": "[Belo Horizonte] Kasa Invisível Fica e Resiste!",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2020/03/MOVIMENTO_LUTA-1.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159752",
-          "author": "Passa Palavra",
-          "description": "Uma lojinha de pets é o negócio perfeito para tempos de genocídio. Por Primo Jonas",
-          "link": "https://passapalavra.info/2026/09/159752/",
-          "publishedOn": "2026-09-03T12:11:05.000Z",
-          "wordCount": 4720,
-          "title": "Tamagochis sonham com o cachorro caramelo?",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/portrait-of-maurice.jpg"
         }
       ]
     },
@@ -733,7 +717,7 @@
           "description": "Paula Coradi investiga como a soberania nacional está ameaçada pelo imperialism nos Estados Unidos, e como o 7 de setembro pode se tornar uma data de reafirmação da nossa autonomia",
           "link": "https://blogdaboitempo.com.br/2026/09/04/soberania-sob-cerco-o-brasil-entre-o-tarifaco-as-terras-raras-e-a-nova-doutrina-monroe/",
           "publishedOn": "2026-09-04T20:54:54.000Z",
-          "wordCount": 12149,
+          "wordCount": 12001,
           "title": "Soberania sob cerco: o Brasil entre o tarifaço, as terras raras e a nova Doutrina Monroe",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/banner-blog-independencia-tarifa.jpg"
         },
@@ -743,7 +727,7 @@
           "description": "João Felipe Domiciano reflete sobre a formação psicanalítica e as manobras políticas, interesses ideológico-religiosos e oportunismos de expansão mercadológica por trás das proposições de regulamentação da psicanálise em solo brasileiro hoje .",
           "link": "https://blogdaboitempo.com.br/2026/09/04/uma-psicanalise-a-altura-de-seu-tempo-a-querela-da-regulamentacao-da-psicanalise/",
           "publishedOn": "2026-09-04T20:37:14.000Z",
-          "wordCount": 14579,
+          "wordCount": 14431,
           "title": "Uma psicanálise à altura de seu tempo? A querela da regulamentação da psicanálise",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/sigmund-freud-1140x570_2.jpg"
         }
