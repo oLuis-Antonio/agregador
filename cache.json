@@ -23,6 +23,26 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6aa1a125db44284cd522d13a",
+          "author": "Julio Anselmo",
+          "description": "Com o escândalo do STF, estamos assistindo a uma das piores crises da democracia dos ricos. O banqueiro corrupto Daniel Vorcaro mantinha relações espúrias com quase todo o andar de cima da República. São contratos milionários com",
+          "link": "https://opiniaosocialista.com.br/o-sistema-dos-ricos-escancarado/",
+          "publishedOn": "2026-09-09T18:17:54.000Z",
+          "wordCount": 2261,
+          "title": "O sistema dos ricos escancarado",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/mendonca_moraes_STF.webp"
+        },
+        {
+          "id": "6aa17428db44284cd522d11f",
+          "author": "Direção Nacional do PSTU",
+          "description": "No último dia 4 de setembro, faleceu o companheiro Serge Goulart, dirigente da OCI (Organização Comunista Internacionalista).\nSerge dedicou sua vida à reconstrução da IV Internacional. Se uniu à OSI ainda nos anos 1970, posteriormente fundou a Esquerda Marxista do PT que, ap&",
+          "link": "https://opiniaosocialista.com.br/serge-goulart-presente/",
+          "publishedOn": "2026-09-09T15:05:02.000Z",
+          "wordCount": 644,
+          "title": "Serge Goulart, presente!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/serge-goulart.webp"
+        },
+        {
           "id": "6a9f5feedb44284cd522d0d5",
           "author": "Adriano Espíndola, de Uberaba (MG)",
           "description": "ParteI: O mito da incapacidade operária e afarsa do monopólio do saber\nDias atrás me deparei com o noticiário de sites jurídicos e da imprensa tradicional falando da sustentação oral feita por um trabalhador da construç",
@@ -58,29 +78,9 @@
           "description": "Neste sábado, 6 de setembro, faleceu o companheiro Paulo Eduardo Gomes, ex-vereador do PSOL de Niterói (RJ), com trajetória de militância no movimento sindical nas décadas de 1980/1990, fundador do PT e depois do PSOL.\nPaulo Eduardo participou da",
           "link": "https://opiniaosocialista.com.br/nossa-homenagem-a-paulo-eduardo-gomes-lutador-da-classe-trabalhadora-e-socialista/",
           "publishedOn": "2026-09-07T15:22:54.000Z",
-          "wordCount": 965,
+          "wordCount": 947,
           "title": "Nossa homenagem a Paulo Eduardo Gomes, lutador da classe trabalhadora e socialista",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Paulo-Eduardo-Gomes.webp"
-        },
-        {
-          "id": "6a9b793bdb44284cd522d04b",
-          "author": "Redação",
-          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
-          "link": "https://opiniaosocialista.com.br/escandalo-master-escancara-3-poderes/",
-          "publishedOn": "2026-09-05T02:07:31.000Z",
-          "wordCount": 388,
-          "title": "Escândalo Master escancara 3 Poderes",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
-        },
-        {
-          "id": "6a9b6f29db44284cd522d02c",
-          "author": "Vanessa Portugal",
-          "description": "Resposta de Vanessa Portugal, candidata à vice-Presidência pelo PSTU, à carta-compromisso da Semesp (Sindicato das Entidades Mantenedoras de Estabelecimentos de Ensino Superior no Estado de São Paulo) apresentada aos candidatos nas Eleições de 2026",
-          "link": "https://opiniaosocialista.com.br/vanessa-portugal-responde-a-carta-compromisso-da-educacao-privada-defendemos-educacao-100-publica-gratuita-e-de-qualidade/",
-          "publishedOn": "2026-09-05T01:28:04.000Z",
-          "wordCount": 1120,
-          "title": "Vanessa responde à carta-compromisso da educação privada: \"Defendemos Educação 100% pública, gratuita e de qualidade\"",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Vanessa-Portugal_carta-compromisso-semesp--1-.webp"
         }
       ]
     },
@@ -209,9 +209,19 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163013",
+          "author": "Mariana Rosetti",
+          "description": "Especialista aponta o enfraquecimento de políticas de controle da atividade policial, como câmeras corporais, como fator de preocupação\nO conteúdo Mortes pela polícia em SP atingem maior número para julho em sete anos Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/mortes-pela-policia-em-sp-atingem-maior-numero-para-julho-em-sete-anos/",
+          "publishedOn": "2026-09-09T17:21:30.000Z",
+          "wordCount": 5706,
+          "title": "Mortes pela polícia em SP atingem maior número para julho em sete anos",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/02/letalidade-policial-brasil-2025-1.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163174",
           "author": "Paulo Batistella",
-          "description": "Francisco se juntou ao movimento após o filho Paulo Alexandre ter sido vítima de desaparecimento forçado em meio aos Crimes de Maio. Ele também era pai de Francilene, outra integrante das Mães de Maio, e Juliana, assassinada nos anos 90\nO conteúdo Morre Francisco Gomes, pai de vítimas do Estado e integrante do Movimento Mães de Maio Pode ser acessado em Ponte Jornalismo.",
+          "description": "Francisco se juntou ao movimento após o filho Paulo Alexandre ter sido vítima de desaparecimento forçado em meio aos Crimes de Maio\nO conteúdo Morre Francisco Gomes, pai de vítimas do Estado e integrante do Movimento Mães de Maio Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/morre-francisco-gomes-pai-de-vitimas-do-estado-e-integrante-do-movimento-maes-de-maio/",
           "publishedOn": "2026-09-08T17:53:30.000Z",
           "wordCount": 5152,
@@ -273,12 +283,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=265183",
+          "author": "Raissa Neves",
+          "description": "O chanceler alemão Friedrich Merz elevou o tom contra o partido de extrema-direita Alternativa para a Alemanha (AfD) nesta quarta-feira (09/09), ao classificar como “limpeza étnica” a política de “remigração” defendida pela legenda. A declaração ocorreu durante um acalorado debate no Bundestag, dois dias após o AfD conquistar uma vitória expressiva nas eleições estaduais da […]\nO post Merz acusa AfD de defender ‘limpeza étnica’ e cancela ligação com Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/merz-acusa-afd-de-defender-limpeza-etnica-e-cancela-ligacao-com-trump/",
+          "publishedOn": "2026-09-09T19:08:07.000Z",
+          "wordCount": 3798,
+          "title": "Merz acusa AfD de defender ‘limpeza étnica’ e cancela ligação com Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55425976136_95a81bf333_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265176",
+          "author": "Victor Farinelli",
+          "description": "O presidente da Sérvia, Aleksandar Vucic, anunciou nesta quarta-feira (09/09) a dissolução do Parlamento e a convocação de eleição parlamentares antecipadas no país para o próximo dia 25 de outubro. A decisão antecipa em mais de um ano o cronograma eleitoral do país, no qual o próximo pleito estava marcado para dezembro de 2027. Após […]\nO post Presidente da Sérvia dissolve Parlamento e convoca eleições antecipadas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/presidente-da-servia-dissolve-parlamento-e-convoca-eleicoes-antecipadas/",
+          "publishedOn": "2026-09-09T17:45:01.000Z",
+          "wordCount": 3076,
+          "title": "Presidente da Sérvia dissolve Parlamento e convoca eleições antecipadas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vucic.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265171",
+          "author": "Tabitha Ramalho",
+          "description": "O secretário de Estado dos EUA, Marco Rubio, visita o Equador nesta quarta-feira (09/09) para se reunir com o presidente Daniel Noboa e, depois de passar pela Colômbia, segue para o Peru, em um tour por três países latino-americanos. Antes de seguir para Lima, onde se encontrará na quinta-feira (10/09) com a presidente eleita Keiko […]\nO post Marco Rubio vai ao Equador nesta quarta em visitas a aliados na América do Sul apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/marco-rubio-vai-ao-equador-nesta-quarta-em-visitas-a-aliados-na-america-do-sul/",
+          "publishedOn": "2026-09-09T15:40:27.000Z",
+          "wordCount": 4003,
+          "title": "Marco Rubio vai ao Equador nesta quarta em visitas a aliados na América do Sul",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hruprhxxkaakce3.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265167",
+          "author": "Tatiana Carlotti",
+          "description": "A intensificação dos ataques entre Estados Unidos e Irã no Estreito de Ormuz, incluindo bombardeios contra petroleiros e outras embarcações, vem elevando os preços do petróleo. Nesta quarta-feira (09/09), o Brent, referência internacional, chegou a US$ 100,95 (R$ 514,04) durante as negociações no pregão. Por volta das 10h15 (horário de Brasília), o Brent foi cotado […]\nO post Preço do petróleo supera US$ 100 após ataques contra petroleiros em Ormuz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-do-petroleo-supera-us-100-apos-ataques-contra-petroleiros-em-ormuz/",
+          "publishedOn": "2026-09-09T15:00:10.000Z",
+          "wordCount": 3606,
+          "title": "Preço do petróleo supera US$ 100 após ataques contra petroleiros em Ormuz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405013111492325836468784.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265158",
+          "author": "Tabitha Ramalho",
+          "description": "Segundo o jornal Haaretz, o primeiro-ministro Benjamin Netanyahu teria recebido um telefonema do presidente dos Emirados Árabes Unidos, o xeque Mohamed Bin Zayed, alertando-o sobre uma operação planejada pelo Hamas uma semana e meia antes dos ataques de 7 de Outubro de 2023. Especialistas, porém, avaliam que a revelação dificilmente alterará de forma significativa o […]\nO post Oposição critica Netanyahu após denúncia sobre alerta antes de 7 de outubro: ‘conduziu ao fracasso’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/oposicao-critica-netanyahu-apos-denuncia-sobre-alerta-antes-de-7-de-outubro-conduziu-ao-fracasso/",
+          "publishedOn": "2026-09-09T14:20:44.000Z",
+          "wordCount": 4658,
+          "title": "Oposição critica Netanyahu após denúncia sobre alerta antes de 7 de outubro: ‘conduziu ao fracasso’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/israel-netanyahu.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265149",
+          "author": "Tabitha Ramalho",
+          "description": "Em meio ao debate no Congresso sobre o projeto de lei orçamentária de 2027, médicos do setor público anunciaram na terça-feira (08/09) a convocação de uma greve para exigir aumentos salariais. Rossana González, secretária-geral do Sindicato Nacional dos Médicos (Sinamed), anunciou à imprensa que o sindicato havia notificado formalmente o Ministério do Trabalho, Emprego e […]\nO post Paraguai: médicos e professores convocam nova greve por aumentos salariais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/paraguai-medicos-e-professores-convocam-nova-greve-por-aumentos-salariais/",
+          "publishedOn": "2026-09-09T13:40:29.000Z",
+          "wordCount": 3543,
+          "title": "Paraguai: médicos e professores convocam nova greve por aumentos salariais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/par-1024x576.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265155",
+          "author": "Tatiana Carlotti",
+          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (09/09) a reintegração imediata de Andrei Rodrigues à direção-geral da Polícia Federal (PF) e de Leandro Almada ao comando da Diretoria de Inteligência Policial. Os dois delegados haviam sido afastados na terça-feira (08/09) por decisão do ministro André Mendonça, após alegar ter sido […]\nO post Flávio Dino determina retorno imediato de Andrei Rodrigues ao comando da Polícia Federal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/flavio-dino-determina-retorno-imediato-de-andrei-rodrigues-ao-comando-da-policia-federal/",
+          "publishedOn": "2026-09-09T13:08:00.000Z",
+          "wordCount": 3658,
+          "title": "Flávio Dino determina retorno imediato de Andrei Rodrigues ao comando da Polícia Federal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/54776974910_27f774db1d_o.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=265144",
           "author": "Tabitha Ramalho",
           "description": "O Ministério da Defesa informou na quarta-feira (09/09) o lançamento de ataques noturnos das forças russas contra alvos militares ucranianos. “Esta noite, as Forças Armadas da Federação Russa continuaram a lançar ataques em grupo contra instalações da indústria militar, portos marítimos e navios ucranianos, bem como contra centros logísticos utilizados em prol das Forças Armadas […]\nO post Rússia lança ataques noturnos contra alvos militares e portos ucranianos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-lanca-ataques-noturnos-contra-alvos-militares-e-portos-ucranianos/",
           "publishedOn": "2026-09-09T12:10:48.000Z",
-          "wordCount": 3356,
+          "wordCount": 3351,
           "title": "Rússia lança ataques noturnos contra alvos militares e portos ucranianos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/6aa1019159bf5b5b7810bdc9.jpg"
         },
@@ -288,7 +368,7 @@
           "description": "O governo dos Estados Unidos anunciou nesta terça-feira (08/09) a entrada do Peru no “Escudo das Américas”, iniciativa promovida pelo governo de Donald Trump para ampliar a cooperação internacional no combate ao crime organizado, reunindo governos direitistas da América Latina alinhados a Washington. O secretário de Estado norte-americano, Marco Rubio, está na Colômbia como parte […]\nO post Peru adere ao ‘Escudo das Américas’, projeto de Trump contra crime organizado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/peru-adere-ao-escudo-das-americas-projeto-de-trump-contra-crime-organizado/",
           "publishedOn": "2026-09-09T10:48:15.000Z",
-          "wordCount": 3493,
+          "wordCount": 3494,
           "title": "Peru adere ao ‘Escudo das Américas’, projeto de Trump contra crime organizado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-08-174351.png"
         },
@@ -296,81 +376,11 @@
           "id": "https://operamundi.uol.com.br/?p=265131",
           "author": "Tatiana Carlotti",
           "description": "A Guarda Revolucionária Islâmica do Irã (IRGC) lançou nesta quarta-feira (09/09) um ataque de mísseis contra bases militares utilizadas pelos Estados Unidos na Jordânia, como parte de uma operação retaliatória, chamada “Punição do Agressor”. A IRGC também confirmou ataques contra dois destróieres da Marinha dos EUA, outras duas embarcações norte-americanas e oito petroleiros no Estreito […]\nO post Irã ataca navios e base dos EUA na Jordânia após bombardeios contra petroleiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-bases-norte-americanas-na-jordania-apos-bombardeio-contra-petroleiros/",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-navios-e-base-dos-eua-na-jordania-apos-bombardeios-contra-petroleiros/",
           "publishedOn": "2026-09-09T10:31:56.000Z",
-          "wordCount": 3410,
+          "wordCount": 3405,
           "title": "Irã ataca navios e base dos EUA na Jordânia após bombardeios contra petroleiros",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-120528.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265123",
-          "author": "Tatiana Carlotti",
-          "description": "A Casa Branca acompanha de perto a crise entre os ministros Alexandre de Moraes e André Mendonça no Supremo Tribunal Federal (STF), que levou ao afastamento do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, nesta terça-feira (09/09). A informação é do UOL. Fontes do governo dos Estados Unidos afirmaram ao veículo que Washington vem monitorando […]\nO post Casa Branca acompanha ‘de perto’ crise entre Moraes e Mendonça no STF, diz UOL apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/casa-branca-acompanha-de-perto-crise-no-stf-diz-uol/",
-          "publishedOn": "2026-09-09T10:03:11.000Z",
-          "wordCount": 3439,
-          "title": "Casa Branca acompanha ‘de perto’ crise entre Moraes e Mendonça no STF, diz UOL",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/pzzb9451.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265109",
-          "author": "Raissa Neves",
-          "description": "Há 90 anos, em 8 de setembro de 1936, eclodia em Lisboa a Revolta dos Marinheiros, uma das maiores insurreições militares contra o regime ditatorial de António de Oliveira Salazar. A revolta mobilizou centenas de marinheiros ligados à Organização Revolucionária da Armada, uma estrutura associada ao Partido Comunista Português (PCP). Após se apoderarem de três […]\nO post 90 anos da Revolta dos Marinheiros portugueses contra regime de Salazar apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/90-anos-da-revolta-dos-marinheiros-portugueses-contra-regime-de-salazar/",
-          "publishedOn": "2026-09-08T20:30:02.000Z",
-          "wordCount": 5710,
-          "title": "90 anos da Revolta dos Marinheiros portugueses contra regime de Salazar",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1936_marinheiros_presos_0.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265112",
-          "author": "Raissa Neves",
-          "description": "Onze diretores da Polícia Federal (PF) divulgaram nesta terça-feira (08/09) uma nota manifestando seu total apoio a Andrei Rodrigues, o diretor-geral afastado da instituição por decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF) e colocaram seus cargos à disposição do delegado William Marcel Murad, diretor-geral substituto. A declaração, divulgada horas após o afastamento […]\nO post Onze diretores da PF entregam cargos em apoio a Andrei Rodrigues apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/onze-diretores-da-pf-entregam-cargos-em-apoio-a-andrei-rodrigues/",
-          "publishedOn": "2026-09-08T20:00:35.000Z",
-          "wordCount": 3953,
-          "title": "Onze diretores da PF entregam cargos em apoio a Andrei Rodrigues",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/68269298_303.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265100",
-          "author": "Raissa Neves",
-          "description": "Pesquisa BTG/Nexus divulgada nesta terça-feira (08/09 revela que Lula segue na liderança no primeiro turno das eleições com margem mais reduzida sobre Flávio Bolsonaro (PL), que passa à frente na simulação de segundo turno contra o presidente. Augusto Cury (Avante), que assumiu a terceira posição no estudo anterior, perdeu força. Segundo o levantamento, realizado entre […]\nO post BTG/Nexus: Lula segue liderando primeiro turno, e Flávio Bolsonaro passa à frente no segundo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/btg-nexus-lula-segue-liderando-primeiro-turno-e-flavio-bolsonaro-passa-a-frente-no-segundo/",
-          "publishedOn": "2026-09-08T19:33:24.000Z",
-          "wordCount": 3574,
-          "title": "BTG/Nexus: Lula segue liderando primeiro turno, e Flávio Bolsonaro passa à frente no segundo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/untitled-12-de-dezembro-de-2025-as-10.32.50-2026-09-08t060901.315-768x432.jpeg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265097",
-          "author": "Raissa Neves",
-          "description": "O presidente da Rússia, Vladimir Putin, e o presidente dos Estados Unidos, Donald Trump, discutiram nesta terça-feira (08/09) o resultado das negociações sobre a guerra da Ucrânia durante a visita dos enviados especiais da presidência dos EUA, Steve Witkoff e Jared Kushner, em Moscou e Kiev nos últimos dias. A informação foi divulgada pelo assessor presidencial russo, […]\nO post Putin e Trump falam em retomar relações EUA-Rússia após fim da guerra na Ucrânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-e-trump-falam-em-retomar-relacoes-eua-russia-apos-fim-da-guerra-na-ucrania/",
-          "publishedOn": "2026-09-08T19:00:14.000Z",
-          "wordCount": 3920,
-          "title": "Putin e Trump falam em retomar relações EUA-Rússia após fim da guerra na Ucrânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/trump_putin_alaska_arrival_9260677-1-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265092",
-          "author": "Tabitha Ramalho",
-          "description": "Uma semana e meia antes de 7 de outubro de 2023, o presidente dos Emirados Árabes Unidos, Mohamed Bin Zayed, ligou para o primeiro-ministro israelense, Benjamin Netanyahu, para alertar que o líder do Hamas em Gaza, Yahya Sinwar, estava planejando uma ofensiva contra Israel. A investigação, publicada pelo Haaretz, foi realizada para o livro Reféns: […]\nO post Netanyahu foi avisado sobre ofensiva do Hamas e ignorou alerta, diz Haaretz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/netanyahu-foi-avisado-sobre-ofensiva-do-hamas-e-ignorou-alerta-diz-haaretz/",
-          "publishedOn": "2026-09-08T18:10:26.000Z",
-          "wordCount": 3632,
-          "title": "Netanyahu foi avisado sobre ofensiva do Hamas e ignorou alerta, diz Haaretz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-10.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265089",
-          "author": "Raissa Neves",
-          "description": "Por ocasião do Dia da Independência, o encarregado de negócios da Embaixada do Brasil em Buenos Aires, Eduardo Uziel, fez um discurso coordenado com o embaixador do Brasil na Argentina, Julio Bitelli, atualmente chamado a consultas em Brasília, e com o chanceler Mauro Vieira. A fala foi repleta de indiretas, críticas sutis e alusões ao […]\nO post Brasil critica postura de Milei e cobra respeito na relação entre países apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/brasil-critica-postura-de-milei-e-cobra-respeito-na-relacao-entre-paises/",
-          "publishedOn": "2026-09-08T17:00:41.000Z",
-          "wordCount": 4332,
-          "title": "Brasil critica postura de Milei e cobra respeito na relação entre países",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lula-milei.jpg"
         }
       ]
     },
@@ -385,7 +395,7 @@
           "description": "Ernildo Júnior foi autuado em 2025 e 2026 pelo Ibama por destruição de vegetação nativa em sítio e fazendas em Serra Branca (PB); alvo da Polícia Federal, empresário opera pedreira sem licença ambiental no município; o caso é tema do segundo episódio da série Brasil Profundo, disponível no YouTube do observatório Por Carolina Bataier Dono […]\nO post Dono da Pixbet tem R$ 11 milhões em multas por desmatar Caatinga apareceu primeiro em De Olho nos Ruralistas.",
           "link": "https://deolhonosruralistas.com.br/2026/09/08/brasil-profundo-pixbet/",
           "publishedOn": "2026-09-08T21:06:26.000Z",
-          "wordCount": 3606,
+          "wordCount": 3631,
           "title": "Dono da Pixbet tem R$ 11 milhões em multas por desmatar Caatinga",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/09/Desmatamento-pixbet-serra-branca.jpg"
         }
@@ -397,12 +407,52 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232565",
+          "author": "Giovanna Maria",
+          "description": "A marcha reuniu denúncias contra a violência sofrida pelas mulheres e a especulação imobiliária, além da defesa da Revolução Agrária e da Resistência Nacional Palestina.",
+          "link": "https://anovademocracia.com.br/massas-denunciam-violencia-contra-mulher-grito-dos-excluidos-fortaleza/",
+          "publishedOn": "2026-09-09T16:51:59.000Z",
+          "wordCount": 7111,
+          "title": "Massas denunciam violência contra a mulher e defendem direitos do povo pobre no 32º Grito dos Excluídos em Fortaleza",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-3.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232559",
+          "author": "Redação de AND",
+          "description": "Requisição para Garantia da Votação e da Apuração se soma ao apoio logístico militar já previsto para localidades de difícil acesso. No Acre, medida ocorre em meio à ampliação da presença repressiva e da cooperação com agentes ianques na região de fronteira.",
+          "link": "https://anovademocracia.com.br/velho-estado-forcas-armadas-eleicoes/",
+          "publishedOn": "2026-09-09T16:14:21.000Z",
+          "wordCount": 7919,
+          "title": "Velho Estado mobiliza Forças Armadas para garantir farsa eleitoral no Acre",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/midia-de-distribuicao-g1-2026-07-25t141445.525.avif"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232551",
+          "author": "Redação de AND",
+          "description": "Encontro reuniu jovens franceses e indianos após um mês de protestos que arrancou a saída do ministro da Educação; conferência também debateu a Operação Kagaar e a Guerra Popular dirigida pelo PCI (Maoista).",
+          "link": "https://anovademocracia.com.br/conferencia-franca-baratas-india-protestos/",
+          "publishedOn": "2026-09-09T15:00:00.000Z",
+          "wordCount": 7874,
+          "title": "Jovens realizam conferência na França em apoio às ‘Baratas’ da Índia após protestos derrubarem ministro de Modi",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-25.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=232555",
+          "author": "Redação de AND",
+          "description": "A manifestação contava com mais que o dobro que a marcha nazista, onde através de forte resistência a violência policial e fascista conseguiu frustrar a marcha",
+          "link": "https://anovademocracia.com.br/anti-fascistas-enfrentam-marcha-nazista/",
+          "publishedOn": "2026-09-09T14:48:36.000Z",
+          "wordCount": 6877,
+          "title": "Anti-fascistas dinamarqueses frustram marcha nazista e enfrentam polícia racista",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2-1024x610.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232536",
           "author": "Redação de AND",
           "description": "Propaganda da Liga Anti-imperialista Internacional repercute vitória de 70 famílias do Engenho Fervedouro e a declaração “Abandonar as ilusões!”, lançada pela LCP após recentes lutas pela terra em Pernambuco.",
           "link": "https://anovademocracia.com.br/eua-cartazes-solidariedade-lutas-lcp-brasil/",
           "publishedOn": "2026-09-09T12:00:00.000Z",
-          "wordCount": 7012,
+          "wordCount": 7006,
           "title": "EUA: Cartazes em Baltimore difundem luta da LCP e vitória de camponeses de Pernambuco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-21.png"
         },
@@ -412,7 +462,7 @@
           "description": "Novidade alguma: jogador profissional de futebol estuprar impunemente! É mais uma prova de que não interessa ao imperialismo e suas instituições falidas combater a violência contra a mulher e demais formas de opressão sexual.",
           "link": "https://anovademocracia.com.br/mfp-estupro-copa-silencio-cumplice-fifa/",
           "publishedOn": "2026-09-09T00:47:32.000Z",
-          "wordCount": 9127,
+          "wordCount": 9121,
           "title": "MFP: ‘Estupro durante a Copa e silêncio cúmplice da Fifa’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-19.png"
         },
@@ -422,7 +472,7 @@
           "description": "Em gravações divulgadas pelo empresário Ricardo José Nascimento, dono da construtora JN, a prefeita Elida Moreira aparece discutindo a devolução de R$ 2,4 milhões relacionados às obras de 12 pontes. Ricardo afirma que o valor seria uma propina exigida para liberar pagamentos à sua empresa.",
           "link": "https://anovademocracia.com.br/empresario-acusa-prefeito-propina/",
           "publishedOn": "2026-09-08T23:54:59.000Z",
-          "wordCount": 8058,
+          "wordCount": 8052,
           "title": "PA: Empresário acusa prefeita e ex-prefeito de Conceição do Araguaia de cobrar R$ 2,4 milhões em propina em troca de licitações de obras em pontes",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/WhatsApp-Video-2026-08-28-at-06.25.10-1.mp4",
@@ -437,7 +487,7 @@
           "description": "A liminar foi concedida pelo mesmo juiz auxiliar que, dois dias antes, extinguira sem examinar o mérito uma ação contra Nikolas pela divulgação de um documento falso atribuído à Polícia Federal (PF).",
           "link": "https://anovademocracia.com.br/tre-censura-icl-nikolas-vorcaro/",
           "publishedOn": "2026-09-08T20:12:49.000Z",
-          "wordCount": 7781,
+          "wordCount": 7775,
           "title": "TRE-MG censura ICL Notícias por expor relações de Nikolas Ferreira com Vorcaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-17.png"
         },
@@ -447,7 +497,7 @@
           "description": "O ministro da Guerra sionista, Israel Katz, afirmou em 7 de setembro que ele e Netanyahu ordenaram ao Exército preparar uma “guerra em grande escala” na Cisjordânia ocupada, após uma operação palestina ferir gravemente um colono perto de Nablus. A ameaça encerra uma semana em que dois jovens foram assassinados em Al-Mughayyir, um estudante de odontologia foi morto por colonos e novos dados mostraram 66 comunidades palestinas já completamente esvaziadas desde outubro de 2023. No confronto com o Irã, avaliações da própria inteligência ianque apontam Teerã mais confiante e capaz de sustentar a guerra por meses, enquanto o custo da agressão já supera 37,5 bilhões de dólares e apenas um em cada quatro estadunidenses considera que ela vale seu preço.",
           "link": "https://anovademocracia.com.br/plantao-palestina-07-09-2026/",
           "publishedOn": "2026-09-08T19:48:13.000Z",
-          "wordCount": 9983,
+          "wordCount": 9977,
           "title": "Plantão Palestina (02–07/09): Katz ordena preparar ‘guerra em grande escala’ na Cisjordânia; inteligência ianque avalia Irã mais confiante e pronto para meses de guerra",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina-1024x576.jpg"
         },
@@ -457,49 +507,9 @@
           "description": "Um brinquedo de poucos reais, feito com tubos de PVC, ajuda crianças a ler melhor e revela o engenho de professoras que enfrentam, com criatividade, o sucateamento da escola pública.",
           "link": "https://anovademocracia.com.br/pedagogia-invencao-brinquedo-ativa-leitura/",
           "publishedOn": "2026-09-08T17:08:58.000Z",
-          "wordCount": 8122,
+          "wordCount": 8116,
           "title": "8 de setembro – Pedagogia: Professoras inventam brinquedo que ativa leitura para contornar sucateamento do ensino",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/sussurrofone-1.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232475",
-          "author": "Redação de AND",
-          "description": "Atividade reuniu estudantes, docentes e comunidade externa e percorreu diferentes gerações de artistas, escritores e jornalistas palestinos marcados pela Nakba, pela ocupação sionista e pela resistência.",
-          "link": "https://anovademocracia.com.br/palestra-universidade-federal-do-acre-arte-jornalismo-resistencia-palestina/",
-          "publishedOn": "2026-09-08T16:26:29.000Z",
-          "wordCount": 7787,
-          "title": "Palestra na Universidade Federal do Acre aborda arte e jornalismo na Resistência Nacional Palestina",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232481",
-          "author": "Redação de AND",
-          "description": "Mobilizações reuniram estudantes, forças antifascistas e organizações populares contra o V Encontro Regional do Foro de Madrid; tropas policiais reprimiram os manifestantes.",
-          "link": "https://anovademocracia.com.br/chile-estudantes-protestam-foro-de-madrid/",
-          "publishedOn": "2026-09-08T02:56:02.000Z",
-          "wordCount": 6968,
-          "title": "Chile: Estudantes e forças anti-imperialistas protestam contra encontro do Foro de Madrid em Santiago",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-16.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232471",
-          "author": "Giovanna Maria",
-          "description": "Iniciativa do CEPASP e da Comuna CEPASP reúne a memória de indígenas, quilombolas e camponeses assassinados na luta pela terra no Sul e Sudeste do Pará, região marcada pela violência do latifúndio, pelo terror do regime militar fascista e pela resistência popular.",
-          "link": "https://anovademocracia.com.br/cepasp-instala-memorial-da-luta-camponesa-no-sudeste-do-para/",
-          "publishedOn": "2026-09-07T10:48:00.000Z",
-          "wordCount": 9001,
-          "title": "CEPASP instala Memorial da Luta Camponesa no sudeste do Pará",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-14.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232465",
-          "author": "Redação de AND",
-          "description": "O relato acrescenta as campanhas de Jair Bolsonaro e Tarcísio às relações atribuídas ao Master com agentes de diferentes partidos e instituições; apurações anteriores já haviam ligado o clã Bolsonaro a Vorcaro pelo financiamento de “Dark Horse”.",
-          "link": "https://anovademocracia.com.br/bolsonaro-tarcisio-propina-kassab-vorcaro/",
-          "publishedOn": "2026-09-06T10:02:31.000Z",
-          "wordCount": 7616,
-          "title": "Doações às campanhas de Bolsonaro e Tarcísio foram propina negociada com Kassab, afirma Vorcaro",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-13-1024x683.png"
         }
       ]
     },
@@ -507,13 +517,44 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6aa17f747f8ed50598a0293b",
+          "author": "O Poder Popular",
+          "description": "Jessica Santos para o Ponte Jornalismo\nCasos recentes envolvendo Natália Viana e Juliana Dal Piva mostram como ameaças, ataques à aparência, sexualização e violência de gênero são usados para tentar desqualificar mulheres que investigam figuras",
+          "link": "https://opoderpopular.com.br/quando-querem-destruir-a-jornalista-para-apagar-a-denuncia/",
+          "publishedOn": "2026-09-09T15:51:35.000Z",
+          "wordCount": 1858,
+          "title": "Quando querem destruir a jornalista para apagar a denúncia",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/09/505815754_3226535204163203_9197081865510394367_n.jpg"
+        },
+        {
+          "id": "6aa17dec7f8ed50598a028c0",
+          "author": "O Poder Popular",
+          "description": "Gustavo Gustavo, membro do Comitê Regional do Paraná do Partido Comunista Brasileiro (PCB) e militante do Coletivo Negro Minervino de Oliveira. É professor de educação infantil em Pontal do Paraná, licenciado em História e Pedagogia, e pós-graduando em Alternativas para",
+          "link": "https://opoderpopular.com.br/entre-a-crise-do-presente-e-os-futuros-perdidos/",
+          "publishedOn": "2026-09-09T15:43:34.000Z",
+          "wordCount": 3792,
+          "title": "Entre a Crise do Presente e os Futuros Perdidos",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/09/298799902_486408576824035_6675726856310978443_n.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3203720",
+          "author": "Lucas Scatolini",
+          "description": "Basta seguir o tráfico de influência praticado por Vorcaro para escancarar o conluio entre os banqueiros e as instituições que oprimem o povo. Mas a velha mídia fugirá do tema, e a maior parte da esquerda vê no caso apenas um jogo entre mocinhos e bandidos, no STF\nThe post Banco Master: a investigação silenciada appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/banco-master-a-investigacao-silenciada/",
+          "publishedOn": "2026-09-09T19:01:51.000Z",
+          "wordCount": 4518,
+          "title": "Banco Master: a investigação silenciada",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/ed7aa713-6b98-46a5-90f6-794e5d123afd.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3203614",
           "author": "Lucas Scatolini",
@@ -582,12 +623,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159779",
+          "author": "Vieira",
+          "description": "Cada experiência, inclusive as mais frustrantes, serviu para demonstrar na prática quais caminhos tendem a fortalecer a auto-organização e quais caminhos tendem a enfraquecê-la. Por Embiras",
+          "link": "https://passapalavra.info/2026/09/159779/",
+          "publishedOn": "2026-09-09T15:30:15.000Z",
+          "wordCount": 5266,
+          "title": "Embiras – entre a rua e as redes",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/326D67E0-7F98-4E2A-872B-594AA2BC3B63-2724496183.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159772",
           "author": "Passa Palavra",
           "description": "",
           "link": "https://passapalavra.info/2026/09/159772/",
           "publishedOn": "2026-09-07T11:25:43.000Z",
-          "wordCount": 3800,
+          "wordCount": 3812,
           "title": "Velha Toupeira (46)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/VT046-GERAR-ANTISSEMITISMO.jpg"
         }
