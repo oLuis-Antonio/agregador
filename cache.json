@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "gFAe9v",
+          "author": null,
+          "description": "A direção dos Correios implementa uma reestruturação que ameaça postos de trabalho e o próprio caráter público da empresa, e apresentou propostas que atacavam direitos  conquistados pela categoria",
+          "link": "https://jornalofuturo.com.br/artigo/gFAe9v-greve-nos-correios-a-partir-de-10-de-setembro",
+          "publishedOn": "2026-09-09T03:00:00.000Z",
+          "wordCount": 2612,
+          "title": "Greve nos Correios a partir de 10 de setembro",
+          "imageUrl": "https://media.jornalofuturo.com.br/1000579947-1280x910.jpg"
+        },
+        {
           "id": "SDRggN",
           "author": null,
           "description": "O Grito dos Excluídos coloca aos comunistas o desafio de atuar nas lutas populares sem perder de vista a construção da independência política e da organização da classe trabalhadora",
@@ -185,21 +195,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-9.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444865",
-          "author": "Isabella Mota",
-          "description": "Troca de acusações entre ministros revela contratos milionários e encontros secretos com Daniel Vorcaro no Supremo Tribunal Federal.\nO post Mendonça e Moraes se atolam na sujeira do banco Master apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/09/05/mendonca-moraes-sujeira-banco-master/",
-          "publishedOn": "2026-09-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Mendonça e Moraes se atolam na sujeira do banco Master",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/09/wide-8.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-8.png"
         }
       ]
     },
@@ -256,6 +251,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74679",
+          "author": "Globetrotter",
+          "description": "série de televisão chinesa Perguntando à Vasta Terra (问苍茫, 2023) começa com uma cena em que um jovem Mao Tsé-Tung nada no rio Xiang, que está cheio devido às fortes chuvas. Um pescador grita da margem para o nadador solitário: “Seu tolo, você está pedindo para morrer! O rio está turbulento depois da tempestade — […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/09/09/50-anos-depois-de-mao-um-legado-que-mudou-o-curso-da-historia/",
+          "publishedOn": "2026-09-09T21:59:41.000Z",
+          "wordCount": 4754,
+          "title": "50 anos depois de Mao: um legado que mudou o curso da história",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/mao-tse-tung.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74675",
           "author": "El Salto",
           "description": "os últimos dias de agosto, um personagem que até então havia permanecido na obscuridade para o público em geral, o argentino Fernando Cerimedo, ganhou as primeiras páginas dos meios de comunicação por ter contratado assassinos para matar sua companheira, a boliviana Nadia Beller, grávida dele e que, milagrosamente, sobreviveu, fingindo estar morta após levar três […]",
@@ -283,12 +288,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=265193",
+          "author": "Raissa Neves",
+          "description": "Uma explosão foi ouvida nesta quarta-feira (09/09) na região sul da cidade portuária de Jask, no Irã, nas proximidades do Estreito de Ormuz. Segundo a agência iraniana Fars, o estrondo veio do mar, mas até o momento não foram divulgadas informações sobre a origem ou a causa do incidente. O episódio ocorre em meio à […]\nO post Explosão é ouvida no sul do Irã, diz mídia em meio à escalada em Ormuz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/explosao-e-ouvida-no-sul-do-ira-diz-midia-em-meio-a-escalada-em-ormuz/",
+          "publishedOn": "2026-09-09T22:02:15.000Z",
+          "wordCount": 3622,
+          "title": "Explosão é ouvida no sul do Irã, diz mídia em meio à escalada em Ormuz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/ormuz.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265209",
+          "author": "Victor Farinelli",
+          "description": "Em decisão anunciada no final da tarde desta quarta-feira (09/09), o presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou a suspensão das decisões proferidas pelos ministros André Mendonça e Flávio Dino sobre o comando da Polícia Federal (PF). A decisão significa a manutenção de Andrei Rodrigues como diretor-geral da corporação. A medida vem à […]\nO post Fachin suspende decisões de Mendonça e Dino sobre PF e assume relatoria das fake news apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-pf-e-assume-relatoria-das-fake-news/",
+          "publishedOn": "2026-09-09T21:44:19.000Z",
+          "wordCount": 3387,
+          "title": "Fachin suspende decisões de Mendonça e Dino sobre PF e assume relatoria das fake news",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/afach.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265203",
+          "author": "Raissa Neves",
+          "description": "Há 82 anos, em 9 de setembro de 1944, combatentes da Frente da Pátria apoiados pelo Exército Vermelho derrubavam o governo de Konstantin Muraviev, encerrando a aliança da Bulgária com a Alemanha nazista durante a Segunda Guerra Mundial. Composta por comunistas, social-democratas e militantes do movimento nacionalista Zveno, a Frente da Pátria mobilizou mais de […]\nO post A Revolução de 9 de Setembro e o nascimento da Bulgária socialista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/a-revolucao-de-9-de-setembro-e-o-nascimento-da-bulgaria-socialista/",
+          "publishedOn": "2026-09-09T21:06:35.000Z",
+          "wordCount": 5129,
+          "title": "A Revolução de 9 de Setembro e o nascimento da Bulgária socialista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/bulgarian_partisans_khaldei.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265200",
+          "author": "Pedro Marin",
+          "description": "Quando publicou O fim da História e o Último Homem em 1992, Francis Fukuyama já era famoso. Seu livro era um desdobramento de um artigo anterior de 1989, O fim da História?. Cheio de referências filosóficas, e longe de ser uma simplificação teórica, aquele escrito foi recebido como uma ode ao triunfo do Ocidente na […]\nO post O fim do Fim da História em tempos de fim do mundo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/o-fim-do-fim-da-historia-em-tempos-de-fim-do-mundo/",
+          "publishedOn": "2026-09-09T20:54:11.000Z",
+          "wordCount": 4916,
+          "title": "O fim do Fim da História em tempos de fim do mundo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/fukuyama.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265194",
+          "author": "Pedro Marin",
+          "description": "Por motivos dos mais variados, que vão desde o trauma da derrota histórica da esquerda pós-golpe de 1964 até a completa adaptação às regras da democracia burguesa, a esquerda brasileira, e os comunistas em especial, esqueceram-se dos temas relacionados à defesa nacional e à questão militar. Quando mencionados, eles mantiveram-se completamente associados aos quartéis: algo […]\nO post Os comunistas brasileiros e a defesa nacional apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/os-comunistas-brasileiros-e-a-defesa-nacional/",
+          "publishedOn": "2026-09-09T20:27:48.000Z",
+          "wordCount": 4798,
+          "title": "Os comunistas brasileiros e a defesa nacional",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/defesa-nacional.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265178",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente russo Vladimir Putin, que se reuniu com seu homólogo vietnamita Tô Lâm nesta quarta-feira (09/09), declarou que o Vietnã “alcançou resultados notáveis em seu desenvolvimento”. A delegação vietnamita chegou a Moscou na segunda-feira (07/09), e Putin declarou que as relações bilaterais estão se desenvolvendo, com o comércio crescendo quase 6% no ano passado […]\nO post Vietnã alcançou ‘resultados impressionantes’ após conquistar soberania, afirma Putin apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/vietna-alcancou-resultados-impressionantes-apos-conquistar-soberania-afirma-putin/",
+          "publishedOn": "2026-09-09T20:20:46.000Z",
+          "wordCount": 3108,
+          "title": "Vietnã alcançou ‘resultados impressionantes’ após conquistar soberania, afirma Putin",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/2b88sctgzeddutaabkaamaaymxowdoia.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265187",
+          "author": "Raissa Neves",
+          "description": "O presidente Luiz Inácio Lula da Silva defendeu, nesta quarta-feira (09/09), a “quebra completa do sigilo das investigações de todos os envolvidos no caso Master”. Lula classificou a investigação como “o maior crime financeiro da história do Brasil”. A fala do presidente ocorre em meio a uma grave crise entre ministros do Supremo Tribunal Federal […]\nO post Lula defende quebra completa do sigilo das investigações do caso Master apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-defende-quebra-completa-do-sigilo-das-investigacoes-do-caso-master/",
+          "publishedOn": "2026-09-09T19:09:29.000Z",
+          "wordCount": 3162,
+          "title": "Lula defende quebra completa do sigilo das investigações do caso Master",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/decreto-gospel-mc_abr_23122025-7.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=265183",
           "author": "Raissa Neves",
           "description": "O chanceler alemão Friedrich Merz elevou o tom contra o partido de extrema-direita Alternativa para a Alemanha (AfD) nesta quarta-feira (09/09), ao classificar como “limpeza étnica” a política de “remigração” defendida pela legenda. A declaração ocorreu durante um acalorado debate no Bundestag, dois dias após o AfD conquistar uma vitória expressiva nas eleições estaduais da […]\nO post Merz acusa AfD de defender ‘limpeza étnica’ e cancela ligação com Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/merz-acusa-afd-de-defender-limpeza-etnica-e-cancela-ligacao-com-trump/",
           "publishedOn": "2026-09-09T19:08:07.000Z",
-          "wordCount": 3798,
+          "wordCount": 3786,
           "title": "Merz acusa AfD de defender ‘limpeza étnica’ e cancela ligação com Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55425976136_95a81bf333_c.jpg"
         },
@@ -298,7 +373,7 @@
           "description": "O presidente da Sérvia, Aleksandar Vucic, anunciou nesta quarta-feira (09/09) a dissolução do Parlamento e a convocação de eleição parlamentares antecipadas no país para o próximo dia 25 de outubro. A decisão antecipa em mais de um ano o cronograma eleitoral do país, no qual o próximo pleito estava marcado para dezembro de 2027. Após […]\nO post Presidente da Sérvia dissolve Parlamento e convoca eleições antecipadas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/presidente-da-servia-dissolve-parlamento-e-convoca-eleicoes-antecipadas/",
           "publishedOn": "2026-09-09T17:45:01.000Z",
-          "wordCount": 3076,
+          "wordCount": 3064,
           "title": "Presidente da Sérvia dissolve Parlamento e convoca eleições antecipadas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vucic.jpg"
         },
@@ -308,79 +383,9 @@
           "description": "O secretário de Estado dos EUA, Marco Rubio, visita o Equador nesta quarta-feira (09/09) para se reunir com o presidente Daniel Noboa e, depois de passar pela Colômbia, segue para o Peru, em um tour por três países latino-americanos. Antes de seguir para Lima, onde se encontrará na quinta-feira (10/09) com a presidente eleita Keiko […]\nO post Marco Rubio vai ao Equador nesta quarta em visitas a aliados na América do Sul apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/marco-rubio-vai-ao-equador-nesta-quarta-em-visitas-a-aliados-na-america-do-sul/",
           "publishedOn": "2026-09-09T15:40:27.000Z",
-          "wordCount": 4003,
+          "wordCount": 3991,
           "title": "Marco Rubio vai ao Equador nesta quarta em visitas a aliados na América do Sul",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hruprhxxkaakce3.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265167",
-          "author": "Tatiana Carlotti",
-          "description": "A intensificação dos ataques entre Estados Unidos e Irã no Estreito de Ormuz, incluindo bombardeios contra petroleiros e outras embarcações, vem elevando os preços do petróleo. Nesta quarta-feira (09/09), o Brent, referência internacional, chegou a US$ 100,95 (R$ 514,04) durante as negociações no pregão. Por volta das 10h15 (horário de Brasília), o Brent foi cotado […]\nO post Preço do petróleo supera US$ 100 após ataques contra petroleiros em Ormuz apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-do-petroleo-supera-us-100-apos-ataques-contra-petroleiros-em-ormuz/",
-          "publishedOn": "2026-09-09T15:00:10.000Z",
-          "wordCount": 3606,
-          "title": "Preço do petróleo supera US$ 100 após ataques contra petroleiros em Ormuz",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405013111492325836468784.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265158",
-          "author": "Tabitha Ramalho",
-          "description": "Segundo o jornal Haaretz, o primeiro-ministro Benjamin Netanyahu teria recebido um telefonema do presidente dos Emirados Árabes Unidos, o xeque Mohamed Bin Zayed, alertando-o sobre uma operação planejada pelo Hamas uma semana e meia antes dos ataques de 7 de Outubro de 2023. Especialistas, porém, avaliam que a revelação dificilmente alterará de forma significativa o […]\nO post Oposição critica Netanyahu após denúncia sobre alerta antes de 7 de outubro: ‘conduziu ao fracasso’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/oposicao-critica-netanyahu-apos-denuncia-sobre-alerta-antes-de-7-de-outubro-conduziu-ao-fracasso/",
-          "publishedOn": "2026-09-09T14:20:44.000Z",
-          "wordCount": 4658,
-          "title": "Oposição critica Netanyahu após denúncia sobre alerta antes de 7 de outubro: ‘conduziu ao fracasso’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/israel-netanyahu.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265149",
-          "author": "Tabitha Ramalho",
-          "description": "Em meio ao debate no Congresso sobre o projeto de lei orçamentária de 2027, médicos do setor público anunciaram na terça-feira (08/09) a convocação de uma greve para exigir aumentos salariais. Rossana González, secretária-geral do Sindicato Nacional dos Médicos (Sinamed), anunciou à imprensa que o sindicato havia notificado formalmente o Ministério do Trabalho, Emprego e […]\nO post Paraguai: médicos e professores convocam nova greve por aumentos salariais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/paraguai-medicos-e-professores-convocam-nova-greve-por-aumentos-salariais/",
-          "publishedOn": "2026-09-09T13:40:29.000Z",
-          "wordCount": 3543,
-          "title": "Paraguai: médicos e professores convocam nova greve por aumentos salariais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/par-1024x576.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265155",
-          "author": "Tatiana Carlotti",
-          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (09/09) a reintegração imediata de Andrei Rodrigues à direção-geral da Polícia Federal (PF) e de Leandro Almada ao comando da Diretoria de Inteligência Policial. Os dois delegados haviam sido afastados na terça-feira (08/09) por decisão do ministro André Mendonça, após alegar ter sido […]\nO post Flávio Dino determina retorno imediato de Andrei Rodrigues ao comando da Polícia Federal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/flavio-dino-determina-retorno-imediato-de-andrei-rodrigues-ao-comando-da-policia-federal/",
-          "publishedOn": "2026-09-09T13:08:00.000Z",
-          "wordCount": 3658,
-          "title": "Flávio Dino determina retorno imediato de Andrei Rodrigues ao comando da Polícia Federal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/54776974910_27f774db1d_o.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265144",
-          "author": "Tabitha Ramalho",
-          "description": "O Ministério da Defesa informou na quarta-feira (09/09) o lançamento de ataques noturnos das forças russas contra alvos militares ucranianos. “Esta noite, as Forças Armadas da Federação Russa continuaram a lançar ataques em grupo contra instalações da indústria militar, portos marítimos e navios ucranianos, bem como contra centros logísticos utilizados em prol das Forças Armadas […]\nO post Rússia lança ataques noturnos contra alvos militares e portos ucranianos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-lanca-ataques-noturnos-contra-alvos-militares-e-portos-ucranianos/",
-          "publishedOn": "2026-09-09T12:10:48.000Z",
-          "wordCount": 3351,
-          "title": "Rússia lança ataques noturnos contra alvos militares e portos ucranianos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/6aa1019159bf5b5b7810bdc9.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265115",
-          "author": "Raissa Neves",
-          "description": "O governo dos Estados Unidos anunciou nesta terça-feira (08/09) a entrada do Peru no “Escudo das Américas”, iniciativa promovida pelo governo de Donald Trump para ampliar a cooperação internacional no combate ao crime organizado, reunindo governos direitistas da América Latina alinhados a Washington. O secretário de Estado norte-americano, Marco Rubio, está na Colômbia como parte […]\nO post Peru adere ao ‘Escudo das Américas’, projeto de Trump contra crime organizado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/peru-adere-ao-escudo-das-americas-projeto-de-trump-contra-crime-organizado/",
-          "publishedOn": "2026-09-09T10:48:15.000Z",
-          "wordCount": 3494,
-          "title": "Peru adere ao ‘Escudo das Américas’, projeto de Trump contra crime organizado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-08-174351.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265131",
-          "author": "Tatiana Carlotti",
-          "description": "A Guarda Revolucionária Islâmica do Irã (IRGC) lançou nesta quarta-feira (09/09) um ataque de mísseis contra bases militares utilizadas pelos Estados Unidos na Jordânia, como parte de uma operação retaliatória, chamada “Punição do Agressor”. A IRGC também confirmou ataques contra dois destróieres da Marinha dos EUA, outras duas embarcações norte-americanas e oito petroleiros no Estreito […]\nO post Irã ataca navios e base dos EUA na Jordânia após bombardeios contra petroleiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ataca-navios-e-base-dos-eua-na-jordania-apos-bombardeios-contra-petroleiros/",
-          "publishedOn": "2026-09-09T10:31:56.000Z",
-          "wordCount": 3405,
-          "title": "Irã ataca navios e base dos EUA na Jordânia após bombardeios contra petroleiros",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-120528.png"
         }
       ]
     },
@@ -406,6 +411,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=232570",
+          "author": "Redação de AND",
+          "description": "Ministros da casta judiciária derrubam as ordens uns dos outros, 11 dos 13 diretores da PF põem os cargos à disposição e as apurações são suspensas justamente quando alcançam os próprios julgadores.",
+          "link": "https://anovademocracia.com.br/stf-fachin-moraes-ordens-mendonca-dino-pf/",
+          "publishedOn": "2026-09-09T21:16:41.000Z",
+          "wordCount": 7690,
+          "title": "Caos institucional no STF: Fachin tira Moraes da relatoria do inquérito das fake news e suspende ordens de Mendonça e Dino sobre PF",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-26.png"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=232565",
           "author": "Giovanna Maria",
@@ -500,16 +515,6 @@
           "wordCount": 9977,
           "title": "Plantão Palestina (02–07/09): Katz ordena preparar ‘guerra em grande escala’ na Cisjordânia; inteligência ianque avalia Irã mais confiante e pronto para meses de guerra",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina-1024x576.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232485",
-          "author": "Rosana Bond",
-          "description": "Um brinquedo de poucos reais, feito com tubos de PVC, ajuda crianças a ler melhor e revela o engenho de professoras que enfrentam, com criatividade, o sucateamento da escola pública.",
-          "link": "https://anovademocracia.com.br/pedagogia-invencao-brinquedo-ativa-leitura/",
-          "publishedOn": "2026-09-08T17:08:58.000Z",
-          "wordCount": 8116,
-          "title": "8 de setembro – Pedagogia: Professoras inventam brinquedo que ativa leitura para contornar sucateamento do ensino",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/sussurrofone-1.jpg"
         }
       ]
     },
@@ -546,12 +551,62 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3203744",
+          "author": "Lucas Scatolini",
+          "description": "Nova edição do PISA, o grande estudo sobre desempenho escolar, revela: países eurocêntricos regridem em Ciências, Leitura e Matemática. Nações em desenvolvimento como o Camboja avançam rápido. China destaca-se com os melhores índices, com margem enorme\nThe post Educação: o “emburrecimento” do ocidente appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/educacao-o-emburrecimento-do-ocidente/",
+          "publishedOn": "2026-09-09T22:02:26.000Z",
+          "wordCount": 4044,
+          "title": "Educação: o “emburrecimento” do ocidente",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/6854195810c740f8a7ed03cf_Education-Redesign-LearnButWhy.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3203756",
+          "author": "Lucas Scatolini",
+          "description": "Ao submeter o tribunal ao frenesi das redes e algorítmos, ministro quis torná-lo impotente e ridículo. Há um claro ganhador: as big techs, que agem para controlar o espaço público brasileiro e querem eliminar qualquer resistência a seu projeto\nThe post Mendonça, o caos no STF e o ator invisível appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/mendonca-caos-no-stf-e-o-ator-invisivel/",
+          "publishedOn": "2026-09-09T22:01:40.000Z",
+          "wordCount": 5176,
+          "title": "Mendonça, o caos no STF e o ator invisível",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Sem-titulo.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3203735",
+          "author": "Lucas Scatolini",
+          "description": "O caso notável de Regis Ribeiro, que transformou uma escola despovoada e decadente num caso de recuperação reconhecido mundialmente. A decisão do governo paulista: afastá-lo, alegando picuinhas, sem diálogo com a comunidade e sem processo justo\nThe post SP: Escola premiada, diretor punido appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/sp-escola-premiada-diretor-punido/",
+          "publishedOn": "2026-09-09T21:54:02.000Z",
+          "wordCount": 5198,
+          "title": "SP: Escola premiada, diretor punido",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/260909-Parque-dos-Sonhos.jpeg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3203718",
+          "author": "Lucas Scatolini",
+          "description": "Do selo “made in China” ao boné do MAGA, novo livro mostra que é possível entender as disputas econômicas, tecnológicas e geopolíticas do século XXI a partir das roupas que vestimos. Uma ponte entre histórias individuais e os profundos processos de produção e consumo… \nThe post Moda, a filha predileta do capitalismo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/moda-a-filha-predileta-do-capitalismo/",
+          "publishedOn": "2026-09-09T19:42:52.000Z",
+          "wordCount": 4764,
+          "title": "Moda, a filha predileta do capitalismo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4976677094230265171_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3203701",
+          "author": "Lucas Scatolini",
+          "description": "Aluguel dispara em Oiapoque, Santana e Macapá. Infraestruturas são frágeis e há enormes entraves para a expansão urbana e riscos ambientais. As contrapartidas às cidades ainda são incertas. Sem planejamento eficaz e urgente, o caos será inevitável\nThe post Petróleo no Amapá: A especulação mostra os dentes appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/petroleo-no-amapa-a-especulacao-mostra-os-dentes/",
+          "publishedOn": "2026-09-09T19:22:06.000Z",
+          "wordCount": 6345,
+          "title": "Petróleo no Amapá: A especulação mostra os dentes",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/18464.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3203720",
           "author": "Lucas Scatolini",
           "description": "Basta seguir o tráfico de influência praticado por Vorcaro para escancarar o conluio entre os banqueiros e as instituições que oprimem o povo. Mas a velha mídia fugirá do tema, e a maior parte da esquerda vê no caso apenas um jogo entre mocinhos e bandidos, no STF\nThe post Banco Master: a investigação silenciada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/banco-master-a-investigacao-silenciada/",
           "publishedOn": "2026-09-09T19:01:51.000Z",
-          "wordCount": 4518,
+          "wordCount": 4512,
           "title": "Banco Master: a investigação silenciada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/ed7aa713-6b98-46a5-90f6-794e5d123afd.jpg"
         },
@@ -561,7 +616,7 @@
           "description": "O uso, pela campanha de Flávio Bolsonaro, da memória de Jair, convida a refletir sobre política, psicanálise e novas tecnologias. Por que determinadas versões da realidade se tornam psiquicamente necessárias e por que tanta gente entrega sua dúvida a quem promete eliminá-la?\nThe post O pai, o filho e o fantasma do ciberpopulismo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/o-pai-o-filho-e-o-fantasma-do-ciberpopulismo/",
           "publishedOn": "2026-09-08T22:24:24.000Z",
-          "wordCount": 5018,
+          "wordCount": 5007,
           "title": "O pai, o filho e o fantasma do ciberpopulismo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-08-at-19-23-20-eleicoes-2026-geral-flavio_bolsonaro-tse-inteligencia_artificial-1786473860.avif-imagem-AVIF-1200-%C3%97-800-pixels-Redimensionada-79.png"
         },
@@ -571,7 +626,7 @@
           "description": "O que explica o avanço do fundamentalismo? Como a religião pode habitar o espaço público sem dogmatismos? Qual o caminho para construir pontes democráticas a partir da diversidade interna das igrejas? Teólogo brasileiro aponta rotas para diálogos em um ano decisivo\nThe post Por uma teologia das fronteiras  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/por-uma-teologia-das-fronteiras/",
           "publishedOn": "2026-09-08T21:47:59.000Z",
-          "wordCount": 10950,
+          "wordCount": 10946,
           "title": "Por uma teologia das fronteiras",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Capa-censoreligiaobrasil-1024x512-1.jpg"
         },
@@ -581,7 +636,7 @@
           "description": "Ação descontrolada de um “agente de IA” acelerou a criação de fóruns exclusivos nos países ricos. Agora, eles querem governança de IA sem participação do Sul Global – tornando a construção de um complexo tecnológico soberano um imperativo ao Brasil\nThe post Uma agenda para a tecnologia segura e soberana appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/uma-agenda-para-a-tecnologia-segura-e-soberana/",
           "publishedOn": "2026-09-08T21:23:33.000Z",
-          "wordCount": 5393,
+          "wordCount": 5382,
           "title": "Uma agenda para a tecnologia segura e soberana",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/260908-SoberaniaDigital.png"
         },
@@ -591,29 +646,9 @@
           "description": "Partidos tradicionais insistiram no “ajuste fiscal” e na aliança com os EUA. AfD pôde apresentar-se como antissistema e defensora dos esquecidos pela democracia. Em sete pontos, o que o pleito da Saxônia pode ensinar aos “bons moços” do Ocidente\nThe post Alemanha: por que a ultradireita venceu appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/alemanha-por-que-a-ultradireita-venceu/",
           "publishedOn": "2026-09-08T20:51:23.000Z",
-          "wordCount": 4274,
+          "wordCount": 4261,
           "title": "Alemanha: por que a ultradireita venceu",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/260908-AlemanhaB.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3203599",
-          "author": "Lucas Scatolini",
-          "description": "Por que o debate sobre a crise climática é pífio diante do avanço de tragédias no país? Quais as bandeiras  – e contradições  – de Lula para enfrentá-la? Como Super El Niño escancara o gigantesco erro de escantear um tema que já impacta todas as dimensões da vida?\nThe post Clima e eleições: Retrato de uma cegueira política appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/terraeantropoceno/clima-e-eleicoes-retrato-de-uma-cegueira-politica/",
-          "publishedOn": "2026-09-08T20:06:22.000Z",
-          "wordCount": 5894,
-          "title": "Clima e eleições: Retrato de uma cegueira política",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4974544222061006555_w1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3203586",
-          "author": "Rôney Rodrigues",
-          "description": "Civilização ou barbárie estão em jogo -- por isso, derrotar a ultradireita é crucial. Mas a campanha do presidente continua morna. “Vender” conquistas não bastará. Duas propostas poderiam empolgar a população e militância: aumento robusto do salário mínimo e proibição das bets\nThe post Como Lula pode sacudir a poeira appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/como-lula-pode-sacudir-a-poeira/",
-          "publishedOn": "2026-09-08T18:11:07.000Z",
-          "wordCount": 4434,
-          "title": "Como Lula pode sacudir a poeira",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4974544222061006544_y1.jpg"
         }
       ]
     },
