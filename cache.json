@@ -33,6 +33,36 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6aa36642db44284cd522d248",
+          "author": "CSP Conlutas",
+          "description": "Nesta quinta-feira (10), os bancários e bancárias da Caixa Econômica Federal e do Banco do Brasil deram uma demonstração de força e disposição de luta. A categoria cruzou os braços em resposta às",
+          "link": "https://opiniaosocialista.com.br/greve-de-bancarios-da-caixa-e-do-bb-inicia-forte-contra-propostas-rebaixadas-e-adoecimento/",
+          "publishedOn": "2026-09-11T02:33:32.000Z",
+          "wordCount": 1053,
+          "title": "Greve de bancários da Caixa e do BB inicia forte contra propostas rebaixadas e adoecimento",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/bancarios--3-.webp"
+        },
+        {
+          "id": "6aa33384db44284cd522d230",
+          "author": "Joana Salay",
+          "description": "Nós do PSTU agradecemos e saudamos a decisão do Partido Comunista Brasileiro Revolucionário (PCBR) de apoiar a candidatura de Hertz Dias à Presidência da República e outras candidaturas do nosso partido nestas eleições. Os militantes do PCBR",
+          "link": "https://opiniaosocialista.com.br/agradecemos-e-saudamos-o-apoio-do-pcbr-a-candidatura-de-hertz-dias/",
+          "publishedOn": "2026-09-10T22:56:52.000Z",
+          "wordCount": 1347,
+          "title": "Agradecemos e saudamos o apoio do PCBR à candidatura de Hertz Dias",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/pcbr-e-pstu.webp"
+        },
+        {
+          "id": "6aa329d4db44284cd522d20e",
+          "author": "Redação",
+          "description": "Adversários na eleição, tanto Tarcísio quanto Haddad se apoiam em criminalização de liderança comunitária para campanha",
+          "link": "https://opiniaosocialista.com.br/o-uso-da-favela-do-moinho-na-eleicao-ao-governo-de-sp/",
+          "publishedOn": "2026-09-10T22:34:17.000Z",
+          "wordCount": 1118,
+          "title": "O uso da Favela do Moinho na eleição ao governo de SP",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/favela-do-moinho--1-.webp"
+        },
+        {
           "id": "6aa31161db44284cd522d1fb",
           "author": "Redação",
           "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
@@ -48,7 +78,7 @@
           "description": "Presidente nacional do PSTU foi condenado a dois anos de prisão em regime aberto por defender o povo palestino: é hora de reforçar a campanha pela sua absolvição",
           "link": "https://opiniaosocialista.com.br/julgamento-de-recurso-contra-condenacao-de-ze-maria-ocorre-no-dia-24-de-setembro/",
           "publishedOn": "2026-09-10T15:48:51.000Z",
-          "wordCount": 1253,
+          "wordCount": 1257,
           "title": "Julgamento de recurso contra condenação de Zé Maria ocorre no dia 24 de setembro",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Ze-Maria--2-.webp"
         },
@@ -68,7 +98,7 @@
           "description": "Com o escândalo do STF, estamos assistindo a uma das piores crises da democracia dos ricos. O banqueiro corrupto Daniel Vorcaro mantinha relações espúrias com quase todo o andar de cima da República. São contratos milionários com",
           "link": "https://opiniaosocialista.com.br/o-sistema-dos-ricos-escancarado/",
           "publishedOn": "2026-09-09T18:17:54.000Z",
-          "wordCount": 2265,
+          "wordCount": 2269,
           "title": "O sistema dos ricos escancarado",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/mendonca_moraes_STF.webp"
         },
@@ -108,7 +138,7 @@
           "description": "Laércio, de São Paulo (SP), e Eloy Natan, de São Luís (MA)\nApós 10 anos sem greve, trabalhadores do Banco do Brasil (BB) e da Caixa Econômica Federal decidiram paralisar a partir do dia 10 de setembro. Embora",
           "link": "https://opiniaosocialista.com.br/por-que-os-bancarios-vao-entrar-em-greve/",
           "publishedOn": "2026-09-07T16:57:58.000Z",
-          "wordCount": 2455,
+          "wordCount": 2467,
           "title": "Por que os bancários vão entrar em greve?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/greve-bancarios.webp"
         },
@@ -118,7 +148,7 @@
           "description": "Neste sábado, 6 de setembro, faleceu o companheiro Paulo Eduardo Gomes, ex-vereador do PSOL de Niterói (RJ), com trajetória de militância no movimento sindical nas décadas de 1980/1990, fundador do PT e depois do PSOL.\nPaulo Eduardo participou da",
           "link": "https://opiniaosocialista.com.br/nossa-homenagem-a-paulo-eduardo-gomes-lutador-da-classe-trabalhadora-e-socialista/",
           "publishedOn": "2026-09-07T15:22:54.000Z",
-          "wordCount": 943,
+          "wordCount": 947,
           "title": "Nossa homenagem a Paulo Eduardo Gomes, lutador da classe trabalhadora e socialista",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Paulo-Eduardo-Gomes.webp"
         }
@@ -129,6 +159,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Dino-retira-sigilo-sobre-caso-Dark-Horse-e-proibe-Frias-de-sair-do-pais",
+          "author": "Redação",
+          "description": "Flávio Dino manda quebrar sigilo da investigação da PF sobre uso de dinheiro público para produção do filme Dark Horse, com uso de emendas parlamentares do deputado federal do PL, Mário Frias. \n Já não é mais novidade que Vorcaro, dono do Master, teria sido parte de financiar o filme Dark Horse, longa cinebiográfico de Jair Bolsonaro. Agora, no entanto, surgem suspeitas de uso de dinheiro público enviado à produção do filme pelo deputado federal, Mário Frias, do PL. \n10-09-2026\n\n/ STF, Extrema direita, Bolsonaro, Dark Horse",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Dino-retira-sigilo-sobre-caso-Dark-Horse-e-proibe-Frias-de-sair-do-pais",
+          "publishedOn": "2026-09-10T23:21:05.000Z",
+          "wordCount": null,
+          "title": "Flávio Dino retira sigilo sobre caso Dark Horse e proíbe Frias de sair do país",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Pensar-a-revolucao-tomar-partido-mais-de-300-pessoas-na-Escola-de-Verao-da-CRT-e-da-Corriente-Roja",
           "author": "IzquierdaDiario.es - Estado Espanhol",
@@ -386,6 +426,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74683",
+          "author": "Revista Crisis",
+          "description": "m processo político e econômico duplo, contraditório e complementar, está em andamento: o Estado e a política (norte-americana) afirmam energicamente sua soberania por meio da guerra (incluindo a guerra civil) e do genocídio. Ao mesmo tempo, demonstram total subordinação à nova face que o poder econômico assumiu após a dramática crise financeira de 2008, promovendo […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/09/10/por-que-a-guerra-o-fracasso-economico-e-politico-dos-estados-unidos/",
+          "publishedOn": "2026-09-10T23:23:27.000Z",
+          "wordCount": 5364,
+          "title": "Por que a guerra? O fracasso econômico e político dos Estados Unidos",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/guerra-trump-eua-estados-unidos.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74679",
           "author": "Globetrotter",
           "description": "série de televisão chinesa Perguntando à Vasta Terra (问苍茫, 2023) começa com uma cena em que um jovem Mao Tsé-Tung nada no rio Xiang, que está cheio devido às fortes chuvas. Um pescador grita da margem para o nadador solitário: “Seu tolo, você está pedindo para morrer! O rio está turbulento depois da tempestade — […]",
@@ -428,7 +478,7 @@
           "description": "Em entrevista divulgada nesta quinta-feira (10/09), a relatora especial da Organização das Nações Unidas (ONU) para os territórios palestinos ocupados, Francesca Albanese, afirmou que os militares de Israel mataram mais de 21 crianças na Faixa de Gaza em pouco mais de mil dias, desde outubro de 2023, quando iniciou suas operações militares no território palestino. […]\nO post Israel matou 21 mil crianças palestinas em mil dias, acusa relatora da ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-matou-21-mil-criancas-palestinas-em-mil-dias-acusa-relatora-da-onu/",
           "publishedOn": "2026-09-10T22:11:24.000Z",
-          "wordCount": 3195,
+          "wordCount": 3199,
           "title": "Israel matou 21 mil crianças palestinas em mil dias, acusa relatora da ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1alba.jpg"
         },
@@ -438,7 +488,7 @@
           "description": "Os jornalistas israelenses Yuval Abraham e Rachel Szor, dois dos quatro autores de Sem Chão, vencedor de Melhor Documentário no Oscar de 2025, defenderam que há semelhanças do que ocorre em Gaza a partir das ações militares de Israel ao Holocausto, a perseguição e assassinatos aos judeus pelo regime nazista. A fala ocorreu durante uma […]\nO post Desumanização em Gaza é semelhante ao Holocausto, dizem cineastas israelenses apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/desumanizacao-em-gaza-e-semelhante-ao-holocausto-dizem-diretores-de-documentario/",
           "publishedOn": "2026-09-10T21:10:04.000Z",
-          "wordCount": 3633,
+          "wordCount": 3637,
           "title": "Desumanização em Gaza é semelhante ao Holocausto, dizem cineastas israelenses",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/17882904776a9725ad51547_1788290477_3x2_md.jpg"
         },
@@ -448,7 +498,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva (PT) aparece com 43% das intenções de voto no primeiro turno, contra 37,4% de Flávio Bolsonaro (PL), segundo pesquisa AtlasIntel/Bloomberg divulgada nesta quinta-feira (10/09). A vantagem do petista é de 5,6 pontos percentuais. Os dois primeiros colocados concentram 80,4% das intenções de voto no cenário analisado. Apesar da […]\nO post Lula vence Flávio no 1º turno, mas há empate técnico no 2º, aponta AtlasIntel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-vence-flavio-no-1o-turno-mas-ha-empate-tecnico-no-2o-aponta-atlasintel/",
           "publishedOn": "2026-09-10T20:37:08.000Z",
-          "wordCount": 3383,
+          "wordCount": 3387,
           "title": "Lula vence Flávio no 1º turno, mas há empate técnico no 2º, aponta AtlasIntel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1lf.jpg"
         },
@@ -458,7 +508,7 @@
           "description": "Uma singela bolinha de papel raramente entraria para a história como protagonista de uma eleição presidencial. Mas, quando o adversário a ser batido é o PT, a grande imprensa não mede esforços para se agarrar a qualquer tábua de salvação. Foi o que ocorreu na eleição de 2010, quando José Serra, candidato do PSDB à […]\nO post Bolinhagate: a busca da imprensa por um factoide eleitoral contra o PT apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/bolinhagate-a-busca-da-imprensa-por-um-factoide-eleitoral-contra-o-pt/",
           "publishedOn": "2026-09-10T19:33:03.000Z",
-          "wordCount": 4751,
+          "wordCount": 4755,
           "title": "Bolinhagate: a busca da imprensa por um factoide eleitoral contra o PT",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/juazeiro_do_norte_-_ce._serra_faz_campanha_ao_lado_de_tasso_jereissati_4995995597.jpg"
         },
@@ -468,7 +518,7 @@
           "description": "Em decisão anunciada nesta quinta-feira (10/09), o ministro Flávio Dino, do Supremo Tribunal Federal (STF), derrubou o sigilo da decisão judicial que autorizou a megaoperação da Polícia Federal (PF) para investigar o financiamento do filme Dark Horse. A medida vem à tona horas depois da deflagração da Operação Make Up, que apura o suposto desvio […]\nO post Dino derruba sigilo de ação sobre ‘Dark Horse’ e impede que deputado deixe o país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/dino-derruba-sigilo-de-acao-sobre-dark-horse-e-impede-que-deputado-deixe-o-pais/",
           "publishedOn": "2026-09-10T18:25:29.000Z",
-          "wordCount": 3435,
+          "wordCount": 3439,
           "title": "Dino derruba sigilo de ação sobre ‘Dark Horse’ e impede que deputado deixe o país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/amario-frias.jpg"
         },
@@ -478,7 +528,7 @@
           "description": "O abuso do conceito neoliberalismo como chave explicativa quase total da história brasileira recente produziu um paradoxo teórico paralisante. Quanto mais o termo passou a nomear fenômenos diversos — privatizações, abertura comercial, desregulamentação, austeridade, flexibilização do trabalho, financeirização, regressão social, redução de direitos —, menos ele foi capaz de explicar as determinações estruturais que conferem […]\nO post Neoliberalismo como ideologia da alienação apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/neoliberalismo-como-ideologia-da-alienacao/",
           "publishedOn": "2026-09-10T17:40:24.000Z",
-          "wordCount": 7777,
+          "wordCount": 7781,
           "title": "Neoliberalismo como ideologia da alienação",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/crowded_carriage_of_a_frota_p_train_sao_paulo_metro.jpg"
         },
@@ -488,7 +538,7 @@
           "description": "A expansão de uma rede de bloqueios militares estabelecidos por Israel na Cisjordânia tem inviabilizado o desenvolvimento de pequenos negócios promovidos pelas famílias palestinas que vivem na região e se transformando em uma forma de estrangulamento da economia local. O cenário foi revelado em reportagem do canal catari Al Jazeera, que mostra como os 925 […]\nO post Governo israelense aumenta bloqueios na Cisjordânia e sufoca economia palestina apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/governo-israelense-aumenta-bloqueios-na-cisjordania-e-sufoca-economia-palestina/",
           "publishedOn": "2026-09-10T17:20:07.000Z",
-          "wordCount": 3756,
+          "wordCount": 3760,
           "title": "Governo israelense aumenta bloqueios na Cisjordânia e sufoca economia palestina",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/block.jpg"
         },
@@ -498,7 +548,7 @@
           "description": "Devido ao “Pânico Vermelho” (pânico anticomunista fabricado pelas classes dominantes) que afeta os EUA desde bem antes do estouro da Guerra Fria na metade do século XX, os trabalhadores estadunidenses tradicionalmente comemoram o “Dia do Trabalho” não no dia 1º de maio, para relembrar os sacrifícios dos mártires sindicais de Chicago, mas na primeira segunda-feira […]\nO post Direitos trabalhistas em xeque no Dia do Trabalho dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/direitos-trabalhistas-em-xeque-no-dia-do-trabalho-dos-eua/",
           "publishedOn": "2026-09-10T17:10:00.000Z",
-          "wordCount": 4579,
+          "wordCount": 4583,
           "title": "Direitos trabalhistas em xeque no Dia do Trabalho dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55477876207_dc2fa8406f_c.jpg"
         },
@@ -508,7 +558,7 @@
           "description": "Organizações de direitos civis latinos e grupos de fiscalização governamental — Common Cause, LULAC e UnidosUS — de Denver entraram com uma ação judicial nesta quinta-feira (10/09) para impedir o governo Donald Trump de permitir que agentes federais de imigração (ICE) armados cumprissem mandados em locais de votação. Esse é o primeiro processo judicial contra […]\nO post Movimentos sociais entram com ação para impedir agentes do ICE em locais de votação nos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/movimentos-sociais-entram-com-acao-para-impedir-agentes-do-ice-em-locais-de-votacao-nos-eua/",
           "publishedOn": "2026-09-10T16:40:14.000Z",
-          "wordCount": 3356,
+          "wordCount": 3360,
           "title": "Movimentos sociais entram com ação para impedir agentes do ICE em locais de votação nos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/ep_21.jpg"
         },
@@ -518,9 +568,26 @@
           "description": "Desde 7 de outubro de 2023, Israel mobilizou todo o seu poder militar para tentar reverter a derrota política, militar e psicológica imposta pela resistência palestina. Para isso, contou com o apoio irrestrito dos Estados Unidos e a cumplicidade militar, diplomática, financeira e logística de governos europeus, regimes árabes e do Marrocos. Mesmo assim, não […]\nO post Israel ocupa, mata e destrói, mas não vence a resistência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/israel-ocupa-mata-e-destroi-mas-nao-vence-a-resistencia/",
           "publishedOn": "2026-09-10T16:30:16.000Z",
-          "wordCount": 4155,
+          "wordCount": 4159,
           "title": "Israel ocupa, mata e destrói, mas não vence a resistência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/flickr_-_israel_defense_forces_-_storming_ahead-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": [
+        {
+          "id": "https://deolhonosruralistas.com.br/?p=32542",
+          "author": "De Olho nos Ruralistas",
+          "description": "Ernildo Júnior foi autuado em 2025 e 2026 pelo Ibama por destruição de vegetação nativa em sítio e fazendas em Serra Branca (PB); alvo da Polícia Federal, empresário opera pedreira sem licença ambiental no município; o caso é tema do segundo episódio da série Brasil Profundo, disponível no YouTube do observatório Por Carolina Bataier Dono […]\nO post Dono da Pixbet tem R$ 11 milhões em multas por desmatar Caatinga apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/09/08/brasil-profundo-pixbet/",
+          "publishedOn": "2026-09-08T21:06:26.000Z",
+          "wordCount": 3627,
+          "title": "Dono da Pixbet tem R$ 11 milhões em multas por desmatar Caatinga",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/09/Desmatamento-pixbet-serra-branca.jpg"
         }
       ]
     },
@@ -545,7 +612,7 @@
           "description": "Enquanto instituto de Karina Gama recebia contratos e emendas do velho Estado, uma cuidadora beneficiária do Bolsa Família e um ex-servente apareciam no papel como empresários; PF apura uso de laranjas.",
           "link": "https://anovademocracia.com.br/produtora-dark-horse-repasses-trabalhadores/",
           "publishedOn": "2026-09-10T20:10:53.000Z",
-          "wordCount": 7451,
+          "wordCount": 7443,
           "title": "PF rastreia R$ 8,5 milhões na rede da produtora de ‘Dark Horse’ e encontra repasses a firmas em nome de trabalhadores pobres",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-29.png"
         },
@@ -555,7 +622,7 @@
           "description": "Novos comunicados denunciam abertura de milhões de hectares à mineração estrangeira, repressão da NTF-ELCAC, avanço da educação corporatizada e miséria ocultada pelas estatísticas do governo Marcos Jr.; organizações juvenis chamam a ampliar a luta revolucionária nas cidades e no campo.",
           "link": "https://anovademocracia.com.br/filipinas-juventude-guerra-pupular-ianque/",
           "publishedOn": "2026-09-10T19:54:07.000Z",
-          "wordCount": 8005,
+          "wordCount": 8003,
           "title": "Filipinas: Revolucionários convocam juventude a intensificar Guerra Popular contra saque ianque e terrorismo de Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-filipinas.png"
         },
@@ -565,7 +632,7 @@
           "description": "Legenda pretende expor os vínculos de Flávio Bolsonaro, embora a PF já tenha feito buscas contra o ex-líder governista no Senado e documentos mostrem como o governo baiano abriu a folha de 280 mil servidores ao negócio que impulsionou Vorcaro. O banqueiro afirmou ainda que eventual delação atingiria o “núcleo do atual governo”.",
           "link": "https://anovademocracia.com.br/pt-sigilo-master-jaques-wagner-rui-costa/",
           "publishedOn": "2026-09-10T19:31:35.000Z",
-          "wordCount": 7437,
+          "wordCount": 7433,
           "title": "PT pede fim do sigilo do caso Master, mas teia de Vorcaro também alcança a falsa esquerda",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-master-4.webp"
         },
@@ -575,7 +642,7 @@
           "description": "A ocupação sionista ampliou os ataques contra Gaza em 8 e 9 de setembro, quando, no intervalo de apenas uma hora, atingiu residências em Al-Shati, Nuseirat e Khan Younis e uma motocicleta na Cidade de Gaza. Na Cisjordânia, Bezalel Smotrich declarou os Acordos de Oslo “nulos” e afirmou que as áreas A e B “também são nossas”, ao mesmo tempo em que tropas cercavam localidades, demoliam estruturas e matavam um combatente da Resistência após horas de confronto em Aqraba. Em Ormuz, o Irã capturou um avançado veículo subaquático não tripulado ianque.",
           "link": "https://anovademocracia.com.br/plantao-palestina-09-09-2026/",
           "publishedOn": "2026-09-10T19:11:21.000Z",
-          "wordCount": 9266,
+          "wordCount": 9262,
           "title": "Plantão Palestina (08–09/09): Ocupação intensifica ataques em Gaza e mata palestinos sob cessar-fogo; Smotrich declara Acordos de Oslo ‘nulos’ e reivindica áreas A e B",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina-1024x576.jpg"
         },
@@ -585,7 +652,7 @@
           "description": "Relatório da PF colocou sob escrutínio contrato de R$ 131 milhões e atuação de Ciro Soares; representantes da Ordem em todo o País também pediram que Gonet não represente a PGR no caso Master.",
           "link": "https://anovademocracia.com.br/oab-df-processo-moraes-elo-vorcaro-gonet/",
           "publishedOn": "2026-09-10T19:07:35.000Z",
-          "wordCount": 7296,
+          "wordCount": 7294,
           "title": "OAB-DF abre processos contra escritório da família de Moraes e suposto elo de Vorcaro com Gonet",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-master-3.webp"
         },
@@ -595,7 +662,7 @@
           "description": "“Devoto platônico” do antigo chefe, o ex-galã é apontado pela PF como “agente central” da engrenagem; sete armas foram apreendidas e Dino o proibiu de sair do País.",
           "link": "https://anovademocracia.com.br/mario-frias-dark-horse-emendas-bolsonaro/",
           "publishedOn": "2026-09-10T18:45:12.000Z",
-          "wordCount": 7355,
+          "wordCount": 7353,
           "title": "PF mira Mário Frias e produtora de ‘Dark Horse’ por suspeita de desviar emendas para filme de Bolsonaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-master-2.webp"
         },
@@ -605,7 +672,7 @@
           "description": "O “patrocínio privado” da cinebiografia de Jair Bolsonaro passou pela empresa do homem que afirma ter movimentado R$ 1,3 bilhão a pedido de Vorcaro e distribuído dinheiro em malas.",
           "link": "https://anovademocracia.com.br/mineiro-delator-vorcaro-filme-bolsonaro/",
           "publishedOn": "2026-09-10T18:33:34.000Z",
-          "wordCount": 7197,
+          "wordCount": 7195,
           "title": "‘Mineiro’ vira delator e pode revelar caminho do dinheiro de Vorcaro até filme do clã Bolsonaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-master-1.jpg"
         },
@@ -615,7 +682,7 @@
           "description": "Conhecido como Hoca e Kazım Cihan, Kutan ingressou na luta revolucionária nos anos 1970, atuou por décadas no movimento maoista da Turquia e do Norte do Curdistão e no Movimento Revolucionário Internacionalista; centenas de pessoas participaram de sua despedida em Rotterdam antes do retorno à terra natal.",
           "link": "https://anovademocracia.com.br/turquia-exilio-maoista-sepultado-dersim/",
           "publishedOn": "2026-09-10T18:20:01.000Z",
-          "wordCount": 7721,
+          "wordCount": 7719,
           "title": "Turquia: Após 47 anos de exílio, quadro histórico maoista Haydar Kutan é sepultado em Dersim",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-10-turquia-1024x576.jpg"
         },
@@ -625,7 +692,7 @@
           "description": "Paralisação atingiu seis portos do norte do país após trabalhadores rejeitarem proposta patronal de 5,1%; Liga Vermelha realizou ações de apoio em Bremen e Bremerhaven.",
           "link": "https://anovademocracia.com.br/alemanha-portuarios-greve-aumento-salarial/",
           "publishedOn": "2026-09-10T17:57:59.000Z",
-          "wordCount": 7013,
+          "wordCount": 7011,
           "title": "Alemanha: 11 mil portuários fazem greve de 48 horas por aumento salarial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Hafenstreik2-2026-BHV1-1024x589.jpg"
         }
