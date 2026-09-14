@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-13T22:19:08.679Z</id>
+    <id>urn:2026-09-14T04:36:20.806Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-09-13T22:19:08.679Z</updated>
+    <updated>2026-09-14T04:36:20.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Farsa Farroupilha]]></title>
+        <id>6aa756547f8ed50598a029d5</id>
+        <link href="https://opoderpopular.com.br/a-farsa-farroupilha/"/>
+        <updated>2026-09-14T02:08:15.000Z</updated>
+        <summary type="html"><![CDATA[José Ernesto Alves Grisa - Prof. Aposentado do IFFarroupilha. Mestre em Sociologia. Militante do PCB em Alegrete/RS
+“As ideias dominantes são as ideias da classe dominante de uma determinada época”, essa frase de Karl Marx nos explica, em muitos contextos, como a ideologia]]></summary>
+        <author>
+            <name>O Poder Popular</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Escócia, País de Gales e Irlanda do Norte pressionam por referendo de independência]]></title>
         <id>https://operamundi.uol.com.br/?p=265573</id>
@@ -841,37 +852,6 @@ Matérias
 O conteúdo Mortes pela polícia em SP atingem maior número para julho em sete anos Pode ser acessado em Ponte Jornalismo.]]></summary>
         <author>
             <name>Mariana Rosetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quando querem destruir a jornalista para apagar a denúncia]]></title>
-        <id>6aa17f747f8ed50598a0293b</id>
-        <link href="https://opoderpopular.com.br/quando-querem-destruir-a-jornalista-para-apagar-a-denuncia/"/>
-        <updated>2026-09-09T15:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Jessica Santos para o Ponte Jornalismo
-Casos recentes envolvendo Natália Viana e Juliana Dal Piva mostram como ameaças, ataques à aparência, sexualização e violência de gênero são usados para tentar desqualificar mulheres que investigam figuras]]></summary>
-        <author>
-            <name>O Poder Popular</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entre a Crise do Presente e os Futuros Perdidos]]></title>
-        <id>6aa17dec7f8ed50598a028c0</id>
-        <link href="https://opoderpopular.com.br/entre-a-crise-do-presente-e-os-futuros-perdidos/"/>
-        <updated>2026-09-09T15:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Gustavo Gustavo, membro do Comitê Regional do Paraná do Partido Comunista Brasileiro (PCB) e militante do Coletivo Negro Minervino de Oliveira. É professor de educação infantil em Pontal do Paraná, licenciado em História e Pedagogia, e pós-graduando em Alternativas para]]></summary>
-        <author>
-            <name>O Poder Popular</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embiras – entre a rua e as redes]]></title>
-        <id>https://passapalavra.info/?p=159779</id>
-        <link href="https://passapalavra.info/2026/09/159779/"/>
-        <updated>2026-09-09T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Cada experiência, inclusive as mais frustrantes, serviu para demonstrar na prática quais caminhos tendem a fortalecer a auto-organização e quais caminhos tendem a enfraquecê-la. Por Embiras]]></summary>
-        <author>
-            <name>Vieira</name>
         </author>
     </entry>
 </feed>
