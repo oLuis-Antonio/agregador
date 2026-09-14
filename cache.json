@@ -182,7 +182,7 @@
         {
           "id": "https://www.esquerdadiario.com.br/Alemanha-Volkswagen-vende-uma-fabrica-a-um-fundo-israelense-para-produzir-armamentos",
           "author": "Elsa Lifour",
-          "description": "Enquanto Ben-Gvir e Katz anunciam um novo salto em sua política genocida em Gaza, a gigante automotiva Volkswagen cede uma de suas fábricas alemãs a um fundo israelense. Em Osnabrück, as linhas de montagem agora produzirão equipamentos militares para um dos três maiores grupos militar-industriais israelenses.\n11-09-2026\n\n/ Internacional, Europa, Alemanha, Demissões, volkswagen, Estado de Israel, Palestina, Faixa de Gaza, Genocídio, Militarização",
+          "description": "Enquanto Ben-Gvir e Katz anunciam um novo salto em sua política genocida em Gaza, a gigante automotiva Volkswagen cede uma de suas fábricas alemãs a um fundo israelense. Em Osnabrück, as linhas de montagem agora produzirão equipamentos militares para um dos três maiores grupos militar-industriais israelenses.\n11-09-2026\n\n/ Internacional, Europa, Alemanha, volkswagen, Estado de Israel, Palestina, Faixa de Gaza, Genocídio, Militarização",
           "link": "https://www.esquerdadiario.com.br/Alemanha-Volkswagen-vende-uma-fabrica-a-um-fundo-israelense-para-produzir-armamentos",
           "publishedOn": "2026-09-12T17:48:19.000Z",
           "wordCount": null,
@@ -298,26 +298,6 @@
           "wordCount": null,
           "title": "A revolta dos bancários contra a burocratização dos sindicatos",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Fachin-quer-estabilizar-a-crise-politica-aberta-com-o-escandalo-do-Banco-Master",
-          "author": "Julia Cardoso",
-          "description": "A novela do escândalo do banco master não para de ganhar novos capítulos. Hoje, quarta-feira (09), vimos o ministro Edson Fachin suspender a decisão de André Mendonça de afastar o diretor-geral da Polícia Federal (PF) e também a tentativa de Flávio Dino de reintegrá-lo. Além disso, Fachin também passou a substituir Moraes na relatoria do Inquérito das Fake News.\nMatérias\n\n/ Política, Poder Judiciário, STF, Assembleia Constituinte Livre e Soberana, Banco Master",
-          "link": "https://www.esquerdadiario.com.br/Fachin-quer-estabilizar-a-crise-politica-aberta-com-o-escandalo-do-Banco-Master",
-          "publishedOn": "2026-09-10T01:15:03.000Z",
-          "wordCount": null,
-          "title": "Fachin quer estabilizar a crise política aberta com o escândalo do Banco Master",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Enquanto-ataca-o-plano-de-saude-de-seus-trabalhadores-Caixa-podera-pagar-mais-de-80-milhoes-para-seus-altos-funcionarios",
-          "author": "Redação",
-          "description": "Assembleia geral extraordinária da Caixa Econômica Federal, feita em 17 de agosto, definiu os valores que poderão ser gastos pela companhia com a remuneração de seus dirigentes. Segundo a decisão, ratificada pela União, controladora do banco, o presidente, diretores e comitê de administração poderão receber até R$ 79,5 milhões referente ao período de abril de 2025 a março de 2026, de acordo com os resultados do banco. Apenas três dias antes, a Caixa havia proposto um ataque bastante forte (…)\n09-09-2026\n\n/ Classe trabalhadora, Bancários, Greve Bancários, CAIXA, Bancos",
-          "link": "https://www.esquerdadiario.com.br/Enquanto-ataca-o-plano-de-saude-de-seus-trabalhadores-Caixa-podera-pagar-mais-de-80-milhoes-para-seus-altos-funcionarios",
-          "publishedOn": "2026-09-09T23:47:42.000Z",
-          "wordCount": null,
-          "title": "Enquanto ataca o plano de saúde de seus trabalhadores, Caixa poderá pagar mais de 80 milhões para seus altos funcionários",
-          "imageUrl": null
         }
       ]
     },
@@ -326,6 +306,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=444785",
+          "author": "Bianca Pyl",
+          "description": "Relatório revela armadilha algorítmica que leva usuário a promessas de ‘saída da CLT’, sucesso no ‘Tigrinho’ e profissionalização das apostas.\nO post Mais de 80% das bets recomendadas pelo Instagram são ilegais apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/14/mais-de-80-das-bets-recomendadas-pelo-instagram-sao-ilegais/",
+          "publishedOn": "2026-09-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mais de 80% das bets recomendadas pelo Instagram são ilegais",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/wide-4.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-4.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=444997",
           "author": "Isabella Mota",
@@ -394,6 +389,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163387",
+          "author": "Jessica Santos",
+          "description": "A trajetória de Francisco Gomes, pai de uma vítima dos Crimes de Maio, mostra por que a Ponte escolhe narrar a democracia e a violência de Estado a partir das pessoas que vivem seus impactos nas bordas do poder\nO conteúdo Da Redação | O jornalismo que não deixa esquecer Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/jornalismo-historias-bordas-violencia-estado/",
+          "publishedOn": "2026-09-14T14:28:23.000Z",
+          "wordCount": 5385,
+          "title": "Da Redação | O jornalismo que não deixa esquecer",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2021/06/Ilustra_artigo_dina_alves_maes_maio_150.jpg"
+        },
+        {
           "id": "https://ponte.org/?p=162495",
           "author": "Paulo Batistella",
           "description": "De Maranguape, no entorno de Fortaleza, a Itaituba, no sudoeste do Pará, facções se apropriam de territórios historicamente violentados pelo Estado e diversificam negócios. Para especialistas, solução passa longe de ter mais cadeias e mortes\nO conteúdo Se o seu candidato propõe outra operação letal, ele não é contra o crime que o Estado organizou Pode ser acessado em Ponte Jornalismo.",
@@ -402,16 +407,6 @@
           "wordCount": 7580,
           "title": "Se o seu candidato propõe outra operação letal, ele não é contra o crime que o Estado organizou",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/crime-organizado-ilustracao-ponte-jornalismo.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=163013",
-          "author": "Mariana Rosetti",
-          "description": "Especialista aponta o enfraquecimento de políticas de controle da atividade policial, como câmeras corporais, como fator de preocupação\nO conteúdo Mortes pela polícia em SP atingem maior número para julho em sete anos Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/mortes-pela-policia-em-sp-atingem-maior-numero-para-julho-em-sete-anos/",
-          "publishedOn": "2026-09-09T17:21:30.000Z",
-          "wordCount": 5871,
-          "title": "Mortes pela polícia em SP atingem maior número para julho em sete anos",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/02/letalidade-policial-brasil-2025-1.webp"
         }
       ]
     },
@@ -449,16 +444,6 @@
           "wordCount": 5364,
           "title": "Por que a guerra? O fracasso econômico e político dos Estados Unidos",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/guerra-trump-eua-estados-unidos.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74679",
-          "author": "Globetrotter",
-          "description": "série de televisão chinesa Perguntando à Vasta Terra (问苍茫, 2023) começa com uma cena em que um jovem Mao Tsé-Tung nada no rio Xiang, que está cheio devido às fortes chuvas. Um pescador grita da margem para o nadador solitário: “Seu tolo, você está pedindo para morrer! O rio está turbulento depois da tempestade — […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/09/09/50-anos-depois-de-mao-um-legado-que-mudou-o-curso-da-historia/",
-          "publishedOn": "2026-09-09T21:59:41.000Z",
-          "wordCount": 4754,
-          "title": "50 anos depois de Mao: um legado que mudou o curso da história",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/mao-tse-tung.webp"
         }
       ]
     },
@@ -468,12 +453,92 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=265627",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente Luiz Inácio Lula da Silva (PT) lidera a corrida presidencial com 36% das intenções de voto no primeiro turno, segundo a pesquisa Quaest divulgada nesta segunda-feira (14/09), enquanto Flávio Bolsonaro (PL) aparece com 31% e Augusto Cury (Avante) com 7%. Na rodada anterior, divulgada em 7 de setembro, Lula também tinha 36%, enquanto […]\nO post Lula lidera primeiro turno e empata com Flávio Bolsonaro no 2º, diz Quaest apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-lidera-primeiro-turno-e-empata-com-flavio-bolsonaro-no-2o-diz-quaest/",
+          "publishedOn": "2026-09-14T14:35:40.000Z",
+          "wordCount": 3616,
+          "title": "Lula lidera primeiro turno e empata com Flávio Bolsonaro no 2º, diz Quaest",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/copia-de-nao-deletar-fotos-pb-breno-redacao-19-e1781976269315.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265621",
+          "author": "Tatiana Carlotti",
+          "description": "Os primeiros-ministros da Escócia, do País de Gales e da Irlanda do Norte se reuniram nesta segunda-feira (14/09), em Cardiff, capital galesa, e assinaram um memorando conjunto em defesa do direito à autodeterminação de suas nações. “Nossas nações têm direito à autodeterminação. Nenhum governo de Westminster tem o direito de bloquear a democracia ou enfraquecer […]\nO post Escócia, Gales e Irlanda do Norte exigem referendos sobre independência do Reino Unido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/escocia-gales-e-irlanda-do-norte-exigem-referendos-sobre-independencia-do-reino-unido/",
+          "publishedOn": "2026-09-14T14:24:57.000Z",
+          "wordCount": 4091,
+          "title": "Escócia, Gales e Irlanda do Norte exigem referendos sobre independência do Reino Unido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/houses_of_parliament_in_2022_cropped.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265613",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente venezuelano, Nicolás Maduro, e sua esposa, Cilia Flores, que foram sequestrados pelos Estados Unidos no início deste ano, expressaram no domingo (13/09) sua gratidão pela demonstração de solidariedade e apoio que receberam durante o difícil período que a primeira-dama atravessa devido aos seus problemas de saúde. “Em nome de Cilia e em meu […]\nO post Maduro e Cilia Flores agradecem solidariedade em meio a problemas de saúde apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/maduro-e-cilia-flores-agradecem-solidariedade-em-meio-a-problemas-de-saude/",
+          "publishedOn": "2026-09-14T14:00:19.000Z",
+          "wordCount": 3391,
+          "title": "Maduro e Cilia Flores agradecem solidariedade em meio a problemas de saúde",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/1079px-president_nicolas_maduro_delivers_end-of-year_message_2025.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265614",
+          "author": "Tatiana Carlotti",
+          "description": "A reunião entre os chanceleres dos países do Golfo, prevista para esta segunda-feira (14/09), em Omã, foi adiada ante a escalada dos confrontos no Iêmen, envolvendo as forças houthis e o governo iemenita, apoiado pela Arábia Saudita. Durante o encontro, seriam apresentados os resultados das negociações entre Irã e Omã para o reestabelecimento de rotas […]\nO post Irã adia reunião sobre Ormuz e nega envolvimento em conflito no Iêmen apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-adia-reuniao-sobre-ormuz-e-nega-envolvimento-em-conflito-no-iemen/",
+          "publishedOn": "2026-09-14T13:21:17.000Z",
+          "wordCount": 3854,
+          "title": "Irã adia reunião sobre Ormuz e nega envolvimento em conflito no Iêmen",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/1403073015291177831248994.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265606",
+          "author": "Tabitha Ramalho",
+          "description": "Os ministros Cristiano Zanin e Gilmar Mendes, do Supremo Tribunal Federal (STF), pediram acesso à íntegra dos dados extraídos do celular do ex-banqueiro Daniel Vorcaro, dono do Banco Master. Os magistrados defendem que todos os integrantes da Corte tenham acesso ao material antes do julgamento marcado para esta terça-feira (15/09), que analisará um relatório da […]\nO post Gilmar Mendes e Zanin pedem à PF acesso à íntegra do celular de Vorcaro; Mendonça é contra apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/gilmar-mendes-e-zanin-pedem-a-pf-acesso-a-integra-do-celular-de-vorcaro-mendonca-e-contra/",
+          "publishedOn": "2026-09-14T12:15:04.000Z",
+          "wordCount": 3635,
+          "title": "Gilmar Mendes e Zanin pedem à PF acesso à íntegra do celular de Vorcaro; Mendonça é contra",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55343677090_75e4858f0b_o.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265584",
+          "author": "Tatiana Carlotti",
+          "description": "O bloco de centro-esquerda, composto por quatro partidos de oposição e liderado pela ex-premiê Magdalena Andersson, lidera por uma margem mínima as eleições legislativas realizadas na Suécia, neste domingo (13/09), e pode vencer a coalizão governista e de direita do premiê Ulf Kristersson. Com mais de 98% dos distritos eleitorais apurados, a centro-esquerda detém 49,5% […]\nO post Eleição acirrada na Suécia aponta vitória da centro-esquerda apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/eleicao-acirrada-na-suecia-aponta-vitoria-da-centro-esquerda/",
+          "publishedOn": "2026-09-14T10:30:11.000Z",
+          "wordCount": 3901,
+          "title": "Eleição acirrada na Suécia aponta vitória da centro-esquerda",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/suecia-wikipedia.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265581",
+          "author": "Tatiana Carlotti",
+          "description": "O ministro da Cultura israelense, Miki Zohar, declarou neste domingo (13/09) que buscará revogar a cidadania de Yuval Abraham e Rachel Szor, diretores do documentário Naza, que recebeu o Prêmio Especial do Júri no Festival de Cinema de Veneza no sábado (12/09), onde foi ovacionado de pé por um período recorde de 25 minutos após […]\nO post Ministro israelense quer tirar cidadania dos diretores de ‘Naza’, documentário premiado em Veneza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/ministro-da-cultura-de-israel-pede-cassacao-da-cidadania-dos-diretores-de-naza/",
+          "publishedOn": "2026-09-14T10:06:50.000Z",
+          "wordCount": 5618,
+          "title": "Ministro israelense quer tirar cidadania dos diretores de ‘Naza’, documentário premiado em Veneza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/naza-diretores.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=265509",
+          "author": "Victor Farinelli",
+          "description": "Com o intuito de levar a extrema direita de volta ao pode no Brasil, o candidato presidencial Flávio Bolsonaro (PL) apresentou, no início da campanha, o plano de governo intitulado “Para o Brasil vencer o atraso”, cujo eixo central é a retomada da agenda econômica que marcou o governo do ex-presidente Jair Bolsonaro (2019-2023). A […]\nO post Programa ultraliberal de Flávio Bolsonaro distorce dados sobre dívida pública e privatizações, dizem especialistas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/programa-ultraliberal-de-flavio-bolsonaro-distorce-dados-sobre-divida-publica-e-privatizacoes-dizem-especialistas/",
+          "publishedOn": "2026-09-14T09:00:33.000Z",
+          "wordCount": 5068,
+          "title": "Programa ultraliberal de Flávio Bolsonaro distorce dados sobre dívida pública e privatizações, dizem especialistas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1-1-d.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=265573",
           "author": "Tatiana Carlotti",
           "description": "Os líderes dos principais partidos independentistas da Escócia, do País de Gales e da Irlanda do Norte irão se reunir nesta segunda-feira (14/09), em Cardiff, para assinar um memorando de entendimento em defesa do direito de suas populações decidirem, por meio de referendos, se querem permanecer no Reino Unido. Pela primeira vez, os partidos favoráveis […]\nO post Escócia, País de Gales e Irlanda do Norte pressionam por referendo de independência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/escocia-pais-de-gales-e-irlanda-do-norte-pressionam-por-referendo-de-independencia/",
           "publishedOn": "2026-09-13T20:45:30.000Z",
-          "wordCount": 4134,
+          "wordCount": 4145,
           "title": "Escócia, País de Gales e Irlanda do Norte pressionam por referendo de independência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/michele-irlanda-do-norte.jpeg"
         },
@@ -483,89 +548,9 @@
           "description": "Os houthis reivindicaram neste domingo (13/09) um ataque com drones e mísseis contra a base militar de Sharurah, no sul da Arábia Saudita. A ofensiva ocorre em meio à ampliação da presença do grupo na costa do Mar Vermelho. O porta-voz militar dos houthis, Yahya Saree, afirmou que a operação contra a base saudita teve […]\nO post Houthis atacam base saudita em meio à escalada de combates no Iêmen apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/houthis-atacam-base-saudita-em-meio-a-escalada-de-combates-no-iemen/",
           "publishedOn": "2026-09-13T19:40:27.000Z",
-          "wordCount": 3518,
+          "wordCount": 3525,
           "title": "Houthis atacam base saudita em meio à escalada de combates no Iêmen",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/houthis-agencia-tasnim.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265558",
-          "author": "Victor Farinelli",
-          "description": "O empresário carioca Pedro Sang, apontado como articulador no Brasil da Rockbridge Network, organização ligada ao trumpismo nos Estados Unidos, passou a atuar dentro da estrutura da campanha presidencial de Flávio Bolsonaro (PL), segundo reportagem publicada neste sábado (12/09) pelo Amado Mundo, dos jornalistas Guilherme Amado e João Pedroso de Campos. De acordo com a […]\nO post Empresários ligados Trump atuam na campanha de Flávio Bolsonaro, diz site apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/empresarios-ligados-trump-atuam-na-campanha-de-flavio-bolsonaro-diz-site/",
-          "publishedOn": "2026-09-13T19:00:50.000Z",
-          "wordCount": 4007,
-          "title": "Empresários ligados Trump atuam na campanha de Flávio Bolsonaro, diz site",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1-flavio.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265553",
-          "author": "Tatiana Carlotti",
-          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou neste domingo (13/09) que todo o material recebido da Justiça de São Paulo no âmbito de uma investigação no caso Dark Horse passe a tramitar com publicidade. A decisão também ordena a transferência para a Polícia Federal (PF) dos celulares, computadores, documentos e dados brutos […]\nO post Dino retira sigilo de investigação da produtora de Dark Horse em SP apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/dino-retira-sigilo-de-investigacao-da-produtora-de-dark-horse-em-sp/",
-          "publishedOn": "2026-09-13T18:20:40.000Z",
-          "wordCount": 4195,
-          "title": "Dino retira sigilo de investigação da produtora de Dark Horse em SP",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/54776974910_27f774db1d_o.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265543",
-          "author": "Tatiana Carlotti",
-          "description": "Relatório da Polícia Federal (PF), divulgado após a quebra de sigilo das investigações relativas ao Banco Master, revela que Eduardo Bolsonaro e seu irmão Flávio, atual candidato à Presidência, pediram uma reunião com o ex-banqueiro Daniel Vorcaro no mesmo dia em que o ex-deputado do PL anunciou que permaneceria nos Estados Unidos. “Flavio B e […]\nO post Irmãos Bolsonaro pediram reunião com Vorcaro no dia da mudança de Eduardo aos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/irmaos-bolsonaro-pediram-reuniao-com-vorcaro-no-dia-da-mudanca-de-eduardo-aos-eua/",
-          "publishedOn": "2026-09-13T17:33:42.000Z",
-          "wordCount": 3473,
-          "title": "Irmãos Bolsonaro pediram reunião com Vorcaro no dia da mudança de Eduardo aos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/flavio-e-eduardo-instagram-do-flavio-bolsonaro.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265534",
-          "author": "Victor Farinelli",
-          "description": "A advogada Fernanda Klitzke, candidata a suplente ao Senado por Santa Catarina pelo Partido dos Trabalhadores (PT), foi vítima de abordagem policial violenta durante uma festa ocorrida na noite deste sábado (12/09), em Jaraguá do Sul, município no norte do Estado. O episódio teve início quando a advogada tentou mediar um conflito após vizinhos se […]\nO post Candidata pelo PT em SC sofre abuso policial e denuncia violência política apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidata-pelo-pt-em-sc-sofre-abuso-policial-e-denuncia-violencia-politica/",
-          "publishedOn": "2026-09-13T16:40:52.000Z",
-          "wordCount": 3371,
-          "title": "Candidata pelo PT em SC sofre abuso policial e denuncia violência política",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1-klitzke.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265537",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente da Rússia, Vladimir Putin, afirmou neste domingo (13/09), durante o encerramento da 18ª Cúpula do BRICS, em Nova Délhi, que o bloco se tornou uma das principais forças da economia mundial, respondendo por 49% do crescimento do Produto Interno Bruto (PIB) global. O líder russo destacou o fortalecimento dos mercados internos dos países […]\nO post Putin exalta BRICS como ‘força motriz’ para construção de ordem mundial mais justa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brics/putin-exalta-brics-como-forca-motriz-para-construcao-de-ordem-mundial-mais-justa/",
-          "publishedOn": "2026-09-13T16:00:02.000Z",
-          "wordCount": 3729,
-          "title": "Putin exalta BRICS como ‘força motriz’ para construção de ordem mundial mais justa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/putin-alexander-kazakov-gabinete-de-informacao-e-imprensa-presidencial-da-russiatass.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265526",
-          "author": "Tatiana Carlotti",
-          "description": "Em seu discurso na cúpula do BRICS, que acontece neste final de semana, em Nova Délhi, o presidente da África do Sul, Cyril Ramaphosa, denunciou a aplicação seletiva do direito internacional e cobrou a responsabilização pelas ‘atrocidades’ cometidas em Gaza, no Sudão e no Irã. O líder sul-africano destacou que, desde a cúpula do BRICS […]\nO post Ramaphosa cobra responsabilização por ‘atrocidades’ em Gaza, Sudão e Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brics/ramaphosa-cobra-responsabilizacao-por-atrocidades-em-gaza-sudao-e-ira/",
-          "publishedOn": "2026-09-13T15:20:32.000Z",
-          "wordCount": 3674,
-          "title": "Ramaphosa cobra responsabilização por ‘atrocidades’ em Gaza, Sudão e Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hsfidkda8aa8_e5-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265524",
-          "author": "Tatiana Carlotti",
-          "description": "Os líderes do grupo BRICS aprovaram no sábado (12/09) uma declaração de 140 pontos abordando as questões globais mais prementes e, entre outras coisas, expressaram a necessidade de o governo dos Estados Unidos encerrar as sanções econômicas, comerciais e financeiras contra Cuba. Entre 1º de março de 2025 e 28 de fevereiro de 2026, a […]\nO post Líderes do BRICS instam EUA a porem fim ao bloqueio contra Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brics/lideres-do-brics-instam-eua-a-porem-fim-ao-bloqueio-contra-cuba/",
-          "publishedOn": "2026-09-13T14:30:37.000Z",
-          "wordCount": 3590,
-          "title": "Líderes do BRICS instam EUA a porem fim ao bloqueio contra Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/cuba-bruno-onu-.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=265220",
-          "author": "Victor Farinelli",
-          "description": "Faltando três semanas para o primeiro turno das eleições presidenciais, a economia começa a ganhar força como tema preponderante das campanhas, já que muitos consiseram que ela é um dos principais fatores responsáveis pelas oscilações nas pesquisas mais recentes, incluindo as que afetam a candidatura do presidente Luiz Inácio Lula da Silva à reeleição. O […]\nO post ‘Economia está bem, mas Governo Lula precisa conectar melhora ao eleitor’, diz economista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-entrevista/economia-esta-bem-mas-governo-lula-precisa-conectar-melhora-ao-eleitor-diz-economista/",
-          "publishedOn": "2026-09-13T13:40:03.000Z",
-          "wordCount": 7945,
-          "title": "‘Economia está bem, mas Governo Lula precisa conectar melhora ao eleitor’, diz economista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/1lula.jpg"
         }
       ]
     },
@@ -581,12 +566,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=232889",
+          "author": "Giovanna Maria",
+          "description": "Atividade ocorre em meio a novas retomadas Guarani-Kaiowá e a recentes ataques contra comunidades indígenas no Mato Grosso do Sul. O seminário relembra os 10 anos da Batalha de Caarapó, discute a repressão à luta pela terra e dá continuidade aos debates realizados na primeira edição, em junho.",
+          "link": "https://anovademocracia.com.br/seminario-luta-pela-terra-caarapo/",
+          "publishedOn": "2026-09-14T10:32:00.000Z",
+          "wordCount": 8055,
+          "title": "II Seminário de Luta pela Terra relembra 10 anos da Batalha de Caarapó em meio a novas retomadas Guarani-Kaiowá no MS",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-11.jpeg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=232886",
           "author": "Redação de AND",
           "description": "Funcionária disse à PF que o senador teria ordenado a queima do manuscrito; o papel, marcado “Câmara”, cita Hugo Motta, Arthur Lira e outros deputados.",
           "link": "https://anovademocracia.com.br/pf-ciro-nogueira-lista-politicos-valores/",
           "publishedOn": "2026-09-13T16:33:10.000Z",
-          "wordCount": 6982,
+          "wordCount": 6990,
           "title": "Promiscuidade na Câmara: PF acha na churrasqueira de Ciro Nogueira lista de políticos e possíveis valores",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-61.png"
         },
@@ -596,7 +591,7 @@
           "description": "Após estudo sobre a farsa eleitoral e o caráter do velho Estado brasileiro, ativistas conformaram um Comitê de Boicote em Brasília e iniciaram ações de propaganda na UnB e em Taguatinga. Novas atividades estão previstas para o decorrer da farsa eleitoral.",
           "link": "https://anovademocracia.com.br/ativistas-conformam-comite-de-boicote-a-farsa-eleitoral-e-realizam-atividades-pelo-distrito-federal/",
           "publishedOn": "2026-09-13T14:44:51.000Z",
-          "wordCount": 8197,
+          "wordCount": 8205,
           "title": "Ativistas conformam Comitê de Boicote à Farsa Eleitoral e realizam atividades pelo Distrito Federal",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-8.jpeg"
         },
@@ -606,7 +601,7 @@
           "description": "Segundo os moradores, a construção da Escola Popular surge da necessidade de mobilizar as massas frente aos inúmeros cortes de direitos que a população local vem sofrendo nos últimos anos.",
           "link": "https://anovademocracia.com.br/trabalhadores-moradores-escola-popular-goiania/",
           "publishedOn": "2026-09-13T13:11:29.000Z",
-          "wordCount": 7396,
+          "wordCount": 7404,
           "title": "Trabalhadores e moradores se mobilizam para a construção de Escola Popular em bairro operário de Goiânia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-55.png"
         },
@@ -616,7 +611,7 @@
           "description": "O rápido avanço das tropas regulares e milicianas do Ansarallah ocorreu menos de 24 horas após a tomada da cidade portuária de Mocha, fundamental para a logística do governo pró-saudita.",
           "link": "https://anovademocracia.com.br/ansarallah-liberta-iemen-bab-el-mandeb/",
           "publishedOn": "2026-09-13T11:43:03.000Z",
-          "wordCount": 7657,
+          "wordCount": 7665,
           "title": "Ansarallah liberta costa oeste do Iêmen e assume controle do Estreito de Bab el-Mandeb",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-54.png"
         },
@@ -624,10 +619,10 @@
           "id": "https://anovademocracia.com.br/?p=232862",
           "author": "Giovanna Maria",
           "description": "Evento reuniu cerca de 100 pessoas e contou com falas de Thiago Ávila, Mansur Peixoto e Fátima Suleiman sobre a Resistência Palestina, o imperialismo e a unidade dos povos. Ao final, AND entrevistou os três participantes sobre o ascenso da luta anti-imperialista.",
-          "link": "https://anovademocracia.com.br/and-thiago-avila-mansur-peixoto-fatima-suleiman/",
+          "link": "https://anovademocracia.com.br/and-thiago-avila-mansur-peixoto-palestina/",
           "publishedOn": "2026-09-13T11:30:00.000Z",
-          "wordCount": 8165,
-          "title": "SP: AND entrevista Thiago Ávila, Mansur Peixoto e Fátima Suleiman em evento pela Resistência Palestina em Ribeirão Preto",
+          "wordCount": 8114,
+          "title": "AND entrevista Thiago Ávila, Mansur Peixoto e Fátima Suleiman em evento pela Resistência Palestina em Ribeirão Preto",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-7.jpeg"
         },
         {
@@ -636,7 +631,7 @@
           "description": "Sessão pública decidirá se relatório da PF sobre Moraes justifica inquérito; longe das câmeras, a casta togada ainda disputa o acesso à prova, e Fachin cobra à PF o paradeiro dos dados de Vorcaro.",
           "link": "https://anovademocracia.com.br/master-cupula-stf-fachin-vorcaro/",
           "publishedOn": "2026-09-12T23:49:52.000Z",
-          "wordCount": 7193,
+          "wordCount": 7201,
           "title": "‘Caixa-preta’ do Master: cúpula do STF abre sessão sob pressão enquanto Fachin cobra paradeiro de dados de Vorcaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-53.png"
         },
@@ -646,7 +641,7 @@
           "description": "As forças de Sanaa avançaram de Mocha até Dhubab e tomaram a ilha estratégica de Mayyun, no interior do Estreito de Bab el-Mandeb, completando o controle sobre uma das principais passagens marítimas do mundo. Na Faixa de Gaza, a ocupação assassinou Mohammed al-Yazouri, membro do Conselho Militar Geral das Brigadas al-Qassam e comandante da Brigada Khan Younis; a Resistência prometeu prosseguir no caminho dos combatentes mortos e afirmou que “milhares de comandantes e combatentes firmes” ocuparão seu lugar.",
           "link": "https://anovademocracia.com.br/plantao-palestina-11-09-2026/",
           "publishedOn": "2026-09-12T21:39:03.000Z",
-          "wordCount": 8743,
+          "wordCount": 8751,
           "title": "Plantão Palestina (10–11/09): Ansarallah toma Mayyun e completa controle sobre Bab el-Mandeb; ocupação assassina comandante da Brigada Khan Younis",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-11-plantao-palestina.jpg"
         },
@@ -656,7 +651,7 @@
           "description": "Dezenas de leitores, apoiadores e amigos do jornal contribuíram para a campanha, reafirmando a força de uma imprensa sustentada pelas massas populares.",
           "link": "https://anovademocracia.com.br/and-bate-meta-para-reconstrucao-de-estudio/",
           "publishedOn": "2026-09-12T02:35:47.000Z",
-          "wordCount": 6926,
+          "wordCount": 6934,
           "title": "Profundo êxito!!! Com amplo apoio popular, AND bate meta de R$ 16 mil para reconstrução de estúdio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/mosaico-apoio-and-1024x576.jpg"
         },
@@ -666,19 +661,9 @@
           "description": "Mensagens reunidas pela PF expõem a depravação moral das classes dominantes reacionárias às quais serve este sistema de Poder: Fábio Faria articulava convites a Alcolumbre, Pacheco e Toffoli para uma festa de Vorcaro com 120 prostitutas; o banqueiro prometia recolher os celulares dos convidados.",
           "link": "https://anovademocracia.com.br/escarnio-festa-vorcaro-mundo-politico/",
           "publishedOn": "2026-09-12T00:49:16.000Z",
-          "wordCount": 7300,
+          "wordCount": 7308,
           "title": "Escárnio: festa depravada de Vorcaro teve 120 prostitutas e figurões do mundo político oficial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/festa-800px.gif"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=232788",
-          "author": "Redação de AND",
-          "description": "Camponeses convocam marcha ao Incra em Porto Velho e cobram regularização, títulos, transparência e atendimento digno. Desde abril, a LCP acusa o superintendente de reter processos de cadeia dominial, favorecer latifundiários e atuar em conluio com o chamado “bando do Jed” e o ex-comandante da PM-RO Régis Braguin.",
-          "link": "https://anovademocracia.com.br/lcp-associacoes-camponesas-renuncia-incra/",
-          "publishedOn": "2026-09-11T22:00:30.000Z",
-          "wordCount": 8499,
-          "title": "‘Renúncia já!’: após denúncias da LCP, associações camponesas de Rondônia ampliam pressão pela saída de Flávio do Incra",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/lcp-ocupacao-incra-rondonia-2013.jpg"
         }
       ]
     },
@@ -839,6 +824,16 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=66467",
+          "author": "Boitempo",
+          "description": "Por que mensagens de ódio circulam tanto? Para Marcos Dantas, culpar o algoritmo é o caminho fácil. As big techs lucram com o ressentimento de quem foi abandonado por décadas de neoliberalismo. A menos de um mês das eleições, o dilema do campo progressista não é apenas tecnológico, mas profundamente político.",
+          "link": "https://blogdaboitempo.com.br/2026/09/14/o-dilema-nao-e-bem-das-redes-sociais-mas-das-causas-do-ressentimento-e-odio-que-elas-disseminam/",
+          "publishedOn": "2026-09-14T10:00:00.000Z",
+          "wordCount": 13615,
+          "title": "O dilema não é bem das “redes sociais”, mas das causas do ressentimento e ódio que elas disseminam",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/camilo-jimenez-qzeno_gq7qa-unsplash-1.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=66545",
           "author": "Boitempo",
           "description": "No último 7 de Setembro, um inflável gigante de André Mendonça dividiu a cena com os de Bolsonaro e Trump. André Castro, André Kanasiro, Jayder Roger, Samuel Araújo e Rilton Filho mostram como o ministro, também pastor, virou depositário das esperanças de uma extrema direita acuada, entre a fé e a disputa no STF.",
@@ -854,7 +849,7 @@
           "description": "Falando sério: vivemos numa república? Ora, a monarquia está muito mais presente nas falas cotidianas do que a república. Aqui, tivemos o rei do futebol e ainda temos a rainha, Marta, uma craque. Rei e rainha... por que essa insistência em nomear assim não só as pessoas que se destacam como excelentes em alguma coisa como as que dominam a produção de certas coisas.",
           "link": "https://blogdaboitempo.com.br/2026/09/11/cultura-inutil-brasil-reis-e-rainhas-em-qualquer-moco/",
           "publishedOn": "2026-09-11T10:00:00.000Z",
-          "wordCount": 13019,
+          "wordCount": 13123,
           "title": "Cultura inútil | Brasil: reis e rainhas em qualquer mocó",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/rbr9269.webp"
         },
