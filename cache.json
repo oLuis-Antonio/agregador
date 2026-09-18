@@ -33,6 +33,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6aada1b1ba0563f768d4ec55",
+          "author": "Diego Cruz",
+          "description": "A proximidade das eleições aumentou, em certos setores do ativismo, uma pressão pelo chamado \"voto útil\". Parte da lógica que é melhor votar no \"mal menor\", no caso pela reeleição de Lula, diante da amea&",
+          "link": "https://opiniaosocialista.com.br/aos-ativistas-que-defendem-o-voto-util-contra-o-bolsonarismo/",
+          "publishedOn": "2026-09-18T20:54:30.000Z",
+          "wordCount": 2692,
+          "title": "Aos ativistas que defendem o “voto útil” contra o bolsonarismo",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Hertz-Dias-PSTU.webp"
+        },
+        {
           "id": "6aac584dba0563f768d4ec1e",
           "author": "CSP Conlutas",
           "description": "Um dia após a inédita sessão do STF (Supremo Tribunal Federal) que começou a debater a crise sem precedentes instalada na Corte, marcada por ataques, denúncias e confrontos diretos entre ministros, setores do sindicalismo classista brasileiro deram um importante passo",
@@ -58,7 +68,7 @@
           "description": "A candidata à vice-presidência da República pelo PSTU, Vanessa Portugal, que compõe a chapa com Hertz Dias, cumpriu agenda de campanha na Paraíba nos dias 11 e 12 de setembro. A atividade faz parte da mobilização do partido para",
           "link": "https://opiniaosocialista.com.br/vanessa-portugal-candidata-a-vice-presidencia-pelo-pstu-faz-campanha-na-paraiba/",
           "publishedOn": "2026-09-17T13:07:53.000Z",
-          "wordCount": 1202,
+          "wordCount": 1198,
           "title": "Vanessa Portugal, candidata à vice-presidência pelo PSTU, faz campanha na Paraíba",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/WhatsApp-Image-2026-09-16-at-16.10.10.webp"
         },
@@ -425,21 +435,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/09/karina-assinaturas-headerfeat.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=444785",
-          "author": "Bianca Pyl",
-          "description": "Relatório revela armadilha algorítmica que leva usuário a promessas de ‘saída da CLT’, sucesso no ‘Tigrinho’ e profissionalização das apostas.\nO post Mais de 80% das bets recomendadas pelo Instagram são ilegais apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/09/14/mais-de-80-das-bets-recomendadas-pelo-instagram-sao-ilegais/",
-          "publishedOn": "2026-09-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Mais de 80% das bets recomendadas pelo Instagram são ilegais",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/09/wide-4.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-4.png"
         }
       ]
     },
@@ -531,7 +526,7 @@
           "description": "m um dia do verão de 1749, Jean-Jacques Rousseau caminhava pelas ruas de Paris quando se deparou com uma questão lançada pela Academia de Dijon: “O progresso das ciências e das artes contribuiu para a purificação e a elevação da moral?” Tratava-se de uma competição intelectual, um convite cortês a filósofos e escritores. No entanto, […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/09/15/rousseau-al-husri-e-a-inteligencia-artificial-progresso-como-declinio/",
           "publishedOn": "2026-09-15T22:44:41.000Z",
-          "wordCount": 3317,
+          "wordCount": 3290,
           "title": "Rousseau, al-Husri e a inteligência artificial: progresso como declínio?",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/inteligencia-artificial-rousseau.webp"
         },
@@ -553,12 +548,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=266178",
+          "author": "Raissa Neves",
+          "description": "No dia 5 de abril de 2009, os leitores da Folha de S. Paulo foram surpreendidos com uma revelação impactante. O periódico estampou em sua primeira página uma ficha policial atribuída a Dilma Rousseff, então ministra-chefe da Casa Civil do governo Lula e já apontada como favorita para ser a candidata do PT à sucessão […]\nO post Forjando um factoide, a ficha policial falsa de Dilma Rousseff apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/forjando-um-factoide-a-ficha-policial-falsa-de-dilma-rousseff/",
+          "publishedOn": "2026-09-18T20:38:34.000Z",
+          "wordCount": 4287,
+          "title": "Forjando um factoide, a ficha policial falsa de Dilma Rousseff",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/dilma_rousseff_no_dops_1970.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266166",
+          "author": "Victor Farinelli",
+          "description": "O presidente da Coreia do Sul, Lee Jae Myung, afirmou nesta sexta-feira (18/09) que não enviará tropas do país ao Oriente Médio para apoiarem os Estados Unidos na guerra contra a República Islâmica do Irã. Em coletiva para a imprensa local, Lee assegurou que “não haverá qualquer mobilização que envolva ou resulte em guerra, posso […]\nO post Coreia do Sul recusa enviar tropas para apoiar EUA em guerra contra Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/coreia-do-sul-recusa-enviar-tropas-para-apoiar-eua-em-guerra-contra-ira/",
+          "publishedOn": "2026-09-18T19:40:09.000Z",
+          "wordCount": 3311,
+          "title": "Coreia do Sul recusa enviar tropas para apoiar EUA em guerra contra Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lee.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266168",
+          "author": "Raissa Neves",
+          "description": "O presidente Luiz Inácio Lula da Silva (PT) vai encontrar o prefeito de Nova York, Zohran Mamdani, na próxima segunda-feira (21/09). O encontro deverá acontecer na residência do embaixador brasileiro na ONU, Sérgio Danesi, durante a passagem de Lula pela cidade no marco da reunião da Assembleia Geral das Nações Unidas. O convite foi feito […]\nO post Lula confirma encontro com Zohran Mamdani às margens da Assembleia Geral da ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-confirma-encontro-com-zohran-mamdani-as-margens-da-assembleia-geral-da-onu/",
+          "publishedOn": "2026-09-18T19:00:10.000Z",
+          "wordCount": 3100,
+          "title": "Lula confirma encontro com Zohran Mamdani às margens da Assembleia Geral da ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/nova-78412b3a.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=266155",
           "author": "Raissa Neves",
           "description": "Chega ao Brasil nas telas dos cinemas o documentário Naza, dirigido pelos cineastas israelenses Rachel Szor e Yuval Abraham, obra que foi exibida recentemente no 83º Festival de Cinema de Veneza, ocasião em que recebeu 25 minutos de aplausos. Sua estreia nas salas brasileiras está marcada para o dia 1º de outubro. A produção cinematográfica, […]\nO post Aclamado em Veneza, documentário sobre Gaza estreia em outubro no Brasil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/aclamado-em-veneza-documentario-sobre-gaza-estreia-em-outubro-no-brasil/",
           "publishedOn": "2026-09-18T18:22:20.000Z",
-          "wordCount": 3043,
+          "wordCount": 3044,
           "title": "Aclamado em Veneza, documentário sobre Gaza estreia em outubro no Brasil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/naza.jpg"
         },
@@ -568,7 +593,7 @@
           "description": "O governo da Argentina anunciou nesta quinta-feira (17/09) a demissão de doze funcionários civis da Quinta de Olivos, residência oficial do presidente do país – similar ao Palácio da Alvorada no Brasil. O palácio tem função diferente da Casa Rosada, que é a sede de trabalho da Presidência argentina. Ademais, todos os demais funcionários civis […]\nO post Milei coloca residência presidencial argentina sob controle das Forças Armadas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/milei-coloca-residencia-presidencial-argentina-sob-controle-das-forcas-armadas/",
           "publishedOn": "2026-09-18T17:30:15.000Z",
-          "wordCount": 3165,
+          "wordCount": 3162,
           "title": "Milei coloca residência presidencial argentina sob controle das Forças Armadas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/olivos.jpg"
         },
@@ -578,7 +603,7 @@
           "description": "A OpenAI, responsável pelo ChatGPT, informou nesta quinta-feira (17/09) ter registrado seis situações “inesperadas ou preocupantes” envolvendo testes com ferramentas de inteligência artificial (IA) nos últimos meses. Segundo a empresa, a ferramenta de IA gerou, por conta própria, comandos diferentes dos que foram determinados ou autorizados por operadores humanos. Em um dos casos, o comando […]\nO post OpenAI diz que ferramentas de IA geraram comando sem autorização humana apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/openai-diz-que-ferramentas-de-ia-geraram-comando-sem-autorizacao-humana/",
           "publishedOn": "2026-09-18T16:51:37.000Z",
-          "wordCount": 3918,
+          "wordCount": 3915,
           "title": "OpenAI diz que ferramentas de IA geraram comando sem autorização humana",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sam-altman.png"
         },
@@ -588,7 +613,7 @@
           "description": "Em comunicado publicado nesta quinta-feira (17/09), o ministro das Relações Exteriores de Cuba, Bruno Rodríguez Parrilla, denunciou as mais recentes sanções impostas pelo governo dos Estados Unidos. Segundo o chanceler, as medidas afetam entidades econômicas, militares e autoridades da nação caribenha, e seriam parte de “uma política deliberada de estrangulamento econômico e punição coletiva”. A […]\nO post Cuba denuncia ‘máximo estrangulamento econômico’ após novas sanções dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cuba-denuncia-maximo-estrangulamento-economico-apos-novas-sancoes-dos-eua/",
           "publishedOn": "2026-09-18T15:33:10.000Z",
-          "wordCount": 3312,
+          "wordCount": 3309,
           "title": "Cuba denuncia ‘máximo estrangulamento econômico’ após novas sanções dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/brp.jpg"
         },
@@ -598,7 +623,7 @@
           "description": "Milhares de iranianos lotaram as ruas de Teerã para manifestar apoio à República Islâmica do Irã, nesta sexta-feira (18/09), durante as mobilizações da campanha “Janfada-ye Iran” (“Sacrifício pelo Irã”), que contou com várias atividades por todo o país. O principal desfile na capital iraniana reuniu 313 mil pessoas e percorreu o trajeto entre a Praça […]\nO post Milhares de iranianos participam de mobilização em apoio à República Islâmica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/milhares-de-iranianos-participam-de-mobilizacao-em-apoio-a-republica-islamica/",
           "publishedOn": "2026-09-18T14:33:08.000Z",
-          "wordCount": 3131,
+          "wordCount": 3128,
           "title": "Milhares de iranianos participam de mobilização em apoio à República Islâmica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/tasnim-moustafa.png"
         },
@@ -608,7 +633,7 @@
           "description": "A ex-porta-voz do presidente da Ucrânia, Volodymyr Zelensky, Iuliia Mendel, afirmou que o líder ucraniano rejeitou ao menos cinco propostas para encerrar a guerra com a Rússia desde 2022. A declaração foi feita em entrevista ao semanário suíço Die Weltwoche, publicada nesta quinta-feira (17/09). “De acordo com as informações que tenho de diversas fontes, ele […]\nO post Ex-porta-voz diz que Zelensky rejeitou cinco propostas de paz desde 2022 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ex-porta-voz-diz-que-zelensky-rejeitou-cinco-propostas-de-paz-desde-2022/",
           "publishedOn": "2026-09-18T13:31:29.000Z",
-          "wordCount": 3510,
+          "wordCount": 3507,
           "title": "Ex-porta-voz diz que Zelensky rejeitou cinco propostas de paz desde 2022",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hsqioftwwaafgz5-scaled.jpg"
         },
@@ -618,39 +643,9 @@
           "description": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (17/07) que o conteúdo do que chamou de “celular secreto” de Daniel Vorcaro ainda deve produzir novas revelações e defendeu que as informações encontradas no aparelho do ex-banqueiro venham a público. Em entrevista à Rádio Itatiaia, durante passagem por Montes Claros (MG), Lula afirmou […]\nO post Lula defende que informações do celular Vorcaro venham a público apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-defende-que-informacoes-do-celular-de-vorcaro-venham-a-publico/",
           "publishedOn": "2026-09-18T11:56:03.000Z",
-          "wordCount": 3694,
+          "wordCount": 3691,
           "title": "Lula defende que informações do celular Vorcaro venham a público",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/lula-india-mc_abr_08072025-20.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266099",
-          "author": "Tatiana Carlotti",
-          "description": "A Embaixada dos EUA no México alertou nesta quinta-feira (17/09) que o governo Trump usará “todas as ferramentas disponíveis” para combater os cartéis e “responsabilizar aqueles que os apoiam”, em uma nova mensagem de pressão sobre o país vizinho. “Continuaremos a colaborar com o México para combater o crime organizado e fortalecer a segurança de […]\nO post EUA exigem ‘medidas adicionais’ do México contra narcotráfico apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eua-exigem-medidas-adicionais-do-mexico-contra-narcotrafico/",
-          "publishedOn": "2026-09-18T10:47:41.000Z",
-          "wordCount": 3195,
-          "title": "EUA exigem ‘medidas adicionais’ do México contra narcotráfico",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/mexico-eleccion-exito01.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266093",
-          "author": "Tatiana Carlotti",
-          "description": "A cooperação em inteligência artificial, supercomputação, tecnologia espacial, satélites, minerais críticos e elementos de terras raras esteve entre os principais temas abordados por Celso Amorim, assessor especial do presidente Luiz Inácio Lula da Silva, durante sua visita a Pequim. Em entrevista exclusiva à teleSUR nesta quinta-feira (17/09), Amorim destacou a possibilidade de ampliar a cooperação […]\nO post Governo chinês ressalta ‘alto nível de confiança política’ com Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/governo-chines-ressalta-alto-nivel-de-confianca-politica-com-brasil/",
-          "publishedOn": "2026-09-18T10:36:54.000Z",
-          "wordCount": 6222,
-          "title": "Governo chinês ressalta ‘alto nível de confiança política’ com Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/xinhua.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266094",
-          "author": "Tatiana Carlotti",
-          "description": "Cerca de 111 milhões de eleitores russos irão escolher os novos 450 representantes da Duma Estatal, a câmara baixa do Parlamento. A  votação começou na manhã desta sexta-feira (18/09) e segue até domingo (20/09). Esta é a primeira eleição parlamentar realizada no país desde o início da guerra na Ucrânia, em fevereiro de 2022. As […]\nO post Russos vão às urnas para eleger deputados da Duma apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/russos-vao-as-urnas-para-eleger-deputados-da-duma/",
-          "publishedOn": "2026-09-18T10:26:58.000Z",
-          "wordCount": 3390,
-          "title": "Russos vão às urnas para eleger deputados da Duma",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/_______vii_.jpg"
         }
       ]
     },
@@ -658,7 +653,18 @@
       "title": "De Olho nos Ruralistas",
       "feedUrl": "https://deolhonosruralistas.com.br/feed/",
       "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://deolhonosruralistas.com.br/?p=32560",
+          "author": "De Olho nos Ruralistas",
+          "description": "O post Cem bandas receberam R$ 6,5 bilhões em dinheiro público desde 2024 apareceu primeiro em De Olho nos Ruralistas.",
+          "link": "https://deolhonosruralistas.com.br/2026/09/18/farras-atualizado/",
+          "publishedOn": "2026-09-18T21:51:26.000Z",
+          "wordCount": 2644,
+          "title": "Cem bandas receberam R$ 6,5 bilhões em dinheiro público desde 2024",
+          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/09/capa-site-farras2.jpeg"
+        }
+      ]
     },
     {
       "title": "A Nova Democracia",
@@ -815,6 +821,56 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3204517",
+          "author": "Lucas Scatolini",
+          "description": "Sua incorporação acrítica e passiva aprofunda a dependência e a lógica colonial. Repetimos o velho papel ao fornecer água e energia para datacenters estrangeiros. A saída não é negar: em vez de meros consumidores, precisamos participar de sua criação – com soberania e \"brasileirismos\"\nThe post Por uma IA à brasileira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/por-uma-ia-a-brasileira/",
+          "publishedOn": "2026-09-18T21:40:20.000Z",
+          "wordCount": 6315,
+          "title": "Por uma IA à brasileira",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/1280x852-brasil-uso-ia-cred-N-Universe-shutter.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204554",
+          "author": "Lucas Scatolini",
+          "description": "Como organizar a autoridade coletiva, em comunidades que desejam superar as relações de dominação? Os resquícios do “velho mundo”: ímpeto de mandar e comodidade de obedecer. A liderança circular. O novo trato com o dinheiro\nThe post A delicada questão do poder nas ecovilas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/pos-capitalismo/a-delicada-questao-do-poder-nas-ecovilas/",
+          "publishedOn": "2026-09-18T21:12:21.000Z",
+          "wordCount": 5580,
+          "title": "A delicada questão do poder nas ecovilas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5003946846614916266.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204515",
+          "author": "Lucas Scatolini",
+          "description": "Na oposição, eles se dizem antissistema. No poder, investem contra as maiorias. Artifício para transitar entre os dois pontos: produzir divisão entre os de baixo, escolhendo alvos como as feministas, os indígenas, os dissidentes de gênero e os muito empobrecidos\nThe post A ultradireita contra os direitos: Exame de uma estratégia appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direita-assanhada/a-ultradireita-contra-os-direitos-exame-de-uma-estrategia/",
+          "publishedOn": "2026-09-18T20:39:04.000Z",
+          "wordCount": 5958,
+          "title": "A ultradireita contra os direitos: Exame de uma estratégia",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/65ccdaf5bd7f2ae9adb00aa33f5e00dfe04851b1-1200x700-1.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204513",
+          "author": "Lucas Scatolini",
+          "description": "Da guerra no Irã à fuga secreta num contêiner, na Turquia, fracassos de Trump se acumulam. Antigos aliados afastam-se. Popularidade despenca e pode levar a desastre eleitoral. Ainda assim, multiplicam-se as explosões de cólera e onipotência… \nThe post A síndrome da impotência arrogante appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/a-sindrome-da-impotencia-arrogante/",
+          "publishedOn": "2026-09-18T20:18:18.000Z",
+          "wordCount": 4747,
+          "title": "A síndrome da impotência arrogante",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5003946846614916246_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204529",
+          "author": "Lucas Scatolini",
+          "description": "No encontro do bloco em Délhi, China e Índia iniciaram aproximação que pode ter enorme impacto geopolítico. Mas pouco se avançou no esforço para buscar alternativas ao dólar. Há enorme expectativa sobre eleições brasileiras\nThe post BRICS: Avanços na política, marcha lenta nas finanças appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/brics-avancos-na-politica-marcha-lenta-nas-financas/",
+          "publishedOn": "2026-09-18T19:07:42.000Z",
+          "wordCount": 5334,
+          "title": "BRICS: Avanços na política, marcha lenta nas finanças",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5003530329276484791_y.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3204519",
           "author": "Lucas Scatolini",
           "description": "Em meio à ditadura, o repórter vive duas reviravoltas. Troca a prestigiada revista Realidade pelo jornal clandestino da Ação Popular. Em paralelo, muda-se para um bairro periférico, num esforço de “revolucionar-se”. Nasce daí curiosa rotina de edição\nThe post <i>Memórias do Jornalismo</i>: Clandestinidade e “Libertação” appeared first on Outras Palavras.",
@@ -830,7 +886,7 @@
           "description": "Em 2026, está em jogo qual interpretação do Brasil será capaz de enfeixar experiências dispersas e dar-lhes sentido comum. É possível disputar valores como liberdade, individualismo e memória para reconquistar o direito de imaginar e construir um futuro diferente?\nThe post Os rumos da política, muito além das urnas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/os-rumos-da-politica-muito-alem-das-urnas/",
           "publishedOn": "2026-09-17T21:52:50.000Z",
-          "wordCount": 4793,
+          "wordCount": 4954,
           "title": "Os rumos da política, muito além das urnas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-17-at-18-52-07-headerjovenspolitica.jpg-imagem-JPEG-888-%C3%97-500-pixels.png"
         },
@@ -860,59 +916,9 @@
           "description": "De Mariátegui a Caio Prado, livro apresenta pensadores que antropofagizaram o marxismo, traduzindo-o conforme suas realidades nacionais. Ao recusarem a cópia de modelos europeus, apoiaram nessa base teórica suas propostas de luta política\nThe post Um olhar sobre o passeio de Marx nas Américas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/um-olhar-sobre-o-passeio-de-marx-nas-americas/",
           "publishedOn": "2026-09-17T20:44:07.000Z",
-          "wordCount": 6384,
+          "wordCount": 6376,
           "title": "Um olhar sobre o passeio de Marx nas Américas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/4999026729649114301.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204373",
-          "author": "Lucas Scatolini",
-          "description": "Porosidade entre milícias e governo vai muito além das armas. Captura  decisões políticas, contratos e recursos. Caso Master, desvios da RioPrevidência e fortalecimento do crime organizado revelam novo patamar\nThe post A “Segurança” dos Bolsonaro exposta no Rio appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/a-seguranca-dos-bolsonaro-exposta-no-rio/",
-          "publishedOn": "2026-09-17T20:31:23.000Z",
-          "wordCount": 4912,
-          "title": "A “Segurança” dos Bolsonaro exposta no Rio",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4999026729649114300_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204371",
-          "author": "Lucas Scatolini",
-          "description": "Alarmados com a presença da China no Brasil, e com possível parceria estratégica entre os dois países, EUA agem para eleger candidato submisso a seus interesses. Mídia brasileira lhes dá eco. Dimensão geopolítica não pode ser desprezada na análise das eleições\nThe post Trump <i>versus</i> Lula appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/trump-versus-lula/",
-          "publishedOn": "2026-09-17T18:39:44.000Z",
-          "wordCount": 5863,
-          "title": "Trump versus Lula",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Lula-e-Trump-e1775342158821.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204300",
-          "author": "Lucas Scatolini",
-          "description": "Governador usa programa educacional como plataforma de campanha ao governo do estado. Ao concentrar investimentos, cria “vitrines administrativas” enquanto precariza maior parte da rede. Unidade em São Roque não tem sequer uma boa biblioteca estruturada\nThe post SP: As anacrônicas “Escolas do Futuro” de Tarcísio appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/desigualdades-mundo/sp-as-anacronicas-escolas-do-futuro-de-tarcisio/",
-          "publishedOn": "2026-09-16T20:09:46.000Z",
-          "wordCount": 4956,
-          "title": "SP: As anacrônicas “Escolas do Futuro” de Tarcísio",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/mperez_school_absence-9c32da6fa0e19805bfe3f474a1b39a44d82faf50-scaled.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204306",
-          "author": "Lucas Scatolini",
-          "description": "O que é o “subsídio invisível” pago pela sociedade para que as plataformas privadas operem, sem regulação alguma? Como ele esvazia a proteção previdenciária e sobrecarrega o SUS? Essencial, debate pode definir políticas necessárias para tributar empresas e proteger trabalhadores\nThe post Quem paga o custo social das empresas-aplicativos? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/quem-paga-o-custo-social-das-empresas-aplicativos/",
-          "publishedOn": "2026-09-16T20:04:26.000Z",
-          "wordCount": 4562,
-          "title": "Quem paga o custo social das empresas-aplicativos?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4997097649383083778_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204228",
-          "author": "Raíssa Araújo Pacheco",
-          "description": "Novo livro provoca: internet, que parecia abrir caminhos democráticos, foi capturada pela ultradireita. O improviso criativo driblava dificuldades, mas virou regra, dispensou mediações e converteu-se em hiperinformalidade, corroendo instituições. Seriam a leitura e a cultura o antídoto?\nThe post Cultura Digital: Os limites da gambiarra appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/cultura-digital-os-limites-da-gambiarra/",
-          "publishedOn": "2026-09-16T18:50:33.000Z",
-          "wordCount": 6888,
-          "title": "Cultura Digital: Os limites da gambiarra",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_4997097649383083759_y1.jpg"
         }
       ]
     },
@@ -974,7 +980,7 @@
           "description": "Continuar falando sobre a Palestina significa, sobretudo, aprender a escutar sem exigir a cada dia uma nova imagem insuportável. Ninguém deveria precisar exibir o corpo de seu filho para voltar a merecer atenção. A criança que procura uma escola, o agricultor impedido de alcançar sua terra e a família que tenta reconstruir uma casa já têm razões suficientes para exigir nossa presença política. Aproximamo-nos dos três anos do 7 de outubro com uma responsabilidade que o “cessar-fogo” não suspendeu. Enquanto a liberdade palestina continuar adiada, não temos o direito de tratar essa história como assunto encerrado.",
           "link": "https://blogdaboitempo.com.br/2026/09/18/7-de-outubro-de-2023-3-anos-depois/",
           "publishedOn": "2026-09-18T11:00:00.000Z",
-          "wordCount": 14373,
+          "wordCount": 14217,
           "title": "7 de outubro de 2023, 3 anos depois",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/hosnysalah-gaza-9387718.jpg?fit=1200%2C800&ssl=1"
         },
@@ -984,7 +990,7 @@
           "description": "Cauana Mestre faz uma resenha de Fúria: \"uma série um tanto disruptiva porque aborda a violência contra mulheres de um jeito que só poderia ser feito hoje, no mundo pós Me too e Epstein, e, no entanto, não faz disso nenhuma agenda e não renuncia a nenhuma complexidade na construção de suas personagens, principalmente as femininas\".",
           "link": "https://blogdaboitempo.com.br/2026/09/17/qual-vitoria-feminista-foi-atingida-sem-furia/",
           "publishedOn": "2026-09-17T15:37:03.000Z",
-          "wordCount": 11241,
+          "wordCount": 11094,
           "title": "Qual vitória feminista foi atingida sem fúria?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/images-2.jpg"
         },
@@ -1017,16 +1023,6 @@
           "wordCount": 12845,
           "title": "Golpe malfeito, parte dois: Boletim de um império descontrolado",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/46698156264_2173dd2281_o.webp"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=66467",
-          "author": "Boitempo",
-          "description": "Por que mensagens de ódio circulam tanto? Para Marcos Dantas, culpar o algoritmo é o caminho fácil. As big techs lucram com o ressentimento de quem foi abandonado por décadas de neoliberalismo. A menos de um mês das eleições, o dilema do campo progressista não é apenas tecnológico, mas profundamente político.",
-          "link": "https://blogdaboitempo.com.br/2026/09/14/o-dilema-nao-e-bem-das-redes-sociais-mas-das-causas-do-ressentimento-e-odio-que-elas-disseminam/",
-          "publishedOn": "2026-09-14T10:00:00.000Z",
-          "wordCount": 13458,
-          "title": "O dilema não é bem das “redes sociais”, mas das causas do ressentimento e ódio que elas disseminam",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/camilo-jimenez-qzeno_gq7qa-unsplash-1.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     }
