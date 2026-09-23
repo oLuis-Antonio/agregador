@@ -43,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6ab42a2bba0563f768d4ed81",
+          "author": "Jeferson Choma",
+          "description": "Neste dia 23 de setembro Coltrane estaria completando 100 anos",
+          "link": "https://opiniaosocialista.com.br/as-impressoes-musicais-de-john-coltrane-em-seu-centenario/",
+          "publishedOn": "2026-09-23T19:51:25.000Z",
+          "wordCount": 1819,
+          "title": "As impressões musicais de John Coltrane em seu centenário",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/COLTRANE_2.webp"
+        },
+        {
           "id": "6ab41e02ba0563f768d4ed61",
           "author": "PSTU Paraná",
           "description": "Qual opção têm os milhões de paranaenses, que vivem uma vida inteira lutando dia após dia pelo básico para sobreviver? As eleições são de fato um momento em que o povo trabalhador pode decidir",
@@ -99,6 +109,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Enfrentar-Tarcisio-e-a-extrema-direita-em-Sao-Paulo-com-independencia-de-classe-e-a-forca-da-nossa",
+          "author": "MRT - Movimento Revolucionário de Trabalhadores",
+          "description": "Em meio a eleições marcadas pela ingerência imperialista e por uma crise histórica no STF e desse regime político podre, é preciso enfrentar Tarcísio de Freitas que lidera as intenções de voto para governador de São Paulo. Tarcísio é representante da mesma política asquerosa de Flávio Bolsonaro, capacho de Donald Trump. Contra toda a extrema direita e o legado dos 4 anos de seu mandato, é preciso confiar em uma alternativa independente da frente ampla e da conciliação, antiburocrática e que aposte na força da nossa classe, das mulheres, negros, LGBTQIAP+ e da juventude que travaram fortes lutas contra as políticas privatistas de Tarcísio.\n23-09-2026\n\n/ Haddad, Extrema direita, Tarcísio de Freitas, São Paulo, Independência de classe, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Enfrentar-Tarcisio-e-a-extrema-direita-em-Sao-Paulo-com-independencia-de-classe-e-a-forca-da-nossa",
+          "publishedOn": "2026-09-23T20:57:15.000Z",
+          "wordCount": null,
+          "title": "Enfrentar Tarcísio e a extrema direita em São Paulo com independência de classe e a força da nossa luta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Entregador-e-baleado-apos-urinar-em-arvore-em-BH-motoboys-protestam",
+          "author": "Redação",
+          "description": "Na capital mineira, nessa quarta-feira (23), motoboys se reuniram em protesto na zona nordeste da cidade contra a violência armada sofrida pelo entregador Arthur Guilherme Martins, baleado duas vezes por um morador da Fernão Dias simplesmente por urinar na rua, na segunda-feira (21). O caso apresenta mais um sintoma da violência e da exploração contra trabalhadores de app, na mesma cidade onde o gari Laudemir foi morto a tiros por empresário enquanto trabalhava. \n Hoje, quarta-feira (23), (…)\nMatérias\n\n/ Classe trabalhadora, Minas Gerais, Entregadores, Belo Horizonte",
+          "link": "https://www.esquerdadiario.com.br/Entregador-e-baleado-apos-urinar-em-arvore-em-BH-motoboys-protestam",
+          "publishedOn": "2026-09-23T19:36:11.000Z",
+          "wordCount": null,
+          "title": "Entregador é baleado após urinar em árvore em BH; motoboys protestam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Furar-o-bloqueio-midiatico-as-greves-da-Caixa-e-dos-Correios-contra-os-ajustes-neoliberais",
           "author": "Redação",
@@ -378,16 +408,6 @@
           "wordCount": null,
           "title": "Denúncia: Trabalhadores terceirizados do achados e perdidos do Metrô de SP estão sem salário e benefícios",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Falta-de-estrutura-leva-a-morte-de-uma-crianca-de-11-anos-no-patio-de-uma-escola-estadual-a",
-          "author": "Diego Nunes",
-          "description": "Uma criança de 11 anos morreu após a trave de uma goleira, solta no pátio de uma escola, cair sobre a sua cabeça, em Caxias do Sul (RS). A precarização mata. Essa foi uma fatalidade, reflexo da falta de investimento na educação pública. Se as escolas estivessem impecáveis, com as goleiras bem presas, prédios bem cuidados e limpos, quadras e telhados sem estruturas comprometidas, etc, esse tipo de acidente com morte poderia ter sido evitado. O estado é responsável! \n Não podemos continuar (…)\n19-09-2026\n\n/ Saúde Mental, precarização, Crise na Educação, Eduardo Leite, Saúde Pública, Trabalhadores da educação, Privatização da Educação, Cortes na Educação, Colapso na Educação",
-          "link": "https://www.esquerdadiario.com.br/Falta-de-estrutura-leva-a-morte-de-uma-crianca-de-11-anos-no-patio-de-uma-escola-estadual-a",
-          "publishedOn": "2026-09-19T12:34:29.000Z",
-          "wordCount": null,
-          "title": "Falta de estrutura leva a morte de uma criança de 11 anos no pátio de uma escola estadual, a precarização mata!",
-          "imageUrl": null
         }
       ]
     },
@@ -455,21 +475,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-13.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445079",
-          "author": "Isabella Mota",
-          "description": "O ministro opera para tumultuar as eleições e blindar Flávio Bolsonaro enquanto o 'doisladismo' da grande imprensa normaliza o ataque à democracia.\nO post Show de horrores no STF: André Mendonça lidera novo plano golpista do bolsonarismo apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/09/19/andre-mendonca-lidera-plano-golpista-bolsonarismo/",
-          "publishedOn": "2026-09-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Show de horrores no STF: André Mendonça lidera novo plano golpista do bolsonarismo",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/09/wide-14.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-14.png"
         }
       ]
     },
@@ -478,6 +483,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=163562",
+          "author": "Mariana Rosetti",
+          "description": "Novo estudo do Justa mostra que, em vários estados, os gastos com polícias e prisões superam a soma dos recursos destinados a áreas como cultura, transporte, habitação, trabalho e assistência social\nO conteúdo Estados gastam mais com polícias e prisões do que com moradia, saneamento e trabalho, aponta estudo Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/estados-gastam-mais-com-policias-e-prisoes-do-que-com-moradia-saneamento-e-trabalho-aponta-estudo/",
+          "publishedOn": "2026-09-23T19:38:22.000Z",
+          "wordCount": 5917,
+          "title": "Estados gastam mais com polícias e prisões do que com moradia, saneamento e trabalho, aponta estudo",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/dinheiro-policial-lucro-juniao-ponte-jornalismo.webp"
+        },
         {
           "id": "https://ponte.org/?p=163573",
           "author": "Catarina Duarte",
@@ -533,14 +548,64 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=266695",
+          "author": "Victor Farinelli",
+          "description": "A Academia Brasileira de Ciências (ABC) e a Sociedade Brasileira para o Progresso da Ciência (SBPC) manifestaram preocupação com a possibilidade de interferência estrangeira no processo eleitoral brasileiro, mais notadamente por parte dos Estados Unidos. O temor expressado pelas entidades é de haver uma interferência de tal modo que afete “a soberania nacional, o funcionamento […]\nO post Comunidade científica brasileira alerta para risco de interferência externa nas eleições apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/comunidade-cientifica-brasileira-alerta-para-risco-de-interferencia-externa-nas-eleicoes/",
+          "publishedOn": "2026-09-23T22:03:05.000Z",
+          "wordCount": 4340,
+          "title": "Comunidade científica brasileira alerta para risco de interferência externa nas eleições",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/urnas.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266692",
+          "author": "Raissa Neves",
+          "description": "Há 55 anos, em meados de setembro de 1971, militantes da Ação Libertadora Nacional (ALN), organização vinculada à luta armada da ditadura militar, incendiavam veículos pertencentes ao jornal Folha de S. Paulo. O ataque aos veículos foi uma reação à alegada colaboração do jornal com os órgãos de repressão da ditadura. Conforme apurado pela Comissão […]\nO post Relações perigosas: a Folha de São Paulo e a ditadura brasileira apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/relacoes-perigosas-a-folha-de-sao-paulo-e-a-ditadura-brasileira/",
+          "publishedOn": "2026-09-23T21:42:19.000Z",
+          "wordCount": 4248,
+          "title": "Relações perigosas: a Folha de São Paulo e a ditadura brasileira",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vlado_herzog_protest.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266680",
+          "author": "Raissa Neves",
+          "description": "Entre janeiro de 2025 e agosto de 2026, mais de 25 mil migrantes foram deportados dos Estados Unidos para outros países. Desse total, cerca de 20 mil foram enviados ao México, que se tornou o principal destino dessas medidas. Os cubanos formam o maior grupo e frequentemente acabam presos em um limbo jurídico e humanitário. […]\nO post ‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/tiraram-tudo-de-mim-investigacao-revela-deportacoes-dos-eua-em-massa-para-mexico/",
+          "publishedOn": "2026-09-23T21:00:11.000Z",
+          "wordCount": 3719,
+          "title": "‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-165030.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266629",
+          "author": "Tabitha Ramalho",
+          "description": "O Comitê Central de Eleições (CEC) de Israel votou nesta quarta-feira (23/09) a favor das petições para desqualificar integralmente a lista conjunta — composta pelos partidos Balad, Hadash e Ta’al —, assim como o partido Ra’am, de Mansour Abbas, da disputa eleitoral de 27 de outubro. A decisão pode ser revista pelo Supremo Tribunal, que […]\nO post Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/comite-eleitoral-de-israel-desqualifica-todos-partidos-arabes-da-disputa-de-outubro/",
+          "publishedOn": "2026-09-23T20:20:50.000Z",
+          "wordCount": 5038,
+          "title": "Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-160923.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266682",
+          "author": "Fernanda Oliveira",
+          "description": "Depois das filas, dos autógrafos e das descobertas entre os estandes, a experiência continua em outro ritmo. O romance aguardado, a coletânea de contos ou o ensaio escolhido por curiosidade passam a disputar tempo com os compromissos diários. Nesse percurso, preparar o ambiente e respeitar o cansaço dos olhos torna a leitura mais agradável. A […]\nO post Depois da Bienal, a leitura continua: o que muda nos olhos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-conteudo/depois-da-bienal-a-leitura-continua-o-que-muda-nos-olhos/",
+          "publishedOn": "2026-09-23T20:07:33.000Z",
+          "wordCount": 3448,
+          "title": "Depois da Bienal, a leitura continua: o que muda nos olhos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/pixnio-725x483-1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=266664",
           "author": "Raissa Neves",
           "description": "O presidente dos Estados Unidos, Donald Trump, convidou o mandatário da Rússia, Vladimir Putin, para participar da próxima cúpula anual do G20, que será realizada em dezembro, em Miami. O secretário de Estado dos EUA, Marco Rubio, informou nesta quarta-feira (23/09) que entregou um convite ao seu homólogo russo, Serguei Lavrov, durante reunião às margens […]\nO post Trump convida Putin para reunião do G20 nos Estados Unidos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trump-convida-putin-para-reuniao-do-g20-nos-estados-unidos/",
           "publishedOn": "2026-09-23T19:19:32.000Z",
-          "wordCount": 3222,
+          "wordCount": 3195,
           "title": "Trump convida Putin para reunião do G20 nos Estados Unidos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/3488058401_e03732e1fb_c.jpg"
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-171343.png"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=266671",
@@ -548,7 +613,7 @@
           "description": "A economia ocidental se vê diante de uma crise de um insumo fundamental, o diesel, após a escalada especulativa fabricada pela guerra de agressão de EUA e Israel contra o Irã. Segundo o Tehran Times, o confronto do Império Decadente contra a República Islâmica criou a tempestade perfeita no setor energético, que agora prejudica os […]\nO post A guerra de Trump e a pressão especulativa sobre o preço do diesel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-guerra-de-trump-e-a-pressao-especulativa-sobre-o-preco-do-diesel/",
           "publishedOn": "2026-09-23T19:10:24.000Z",
-          "wordCount": 5004,
+          "wordCount": 4996,
           "title": "A guerra de Trump e a pressão especulativa sobre o preço do diesel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55545302042_10199e20f8_z.jpg"
         },
@@ -558,7 +623,7 @@
           "description": "Durante discurso na 81ª Assembleia-Geral da Organização das Nações Unidas (ONU), nesta quarta-feira (23/09), o presidente da Argentina, Javier Milei, enfatizou a questão das Ilhas Malvinas, reforçando uma mudança de posição do seu governo, que passou a colocar a reivindicação de soberania sobre o arquipélago em primeiro plano. Segundo o mandatário, as Malvinas “são uma […]\nO post Na ONU, Milei defende soberania argentina sobre Ilhas Malvinas: ‘causa nacional’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/na-onu-milei-defende-soberania-argentina-sobre-ilhas-malvinas-causa-nacional/",
           "publishedOn": "2026-09-23T18:16:38.000Z",
-          "wordCount": 3469,
+          "wordCount": 3458,
           "title": "Na ONU, Milei defende soberania argentina sobre Ilhas Malvinas: ‘causa nacional’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/milei.jpg"
         },
@@ -568,7 +633,7 @@
           "description": "O senador Flávio Bolsonaro acionou o Tribunal Superior Eleitoral (TSE) para impedir que imagens do discurso do presidente Luiz Inácio Lula da Silva (PT) na abertura da 81ª Assembleia Geral das Nações Unidas, ocorrida nesta terça-feira (22/09) em Nova York, sejam usadas em sua campanha eleitoral. A representação foi apresentada por Flávio e seu candidato […]\nO post Flávio Bolsonaro aciona TSE contra uso de imagens de Lula na Assembleia da ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-acusa-lula-de-fazer-campanha-na-onu-e-aciona-tse-contra-uso-de-imagens/",
           "publishedOn": "2026-09-23T17:40:43.000Z",
-          "wordCount": 3291,
+          "wordCount": 3283,
           "title": "Flávio Bolsonaro aciona TSE contra uso de imagens de Lula na Assembleia da ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-22-110758-1.png"
         },
@@ -578,59 +643,9 @@
           "description": "“Ele [Donald Trump] deve saber que a resistência do povo iraniano só aumentará diante das sanções, do aumento da pressão e do aumento da intimidação. Nunca baixaremos a cabeça, nem dobraremos os joelhos”, declarou o presidente iraniano, Masoud Pezeshkian, na 81ª sessão da Assembleia Geral da ONU, nesta quarta-feira (23/09). Pezeshkian mencionou o discurso feito […]\nO post ‘Nunca abaixaremos a cabeça’, afirma presidente do Irã em discurso na ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/nunca-abaixaremos-a-cabeca-afirma-presidente-do-ira-em-discurso-na-onu/",
           "publishedOn": "2026-09-23T16:00:36.000Z",
-          "wordCount": 4488,
+          "wordCount": 4477,
           "title": "‘Nunca abaixaremos a cabeça’, afirma presidente do Irã em discurso na ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-125157.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266637",
-          "author": "Victor Farinelli",
-          "description": "O perfil de Instagram da série de reportagens “Revelando” apareceu fora do ar nesta quarta-feira (23/09), por decisão da empresa Meta, dona da plataforma. A medida foi tomada dois dias depois da publicação no perfil do último teaser da série de reportagens, que divulgava o episódio “Grandes Igrejas, Master Negócios”, cujo sobre os elos do […]\nO post Meta tira do ar perfil de série que ligou Banco Master a evangélicos e Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/meta-tira-do-ar-perfil-de-serie-que-ligou-banco-master-a-evangelicos-e-flavio-bolsonaro/",
-          "publishedOn": "2026-09-23T15:25:45.000Z",
-          "wordCount": 3475,
-          "title": "Meta tira do ar perfil de série que ligou Banco Master a evangélicos e Flávio Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/revelando.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266632",
-          "author": "Tatiana Carlotti",
-          "description": "O co-fundador da Palantir, Peter Thiel, esteve em São Paulo acompanhado de uma comitiva de pelo menos quinze pessoas, revela reportagem da newsletter Noites Húngaras em parceria com a CTRL+Z, divulgada nesta terça-feira (22/09). “A movimentação vale especial atenção por ocorrer às vésperas do processo eleitoral brasileiro e em um momento de expansão dos negócios […]\nO post Fundador da Palantir trouxe comitiva ao Brasil às vésperas das eleições, revela site apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/fundador-da-palantir-trouxe-comitiva-ao-brasil-as-vesperas-das-eleicoes-revela-site/",
-          "publishedOn": "2026-09-23T14:40:13.000Z",
-          "wordCount": 3630,
-          "title": "Fundador da Palantir trouxe comitiva ao Brasil às vésperas das eleições, revela site",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/32215763362_b62ef08e5f_c.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266623",
-          "author": "Tatiana Carlotti",
-          "description": "Pesquisa Atlas/Bloomberg, divulgada nesta quarta-feira (23/09), mostra um movimento de migração de votos válidos, ampliando as intenções de voto em torno das candidaturas do presidente Luiz Inácio Lula da Silva (PT) e do senador Flávio Bolsonaro (PL-RJ). Nas intenções de voto para o primeiro turno, Lula tem 45,8% e Flávio, 43,4%, diferença de 2,4 pontos […]\nO post Atlas/Bloomberg: votos migram para Lula e Flávio e eleição pode ser definida no 1º turno apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/atlas-bloomberg-votos-migram-para-lula-e-bolsonaro-e-eleicao-pode-ser-definida-no-primeiro-turno/",
-          "publishedOn": "2026-09-23T13:30:37.000Z",
-          "wordCount": 3737,
-          "title": "Atlas/Bloomberg: votos migram para Lula e Flávio e eleição pode ser definida no 1º turno",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/20260121090120_bdcfcfa5f37737639cac9e21852cac137f84449e242b6f5f213006a0e8987a47-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266622",
-          "author": "Tabitha Ramalho",
-          "description": "Sem mencionar o sequestro do presidente Nicolás Maduro e de sua esposa, Cilia Flores, a presidente interina da Venezuela, Delcy Rodríguez, descreveu seu encontro na terça-feira (22/09) com o presidente dos EUA, Donald Trump, em Nova York, como “histórico”. “Realizamos um encontro histórico com o presidente dos Estados Unidos, Donald Trump, com quem discutimos o […]\nO post Delcy Rodríguez descreve encontro com Trump como ‘histórico’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-descreve-encontro-com-trump-como-historico/",
-          "publishedOn": "2026-09-23T12:57:59.000Z",
-          "wordCount": 3634,
-          "title": "Delcy Rodríguez descreve encontro com Trump como ‘histórico’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hs3wopkxsaasz1r-e1790169440371.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266618",
-          "author": "Tatiana Carlotti",
-          "description": "Influenciadores ligados ao presidente dos Estados Unidos, Donald Trump, estão divulgando anúncios pagos sobre o crescimento da candidatura de Flávio Bolsonaro no Brasil para apostas na Polymarket, bloqueada desde abril no Brasil. A informação é da Folha de S.Paulo. As publicações na plataforma X são acompanhadas de gráficos da Polymarket, empresa do mercado de previsão […]\nO post Trumpistas divulgam anúncios pagos a favor de Flávio Bolsonaro e empresa de apostas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/trumpistas-divulgam-anuncios-pagos-a-favor-de-flavio-bolsonaro-e-empresa-de-apostas/",
-          "publishedOn": "2026-09-23T12:01:38.000Z",
-          "wordCount": 3831,
-          "title": "Trumpistas divulgam anúncios pagos a favor de Flávio Bolsonaro e empresa de apostas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/17800504906a196a3ad5711_1780050490_3x2_lg.jpg"
         }
       ]
     },
@@ -645,6 +660,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=233473",
+          "author": "Redação de AND",
+          "description": "A inclusão do Partido Comunista do Peru (PCP) nessa lista ocorre precisamente quando o movimento democrático-revolucionário volta a crescer no Peru, em meio ao processo de Reorganização Geral do Partido, que desafia as oligarquias locais de grandes burgueses e latifundiários.",
+          "link": "https://anovademocracia.com.br/eua-lacaios-trump-guerra-contrainsurgente/",
+          "publishedOn": "2026-09-23T21:53:15.000Z",
+          "wordCount": 8167,
+          "title": "EUA e lacaios impõem sanções a pedido de Trump e usam ‘narcoterrorismo’ para articular guerra contrainsurgente na América Latina",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-84.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233460",
+          "author": "Giovanna Maria",
+          "description": "Relatório encaminhado ao AND aborda a participação da IDE Technologies na usina de dessalinização da Praia do Futuro, a situação das famílias atingidas pela obra e o controle da água imposto ao povo palestino.",
+          "link": "https://anovademocracia.com.br/ceara-empresa-israelense-dessalinizacao/",
+          "publishedOn": "2026-09-23T20:00:03.000Z",
+          "wordCount": 7547,
+          "title": "Frente Cearense denuncia participação de empresa israelense na Usina de Dessalinização  do Ceará",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-23-ceara.jpg"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=233470",
           "author": "Giovanna Maria",
@@ -671,7 +706,7 @@
           "description": "Trata-se de uma demonstração prática de que a podridão é multi-institucional, suprapartidária, da extrema direita à falsa esquerda. Afinal, Vorcaro encontrava portas abertas em diferentes partidos e instituições porque o grande capital não está submetido às fronteiras eleitorais com que seus representantes dividem o povo.",
           "link": "https://anovademocracia.com.br/editorial-putrefacao-estado-escandalo-stf/",
           "publishedOn": "2026-09-23T18:25:06.000Z",
-          "wordCount": 8709,
+          "wordCount": 8686,
           "title": "Editorial – Nada pode ser mais simbólico da putrefação do velho Estado e seu sistema político que o escândalo do STF",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-23-editorial-and.jpg"
         },
@@ -691,7 +726,7 @@
           "description": "O latifundiário Sérgio Sussumu Suganuma, conhecido como “Serginho Paredão”, está foragido após ter a prisão preventiva decretada durante o novo julgamento dos assassinatos dos jovens camponeses Alysson Henrique de Sá Lopes, de 23 anos, e Ruan Lucas Hildebrandt de Aguiar, de 18 anos, ocorridos na Fazenda Tucumã, em Cujubim (RO), em 2016.",
           "link": "https://anovademocracia.com.br/chacina-fazenda-tucuma-seginho-julgamento/",
           "publishedOn": "2026-09-23T17:27:09.000Z",
-          "wordCount": 8130,
+          "wordCount": 8111,
           "title": "Dez anos depois da chacina da Fazenda Tucumã, latifundiário ‘Serginho Paredão’ foge de julgamento e PMs são presos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/jovens_desaparecido_e_assassinado_-_lh114_-_cujubim_-_3fev_16-987.jpg"
         },
@@ -701,7 +736,7 @@
           "description": "Organização chama forças anti-imperialistas de todo o mundo a realizarem ações entre 26 de setembro e 3 de outubro contra a repressão do velho Estado bramânico-hindutva indiano aos povos oprimidos da Índia e ao movimento naxalita maoista.",
           "link": "https://anovademocracia.com.br/lai-solidariedade-povo-india-repressao-modi/",
           "publishedOn": "2026-09-23T14:37:25.000Z",
-          "wordCount": 7389,
+          "wordCount": 7366,
           "title": "Liga Anti-imperialista convoca semana de solidariedade internacional ao povo da Índia contra repressão do regime fascista de Modi",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/AIL-STRENGTHEN-THE-INTERNATIONAL-REVOLUTIONARY-SOLIDARITY-WITH-T.mp4",
@@ -716,7 +751,7 @@
           "description": "A paralisação conjunta impôs fortes recuos às administrações das empresas públicas, que tentam acelerar medidas de reestruturação contra os servidores",
           "link": "https://anovademocracia.com.br/trabalhadores-caixa-correios-greve-nacional/",
           "publishedOn": "2026-09-22T23:48:41.000Z",
-          "wordCount": 8124,
+          "wordCount": 8101,
           "title": "Trabalhadores da Caixa e dos Correios mantêm greve nacional contra o arrocho e a retirada de direitos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-83.png"
         },
@@ -726,29 +761,9 @@
           "description": "Índices de rejeição dos principais candidatos e milhões de títulos cancelados revelam crise de legitimidade da farsa eleitoral e afastamento popular das carcomidas instituições do velho Estado.",
           "link": "https://anovademocracia.com.br/rejeicoes-luiz-inacio-flavio-bolsonaro-50/",
           "publishedOn": "2026-09-22T19:49:37.000Z",
-          "wordCount": 7715,
+          "wordCount": 7692,
           "title": "Rejeições a Luiz Inácio e Flávio Bolsonaro chegam a 50% do eleitorado; milhões sequer renovam títulos de eleitor",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/flavio-bolsonaro-luiz-inacio-and-262.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233337",
-          "author": "Redação de AND",
-          "description": "Centenas de camponeses, operários, indígenas, quilombolas e estudantes reuniram-se no Norte de Minas, em 19 de setembro, para celebrar os 20 anos da Ponte da Aliança Operário-Camponesa. Construída em 2006 pelo trabalho voluntário de operários da construção civil e camponeses de 12 comunidades, a obra tornou-se um marco da organização coletiva na região e foi celebrada como marco indelével da Revolução Agrária em curso no País.",
-          "link": "https://anovademocracia.com.br/20-anos-ponte-operario-camponesa-do-povo/",
-          "publishedOn": "2026-09-22T19:08:20.000Z",
-          "wordCount": 12404,
-          "title": "A Aliança Operário-Camponesa em concreto: viva os 20 anos da ponte do povo!",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-19-20-anos-ponte-do-povo-1-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233338",
-          "author": "Redação de AND",
-          "description": "Documento disponível no WikiLeaks registra a circulação internacional de acusações contra o movimento camponês, em meio aos avanços da luta pela terra entre 2005 e 2008.",
-          "link": "https://anovademocracia.com.br/tem-guerrilha-lcp-brasil-embaixada-ianque/",
-          "publishedOn": "2026-09-22T17:49:50.000Z",
-          "wordCount": 8334,
-          "title": "‘Tem guerrilha? A ascensão da LCP no Brasil’: há 18 anos, Embaixada ianque expressava preocupação com Revolução Agrária em telegrama oficial",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/lcp-presidente-gonzalo-2021-9-copia.png"
         }
       ]
     },
@@ -764,23 +779,53 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3204880",
+          "author": "Antonio Martins",
+          "description": "Com programa baseado no Comum – em especial no direito à Moradia – e presença constante nos bairros populares, Die Linke tem chances reais de liderar governo da capital alemã. Há apenas dois anos, partido parecia moribundo. O que mudou?\nThe post Esquerda: As lições da vitória em Berlim appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/esquerda-as-licoes-da-vitoria-em-berlim/",
+          "publishedOn": "2026-09-23T20:21:16.000Z",
+          "wordCount": 4829,
+          "title": "Esquerda: As lições da vitória em Berlim",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/220923-Linke.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204865",
+          "author": "Lucas Scatolini",
+          "description": "Em contrapeso à melhora nos indicadores econômicos, precarização da vida cotidiana, exaustão nos deslocamentos urbanos e comida cara permanecem latentes. Batalha moral nos noticiários distrai a esquerda. Combustível eleitoral requer responder ao sofrimento diário\nThe post As planilhas funcionam, mas os votos não vêm appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
+          "publishedOn": "2026-09-23T20:11:47.000Z",
+          "wordCount": 8230,
+          "title": "As planilhas funcionam, mas os votos não vêm",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972944_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204873",
+          "author": "Lucas Scatolini",
+          "description": "A complexidade não é rentável para as plataformas. A realidade é manipulável, as identidades podem ser moldadas e até o erotismo, território da invenção, é rastreado e monetizado. Como podemos reivindicar o corpo, o prazer e a liberdade diante do poder das máquinas?\nThe post Eros e o fantasma do algoritmo que nos assombra appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/eros-e-o-fantasma-do-algoritmo-que-nos-assombra/",
+          "publishedOn": "2026-09-23T20:06:21.000Z",
+          "wordCount": 3526,
+          "title": "Eros e o fantasma do algoritmo que nos assombra",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972957_x.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3204869",
           "author": "Lucas Scatolini",
           "description": "Crônica da última década. Pessoas fazendo entregas pela manhã, cursos à noite e bicos nos intervalos. O diploma na mão, os olhos cansados e empregos precários. A disponibilidade se tornou eterna; o sujeito, uma marca ambulante. E, “do nada”, é necessário começar novamente\nThe post O trabalho numa sociedade ferida appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/o-trabalho-numa-sociedade-ferida/",
           "publishedOn": "2026-09-23T19:13:00.000Z",
-          "wordCount": 4510,
+          "wordCount": 4588,
           "title": "O trabalho numa sociedade ferida",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972935_w.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3204876",
           "author": "Lucas Scatolini",
-          "description": "Websérie desvela memória, apagamentos e encruzilhadas do povo negro em tradicional bairro da região central de SP. Trajetória do lendário militar que escapou três vezes da forca e foi homenageado por escola de samba é contada em episódio que será exibido neste sábado\nThe post Cinema: Chaguinhas, o santo negro da Liberdade appeared first on Outras Palavras.",
+          "description": "Websérie desvela memória, silenciamentos e encruzilhadas dos povos originários e afro-diaspóricos em tradicional bairro da região central de SP. Trajetória do lendário militar que escapou três vezes da forca e foi homenageado por escola de samba é contada em documentário\nThe post Crônica: Chaguinhas, o santo negro da Liberdade appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/cinema-chaguinhas-o-santo-negro-da-liberdade/",
           "publishedOn": "2026-09-23T18:37:55.000Z",
-          "wordCount": 3751,
-          "title": "Cinema: Chaguinhas, o santo negro da Liberdade",
+          "wordCount": 3765,
+          "title": "Crônica: Chaguinhas, o santo negro da Liberdade",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972921_y.jpg"
         },
         {
@@ -789,7 +834,7 @@
           "description": "Projeções que mostram a Europa no centro e o Norte global acima do resto do mundo já não bastam. E é impossível enxergar o trabalho em plataforma, os indígenas e quilombolas ou a população de rua nas velhas categorias estatísticas. Eis a razão das mudanças\nThe post Pochmann: Por que o IBGE cria novos mapas e estatísticas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/pochmann-por-que-o-ibge-cria-novos-mapas-e-estatisticas/",
           "publishedOn": "2026-09-23T17:17:21.000Z",
-          "wordCount": 4780,
+          "wordCount": 4766,
           "title": "Pochmann: Por que o IBGE cria novos mapas e estatísticas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972894_y.jpg"
         },
@@ -799,7 +844,7 @@
           "description": "Há caminhos para resgatar economias reprimarizadas, trabalho precário e atraso. Requerem ecossistema de empresas públicas, planejamento, quebra de patentes e integração Sul-Sul. Com o Estado à frente – ao contrário do que quer a ultradireita\nThe post Sul Global: o desafio da reindustrialização appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/sul-global-o-desafio-da-reindustrializacao/",
           "publishedOn": "2026-09-22T22:02:39.000Z",
-          "wordCount": 4877,
+          "wordCount": 4880,
           "title": "Sul Global: o desafio da reindustrialização",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5014858919700008224.jpg"
         },
@@ -819,7 +864,7 @@
           "description": "Diante de um reajuste de parcos R$ 91, conservadores provocam: trabalhar para quê? Não enxergam o mercado de trabalho, precarizado e de baixa remuneração. É em resposta a ele que milhões de pessoas acumulam, com perspicácia, o benefício e salários eventuais\nThe post Seria o Bolsa Família um estímulo à preguiça? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/desigualdades-mundo/seria-o-bolsa-familia-um-estimulo-a-preguica/",
           "publishedOn": "2026-09-22T20:33:00.000Z",
-          "wordCount": 6237,
+          "wordCount": 6240,
           "title": "Seria o Bolsa Família um estímulo à preguiça?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5014858919700008204_x.jpg"
         },
@@ -832,36 +877,6 @@
           "wordCount": 5095,
           "title": "Para que Lula escape do cerco financista",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5014858919700008195_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204779",
-          "author": "Lucas Scatolini",
-          "description": "Projeto de conexão entre quatro viadutos do bairro paulistano privilegia a exploração econômica e apaga a memória negra. Qual o sentido de ampliar o espaço público quando ele é dominado por centros de compra o cidadão só é bem-vindo se for consumidor?  \nThe post Esplanada Liberdade: a cidade precisa de mais shopping? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/esplanada-liberdade-a-cidade-precisa-de-mais-shopping/",
-          "publishedOn": "2026-09-22T18:27:57.000Z",
-          "wordCount": 3664,
-          "title": "Esplanada Liberdade: a cidade precisa de mais shopping?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Sem-titulo-5.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204755",
-          "author": "Lucas Scatolini",
-          "description": "Um exército invisível de anotadores de dados começa à beira do campo e chega às Filipinas ou Madagascar. Pressão por metas esgota trabalhadores, que competem com IA. Analistas assistem até a 200 jogos por mês. E casa de apostas capturam dados para vender às maiores Ligas\nThe post Futebol: os trabalhadores precarizados das bets appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/futebol-os-trabalhadores-precarizados-das-bets/",
-          "publishedOn": "2026-09-22T17:36:59.000Z",
-          "wordCount": 5354,
-          "title": "Futebol: os trabalhadores precarizados das bets",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5014858919700008175_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204628",
-          "author": "Lucas Scatolini",
-          "description": "A ascensão da tecnologia gera disputa sobre a gramática que define profissões como a do matemático. Afinal, qual é a sua função? Vai além do “cálculo bruto”? Vaticinar o fim dessa carreira revela-se mais um disfarce para a regressão de direitos do que uma evolução tecnológica\nThe post Os matemáticos estarão extintos com a IA? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/os-matematicos-estarao-extintos-com-a-ia/",
-          "publishedOn": "2026-09-21T21:51:40.000Z",
-          "wordCount": 4629,
-          "title": "Os matemáticos estarão extintos com a IA?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/ai_in_science_math.jpeg"
         }
       ]
     },
