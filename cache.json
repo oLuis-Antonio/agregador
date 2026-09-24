@@ -53,6 +53,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6ab54db2ba0563f768d4eded",
+          "author": "Redação",
+          "description": "Decisão não vai calar ou fazer retroceder a posição do PSTU na defesa incondicional da luta do povo palestino e pela liberdade de expressão",
+          "link": "https://opiniaosocialista.com.br/urgente-julgamento-em-2a-instancia-mantem-condenacao-de-ze-maria-por-critica-ao-estado-de-israel-e-o-genocidio-em-gaza/",
+          "publishedOn": "2026-09-24T16:34:54.000Z",
+          "wordCount": 1232,
+          "title": "Urgente: Julgamento em 2ª instância mantém condenação de Zé Maria por crítica ao Estado de Israel e o genocídio em Gaza",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Ze-Maria-condenado-por-critica-a-Israel.webp"
+        },
+        {
           "id": "6ab42a2bba0563f768d4ed81",
           "author": "Jeferson Choma",
           "description": "Neste dia 23 de setembro Coltrane estaria completando 100 anos",
@@ -68,7 +78,7 @@
           "description": "Qual opção têm os milhões de paranaenses, que vivem uma vida inteira lutando dia após dia pelo básico para sobreviver? As eleições são de fato um momento em que o povo trabalhador pode decidir",
           "link": "https://opiniaosocialista.com.br/eleicoes-no-parana-entre-a-cruz-e-a-espada/",
           "publishedOn": "2026-09-23T19:09:38.000Z",
-          "wordCount": 2476,
+          "wordCount": 2484,
           "title": "Eleições no Paraná: Entre a cruz e a espada?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/texto-parana.webp"
         },
@@ -93,12 +103,22 @@
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/greves.webp"
         },
         {
+          "id": "6ab52c44ba0563f768d4edd1",
+          "author": "PSTU-BA",
+          "description": "As eleições de 2026 acontecem em um cenário de aprofundamento da crise social, econômica e ambiental do capitalismo. Enquanto a maioria do povo trabalhador enfrenta o desemprego, a precarização do trabalho, a violência, a destruição",
+          "link": "https://opiniaosocialista.com.br/bahia-defendemos-hertz-dias-pstu-para-presidente-e-o-voto-critico-nas-candidaturas-da-up/",
+          "publishedOn": "2026-09-23T02:02:00.000Z",
+          "wordCount": 1443,
+          "title": "Bahia: Defendemos Hertz Dias (PSTU) para presidente e o voto crítico nas candidaturas da UP",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Hertz-Dias-e-Vanessa-Portugal.webp"
+        },
+        {
           "id": "6ab1715cba0563f768d4eced",
           "author": "CSP Conlutas",
           "description": "A campanha pela absolvição do dirigente político José Maria de Almeida, o Zé Maria, condenado em primeira instância por se posicionar a favor do povo palestino e denunciar o genocídio cometido por Israel, tem dias decisivos nesta semana. Na",
           "link": "https://opiniaosocialista.com.br/julgamento-em-2a-instancia-de-ze-maria-e-quinta-todos-ao-trf-3-defender-a-palestina-nao-e-crime/",
           "publishedOn": "2026-09-21T18:06:52.000Z",
-          "wordCount": 1507,
+          "wordCount": 1521,
           "title": "Julgamento em 2ª instância de Zé Maria é quinta: todos ao TRF-3! Defender a Palestina não é crime!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Ze-Maria--3-.webp"
         }
@@ -347,6 +367,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445133",
+          "author": "Mauricio Moraes",
+          "description": "Gestão de Ricardo Nunes chegou a prorrogar contrato após ICB enviar documentos com endereços incorretos. ONG é presidida por Karina Ferreira da Gama, dona da produtora de ‘Dark Horse’.\nO post Prefeitura de SP aprovou planilha de ONG ligada a ‘Dark Horse’ que indica ponto de Wi-Fi em praia carioca apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/24/prefeitura-sp-aprovou-planilha-ong-dark-horse-indica-wi-fi-praia-carioca/",
+          "publishedOn": "2026-09-24T16:31:06.000Z",
+          "wordCount": null,
+          "title": "Prefeitura de SP aprovou planilha de ONG ligada a ‘Dark Horse’ que indica ponto de Wi-Fi em praia carioca",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/nunes-karina-wifi-ilha-paqueta-header.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/nunes-karina-wifi-ilha-paqueta-header.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445120",
           "author": "Isabella Mota",
           "description": "A elevação de magistrados e políticos à condição de heróis ou vilões oculta as forças econômicas e geopolíticas que realmente regem o espetáculo do poder.\nO post André Mendonça é o novo mito da direita brasileira apareceu primeiro em Intercept Brasil.",
@@ -414,12 +449,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163549",
+          "author": "Catarina Duarte",
+          "description": "Ao longo de seis reportagens, Ponte reuniu recomendações de especialistas, movimentos sociais e jovens para ampliar o debate sobre segurança pública\nO conteúdo Dez propostas para pensar a segurança pública nas eleições Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/dez-propostas-para-pensar-a-seguranca-publica-nas-eleicoes/",
+          "publishedOn": "2026-09-24T18:17:06.000Z",
+          "wordCount": 5716,
+          "title": "Dez propostas para pensar a segurança pública nas eleições",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/urna-eleicoes-arte-juniao.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163562",
           "author": "Mariana Rosetti",
           "description": "Novo estudo do Justa mostra que, em vários estados, os gastos com polícias e prisões superam a soma dos recursos destinados a áreas como cultura, transporte, habitação, trabalho e assistência social\nO conteúdo Estados gastam mais com polícias e prisões do que com moradia, saneamento e trabalho, aponta estudo Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/estados-gastam-mais-com-policias-e-prisoes-do-que-com-moradia-saneamento-e-trabalho-aponta-estudo/",
           "publishedOn": "2026-09-23T19:38:22.000Z",
-          "wordCount": 5917,
+          "wordCount": 5857,
           "title": "Estados gastam mais com polícias e prisões do que com moradia, saneamento e trabalho, aponta estudo",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/08/dinheiro-policial-lucro-juniao-ponte-jornalismo.webp"
         },
@@ -488,106 +533,112 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=266730",
-          "author": "Tatiana Carlotti",
-          "description": "Em seu discurso durante Assembleia Geral das Nações Unidas, o primeiro-ministro da Espanha, Pedro Sánchez, denunciou a tentativa “planejada e coordenada” de desmantelamento da ordem multilateral e acusou governos “reacionários” de violarem regras internacionais, promover guerras ilegais e atacar as instituições multilaterais, criadas após a Segunda Guerra Mundial. “Subo a esta tribuna com um único […]\nO post Premiê espanhol denuncia ofensiva ‘planejada e coordenada’ de demolição da ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/premie-espanhol-denuncia-ofensiva-planejada-e-coordenada-de-demolicao-da-onu/",
-          "publishedOn": "2026-09-24T13:10:40.000Z",
-          "wordCount": 3868,
-          "title": "Premiê espanhol denuncia ofensiva ‘planejada e coordenada’ de demolição da ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sanchez-reproducao-vido-onu.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266720",
+          "id": "https://operamundi.uol.com.br/?p=266783",
           "author": "Tabitha Ramalho",
-          "description": "A presidenta em exercício da Venezuela, Delcy Rodríguez, discursou na 81ª Assembleia Geral da Organização das Nações Unidas, em Nova York, nesta quarta-feira (23/09). Em sua intervenção, a chefe do Executivo venezuelano não mencionou o presidente Nicolás Maduro, que segue sequestrado em uma prisão estadunidense, e chamou agressão militar do dia 3 de janeiro de […]\nO post Na ONU, Delcy Rodríguez não menciona Maduro e minimiza ataque dos EUA: ‘confrontação agudizada’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/na-onu-delcy-rodriguez-nao-menciona-maduro-e-minimiza-ataque-dos-eua-confrontacao-agudizada/",
-          "publishedOn": "2026-09-24T12:20:08.000Z",
-          "wordCount": 4775,
-          "title": "Na ONU, Delcy Rodríguez não menciona Maduro e minimiza ataque dos EUA: ‘confrontação agudizada’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/delcy-na-onu-prensa-presidencial-ve-bf490647-2048x1533-1.webp"
+          "description": "Dezenas de delegações, incluindo os representantes do Brasil, saíram do salão da 81ª Assembleia Geral da ONU, nesta quinta-feira (24/09), quando o primeiro-ministro israelense, Benjamin Netanyahu, subiu ao pódio. O protesto também ocorreu no ano passado. Enquanto opositores vaiaram, os sionistas e apoiadores de Tel Aviv cantaram “Am Yisrael Chai”, um refrão popular que significa […]\nO post Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/ao-lado-de-outras-delegacoes-brasil-deixa-plenaria-durante-discurso-de-netanyahu-na-onu/",
+          "publishedOn": "2026-09-24T18:57:36.000Z",
+          "wordCount": 4960,
+          "title": "Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-151439.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=266718",
-          "author": "Tatiana Carlotti",
-          "description": "O senador Flávio Bolsonaro (PL-RJ) viajou em janeiro de 2025, acompanhado da mulher e das duas filhas, em um jatinho que tinha entre seus proprietários uma empresa da qual Daniel Vorcaro, ex-dono do Banco Master, era sócio. A informação foi revelada pela revista piauí, que identificou a aeronave a partir do cruzamento de registros de […]\nO post Flávio Bolsonaro voou em jatinho de Daniel Vorcaro, revela revista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/nas-asas-do-master-flavio-bolsonaro-voou-em-jatinho-de-daniel-vorcaro-revela-revista/",
-          "publishedOn": "2026-09-24T11:52:46.000Z",
-          "wordCount": 3731,
-          "title": "Flávio Bolsonaro voou em jatinho de Daniel Vorcaro, revela revista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/orebn.webp"
+          "id": "https://operamundi.uol.com.br/?p=266773",
+          "author": "Raissa Neves",
+          "description": "O ministro da Fazenda, Dario Durigan, disse nesta quinta-feira (24/09) que Antônio Carlos Freixo Júnior, o “Mineiro”, dono da Entre Investimentos, recebeu dinheiro do crime organizado. A Entre tem participação no financiamento de Dark Horse, filme que conta a vida do ex-presidente Jair Bolsonaro e que teve recursos do Banco Master, de Daniel Vorcaro. A […]\nO post Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/financiador-do-filme-dark-horse-recebeu-dinheiro-do-crime-organizado-diz-ministro/",
+          "publishedOn": "2026-09-24T18:00:24.000Z",
+          "wordCount": 3031,
+          "title": "Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/0d9a5358.webp"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=266710",
-          "author": "Tatiana Carlotti",
-          "description": "O Partido dos Trabalhadores (PT) acionou o Supremo Tribunal Federal (STF) para investigar uma possível interferência estrangeira nas eleições brasileiras e apontou suspeitas de uma articulação envolvendo recursos, operações digitais e ações políticas que poderiam favorecer a candidatura do senador Flávio Bolsonaro (PL-RJ). No Tribunal Superior Eleitoral (TSE), a legenda apresentou uma ação em que […]\nO post Ação no STF detalha possível interferência dos EUA nas eleições do Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/acao-no-stf-detalha-possivel-interferencia-dos-eua-nas-eleicoes-do-brasil/",
-          "publishedOn": "2026-09-24T10:59:32.000Z",
-          "wordCount": 4497,
-          "title": "Ação no STF detalha possível interferência dos EUA nas eleições do Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/eduardo-j.d.-vance-flavio-e-figueiredo-1536x864-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266703",
-          "author": "Tatiana Carlotti",
-          "description": "A Justiça dos Estados Unidos ordenou, em decisão liminar, nesta quinta-feira (24/09) o restabelecimento do acesso das emissoras CNN e MSNBC e do jornal Politico à Casa Branca. O presidente Donald Trump havia retirado as credenciais de jornalistas que trabalham para esses veículos alegando questões de segurança. Indicado por Trump em 2017 e responsável por ordenar […]\nO post Justiça libera entrada de jornais barrados por Trump na Casa Branca apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/justica-libera-entrada-de-jornais-barrados-por-trump-na-casa-branca/",
-          "publishedOn": "2026-09-24T10:28:49.000Z",
-          "wordCount": 3863,
-          "title": "Justiça libera entrada de jornais barrados por Trump na Casa Branca",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/castigo-politico-de-trump-contra-exportaciones-de-brasil-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266699",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente chinês Xi Jinping desembarcou nesta na quarta-feira (23/09) na Base Aérea Conjunta Andrews, nos arredores de Washington, D.C., para sua primeira visita de Estado aos Estados Unidos em mais de uma década, numa tentativa de amenizar as crescentes tensões entre as duas maiores economias do mundo. Acompanhado de sua esposa, Peng Liyuan, o […]\nO post Xi Jinping e Trump encontram-se em Washington; trégua tarifária é prorrogada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/xi-jinping-e-trump-encontram-se-em-washington-tregua-tarifaria-e-prorrogada/",
-          "publishedOn": "2026-09-24T10:05:36.000Z",
-          "wordCount": 3687,
-          "title": "Xi Jinping e Trump encontram-se em Washington; trégua tarifária é prorrogada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/5mhwjenxibtlefug.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266695",
+          "id": "https://operamundi.uol.com.br/?p=266774",
           "author": "Victor Farinelli",
-          "description": "A Academia Brasileira de Ciências (ABC) e a Sociedade Brasileira para o Progresso da Ciência (SBPC) manifestaram preocupação com a possibilidade de interferência estrangeira no processo eleitoral brasileiro, mais notadamente por parte dos Estados Unidos. O temor expressado pelas entidades é de haver uma interferência de tal modo que afete “a soberania nacional, o funcionamento […]\nO post Comunidade científica brasileira alerta para risco de interferência externa nas eleições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/comunidade-cientifica-brasileira-alerta-para-risco-de-interferencia-externa-nas-eleicoes/",
-          "publishedOn": "2026-09-23T22:03:05.000Z",
-          "wordCount": 4330,
-          "title": "Comunidade científica brasileira alerta para risco de interferência externa nas eleições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/urnas.jpg"
+          "description": "Em carta enviada à Casa Branca, um grupo de 31 parlamentares dos Estados Unidos pediu ao governo do presidente Donald Trump explicações sobre medidas tomadas pelo país com relação ao Brasil, com questionamentos sobre possíveis interferências nas eleições presidenciais do país. O documento é assinado por 30 membros da Câmara de Representantes (câmara baixa dos […]\nO post Bernie Sanders e 30 democratas questionam Trump sobre interferência eleitoral no Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/bernie-sanders-e-30-democratas-questionam-trump-sobre-interferencia-eleitoral-no-brasil/",
+          "publishedOn": "2026-09-24T17:20:27.000Z",
+          "wordCount": 3514,
+          "title": "Bernie Sanders e 30 democratas questionam Trump sobre interferência eleitoral no Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sanders.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=266692",
-          "author": "Raissa Neves",
-          "description": "Há 55 anos, em meados de setembro de 1971, militantes da Ação Libertadora Nacional (ALN), organização vinculada à luta armada da ditadura militar, incendiavam veículos pertencentes ao jornal Folha de S. Paulo. O ataque aos veículos foi uma reação à alegada colaboração do jornal com os órgãos de repressão da ditadura. Conforme apurado pela Comissão […]\nO post Relações perigosas: a Folha de São Paulo e a ditadura brasileira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/relacoes-perigosas-a-folha-de-sao-paulo-e-a-ditadura-brasileira/",
-          "publishedOn": "2026-09-23T21:42:19.000Z",
-          "wordCount": 4238,
-          "title": "Relações perigosas: a Folha de São Paulo e a ditadura brasileira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vlado_herzog_protest.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266680",
-          "author": "Raissa Neves",
-          "description": "Entre janeiro de 2025 e agosto de 2026, mais de 25 mil migrantes foram deportados dos Estados Unidos para outros países. Desse total, cerca de 20 mil foram enviados ao México, que se tornou o principal destino dessas medidas. Os cubanos formam o maior grupo e frequentemente acabam presos em um limbo jurídico e humanitário. […]\nO post ‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/tiraram-tudo-de-mim-investigacao-revela-deportacoes-dos-eua-em-massa-para-mexico/",
-          "publishedOn": "2026-09-23T21:00:11.000Z",
-          "wordCount": 3709,
-          "title": "‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-165030.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266629",
+          "id": "https://operamundi.uol.com.br/?p=266768",
           "author": "Tabitha Ramalho",
-          "description": "O Comitê Central de Eleições (CEC) de Israel votou nesta quarta-feira (23/09) a favor das petições para desqualificar integralmente a lista conjunta — composta pelos partidos Balad, Hadash e Ta’al —, assim como o partido Ra’am, de Mansour Abbas, da disputa eleitoral de 27 de outubro. A decisão pode ser revista pelo Supremo Tribunal, que […]\nO post Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/comite-eleitoral-de-israel-desqualifica-todos-partidos-arabes-da-disputa-de-outubro/",
-          "publishedOn": "2026-09-23T20:20:50.000Z",
-          "wordCount": 5028,
-          "title": "Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-160923.png"
+          "description": "A defesa do ex-presidente Jair Bolsonaro desistiu, nesta quinta-feira (24/09), do pedido de medida cautelar apresentado ao Supremo Tribunal Federal (STF) para suspender a execução da pena de 27 anos e três meses de prisão à qual foi condenado por liderar uma tentativa de golpe de Estado. O pedido também havia sido apresentado hoje ao […]\nO post Defesa de Bolsonaro desiste de pedido para suspender pena no caso do golpe apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/defesa-de-bolsonaro-desiste-de-pedido-para-suspender-pena-no-caso-do-golpe/",
+          "publishedOn": "2026-09-24T16:43:38.000Z",
+          "wordCount": 3330,
+          "title": "Defesa de Bolsonaro desiste de pedido para suspender pena no caso do golpe",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/14092025-pzzb3313.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266762",
+          "author": "Tatiana Carlotti",
+          "description": "A Marinha dos Estados Unidos confirmou oito tentativas de suicídio entre os militares que integraram o grupo de ataque do porta-aviões USS Abraham Lincoln, que esteve em operação durante nove meses na guerra contra o Irã. “Desde o início da missão do Lincoln, houve um total de oito tentativas de suicídio em todo o grupo […]\nO post EUA: Marinha confirma oito tentativas de suicídio em porta-aviões durante guerra no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-marinha-confirma-oito-tentativas-de-suicidio-em-porta-avioes-durante-guerra-no-ira/",
+          "publishedOn": "2026-09-24T16:40:13.000Z",
+          "wordCount": 3316,
+          "title": "EUA: Marinha confirma oito tentativas de suicídio em porta-aviões durante guerra no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/uss_abraham_lincoln_cvn-72_underway_in_the_south_china_sea_on_8_may_2006_060508-n-4166b-030.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266747",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente palestino, Mahmoud Abbas, iniciou seu discurso nesta quinta-feira (24/09) na 81ª Assembleia Geral da ONU e denunciou a decisão dos Estados Unidos de negar vistos a funcionários da Autoridade Palestina pelo segundo ano consecutivo, às vésperas da reunião anual de alto nível em Nova York. “Rejeitamos essas medidas punitivas ilegais, bem como as […]\nO post Líder da Autoridade Palestina denuncia violência israelense na ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/guerra-genocida-lider-da-autoridade-palestina-denuncia-violencia-israelense-na-onu/",
+          "publishedOn": "2026-09-24T16:00:02.000Z",
+          "wordCount": 4041,
+          "title": "Líder da Autoridade Palestina denuncia violência israelense na ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-112632.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266756",
+          "author": "Victor Farinelli",
+          "description": "Os presidentes da China, Xi Jinping, e dos Estados Unidos, Donald Trump, fizeram declarações à imprensa no início da reunião bilateral realizada nesta quinta-feira (23/09). O encontro na Casa Branca acontece durante visita do mandatário chinês ao país norte-americano, que também contemplará sua intervenção na 81ª Assembleia-Geral da Organização das Nações Unidas (ONU), em Nova […]\nO post Trump recebe Xi na Casa Branca e afirma que países estão ‘trabalhado juntos’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/diplomacia/trump-recebe-xi-na-casa-branca-e-afirma-que-paises-estao-trabalhado-juntos/",
+          "publishedOn": "2026-09-24T15:35:59.000Z",
+          "wordCount": 3703,
+          "title": "Trump recebe Xi na Casa Branca e afirma que países estão ‘trabalhado juntos’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/casa-branca.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266742",
+          "author": "Tatiana Carlotti",
+          "description": "Companhias aéreas iranianas enfrentam uma série de suspensões e cancelamentos de voos internacionais após os Estados Unidos ameaçarem impor sanções secundárias a  aeroportos, empresas e prestadoras de serviço que permitam o pouso de aeronaves do Irã. A ofensiva ocorre após o governo dos Estados Unidos ampliar as sanções inicialmente impostas à Mahan Air e à […]\nO post Companhias aéreas e aeroportos suspendem voos iranianos após ameaça de sanção dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/companhias-aereas-e-aeroportos-suspendem-voos-iranianos-apos-ameaca-de-sancao-dos-eua/",
+          "publishedOn": "2026-09-24T15:20:32.000Z",
+          "wordCount": 3523,
+          "title": "Companhias aéreas e aeroportos suspendem voos iranianos após ameaça de sanção dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/mahan_air_airbus_a320_kvw.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266741",
+          "author": "Tabitha Ramalho",
+          "description": "O governo do presidente Donald Trump voltou a impedir o acesso de jornalistas de veículos de comunicação à Casa Branca nesta quinta-feira (24/09), apesar de uma decisão judicial que havia anulado a proibição imposta nos últimos dias contra o Político, a MSNBC e a CNN. Segundo a própria CNN, repórteres do Politico, da MSNBC e […]\nO post Governo Trump ignora decisão da justiça e barra jornalistas na Casa Branca apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/governo-trump-ignora-decisao-da-justica-e-barra-jornalistas-na-casa-branca/",
+          "publishedOn": "2026-09-24T14:35:28.000Z",
+          "wordCount": 3315,
+          "title": "Governo Trump ignora decisão da justiça e barra jornalistas na Casa Branca",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55528053811_23c86efa18_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266733",
+          "author": "Tabitha Ramalho",
+          "description": "A campanha do presidente Luiz Inácio Lula da Silva lançou uma nova peça eleitoral com uma versão adaptada da música Lo Que Le Pasó a Hawaii, de Bad Bunny, do álbum Débi Tirar Más Fotos, vencedor do Grammy. Segundo a campanha, a equipe do artista porto-riquenho confirmou a autorização para o uso da música. O […]\nO post Bad Bunny libera música para campanha de Lula sobre soberania nacional apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/bad-bunny-autoriza-campanha-de-lula-a-usar-musica-em-peca-sobre-soberania-nacional/",
+          "publishedOn": "2026-09-24T13:50:47.000Z",
+          "wordCount": 3604,
+          "title": "Bad Bunny libera música para campanha de Lula sobre soberania nacional",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/copia-de-nao-deletar-fotos-pb-breno-redacao-3.png"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -595,14 +646,99 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=233480",
+          "author": "Editor Executivo",
+          "description": "No dia 3 de setembro, estudantes independentes e de organizações estudantis realizaram um ato na Universidade Federal de Minas Gerais (UFMG) pela abertura dos Restaurantes Universitários (RUs) I e II para o café da manhã e o jantar. A mobilização denunciou a precariedade da assistência estudantil e reivindicou melhores condições de permanência na universidade. O ato ocorreu após uma medida aplicada pela Fundação Mendes Pimentel (FUMP), entidade privada responsável pela gestão dos recursos da assistência estudantil repassados pela UFMG. De forma arbitrária e antidemocrática, a fundação informou aos estudantes que o jantar seria transferido de restaurante, assim como o café",
+          "link": "https://anovademocracia.com.br/estudantes-abertura-restaurantes-ufmg/",
+          "publishedOn": "2026-09-24T19:54:01.000Z",
+          "wordCount": null,
+          "title": "MG: Estudantes combativos realizam ato pela abertura dos dois Restaurantes Universitários da UFMG",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/video.mp4",
+            "length": "37754920",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233532",
+          "author": "Redação de AND",
+          "description": "Nova seção foi constituída em 19 de setembro com a incorporação do trabalho do Coletivo Anti-imperialista; organização afirma que fundação integra a expansão internacional da LAI.",
+          "link": "https://anovademocracia.com.br/finlandia-liga-anti-imperialista-fundada/",
+          "publishedOn": "2026-09-24T19:37:16.000Z",
+          "wordCount": null,
+          "title": "Finlândia: Liga Anti-imperialista Internacional funda seção no país",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233528",
+          "author": "Redação de AND",
+          "description": "A investigação aponta ainda uma rotina de troca de favores, que envolveu acesso a camarotes no Sambódromo do Rio de Janeiro e a cobrança de novas emendas.",
+          "link": "https://anovademocracia.com.br/flavio-bolsonaro-milhoes-marielle-franco/",
+          "publishedOn": "2026-09-24T19:23:54.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro enviou R$ 200 milhões a paramilitar envolvido na execução de Marielle Franco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233524",
+          "author": "Redação de AND",
+          "description": "Ursula von der Leyen anunciou novos instrumentos militares, medidas para reduzir dependências estratégicas e maior aproximação com Canadá e China; O Arauto Vermelho interpreta as propostas como parte das disputas interimperialistas.",
+          "link": "https://anovademocracia.com.br/uniao-europeia-militarizacao-internacionais/",
+          "publishedOn": "2026-09-24T19:16:37.000Z",
+          "wordCount": null,
+          "title": "União Europeia anuncia nova etapa de militarização e busca reordenar alianças internacionais",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233513",
+          "author": "Giovanna Maria",
+          "description": "Realizado nos dias 17 e 18 de setembro, em Manaus, o Congresso teve baixa participação estudantil. Estudantes ouvidos pelo AND denunciaram regras antidemocráticas, aparelhamento da entidade e uma tímida aprovação de propostas de luta.",
+          "link": "https://anovademocracia.com.br/xxii-congresso-de-estudantes-da-ufam-e-marcado-por-aparelhamento-e-imobilismo-denunciam-estudantes/",
+          "publishedOn": "2026-09-24T18:37:57.000Z",
+          "wordCount": null,
+          "title": "XXII Congresso de Estudantes da UFAM é marcado por aparelhamento e imobilismo, denunciam estudantes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233512",
+          "author": "Redação de AND",
+          "description": "Decisão responsabiliza associação e antiga dirigente por prejuízos causados durante mobilização de 2017 em Chichimene; Nueva Democracia denuncia precedente para cobrar das comunidades os custos econômicos de greves, bloqueios e ocupações.",
+          "link": "https://anovademocracia.com.br/colombia-organizacao-protestos-bloqueios/",
+          "publishedOn": "2026-09-24T18:34:09.000Z",
+          "wordCount": null,
+          "title": "Colômbia: velho Estado condena organização comunitária a indenizar Ecopetrol por protestos com bloqueios de rodovia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233506",
+          "author": "Redação de AND",
+          "description": "FACAM, bsCEM e o intelectual maoista Ajith se levantam contra a condenação à morte de dez adivasis; declarações relacionam sentença às atrocidades do Salwa Judum, à ofensiva contrainsurgente em Bastar e à Operação Kagaar.",
+          "link": "https://anovademocracia.com.br/organizacoes-denuncia-condenados-india/",
+          "publishedOn": "2026-09-24T18:20:27.000Z",
+          "wordCount": null,
+          "title": "Organizações denunciam ‘sentença política’ contra os ‘Dez de Jhiram Ghati’, condenados à morte pelo velho Estado fascista indiano",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233483",
+          "author": "Montezuma Cruz",
+          "description": "Este artigo é de responsabilidade do autor. Por decisão unânime do Tribunal de Justiça do Estado de Rondônia, mais de cem famílias da Área Tiago Campin dos Santos terão direito a continuar nas terras. Todas elas estavam ameaçadas de despejo a pedido do latifundiário Antônio Martins dos Santos, o “Galo Velho”, muito conhecido em seus ataques à Liga dos Camponeses Pobres (LCP) desde o município de Jaru. O acampamento Tiago dos Santos fica próximo à BR-364, no sentido Porto Velho-Guajará-Mirim e Rio Branco (AC). Ao prestar a informação nesta quarta-feira (23), o advogado Felipe Nicolau, presidente da Associação Brasileira dos",
+          "link": "https://anovademocracia.com.br/camponeses-ficam-na-area-tiago-dos-santos/",
+          "publishedOn": "2026-09-24T14:12:49.000Z",
+          "wordCount": null,
+          "title": "Camponeses ficam na Área Tiago dos Santos; TJ suspende reintegração de posse",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=233473",
           "author": "Redação de AND",
-          "description": "A inclusão do Partido Comunista do Peru (PCP) nessa lista ocorre precisamente quando o movimento democrático-revolucionário volta a crescer no Peru, em meio ao processo de Reorganização Geral do Partido, que desafia as oligarquias locais de grandes burgueses e latifundiários.",
+          "description": "O encadeamento das medidas mostra que Washington vem aproximando, numa mesma política de segurança, organizações revolucionárias e anti-imperialistas, movimentos que classifica como de “extrema-esquerda” e grupos enquadrados como “narcoterroristas”.",
           "link": "https://anovademocracia.com.br/eua-lacaios-trump-guerra-contrainsurgente/",
           "publishedOn": "2026-09-23T21:53:15.000Z",
-          "wordCount": 8575,
+          "wordCount": null,
           "title": "EUA e lacaios impõem sanções a pedido de Trump e usam ‘narcoterrorismo’ para articular guerra contrainsurgente na América Latina",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-84.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=233460",
@@ -610,94 +746,9 @@
           "description": "Relatório encaminhado ao AND aborda a participação da IDE Technologies na usina de dessalinização da Praia do Futuro, a situação das famílias atingidas pela obra e o controle da água imposto ao povo palestino.",
           "link": "https://anovademocracia.com.br/ceara-empresa-israelense-dessalinizacao/",
           "publishedOn": "2026-09-23T20:00:03.000Z",
-          "wordCount": 7546,
+          "wordCount": null,
           "title": "Frente Cearense denuncia participação de empresa israelense na Usina de Dessalinização  do Ceará",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-23-ceara.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233470",
-          "author": "Giovanna Maria",
-          "description": "Revolutionaire Actie e seção holandesa da Liga Anti-imperialista Internacional participaram de protesto contra manifestação da organização “Em defesa de 'israel'”, denunciando o apoio à entidade sionista e a repressão policial contra a solidariedade ao povo palestino.",
-          "link": "https://anovademocracia.com.br/manifestantes-palestina-sionista-holanda/",
-          "publishedOn": "2026-09-23T19:06:57.000Z",
-          "wordCount": 7133,
-          "title": "Manifestantes pró-Palestina interrompem ato sionista na Holanda",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat_netherlands_09212026.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233447",
-          "author": "Redação de AND",
-          "description": "Atividade organizada pela Ação pelos Direitos Democráticos do Povo reuniu cerca de 40 participantes para debater guerras imperialistas, movimentos de libertação nacional e os rumos do movimento anti-imperialista no país.",
-          "link": "https://anovademocracia.com.br/seminario-anti-imperialista-na-austria-reune-ativistas-e-organizacoes-em-defesa-da-luta-dos-povos-oprimidos/",
-          "publishedOn": "2026-09-23T18:47:33.000Z",
-          "wordCount": 7285,
-          "title": "Seminário anti-imperialista na Áustria reúne ativistas e organizações em defesa da luta dos povos oprimidos",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-23-austria.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233438",
-          "author": "Redação de AND",
-          "description": "Trata-se de uma demonstração prática de que a podridão é multi-institucional, suprapartidária, da extrema direita à falsa esquerda. Afinal, Vorcaro encontrava portas abertas em diferentes partidos e instituições porque o grande capital não está submetido às fronteiras eleitorais com que seus representantes dividem o povo.",
-          "link": "https://anovademocracia.com.br/editorial-putrefacao-estado-escandalo-stf/",
-          "publishedOn": "2026-09-23T18:25:06.000Z",
-          "wordCount": 8686,
-          "title": "Editorial – Nada pode ser mais simbólico da putrefação do velho Estado e seu sistema político que o escândalo do STF",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-23-editorial-and.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233419",
-          "author": "Redação de AND",
-          "description": "Em entrevista ao AND, fundador da Associação Cultural Eu Sou Angoleiro falou sobre os obstáculos enfrentados pelos capoeiristas, criticou a burocracia para o acesso a recursos e destacou a organização coletiva como meio de fortalecimento da cultura popular.",
-          "link": "https://anovademocracia.com.br/aldeia-reune-cultura-popular-belo-horizonte/",
-          "publishedOn": "2026-09-23T17:44:11.000Z",
-          "wordCount": 7388,
-          "title": "Aldeia Kilombo Século 21 reúne cultura popular em Belo Horizonte; Mestre João destaca força da organização coletiva",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-16.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233373",
-          "author": "Redação de AND",
-          "description": "O latifundiário Sérgio Sussumu Suganuma, conhecido como “Serginho Paredão”, está foragido após ter a prisão preventiva decretada durante o novo julgamento dos assassinatos dos jovens camponeses Alysson Henrique de Sá Lopes, de 23 anos, e Ruan Lucas Hildebrandt de Aguiar, de 18 anos, ocorridos na Fazenda Tucumã, em Cujubim (RO), em 2016.",
-          "link": "https://anovademocracia.com.br/chacina-fazenda-tucuma-seginho-julgamento/",
-          "publishedOn": "2026-09-23T17:27:09.000Z",
-          "wordCount": 8111,
-          "title": "Dez anos depois da chacina da Fazenda Tucumã, latifundiário ‘Serginho Paredão’ foge de julgamento e PMs são presos",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/jovens_desaparecido_e_assassinado_-_lh114_-_cujubim_-_3fev_16-987.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233424",
-          "author": "Redação de AND",
-          "description": "Organização chama forças anti-imperialistas de todo o mundo a realizarem ações entre 26 de setembro e 3 de outubro contra a repressão do velho Estado bramânico-hindutva indiano aos povos oprimidos da Índia e ao movimento naxalita maoista.",
-          "link": "https://anovademocracia.com.br/lai-solidariedade-povo-india-repressao-modi/",
-          "publishedOn": "2026-09-23T14:37:25.000Z",
-          "wordCount": 7366,
-          "title": "Liga Anti-imperialista convoca semana de solidariedade internacional ao povo da Índia contra repressão do regime fascista de Modi",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/AIL-STRENGTHEN-THE-INTERNATIONAL-REVOLUTIONARY-SOLIDARITY-WITH-T.mp4",
-            "length": "100400486",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-00.32.22-1-e1790173658189.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233409",
-          "author": "Redação de AND",
-          "description": "A paralisação conjunta impôs fortes recuos às administrações das empresas públicas, que tentam acelerar medidas de reestruturação contra os servidores",
-          "link": "https://anovademocracia.com.br/trabalhadores-caixa-correios-greve-nacional/",
-          "publishedOn": "2026-09-22T23:48:41.000Z",
-          "wordCount": 8101,
-          "title": "Trabalhadores da Caixa e dos Correios mantêm greve nacional contra o arrocho e a retirada de direitos",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-83.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233376",
-          "author": "Redação de AND",
-          "description": "Índices de rejeição dos principais candidatos e milhões de títulos cancelados revelam crise de legitimidade da farsa eleitoral e afastamento popular das carcomidas instituições do velho Estado.",
-          "link": "https://anovademocracia.com.br/rejeicoes-luiz-inacio-flavio-bolsonaro-50/",
-          "publishedOn": "2026-09-22T19:49:37.000Z",
-          "wordCount": 7692,
-          "title": "Rejeições a Luiz Inácio e Flávio Bolsonaro chegam a 50% do eleitorado; milhões sequer renovam títulos de eleitor",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/flavio-bolsonaro-luiz-inacio-and-262.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -713,12 +764,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3205000",
+          "author": "Rôney Rodrigues",
+          "description": "Estado enfrenta graves retrocessos: isenção bilionária aos agrotóxicos, áreas públicas quase regaladas ao agro, agências de pesquisa desmanteladas e água privatizada. Movimentos da Agroecologia propõem carta de compromisso a deputados para enfrentar modelo predatório\nThe post Eleições em SP: Como garantir comida boa no prato? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/eleicoes-em-sp-como-garantir-comida-boa-no-prato/",
+          "publishedOn": "2026-09-24T19:53:16.000Z",
+          "wordCount": 5715,
+          "title": "Eleições em SP: Como garantir comida boa no prato?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658095_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204998",
+          "author": "Lucas Scatolini",
+          "description": "O último roteiro do pai morto. O diretor que desapareceu. E uma equipe pluralíssima. Morte e vida Madalena mostra que, por trás das câmeras, há um laboratório de experiências humanas – às vezes difícil de gerir – e que concluir um filme no Brasil é um ato de resistência e amor\nThe post As utopias que movem o set de filmagens appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/as-utopias-que-movem-o-set-de-filmagens/",
+          "publishedOn": "2026-09-24T19:33:35.000Z",
+          "wordCount": 4107,
+          "title": "As utopias que movem o set de filmagens",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658077_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3204971",
+          "author": "Lucas Scatolini",
+          "description": "Pedagoga foi pioneira do feminismo mexicano. Formulou programas de democratização do ensino no país, colocando a cultura nacional no centro. E promoveu misiones culturales para levar cuidados sanitários e formação política aos indígenas e camponeses\nThe post Educar e lutar: o marxismo de Elena Torres Cuéllar appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/feminismos/educar-e-lutar-o-marxismo-de-elena-torres-cuellar/",
+          "publishedOn": "2026-09-24T19:26:39.000Z",
+          "wordCount": 8005,
+          "title": "Educar e lutar: o marxismo de Elena Torres Cuéllar",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658075_y.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3204880",
           "author": "Antonio Martins",
           "description": "Com programa baseado no Comum – em especial no direito à Moradia – e presença constante nos bairros populares, Die Linke tem chances reais de liderar governo da capital alemã. Há apenas dois anos, partido parecia moribundo. O que mudou?\nThe post Esquerda: As lições da vitória em Berlim appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/esquerda-as-licoes-da-vitoria-em-berlim/",
           "publishedOn": "2026-09-23T20:21:16.000Z",
-          "wordCount": 4829,
+          "wordCount": 4915,
           "title": "Esquerda: As lições da vitória em Berlim",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/220923-Linke.jpg"
         },
@@ -738,7 +819,7 @@
           "description": "A complexidade não é rentável para as plataformas. A realidade é manipulável, as identidades podem ser moldadas e até o erotismo, território da invenção, é rastreado e monetizado. Como podemos reivindicar o corpo, o prazer e a liberdade diante do poder das máquinas?\nThe post Eros e o fantasma do algoritmo que nos assombra appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/eros-e-o-fantasma-do-algoritmo-que-nos-assombra/",
           "publishedOn": "2026-09-23T20:06:21.000Z",
-          "wordCount": 3526,
+          "wordCount": 3523,
           "title": "Eros e o fantasma do algoritmo que nos assombra",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972957_x.jpg"
         },
@@ -758,7 +839,7 @@
           "description": "Websérie desvela memória, silenciamentos e encruzilhadas dos povos originários e afro-diaspóricos em tradicional bairro da região central de SP. Trajetória do lendário militar que escapou três vezes da forca e foi homenageado por escola de samba é contada em documentário\nThe post Crônica: Chaguinhas, o santo negro da Liberdade appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/cinema-chaguinhas-o-santo-negro-da-liberdade/",
           "publishedOn": "2026-09-23T18:37:55.000Z",
-          "wordCount": 3765,
+          "wordCount": 3754,
           "title": "Crônica: Chaguinhas, o santo negro da Liberdade",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972921_y.jpg"
         },
@@ -768,7 +849,7 @@
           "description": "Projeções que mostram a Europa no centro e o Norte global acima do resto do mundo já não bastam. E é impossível enxergar o trabalho em plataforma, os indígenas e quilombolas ou a população de rua nas velhas categorias estatísticas. Eis a razão das mudanças\nThe post Pochmann: Por que o IBGE cria novos mapas e estatísticas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/pochmann-por-que-o-ibge-cria-novos-mapas-e-estatisticas/",
           "publishedOn": "2026-09-23T17:17:21.000Z",
-          "wordCount": 4766,
+          "wordCount": 4765,
           "title": "Pochmann: Por que o IBGE cria novos mapas e estatísticas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972894_y.jpg"
         },
@@ -778,39 +859,9 @@
           "description": "Há caminhos para resgatar economias reprimarizadas, trabalho precário e atraso. Requerem ecossistema de empresas públicas, planejamento, quebra de patentes e integração Sul-Sul. Com o Estado à frente – ao contrário do que quer a ultradireita\nThe post Sul Global: o desafio da reindustrialização appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/sul-global-o-desafio-da-reindustrializacao/",
           "publishedOn": "2026-09-22T22:02:39.000Z",
-          "wordCount": 4880,
+          "wordCount": 4873,
           "title": "Sul Global: o desafio da reindustrialização",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5014858919700008224.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204758",
-          "author": "Lucas Scatolini",
-          "description": "Desde Nixon, a \"guerra às drogas\" serve de instrumento de pressão diplomática no hemisfério. A recente coalizão regional – que o Brasil recusou-se a integrar – aprofunda o padrão: viés nítido de direita e alinhamento aos EUA, inclusive sob coerção\nThe post Escudo das Américas: aliança ou submissão a Washington? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/escudo-das-americas-alianca-ou-submissao-a-washington/",
-          "publishedOn": "2026-09-22T20:41:38.000Z",
-          "wordCount": 4118,
-          "title": "Escudo das Américas: aliança ou submissão a Washington?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5012607119886322926_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204799",
-          "author": "Lucas Scatolini",
-          "description": "Diante de um reajuste de parcos R$ 91, conservadores provocam: trabalhar para quê? Não enxergam o mercado de trabalho, precarizado e de baixa remuneração. É em resposta a ele que milhões de pessoas acumulam, com perspicácia, o benefício e salários eventuais\nThe post Seria o Bolsa Família um estímulo à preguiça? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/desigualdades-mundo/seria-o-bolsa-familia-um-estimulo-a-preguica/",
-          "publishedOn": "2026-09-22T20:33:00.000Z",
-          "wordCount": 6240,
-          "title": "Seria o Bolsa Família um estímulo à preguiça?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5014858919700008204_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204784",
-          "author": "Rôney Rodrigues",
-          "description": "Presidente parece acordar: precisa falar com o povo para conquistar os votos dos indecisos e evitar a tragédia. Caso se concretize, será uma virada. Do ajuste fiscal à taxa de juros, foram várias concessões à Faria Lima. Fazenda e direção do PT prometem outros recuos\nThe post Para que Lula escape do cerco financista appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/para-que-lula-escape-do-cerco-financista/",
-          "publishedOn": "2026-09-22T19:37:49.000Z",
-          "wordCount": 5095,
-          "title": "Para que Lula escape do cerco financista",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5014858919700008195_x.jpg"
         }
       ]
     },
@@ -820,12 +871,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159909",
+          "author": "Passa Palavra",
+          "description": "O patronato nunca está satisfeito. Não basta a crueldade do trabalho intermitente ter sido legalizada. Para essa classe, a qual inclui a pequena-burguesia cujos donos do Bugio são bons representantes, é preciso negar qualquer direito vigente aos trabalhadores. Por Leo Vinicius",
+          "link": "https://passapalavra.info/2026/09/159909/",
+          "publishedOn": "2026-09-24T16:09:22.000Z",
+          "wordCount": 5787,
+          "title": "Bugio: cultura de trabalho intermitente e sem registro",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/charb.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159892",
           "author": "FP",
           "description": "Sob o mito da “cidadania autônoma”, as ONGs operam, na realidade, a renovação dos mecanismos de dominação de classe mediante a gramática dos direitos — e a evidência empírica o confirma. Por Marcelo Phintener",
           "link": "https://passapalavra.info/2026/09/159892/",
           "publishedOn": "2026-09-22T19:42:04.000Z",
-          "wordCount": 6187,
+          "wordCount": 6196,
           "title": "A Gestão do Conflito: ONGs e democracia empresarial no Brasil contemporâneo (1990-2024) – Parte I",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/The-doctor-Luke-Fildes.webp"
         },
@@ -862,7 +923,7 @@
           "description": "Ronaldo Tadeu de Souza resenha \"Impasse — o Brasil diante da onda reacionária\", último volume do que ele chama de tetralogia de André Singer sobre o lulismo. O livro, de pouco mais de cem páginas, diagnostica a ascensão da extrema direita. Souza reconstrói o argumento de Singer sobre a cisão do empresariado brasileiro, sobre a captura do auxílio emergencial pelo bolsonarismo durante a pandemia e sobre a adesão em massa de Forças Armadas e polícias militares.",
           "link": "https://blogdaboitempo.com.br/2026/09/24/eleicoes-de-2026-o-impasse-brasileiro-andre-singer/",
           "publishedOn": "2026-09-24T11:00:00.000Z",
-          "wordCount": 12784,
+          "wordCount": 12791,
           "title": "Eleições de 2026, o Impasse Brasileiro: André Singer",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/7177ch2qonl.jpg?fit=800%2C1200&ssl=1"
         },
