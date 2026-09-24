@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "1UmAJI",
+          "author": null,
+          "description": "Mais de um século depois de sua publicação, qual o significado do livro O Que Fazer? Questões candentes do nosso movimento, brochura publicada por V. I. Lênin na Rússia em 1902?",
+          "link": "https://jornalofuturo.com.br/artigo/1UmAJI-o-que-e-o-que-fazer-hoje",
+          "publishedOn": "2026-09-24T03:00:00.000Z",
+          "wordCount": 4410,
+          "title": "O que é O Que Fazer? hoje?",
+          "imageUrl": "https://media.jornalofuturo.com.br/25-oquefazer-1280x1920.jpg"
+        },
+        {
           "id": "5GhqFr",
           "author": null,
           "description": "A Prefeitura de Piracicaba ameaça o fechamento de unidades do Centro de Convivência Intergeracional (CCINTER), sob o pretexto de necessidade do reordenamento de serviços socioassistenciais",
@@ -91,16 +101,6 @@
           "wordCount": 1507,
           "title": "Julgamento em 2ª instância de Zé Maria é quinta: todos ao TRF-3! Defender a Palestina não é crime!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Ze-Maria--3-.webp"
-        },
-        {
-          "id": "6aaf235bba0563f768d4ecab",
-          "author": "PSTU-SP",
-          "description": "Milhares de professores fazem a Prova Nacional Docente neste domingo. Enquanto governos precarizam o trabalho docente, a prova anual passa a fazer parte da lógica de contratação de temporários em todo o país",
-          "link": "https://opiniaosocialista.com.br/pnd-quem-avalia-os-destruidores-da-educacao-publica/",
-          "publishedOn": "2026-09-20T00:19:28.000Z",
-          "wordCount": 2009,
-          "title": "PND: quem avalia os destruidores da Educação Pública?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/educacao_site.webp"
         }
       ]
     },
@@ -338,46 +338,6 @@
           "wordCount": null,
           "title": "Lições da greve dos trabalhadores da Unicamp: fortalecer nossa organização pela base por nenhuma punição aos lutadores",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/SMED-de-Fuad-e-Damiao-e-investigada-por-contratos-milionarios-enquanto-falta-verba-nas-escolas-de",
-          "author": "Júlia Santana",
-          "description": "Enquanto escolas de Belo Horizonte enfrentam cortes de verbas, falta de profissionais e trabalhadores acumulam perdas salariais, contratos milionários da Secretaria Municipal de Educação entraram novamente na mira de investigações, jogando luz sobre uma pergunta que há anos atravessa as greves e mobilizações da categoria: para onde vai o dinheiro da Educação? \n Na última quinta-feira (17), a Polícia Federal deflagrou uma nova fase da Operação Overclean para investigar suspeitas de (…)\n17-09-2026\n\n/ Educação, Minas Gerais, Belo Horizonte , Álvaro Damião",
-          "link": "https://www.esquerdadiario.com.br/SMED-de-Fuad-e-Damiao-e-investigada-por-contratos-milionarios-enquanto-falta-verba-nas-escolas-de",
-          "publishedOn": "2026-09-19T20:53:01.000Z",
-          "wordCount": null,
-          "title": "SMED de Fuad e Damião é investigada por contratos milionários enquanto falta verba nas escolas de BH",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Myriam-Bregman-Esta-mobilizacao-tem-que-ser-o-pontape-para-derrotar-o-projeto-de-Milei",
-          "author": null,
-          "description": "Junto com Nicolás del Caño e outros referentes da Frente de Esquerda, são parte da convocatória a este importante protesto.\n19-09-2026\n\n/ Internacional, Argentina, Myriam Bregman, Política, Marcha da Indignação",
-          "link": "https://www.esquerdadiario.com.br/Myriam-Bregman-Esta-mobilizacao-tem-que-ser-o-pontape-para-derrotar-o-projeto-de-Milei",
-          "publishedOn": "2026-09-19T20:02:46.000Z",
-          "wordCount": null,
-          "title": "Myriam Bregman: “Esta mobilização tem que ser o pontapé para derrotar o projeto de Milei”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Marcha-da-Indignacao-acompanhe-minuto-a-minuto-a-jornada-de-lutas-na-Argentina",
-          "author": "La Izquierda Diario - Argentina",
-          "description": "Há mobilizações em mais de 70 cidades em toda a Argentina. Centenas de organizações convocam a uma forte luta nacional rumo à greve geral para derrotar Milei, seus planos e seus cúmplices. Acompanhe aqui todos os detalhes contados por correspondentes de todo o país.\n19-09-2026\n\n/ Internacional, Argentina, Política, Javier Milei , Marcha da Indignação",
-          "link": "https://www.esquerdadiario.com.br/Marcha-da-Indignacao-acompanhe-minuto-a-minuto-a-jornada-de-lutas-na-Argentina",
-          "publishedOn": "2026-09-19T19:40:02.000Z",
-          "wordCount": null,
-          "title": "Marcha da Indignação: acompanhe minuto a minuto a jornada de lutas na Argentina",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Marcha-da-Indignacao-no-caminho-para-derrotar-Milei-seu-plano-e-seus-cumplices-com-a-Greve-Geral",
-          "author": "La Izquierda Diario - Argentina",
-          "description": "Neste sábado estão convocadas manifestações em dezenas de cidades do país. Sobra motivos para sair às ruas. Conheça aqui os eixos principais da Marcha da Indignação, cuja convocatória não para de crescer.\n19-09-2026\n\n/ Internacional, Argentina, Fundo Monetário Internacional - FMI, Myriam Bregman, Venezuela, Imperialismo, Cuba, Javier Milei",
-          "link": "https://www.esquerdadiario.com.br/Marcha-da-Indignacao-no-caminho-para-derrotar-Milei-seu-plano-e-seus-cumplices-com-a-Greve-Geral",
-          "publishedOn": "2026-09-19T19:05:51.000Z",
-          "wordCount": null,
-          "title": "Marcha da Indignação no caminho para derrotar Milei, seu plano e seus cúmplices e construir a Greve Geral",
-          "imageUrl": null
         }
       ]
     },
@@ -528,12 +488,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=266730",
+          "author": "Tatiana Carlotti",
+          "description": "Em seu discurso durante Assembleia Geral das Nações Unidas, o primeiro-ministro da Espanha, Pedro Sánchez, denunciou a tentativa “planejada e coordenada” de desmantelamento da ordem multilateral e acusou governos “reacionários” de violarem regras internacionais, promover guerras ilegais e atacar as instituições multilaterais, criadas após a Segunda Guerra Mundial. “Subo a esta tribuna com um único […]\nO post Premiê espanhol denuncia ofensiva ‘planejada e coordenada’ de demolição da ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/premie-espanhol-denuncia-ofensiva-planejada-e-coordenada-de-demolicao-da-onu/",
+          "publishedOn": "2026-09-24T13:10:40.000Z",
+          "wordCount": 3868,
+          "title": "Premiê espanhol denuncia ofensiva ‘planejada e coordenada’ de demolição da ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sanchez-reproducao-vido-onu.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266720",
+          "author": "Tabitha Ramalho",
+          "description": "A presidenta em exercício da Venezuela, Delcy Rodríguez, discursou na 81ª Assembleia Geral da Organização das Nações Unidas, em Nova York, nesta quarta-feira (23/09). Em sua intervenção, a chefe do Executivo venezuelano não mencionou o presidente Nicolás Maduro, que segue sequestrado em uma prisão estadunidense, e chamou agressão militar do dia 3 de janeiro de […]\nO post Na ONU, Delcy Rodríguez não menciona Maduro e minimiza ataque dos EUA: ‘confrontação agudizada’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/na-onu-delcy-rodriguez-nao-menciona-maduro-e-minimiza-ataque-dos-eua-confrontacao-agudizada/",
+          "publishedOn": "2026-09-24T12:20:08.000Z",
+          "wordCount": 4775,
+          "title": "Na ONU, Delcy Rodríguez não menciona Maduro e minimiza ataque dos EUA: ‘confrontação agudizada’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/delcy-na-onu-prensa-presidencial-ve-bf490647-2048x1533-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266718",
+          "author": "Tatiana Carlotti",
+          "description": "O senador Flávio Bolsonaro (PL-RJ) viajou em janeiro de 2025, acompanhado da mulher e das duas filhas, em um jatinho que tinha entre seus proprietários uma empresa da qual Daniel Vorcaro, ex-dono do Banco Master, era sócio. A informação foi revelada pela revista piauí, que identificou a aeronave a partir do cruzamento de registros de […]\nO post Flávio Bolsonaro voou em jatinho de Daniel Vorcaro, revela revista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/nas-asas-do-master-flavio-bolsonaro-voou-em-jatinho-de-daniel-vorcaro-revela-revista/",
+          "publishedOn": "2026-09-24T11:52:46.000Z",
+          "wordCount": 3731,
+          "title": "Flávio Bolsonaro voou em jatinho de Daniel Vorcaro, revela revista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/orebn.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266710",
+          "author": "Tatiana Carlotti",
+          "description": "O Partido dos Trabalhadores (PT) acionou o Supremo Tribunal Federal (STF) para investigar uma possível interferência estrangeira nas eleições brasileiras e apontou suspeitas de uma articulação envolvendo recursos, operações digitais e ações políticas que poderiam favorecer a candidatura do senador Flávio Bolsonaro (PL-RJ). No Tribunal Superior Eleitoral (TSE), a legenda apresentou uma ação em que […]\nO post Ação no STF detalha possível interferência dos EUA nas eleições do Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/acao-no-stf-detalha-possivel-interferencia-dos-eua-nas-eleicoes-do-brasil/",
+          "publishedOn": "2026-09-24T10:59:32.000Z",
+          "wordCount": 4497,
+          "title": "Ação no STF detalha possível interferência dos EUA nas eleições do Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/eduardo-j.d.-vance-flavio-e-figueiredo-1536x864-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266703",
+          "author": "Tatiana Carlotti",
+          "description": "A Justiça dos Estados Unidos ordenou, em decisão liminar, nesta quinta-feira (24/09) o restabelecimento do acesso das emissoras CNN e MSNBC e do jornal Politico à Casa Branca. O presidente Donald Trump havia retirado as credenciais de jornalistas que trabalham para esses veículos alegando questões de segurança. Indicado por Trump em 2017 e responsável por ordenar […]\nO post Justiça libera entrada de jornais barrados por Trump na Casa Branca apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/justica-libera-entrada-de-jornais-barrados-por-trump-na-casa-branca/",
+          "publishedOn": "2026-09-24T10:28:49.000Z",
+          "wordCount": 3863,
+          "title": "Justiça libera entrada de jornais barrados por Trump na Casa Branca",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/castigo-politico-de-trump-contra-exportaciones-de-brasil-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266699",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente chinês Xi Jinping desembarcou nesta na quarta-feira (23/09) na Base Aérea Conjunta Andrews, nos arredores de Washington, D.C., para sua primeira visita de Estado aos Estados Unidos em mais de uma década, numa tentativa de amenizar as crescentes tensões entre as duas maiores economias do mundo. Acompanhado de sua esposa, Peng Liyuan, o […]\nO post Xi Jinping e Trump encontram-se em Washington; trégua tarifária é prorrogada apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-e-trump-encontram-se-em-washington-tregua-tarifaria-e-prorrogada/",
+          "publishedOn": "2026-09-24T10:05:36.000Z",
+          "wordCount": 3687,
+          "title": "Xi Jinping e Trump encontram-se em Washington; trégua tarifária é prorrogada",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/5mhwjenxibtlefug.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=266695",
           "author": "Victor Farinelli",
           "description": "A Academia Brasileira de Ciências (ABC) e a Sociedade Brasileira para o Progresso da Ciência (SBPC) manifestaram preocupação com a possibilidade de interferência estrangeira no processo eleitoral brasileiro, mais notadamente por parte dos Estados Unidos. O temor expressado pelas entidades é de haver uma interferência de tal modo que afete “a soberania nacional, o funcionamento […]\nO post Comunidade científica brasileira alerta para risco de interferência externa nas eleições apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/comunidade-cientifica-brasileira-alerta-para-risco-de-interferencia-externa-nas-eleicoes/",
           "publishedOn": "2026-09-23T22:03:05.000Z",
-          "wordCount": 4340,
+          "wordCount": 4330,
           "title": "Comunidade científica brasileira alerta para risco de interferência externa nas eleições",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/urnas.jpg"
         },
@@ -543,7 +563,7 @@
           "description": "Há 55 anos, em meados de setembro de 1971, militantes da Ação Libertadora Nacional (ALN), organização vinculada à luta armada da ditadura militar, incendiavam veículos pertencentes ao jornal Folha de S. Paulo. O ataque aos veículos foi uma reação à alegada colaboração do jornal com os órgãos de repressão da ditadura. Conforme apurado pela Comissão […]\nO post Relações perigosas: a Folha de São Paulo e a ditadura brasileira apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/relacoes-perigosas-a-folha-de-sao-paulo-e-a-ditadura-brasileira/",
           "publishedOn": "2026-09-23T21:42:19.000Z",
-          "wordCount": 4248,
+          "wordCount": 4238,
           "title": "Relações perigosas: a Folha de São Paulo e a ditadura brasileira",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vlado_herzog_protest.jpg"
         },
@@ -553,7 +573,7 @@
           "description": "Entre janeiro de 2025 e agosto de 2026, mais de 25 mil migrantes foram deportados dos Estados Unidos para outros países. Desse total, cerca de 20 mil foram enviados ao México, que se tornou o principal destino dessas medidas. Os cubanos formam o maior grupo e frequentemente acabam presos em um limbo jurídico e humanitário. […]\nO post ‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/tiraram-tudo-de-mim-investigacao-revela-deportacoes-dos-eua-em-massa-para-mexico/",
           "publishedOn": "2026-09-23T21:00:11.000Z",
-          "wordCount": 3719,
+          "wordCount": 3709,
           "title": "‘Tiraram tudo de mim’: investigação revela deportações dos EUA em massa para México",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-165030.png"
         },
@@ -563,77 +583,11 @@
           "description": "O Comitê Central de Eleições (CEC) de Israel votou nesta quarta-feira (23/09) a favor das petições para desqualificar integralmente a lista conjunta — composta pelos partidos Balad, Hadash e Ta’al —, assim como o partido Ra’am, de Mansour Abbas, da disputa eleitoral de 27 de outubro. A decisão pode ser revista pelo Supremo Tribunal, que […]\nO post Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/comite-eleitoral-de-israel-desqualifica-todos-partidos-arabes-da-disputa-de-outubro/",
           "publishedOn": "2026-09-23T20:20:50.000Z",
-          "wordCount": 5038,
+          "wordCount": 5028,
           "title": "Israel: Comitê Eleitoral desqualifica partidos árabes e frente progressista da disputa de outubro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-160923.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266682",
-          "author": "Fernanda Oliveira",
-          "description": "Depois das filas, dos autógrafos e das descobertas entre os estandes, a experiência continua em outro ritmo. O romance aguardado, a coletânea de contos ou o ensaio escolhido por curiosidade passam a disputar tempo com os compromissos diários. Nesse percurso, preparar o ambiente e respeitar o cansaço dos olhos torna a leitura mais agradável. A […]\nO post Depois da Bienal, a leitura continua: o que muda nos olhos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-conteudo/depois-da-bienal-a-leitura-continua-o-que-muda-nos-olhos/",
-          "publishedOn": "2026-09-23T20:07:33.000Z",
-          "wordCount": 3448,
-          "title": "Depois da Bienal, a leitura continua: o que muda nos olhos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/pixnio-725x483-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266664",
-          "author": "Raissa Neves",
-          "description": "O presidente dos Estados Unidos, Donald Trump, convidou o mandatário da Rússia, Vladimir Putin, para participar da próxima cúpula anual do G20, que será realizada em dezembro, em Miami. O secretário de Estado dos EUA, Marco Rubio, informou nesta quarta-feira (23/09) que entregou um convite ao seu homólogo russo, Serguei Lavrov, durante reunião às margens […]\nO post Trump convida Putin para reunião do G20 nos Estados Unidos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-convida-putin-para-reuniao-do-g20-nos-estados-unidos/",
-          "publishedOn": "2026-09-23T19:19:32.000Z",
-          "wordCount": 3195,
-          "title": "Trump convida Putin para reunião do G20 nos Estados Unidos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-171343.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266671",
-          "author": "Raissa Neves",
-          "description": "A economia ocidental se vê diante de uma crise de um insumo fundamental, o diesel, após a escalada especulativa fabricada pela guerra de agressão de EUA e Israel contra o Irã. Segundo o Tehran Times, o confronto do Império Decadente contra a República Islâmica criou a tempestade perfeita no setor energético, que agora prejudica os […]\nO post A guerra de Trump e a pressão especulativa sobre o preço do diesel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-guerra-de-trump-e-a-pressao-especulativa-sobre-o-preco-do-diesel/",
-          "publishedOn": "2026-09-23T19:10:24.000Z",
-          "wordCount": 4996,
-          "title": "A guerra de Trump e a pressão especulativa sobre o preço do diesel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55545302042_10199e20f8_z.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266665",
-          "author": "Victor Farinelli",
-          "description": "Durante discurso na 81ª Assembleia-Geral da Organização das Nações Unidas (ONU), nesta quarta-feira (23/09), o presidente da Argentina, Javier Milei, enfatizou a questão das Ilhas Malvinas, reforçando uma mudança de posição do seu governo, que passou a colocar a reivindicação de soberania sobre o arquipélago em primeiro plano. Segundo o mandatário, as Malvinas “são uma […]\nO post Na ONU, Milei defende soberania argentina sobre Ilhas Malvinas: ‘causa nacional’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/na-onu-milei-defende-soberania-argentina-sobre-ilhas-malvinas-causa-nacional/",
-          "publishedOn": "2026-09-23T18:16:38.000Z",
-          "wordCount": 3458,
-          "title": "Na ONU, Milei defende soberania argentina sobre Ilhas Malvinas: ‘causa nacional’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/milei.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266640",
-          "author": "Tatiana Carlotti",
-          "description": "O senador Flávio Bolsonaro acionou o Tribunal Superior Eleitoral (TSE) para impedir que imagens do discurso do presidente Luiz Inácio Lula da Silva (PT) na abertura da 81ª Assembleia Geral das Nações Unidas, ocorrida nesta terça-feira (22/09) em Nova York, sejam usadas em sua campanha eleitoral. A representação foi apresentada por Flávio e seu candidato […]\nO post Flávio Bolsonaro aciona TSE contra uso de imagens de Lula na Assembleia da ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-acusa-lula-de-fazer-campanha-na-onu-e-aciona-tse-contra-uso-de-imagens/",
-          "publishedOn": "2026-09-23T17:40:43.000Z",
-          "wordCount": 3283,
-          "title": "Flávio Bolsonaro aciona TSE contra uso de imagens de Lula na Assembleia da ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-22-110758-1.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266646",
-          "author": "Tabitha Ramalho",
-          "description": "“Ele [Donald Trump] deve saber que a resistência do povo iraniano só aumentará diante das sanções, do aumento da pressão e do aumento da intimidação. Nunca baixaremos a cabeça, nem dobraremos os joelhos”, declarou o presidente iraniano, Masoud Pezeshkian, na 81ª sessão da Assembleia Geral da ONU, nesta quarta-feira (23/09). Pezeshkian mencionou o discurso feito […]\nO post ‘Nunca abaixaremos a cabeça’, afirma presidente do Irã em discurso na ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/nunca-abaixaremos-a-cabeca-afirma-presidente-do-ira-em-discurso-na-onu/",
-          "publishedOn": "2026-09-23T16:00:36.000Z",
-          "wordCount": 4477,
-          "title": "‘Nunca abaixaremos a cabeça’, afirma presidente do Irã em discurso na ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-23-125157.png"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -646,7 +600,7 @@
           "description": "A inclusão do Partido Comunista do Peru (PCP) nessa lista ocorre precisamente quando o movimento democrático-revolucionário volta a crescer no Peru, em meio ao processo de Reorganização Geral do Partido, que desafia as oligarquias locais de grandes burgueses e latifundiários.",
           "link": "https://anovademocracia.com.br/eua-lacaios-trump-guerra-contrainsurgente/",
           "publishedOn": "2026-09-23T21:53:15.000Z",
-          "wordCount": 8167,
+          "wordCount": 8575,
           "title": "EUA e lacaios impõem sanções a pedido de Trump e usam ‘narcoterrorismo’ para articular guerra contrainsurgente na América Latina",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-84.png"
         },
@@ -667,7 +621,7 @@
           "link": "https://anovademocracia.com.br/manifestantes-palestina-sionista-holanda/",
           "publishedOn": "2026-09-23T19:06:57.000Z",
           "wordCount": 7133,
-          "title": "manifestantes pró-Palestina interrompem ato sionista na Holanda",
+          "title": "Manifestantes pró-Palestina interrompem ato sionista na Holanda",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat_netherlands_09212026.webp"
         },
         {
@@ -902,6 +856,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=66889",
+          "author": "Boitempo",
+          "description": "Ronaldo Tadeu de Souza resenha \"Impasse — o Brasil diante da onda reacionária\", último volume do que ele chama de tetralogia de André Singer sobre o lulismo. O livro, de pouco mais de cem páginas, diagnostica a ascensão da extrema direita. Souza reconstrói o argumento de Singer sobre a cisão do empresariado brasileiro, sobre a captura do auxílio emergencial pelo bolsonarismo durante a pandemia e sobre a adesão em massa de Forças Armadas e polícias militares.",
+          "link": "https://blogdaboitempo.com.br/2026/09/24/eleicoes-de-2026-o-impasse-brasileiro-andre-singer/",
+          "publishedOn": "2026-09-24T11:00:00.000Z",
+          "wordCount": 12784,
+          "title": "Eleições de 2026, o Impasse Brasileiro: André Singer",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/7177ch2qonl.jpg?fit=800%2C1200&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=66852",
           "author": "Boitempo",
