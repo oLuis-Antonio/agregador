@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "ins86a",
+          "author": null,
+          "description": "20º Anuário Brasileiro de Segurança Pública revela queda das mortes violentas, mas aumento dos feminicídios, da violência doméstica e de diversos crimes contra crianças e adolescentes",
+          "link": "https://jornalofuturo.com.br/artigo/ins86a-violencia-domestica-avanca-contra-mulheres-e-criancas-no-brasil",
+          "publishedOn": "2026-09-25T03:00:00.000Z",
+          "wordCount": 2616,
+          "title": "Violência doméstica avança contra mulheres e crianças no Brasil",
+          "imageUrl": "https://media.jornalofuturo.com.br/8M%202026%20(6%20de%2048)-1280x720.jpg"
+        },
+        {
           "id": "1UmAJI",
           "author": null,
           "description": "Mais de um século depois de sua publicação, qual o significado do livro O Que Fazer? Questões candentes do nosso movimento, brochura publicada por V. I. Lênin na Rússia em 1902?",
@@ -583,12 +593,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=266823",
+          "author": "Tabitha Ramalho",
+          "description": "O porta-voz da presidência russa, Dmitry Peskov, informou, nesta sexta-feira (25/09), que uma reunião trilateral entre Rússia, Estados Unidos e Ucrânia poderá ocorrer em breve. Segundo ele, a possibilidade foi discutida durante a última conversa telefônica entre os presidentes Vladimir Putin e Donald Trump. Ainda não há, no entanto, uma data definida para o encontro. […]\nO post Kremlin confirma que Rússia, EUA e Ucrânia podem realizar reunião trilateral em breve apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/kremlin-confirma-que-russia-eua-e-ucrania-podem-realizar-reuniao-trilateral-em-breve/",
+          "publishedOn": "2026-09-25T13:02:52.000Z",
+          "wordCount": 3237,
+          "title": "Kremlin confirma que Rússia, EUA e Ucrânia podem realizar reunião trilateral em breve",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump_putin_alaska_arrival_9260677-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266817",
+          "author": "Tabitha Ramalho",
+          "description": "O partido governista Rússia Unida venceu as eleições parlamentares realizadas na semana passada, anunciou na sexta-feira (25/09) a presidente da Comissão Eleitoral Central, Ella Pamfilova. “O partido Rússia Unida conquistou 349 cadeiras: 140 dos distritos federais e 209 de circunscrições uninominais”, anunciou Pamfilova. A Câmara Baixa do Parlamento russo tem um total de 450 cadeiras. […]\nO post Partido governista da Rússia vence oficialmente as eleições apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/partido-governista-da-russia-vence-oficialmente-as-eleicoes/",
+          "publishedOn": "2026-09-25T11:52:47.000Z",
+          "wordCount": 3222,
+          "title": "Partido governista da Rússia vence oficialmente as eleições",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/6ab633fee9ff716ff1057947.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266815",
+          "author": "Tabitha Ramalho",
+          "description": "A pobreza na Argentina aumentou 4,1 pontos percentuais no primeiro semestre de 2026, atingindo 32,3% da população, o equivalente a 15,5 milhões de pessoas. A indigência também avançou 1,2 ponto, alcançando 7,5% dos habitantes, ou 3,6 milhões de pessoas. Esse primeiro crescimento da população pobre resulta de uma combinação de alta da inflação, perda do […]\nO post Argentina: pobreza sobe 4,1 pontos e atinge 15,5 milhões de pessoas sob governo Milei apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/argentina-pobreza-sobe-41-pontos-e-atinge-155-milhoes-de-pessoas-sob-governo-milei/",
+          "publishedOn": "2026-09-25T11:28:35.000Z",
+          "wordCount": 4768,
+          "title": "Argentina: pobreza sobe 4,1 pontos e atinge 15,5 milhões de pessoas sob governo Milei",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/10/javier-milei.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=264857",
+          "author": "Tabitha Ramalho",
+          "description": "No discurso de terça-feira (24/09) na 81ª Assembleia Geral da ONU, o premiê de Israel, Benjamin Netanyahu, citou que seu país está “travando uma guerra em sete frentes”, uma delas seria na Síria. Netanyahu, inclusive, se dirigiu nominalmente ao presidente sírio Ahmed al-Sharaa, declarando que o mandatário “deveria saber que o povo judeu está nas […]\nO post ‘Israel ataca Síria para conter avanço turco e como guerra eleitoral’, dizem especialistas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/israel-ataca-siria-para-conter-avanco-turco-e-como-guerra-eleitoral-dizem-especialistas/",
+          "publishedOn": "2026-09-25T10:00:17.000Z",
+          "wordCount": 4789,
+          "title": "‘Israel ataca Síria para conter avanço turco e como guerra eleitoral’, dizem especialistas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/pmerdogan1.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=266807",
           "author": "Victor Farinelli",
           "description": "O presidente Lula (PT) aparece com 40% das intenções de voto para o primeiro turno da eleição presidencial de 2026, enquanto Flávio Bolsonaro (PL) aparece com 36% na nova pesquisa divulgada pelo Datafolha nesta quinta-feira (24/09). Além de Lula e Flávio Bolsonaro, a pesquisa registra Augusto Cury (Avante) com 5%, Ronaldo Caiado (PSD) com 4% […]\nO post Datafolha: Lula cresce no 1º turno e aumenta vantagem sobre Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/datafolha-lula-cresce-no-1o-turno-e-aumenta-vantagem-sobre-flavio-bolsonaro/",
           "publishedOn": "2026-09-24T23:29:34.000Z",
-          "wordCount": 3561,
+          "wordCount": 3554,
           "title": "Datafolha: Lula cresce no 1º turno e aumenta vantagem sobre Flávio Bolsonaro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lula-flavio.jpg"
         },
@@ -598,7 +648,7 @@
           "description": "O avião Lockheed Martin HC-130J Combat King II, pertencente à Força Aérea dos Estados Unidos (USAF, por sua sigla em inglês), pousou nesta quinta-feira (24/09) na Base Aérea de Campo Grande (BACG), na capital do Mato Grosso do Sul. A Força Aérea Brasileira (FAB) informou por meio de nota que a aeronave veio ao país […]\nO post Avião que participou em sequestro de Maduro pousa no Brasil para exercícios militares apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/aviao-que-participou-em-sequestro-de-maduro-pousa-no-brasil-para-exercicios-militares/",
           "publishedOn": "2026-09-24T21:00:16.000Z",
-          "wordCount": 3185,
+          "wordCount": 3178,
           "title": "Avião que participou em sequestro de Maduro pousa no Brasil para exercícios militares",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hcj.jpg"
         },
@@ -608,7 +658,7 @@
           "description": "O Brasil é conhecido por ser um país de contrastes profundos. Um dos mais reveladores é a forma como a leniência ou o punitivismo se alternam segundo a cor de pele, a origem social e a posição ideológica dos que sofrem o escrutínio da opinião publicada. Figuras como Jorge Paulo Lemann e Joseph Safra costumam […]\nO post ‘Escândalo da Tapioca’: fabricação de um caso contra a esquerda brasileira apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/escandalo-da-tapioca-fabricacao-de-um-caso-contra-a-esquerda-brasileira/",
           "publishedOn": "2026-09-24T20:20:31.000Z",
-          "wordCount": 4805,
+          "wordCount": 4798,
           "title": "‘Escândalo da Tapioca’: fabricação de um caso contra a esquerda brasileira",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/agencia_brasil_4_de_marco_de_2008_05.jpg"
         },
@@ -618,7 +668,7 @@
           "description": "Em um dia marcado por uma intensa agenda para os jornalistas que cobrem a Casa Branca, o governo dos Estados Unidos finalmente restabeleceu nesta quinta-feira (24/09) o acesso de profissionais da CNN, MS NOW e Politico à sede presidencial. A medida ocorreu horas após um juiz federal considerar provavelmente inconstitucional a proibição imposta pelo presidente […]\nO post Casa Branca recua e restabelece acesso de jornalistas após ordem judicial apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/casa-branca-recua-e-restabelece-acesso-de-jornalistas-apos-ordem-judicial/",
           "publishedOn": "2026-09-24T19:40:28.000Z",
-          "wordCount": 3947,
+          "wordCount": 3940,
           "title": "Casa Branca recua e restabelece acesso de jornalistas após ordem judicial",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-153750.png"
         },
@@ -628,7 +678,7 @@
           "description": "Dezenas de delegações, incluindo os representantes do Brasil, saíram do salão da 81ª Assembleia Geral da ONU, nesta quinta-feira (24/09), quando o primeiro-ministro israelense, Benjamin Netanyahu, subiu ao pódio. O protesto também ocorreu no ano passado. Enquanto opositores vaiaram, os sionistas e apoiadores de Tel Aviv cantaram “Am Yisrael Chai”, um refrão popular que significa […]\nO post Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel/ao-lado-de-outras-delegacoes-brasil-deixa-plenaria-durante-discurso-de-netanyahu-na-onu/",
           "publishedOn": "2026-09-24T18:57:36.000Z",
-          "wordCount": 4966,
+          "wordCount": 4959,
           "title": "Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-151439.png"
         },
@@ -638,51 +688,17 @@
           "description": "O ministro da Fazenda, Dario Durigan, disse nesta quinta-feira (24/09) que Antônio Carlos Freixo Júnior, o “Mineiro”, dono da Entre Investimentos, recebeu dinheiro do crime organizado. A Entre tem participação no financiamento de Dark Horse, filme que conta a vida do ex-presidente Jair Bolsonaro e que teve recursos do Banco Master, de Daniel Vorcaro. A […]\nO post Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/financiador-do-filme-dark-horse-recebeu-dinheiro-do-crime-organizado-diz-ministro/",
           "publishedOn": "2026-09-24T18:00:24.000Z",
-          "wordCount": 3037,
+          "wordCount": 3030,
           "title": "Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/0d9a5358.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266774",
-          "author": "Victor Farinelli",
-          "description": "Em carta enviada à Casa Branca, um grupo de 31 parlamentares dos Estados Unidos pediu ao governo do presidente Donald Trump explicações sobre medidas tomadas pelo país com relação ao Brasil, com questionamentos sobre possíveis interferências nas eleições presidenciais do país. O documento é assinado por 30 membros da Câmara de Representantes (câmara baixa dos […]\nO post Bernie Sanders e 30 democratas questionam Trump sobre interferência eleitoral no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/bernie-sanders-e-30-democratas-questionam-trump-sobre-interferencia-eleitoral-no-brasil/",
-          "publishedOn": "2026-09-24T17:20:27.000Z",
-          "wordCount": 3520,
-          "title": "Bernie Sanders e 30 democratas questionam Trump sobre interferência eleitoral no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sanders.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266768",
-          "author": "Tabitha Ramalho",
-          "description": "A defesa do ex-presidente Jair Bolsonaro desistiu, nesta quinta-feira (24/09), do pedido de medida cautelar apresentado ao Supremo Tribunal Federal (STF) para suspender a execução da pena de 27 anos e três meses de prisão à qual foi condenado por liderar uma tentativa de golpe de Estado. O pedido também havia sido apresentado hoje ao […]\nO post Defesa de Bolsonaro desiste de pedido para suspender pena no caso do golpe apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/defesa-de-bolsonaro-desiste-de-pedido-para-suspender-pena-no-caso-do-golpe/",
-          "publishedOn": "2026-09-24T16:43:38.000Z",
-          "wordCount": 3336,
-          "title": "Defesa de Bolsonaro desiste de pedido para suspender pena no caso do golpe",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/14092025-pzzb3313.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266762",
-          "author": "Tatiana Carlotti",
-          "description": "A Marinha dos Estados Unidos confirmou oito tentativas de suicídio entre os militares que integraram o grupo de ataque do porta-aviões USS Abraham Lincoln, que esteve em operação durante nove meses na guerra contra o Irã. “Desde o início da missão do Lincoln, houve um total de oito tentativas de suicídio em todo o grupo […]\nO post EUA: Marinha confirma oito tentativas de suicídio em porta-aviões durante guerra no Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/eua-marinha-confirma-oito-tentativas-de-suicidio-em-porta-avioes-durante-guerra-no-ira/",
-          "publishedOn": "2026-09-24T16:40:13.000Z",
-          "wordCount": 3322,
-          "title": "EUA: Marinha confirma oito tentativas de suicídio em porta-aviões durante guerra no Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/uss_abraham_lincoln_cvn-72_underway_in_the_south_china_sea_on_8_may_2006_060508-n-4166b-030.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266747",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente palestino, Mahmoud Abbas, iniciou seu discurso nesta quinta-feira (24/09) na 81ª Assembleia Geral da ONU e denunciou a decisão dos Estados Unidos de negar vistos a funcionários da Autoridade Palestina pelo segundo ano consecutivo, às vésperas da reunião anual de alto nível em Nova York. “Rejeitamos essas medidas punitivas ilegais, bem como as […]\nO post Líder da Autoridade Palestina denuncia violência israelense na ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/guerra-genocida-lider-da-autoridade-palestina-denuncia-violencia-israelense-na-onu/",
-          "publishedOn": "2026-09-24T16:00:02.000Z",
-          "wordCount": 4047,
-          "title": "Líder da Autoridade Palestina denuncia violência israelense na ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-112632.png"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -690,24 +706,24 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=233570",
+          "author": "Redação de AND",
+          "description": "Entre 12 e 23 de setembro, as forças ligadas ao Ansarallah ampliaram suas posições na costa do Mar Vermelho, tomaram as ilhas Hanish, derrubaram um F-15 saudita e lançaram grandes ataques contra bases e cidades da Arábia Saudita, incluindo Riad. No confronto entre o país Estados Unidos (EUA) e o Irã, o próprio Pentágono reconheceu pela primeira vez que a guerra produziu escassez estratégica de munições e gargalos na reposição de armamentos; o custo estimado chegou a US$ 43,6 bilhões, com mais de 820 militares ianques feridos. Em Gaza, ataques prosseguiram sob o cessar-fogo enquanto prédios danificados pelos bombardeios continuaram desabando sobre famílias deslocadas.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-23-09-2026/",
+          "publishedOn": "2026-09-25T12:20:27.000Z",
+          "wordCount": 9126,
+          "title": "Plantão Palestina (12–23/09): Ansarallah amplia ofensiva e reivindica ataques contra capital saudita; Pentágono admite falta de munições na guerra contra Irã",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina2-1.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=233554",
           "author": "Redação de AND",
           "description": "Memorando firmado em Cardiff cobra que Londres facilite mudanças constitucionais; pesquisas recentes apontam maior apoio à independência e à reunificação entre os jovens. Republicanos socialistas irlandeses criticam os limites da via institucional e defendem a direção proletária na luta de libertação nacional.",
           "link": "https://anovademocracia.com.br/escocia-gales-irlanda-reino-unido-referendo/",
           "publishedOn": "2026-09-24T21:38:16.000Z",
-          "wordCount": 8048,
+          "wordCount": 8049,
           "title": "Escócia, Gales e Irlanda do Norte exigem que Reino Unido aceite referendos de independência e reunificação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/revolucionarios-irlanda.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233522",
-          "author": "Redação de AND",
-          "description": "A Propósito debate a reta final das eleições de 2026 a crise política e institucional do velho Estado.",
-          "link": "https://anovademocracia.com.br/eleicoes-2026-crise-oque-urnas-podem-mudar/",
-          "publishedOn": "2026-09-24T20:08:12.000Z",
-          "wordCount": 6914,
-          "title": "ASSISTA: Eleições 2026: em meio à crise da velha ordem, o que as urnas podem mudar? – A Propósito #374",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/CapasAP-copiar-2.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=233480",
@@ -715,7 +731,7 @@
           "description": "No dia 3 de setembro, estudantes independentes e de organizações estudantis realizaram um ato na Universidade Federal de Minas Gerais (UFMG) pela abertura dos Restaurantes Universitários (RUs) I e II para o café da manhã e o jantar. A mobilização denunciou a precariedade da assistência estudantil e reivindicou melhores condições de permanência na universidade. O ato ocorreu após uma medida aplicada pela Fundação Mendes Pimentel (FUMP), entidade privada responsável pela gestão dos recursos da assistência estudantil repassados pela UFMG. De forma arbitrária e antidemocrática, a fundação informou aos estudantes que o jantar seria transferido de restaurante, assim como o café",
           "link": "https://anovademocracia.com.br/estudantes-abertura-restaurantes-ufmg/",
           "publishedOn": "2026-09-24T19:54:01.000Z",
-          "wordCount": 7419,
+          "wordCount": 7420,
           "title": "MG: Estudantes combativos realizam ato pela abertura dos dois Restaurantes Universitários da UFMG",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/video.mp4",
@@ -730,7 +746,7 @@
           "description": "Nova seção foi constituída em 19 de setembro com a incorporação do trabalho do Coletivo Anti-imperialista; organização afirma que fundação integra a expansão internacional da LAI.",
           "link": "https://anovademocracia.com.br/finlandia-liga-anti-imperialista-fundada/",
           "publishedOn": "2026-09-24T19:37:16.000Z",
-          "wordCount": 6826,
+          "wordCount": 6827,
           "title": "Finlândia: Liga Anti-imperialista Internacional funda seção no país",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-finlandia.webp"
         },
@@ -738,10 +754,10 @@
           "id": "https://anovademocracia.com.br/?p=233528",
           "author": "Redação de AND",
           "description": "A investigação aponta ainda uma rotina de troca de favores, que envolveu acesso a camarotes no Sambódromo do Rio de Janeiro e a cobrança de novas emendas.",
-          "link": "https://anovademocracia.com.br/flavio-bolsonaro-milhoes-marielle-franco/",
+          "link": "https://anovademocracia.com.br/flavio-bolsonaro-200-mil-marielle-franco/",
           "publishedOn": "2026-09-24T19:23:54.000Z",
           "wordCount": 7556,
-          "title": "Flávio Bolsonaro enviou R$ 200 milhões a paramilitar envolvido na execução de Marielle Franco",
+          "title": "Flávio Bolsonaro enviou R$ 200 mil a paramilitar envolvido na execução de Marielle Franco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-bolsonaro.png"
         },
         {
@@ -750,7 +766,7 @@
           "description": "Ursula von der Leyen anunciou novos instrumentos militares, medidas para reduzir dependências estratégicas e maior aproximação com Canadá e China; O Arauto Vermelho interpreta as propostas como parte das disputas interimperialistas.",
           "link": "https://anovademocracia.com.br/uniao-europeia-militarizacao-internacionais/",
           "publishedOn": "2026-09-24T19:16:37.000Z",
-          "wordCount": 6994,
+          "wordCount": 6995,
           "title": "União Europeia anuncia nova etapa de militarização e busca reordenar alianças interimperialistas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-UE.webp"
         },
@@ -760,7 +776,7 @@
           "description": "Realizado nos dias 17 e 18 de setembro, em Manaus, o Congresso teve baixa participação estudantil. Estudantes ouvidos pelo AND denunciaram regras antidemocráticas, aparelhamento da entidade e uma tímida aprovação de propostas de luta.",
           "link": "https://anovademocracia.com.br/xxii-congresso-de-estudantes-da-ufam-e-marcado-por-aparelhamento-e-imobilismo-denunciam-estudantes/",
           "publishedOn": "2026-09-24T18:37:57.000Z",
-          "wordCount": 8049,
+          "wordCount": 8050,
           "title": "XXII Congresso de Estudantes da UFAM é marcado por aparelhamento e imobilismo, denunciam estudantes",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/20260918151351whatsapp_image_2026-09-18_at_14.12.03_1.jpeg"
         },
@@ -770,7 +786,7 @@
           "description": "Decisão responsabiliza associação e antiga dirigente por prejuízos causados durante mobilização de 2017 em Chichimene; Nueva Democracia denuncia precedente para cobrar das comunidades os custos econômicos de greves, bloqueios e ocupações.",
           "link": "https://anovademocracia.com.br/colombia-organizacao-protestos-bloqueios/",
           "publishedOn": "2026-09-24T18:34:09.000Z",
-          "wordCount": 7311,
+          "wordCount": 7312,
           "title": "Colômbia: velho Estado condena organização comunitária a indenizar Ecopetrol por protestos com bloqueios de rodovia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-colombia.webp"
         },
@@ -780,7 +796,7 @@
           "description": "FACAM, bsCEM e o intelectual maoista Ajith se levantam contra a condenação à morte de dez adivasis; declarações relacionam sentença às atrocidades do Salwa Judum, à ofensiva contrainsurgente em Bastar e à Operação Kagaar.",
           "link": "https://anovademocracia.com.br/organizacoes-denuncia-condenados-india/",
           "publishedOn": "2026-09-24T18:20:27.000Z",
-          "wordCount": 8728,
+          "wordCount": 8729,
           "title": "Organizações denunciam ‘sentença política’ contra os ‘Dez de Jhiram Ghati’, condenados à morte pelo velho Estado fascista indiano",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/We-demand-the-immediate-revoking-of-the-undemocratic-politically-motivated-verdit-of-death-pen.jpg"
         },
@@ -824,7 +840,7 @@
           "description": "A filósofa que desconstruiu o neoliberalismo sustenta, em entrevista: ao romper as ideias de solidariedade e do Comum, o capital reabriu o mundo ao inferno do fascismo. Mas o declínio de Trump mostra: não vale a pena desertar da política\nThe post Wendy Brown: Há vida após o capitalismo tardio appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/pos-capitalismo/wendy-brown-ha-vida-apos-o-capitalismo-tardio/",
           "publishedOn": "2026-09-24T22:33:00.000Z",
-          "wordCount": 7158,
+          "wordCount": 7147,
           "title": "Wendy Brown: Há vida após o capitalismo tardio",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Sem-260924-WendyBrown.jpeg"
         },
@@ -844,7 +860,7 @@
           "description": "Um MC batalha há quinze anos, grava, organiza eventos e trabalha num supermercado. Sua outra ocupação torna seu trabalho artístico menos profissional? Qual a régua dos editais, e quem merece ser valorizado? Reflexões sobre a continuidade no ofício da arte \nThe post O trabalho artístico: A régua e a escadaria appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/desigualdades-mundo/o-trabalho-artistico-a-regua-e-a-escadaria/",
           "publishedOn": "2026-09-24T19:56:18.000Z",
-          "wordCount": 7261,
+          "wordCount": 7250,
           "title": "O trabalho artístico: A régua e a escadaria",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658098_x.jpg"
         },
@@ -854,7 +870,7 @@
           "description": "Estado enfrenta graves retrocessos: isenção bilionária aos agrotóxicos, áreas públicas quase regaladas ao agro, agências de pesquisa desmanteladas e água privatizada. Movimentos da Agroecologia propõem carta de compromisso a deputados para enfrentar modelo predatório\nThe post Eleições em SP: Como garantir comida boa no prato? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/eleicoes-em-sp-como-garantir-comida-boa-no-prato/",
           "publishedOn": "2026-09-24T19:53:16.000Z",
-          "wordCount": 5670,
+          "wordCount": 5673,
           "title": "Eleições em SP: Como garantir comida boa no prato?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658095_w.jpg"
         },
@@ -874,7 +890,7 @@
           "description": "Pedagoga foi pioneira do feminismo mexicano. Formulou programas de democratização do ensino no país, colocando a cultura nacional no centro. E promoveu misiones culturales para levar cuidados sanitários e formação política aos indígenas e camponeses\nThe post Educar e lutar: o marxismo de Elena Torres Cuéllar appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/feminismos/educar-e-lutar-o-marxismo-de-elena-torres-cuellar/",
           "publishedOn": "2026-09-24T19:26:39.000Z",
-          "wordCount": 8002,
+          "wordCount": 8005,
           "title": "Educar e lutar: o marxismo de Elena Torres Cuéllar",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658075_y.jpg"
         },
@@ -973,12 +989,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=66911",
+          "author": "Boitempo",
+          "description": "A partir dos dois shows de Milo J em São Paulo, o texto argumenta que o rapper argentino — autointitulado morocho color lodo e porta-voz do movimento da Argentina Marrom — rompeu o véu da propaganda eurocêntrica que sustenta o mito de um país branco e, ao fazê-lo, abriu uma via inesperada de diálogo entre brasileiros e argentinos.",
+          "link": "https://blogdaboitempo.com.br/2026/09/25/o-mito-da-argentina-branca-morre-na-pele-parda-de-milo-j/",
+          "publishedOn": "2026-09-25T11:00:00.000Z",
+          "wordCount": 13616,
+          "title": "O mito da Argentina branca morre na pele parda de Milo J",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/milo-lumachiararuiz_40lumachiararuiz-27.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=66889",
           "author": "Boitempo",
           "description": "Ronaldo Tadeu de Souza resenha \"Impasse — o Brasil diante da onda reacionária\", último volume do que ele chama de tetralogia de André Singer sobre o lulismo. O livro, de pouco mais de cem páginas, diagnostica a ascensão da extrema direita. Souza reconstrói o argumento de Singer sobre a cisão do empresariado brasileiro, sobre a captura do auxílio emergencial pelo bolsonarismo durante a pandemia e sobre a adesão em massa de Forças Armadas e polícias militares.",
           "link": "https://blogdaboitempo.com.br/2026/09/24/eleicoes-de-2026-o-impasse-brasileiro-andre-singer/",
           "publishedOn": "2026-09-24T11:00:00.000Z",
-          "wordCount": 12791,
+          "wordCount": 12634,
           "title": "Eleições de 2026, o Impasse Brasileiro: André Singer",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/7177ch2qonl.jpg?fit=800%2C1200&ssl=1"
         },
@@ -998,19 +1024,9 @@
           "description": "As vésperas das eleições 2026, o voto feminino tem sido tema em diferentes debates. No texto de hoje, a Profa. Dra. Marlise Matos situa historicamente esta discussão, trazendo reflexões urgentes sobre as relações de gênero e a política no Brasil; e provocando-nos a pensar os feminismos como uma “infraestrutura social de resistência política”. Não perca!",
           "link": "https://blogdaboitempo.com.br/2026/09/22/o-sufragio-feminino-se-transformou-no-fenomeno-das-eleicoes-brasileiras-de-2026/",
           "publishedOn": "2026-09-22T20:10:00.000Z",
-          "wordCount": 14578,
+          "wordCount": 14422,
           "title": "O sufrágio feminino se transformou no fenômeno das eleições brasileiras de 2026?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/2018-10-07_2o_ato_ele_nao_027_romerito_pontes.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=66761",
-          "author": "Boitempo",
-          "description": "Em posfácio a Meu Antônio, o economista Roberto Ribeiro Corrêa reconstrói a trajetória sindical e partidária de Raimundo Jinkings a partir de uma cena: a greve dos bancários de 1979, a primeira nacional depois do golpe, articulada em Belém no segundo andar da Livraria Jinkings. Companheiro de militância no PCB, Corrêa descreve um autodidata que dominava os clássicos do marxismo sem se deixar seduzir pelo voluntarismo da luta armada, e cujo lema era direto: \"Desistir da luta, jamais!\".",
-          "link": "https://blogdaboitempo.com.br/2026/09/20/a-trajetoria-sindical-e-politico-partidaria-de-jinkings/",
-          "publishedOn": "2026-09-20T20:58:12.000Z",
-          "wordCount": 12185,
-          "title": "A trajetória sindical e político-partidária de Jinkings",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/ra-jinkings-4.jpg"
         }
       ]
     }
