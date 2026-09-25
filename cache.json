@@ -44,16 +44,6 @@
           "wordCount": 1842,
           "title": "Esvaziamento do 11 de agosto demonstra descolamento das lutas nas bases",
           "imageUrl": "https://media.jornalofuturo.com.br/25-11agosto-1245x812.png"
-        },
-        {
-          "id": "w7CVjY",
-          "author": null,
-          "description": "A crise do transporte público de Rio Branco é o desdobramento de um cenário de descaso que se mantém há anos. A greve foi aprovada por unanimidade depois do completo colapso do transporte público municipal",
-          "link": "https://jornalofuturo.com.br/artigo/w7CVjY-greve-dos-estudantes-da-ufac-denunciou-precarizacao-e-descaso-com-o-transporte-publico",
-          "publishedOn": "2026-09-21T03:00:00.000Z",
-          "wordCount": 2080,
-          "title": "Greve dos estudantes da UFAC denunciou precarização e descaso com o transporte público",
-          "imageUrl": "https://media.jornalofuturo.com.br/25-UFAC-597x555.png"
         }
       ]
     },
@@ -63,12 +53,92 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6ab6c21fba0563f768d4eeff",
+          "author": "Diego Cruz",
+          "description": "Enquanto o bolsonarismo quer entregar o Brasil de bandeja a Trump, projeto do PT é incapaz de enfrentar o imperialismo",
+          "link": "https://opiniaosocialista.com.br/trump-tire-suas-maos-das-eleicoes-brasileiras/",
+          "publishedOn": "2026-09-25T19:00:19.000Z",
+          "wordCount": 2182,
+          "title": "Trump, tire suas mãos das eleições brasileiras",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Trump--2-.webp"
+        },
+        {
+          "id": "6ab6af14ba0563f768d4eee0",
+          "author": "Israel Luz",
+          "description": "A Operação Vectura Corrupta levou à prisão do ex-vereador Milton Leite (União Brasil) em Mogi das Cruzes (SP), no dia 18 de setembro, revelando mais uma face da influência do Primeiro Comando da Capital (PCC) na economia e na polí",
+          "link": "https://opiniaosocialista.com.br/prisao-de-aliado-de-tarcisio-revela-mais-conexoes-politicas-do-pcc/",
+          "publishedOn": "2026-09-25T17:30:17.000Z",
+          "wordCount": 1543,
+          "title": "Prisão de aliado de Tarcísio revela mais conexões políticas do PCC",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Milton-Leite-e-Tarcisio.webp"
+        },
+        {
+          "id": "6ab6a998ba0563f768d4eec0",
+          "author": "Joana Salay",
+          "description": "A sessão que terminou em acusações entre ministros deu um novo salto na crise do Supremo. A guerra entre Moraes e Mendonça expõe não apenas interesses políticos e eleitorais, mas a falsa neutralidade de uma instituição central do Estado capitalista",
+          "link": "https://opiniaosocialista.com.br/quando-o-stf-acusa-o-proprio-stf-de-fazer-politica/",
+          "publishedOn": "2026-09-25T17:25:08.000Z",
+          "wordCount": 1711,
+          "title": "Quando o STF acusa o próprio STF de fazer política",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/45c77620-2a72-4a5b-a96a-30eaa9dbe2d3.webp"
+        },
+        {
+          "id": "6ab6a874ba0563f768d4eea7",
+          "author": "Redação",
+          "description": "As greves nacionais dos trabalhadores da Caixa Econômica Federal e dos Correios chegam a quase duas semanas de duração e se consolidam como as mais importantes mobilizações da classe trabalhadora brasileira neste momento. Iniciadas em 10 de setembro, as paralisaçõ",
+          "link": "https://opiniaosocialista.com.br/greves-da-caixa-e-dos-correios-mostram-a-forca-da-luta-contra-os-ataques-aos-direitos/",
+          "publishedOn": "2026-09-25T17:02:41.000Z",
+          "wordCount": 1102,
+          "title": "Greves da Caixa e dos Correios mostram a força da luta contra os ataques aos direitos",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/greves-Correios--Caixa.webp"
+        },
+        {
+          "id": "6ab6a6d6ba0563f768d4ee8c",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Os operários e operárias da construção civil de Belém aprovaram, em assembleia realizada na última terça-feira (22), a proposta apresentada pela patronal e decidiram encerrar a greve iniciada no dia 17. Foram quatro dias de paralisaçã",
+          "link": "https://opiniaosocialista.com.br/operarios-e-operarias-da-construcao-civil-de-belem-conquistam-avancos-e-encerram-greve-apos-quatro-dias-de-luta/",
+          "publishedOn": "2026-09-25T16:58:18.000Z",
+          "wordCount": 1070,
+          "title": "Operários e operárias da construção civil de Belém conquistam avanços e encerram greve após quatro dias de luta",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/greve-belem.webp"
+        },
+        {
+          "id": "6ab6a589ba0563f768d4ee68",
+          "author": "Secretaria Nacional de Mulheres do PSTU",
+          "description": "É pela vida das mulheres: educação sexual para consentir, contraceptivo para não engravidar, aborto legal e seguro para não morrer",
+          "link": "https://opiniaosocialista.com.br/28s-chega-de-mortes-maternas-aborto-inseguro-e-feminicidio-de-estado/",
+          "publishedOn": "2026-09-25T16:50:45.000Z",
+          "wordCount": 1167,
+          "title": "28S: Chega de mortes maternas! Aborto inseguro é feminicídio de Estado",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/43221339564_2bfc5c309f_k.webp"
+        },
+        {
+          "id": "6ab6a3d4ba0563f768d4ee46",
+          "author": "PSTU Rio de Janeiro",
+          "description": "Governo Lula prepara rodada recorde de leilões para o dia 7 de outubro",
+          "link": "https://opiniaosocialista.com.br/em-defesa-da-soberania-nacional-contra-o-leilao-de-petroleo/",
+          "publishedOn": "2026-09-25T16:45:55.000Z",
+          "wordCount": 1651,
+          "title": "Em defesa da soberania nacional: contra o leilão de petróleo!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/leilao-petroleo-junho-2025-1152x1536--1-.webp"
+        },
+        {
+          "id": "6ab69fddba0563f768d4ee2d",
+          "author": "Paula Falcão",
+          "description": "O uso do aparato da Secretaria Municipal de Educação (SME) e das Coordenadorias Regionais de Educação (CREs) como palanque eleitoral no Rio de Janeiro escancara o controle político que corrói a gestão democrática nas escolas. Profissionais",
+          "link": "https://opiniaosocialista.com.br/a-realizacao-de-comicios-disfarcados-na-educacao-do-rio-de-janeiro-e-o-desmonte-da-gestao-democratica/",
+          "publishedOn": "2026-09-25T16:26:07.000Z",
+          "wordCount": 1066,
+          "title": "A realização de comícios disfarçados na Educação do Rio de Janeiro e o desmonte da gestão democrática",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/WhatsApp-Image-2026-09-25-at-12.42.53.webp"
+        },
+        {
           "id": "6ab54db2ba0563f768d4eded",
           "author": "Redação",
           "description": "Decisão não vai calar ou fazer retroceder a posição do PSTU na defesa incondicional da luta do povo palestino e pela liberdade de expressão",
           "link": "https://opiniaosocialista.com.br/urgente-julgamento-em-2a-instancia-mantem-condenacao-de-ze-maria-por-critica-ao-estado-de-israel-e-o-genocidio-em-gaza/",
           "publishedOn": "2026-09-24T16:34:54.000Z",
-          "wordCount": 1232,
+          "wordCount": 1212,
           "title": "Urgente: Julgamento em 2ª instância mantém condenação de Zé Maria por crítica ao Estado de Israel e o genocídio em Gaza",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Ze-Maria-condenado-por-critica-a-Israel.webp"
         },
@@ -88,7 +158,7 @@
           "description": "Qual opção têm os milhões de paranaenses, que vivem uma vida inteira lutando dia após dia pelo básico para sobreviver? As eleições são de fato um momento em que o povo trabalhador pode decidir",
           "link": "https://opiniaosocialista.com.br/eleicoes-no-parana-entre-a-cruz-e-a-espada/",
           "publishedOn": "2026-09-23T19:09:38.000Z",
-          "wordCount": 2484,
+          "wordCount": 2496,
           "title": "Eleições no Paraná: Entre a cruz e a espada?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/texto-parana.webp"
         },
@@ -108,7 +178,7 @@
           "description": "As greves dos trabalhadores dos Correios e da CEF (Caixa Econômica Federal) estão prestes a completar duas semanas e a intransigência do governo Lula e das direções das empresas estatais segue sendo a tônica.\nAmbas as categorias iniciaram o",
           "link": "https://opiniaosocialista.com.br/diante-da-intransigencia-do-governo-e-das-empresas-greve-na-cef-e-correios-seguem-fortes/",
           "publishedOn": "2026-09-23T15:33:06.000Z",
-          "wordCount": 978,
+          "wordCount": 1006,
           "title": "Diante da intransigência do governo e das empresas, greve na CEF e Correios seguem fortes",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/greves.webp"
         },
@@ -118,7 +188,7 @@
           "description": "As eleições de 2026 acontecem em um cenário de aprofundamento da crise social, econômica e ambiental do capitalismo. Enquanto a maioria do povo trabalhador enfrenta o desemprego, a precarização do trabalho, a violência, a destruição",
           "link": "https://opiniaosocialista.com.br/bahia-defendemos-hertz-dias-pstu-para-presidente-e-o-voto-critico-nas-candidaturas-da-up/",
           "publishedOn": "2026-09-23T02:02:00.000Z",
-          "wordCount": 1443,
+          "wordCount": 1455,
           "title": "Bahia: Defendemos Hertz Dias (PSTU) para presidente e o voto crítico nas candidaturas da UP",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/Hertz-Dias-e-Vanessa-Portugal.webp"
         },
@@ -128,7 +198,7 @@
           "description": "A campanha pela absolvição do dirigente político José Maria de Almeida, o Zé Maria, condenado em primeira instância por se posicionar a favor do povo palestino e denunciar o genocídio cometido por Israel, tem dias decisivos nesta semana. Na",
           "link": "https://opiniaosocialista.com.br/julgamento-em-2a-instancia-de-ze-maria-e-quinta-todos-ao-trf-3-defender-a-palestina-nao-e-crime/",
           "publishedOn": "2026-09-21T18:06:52.000Z",
-          "wordCount": 1521,
+          "wordCount": 1501,
           "title": "Julgamento em 2ª instância de Zé Maria é quinta: todos ao TRF-3! Defender a Palestina não é crime!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/Ze-Maria--3-.webp"
         }
@@ -139,6 +209,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/O-transporte-publico-nas-maos-dos-baroes-dos-onibus-um-obstaculo-a-permanencia-dos-estudantes-na",
+          "author": "Everton Pires, rodoviário do MRT, Giovana Pozzi",
+          "description": "A precarização do transporte público que viabiliza o acesso à Universidade Federal do Rio Grande do Sul (UFRGS) não é um simples resultado de uma falha da gestão administrativa da cidade. Consiste em uma decisão política que por sua vez é expressão da lógica capitalista em sua fase de crise e decadência: o direito universal à mobilidade urbana tratado como mercadoria e fonte de acumulação privada, subjugando as necessidades sociais da classe trabalhadora e da juventude em nome da taxa de (…)\n24-09-2026\n\n/ Classe trabalhadora, Educação, UFRGS, rodoviários poa, transporte público poa, carris, Precarização do Transporte Público, Permanência Estudantil, Privatização dos transportes, unidade operário-estudantil",
+          "link": "https://www.esquerdadiario.com.br/O-transporte-publico-nas-maos-dos-baroes-dos-onibus-um-obstaculo-a-permanencia-dos-estudantes-na",
+          "publishedOn": "2026-09-25T15:58:11.000Z",
+          "wordCount": null,
+          "title": "O transporte público nas mãos dos barões dos ônibus: um obstáculo à permanência dos estudantes na UFRGS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/As-tensoes-por-tras-da-estabilidade-administrada-de-Trump-e-Xi-Jinping",
           "author": "André Barbieri",
@@ -417,6 +497,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445153",
+          "author": "Isabella Mota",
+          "description": "Disputas internas, decisões monocráticas e o empoderamento desmedido revelam uma Corte disfuncional, mas a tentativa de destruí-la atende aos interesses do autoritarismo.\nO post Em meio à crise de conduta no STF, o silêncio do tribunal é o maior risco para a democracia apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/25/crise-stf-silencio-risco-democracia/",
+          "publishedOn": "2026-09-25T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Em meio à crise de conduta no STF, o silêncio do tribunal é o maior risco para a democracia",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/wide-17.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/wide-17.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445133",
           "author": "Mauricio Moraes",
           "description": "Gestão de Ricardo Nunes chegou a prorrogar contrato após ICB enviar documentos com endereços incorretos. ONG é presidida por Karina Ferreira da Gama, dona da produtora de ‘Dark Horse’.\nO post Prefeitura de SP aprovou planilha de ONG ligada a ‘Dark Horse’ que indica ponto de Wi-Fi em praia carioca apareceu primeiro em Intercept Brasil.",
@@ -499,12 +594,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163634",
+          "author": "Pedro Stropasolas",
+          "description": "Chamado de BRAvo, policiamento lançado pela Secretaria da Segurança Pública (SSP-SP) prevê patrulhamento ostensivo com policiais portando armamento pesado em ruas movimentadas da capital paulista\nO conteúdo Motos e fuzis contra furtos: novo batalhão da PM de SP é eleitoreiro e ineficiente, apontam especialistas Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/motos-e-fuzis-contra-furtos-novo-batalhao-da-pm-de-sp-e-eleitoreiro-e-ineficiente-apontam-especialistas/",
+          "publishedOn": "2026-09-25T19:37:27.000Z",
+          "wordCount": 7056,
+          "title": "Motos e fuzis contra furtos: novo batalhão da PM de SP é eleitoreiro e ineficiente, apontam especialistas",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-144034.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163549",
           "author": "Catarina Duarte",
           "description": "Ao longo de seis reportagens, Ponte reuniu recomendações de especialistas, movimentos sociais e jovens para ampliar o debate sobre segurança pública\nO conteúdo Dez propostas para pensar a segurança pública nas eleições Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/dez-propostas-para-pensar-a-seguranca-publica-nas-eleicoes/",
           "publishedOn": "2026-09-24T18:17:06.000Z",
-          "wordCount": 5716,
+          "wordCount": 5674,
           "title": "Dez propostas para pensar a segurança pública nas eleições",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/urna-eleicoes-arte-juniao.webp"
         },
@@ -593,12 +698,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=266851",
+          "author": "Tabitha Ramalho",
+          "description": "O Exército brasileiro coordenou, entre os dias 21 e 25 de setembro, a oitava edição do evento Guardião Cibernético às vésperas da eleição presidencial. A ação veio em meio aos alertas, tanto de especialistas, quanto da Agência Brasileira de Inteligência (Abin), para possíveis interferências estrangeiras no pleito brasileiro. O evento do Exército reuniu 1,3 mil […]\nO post Exército simula defesa cibernética no Brasil às vésperas da eleição apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/exercito-simula-defesa-cibernetica-no-brasil-as-vesperas-da-eleicao/",
+          "publishedOn": "2026-09-25T19:00:05.000Z",
+          "wordCount": 3415,
+          "title": "Exército simula defesa cibernética no Brasil às vésperas da eleição",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/capa_xxx_2.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266848",
+          "author": "Tabitha Ramalho",
+          "description": "Dezenas de militares e agentes antidrogas dos Estados Unidos participaram de uma operação contra integrantes do Cartel Jalisco Nova Geração, uma das maiores organizações criminosas do México, na cidade de Samborondón, região metropolitana de Guayaquil, no Equador. A ação ocorreu poucos dias após o presidente equatoriano, Daniel Noboa, defender na Assembleia Geral da ONU uma […]\nO post Escudo das Américas: tropas norte-americanas participam de operação antidrogas no Equador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/escudo-das-americas-tropas-norte-americanas-participam-de-operacao-antidrogas-no-equador/",
+          "publishedOn": "2026-09-25T18:21:41.000Z",
+          "wordCount": 3752,
+          "title": "Escudo das Américas: tropas norte-americanas participam de operação antidrogas no Equador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/hc01zcwakaasxf_.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266842",
+          "author": "Victor Farinelli",
+          "description": "Em comunicado difundido nesta sexta-feira (25/09) a Conferência Nacional dos Bispos do Brasil (CNBB) revelou estar enfrentando dificuldades para obter acesso à conta @cnbbnacional, perfil oficial da entidade na plataforma X. Segundo a nota, a CNBB teria entrado em contato com os representantes da plataforma no Brasil e “está realizando os procedimentos necessários para recuperar […]\nO post CNBB denuncia dificuldades de acesso ao X em meio à polêmica com campanha de Flávio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/cnbb-denuncia-dificuldades-de-acesso-ao-x-em-meio-a-polemica-com-campanha-de-flavio/",
+          "publishedOn": "2026-09-25T17:30:58.000Z",
+          "wordCount": 3747,
+          "title": "CNBB denuncia dificuldades de acesso ao X em meio à polêmica com campanha de Flávio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/anossasenhora.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266837",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente dos Estados Unidos, Donald Trump, disse ao seu homólogo chinês, Xi Jinping, que seria “inaceitável” a China ajudar o Irã durante a campanha militar dos EUA contra o país, disse um funcionário norte-americano à CNBC esta manhã (25/09). Essa sexta marca o último dia de agenda entre as lideranças na Casa Branca. “Deixamos […]\nO post Trump disse a Xi Jinping que ajuda chinesa ao Irã é ‘inaceitável’, segundo emissora apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-disse-a-xi-jinping-que-ajuda-chinesa-ao-ira-e-inaceitavel-segundo-emissora/",
+          "publishedOn": "2026-09-25T16:24:42.000Z",
+          "wordCount": 3439,
+          "title": "Trump disse a Xi Jinping que ajuda chinesa ao Irã é ‘inaceitável’, segundo emissora",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/vksozyr059a63j1w.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266832",
+          "author": "Victor Farinelli",
+          "description": "As críticas feitas pelo primeiro-ministro israelense Benjamin Netanyahu contra o prefeito de Nova York Zohran Mamdani na Assembleia-Geral da ONU foram respondidas pelo próprio gestor municipal, nesta quinta-feira (24/09). Segundo Mamdani, Netanyahu “usou seu discurso para repetir mentiras infundadas destinadas a encobrir seu genocídio contra os palestinos”. “Nenhuma mentira de Netanyahu pode mudar o fato […]\nO post Mamdani rebate críticas de Netanyahu na ONU: ‘mentiu para encobrir genocídio’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/mamdani-rebate-criticas-de-netanyahu-na-onu-mentiu-para-encobrir-genocidio/",
+          "publishedOn": "2026-09-25T15:30:26.000Z",
+          "wordCount": 3263,
+          "title": "Mamdani rebate críticas de Netanyahu na ONU: ‘mentiu para encobrir genocídio’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/mamdani.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=266829",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente iraniano, Masoud Pezeshkian, declarou nesta quinta-feira (24/09) que seu país “não escolheu a guerra”, mas que ela foi imposta pelos Estados Unidos e por Israel, que decidiram pela via militar. “Não escolhemos a guerra. A guerra nos foi imposta. Não a buscamos; pelo contrário, quando somos atacados, somos forçados a nos defender. Nunca […]\nO post ‘Não escolhemos a guerra, fomos forçados a nos defender’, diz presidente do Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/nao-escolhemos-a-guerra-fomos-forcados-a-nos-defender-diz-presidente-do-ira/",
+          "publishedOn": "2026-09-25T14:40:49.000Z",
+          "wordCount": 3959,
+          "title": "‘Não escolhemos a guerra, fomos forçados a nos defender’, diz presidente do Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/gqxk1dbwcaanttx.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=266823",
           "author": "Tabitha Ramalho",
           "description": "O porta-voz da presidência russa, Dmitry Peskov, informou, nesta sexta-feira (25/09), que uma reunião trilateral entre Rússia, Estados Unidos e Ucrânia poderá ocorrer em breve. Segundo ele, a possibilidade foi discutida durante a última conversa telefônica entre os presidentes Vladimir Putin e Donald Trump. Ainda não há, no entanto, uma data definida para o encontro. […]\nO post Kremlin confirma que Rússia, EUA e Ucrânia podem realizar reunião trilateral em breve apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/kremlin-confirma-que-russia-eua-e-ucrania-podem-realizar-reuniao-trilateral-em-breve/",
           "publishedOn": "2026-09-25T13:02:52.000Z",
-          "wordCount": 3237,
+          "wordCount": 3255,
           "title": "Kremlin confirma que Rússia, EUA e Ucrânia podem realizar reunião trilateral em breve",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump_putin_alaska_arrival_9260677-1.webp"
         },
@@ -608,7 +773,7 @@
           "description": "O partido governista Rússia Unida venceu as eleições parlamentares realizadas na semana passada, anunciou na sexta-feira (25/09) a presidente da Comissão Eleitoral Central, Ella Pamfilova. “O partido Rússia Unida conquistou 349 cadeiras: 140 dos distritos federais e 209 de circunscrições uninominais”, anunciou Pamfilova. A Câmara Baixa do Parlamento russo tem um total de 450 cadeiras. […]\nO post Partido governista da Rússia vence oficialmente as eleições apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/partido-governista-da-russia-vence-oficialmente-as-eleicoes/",
           "publishedOn": "2026-09-25T11:52:47.000Z",
-          "wordCount": 3222,
+          "wordCount": 3241,
           "title": "Partido governista da Rússia vence oficialmente as eleições",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/6ab633fee9ff716ff1057947.jpg"
         },
@@ -618,7 +783,7 @@
           "description": "A pobreza na Argentina aumentou 4,1 pontos percentuais no primeiro semestre de 2026, atingindo 32,3% da população, o equivalente a 15,5 milhões de pessoas. A indigência também avançou 1,2 ponto, alcançando 7,5% dos habitantes, ou 3,6 milhões de pessoas. Esse primeiro crescimento da população pobre resulta de uma combinação de alta da inflação, perda do […]\nO post Argentina: pobreza sobe 4,1 pontos e atinge 15,5 milhões de pessoas sob governo Milei apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/argentina-pobreza-sobe-41-pontos-e-atinge-155-milhoes-de-pessoas-sob-governo-milei/",
           "publishedOn": "2026-09-25T11:28:35.000Z",
-          "wordCount": 4768,
+          "wordCount": 4786,
           "title": "Argentina: pobreza sobe 4,1 pontos e atinge 15,5 milhões de pessoas sob governo Milei",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/10/javier-milei.webp"
         },
@@ -628,69 +793,9 @@
           "description": "No discurso de terça-feira (24/09) na 81ª Assembleia Geral da ONU, o premiê de Israel, Benjamin Netanyahu, citou que seu país está “travando uma guerra em sete frentes”, uma delas seria na Síria. Netanyahu, inclusive, se dirigiu nominalmente ao presidente sírio Ahmed al-Sharaa, declarando que o mandatário “deveria saber que o povo judeu está nas […]\nO post ‘Israel ataca Síria para conter avanço turco e como guerra eleitoral’, dizem especialistas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/israel-ataca-siria-para-conter-avanco-turco-e-como-guerra-eleitoral-dizem-especialistas/",
           "publishedOn": "2026-09-25T10:00:17.000Z",
-          "wordCount": 4789,
+          "wordCount": 4807,
           "title": "‘Israel ataca Síria para conter avanço turco e como guerra eleitoral’, dizem especialistas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/pmerdogan1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266807",
-          "author": "Victor Farinelli",
-          "description": "O presidente Lula (PT) aparece com 40% das intenções de voto para o primeiro turno da eleição presidencial de 2026, enquanto Flávio Bolsonaro (PL) aparece com 36% na nova pesquisa divulgada pelo Datafolha nesta quinta-feira (24/09). Além de Lula e Flávio Bolsonaro, a pesquisa registra Augusto Cury (Avante) com 5%, Ronaldo Caiado (PSD) com 4% […]\nO post Datafolha: Lula cresce no 1º turno e aumenta vantagem sobre Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/datafolha-lula-cresce-no-1o-turno-e-aumenta-vantagem-sobre-flavio-bolsonaro/",
-          "publishedOn": "2026-09-24T23:29:34.000Z",
-          "wordCount": 3554,
-          "title": "Datafolha: Lula cresce no 1º turno e aumenta vantagem sobre Flávio Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lula-flavio.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266801",
-          "author": "Victor Farinelli",
-          "description": "O avião Lockheed Martin HC-130J Combat King II, pertencente à Força Aérea dos Estados Unidos (USAF, por sua sigla em inglês), pousou nesta quinta-feira (24/09) na Base Aérea de Campo Grande (BACG), na capital do Mato Grosso do Sul. A Força Aérea Brasileira (FAB) informou por meio de nota que a aeronave veio ao país […]\nO post Avião que participou em sequestro de Maduro pousa no Brasil para exercícios militares apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/aviao-que-participou-em-sequestro-de-maduro-pousa-no-brasil-para-exercicios-militares/",
-          "publishedOn": "2026-09-24T21:00:16.000Z",
-          "wordCount": 3178,
-          "title": "Avião que participou em sequestro de Maduro pousa no Brasil para exercícios militares",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hcj.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266800",
-          "author": "Raissa Neves",
-          "description": "O Brasil é conhecido por ser um país de contrastes profundos. Um dos mais reveladores é a forma como a leniência ou o punitivismo se alternam segundo a cor de pele, a origem social e a posição ideológica dos que sofrem o escrutínio da opinião publicada. Figuras como Jorge Paulo Lemann e Joseph Safra costumam […]\nO post ‘Escândalo da Tapioca’: fabricação de um caso contra a esquerda brasileira apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/escandalo-da-tapioca-fabricacao-de-um-caso-contra-a-esquerda-brasileira/",
-          "publishedOn": "2026-09-24T20:20:31.000Z",
-          "wordCount": 4798,
-          "title": "‘Escândalo da Tapioca’: fabricação de um caso contra a esquerda brasileira",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/agencia_brasil_4_de_marco_de_2008_05.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266784",
-          "author": "Raissa Neves",
-          "description": "Em um dia marcado por uma intensa agenda para os jornalistas que cobrem a Casa Branca, o governo dos Estados Unidos finalmente restabeleceu nesta quinta-feira (24/09) o acesso de profissionais da CNN, MS NOW e Politico à sede presidencial. A medida ocorreu horas após um juiz federal considerar provavelmente inconstitucional a proibição imposta pelo presidente […]\nO post Casa Branca recua e restabelece acesso de jornalistas após ordem judicial apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/casa-branca-recua-e-restabelece-acesso-de-jornalistas-apos-ordem-judicial/",
-          "publishedOn": "2026-09-24T19:40:28.000Z",
-          "wordCount": 3940,
-          "title": "Casa Branca recua e restabelece acesso de jornalistas após ordem judicial",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-153750.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266783",
-          "author": "Tabitha Ramalho",
-          "description": "Dezenas de delegações, incluindo os representantes do Brasil, saíram do salão da 81ª Assembleia Geral da ONU, nesta quinta-feira (24/09), quando o primeiro-ministro israelense, Benjamin Netanyahu, subiu ao pódio. O protesto também ocorreu no ano passado. Enquanto opositores vaiaram, os sionistas e apoiadores de Tel Aviv cantaram “Am Yisrael Chai”, um refrão popular que significa […]\nO post Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/ao-lado-de-outras-delegacoes-brasil-deixa-plenaria-durante-discurso-de-netanyahu-na-onu/",
-          "publishedOn": "2026-09-24T18:57:36.000Z",
-          "wordCount": 4959,
-          "title": "Ao lado de outras delegações, Brasil deixa plenária durante discurso de Netanyahu na ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-151439.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=266773",
-          "author": "Raissa Neves",
-          "description": "O ministro da Fazenda, Dario Durigan, disse nesta quinta-feira (24/09) que Antônio Carlos Freixo Júnior, o “Mineiro”, dono da Entre Investimentos, recebeu dinheiro do crime organizado. A Entre tem participação no financiamento de Dark Horse, filme que conta a vida do ex-presidente Jair Bolsonaro e que teve recursos do Banco Master, de Daniel Vorcaro. A […]\nO post Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/financiador-do-filme-dark-horse-recebeu-dinheiro-do-crime-organizado-diz-ministro/",
-          "publishedOn": "2026-09-24T18:00:24.000Z",
-          "wordCount": 3030,
-          "title": "Financiador do filme ‘Dark Horse’ recebeu dinheiro do crime organizado, diz ministro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/0d9a5358.webp"
         }
       ]
     },
@@ -706,12 +811,62 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=233614",
+          "author": "Giovanna Maria",
+          "description": "Operários, estudantes e professores fundaram o Comitê em 20 de setembro, após estudo e debate sobre as eleições e o caráter burocrático-latifundiário do velho Estado. Novas atividades estão previstas para o período eleitoral.",
+          "link": "https://anovademocracia.com.br/comite-de-boicote-a-farsa-eleitoral-e-fundado-em-sorocaba/",
+          "publishedOn": "2026-09-25T19:54:11.000Z",
+          "wordCount": 7345,
+          "title": "Comitê de Boicote à Farsa Eleitoral é fundado em Sorocaba",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-88.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233604",
+          "author": "Redação de AND",
+          "description": "Protestos varrem a Venezuela desde 22 de setembro: em Caracas, manifestantes denunciam a tutela do EUA e trabalhadores marcham por salários; em vários estados, moradores levantam barricadas contra apagões prolongados. Em meio à revolta popular, Delcy reuniu-se com Trump, celebrou acordos energéticos com Washington e não citou Nicolás Maduro na ONU.",
+          "link": "https://anovademocracia.com.br/delcy-imperio-protestos-venezuela-eua/",
+          "publishedOn": "2026-09-25T19:38:43.000Z",
+          "wordCount": 8832,
+          "title": "‘Delcy ajoelhada diante do império’: protestos varrem a Venezuela contra a vassalagem do governo interino ao EUA",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-87.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233592",
+          "author": "Montezuma Cruz",
+          "description": "Seminário em Porto Velho expõe paralisia da “reforma agrária”, avanço da violência no campo e denúncias de criminalização de camponeses e indígenas em Rondônia.",
+          "link": "https://anovademocracia.com.br/seminario-terra-em-conflito-em-rondonia/",
+          "publishedOn": "2026-09-25T18:25:38.000Z",
+          "wordCount": 7644,
+          "title": "O velho Estado fica nu no seminário Terra em Conflito em Rondônia",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-terra-em-conflito-ro-2.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233569",
+          "author": "Rosana Bond",
+          "description": "Estudantes de História denunciam teorias anticientíficas e mercantilização de sítios arqueológicos que apagam a presença indígena em Santa Catarina.",
+          "link": "https://anovademocracia.com.br/estudantes-ufsc-farsa-arqueologica-evento/",
+          "publishedOn": "2026-09-25T15:03:52.000Z",
+          "wordCount": 7770,
+          "title": "Estudantes da UFSC repudiam farsa arqueológica de evento",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Aldeia-Morro-dos-Cavalos-Palhoca-SC_1-scaled-1-1024x768.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233580",
+          "author": "Redação de AND",
+          "description": "Integrante da Comissão Estudantil Revolucionária desapareceu em 21 de setembro, após comunicar a companheiros que havia sido preso em Nairóbi; organização havia lançado apelo internacional exigindo informações sobre seu paradeiro.",
+          "link": "https://anovademocracia.com.br/quenia-militante-estudantil-desaparecido/",
+          "publishedOn": "2026-09-25T14:08:25.000Z",
+          "wordCount": 7022,
+          "title": "Quênia: militante estudantil Mulinge Muteti é encontrado ferido após quatro dias desaparecido",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/SaveClip.App_821051225_17938912098365314_5448655274477638761_n-e1790345037638.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=233570",
           "author": "Redação de AND",
           "description": "Entre 12 e 23 de setembro, as forças ligadas ao Ansarallah ampliaram suas posições na costa do Mar Vermelho, tomaram as ilhas Hanish, derrubaram um F-15 saudita e lançaram grandes ataques contra bases e cidades da Arábia Saudita, incluindo Riad. No confronto entre o país Estados Unidos (EUA) e o Irã, o próprio Pentágono reconheceu pela primeira vez que a guerra produziu escassez estratégica de munições e gargalos na reposição de armamentos; o custo estimado chegou a US$ 43,6 bilhões, com mais de 820 militares ianques feridos. Em Gaza, ataques prosseguiram sob o cessar-fogo enquanto prédios danificados pelos bombardeios continuaram desabando sobre famílias deslocadas.",
           "link": "https://anovademocracia.com.br/plantao-palestina-23-09-2026/",
           "publishedOn": "2026-09-25T12:20:27.000Z",
-          "wordCount": 9126,
+          "wordCount": 9123,
           "title": "Plantão Palestina (12–23/09): Ansarallah amplia ofensiva e reivindica ataques contra capital saudita; Pentágono admite falta de munições na guerra contra Irã",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina2-1.jpg"
         },
@@ -721,7 +876,7 @@
           "description": "Memorando firmado em Cardiff cobra que Londres facilite mudanças constitucionais; pesquisas recentes apontam maior apoio à independência e à reunificação entre os jovens. Republicanos socialistas irlandeses criticam os limites da via institucional e defendem a direção proletária na luta de libertação nacional.",
           "link": "https://anovademocracia.com.br/escocia-gales-irlanda-reino-unido-referendo/",
           "publishedOn": "2026-09-24T21:38:16.000Z",
-          "wordCount": 8049,
+          "wordCount": 8046,
           "title": "Escócia, Gales e Irlanda do Norte exigem que Reino Unido aceite referendos de independência e reunificação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/revolucionarios-irlanda.jpg"
         },
@@ -731,7 +886,7 @@
           "description": "No dia 3 de setembro, estudantes independentes e de organizações estudantis realizaram um ato na Universidade Federal de Minas Gerais (UFMG) pela abertura dos Restaurantes Universitários (RUs) I e II para o café da manhã e o jantar. A mobilização denunciou a precariedade da assistência estudantil e reivindicou melhores condições de permanência na universidade. O ato ocorreu após uma medida aplicada pela Fundação Mendes Pimentel (FUMP), entidade privada responsável pela gestão dos recursos da assistência estudantil repassados pela UFMG. De forma arbitrária e antidemocrática, a fundação informou aos estudantes que o jantar seria transferido de restaurante, assim como o café",
           "link": "https://anovademocracia.com.br/estudantes-abertura-restaurantes-ufmg/",
           "publishedOn": "2026-09-24T19:54:01.000Z",
-          "wordCount": 7420,
+          "wordCount": 7417,
           "title": "MG: Estudantes combativos realizam ato pela abertura dos dois Restaurantes Universitários da UFMG",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/09/video.mp4",
@@ -746,7 +901,7 @@
           "description": "Nova seção foi constituída em 19 de setembro com a incorporação do trabalho do Coletivo Anti-imperialista; organização afirma que fundação integra a expansão internacional da LAI.",
           "link": "https://anovademocracia.com.br/finlandia-liga-anti-imperialista-fundada/",
           "publishedOn": "2026-09-24T19:37:16.000Z",
-          "wordCount": 6827,
+          "wordCount": 6824,
           "title": "Finlândia: Liga Anti-imperialista Internacional funda seção no país",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-finlandia.webp"
         },
@@ -756,59 +911,9 @@
           "description": "A investigação aponta ainda uma rotina de troca de favores, que envolveu acesso a camarotes no Sambódromo do Rio de Janeiro e a cobrança de novas emendas.",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-200-mil-marielle-franco/",
           "publishedOn": "2026-09-24T19:23:54.000Z",
-          "wordCount": 7556,
+          "wordCount": 7554,
           "title": "Flávio Bolsonaro enviou R$ 200 mil a paramilitar envolvido na execução de Marielle Franco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-bolsonaro.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233524",
-          "author": "Redação de AND",
-          "description": "Ursula von der Leyen anunciou novos instrumentos militares, medidas para reduzir dependências estratégicas e maior aproximação com Canadá e China; O Arauto Vermelho interpreta as propostas como parte das disputas interimperialistas.",
-          "link": "https://anovademocracia.com.br/uniao-europeia-militarizacao-internacionais/",
-          "publishedOn": "2026-09-24T19:16:37.000Z",
-          "wordCount": 6995,
-          "title": "União Europeia anuncia nova etapa de militarização e busca reordenar alianças interimperialistas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-UE.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233513",
-          "author": "Giovanna Maria",
-          "description": "Realizado nos dias 17 e 18 de setembro, em Manaus, o Congresso teve baixa participação estudantil. Estudantes ouvidos pelo AND denunciaram regras antidemocráticas, aparelhamento da entidade e uma tímida aprovação de propostas de luta.",
-          "link": "https://anovademocracia.com.br/xxii-congresso-de-estudantes-da-ufam-e-marcado-por-aparelhamento-e-imobilismo-denunciam-estudantes/",
-          "publishedOn": "2026-09-24T18:37:57.000Z",
-          "wordCount": 8050,
-          "title": "XXII Congresso de Estudantes da UFAM é marcado por aparelhamento e imobilismo, denunciam estudantes",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/20260918151351whatsapp_image_2026-09-18_at_14.12.03_1.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233512",
-          "author": "Redação de AND",
-          "description": "Decisão responsabiliza associação e antiga dirigente por prejuízos causados durante mobilização de 2017 em Chichimene; Nueva Democracia denuncia precedente para cobrar das comunidades os custos econômicos de greves, bloqueios e ocupações.",
-          "link": "https://anovademocracia.com.br/colombia-organizacao-protestos-bloqueios/",
-          "publishedOn": "2026-09-24T18:34:09.000Z",
-          "wordCount": 7312,
-          "title": "Colômbia: velho Estado condena organização comunitária a indenizar Ecopetrol por protestos com bloqueios de rodovia",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-24-colombia.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233506",
-          "author": "Redação de AND",
-          "description": "FACAM, bsCEM e o intelectual maoista Ajith se levantam contra a condenação à morte de dez adivasis; declarações relacionam sentença às atrocidades do Salwa Judum, à ofensiva contrainsurgente em Bastar e à Operação Kagaar.",
-          "link": "https://anovademocracia.com.br/organizacoes-denuncia-condenados-india/",
-          "publishedOn": "2026-09-24T18:20:27.000Z",
-          "wordCount": 8729,
-          "title": "Organizações denunciam ‘sentença política’ contra os ‘Dez de Jhiram Ghati’, condenados à morte pelo velho Estado fascista indiano",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/We-demand-the-immediate-revoking-of-the-undemocratic-politically-motivated-verdit-of-death-pen.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233483",
-          "author": "Montezuma Cruz",
-          "description": "Este artigo é de responsabilidade do autor. Por decisão unânime do Tribunal de Justiça do Estado de Rondônia, mais de cem famílias da Área Tiago Campin dos Santos terão direito a continuar nas terras. Todas elas estavam ameaçadas de despejo a pedido do latifundiário Antônio Martins dos Santos, o “Galo Velho”, muito conhecido em seus ataques à Liga dos Camponeses Pobres (LCP) desde o município de Jaru. O acampamento Tiago dos Santos fica próximo à BR-364, no sentido Porto Velho-Guajará-Mirim e Rio Branco (AC). Ao prestar a informação nesta quarta-feira (23), o advogado Felipe Nicolau, presidente da Associação Brasileira dos",
-          "link": "https://anovademocracia.com.br/camponeses-ficam-na-area-tiago-dos-santos/",
-          "publishedOn": "2026-09-24T14:12:49.000Z",
-          "wordCount": 7289,
-          "title": "Camponeses ficam na Área Tiago dos Santos; TJ suspende reintegração de posse",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/04/br4-596-Editado.jpg"
         }
       ]
     },
@@ -835,12 +940,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3205121",
+          "author": "Lucas Scatolini",
+          "description": "Qual invenção foi mais importante: o preservativo ou o avião? O gênio que patenteia o “novo” tem mais valor que a engenharia da manutenção? Livro polemiza: o futuro não é a eliminação do velho; e o compartilhamento e a imitação superam o “isolamento criativo”\nThe post Técnica e tradição: Os que criam e os que conservam appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/tecnica-e-tradicao-os-que-criam-e-os-que-conservam/",
+          "publishedOn": "2026-09-25T19:28:26.000Z",
+          "wordCount": 8899,
+          "title": "Técnica e tradição: Os que criam e os que conservam",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5023837312609094777.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205080",
+          "author": "Lucas Scatolini",
+          "description": "Ataque dos EUA ao Irã e guerra na Ucrânia estrangulam fornecimento de insumos essenciais à agricultura, como fertilizantes e petróleo. Super El Niño agrava o quadro: preço de produtos como trigo, soja e arroz disparam. Cenário instável pode intensificar a insegurança alimentar no mundo\nThe post A possível crise global dos alimentos appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/a-possivel-crise-global-dos-alimentos/",
+          "publishedOn": "2026-09-25T19:08:31.000Z",
+          "wordCount": 4188,
+          "title": "A possível crise global dos alimentos",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5023837312609094775.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205082",
+          "author": "Lucas Scatolini",
+          "description": "Como milhares de outros jovens, nos anos 1970, o repórter mergulha na vida clandestina e nos debates sobre o caráter da sociedade brasileira e a  estratégia revolucionária. AP e PCdoB vão ao Araguaia. Como se fez a escolha? O que a realidade disse sobre ela?\nThe post Memórias do Jornalismo: Em pauta, a revolução brasileira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-em-pauta-a-revolucao-brasileira/",
+          "publishedOn": "2026-09-25T18:31:58.000Z",
+          "wordCount": 5129,
+          "title": "Memórias do Jornalismo: Em pauta, a revolução brasileira",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5023837312609094767-1.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3205051",
           "author": "Antonio Martins",
           "description": "A filósofa que desconstruiu o neoliberalismo sustenta, em entrevista: ao romper as ideias de solidariedade e do Comum, o capital reabriu o mundo ao inferno do fascismo. Mas o declínio de Trump mostra: não vale a pena desertar da política\nThe post Wendy Brown: Há vida após o capitalismo tardio appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/pos-capitalismo/wendy-brown-ha-vida-apos-o-capitalismo-tardio/",
           "publishedOn": "2026-09-24T22:33:00.000Z",
-          "wordCount": 7147,
+          "wordCount": 7150,
           "title": "Wendy Brown: Há vida após o capitalismo tardio",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Sem-260924-WendyBrown.jpeg"
         },
@@ -850,7 +985,7 @@
           "description": "Ferramenta barateia um insumo estratégico na economia da atenção: conteúdo visual constante. Mas novo livro alerta: em um mundo saturado de imagens que se alimentam de si mesmas, a imaginação, um dos elementos que nos tornam humanos, pode estar sendo corroída\nThe post IA: A fartura de imagens e a escassez do imaginário appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-a-fartura-de-imagens-e-a-escassez-do-imaginario/",
           "publishedOn": "2026-09-24T21:32:08.000Z",
-          "wordCount": 5024,
+          "wordCount": 5023,
           "title": "IA: A fartura de imagens e a escassez do imaginário",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658085_y.jpg"
         },
@@ -860,17 +995,17 @@
           "description": "Um MC batalha há quinze anos, grava, organiza eventos e trabalha num supermercado. Sua outra ocupação torna seu trabalho artístico menos profissional? Qual a régua dos editais, e quem merece ser valorizado? Reflexões sobre a continuidade no ofício da arte \nThe post O trabalho artístico: A régua e a escadaria appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/desigualdades-mundo/o-trabalho-artistico-a-regua-e-a-escadaria/",
           "publishedOn": "2026-09-24T19:56:18.000Z",
-          "wordCount": 7250,
+          "wordCount": 7247,
           "title": "O trabalho artístico: A régua e a escadaria",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658098_x.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3205000",
           "author": "Rôney Rodrigues",
-          "description": "Estado enfrenta graves retrocessos: isenção bilionária aos agrotóxicos, áreas públicas quase regaladas ao agro, agências de pesquisa desmanteladas e água privatizada. Movimentos da Agroecologia propõem carta de compromisso a deputados para enfrentar modelo predatório\nThe post Eleições em SP: Como garantir comida boa no prato? appeared first on Outras Palavras.",
+          "description": "Estado enfrenta graves retrocessos: isenção bilionária aos agrotóxicos, áreas públicas quase regaladas ao agro, agências de pesquisa desmanteladas e água privatizada. Movimentos da Agroecologia propõem carta de compromisso a candidaturas para enfrentar modelo predatório\nThe post Eleições em SP: Como garantir comida boa no prato? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/eleicoes-em-sp-como-garantir-comida-boa-no-prato/",
           "publishedOn": "2026-09-24T19:53:16.000Z",
-          "wordCount": 5673,
+          "wordCount": 5670,
           "title": "Eleições em SP: Como garantir comida boa no prato?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658095_w.jpg"
         },
@@ -880,7 +1015,7 @@
           "description": "O último roteiro do pai morto. O diretor que desapareceu. E uma equipe pluralíssima. Morte e vida Madalena mostra que, por trás das câmeras, há um laboratório de experiências humanas – às vezes difícil de gerir – e que concluir um filme no Brasil é um ato de resistência e amor\nThe post As utopias que movem o set de filmagens appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/as-utopias-que-movem-o-set-de-filmagens/",
           "publishedOn": "2026-09-24T19:33:35.000Z",
-          "wordCount": 4096,
+          "wordCount": 4124,
           "title": "As utopias que movem o set de filmagens",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658077_w.jpg"
         },
@@ -890,7 +1025,7 @@
           "description": "Pedagoga foi pioneira do feminismo mexicano. Formulou programas de democratização do ensino no país, colocando a cultura nacional no centro. E promoveu misiones culturales para levar cuidados sanitários e formação política aos indígenas e camponeses\nThe post Educar e lutar: o marxismo de Elena Torres Cuéllar appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/feminismos/educar-e-lutar-o-marxismo-de-elena-torres-cuellar/",
           "publishedOn": "2026-09-24T19:26:39.000Z",
-          "wordCount": 8005,
+          "wordCount": 8013,
           "title": "Educar e lutar: o marxismo de Elena Torres Cuéllar",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5019540958038658075_y.jpg"
         },
@@ -903,36 +1038,6 @@
           "wordCount": 4912,
           "title": "Esquerda: As lições da vitória em Berlim",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/220923-Linke.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204865",
-          "author": "Lucas Scatolini",
-          "description": "Em contrapeso à melhora nos indicadores econômicos, precarização da vida cotidiana, exaustão nos deslocamentos urbanos e comida cara permanecem latentes. Batalha moral nos noticiários distrai a esquerda. Combustível eleitoral requer responder ao sofrimento diário\nThe post As planilhas funcionam, mas os votos não vêm appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
-          "publishedOn": "2026-09-23T20:11:47.000Z",
-          "wordCount": 8227,
-          "title": "As planilhas funcionam, mas os votos não vêm",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972944_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204873",
-          "author": "Lucas Scatolini",
-          "description": "A complexidade não é rentável para as plataformas. A realidade é manipulável, as identidades podem ser moldadas e até o erotismo, território da invenção, é rastreado e monetizado. Como podemos reivindicar o corpo, o prazer e a liberdade diante do poder das máquinas?\nThe post Eros e o fantasma do algoritmo que nos assombra appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/eros-e-o-fantasma-do-algoritmo-que-nos-assombra/",
-          "publishedOn": "2026-09-23T20:06:21.000Z",
-          "wordCount": 3533,
-          "title": "Eros e o fantasma do algoritmo que nos assombra",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972957_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3204869",
-          "author": "Lucas Scatolini",
-          "description": "Crônica da última década. Pessoas fazendo entregas pela manhã, cursos à noite e bicos nos intervalos. O diploma na mão, os olhos cansados e empregos precários. A disponibilidade se tornou eterna; o sujeito, uma marca ambulante. E, “do nada”, é necessário começar novamente\nThe post O trabalho numa sociedade ferida appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/o-trabalho-numa-sociedade-ferida/",
-          "publishedOn": "2026-09-23T19:13:00.000Z",
-          "wordCount": 4585,
-          "title": "O trabalho numa sociedade ferida",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5017289158224972935_w.jpg"
         }
       ]
     },
@@ -989,12 +1094,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=66952",
+          "author": "Boitempo",
+          "description": "No texto de hoje, Walter Lippold elabora uma reflexão sobre a trend \"anos 80\" que dominou a internet há algumas semanas. É a partir dela que o historiador tece uma crítica contundente articulando inteligência artificial, big techs, capitalismo, vigilância, dados, etc. \"Aqui a IA se transforma em um Moloch devorador de semblantes e de fotos antigas, assim como o Projeto Panama da Anthropic corta as lombadas de livros comprados a quilo, em sebos e alfarrabios. Para logo escanear todo seu conteúdo, indo a obra destruída para lixo, logo em seguida.\", diz Lippold.",
+          "link": "https://blogdaboitempo.com.br/2026/09/25/trend-anos-80-podemos-lembrar-disso-para-voce-no-atacado/",
+          "publishedOn": "2026-09-25T18:38:46.000Z",
+          "wordCount": 12450,
+          "title": "Trend Anos 80: “Podemos lembrar disso para você no atacado”",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/sunriseforever-the-style-of-the-80-ies-3984623.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=66911",
           "author": "Boitempo",
           "description": "A partir dos dois shows de Milo J em São Paulo, o texto argumenta que o rapper argentino — autointitulado morocho color lodo e porta-voz do movimento da Argentina Marrom — rompeu o véu da propaganda eurocêntrica que sustenta o mito de um país branco e, ao fazê-lo, abriu uma via inesperada de diálogo entre brasileiros e argentinos.",
           "link": "https://blogdaboitempo.com.br/2026/09/25/o-mito-da-argentina-branca-morre-na-pele-parda-de-milo-j/",
           "publishedOn": "2026-09-25T11:00:00.000Z",
-          "wordCount": 13616,
+          "wordCount": 13459,
           "title": "O mito da Argentina branca morre na pele parda de Milo J",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/milo-lumachiararuiz_40lumachiararuiz-27.jpg?fit=1200%2C800&ssl=1"
         },
@@ -1004,7 +1119,7 @@
           "description": "Ronaldo Tadeu de Souza resenha \"Impasse — o Brasil diante da onda reacionária\", último volume do que ele chama de tetralogia de André Singer sobre o lulismo. O livro, de pouco mais de cem páginas, diagnostica a ascensão da extrema direita. Souza reconstrói o argumento de Singer sobre a cisão do empresariado brasileiro, sobre a captura do auxílio emergencial pelo bolsonarismo durante a pandemia e sobre a adesão em massa de Forças Armadas e polícias militares.",
           "link": "https://blogdaboitempo.com.br/2026/09/24/eleicoes-de-2026-o-impasse-brasileiro-andre-singer/",
           "publishedOn": "2026-09-24T11:00:00.000Z",
-          "wordCount": 12634,
+          "wordCount": 12638,
           "title": "Eleições de 2026, o Impasse Brasileiro: André Singer",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/7177ch2qonl.jpg?fit=800%2C1200&ssl=1"
         },
@@ -1014,7 +1129,7 @@
           "description": "No ensaio \"A psicologia de massas do bolsonarismo e sua natureza de classe\", o psicanalista Thales Fonseca busca explicar por que o bolsonarismo segue forte às vésperas das eleições de 2026, apesar da prisão de Jair Bolsonaro e dos escândalos envolvendo Flávio. Ele argumenta que, diferentemente da ditadura de 1964, em que a força bruta precedeu a guerra cultural, no bolsonarismo foi a difusão de uma ideologia de tipo fascista que deixou marca primeiro.",
           "link": "https://blogdaboitempo.com.br/2026/09/23/a-psicologia-de-massas-do-bolsonarismo-e-sua-natureza-de-classe/",
           "publishedOn": "2026-09-23T11:00:00.000Z",
-          "wordCount": 14245,
+          "wordCount": 14249,
           "title": "A psicologia de massas do bolsonarismo e sua natureza de classe",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/fpzzb_abr_07112018-1769.webp"
         },
@@ -1024,7 +1139,7 @@
           "description": "As vésperas das eleições 2026, o voto feminino tem sido tema em diferentes debates. No texto de hoje, a Profa. Dra. Marlise Matos situa historicamente esta discussão, trazendo reflexões urgentes sobre as relações de gênero e a política no Brasil; e provocando-nos a pensar os feminismos como uma “infraestrutura social de resistência política”. Não perca!",
           "link": "https://blogdaboitempo.com.br/2026/09/22/o-sufragio-feminino-se-transformou-no-fenomeno-das-eleicoes-brasileiras-de-2026/",
           "publishedOn": "2026-09-22T20:10:00.000Z",
-          "wordCount": 14422,
+          "wordCount": 14578,
           "title": "O sufrágio feminino se transformou no fenômeno das eleições brasileiras de 2026?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/2018-10-07_2o_ato_ele_nao_027_romerito_pontes.jpg"
         }
