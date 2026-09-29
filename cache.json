@@ -180,6 +180,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Acusacoes-de-ex-socio-de-Flavio-Bolsonaro-vao-ate-Nunes-Marques-pondo-em-xeque-a-neutralidade-do",
+          "author": "Jean Barroso",
+          "description": "Vieram à público as conversas de ex sócio de Flávio Bolsonaro com diversas diversas acusações e também uma série de alegações sobre a conduta do atual candidato à presidência pelo PL.\n29-09-2026\n\n/ Política, Corrupção, Donald Trump, Flavio Bolsonaro, Fabrício Queiroz, bolsonarismo, Rachadinha, Corrupção e Vacinas, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Acusacoes-de-ex-socio-de-Flavio-Bolsonaro-vao-ate-Nunes-Marques-pondo-em-xeque-a-neutralidade-do",
+          "publishedOn": "2026-09-29T18:57:33.000Z",
+          "wordCount": null,
+          "title": "Acusações de ex sócio de Flávio Bolsonaro vão até Nunes Marques, pondo em xeque a neutralidade do TSE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Trabalhadores-do-CS-de-Barao-Geraldo-organizam-paralisacao-contra-o-desmonte-da-saude",
           "author": "Sarah Micoski",
           "description": "Hoje o Centro de Saúde Atílio Vicentin, de Barão Geraldo, amanheceu paralisado. A paralisação é uma resposta dos trabalhadores à precarização da saúde em Campinas, que se expressa neste CS (Centro de Saúde) na existência de uma fila de mais de 2.800 pessoas aguardando agendamento de consulta e mais de 200 receitas aguardando renovação — fruto da falta gritante de funcionários.\n29-09-2026\n\n/ Política, Saúde, Privatização da Saúde, Desfinanciamento da saúde pública, Colapso da saúde, Tarcísio de Freitas, Dário Saadi, Paralisação, Arcabouço Fiscal",
@@ -357,6 +367,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445220",
+          "author": "Mauricio Moraes",
+          "description": "Baseados em sites pouco conhecidos, chatbots das big techs afirmaram ser verdadeiro um diálogo inventado que teria sido extraído do celular do banqueiro.\nO post IAs do Google e do X espalham mentira que afasta André Mendonça de Daniel Vorcaro apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/29/ias-google-x-espalham-mentira-andre-mendonca-daniel-vorcaro/",
+          "publishedOn": "2026-09-29T21:15:06.000Z",
+          "wordCount": null,
+          "title": "IAs do Google e do X espalham mentira que afasta André Mendonça de Daniel Vorcaro",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/mendonca-vorcaro-headerwide.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/mendonca-vorcaro-headerwide.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445183",
           "author": "Gisele Lobato",
           "description": "Rockbridge Network negou reiteradamente ao Intercept plano de expansão para o país, apesar de registros da própria organização apontarem o contrário; agora, rede ligada a J.D. Vance admite plano\nO post Rede trumpista Rockbridge tentou esconder início de operação no Brasil apareceu primeiro em Intercept Brasil.",
@@ -439,12 +464,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163625",
+          "author": "Catarina Duarte",
+          "description": "Com candidatos competitivas em diferentes estados, policiais e militares tentam ampliar sua presença no poder nas eleições de 2026\nO conteúdo Artigo | Bancada policial pode dobrar de tamanho no Senado e conquistar governos estaduais Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/artigo-bancada-policial-pode-dobrar-de-tamanho-no-senado-e-conquistar-governos-estaduais/",
+          "publishedOn": "2026-09-29T20:21:36.000Z",
+          "wordCount": 6243,
+          "title": "Artigo | Bancada policial pode dobrar de tamanho no Senado e conquistar governos estaduais",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/senad0-federal-agencia-senado.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163664",
           "author": "Mariana Rosetti",
           "description": "Dado revelado pelo Mapa da Desigualdade mostra que pessoas negras são mais de 70% das vítimas de mortes provocadas por agentes do Estado na Região Metropolitana do Rio de Janeiro\nO conteúdo Polícia matou apenas negros em três cidades do Rio em 2025 Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/policia-matou-apenas-negros-em-tres-cidades-do-rio-em-2025/",
           "publishedOn": "2026-09-28T22:30:05.000Z",
-          "wordCount": 6098,
+          "wordCount": 6037,
           "title": "Polícia matou apenas negros em três cidades do Rio em 2025",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Mulheres-choram-apos-operacao-contencao--scaled.webp"
         },
@@ -454,7 +489,7 @@
           "description": "Reações às mortes de Bruno Augusto de Oliveira Ferraz e Mateus Marcondes Mizael, em Limeira, expõem como o punitivismo transforma mortes provocadas pela polícia em sinal de eficiência e trata investigação e responsabilização como obstáculos à segurança pública\nO conteúdo Da Redação | Celebrar mortes também é parte da violência Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/violencia-policial-celebracao-mortes-punitivismo/",
           "publishedOn": "2026-09-28T14:53:06.000Z",
-          "wordCount": 6098,
+          "wordCount": 6146,
           "title": "Da Redação | Celebrar mortes também é parte da violência",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/11/Ilustracao-Antonio-Juniao-Ponte-Jornalismo-jpeg.webp"
         },
@@ -464,7 +499,7 @@
           "description": "Justiça Militar passa a julgar, agora em outubro, o tenente Gabriel Montoro Dantas. Para o MPSP, PM não teve intenção de matar Matheus de Menezes Simões ao ir ao encontro dele e perfurá-lo com um fuzil. Mãe tenta levar caso à Justiça Comum\nO conteúdo ‘Ele não ceifou uma vida, foi uma família’: mãe pede ida a júri de PM que perfurou pescoço do filho Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/ele-nao-ceifou-uma-vida-foi-uma-familia-mae-pede-ida-a-juri-de-pm-que-perfurou-pescoco-do-filho/",
           "publishedOn": "2026-09-25T20:25:18.000Z",
-          "wordCount": 7444,
+          "wordCount": 7409,
           "title": "‘Ele não ceifou uma vida, foi uma família’: mãe pede ida a júri de PM que perfurou pescoço do filho",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/valdirene-menezes-mae-de-matheus-daniel-arroyo-ponte-jornalismo.webp"
         },
@@ -474,7 +509,7 @@
           "description": "Chamado de BRAvo, policiamento lançado pela Secretaria da Segurança Pública (SSP-SP) prevê patrulhamento ostensivo com policiais portando armamento pesado em ruas movimentadas da capital paulista\nO conteúdo Motos e fuzis contra furtos: novo batalhão da PM de SP é eleitoreiro e ineficiente, apontam especialistas Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/motos-e-fuzis-contra-furtos-novo-batalhao-da-pm-de-sp-e-eleitoreiro-e-ineficiente-apontam-especialistas/",
           "publishedOn": "2026-09-25T19:37:27.000Z",
-          "wordCount": 7000,
+          "wordCount": 7002,
           "title": "Motos e fuzis contra furtos: novo batalhão da PM de SP é eleitoreiro e ineficiente, apontam especialistas",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-144034.webp"
         }
@@ -523,12 +558,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=267155",
+          "author": "Raissa Neves",
+          "description": "Uma grande manifestação tomou as ruas de São Paulo em 31 de outubro de 2013. Indignados contra o projeto de IPTU progressivo anunciando por Fernando Haddad, os manifestantes ocuparam a Avenida Paulista e iniciaram uma marcha até a casa do prefeito Os manifestantes entoavam palavras de ordem como “Fora Haddad”, “Fora PT” e carregavam uma […]\nO post Contradições do antipetismo: Haddad e o IPTU progressivo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/contradicoes-do-antipetismo-haddad-e-o-iptu-progressivo/",
+          "publishedOn": "2026-09-29T21:28:54.000Z",
+          "wordCount": 4254,
+          "title": "Contradições do antipetismo: Haddad e o IPTU progressivo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/prefeito_fernando_haddad_-_pt.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267146",
+          "author": "Raissa Neves",
+          "description": "Um novo exame de DNA afastou Douglas Stewart Carter, de 71 anos, das evidências de um assassinato pelo qual foi condenado em 1985. Após mais de 40 anos no corredor da morte, ele deixou uma prisão em Utah, nos Estados Unidos, nesta segunda-feira (28/09). Segundo a Justiça dos Estados Unidos, o DNA encontrado em uma […]\nO post Homem que ficou 40 anos no corredor da morte é libertado nos EUA após exame de DNA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/direitos-humanos/homem-que-ficou-40-anos-no-corredor-da-morte-e-libertado-nos-eua-apos-exame-de-dna/",
+          "publishedOn": "2026-09-29T20:53:44.000Z",
+          "wordCount": 3442,
+          "title": "Homem que ficou 40 anos no corredor da morte é libertado nos EUA após exame de DNA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/fotos_corte_41_86c1d9d4a2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267150",
+          "author": "Raissa Neves",
+          "description": "Eric Hobsbawm (1917-2012) é, para muitos, o mais importante historiador marxista da segunda metade do século XX.  Autor de obra densa e solidamente documentada, ficou mais conhecido por sua famosa trilogia “das Eras”, publicada entre 1962 e 1987, na qual analisa em profundidade o que ele caracterizou como o “longo século XIX”. Em a “Era […]\nO post A Era do Escárnio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-era-do-escarnio/",
+          "publishedOn": "2026-09-29T20:53:27.000Z",
+          "wordCount": 4335,
+          "title": "A Era do Escárnio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55210479092_768136f0f7_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267131",
+          "author": "Victor Farinelli",
+          "description": "A taxa de desemprego no trimestre encerrado em agosto ficou em 5,3%, a menor já registrada para o período desde 2012, quando se inicia a série histórica do Instituto Brasileiro de Geografia e Estatística (IBGE). Além disso, o instituto registrou recorde no número de trabalhadores ocupados, carteira assinada, massa salarial e contribuição para a previdência. […]\nO post Desemprego cai para 5,3%, menor taxa registrada pelo IBGE em agosto apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/desemprego-cai-para-53-menor-taxa-registrada-pelo-ibge-em-agosto/",
+          "publishedOn": "2026-09-29T19:50:53.000Z",
+          "wordCount": 3886,
+          "title": "Desemprego cai para 5,3%, menor taxa registrada pelo IBGE em agosto",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/carteiras.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267140",
+          "author": "Victor Farinelli",
+          "description": "Em discurso durante a conferência do Partido Trabalhista, nesta terça-feira (29/09), o primeiro-ministro britânico, Andy Burnham, prometeu impulsionar um novo projeto para “grande expansão” dos serviços públicos no Reino Unido. Segundo o premiê, a proposta será o início de “um novo caminho de crescimento equitativo” no país, com mudanças nos setores de habitação, saúde e […]\nO post Premiê promete ‘grande expansão’ dos serviços públicos no Reino Unido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/premie-promete-grande-expansao-dos-servicos-publicos-no-reino-unido/",
+          "publishedOn": "2026-09-29T19:10:39.000Z",
+          "wordCount": 3153,
+          "title": "Premiê promete ‘grande expansão’ dos serviços públicos no Reino Unido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/andy.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267133",
+          "author": "Raissa Neves",
+          "description": "“O governo se comprometerá a reconhecer o resultado certificado das eleições democráticas de 2026 no Brasil e a apoiar relações diplomáticas normais com qualquer candidato que seja livre e justamente escolhido pelo povo brasileiro?”. Esse foi o questionamento feito por três senadores democratas dos Estados Unidos ao secretário de Estado, Marco Rubio, em carta enviada nesta […]\nO post Democratas questionam Rubio sobre possível interferência em eleição do Brasil apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/democratas-questionam-rubio-sobre-possivel-interferencia-em-eleicao-do-brasil/",
+          "publishedOn": "2026-09-29T18:43:48.000Z",
+          "wordCount": 3822,
+          "title": "Democratas questionam Rubio sobre possível interferência em eleição do Brasil",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/7bde7a50-765d-11f1-83a9-eb3c3c8f4e93.png.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=267113",
           "author": "Raissa Neves",
           "description": "A Petrobras fechou um contrato de longo prazo para comprar Gás Natural Liquefeito (GNL) dos Estados Unidos por um período de 22 anos. O anúncio foi feito pela petroleira brasileira nesta terça-feira (29/09) e é o segundo em um período de cerca de um mês. O GNL é o gás que passa pelo processo de […]\nO post Petrobras fecha acordo para comprar gás dos EUA por mais de 20 anos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/petrobras-fecha-acordo-para-comprar-gas-dos-eua-por-mais-de-20-anos/",
           "publishedOn": "2026-09-29T17:20:36.000Z",
-          "wordCount": 3220,
+          "wordCount": 3208,
           "title": "Petrobras fecha acordo para comprar gás dos EUA por mais de 20 anos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/abr5101.webp"
         },
@@ -538,7 +633,7 @@
           "description": "O site PlatôBr publicou nesta terça-feira (29/09) uma reportagem com mensagens vazadas pelo empresário Alexandre Santini, que foi sócio do presidenciável Flávio Bolsonaro (PL) na loja Kopenhagen do BarraShopping, no Rio de Janeiro, e que revelam a atuação do político em operações de lobby junto a ministérios durante o governo de seu pai, Jair Bolsonaro […]\nO post Flávio Bolsonaro teria articulado tráfico de influência durante governo do pai, diz site apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-teria-articulado-trafico-de-influencia-durante-governo-do-pai-diz-site/",
           "publishedOn": "2026-09-29T16:38:20.000Z",
-          "wordCount": 3471,
+          "wordCount": 3459,
           "title": "Flávio Bolsonaro teria articulado tráfico de influência durante governo do pai, diz site",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/flavio.jpg"
         },
@@ -548,7 +643,7 @@
           "description": "“Vocês, o povo americano, têm o poder de impedir esse destino sombrio”, é com esse apelo que o Corpo da Guarda Revolucionária Islâmica (IRGC) se dirige diretamente à população dos Estados Unidos em uma extensa carta aberta, divulgada nesta terça-feira (29/09). O documento é um chamamento para que os norte-americanos atuem e pressionem o governo […]\nO post ‘Vocês podem impedir futuro sombrio’, diz Exército iraniano em carta enviada aos estadunidenses apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/voces-podem-impedir-futuro-sombrio-diz-exercito-iraniano-em-carta-enviada-aos-estadunidenses/",
           "publishedOn": "2026-09-29T16:18:52.000Z",
-          "wordCount": 4748,
+          "wordCount": 4736,
           "title": "‘Vocês podem impedir futuro sombrio’, diz Exército iraniano em carta enviada aos estadunidenses",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/d1b7ad22-1c09-4f6e-9ece-0d1a6b53cc74.jpg"
         },
@@ -558,69 +653,9 @@
           "description": "A segunda rodada de conversações entre o governo venezuelano e a delegação de ex-deputados da Assembleia Nacional eleita em 2015 terminou na sexta-feira (25) de setembro, em Caracas. As negociações ocorreram ao longo de sete sessões de trabalho, divididas em duas plenárias e cinco mesas técnicas. A delegação do governo foi chefiada por Jorge Rodríguez, […]\nO post Governo e oposição da Venezuela concluem novo diálogo com acordos sobre Judiciário e mídia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/governo-e-oposicao-da-venezuela-concluem-novo-dialogo-com-acordos-sobre-judiciario-e-midia/",
           "publishedOn": "2026-09-29T15:45:56.000Z",
-          "wordCount": 3907,
+          "wordCount": 3895,
           "title": "Governo e oposição da Venezuela concluem novo diálogo com acordos sobre Judiciário e mídia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/anv.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267095",
-          "author": "Tatiana Carlotti",
-          "description": "Cerca de 150 colonos israelenses impediram, na madrugada desta terça-feira (29/09), o retorno de uma família palestina à sua casa no vilarejo de Jalud, ao sul de Nablus, no norte da Cisjordânia ocupada. As informações são do Haaretz. Segundo a reportagem os colonos apedrejaram e invadiram as instalações de propriedades da família Tubasi, que precisou […]\nO post Ataque de colonos israelenses impede família palestina de voltar para casa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/ataque-de-colonos-israelenses-impede-familia-palestina-de-voltar-para-casa/",
-          "publishedOn": "2026-09-29T14:10:04.000Z",
-          "wordCount": 3349,
-          "title": "Ataque de colonos israelenses impede família palestina de voltar para casa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/__-_.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267087",
-          "author": "Tatiana Carlotti",
-          "description": "O ministro das Relações Exteriores iraniano, Abbas Araghchi, declarou nesta terça-feira (29/09) que as negociações com os Estados Unidos parecem estar “mais sérias” desta vez. Teerã apresentou uma proposta de cessar-fogo na semana passada e aguarda a resposta da Casa Branca. Segundo Araghchi, as negociações realizadas por intermédio do Paquistão e do Catar levaram muito […]\nO post Teerã diz que negociações com EUA estão ‘mais sérias’ após enviar proposta de cessar-fogo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/teera-diz-que-negociacoes-com-eua-estao-mais-serias-apos-enviar-proposta-de-cessar-fogo/",
-          "publishedOn": "2026-09-29T13:34:58.000Z",
-          "wordCount": 3378,
-          "title": "Teerã diz que negociações com EUA estão ‘mais sérias’ após enviar proposta de cessar-fogo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/airna.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267083",
-          "author": "Tatiana Carlotti",
-          "description": "De volta à Itália após sua visita à França, o Papa Leão 14 afirmou que o crescimento da extrema direita na Europa não é uma expressão do cristianismo e convidou todos a “retornar aos valores do Evangelho”. Os comentários do líder da Igreja Católica foram feitos na coletiva de imprensa durante o voo de retorno […]\nO post Papa Leão 14 diz que avanço da extrema direita ‘não é expressão do cristianismo’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/papa-leao-14-diz-que-avanco-da-extrema-direita-nao-e-expressao-do-cristianismo/",
-          "publishedOn": "2026-09-29T12:36:45.000Z",
-          "wordCount": 3327,
-          "title": "Papa Leão 14 diz que avanço da extrema direita ‘não é expressão do cristianismo’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/papa-2.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267080",
-          "author": "Tatiana Carlotti",
-          "description": "A nova pesquisa AtlasIntel/Bloomberg sobre a disputa presidencial de 2026, divulgada nesta terça-feira (29/09), aponta uma disputa acirrada entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), mas também indica que o presidente está a menos de quatro pontos percentuais de alcançar a marca necessária para vencer a eleição já no primeiro turno. […]\nO post AtlasIntel/Bloomberg: a cinco dias do 1º turno, Lula tem 45,3% contra 42,2% de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/atlasintel-bloomberg-a-cinco-dias-do-1o-turno-lula-tem-453-contra-422-de-flavio-bolsonaro/",
-          "publishedOn": "2026-09-29T12:12:59.000Z",
-          "wordCount": 3675,
-          "title": "AtlasIntel/Bloomberg: a cinco dias do 1º turno, Lula tem 45,3% contra 42,2% de Flávio Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/copia-de-nao-deletar-fotos-pb-breno-redacao-1-2.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267072",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente argentino, Javier Milei, anunciou nesta segunda-feira (28/09) que instruiu o Ministério das Relações Exteriores e as equipes jurídicas do governo a iniciarem uma arbitragem internacional contra o Reino Unido pelo que descreveu como a “exploração ilegal” dos recursos argentinos por meio do projeto Sea Lion, localizado na Bacia das Malvinas do Norte. “Se […]\nO post Milei diz que irá recorrer contra ‘exploração ilegal’ do Reino Unido nas Malvinas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/milei-diz-que-ira-recorrer-contra-exploracao-ilegal-do-reino-unido-nas-malvinas/",
-          "publishedOn": "2026-09-29T10:51:24.000Z",
-          "wordCount": 3474,
-          "title": "Milei diz que irá recorrer contra ‘exploração ilegal’ do Reino Unido nas Malvinas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/javier_milei_viva22_2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267067",
-          "author": "Tatiana Carlotti",
-          "description": "O Procurador-Geral da Bolívia, Roger Mariaca, condenou nesta segunda-feira (28/09) a revogação de seu visto pelos Estados Unidos e denunciou interferência estrangeira, atribuindo a decisão às investigações conduzidas pelo Ministério Público boliviano sobre temas sensíveis, como o caso do ex-conselheiro presidencial argentino Fernando Cerimedo e o caso conhecido como “Gasolina Lixo”. De Sucre, na sede […]\nO post EUA revogam visto do procurador-geral da Bolívia em meio a investigações sobre Cerimedo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eua-revogam-visto-do-procurador-geral-da-bolivia-em-meio-a-investigacoes-sobre-cerimedo/",
-          "publishedOn": "2026-09-29T10:30:16.000Z",
-          "wordCount": 3672,
-          "title": "EUA revogam visto do procurador-geral da Bolívia em meio a investigações sobre Cerimedo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/esta-5-1024x576.jpg.webp"
         }
       ]
     },
@@ -636,12 +671,42 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=233775",
+          "author": "Redação de AND",
+          "description": "Encontros estudantis, atos políticos, vigílias, atividades culturais e manifestações reuniram milhares de trabalhadores assalariados, camponeses, artistas e intelectuais, estudantes, mulheres e professores em diferentes regiões do País desde março; maior concentração ocorreu no movimento estudantil, com participação de representantes iranianos e presença recorrente de bandeiras do Irã",
+          "link": "https://anovademocracia.com.br/acoes-brasil-apoio-guerra-do-ira-contra-eua/",
+          "publishedOn": "2026-09-29T22:51:12.000Z",
+          "wordCount": 8898,
+          "title": "Do Nordeste ao Sul, ações no Brasil manifestam apoio à guerra de libertação do Irã contra o EUA",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/43-enepe-manifestacao-khamenei-1024x683.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233770",
+          "author": "Redação de AND",
+          "description": "Os interesses dos lealistas e oportunistas de manter a ocupação parecem confluir, enquanto a tendência é que o republicanismo consequente siga crescendo e incremente a luta de libertação nacional do povo irlandês.",
+          "link": "https://anovademocracia.com.br/conflitos-irlanda-comunidades-republicanas/",
+          "publishedOn": "2026-09-29T21:40:25.000Z",
+          "wordCount": 7214,
+          "title": "Conflitos eclodem na Irlanda ocupada em defesa das comunidades republicanas",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-109.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233763",
+          "author": "Redação de AND",
+          "description": "Pesquisa BTG/Nexus aponta queda acentuada de oito pontos percentuais do candidato oportunista entre usuários do programa. No início de 2025, Luiz Inácio chegou a retirar R$ 7,7 bilhões do Bolsa Família e entregar R$ 4,17 bilhões ao latifúndio, principal base do bolsonarismo, através do Plano Safra.",
+          "link": "https://anovademocracia.com.br/luiz-inacio-popularidade-bolsa-familia/",
+          "publishedOn": "2026-09-29T19:10:50.000Z",
+          "wordCount": 7368,
+          "title": "Luiz Inácio perde popularidade entre beneficiários do Bolsa Família apesar de reajuste episódico",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/fila-cadunico-salvador-2023-1024x683.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=233755",
           "author": "Redação de AND",
           "description": "HC-130J Combat King II operou no Brasil durante a fase brasileira do Resolute Sentinel, conduzido pela Força Aérea do Comando Sul ianque; em edições anteriores do Tápio, militares ianques participaram da construção dos cenários e do intercâmbio de tripulações sob o objetivo declarado de manter uma “doutrina operacional comum” com as Forças Armadas brasileiras vassalas.",
           "link": "https://anovademocracia.com.br/forca-aerea-ianque-guerra-brasil-insurgente/",
           "publishedOn": "2026-09-28T23:03:59.000Z",
-          "wordCount": 8294,
+          "wordCount": 8296,
           "title": "Importante: Força Aérea ianque participa de treino de ‘guerra não convencional’ no Brasil contra ‘forças insurgentes’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/230716-F-IA158-9022-1024x683.jpg"
         },
@@ -651,7 +716,7 @@
           "description": "Frente Democrática Nacional das Filipinas acusa o 93º Batalhão de Infantaria de expor a criança nas redes sociais e utilizá-la para pressionar sua mãe, que permanece nas fileiras do Novo Exército do Povo.",
           "link": "https://anovademocracia.com.br/filipinas-perseguicao-contra-filha-nep/",
           "publishedOn": "2026-09-28T19:30:36.000Z",
-          "wordCount": 6996,
+          "wordCount": 6998,
           "title": "Filipinas: Frente democrática denuncia perseguição militar contra filha de 7 anos de combatente do NEP morto",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-28-filipinas.png"
         },
@@ -661,7 +726,7 @@
           "description": "Mobilização percorreu diferentes instituições de ensino da cidade e denunciou protocolo anunciado pelo governo de Abelardo de la Espriella para permitir intervenções policiais nos campi.",
           "link": "https://anovademocracia.com.br/colombia-estudantes-marcham-contra-policia/",
           "publishedOn": "2026-09-28T19:16:46.000Z",
-          "wordCount": 7006,
+          "wordCount": 7008,
           "title": "Colômbia: centenas de estudantes marcham em Medellín contra entrada da polícia nas universidades",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-28-colombia.webp"
         },
@@ -671,7 +736,7 @@
           "description": "Criadores de ovelhas denunciam queda dos preços após restrições às exportações e cobram subsídios do governo; manifestação de 15 de setembro terminou com 26 detidos e ao menos quatro hospitalizados.",
           "link": "https://anovademocracia.com.br/romenia-protestos-repressao-policial/",
           "publishedOn": "2026-09-28T19:03:22.000Z",
-          "wordCount": 7000,
+          "wordCount": 7002,
           "title": "Romênia: milhares de camponeses protestam em Bucareste e enfrentam repressão policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat-romania-20260925-1.webp"
         },
@@ -681,7 +746,7 @@
           "description": "Militante da Comissão Estudantil Revolucionária foi abandonado durante a madrugada na região de Lukenya; organização lançou campanha financeira para custear tratamento médico e apoiar sua recuperação.",
           "link": "https://anovademocracia.com.br/quenia-mulinge-muteti-aparecido/",
           "publishedOn": "2026-09-28T18:50:50.000Z",
-          "wordCount": 6977,
+          "wordCount": 6979,
           "title": "Quênia: Mulinge Muteti é hospitalizado com perna quebrada e múltiplos ferimentos após quatro dias desaparecido",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat_kenya_09252026.webp"
         },
@@ -691,7 +756,7 @@
           "description": "Após mais de 30 anos da homologação do território, órgãos do velho Estado constataram os mesmos crimes denunciados há décadas pelos povos originários da região e renovaram falsas promessas; enquanto isso, indígenas retomam terras e prosseguem com a resistência.",
           "link": "https://anovademocracia.com.br/povos-terra-indigena-rio-guama-retomada/",
           "publishedOn": "2026-09-28T18:28:50.000Z",
-          "wordCount": 8073,
+          "wordCount": 8075,
           "title": "Povos da Terra Indígena Alto Rio Guamá lutam por retomadas e enfrentam invasores e falsas promessas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-108.png"
         },
@@ -701,39 +766,9 @@
           "description": "Cerca de 100 motoristas participaram da mobilização em Caraguatatuba e Ubatuba após atraso no adiantamento salarial. Trabalhadores também denunciaram falta de estrutura adequada para descanso durante a jornada.",
           "link": "https://anovademocracia.com.br/paralisacao-de-rodoviarios-expoe-precarizacao-do-transporte-no-litoral-norte-de-sp/",
           "publishedOn": "2026-09-28T14:59:01.000Z",
-          "wordCount": 7505,
+          "wordCount": 7507,
           "title": "Paralisação de rodoviários expõe precarização do transporte no Litoral Norte de SP",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-106.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233703",
-          "author": "Marconne Oliveira",
-          "description": "Não é possível corrigir os efeitos da contradição sem tocar na contradição que os produz: que se enterre a “ideia” morta do imperialismo e viva aquela que as massas fazem viver na luta.",
-          "link": "https://anovademocracia.com.br/enterrar-a-ideia-viver-a-ideia-democracia/",
-          "publishedOn": "2026-09-28T14:24:59.000Z",
-          "wordCount": 9952,
-          "title": "Enterrar a ‘ideia’; viver a ideia",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Commune_de_Paris_gardes_nationaux_sur_la_colonne_Vendome-1024x751.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233708",
-          "author": "Redação de AND",
-          "description": "Em Al-Quds ocupada, 1.143 colonos entraram no complexo de Al-Aqsa em 27 de setembro, em sucessivos grupos protegidos pela polícia sionista, enquanto palestinos tiveram a circulação restringida e apenas quatro pessoas receberam autorização para entrar e realizar uma oração fúnebre. No Golfo Pérsico, Donald Trump rejeitou o plano iraniano para reabrir Ormuz em sete dias; na jornada seguinte, os Guardas da Revolução anunciaram a captura de um segundo veículo subaquático do aparato militar ianque no estreito, versão negada pelo Comando Central do EUA. Em Gaza, o número de palestinos assassinados desde outubro de 2023 ultrapassou 74 mil.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-27-09-2026/",
-          "publishedOn": "2026-09-28T14:13:06.000Z",
-          "wordCount": 8392,
-          "title": "Plantão Palestina (24–27/09): Mais de 1 mil colonos ilegais entram em Al-Aqsa sob proteção da ocupação; Trump rejeita plano iraniano para reabrir Ormuz",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-27-plantao-palestina.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233658",
-          "author": "Giovanna Maria",
-          "description": "Organizada pela Executiva Brasiliense de Estudantes de Pedagogia, atividade reuniu estudantes, ativistas e representantes de organizações anti-imperialistas em 24 de setembro, durante a 26ª Semana Universitária da UnB.",
-          "link": "https://anovademocracia.com.br/evento-sobre-juventude-e-revolucao-na-unb-culmina-na-fundacao-do-nucleo-brasilia-da-lai/",
-          "publishedOn": "2026-09-28T10:37:00.000Z",
-          "wordCount": 8231,
-          "title": "Evento sobre juventude e revolução na UnB culmina na fundação do Núcleo Brasília da LAI",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-19-1024x683.jpeg"
         }
       ]
     },
@@ -760,6 +795,66 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3205312",
+          "author": "Lucas Scatolini",
+          "description": "43% dos domicílios da Região Norte vivem insegurança alimentar, enquanto candidaturas abordam apenas o potencial econômico da floresta. Projeto de país precisa se comprometer com o território e incluir o poder de decisão e a diversidade de sua população\nThe post Eleições: Como enfrentar os dramas humanos da Amazônia? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/eleicoes-como-enfrentar-os-dramas-humanos-da-amazonia/",
+          "publishedOn": "2026-09-29T21:30:23.000Z",
+          "wordCount": 5723,
+          "title": "Eleições: Como enfrentar os dramas humanos da Amazônia?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/criancas-ribeirinhas-cheia-amazonas-foto-izabela-reboucas-portal-lunetas-10-1620x1080-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205369",
+          "author": "Lucas Scatolini",
+          "description": "Economista indiana provoca: ideias hoje “naturais”, como a ciência limitada por patentes, a hierarquia Norte-Sul e o trabalho não remunerado das mulheres, serão vistas no futuro como ridículas. É hora de encarar a crise da imaginação política\nThe post Jayati Ghosh ousa pensar o pós-capitalismo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/pos-capitalismo/jayati-ghosh-ousa-pensar-pos-capitalismo/",
+          "publishedOn": "2026-09-29T21:25:34.000Z",
+          "wordCount": 7843,
+          "title": "Jayati Ghosh ousa pensar o pós-capitalismo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-29-at-18-35-56-OP-PautasIdeias.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205310",
+          "author": "Lucas Scatolini",
+          "description": "Crise no STF desvia o foco. Grande mídia pouco ou nada revela sobre algo documentado: a soberania do Brasil sob risco. Soft power de Trump inclui submissão de institutos brasileiros a think thanks estrangeiros. Assim como  as bets, seus objetivos precisam ser expostos\nThe post Quem destrói o país por dentro? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/quem-destroi-pais-por-dentro/",
+          "publishedOn": "2026-09-29T20:40:53.000Z",
+          "wordCount": 4104,
+          "title": "Quem destrói o país por dentro?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-29-at-17-35-44-Copy_of_boughtbyzionism12.png-imagem-PNG-1350-%C3%97-1350-pixels-Redimensionada-48.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205361",
+          "author": "Lucas Scatolini",
+          "description": "Fernando Cerimedo, estrategista da extrema-direita, é o elo da nova economia de manipulação política, pilhagem e extração de dados. Liga os Bolsonaros, Milei, big techs e Doutrina Donroe. Ele é mais que um ator neste sistema: se investigado, pode expor suas fissuras\nThe post América Latina: As veias reabertas ao algoritmo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/america-latina-as-veias-reabertas-ao-algoritmo/",
+          "publishedOn": "2026-09-29T20:28:13.000Z",
+          "wordCount": 4690,
+          "title": "América Latina: As veias reabertas ao algoritmo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/ai-in-politics.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205321",
+          "author": "Rôney Rodrigues",
+          "description": "Num páreo em que cada voto conta, presidente parece ter acordado. Anuncia medidas concretas como o reajuste do Bolsa Família e o fim das bets. Aumento do salário mínimo e Tarifa Zero, já cogitada como bandeira de campanha, também poderiam empolgar a população\nThe post A arrancada de Lula appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/a-arrancada-de-lula/",
+          "publishedOn": "2026-09-29T20:04:23.000Z",
+          "wordCount": 4833,
+          "title": "A arrancada de Lula",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/61a052_cong_materia_manual_554349155775dbe6f0764o.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205327",
+          "author": "Lucas Scatolini",
+          "description": "A comunidade ribeirinha que luta contra o abandono. A quebrada que aposta na solidariedade e formação. E o território que propõe outros pilares para políticas habitacionais. Casos de autogestão no Brasil e México mostram: a reinvenção política passa pelo Direito à Cidade\nThe post Periferias: laboratórios do Comum na América Latina appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/periferias-laboratorios-do-comum-na-america-latina/",
+          "publishedOn": "2026-09-29T19:55:40.000Z",
+          "wordCount": 12919,
+          "title": "Periferias: laboratórios do Comum na América Latina",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/20241108153457_paraisopolisterceiramaiorfaveladobrasilemaiordesp.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3205214",
           "author": "Lucas Scatolini",
           "description": "Após um século, ultradireita não promete aos puros um futuro glorioso. Conclama-os à guerra de todos contra todos, num mundo devastado onde, afirmam, poucos sobreviverão. Enquanto isso, sigam os negócios, venham os trilhões!\nThe post Fascismo apocalíptico: a aposta dos bilionários appeared first on Outras Palavras.",
@@ -785,7 +880,7 @@
           "description": "Chegou em chegança, como a Folia de Reis e as Festas do Divino, as mais generosas e utópicas. Confunde-se com a própria identidade nacional. Articula fé e colaboração comunitária, aproxima matrizes católicas, afro-brasileiras e profanas. Tornou-se negra. Por isso a odeiam tanto\nThe post Por que a ultradireita não tolera Nossa Senhora Aparecida appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/por-que-a-ultradireita-nao-tolera-nossa-senhora-aparecida/",
           "publishedOn": "2026-09-28T20:42:52.000Z",
-          "wordCount": 5246,
+          "wordCount": 5259,
           "title": "Por que a ultradireita não tolera Nossa Senhora Aparecida",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5033106650897779799.jpg"
         },
@@ -795,69 +890,9 @@
           "description": "Revela-se agora que modelos perigosos invadiram sites oficiais dos EUA e Austrália. Na ONU, empresas que ocultaram seus “incidentes” querem palco reservado para debater segurança. Trump se recusa a pisar no freio enquanto humanidade assiste de fora\nThe post Os “donos” da IA estão no (des)controle appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/os-donos-da-ia-estao-no-descontrole/",
           "publishedOn": "2026-09-28T18:53:32.000Z",
-          "wordCount": 5453,
+          "wordCount": 5442,
           "title": "Os “donos” da IA estão no (des)controle",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5033154393754243037_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205195",
-          "author": "Lucas Scatolini",
-          "description": "Ao transformar cada lance em objeto de aposta, as plataformas reduziram as paixões do esporte a sucessão de expectativas de ganho. A imediatez faz das frustrações novos gastos – e lucros. É preciso ir além da proibição, e resgatar o prazer da imprevisibilidade\nThe post Como as bets capturaram o desejo no futebol appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/como-as-bets-capturaram-o-desejo-no-futebol/",
-          "publishedOn": "2026-09-28T18:16:31.000Z",
-          "wordCount": 3969,
-          "title": "Como as bets capturaram o desejo no futebol",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/681_Bets-e-soberania-nacional_Imagem1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205191",
-          "author": "Lucas Scatolini",
-          "description": "Washington sabe que seu plano neocolonial na América Latina só estará completo com a submissão do Brasil. Eleger Flávio é o caminho mais fácil. Já com uma vitória de Lula, há risco real de intervenção militar. Mas Brasil parece acordar para a urgência de reforçar Defesa nacional\nThe post O Brasil não cabe no quintal de ninguém? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/o-brasil-nao-cabe-no-quintal-de-ninguem/",
-          "publishedOn": "2026-09-28T18:07:51.000Z",
-          "wordCount": 3940,
-          "title": "O Brasil não cabe no quintal de ninguém?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5033106650897779752_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205102",
-          "author": "Lucas Scatolini",
-          "description": "Robusta pesquisa revela o que pensam os beneficiários das políticas lulistas implementadas no início do século. A família como esteio de identificação. O papel central das mulheres. O futuro frustrado: quer continuar progredindo, vislumbra empreender, mas se vê quase sozinha\nThe post “Classe C”: o que ainda falta ver appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/classe-c-o-que-ainda-falta-ver/",
-          "publishedOn": "2026-09-25T21:28:58.000Z",
-          "wordCount": 6092,
-          "title": "“Classe C”: o que ainda falta ver",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/TIOUUO4UI5EDXHRTZZDL4D2O3Y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205103",
-          "author": "Rôney Rodrigues",
-          "description": "A crise no ensino é nítida. O desafio vai além de “reformas pedagógicas”. Diante do frenesi tecnológico e suas respostas prontas, como resgatar o desejo de mergulhar no desconhecido e descobrir o mundo, em subversão ao que o mercado impõe?\nThe post A escola em tempo de eclipse da atenção appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/escola-em-tempo-de-eclipse-da-atencao/",
-          "publishedOn": "2026-09-25T20:39:10.000Z",
-          "wordCount": 5064,
-          "title": "A escola em tempo de eclipse da atenção",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/capa.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205132",
-          "author": "Lucas Scatolini",
-          "description": "Experiências em todo o mundo sugerem: quem quer renovação de lideranças precisa abrir-se ao erro. Em pequenos grupos, inovações como a amizade crítica e o perdão prévio ajudam a transformar. Ensinam algo a grandes sociedades, marcadas por polarizações?\nThe post Podem as Ecovilas superar velhas práticas da esquerda? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/terraeantropoceno/podem-as-ecovilas-superar-velhas-praticas-da-esquerda/",
-          "publishedOn": "2026-09-25T20:30:46.000Z",
-          "wordCount": 4687,
-          "title": "Podem as Ecovilas superar velhas práticas da esquerda?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5023837312609094788.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205121",
-          "author": "Lucas Scatolini",
-          "description": "Qual invenção foi mais importante: o preservativo ou o avião? O gênio que patenteia o “novo” tem mais valor que a engenharia da manutenção? Livro polemiza: o futuro não é a eliminação do velho; e o compartilhamento e a imitação superam o “isolamento criativo”\nThe post Técnica e tradição: Os que criam e os que conservam appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/tecnica-e-tradicao-os-que-criam-e-os-que-conservam/",
-          "publishedOn": "2026-09-25T19:28:26.000Z",
-          "wordCount": 8889,
-          "title": "Técnica e tradição: Os que criam e os que conservam",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5023837312609094777.jpg"
         }
       ]
     },
@@ -914,12 +949,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67081",
+          "author": "Boitempo",
+          "description": "\"Os povos que vivem na Amazônia consideram os rios como a própria vida\". Conectando o debate sobre soberania, gestão socioambiental e justiça ambiental, Guilherme Pimentel e Soleane Manchineri tecem reflexões urgentes sobre a Amazônia hoje.",
+          "link": "https://blogdaboitempo.com.br/2026/09/29/os-rios-da-amazonia-e-as-veias-abertas-da-america-latina/",
+          "publishedOn": "2026-09-29T20:00:00.000Z",
+          "wordCount": 12153,
+          "title": "Os rios da Amazônia e as veias abertas da América Latina",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/dji_20260514133627_0225_d_55280831068_o.webp"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=66985",
           "author": "Boitempo",
           "description": "Neste 28 de setembro, Dia Latino-Americano e Caribenho de Luta pela Descriminalização e Legalização do Aborto, Niege Pavani conecta a luta pelo direito ao aborto com a luta feminista pela democracia.",
           "link": "https://blogdaboitempo.com.br/2026/09/28/13-momentos-em-que-a-luta-pelo-direito-ao-aborto-no-brasil-foi-tambem-uma-luta-pela-democracia/",
           "publishedOn": "2026-09-28T12:36:39.000Z",
-          "wordCount": 12432,
+          "wordCount": 12588,
           "title": "13 momentos em que a luta pelo direito ao aborto no Brasil foi também uma luta pela democracia",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/dia_aborto_10.webp"
         },
@@ -942,16 +987,6 @@
           "wordCount": 12450,
           "title": "Trend Anos 80: “Podemos lembrar disso para você no atacado”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/sunriseforever-the-style-of-the-80-ies-3984623.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=66911",
-          "author": "Boitempo",
-          "description": "A partir dos dois shows de Milo J em São Paulo, o texto argumenta que o rapper argentino — autointitulado morocho color lodo e porta-voz do movimento da Argentina Marrom — rompeu o véu da propaganda eurocêntrica que sustenta o mito de um país branco e, ao fazê-lo, abriu uma via inesperada de diálogo entre brasileiros e argentinos.",
-          "link": "https://blogdaboitempo.com.br/2026/09/25/o-mito-da-argentina-branca-morre-na-pele-parda-de-milo-j/",
-          "publishedOn": "2026-09-25T11:00:00.000Z",
-          "wordCount": 13459,
-          "title": "O mito da Argentina branca morre na pele parda de Milo J",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/milo-lumachiararuiz_40lumachiararuiz-27.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     }
