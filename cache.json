@@ -43,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6abd66a959cc9a03580757c3",
+          "author": "Érika Andreassy",
+          "description": "Em 1976, com não mais do que cerca de cinco minutos de tela no filme Todos os Homens do Presidente, a atriz Jane Alexander entregou uma atuação tão avassaladora que foi catapultada ao estrelato, garantindo uma indicação ao Oscar de",
+          "link": "https://opiniaosocialista.com.br/o-ouro-a-lama-e-o-poder/",
+          "publishedOn": "2026-09-30T20:09:50.000Z",
+          "wordCount": 1561,
+          "title": "O ouro, a lama e o poder",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/09/vorcaro_coluna.webp"
+        },
+        {
           "id": "6abc5e1759cc9a035807579e",
           "author": "Joana Salay",
           "description": "“Ouça um bom conselho\nQue eu lhe dou de graça\nInútil dormir que a dor não passa\nEspere sentado\nOu você se cansa\nEstá provado, quem espera nunca alcança\"\n(Bom Conselho, Chico Buarque)\nJoana Salay e",
@@ -79,6 +89,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Simoes-anuncia-R-32-milhoes-para-grandes-clubes-e-nada-para-as-familias-atingidas-pelas-Bets",
+          "author": "Luizinho",
+          "description": "Sem investir em educação, esporte, lazer e saúde e tentando privatizar onde o sol toca, Simões anuncia R$32 milhões para clubes mineiros como forma de supostamente apoiar o futebol.\n30-09-2026\n\n/ Sociedade, Esporte, precarização, Minas Gerais, Copasa, Mateus Simões",
+          "link": "https://www.esquerdadiario.com.br/Simoes-anuncia-R-32-milhoes-para-grandes-clubes-e-nada-para-as-familias-atingidas-pelas-Bets",
+          "publishedOn": "2026-09-30T19:09:53.000Z",
+          "wordCount": null,
+          "title": "Simões anuncia R$32 milhões para grandes clubes e nada para as famílias atingidas pelas Bets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-quer-importar-o-modelo-de-Marco-Rubio-para-o-Itamaraty",
+          "author": "Chris Amelio Castañeda",
+          "description": "As articulações da extrema direita para subordinar ainda mais o Estado brasileiro aos ditames de Washington se aprofundam rumo ao primeiro turno. Segundo informações veiculadas sobre as diretrizes eleitorais do clã Bolsonaro — capitaneadas por Marcos Degaut, ligado a Eduardo Bolsonaro —, o plano para o Ministério das Relações Exteriores em caso de vitória é aplicar uma reforma radical no Itamaraty espelhada no modelo de Marco Rubio, secretário de Estado do governo Donald Trump.\n30-09-2026\n\n/ Política, Donald Trump, Imperialismo, colonialismo, Flavio Bolsonaro",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-quer-importar-o-modelo-de-Marco-Rubio-para-o-Itamaraty",
+          "publishedOn": "2026-09-30T18:59:51.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro quer importar o modelo de Marco Rubio para o Itamaraty",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Dezenas-de-milhares-de-estudantes-em-greve-contra-Merz-e-o-servico-militar-obrigatorio",
           "author": "Gabriela Muñoz",
@@ -247,6 +277,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445235",
+          "author": "Eduardo Goulart",
+          "description": "Rodrigo Gonçalves dos Santos é responsável por 22% de toda a arrecadação do candidato do PL ao Senado por Goiás. No Pará, Santos é acusado pelo MP de pagar suborno para dominar licitações milionárias.\nO post Gustavo Gayer recebeu mais de R$ 400 mil em doações de empresário denunciado por fraudar licitações apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/09/30/gustavo-gayer-recebeu-mais-400-mil-empresario-denunciado-fraudar-licitacoes/",
+          "publishedOn": "2026-09-30T19:00:23.000Z",
+          "wordCount": null,
+          "title": "Gustavo Gayer recebeu mais de R$ 400 mil em doações de empresário denunciado por fraudar licitações",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/gayer_Headerwide.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/gayer_Headerwide.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445205",
           "author": "Bianca Pyl",
           "description": "A direita trata política como investimento de longo prazo, com mapa, orçamento e divisão de tarefas.  \nO post Plano da rede trumpista Rockbridge no Brasil mostra que campo progressista já perdeu muito tempo apareceu primeiro em Intercept Brasil.",
@@ -344,12 +389,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163759",
+          "author": "Catarina Duarte",
+          "description": "Em ano eleitoral, discutir segurança pública exige olhar para quem mais sofre com a violência e pensar políticas capazes de prevenir, responder e responsabilizar\nO conteúdo Artigo | Segurança eficiente é a que tira os corpos da mira Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/artigo-seguranca-eficiente-e-a-que-tira-os-corpos-da-mira/",
+          "publishedOn": "2026-09-30T17:58:40.000Z",
+          "wordCount": 5617,
+          "title": "Artigo | Segurança eficiente é a que tira os corpos da mira",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2023/07/mortos_policia_BA.jpg"
+        },
+        {
           "id": "https://ponte.org/?p=163625",
           "author": "Catarina Duarte",
           "description": "Com candidatos competitivas em diferentes estados, policiais e militares tentam ampliar sua presença no poder nas eleições de 2026\nO conteúdo Artigo | Bancada policial pode dobrar de tamanho no Senado e conquistar governos estaduais Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/artigo-bancada-policial-pode-dobrar-de-tamanho-no-senado-e-conquistar-governos-estaduais/",
           "publishedOn": "2026-09-29T20:21:36.000Z",
-          "wordCount": 6243,
+          "wordCount": 6244,
           "title": "Artigo | Bancada policial pode dobrar de tamanho no Senado e conquistar governos estaduais",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/senad0-federal-agencia-senado.webp"
         },
@@ -408,104 +463,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=267269",
+          "author": "Raissa Neves",
+          "description": "Poucos programas tiveram um impacto tão grande na transformação social do Brasil quanto o REUNI. Criado por Lula em 2007, o programa operou uma expansão sem precedentes no ensino superior público, dobrando o número de vagas nas universidades federais. O REUNI alterou substancialmente o perfil elitizado que marcava as universidades públicas brasileiras até o início […]\nO post REUNI: a expansão das universidades públicas no governo Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/reuni-a-expansao-das-universidades-publicas-no-governo-lula/",
+          "publishedOn": "2026-09-30T20:16:49.000Z",
+          "wordCount": 5480,
+          "title": "REUNI: a expansão das universidades públicas no governo Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/10.05.2024_-_visita_ao_novo_predio_do_nucleo_pedagogico_do_campus_paulo_freire_da_universidade_federal_do_sul_da_bahia_ufsb_53712526824.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267264",
+          "author": "Raissa Neves",
+          "description": "O presidente Luiz Inácio Lula da Silva afirmou que o Brasil está “mais do que preparado” para lidar com o cenário político global e que não se preocupa com eventuais turbulências ou posturas do ex-mandatário estadunidense Donald Trump, como o não reconhecimento de resultados eleitorais. A declaração foi dada nesta quarta-feira (30/09) durante entrevista a […]\nO post Lula critica ‘complexo de vira-latas’ de líderes da América Latina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-critica-complexo-de-vira-latas-de-lideres-da-america-latina/",
+          "publishedOn": "2026-09-30T19:37:21.000Z",
+          "wordCount": 3498,
+          "title": "Lula critica ‘complexo de vira-latas’ de líderes da América Latina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/sem_titulo.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267242",
+          "author": "Raissa Neves",
+          "description": "A Polícia Federal encontrou mensagens no celular do banqueiro Daniel Vorcaro que revelam que o apresentador da TV Globo, Luciano Huck, mantinha uma relação de amizade e negócios com o então dono do Banco Master pelo menos dois anos antes da prisão do empresário. Os registros apontam encontros e jantares no Brasil e no exterior, […]\nO post Mensagens revelam relação de Luciano Huck com Daniel Vorcaro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/mensagens-revelam-relacao-de-luciano-huck-com-daniel-vorcaro/",
+          "publishedOn": "2026-09-30T18:42:31.000Z",
+          "wordCount": 3543,
+          "title": "Mensagens revelam relação de Luciano Huck com Daniel Vorcaro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/screenshot-2026-09-30-at-15.30.33.png.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267241",
+          "author": "Tabitha Ramalho",
+          "description": "As Forças Armadas dos Estados Unidos e a coalizão internacional concluíram sua missão militar no Iraque na quarta-feira (30/09), após retirarem suas últimas tropas e equipamentos da Base Aérea de Erbil. A retirada pôs fim à ocupação norte-americana do país, rejeitada pela sociedade civil e pelos grupos de resistência islâmica que desempenharam um papel fundamental […]\nO post EUA encerram missão militar no Iraque após mais de duas décadas de ocupação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/eua-encerram-missao-militar-no-iraque-apos-mais-de-duas-decadas-de-ocupacao/",
+          "publishedOn": "2026-09-30T17:42:33.000Z",
+          "wordCount": 3232,
+          "title": "EUA encerram missão militar no Iraque após mais de duas décadas de ocupação",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/flag_of_iraq-scaled.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267231",
+          "author": "Tatiana Carlotti",
+          "description": "A Malásia iniciou nesta terça-feira (29/09) a primeira etapa de um programa que prevê a repatriação de cinco mil mianmarenses que buscaram refúgio no país em meio à guerra civil em Mianmar, iniciada após o golpe militar de 2021. A operação prevê, inicialmente, a deportação de cerca de 1.500 pessoas. A guerra civil começou após […]\nO post Malásia inicia deportações para Mianmar apesar dos alertas da ONU: ‘não é seguro’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/malasia-inicia-deportacoes-para-mianmar-apesar-dos-alertas-da-onu-nao-e-seguro/",
+          "publishedOn": "2026-09-30T16:40:42.000Z",
+          "wordCount": 3558,
+          "title": "Malásia inicia deportações para Mianmar apesar dos alertas da ONU: ‘não é seguro’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/min_aung_hlaing_at_the_kremlin_on_march_4_2025.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267233",
+          "author": "Tabitha Ramalho",
+          "description": "Matéria atualizada às 14h59 em 30/09 O Tribunal Superior Eleitoral (TSE) começou a julgar, na manhã desta quarta-feira (30/09), se mantém a decisão do ministro André Mendonça que ordenou a remoção de postagens da internet que associavam o presidenciável Flávio Bolsonaro (PL) à retirada do título de padroeira do Brasil de Nossa Senhora Aparecida. Até […]\nO post Mendonça vota para manter decisão de retirar posts de Nossa Senhora apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/mendonca-vota-para-manter-decisao-de-retirar-posts-de-nossa-senhora/",
+          "publishedOn": "2026-09-30T16:37:03.000Z",
+          "wordCount": 3569,
+          "title": "Mendonça vota para manter decisão de retirar posts de Nossa Senhora",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/52441529977_f3565b5d7d_o-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267227",
+          "author": "Tabitha Ramalho",
+          "description": "Com uma receita anual de R$ 5,4 milhões em 2025, vinda principalmente dos valores recebidos pela permissão de uso dos seus espaços para iniciativa privada, a Fundação Memorial da América Latina teve apenas R$ 7 previstos para serviços gerais no mesmo ano, sem previsão de investimentos para manutenção, ampliação, reforma ou adequação. “O Memorial arrecada […]\nO post Ameaçado de privatização, Memorial da América Latina é superavitário, mas verbas são represadas pelo governo Tarcísio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/ameacado-de-privatizacao-memorial-da-america-latina-e-superavitario-mas-verbas-sao-represadas-pelo-governo-tarcisio/",
+          "publishedOn": "2026-09-30T16:00:17.000Z",
+          "wordCount": 4694,
+          "title": "Ameaçado de privatização, Memorial da América Latina é superavitário, mas verbas são represadas pelo governo Tarcísio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/06/imagem-do-whatsapp-de-2025-09-12-as-12.55.17_8f2cf90a-1536x1023-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267226",
+          "author": "Tatiana Carlotti",
+          "description": "O apoio conquistado por Donald Trump entre eleitores hispânicos na fronteira do Texas em 2024 dá sinais de forte erosão a pouco mais de um mês das eleições legislativas dos Estados Unidos. Moradores do Vale do Rio Grande que votaram no republicano relatam forte frustração com a política de deportações e com a situação econômica, […]\nO post Eleitores hispânicos do Texas se dizem traídos por governo Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eleitores-hispanicos-do-texas-se-dizem-traidos-por-governo-trump/",
+          "publishedOn": "2026-09-30T15:20:54.000Z",
+          "wordCount": 3832,
+          "title": "Eleitores hispânicos do Texas se dizem traídos por governo Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/05/donald_trump-gage-skidmore.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=267218",
           "author": "Tabitha Ramalho",
           "description": "Um documento da plataforma Blaze revela que o advogado Willer Tomaz movimentou cerca de R$ 13 bilhões em apostas online entre janeiro de 2025 e junho de 2026. Os registros apontam uma sequência de depósitos, apostas e créditos de prêmios que colocam a movimentação financeira do advogado em uma escala bilionária. Tomaz, que é amigo […]\nO post Advogado ligado a Flávio Bolsonaro movimentou R$ 13 bilhões em apostas na Blaze apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/advogado-ligado-a-flavio-bolsonaro-movimentou-r-13-bilhoes-em-apostas-na-blaze/",
           "publishedOn": "2026-09-30T14:42:01.000Z",
-          "wordCount": 3536,
+          "wordCount": 3533,
           "title": "Advogado ligado a Flávio Bolsonaro movimentou R$ 13 bilhões em apostas na Blaze",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/143762.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=267211",
           "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro britânico, Andy Burnham, afirmou nesta quarta-feira (30/09), em entrevista à BBC, que o Reino Unido deve discutir uma nova relação com a União Europeia (UE) e incluiu entre as possibilidades a readesão ao bloco, dez anos depois do referendo que levou ao Brexit. Burnham apresentou diferentes caminhos que poderão ser considerados pelo governo: […]\nO post Premiê afirma que Reino Unido pode voltar à UE: Brexit ‘causou mais mal do que bem’ apareceu primeiro em Opera Mundi.",
+          "description": "O primeiro-ministro britânico, Andy Burnham, afirmou nesta quarta-feira (30/09), em entrevista à BBC, que o Reino Unido deve discutir uma nova relação com a União Europeia (UE) e incluiu entre as possibilidades a readesão ao bloco, dez anos depois do referendo que levou ao Brexit. Burnham apresentou diferentes caminhos que poderão ser considerados pelo governo: […]\nO post Premiê afirma que Reino Unido pode voltar à UE: ‘Brexit causou mais mal do que bem’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/premie-britanico-afirma-que-reino-unido-pode-voltar-a-uniao-europeia/",
           "publishedOn": "2026-09-30T14:10:43.000Z",
-          "wordCount": 3414,
-          "title": "Premiê afirma que Reino Unido pode voltar à UE: Brexit ‘causou mais mal do que bem’",
+          "wordCount": 3408,
+          "title": "Premiê afirma que Reino Unido pode voltar à UE: ‘Brexit causou mais mal do que bem’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/burnham-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267203",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente dos Estados Unidos, Donald Trump, descreveu seu homólogo norte-coreano Kim Jong Un como “um amigo” e minimizou a capacidade nuclear de Pyongyang, afirmando que, apesar de ser “bastante grande”, não se compara à de Washington. “Enquanto eu estiver por perto, ele ficará bem”, declarou o republicano na terça-feira (29/09), depois que um repórter […]\nO post Trump chama Kim Jong Un de ‘amigo’ e minimiza arsenal nuclear da Coreia do Norte apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/trump-chama-kim-jong-un-de-amigo-e-minimiza-arsenal-nuclear-da-coreia-do-norte/",
-          "publishedOn": "2026-09-30T13:24:24.000Z",
-          "wordCount": 3624,
-          "title": "Trump chama Kim Jong Un de ‘amigo’ e minimiza arsenal nuclear da Coreia do Norte",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/trump_and_kim_pose_a_photo_before_singapore_summit_square_crop-e1787032314992.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267195",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, marcou para esta quarta-feira (30/09) o julgamento virtual da decisão da Corte que derrubou postagens nas redes sociais relacionadas à retirada de Nossa Senhora Aparecida do título de padroeira do Brasil. A sessão virtual está prevista para começar às 10h. Na semana passada, o […]\nO post TSE julga decisão que barrou postagens sobre Nossa Senhora Aparecida apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/tse-julga-decisao-que-barrou-postagens-sobre-nossa-senhora-aparecida/",
-          "publishedOn": "2026-09-30T12:49:27.000Z",
-          "wordCount": 3277,
-          "title": "TSE julga decisão que barrou postagens sobre Nossa Senhora Aparecida",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/aparecida-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267185",
-          "author": "Tatiana Carlotti",
-          "description": "Um voo da Flydubai com 174 pessoas a bordo, que seguia de Dubai, nos Emirados Árabes Unidos, para Tel Aviv, em Israel, foi desviado nesta quarta-feira (30/09) para a Arábia Saudita, após um grave incidente dentro da cabine de comando. O avião estava no espaço aéreo jordaniano, há 90 minutos da decolagem, quando a aeronave […]\nO post Voo para Israel é desviado após confronto no ar entre pilotos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/voo-da-flydubai-em-direcao-a-tel-aviv-e-desviado-apos-confronto-entre-pilotos/",
-          "publishedOn": "2026-09-30T12:05:40.000Z",
-          "wordCount": 3373,
-          "title": "Voo para Israel é desviado após confronto no ar entre pilotos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/6abcd3e9e9ff71765361e0bf.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267174",
-          "author": "Tatiana Carlotti",
-          "description": "As falhas de segurança relacionadas aos ataques de 7 de outubro de 2023 estão no centro da campanha para as eleições legislativas em Israel, marcadas para 27 de outubro. Três anos após a ofensiva do Hamas, os israelenses querem saber quais informações o governo possuía para tentar evitá-la e se houve falhas na resposta das […]\nO post Revelações sobre alertas antes do 7 de outubro colocam Netanyahu sob pressão apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/revelacoes-sobre-alertas-antes-do-7-de-outubro-colocam-netanyahu-sob-pressao/",
-          "publishedOn": "2026-09-30T11:01:42.000Z",
-          "wordCount": 3603,
-          "title": "Revelações sobre alertas antes do 7 de outubro colocam Netanyahu sob pressão",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-27-114141.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267162",
-          "author": "Tatiana Carlotti",
-          "description": "A equipe de defesa da ex-presidente argentina Cristina Kirchner apresentou, nesta terça-feira (30/09), um adendo formal ao Comitê de Direitos Humanos das Nações Unidas, solicitando o fim imediato da proibição vitalícia que a impede de ocupar cargos públicos e a suspensão de sua pena de prisão de seis anos. A proposta incorpora novos fatos e […]\nO post Cristina Kirchner entra com ação na ONU por devolução de direitos políticos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/cristina-kirchner-entra-com-acao-na-onu-por-devolucao-de-direitos-politicos/",
-          "publishedOn": "2026-09-30T10:24:53.000Z",
-          "wordCount": 3421,
-          "title": "Cristina Kirchner entra com ação na ONU por devolução de direitos políticos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/g3gbbcew0aaddok.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267160",
-          "author": "Tatiana Carlotti",
-          "description": "A Suprema Corte dos Estados Unidos autorizou nesta terça-feira (29/09), de forma temporária, o governo do presidente Donald Trump a deportar imigrantes para países terceiros e marcou novas audiências para o caso, que será retomado em dezembro. A decisão desta terça-feira suspende as determinações de tribunais inferiores, que exigiam que os imigrantes fossem informados sobre […]\nO post Suprema Corte dos EUA autoriza deportações de imigrantes para países terceiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/suprema-corte-dos-eua-autoriza-deportacoes-de-imigrantes-para-paises-terceiros/",
-          "publishedOn": "2026-09-30T10:02:22.000Z",
-          "wordCount": 3280,
-          "title": "Suprema Corte dos EUA autoriza deportações de imigrantes para países terceiros",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/12/54351601887_16a53b7c05_c.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267121",
-          "author": "Tabitha Ramalho",
-          "description": "Em um terraço escuro em Tel Aviv, na capital de Israel, oficiais da inteligência do país, de forma anônima, contam como ajudaram a desenvolver uma ferramenta de mapeamento por IA que rastreava sinais de celular e recomendava prédios residenciais em Gaza como alvos de bombardeio. “Eles vão me colocar na prisão pelo o que vou […]\nO post Matar palestinos nunca foi acidental para Israel – é o que revela documentário ‘Naza’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/matar-palestinos-nunca-foi-acidental-para-israel-e-o-que-revela-documentario-naza/",
-          "publishedOn": "2026-09-30T10:00:06.000Z",
-          "wordCount": 4491,
-          "title": "Matar palestinos nunca foi acidental para Israel – é o que revela documentário ‘Naza’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/graficocolado-2.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267155",
-          "author": "Raissa Neves",
-          "description": "Uma grande manifestação tomou as ruas de São Paulo em 31 de outubro de 2013. Indignados contra o projeto de IPTU progressivo anunciando por Fernando Haddad, os manifestantes ocuparam a Avenida Paulista e iniciaram uma marcha até a casa do prefeito Os manifestantes entoavam palavras de ordem como “Fora Haddad”, “Fora PT” e carregavam uma […]\nO post Contradições do antipetismo: Haddad e o IPTU progressivo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/contradicoes-do-antipetismo-haddad-e-o-iptu-progressivo/",
-          "publishedOn": "2026-09-29T21:28:54.000Z",
-          "wordCount": 4262,
-          "title": "Contradições do antipetismo: Haddad e o IPTU progressivo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/prefeito_fernando_haddad_-_pt.jpg"
         }
       ]
     },
@@ -521,12 +576,62 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=233822",
+          "author": "Redação de AND",
+          "description": "Dos 880 militares dos Estados Unidos mortos ou feridos desde o início da guerra com o Irã, 444 foram contabilizados nas 12 semanas posteriores a 7 de julho, quando o governo Trump declarou encerrada a Operação Epic Fury. Enquanto Catar mantinha a troca de mensagens entre Washington e Teerã sobre a reabertura de Ormuz, um ataque sionista matou Izz al-Din al-Beik, comandante da Brigada Norte das Brigadas Al-Qassam. Na Cisjordânia ocupada, 1.731 colonos ilegais entraram em Al-Aqsa no dia 28; horas depois, colonos incendiaram as casas de uma família palestina recém-retornada a Jalud.",
+          "link": "https://anovademocracia.com.br/plantao-palestina-29-09-2026/",
+          "publishedOn": "2026-09-30T19:50:14.000Z",
+          "wordCount": 8515,
+          "title": "Plantão Palestina (28–29/09): Dados do Pentágono mostram 444 baixas após fim declarado da ‘Epic Fury’; comandante das Brigadas Al-Qassam cai em combate em Gaza",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina-1-1024x576.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233817",
+          "author": "Redação de AND",
+          "description": "Militares do EUA passaram a participar diretamente de operações em território equatoriano, enquanto ataques contra embarcações no Pacífico acumulam denúncias de desaparecimentos, tortura e destruição de barcos; relator da ONU classificou a campanha marítima ianque como uma sequência de execuções extrajudiciais.",
+          "link": "https://anovademocracia.com.br/tropas-ianques-equador-desaparecimentos/",
+          "publishedOn": "2026-09-30T19:23:27.000Z",
+          "wordCount": 8039,
+          "title": "Operações de tropas ianques avançam no Equador em meio a denúncias de execuções e desaparecimentos",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-30-equador.webp"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233812",
+          "author": "Redação de AND",
+          "description": "Em Nueva Vizcaya, moradores mantêm bloqueios contra a exploração da North Luzon Mineral Resources Corporation; três acusações de difamação digital foram arquivadas por falta de provas, enquanto novas prisões, mandados e processos atingem moradores e lideranças da resistência à mineração.",
+          "link": "https://anovademocracia.com.br/moradores-presos-barricadas-filipinas/",
+          "publishedOn": "2026-09-30T19:12:45.000Z",
+          "wordCount": 7883,
+          "title": "Moradores são presos e processados por erguer barricadas contra mineração nas Filipinas",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-30-filipinas.webp"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233808",
+          "author": "Redação de AND",
+          "description": "A presença nas urnas vem recuando ano após ano, passando de 81,6% em 2014 para 78,5% em 2022.",
+          "link": "https://anovademocracia.com.br/juventude-farsa-eleitoral-radical/",
+          "publishedOn": "2026-09-30T19:05:42.000Z",
+          "wordCount": 7954,
+          "title": "Juventude se afasta da farsa eleitoral em cenário de busca por ruptura e transformação radical",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-112.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=233801",
+          "author": "Redação de AND",
+          "description": "A confiança de Luiz Inácio e de seus marqueteiros para proibir as bets não vem de uma “força moral interna” do PT: foi sob seu governo que os cassinos on-line multiplicaram-se como nunca e ganharam regulamentação própria. Ela vem, sim, do cálculo político eleitoral e do respaldo que a proibição encontra em setores das próprias classes dominantes brasileiras.",
+          "link": "https://anovademocracia.com.br/eleicoes-luiz-inacio-proibe-bets-governo/",
+          "publishedOn": "2026-09-30T15:09:01.000Z",
+          "wordCount": 8797,
+          "title": "Às vésperas das eleições, Luiz Inácio proíbe bets que seu próprio governo regulamentou",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/lula-contra-as-bets-1.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=233787",
           "author": "Redação de AND",
           "description": "Retirada encerra o processo de ocupação e intervenção imperialista aberto pela invasão de 2003 e consagra a causa de resistência e libertação iniciada por Saddam Hussein, que atravessou, entre ziguezagues, a guerra de guerrilhas, a primeira retirada ianque em 2011, o retorno das tropas em 2014 e a ascensão das organizações xiitas apoiadas pelo Irã, até a vitória final da Resistência Iraquiana e uma nova derrota estratégica do imperialismo ianque.",
           "link": "https://anovademocracia.com.br/derrota-estrategica-eua-resistencia-iraque/",
           "publishedOn": "2026-09-30T02:09:08.000Z",
-          "wordCount": 9002,
+          "wordCount": 8997,
           "title": "Grande derrota estratégica: últimas tropas do EUA são expulsas pela Resistência Iraquiana após 23 anos de ocupação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/resistencia-islamica-no-iraque-1024x683.jpg"
         },
@@ -536,7 +641,7 @@
           "description": "Encontros estudantis, atos políticos, vigílias, atividades culturais e manifestações reuniram milhares de trabalhadores assalariados, camponeses, artistas e intelectuais, estudantes, mulheres e professores em diferentes regiões do País desde março; maior concentração ocorreu no movimento estudantil, com participação de representantes iranianos e presença recorrente de bandeiras do Irã",
           "link": "https://anovademocracia.com.br/acoes-brasil-apoio-guerra-do-ira-contra-eua/",
           "publishedOn": "2026-09-29T22:51:12.000Z",
-          "wordCount": 8900,
+          "wordCount": 8895,
           "title": "Do Nordeste ao Sul, ações no Brasil manifestam apoio à guerra de libertação do Irã contra o EUA",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/43-enepe-manifestacao-khamenei-1024x683.jpg"
         },
@@ -546,7 +651,7 @@
           "description": "Os interesses dos lealistas e oportunistas de manter a ocupação parecem confluir, enquanto a tendência é que o republicanismo consequente siga crescendo e incremente a luta de libertação nacional do povo irlandês.",
           "link": "https://anovademocracia.com.br/conflitos-irlanda-comunidades-republicanas/",
           "publishedOn": "2026-09-29T21:40:25.000Z",
-          "wordCount": 7218,
+          "wordCount": 7213,
           "title": "Conflitos eclodem na Irlanda ocupada em defesa das comunidades republicanas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-109.png"
         },
@@ -556,7 +661,7 @@
           "description": "Pesquisa BTG/Nexus aponta queda acentuada de oito pontos percentuais do candidato oportunista entre usuários do programa. No início de 2025, Luiz Inácio chegou a retirar R$ 7,7 bilhões do Bolsa Família e entregar R$ 4,17 bilhões ao latifúndio, principal base do bolsonarismo, através do Plano Safra.",
           "link": "https://anovademocracia.com.br/luiz-inacio-popularidade-bolsa-familia/",
           "publishedOn": "2026-09-29T19:10:50.000Z",
-          "wordCount": 7370,
+          "wordCount": 7365,
           "title": "Luiz Inácio perde popularidade entre beneficiários do Bolsa Família apesar de reajuste episódico",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/fila-cadunico-salvador-2023-1024x683.jpg"
         },
@@ -566,59 +671,9 @@
           "description": "HC-130J Combat King II operou no Brasil durante a fase brasileira do Resolute Sentinel, conduzido pela Força Aérea do Comando Sul ianque; em edições anteriores do Tápio, militares ianques participaram da construção dos cenários e do intercâmbio de tripulações sob o objetivo declarado de manter uma “doutrina operacional comum” com as Forças Armadas brasileiras vassalas.",
           "link": "https://anovademocracia.com.br/forca-aerea-ianque-guerra-brasil-insurgente/",
           "publishedOn": "2026-09-28T23:03:59.000Z",
-          "wordCount": 8298,
+          "wordCount": 8293,
           "title": "Importante: Força Aérea ianque participa de treino de ‘guerra não convencional’ no Brasil contra ‘forças insurgentes’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/230716-F-IA158-9022-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233744",
-          "author": "Redação de AND",
-          "description": "Frente Democrática Nacional das Filipinas acusa o 93º Batalhão de Infantaria de expor a criança nas redes sociais e utilizá-la para pressionar sua mãe, que permanece nas fileiras do Novo Exército do Povo.",
-          "link": "https://anovademocracia.com.br/filipinas-perseguicao-contra-filha-nep/",
-          "publishedOn": "2026-09-28T19:30:36.000Z",
-          "wordCount": 7000,
-          "title": "Filipinas: Frente democrática denuncia perseguição militar contra filha de 7 anos de combatente do NEP morto",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-28-filipinas.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233740",
-          "author": "Redação de AND",
-          "description": "Mobilização percorreu diferentes instituições de ensino da cidade e denunciou protocolo anunciado pelo governo de Abelardo de la Espriella para permitir intervenções policiais nos campi.",
-          "link": "https://anovademocracia.com.br/colombia-estudantes-marcham-contra-policia/",
-          "publishedOn": "2026-09-28T19:16:46.000Z",
-          "wordCount": 7010,
-          "title": "Colômbia: centenas de estudantes marcham em Medellín contra entrada da polícia nas universidades",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-28-colombia.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233731",
-          "author": "Redação de AND",
-          "description": "Criadores de ovelhas denunciam queda dos preços após restrições às exportações e cobram subsídios do governo; manifestação de 15 de setembro terminou com 26 detidos e ao menos quatro hospitalizados.",
-          "link": "https://anovademocracia.com.br/romenia-protestos-repressao-policial/",
-          "publishedOn": "2026-09-28T19:03:22.000Z",
-          "wordCount": 7004,
-          "title": "Romênia: milhares de camponeses protestam em Bucareste e enfrentam repressão policial",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat-romania-20260925-1.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233725",
-          "author": "Redação de AND",
-          "description": "Militante da Comissão Estudantil Revolucionária foi abandonado durante a madrugada na região de Lukenya; organização lançou campanha financeira para custear tratamento médico e apoiar sua recuperação.",
-          "link": "https://anovademocracia.com.br/quenia-mulinge-muteti-aparecido/",
-          "publishedOn": "2026-09-28T18:50:50.000Z",
-          "wordCount": 6981,
-          "title": "Quênia: Mulinge Muteti é hospitalizado com perna quebrada e múltiplos ferimentos após quatro dias desaparecido",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/feat_kenya_09252026.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233719",
-          "author": "Redação de AND",
-          "description": "Após mais de 30 anos da homologação do território, órgãos do velho Estado constataram os mesmos crimes denunciados há décadas pelos povos originários da região e renovaram falsas promessas; enquanto isso, indígenas retomam terras e prosseguem com a resistência.",
-          "link": "https://anovademocracia.com.br/povos-terra-indigena-rio-guama-retomada/",
-          "publishedOn": "2026-09-28T18:28:50.000Z",
-          "wordCount": 8077,
-          "title": "Povos da Terra Indígena Alto Rio Guamá lutam por retomadas e enfrentam invasores e falsas promessas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-108.png"
         }
       ]
     },
@@ -645,12 +700,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3205456",
+          "author": "Lucas Scatolini",
+          "description": "Indagado pela filha sobre como escolhemos em quem votar, autor tece uma reflexão sobre a fragilidade da democracia, a beleza da pluralidade e o dever de proteger as vidas vulneráveis. A política aprende-se desde a infância – mas protegê-la é tarefa de uma vida inteira\nThe post Caminhos para uma educação política appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/caminhos-para-uma-educacao-politica/",
+          "publishedOn": "2026-09-30T20:06:51.000Z",
+          "wordCount": 4014,
+          "title": "Caminhos para uma educação política",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/09kids-at-marches-superJumbo-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205451",
+          "author": "Lucas Scatolini",
+          "description": "O Brasil urbano continua esquecido em programas de governos, apesar de ser central para um projeto nacional. Sem debater moradia, acesso à terra, infraestrutura e participação nas decisões do território, ciclo de desigualdades se perpetua\nThe post Eleições: Por que debater as cidades é central? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/eleicoes-por-que-debater-as-cidades-e-central/",
+          "publishedOn": "2026-09-30T18:13:57.000Z",
+          "wordCount": 5411,
+          "title": "Eleições: Por que debater as cidades é central?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5037796922688736392_x.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3205312",
           "author": "Lucas Scatolini",
           "description": "43% dos domicílios da Região Norte vivem insegurança alimentar, enquanto candidaturas abordam apenas o potencial econômico da floresta. Projeto de país precisa se comprometer com o território e incluir o poder de decisão e a diversidade de sua população\nThe post Eleições: Como enfrentar os dramas humanos da Amazônia? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/eleicoes-como-enfrentar-os-dramas-humanos-da-amazonia/",
           "publishedOn": "2026-09-29T21:30:23.000Z",
-          "wordCount": 5723,
+          "wordCount": 5712,
           "title": "Eleições: Como enfrentar os dramas humanos da Amazônia?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/criancas-ribeirinhas-cheia-amazonas-foto-izabela-reboucas-portal-lunetas-10-1620x1080-1.jpg"
         },
@@ -660,7 +735,7 @@
           "description": "Economista indiana provoca: ideias hoje “naturais”, como a ciência limitada por patentes, a hierarquia Norte-Sul e o trabalho não remunerado das mulheres, serão vistas no futuro como ridículas. É hora de encarar a crise da imaginação política\nThe post Jayati Ghosh ousa pensar o pós-capitalismo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/pos-capitalismo/jayati-ghosh-ousa-pensar-pos-capitalismo/",
           "publishedOn": "2026-09-29T21:25:34.000Z",
-          "wordCount": 7843,
+          "wordCount": 8005,
           "title": "Jayati Ghosh ousa pensar o pós-capitalismo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-29-at-18-35-56-OP-PautasIdeias.png"
         },
@@ -680,7 +755,7 @@
           "description": "Fernando Cerimedo, estrategista da extrema-direita, é o elo da nova economia de manipulação política, pilhagem e extração de dados. Liga os Bolsonaros, Milei, big techs e Doutrina Donroe. Ele é mais que um ator neste sistema: se investigado, pode expor suas fissuras\nThe post América Latina: As veias reabertas ao algoritmo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/america-latina-as-veias-reabertas-ao-algoritmo/",
           "publishedOn": "2026-09-29T20:28:13.000Z",
-          "wordCount": 4690,
+          "wordCount": 4676,
           "title": "América Latina: As veias reabertas ao algoritmo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/ai-in-politics.jpg"
         },
@@ -690,7 +765,7 @@
           "description": "Num páreo em que cada voto conta, presidente parece ter acordado. Anuncia medidas concretas como o reajuste do Bolsa Família e o fim das bets. Aumento do salário mínimo e Tarifa Zero, já cogitada como bandeira de campanha, também poderiam empolgar a população\nThe post A arrancada de Lula appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/a-arrancada-de-lula/",
           "publishedOn": "2026-09-29T20:04:23.000Z",
-          "wordCount": 4833,
+          "wordCount": 4839,
           "title": "A arrancada de Lula",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/61a052_cong_materia_manual_554349155775dbe6f0764o.jpg"
         },
@@ -700,7 +775,7 @@
           "description": "A comunidade ribeirinha que luta contra o abandono. A quebrada que aposta na solidariedade e formação. E o território que propõe outros pilares para políticas habitacionais. Casos de autogestão no Brasil e México mostram: a reinvenção política passa pelo Direito à Cidade\nThe post Periferias: laboratórios do Comum na América Latina appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/periferias-laboratorios-do-comum-na-america-latina/",
           "publishedOn": "2026-09-29T19:55:40.000Z",
-          "wordCount": 12919,
+          "wordCount": 12927,
           "title": "Periferias: laboratórios do Comum na América Latina",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/20241108153457_paraisopolisterceiramaiorfaveladobrasilemaiordesp.jpg"
         },
@@ -710,7 +785,7 @@
           "description": "Após um século, ultradireita não promete aos puros um futuro glorioso. Conclama-os à guerra de todos contra todos, num mundo devastado onde, afirmam, poucos sobreviverão. Enquanto isso, sigam os negócios, venham os trilhões!\nThe post Fascismo apocalíptico: a aposta dos bilionários appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/fascismo-apocaliptico-a-aposta-dos-bilionarios/",
           "publishedOn": "2026-09-28T21:10:25.000Z",
-          "wordCount": 6160,
+          "wordCount": 6163,
           "title": "Fascismo apocalíptico: a aposta dos bilionários",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/u4z6hkk5g2df1.jpg"
         },
@@ -723,26 +798,6 @@
           "wordCount": 5054,
           "title": "STF e democracia: a reforma necessária",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/Screenshot-2026-09-28-at-18-01-41-stf.avif-imagem-AVIF-888-%C3%97-592-pixels.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205217",
-          "author": "Lucas Scatolini",
-          "description": "Chegou em chegança, como a Folia de Reis e as Festas do Divino, as mais generosas e utópicas. Confunde-se com a própria identidade nacional. Articula fé e colaboração comunitária, aproxima matrizes católicas, afro-brasileiras e profanas. Tornou-se negra. Por isso a odeiam tanto\nThe post Por que a ultradireita não tolera Nossa Senhora Aparecida appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/por-que-a-ultradireita-nao-tolera-nossa-senhora-aparecida/",
-          "publishedOn": "2026-09-28T20:42:52.000Z",
-          "wordCount": 5259,
-          "title": "Por que a ultradireita não tolera Nossa Senhora Aparecida",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/5033106650897779799.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205193",
-          "author": "Lucas Scatolini",
-          "description": "Revela-se agora que modelos perigosos invadiram sites oficiais dos EUA e Austrália. Na ONU, empresas que ocultaram seus “incidentes” querem palco reservado para debater segurança. Trump se recusa a pisar no freio enquanto humanidade assiste de fora\nThe post Os “donos” da IA estão no (des)controle appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/os-donos-da-ia-estao-no-descontrole/",
-          "publishedOn": "2026-09-28T18:53:32.000Z",
-          "wordCount": 5442,
-          "title": "Os “donos” da IA estão no (des)controle",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/09/photo_5033154393754243037_y.jpg"
         }
       ]
     },
@@ -780,16 +835,6 @@
           "wordCount": 3871,
           "title": "Santo Trotsky",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159920",
-          "author": "Enzo Silva",
-          "description": "Walter Salles, Fernanda Torres e a disputa pelo sentido da independência. Por Arthur Moura",
-          "link": "https://passapalavra.info/2026/09/159920/",
-          "publishedOn": "2026-09-26T06:03:14.000Z",
-          "wordCount": 5857,
-          "title": "“Ainda estou aqui” é cinema independente?",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/09/helmut-newton-1.webp"
         }
       ]
     },
@@ -798,6 +843,26 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=67097",
+          "author": "Boitempo",
+          "description": "Não há razão para subestimar o que está em jogo. Neste texto-convocação, Ederson Duda faz uma análise das eleições 2026. \"Lenin (2025) insiste que reconhecer os limites históricos do Parlamento não autoriza os revolucionários a abandonar sua disputa enquanto ela for necessária à luta política da classe trabalhadora. A questão tática é compreender quando e para que ocupar esse terreno. No Brasil de hoje, depois dos retrocessos impostos pelo bolsonarismo e diante da possibilidade de seu retorno ao governo, a luta eleitoral é decisiva para os rumos do país. Reeleger Lula e ampliar a presença parlamentar do campo popular são, portanto, tarefas dos socialistas e de todos os que se comprometem com a defesa da soberania nacional.\"",
+          "link": "https://blogdaboitempo.com.br/2026/09/30/contra-a-indiferenca-tomar-partido/",
+          "publishedOn": "2026-09-30T15:04:25.000Z",
+          "wordCount": 12277,
+          "title": "Contra a indiferença, tomar partido",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/sem_titulo-16.webp"
+        },
+        {
+          "id": "http://blogdaboitempo.com.br/?p=67143",
+          "author": "Boitempo",
+          "description": "Fernando Novais completaria hoje 93 anos. Neste texto-homenagem, o Prof. Pedro Puntoni fala sobre a trajetória de Novais, além de tecer uma análise potente sobre um dos últimos textos que escreveu, \"História, historiografia e materialismo histórico\", publicado recentemente na Margem Esquerda (47).",
+          "link": "https://blogdaboitempo.com.br/2026/09/30/fernando-novais-historiador-marxista/",
+          "publishedOn": "2026-09-30T15:00:00.000Z",
+          "wordCount": 12366,
+          "title": "Fernando Novais: historiador marxista",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/fernando-novais_2021_06_pb_recorte-edited.jpg?fit=1200%2C881&ssl=1"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=67081",
           "author": "Boitempo",
