@@ -71,16 +71,6 @@
           "wordCount": 1936,
           "title": "Rebeldia lança manifesto \"Enterrar o velho mundo\", da juventude com a esquerda revolucionária",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/SaveClip.App_821529923_18338548828282707_4150244055847820655_n.webp"
-        },
-        {
-          "id": "6ab9b477ba0563f768d4efc0",
-          "author": "Eduardo Zanata, de Brasília (DF)",
-          "description": "A recente impugnação da candidatura de José Roberto Arruda pelo Tribunal Superior Eleitoral (TSE), que ostentava cerca de 20% das intenções de voto, desencadeou uma verdadeira corrida entre os concorrentes ao Governo do Distrito Federal para herdar o seu eleitorado — e o",
-          "link": "https://opiniaosocialista.com.br/vale-tudo-para-derrotar-celina-leao-uma-polemica-com-o-pt-e-leandro-grass/",
-          "publishedOn": "2026-09-28T00:35:15.000Z",
-          "wordCount": 1353,
-          "title": "​Vale tudo para derrotar Celina Leão? Uma polêmica com o PT e Leandro Grass",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/09/jose-roberto-arruda.webp"
         }
       ]
     },
@@ -338,26 +328,6 @@
           "wordCount": null,
           "title": "Trabalhadores da BYD entram em greve por reajuste e contra a precarização. Todo apoio!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Somente-um-programa-construido-pelos-trabalhadores-pode-preparar-as-cidades-para-as-mudancas",
-          "author": "Diego Nunes, Movimento Nossa Classe, Rio Grande do Sul",
-          "description": "Frente aos últimos temporais e previsões preocupantes de desequilíbrio climático causados também pelo super El Niño, mas não só por ele, escrevemos este texto retomando pontos programáticos que elaboramos após as enchentes de 2024, cujas consequências muitas famílias vivem até hoje. Queremos colocar em debate com a população afetada, ambientalistas, trabalhadores e povos oprimidos que as mudanças climáticas têm responsáveis e é possível construir um programa e uma luta para preparar as (…)\n26-09-2026",
-          "link": "https://www.esquerdadiario.com.br/Somente-um-programa-construido-pelos-trabalhadores-pode-preparar-as-cidades-para-as-mudancas",
-          "publishedOn": "2026-09-27T21:04:22.000Z",
-          "wordCount": null,
-          "title": "Somente um programa construído pelos trabalhadores pode preparar as cidades para as mudanças climáticas em curso",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Por-que-precisamos-ir-as-ruas-em-Natal-RN-contra-a-extrema-direita-o-imperialismo-e-pelo-direito-ao",
-          "author": "Cássia Silva, Gabriela França",
-          "description": "A próxima segunda, 28 de setembro, marca o Dia Latino-Americano e Caribenho de Luta pela Descriminalização e Legalização do Aborto. No Brasil, mesmo nos poucos casos em que o aborto é legalizado, esse direito não é plenamente garantido e é constantemente atacado por figuras abjetas como Damares e Flávio Bolsonaro\n26-09-2026\n\n/ Classe trabalhadora, Juventude, Gênero e sexualidade, Direito ao aborto, LGBT, #28S - PELO DIREITO AO ABORTO, Feminicídio, mulheres negras, Mulheres, Natal, Aborto, Legalização do Aborto, Direito ao Aborto Legal, Seguro e Gratuito, transfeminicídio, Movimento de mulheres, LGBTQIAP+",
-          "link": "https://www.esquerdadiario.com.br/Por-que-precisamos-ir-as-ruas-em-Natal-RN-contra-a-extrema-direita-o-imperialismo-e-pelo-direito-ao",
-          "publishedOn": "2026-09-27T17:45:04.000Z",
-          "wordCount": null,
-          "title": "Por que precisamos ir às ruas em Natal/RN contra a extrema direita, o imperialismo e pelo direito ao aborto legal?",
-          "imageUrl": null
         }
       ]
     },
@@ -366,6 +336,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=445233",
+          "author": "Isabella Mota",
+          "description": "Em entrevista ao Intercept, o cientista político analisa o impasse na frente ampla de Lula, a força do bolsonarismo no meio evangélico e os riscos de um projeto autocrático no Brasil. \nO post Eleições 2026: ‘Um novo governo de extrema direita vai acelerar o colapso da democracia’, alerta André Singer apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/10/02/governo-extrema-direita-acelera-colapso-democracia/",
+          "publishedOn": "2026-10-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Eleições 2026: ‘Um novo governo de extrema direita vai acelerar o colapso da democracia’, alerta André Singer",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/09/Headerwide-9.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/09/Headerwide-9.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=445229",
           "author": "Isabella Mota",
@@ -479,12 +464,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163760",
+          "author": "Pedro Stropasolas",
+          "description": "Mensagem foi enviada por uma lista interna da PRF após absolvição dos agentes envolvidos na ação. Eles respondiam por cinco das 26 mortes\nO conteúdo ‘Justiça feita’: direção da PRF comemorou em grupo interno absolvição de policiais envolvidos na chacina de Varginha Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/justica-feita-direcao-da-prf-comemorou-em-grupo-interno-absolvicao-de-policiais-envolvidos-na-chacina-de-varginha/",
+          "publishedOn": "2026-10-02T13:40:33.000Z",
+          "wordCount": 6000,
+          "title": "‘Justiça feita’: direção da PRF comemorou em grupo interno absolvição de policiais envolvidos na chacina de Varginha",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2021/11/varginha-divulgacao-pmmg.jpeg"
+        },
+        {
           "id": "https://ponte.org/?p=163792",
           "author": "Catarina Duarte",
           "description": "A mudança nas bases eleitorais e uma nova disputa pelo poder no Brasil\nO conteúdo Artigo | Uma nova maioria que pode redefinir o poder Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/artigo-uma-nova-maioria-que-pode-redefinir-o-poder/",
           "publishedOn": "2026-10-01T18:55:20.000Z",
-          "wordCount": 6421,
+          "wordCount": 6597,
           "title": "Artigo | Uma nova maioria que pode redefinir o poder",
           "imageUrl": "https://ponte.org/wp-content/uploads/2023/07/25_07_2023marcha_mulheres_negras_Arroyo-08.jpg"
         },
@@ -524,7 +519,7 @@
           "description": "Dado revelado pelo Mapa da Desigualdade mostra que pessoas negras são mais de 70% das vítimas de mortes provocadas por agentes do Estado na Região Metropolitana do Rio de Janeiro\nO conteúdo Polícia matou apenas negros em três cidades do Rio em 2025 Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/policia-matou-apenas-negros-em-tres-cidades-do-rio-em-2025/",
           "publishedOn": "2026-09-28T22:30:05.000Z",
-          "wordCount": 6100,
+          "wordCount": 6037,
           "title": "Polícia matou apenas negros em três cidades do Rio em 2025",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Mulheres-choram-apos-operacao-contencao--scaled.webp"
         },
@@ -564,16 +559,6 @@
           "wordCount": 4397,
           "title": "A epidemia de suicídios na Argentina",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/suicidio.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74751",
-          "author": "Frei Betto",
-          "description": "m abril de 2017, no Clube Hebraica, no Rio de Janeiro, Jair Bolsonaro, ao se referir a uma visita a um quilombo, contou: “O afrodescendente mais leve lá pesava sete arrobas. Não fazem nada! Acho que nem para procriador ele serve mais.” Bolsonaro usou uma unidade de peso associada a animais para se referir a […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/09/27/ameacam-cassar-aparecida/",
-          "publishedOn": "2026-09-27T17:43:31.000Z",
-          "wordCount": 3233,
-          "title": "Frei Betto: ameaçam cassar Aparecida",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/09/aparecida.webp"
         }
       ]
     },
@@ -583,12 +568,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=267450",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente dos Estados Unidos, Donald Trump, voltou a ameaçar o Irã ao defender a “aniquilação” do país como caminho para alcançar a paz. Em entrevista à revista Time, publicada nesta quinta-feira (01/10), o republicano afirmou não acreditar na possibilidade de uma solução pacífica com Teerã e vinculou diretamente a destruição do país à estabilidade […]\nO post Trump defende ‘aniquilação’ do Irã enquanto movimentação militar se amplia na região apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-defende-aniquilacao-do-ira-enquanto-movimentacao-militar-se-amplia-na-regiao/",
+          "publishedOn": "2026-10-02T14:00:00.000Z",
+          "wordCount": 4176,
+          "title": "Trump defende ‘aniquilação’ do Irã enquanto movimentação militar se amplia na região",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/200125-n-lh674-1073_uss_theodore_roosevelt_cvn-71.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267449",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente suíço, Guy Parmelin, anunciou na sexta-feira (02/10) sua decisão de deixar o governo federal em 31 de dezembro, após dez anos no executivo colegiado que lidera o país. Ele também ocupa o cargo de chefe do Departamento de Economia, Educação e Pesquisa. O anúncio marca o fim de uma década de atuação contínua […]\nO post Presidente suíço Guy Parmelin renuncia ao governo após dez anos no poder apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/presidente-suico-guy-parmelin-renuncia-ao-governo-apos-dez-anos-no-poder/",
+          "publishedOn": "2026-10-02T13:06:17.000Z",
+          "wordCount": 3368,
+          "title": "Presidente suíço Guy Parmelin renuncia ao governo após dez anos no poder",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/htnjsgiwuaa8a2o.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267440",
+          "author": "Tatiana Carlotti",
+          "description": "A dois dias do primeiro turno das eleições presidenciais brasileiras, os Estados Unidos suspenderam nesta sexta-feira (02/10) o atendimento presencial na Embaixada em Brasília e nos consulados instalados no país por “questões de segurança”. Washington não explicou o que motivou a medida, mas, ao se pronunciar sobre o caso, o Departamento de Estado citou alertas […]\nO post Às vésperas da eleição, EUA alegam ‘questões de segurança’ e suspendem atendimento em embaixada e consulados apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/as-vesperas-da-eleicao-eua-alegam-questoes-de-seguranca-e-suspendem-atendimento-em-embaixada-e-consulados/",
+          "publishedOn": "2026-10-02T11:16:41.000Z",
+          "wordCount": 3821,
+          "title": "Às vésperas da eleição, EUA alegam ‘questões de segurança’ e suspendem atendimento em embaixada e consulados",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/embaixada-estados-unidos.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267431",
+          "author": "Tatiana Carlotti",
+          "description": "Organizações sociais, partidos políticos, sindicatos e intelectuais de todo o mundo uniram-se em um manifesto global para exigir a libertação imediata do presidente venezuelano Nicolás Maduro e da primeira-dama e deputada Cilia Flores, bem como seu retorno seguro ao país e a suspensão dos processos judiciais contra eles nos Estados Unidos. “Nicolás Maduro e Cilia […]\nO post Personalidades e organizações exigem libertação de Maduro e Flores: ‘não cometeram nenhum crime’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/personalidades-e-organizacoes-exigem-libertacao-de-maduro-e-de-cilia-flores-nao-cometeram-nenhum-crime/",
+          "publishedOn": "2026-10-02T10:40:31.000Z",
+          "wordCount": 3534,
+          "title": "Personalidades e organizações exigem libertação de Maduro e Flores: ‘não cometeram nenhum crime’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/photo_2026-03-16_09-46-27-e1774518718595.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267424",
+          "author": "Tatiana Carlotti",
+          "description": "Os protestos estudantis se intensificaram na França nesta quinta-feira (01/10), englobando mais escolas de ensino médio e se espalhando para as universidades, com a escalada da violência e operações repressivas que levou à prisão de 1.949 pessoas, a maioria de menores de idade. Segundo o relatório do Ministério do Interior, 1.027 instituições de ensino registraram […]\nO post Governo francês reprime protestos estudantis e detém duas mil pessoas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/governo-frances-reprime-protestos-estudantis-e-detem-duas-mil-pessoas/",
+          "publishedOn": "2026-10-02T10:17:16.000Z",
+          "wordCount": 3796,
+          "title": "Governo francês reprime protestos estudantis e detém duas mil pessoas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/reproducao-redes-sociais.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=267417",
           "author": "Rocio Paik",
           "description": "O presidente brasileiro e candidato à reeleição, Luiz Inácio Lula da Silva (PT), fez duras críticas a Flávio Bolsonaro (PL), ao afirmar que seu principal adversário no pleito, conforme consta nas pesquisas eleitorais, não tem qualificação política para exercer eventual cargo no Executivo. Segundo o mandatário, “a única coisa que ele tem é o anti-Lula” […]\nO post Lula chama Flávio de ‘vira-lata’ e defende reforma no Judiciário após eleição apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-chama-flavio-de-vira-lata-e-defende-reforma-no-judiciario-apos-eleicao/",
           "publishedOn": "2026-10-02T02:13:34.000Z",
-          "wordCount": 4318,
+          "wordCount": 4313,
           "title": "Lula chama Flávio de ‘vira-lata’ e defende reforma no Judiciário após eleição",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55563963684_de56950d2f_k.jpg"
         },
@@ -598,7 +633,7 @@
           "description": "O instituto Datafolha divulgou nesta quinta-feira (01/10) uma nova rodada de sua pesquisa sobre as eleições presidenciais do Brasil, na qual o presidente Luiz Inácio Lula da Silva (PT) aparece liderando as intenções de voto com 42%, contra 38% do senador de extrema direita Flávio Bolsonaro (PL), considerando os votos totais. Em votos válidos, o […]\nO post Datafolha: Lula cresce e impõe vantagem sobre Flávio Bolsonaro nos dois turnos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/datafolha-lula-cresce-e-impoe-vantagem-sobre-flavio-bolsonaro-nos-dois-turnos/",
           "publishedOn": "2026-10-01T23:59:13.000Z",
-          "wordCount": 3588,
+          "wordCount": 3583,
           "title": "Datafolha: Lula cresce e impõe vantagem sobre Flávio Bolsonaro nos dois turnos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/1.jpg"
         },
@@ -608,7 +643,7 @@
           "description": "O ex-deputado federal Eduardo Bolsonaro (PL-SP) afirmou que, caso seu irmão, o senador e candidato à Presidência Flávio Bolsonaro, seja eleito, o Brasil transferirá sua embaixada em Israel para Jerusalém e passará a integrar o Escudo das Américas, aliança de cooperação em segurança criada pelo presidente dos Estados Unidos, Donald Trump, que reúne países latino-americanos […]\nO post Eduardo Bolsonaro diz que eventual governo de Flávio mudaria embaixada em Israel para Jerusalém apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/eduardo-bolsonaro-diz-que-eventual-governo-de-flavio-mudaria-embaixada-em-israel-para-jerusalem/",
           "publishedOn": "2026-10-01T22:35:32.000Z",
-          "wordCount": 3455,
+          "wordCount": 3450,
           "title": "Eduardo Bolsonaro diz que eventual governo de Flávio mudaria embaixada em Israel para Jerusalém",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/mcamg_abr_01021911209.webp"
         },
@@ -618,7 +653,7 @@
           "description": "Cerca de 30 mil pessoas se reuniram no centro de Santiago nesta quinta-feira (01/10) em protesto convocado pela Confederação de Estudantes do Chile (Confech) contra os cortes em Educação proposto pelo governo de extrema direita de José Kast para o orçamento de 2027. A manifestação foi duramente reprimida pelos Carabineros (polícia militarizada chilena), com uso […]\nO post Chilenos vão às ruas em nova jornada de protestos estudantis contra cortes de Kast apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/chilenos-vao-as-ruas-em-nova-jornada-de-protestos-estudantis-contra-cortes-de-kast/",
           "publishedOn": "2026-10-01T21:20:01.000Z",
-          "wordCount": 3379,
+          "wordCount": 3374,
           "title": "Chilenos vão às ruas em nova jornada de protestos estudantis contra cortes de Kast",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/confech-1.jpg"
         },
@@ -628,59 +663,9 @@
           "description": "A plataforma Google Earth e o serviço Google Maps atualizaram as imagens de satélite da Faixa de Gaza, permitindo a visualização em alta definição da escala da destruição causada no território palestino. As fotografias comparam registros anteriores aos ataques de outubro de 2023 com a situação física recente das cidades, evidenciando bairros inteiros reduzidos a […]\nO post Novas imagens de satélite da Faixa de Gaza evidenciam devastação causada por Israel; veja fotos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/novas-imagens-de-satelite-da-faixa-de-gaza-evidenciam-devastacao-causada-por-israel-veja-fotos/",
           "publishedOn": "2026-10-01T20:40:11.000Z",
-          "wordCount": 3321,
+          "wordCount": 3316,
           "title": "Novas imagens de satélite da Faixa de Gaza evidenciam devastação causada por Israel; veja fotos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/copia-de-nao-deletar-fotos-pb-breno-redacao-2.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267396",
-          "author": "Raissa Neves",
-          "description": "No domingo 4 de outubro, milhões de brasileiros decidirão os rumos políticos, econômicos e sociais do Brasil. Também colocarão em confronto duas concepções antagônicas de política externa e do próprio lugar do país no mundo. De um lado, Luiz Inácio Lula da Silva representa uma diplomacia soberana, comprometida com o multilateralismo, o direito internacional e […]\nO post Lula escolhe a Palestina; Flávio Bolsonaro, o sionismo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/lula-escolhe-a-palestina-flavio-bolsonaro-o-sionismo/",
-          "publishedOn": "2026-10-01T20:20:29.000Z",
-          "wordCount": 4317,
-          "title": "Lula escolhe a Palestina; Flávio Bolsonaro, o sionismo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lula9-1536x1030-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267393",
-          "author": "Raissa Neves",
-          "description": "O livro Insurreição na Garganta (Edições Sesc), da jornalista Lígia Moreli, debruça-se sobre a obra e a personalidade da cantora carioca Elza Soares, morta há quatro anos, aos presumidos 92 anos (a data de nascimento da artista sempre foi motivo de controvérsia). Moreli pensa e escreve à luz da luta por direitos civis das chamadas […]\nO post A política com P maiúsculo na obra final de Elza Soares apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-politica-com-p-maiusculo-na-obra-final-de-elza-soares/",
-          "publishedOn": "2026-10-01T19:53:17.000Z",
-          "wordCount": 5479,
-          "title": "A política com P maiúsculo na obra final de Elza Soares",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/elza-soares.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267388",
-          "author": "Victor Farinelli",
-          "description": "Em decisão emitida nesta quarta-feira (30/09), a Corte Suprema de Justiça da Argentina anulou a liminar obtida anteriormente pelo Centro de Veteranos da Guerra das Malvinas (CECIM) que obstruía a realização do megaprojeto de cessão de território nacional. A medida decretada pela máxima instância do Poder Judiciário argentino causou polêmica, devido a que algumas entidades, […]\nO post Juristas repudiam decisão que favorece aquisição de terras por estrangeiros na Argentina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/juristas-repudiam-decisao-que-favorece-aquisicao-de-terras-por-estrangeiros-na-argentina/",
-          "publishedOn": "2026-10-01T19:40:38.000Z",
-          "wordCount": 3642,
-          "title": "Juristas repudiam decisão que favorece aquisição de terras por estrangeiros na Argentina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/argentina.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267385",
-          "author": "Raissa Neves",
-          "description": "Invisíveis aos olhos da sociedade, os catadores de materiais recicláveis e pessoas em situação de rua só costumam aparecer na agenda pública como vítimas dos órgãos repressores e das políticas de ordenamento urbano ou como figurantes de campanhas demagógicas para a autopromoção de candidatos. No caso de Lula, no entanto, o encontro com os excluídos […]\nO post Natal com excluídos: quando Lula levou catadores para o Palácio do Planalto apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/natal-com-excluidos-quando-lula-levou-catadores-para-o-palacio-do-planalto/",
-          "publishedOn": "2026-10-01T19:00:37.000Z",
-          "wordCount": 4335,
-          "title": "Natal com excluídos: quando Lula levou catadores para o Palácio do Planalto",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/23122006g00007.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267381",
-          "author": "Raissa Neves",
-          "description": "A defesa do ex-presidente Jair Bolsonaro apresentou novos elementos e protocolou uma revisão criminal no Supremo Tribunal Federal (STF) na tentativa de contestar a condenação de 27 anos e três meses de prisão por liderar uma tentativa de golpe de Estado no Brasil. Além da reavaliação da sentença, os advogados solicitaram a suspensão imediata do […]\nO post Jair Bolsonaro apresenta nova revisão criminal ao STF e pede suspensão da pena apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/jair-bolsonaro-apresenta-nova-revisao-criminal-ao-stf-e-pede-suspensao-da-pena/",
-          "publishedOn": "2026-10-01T18:33:41.000Z",
-          "wordCount": 3536,
-          "title": "Jair Bolsonaro apresenta nova revisão criminal ao STF e pede suspensão da pena",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/14092025-pzzb3094.webp"
         }
       ]
     },
@@ -712,7 +697,7 @@
           "description": "O Comando Sul ianque resumiu o objetivo tático central do preparo como a necessidade de estar apto a “combater e vencer na selva”, enquanto incrementa os preparativos contrainsurgentes na América Latina.",
           "link": "https://anovademocracia.com.br/exercito-eua-lacaios-amazonia-insurgente/",
           "publishedOn": "2026-10-02T02:30:00.000Z",
-          "wordCount": 8408,
+          "wordCount": 8410,
           "title": "Exército do EUA e lacaios treinam combate na Amazônia em meio à escalada contrainsurgente no ‘Hemisfério Ocidental’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/260912-A-DX231-3232-1024x683.jpg"
         },
@@ -722,7 +707,7 @@
           "description": "Coronel influencer posa de perseguido, enquanto muros e cartazes no Brasil e no mundo denunciam o assassinato de Raimundo Nonato e defendem a luta pela terra; alarde eleitoral acaba divulgando as consignas da Revolução Agrária.",
           "link": "https://anovademocracia.com.br/braguin-contra-lcp-faccoes-revolucao/",
           "publishedOn": "2026-10-01T18:24:11.000Z",
-          "wordCount": 8480,
+          "wordCount": 8482,
           "title": "Braguin faz demagogia eleitoral contra LCP e ‘facções’, mas acaba propagandeando consignas da Revolução Agrária",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/braguin-pichacoes-lcp.jpg"
         },
@@ -732,7 +717,7 @@
           "description": "Mobilizações em Délhi e Punjab denunciam casos de estupro, respostas repressivas das administrações universitárias e medidas que restringem as próprias mulheres; organizações estudantis revolucionárias sustentam que a emancipação feminina exige transformar as relações sociais que reproduzem o patriarcado.",
           "link": "https://anovademocracia.com.br/marcha-contra-violencia-sexual-na-india/",
           "publishedOn": "2026-10-01T16:28:44.000Z",
-          "wordCount": 8693,
+          "wordCount": 8695,
           "title": "‘Esmagar o patriarcado bramânico!’: Milhares de estudantes marcham contra violência sexual e repressão na Índia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-01-india.jpg"
         },
@@ -742,7 +727,7 @@
           "description": "CPT denuncia o uso de agrotóxicos para expulsar 168 famílias; uma moradora precisou ser socorrida de ambulância. Em Rondônia, os registros de contaminação por agrotóxicos cresceram 54% entre 2023 e 2024.",
           "link": "https://anovademocracia.com.br/camponeses-veneno-lavoura-rondonia/",
           "publishedOn": "2026-10-01T15:58:00.000Z",
-          "wordCount": 7744,
+          "wordCount": 7746,
           "title": "Camponeses denunciam pulverização de veneno junto a casas e lavouras em Rondônia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-1-rondonia.jpeg"
         },
@@ -752,7 +737,7 @@
           "description": "Mobilizações em Oslo e Bergen ocorrerão sob a palavra de ordem “Apoiar a luta de resistência palestina!”. Ataques sionistas nos monopólios de imprensa levaram organizações a retirar apoio, enquanto os organizadores denunciam a remoção da página e do evento no Facebook.",
           "link": "https://anovademocracia.com.br/al-aqsa-criminalizacao-sionista-noruega/",
           "publishedOn": "2026-10-01T14:36:28.000Z",
-          "wordCount": 7737,
+          "wordCount": 7739,
           "title": "Atos em celebração do Dilúvio de Al-Aqsa enfrentam campanha sionista de criminalização na Noruega",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-1-noruega.webp"
         },
@@ -762,7 +747,7 @@
           "description": "Posseiros, camponeses assentados e proprietários que vivem há décadas na região contestam a ampliação do território Yudjá; o impasse fundiário deixado pelo velho Estado é explorado por setores latifundiários e bolsonaristas para arregimentar essas famílias contra os indígenas e jogar “massas contra massas”.",
           "link": "https://anovademocracia.com.br/bloqueio-isola-terra-indigena-velho-estado/",
           "publishedOn": "2026-10-01T14:07:26.000Z",
-          "wordCount": 8438,
+          "wordCount": 8440,
           "title": "Bloqueio de estrada isola Terra Indígena Paquiçamba em meio a impasse fundiário arrastado há décadas pelo velho Estado",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/imagem_16x9_fundo_desfocado.jpg"
         },
@@ -772,7 +757,7 @@
           "description": "Reportagem especial de AND investiga o encarceramento em massa, a “guerra às drogas”, as relações entre o tráfico e agentes do velho Estado e as raízes sociais da criminalidade, situando a Revolução Democrática, Agrária e Anti-imperialista como a solução para atacar essas raízes e construir um Brasil Novo.",
           "link": "https://anovademocracia.com.br/rep-seguranca-publica-crise-eleitoral-2026/",
           "publishedOn": "2026-10-01T05:21:03.000Z",
-          "wordCount": 7151,
+          "wordCount": 7153,
           "title": "ASSISTA: ‘Crise da segurança pública’: o que os candidatos não explicam na farsa eleitoral de 2026",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/image-105.png"
         },
@@ -782,7 +767,7 @@
           "description": "Dos 880 militares dos Estados Unidos mortos ou feridos desde o início da guerra com o Irã, 444 foram contabilizados nas 12 semanas posteriores a 7 de julho, quando o governo Trump declarou encerrada a Operação Epic Fury. Enquanto Catar mantinha a troca de mensagens entre Washington e Teerã sobre a reabertura de Ormuz, um ataque sionista matou Izz al-Din al-Beik, comandante da Brigada Norte das Brigadas Al-Qassam. Na Cisjordânia ocupada, 1.731 colonos ilegais entraram em Al-Aqsa no dia 28; horas depois, colonos incendiaram as casas de uma família palestina recém-retornada a Jalud.",
           "link": "https://anovademocracia.com.br/plantao-palestina-29-09-2026/",
           "publishedOn": "2026-09-30T19:50:14.000Z",
-          "wordCount": 8550,
+          "wordCount": 8552,
           "title": "Plantão Palestina (28–29/09): Dados do Pentágono mostram 444 baixas após fim declarado da ‘Epic Fury’; comandante das Brigadas Al-Qassam cai em combate em Gaza",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/Plantao-Palestina1.png"
         },
@@ -792,7 +777,7 @@
           "description": "Militares do EUA passaram a participar diretamente de operações em território equatoriano, enquanto ataques contra embarcações no Pacífico acumulam denúncias de desaparecimentos, tortura e destruição de barcos; relator da ONU classificou a campanha marítima ianque como uma sequência de execuções extrajudiciais.",
           "link": "https://anovademocracia.com.br/tropas-ianques-equador-desaparecimentos/",
           "publishedOn": "2026-09-30T19:23:27.000Z",
-          "wordCount": 8030,
+          "wordCount": 8032,
           "title": "Operações de tropas ianques avançam no Equador em meio a denúncias de execuções e desaparecimentos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/09/2026-09-30-equador.webp"
         },
@@ -846,7 +831,7 @@
           "description": "Fim do salário mensal para a maioria. Precarização facilitada. Novo ataque aos sindicatos. “Tesouraços” nos serviços e servidores públicos. Outra contrarreforma da Previdência. Vasculhamos o programa de horrores do candidato da ultradireita\nThe post O que Flávio propõe aos trabalhadores appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/oque-flavio-bolsonaro-propoe-aos-trabalhadores/",
           "publishedOn": "2026-10-01T22:04:32.000Z",
-          "wordCount": 7913,
+          "wordCount": 7910,
           "title": "O que Flávio propõe aos trabalhadores",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-1.jpeg"
         },
@@ -856,7 +841,7 @@
           "description": "Se a Idade Média atribuía ao pobre um valor sagrado na “economia da salvação”, a modernidade o transforma em um sujeito a ser perseguido, disciplinado e reprimido. Ele se revolta. Por isso surgem, mais tarde, as políticas de contenção e assistência\nThe post História da pobreza, paradoxo do “progresso” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/desigualdades-mundo/historia-da-pobreza-paradoxo-do-progresso/",
           "publishedOn": "2026-10-01T21:17:23.000Z",
-          "wordCount": 7941,
+          "wordCount": 7944,
           "title": "História da pobreza, paradoxo do “progresso”",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5041791379712970118_y-1.jpg"
         },
@@ -866,7 +851,7 @@
           "description": "Há algo a mais do que cálculos políticos na decisão dos dois candidatos. Esfera pública se fragmenta. Com a dinâmica das redes sociais, o espaço comum para o debate político e o contraditório perde relevância – o que abala a democracia. Há várias arquibancadas, mas a urna é a mesma\nThe post Flávio na Globo, Lula no Flow: o que isso revela do Brasil? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/flavio-na-globo-lula-no-flow-o-que-isso-revela-do-brasil/",
           "publishedOn": "2026-10-01T21:07:30.000Z",
-          "wordCount": 7146,
+          "wordCount": 7135,
           "title": "Flávio na Globo, Lula no Flow: o que isso revela do Brasil?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/fotomontagem-lula-flavio-costas-jota-ca-aulucci.jpg"
         },
@@ -876,7 +861,7 @@
           "description": "Cometer erros e experimentar caminhos que talvez não levem a lugar algum é crucial para o pensamento. Terceirizar essas etapas custa caro à cognição. Ao invés “aliviar” o esforço de pensar, ferramenta poderia ser um interlocutor capaz de impulsionar nosso raciocínio\nThe post É preciso falar do custo cognitivo da IA appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/e-preciso-falar-do-custo-cognitivo-da-ia/",
           "publishedOn": "2026-10-01T20:56:26.000Z",
-          "wordCount": 4556,
+          "wordCount": 4559,
           "title": "É preciso falar do custo cognitivo da IA",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5041791379712970113_y-1.jpg"
         },
@@ -886,7 +871,7 @@
           "description": "Há um que modelo privilegia a autoridade técnica; outro, dialoga com a sociedade, mas preserva assimetrias. E se apostarmos na construção cidadã do espaço, em que comunidades buscam a emancipação a partir do direito à cidade? Reflexões a partir de Milton Santos e Lefebvre\nThe post De qual urbanismo o Brasil precisa? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/de-qual-urbanismo-o-brasil-precisa/",
           "publishedOn": "2026-10-01T20:06:35.000Z",
-          "wordCount": 7051,
+          "wordCount": 7037,
           "title": "De qual urbanismo o Brasil precisa?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5041791379712970108_w1.jpg"
         },
@@ -896,7 +881,7 @@
           "description": "O que é a corrente evangélica que quer controlar o Estado e vê heresia até em Nossa Senhora Aparecida. Defesa da família é pretexto. Exalta-se o individualismo para atacar Cultura e Educação. Ao dizer que “Brasil é do Senhor Jesus Cristo”, Flávio acena para fundamentalistas \nThe post Um retrato da Teologia do Domínio no Brasil appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/um-retrato-da-teologia-do-dominio-no-brasil/",
           "publishedOn": "2026-10-01T19:20:22.000Z",
-          "wordCount": 5182,
+          "wordCount": 5185,
           "title": "Um retrato da Teologia do Domínio no Brasil",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5041791379712970092_x.jpg"
         },
@@ -906,7 +891,7 @@
           "description": "As distâncias se encurtaram, mas as fronteiras hoje são mais espessas e brutais. A vida cotidiana depende dos braços indocumentados; já as políticas xenófobas querem expulsá-los. Nova York, cidade com mais imigrantes no mundo, ilustra este paradoxo\nThe post Crônica: A era das migrações appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/cronica-a-era-das-migracoes/",
           "publishedOn": "2026-10-01T17:52:26.000Z",
-          "wordCount": 4687,
+          "wordCount": 4676,
           "title": "Crônica: A era das migrações",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5041791379712970084_w.jpg"
         },
@@ -953,7 +938,7 @@
           "description": "Esse fenômeno é reflexo do profundo desinteresse popular em decidir quem será o próximo gerente das engrenagens do aparato estatal. Por O Jardineiro",
           "link": "https://passapalavra.info/2026/10/159974/",
           "publishedOn": "2026-10-01T11:42:24.000Z",
-          "wordCount": 6306,
+          "wordCount": 7783,
           "title": "Voto Nulo e a Luta pela Autogestão Social",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/12e11690-59a2-11ef-b34d-09e23703ca42.webp"
         },
@@ -976,16 +961,6 @@
           "wordCount": 5214,
           "title": "Os ossos do poeta",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_3.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159927",
-          "author": "Passa Palavra",
-          "description": "Os seis homens do partido jogavam conversa fora, eram dois dirigentes e quatro da base; estavam na casa de um dos dirigentes. Um da base fez uma brincadeira que envolvia o nome de Trotsky e o título do livro “A moral deles e a nossa”. Cinco deles riram. Um dirigente não só não riu como repreendeu, na frente dos outros, o militante da base que fez a troça dizendo que com o nome de Trotsky não se brinca. Passa Palavra",
-          "link": "https://passapalavra.info/2026/09/159927/",
-          "publishedOn": "2026-09-28T00:17:11.000Z",
-          "wordCount": 3871,
-          "title": "Santo Trotsky",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         }
       ]
     },
@@ -995,14 +970,34 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67050",
+          "author": "Boitempo",
+          "description": "No texto de hoje, Walter Lippold elabora uma reflexão sobre a trend \"anos 80\" que dominou a internet há algumas semanas. É a partir dela que o historiador tece uma crítica contundente articulando inteligência artificial, big techs, capitalismo, vigilância, dados, etc. \"Aqui a IA se transforma em um Moloch devorador de semblantes e de fotos antigas, assim como o Projeto Panama da Anthropic corta as lombadas de livros comprados a quilo, em sebos e alfarrabios. Para logo escanear todo seu conteúdo, indo a obra destruída para lixo, logo em seguida.\", diz Lippold.",
+          "link": "https://blogdaboitempo.com.br/2026/10/02/a-austeridade-fiscal-e-anti-desenvolvimento-e-esta-na-contramao-do-brasil-que-sonhamos/",
+          "publishedOn": "2026-10-02T13:41:59.000Z",
+          "wordCount": 14561,
+          "title": "A austeridade fiscal é anti desenvolvimento e está na contramão do Brasil que sonhamos.",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/pib_04.webp"
+        },
+        {
+          "id": "http://blogdaboitempo.com.br/?p=67156",
+          "author": "Boitempo",
+          "description": "Às vésperas das eleições de 2026, candidatos da direita radical disputam o posto de herdeiro do \"modelo Bukele\", com promessas de megaprisões, encarceramento em massa e flexibilização de garantias. Paula Nunes e Beatriz Prates mostram que a fórmula salvadorenha depende do desmonte das instituições democráticas, esbarra em limites orçamentários e logísticos e ignora as diferenças entre as gangues de El Salvador e facções como PCC e CV. Resgatando a história do Carandiru, as autoras lembram que São Paulo já testou as megaprisões, com resultado trágico, e defendem uma segurança pública baseada em inteligência, cooperação federativa e respeito à Constituição.",
+          "link": "https://blogdaboitempo.com.br/2026/10/02/o-efeito-bukele-populismo-penal-e-ilusao-autoritaria-nas-eleicoes-de-2026/",
+          "publishedOn": "2026-10-02T13:39:15.000Z",
+          "wordCount": 14926,
+          "title": "O EFEITO BUKELE: Populismo penal e ilusão autoritária nas eleições de 2026",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/abr051013mcsp_5117.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67188",
           "author": "Boitempo",
-          "description": "O que um adágio latino, a extrema direita, doenças tropicais, os títulos do Corinthians, duas canções de Chico Buarque e a cena teatral carioca podem ter em comum? Por uma série de associações, Mouzar Benedito revela afinidades eletivas (ou não) entre coisas tão distintas.",
+          "description": "Nas redes da Boitempo, pedimos que nossos leitores e seguidores indicassem as candidaturas de esquerda que estão apoiando em seus estados. As respostas vieram de todo o país, e o que você lê abaixo é o resultado desse levantamento coletivo.",
           "link": "https://blogdaboitempo.com.br/2026/10/01/em-quem-a-esquerda-vai-votar-confira-as-indicacoes-dos-nossos-leitores/",
           "publishedOn": "2026-10-01T21:41:43.000Z",
-          "wordCount": 13694,
+          "wordCount": 13543,
           "title": "Em quem a esquerda vai votar? Confira as indicações dos nossos leitores!",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-9.png?fit=1200%2C676&ssl=1"
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/banner-email-eleicoes-boitempo-indicacoes2.jpg"
         },
         {
           "id": "http://blogdaboitempo.com.br/?p=67097",
@@ -1010,7 +1005,7 @@
           "description": "Não há razão para subestimar o que está em jogo. Neste texto-convocação, Ederson Duda faz uma análise das eleições 2026. \"Lenin (2025) insiste que reconhecer os limites históricos do Parlamento não autoriza os revolucionários a abandonar sua disputa enquanto ela for necessária à luta política da classe trabalhadora. A questão tática é compreender quando e para que ocupar esse terreno. No Brasil de hoje, depois dos retrocessos impostos pelo bolsonarismo e diante da possibilidade de seu retorno ao governo, a luta eleitoral é decisiva para os rumos do país. Reeleger Lula e ampliar a presença parlamentar do campo popular são, portanto, tarefas dos socialistas e de todos os que se comprometem com a defesa da soberania nacional.\"",
           "link": "https://blogdaboitempo.com.br/2026/09/30/contra-a-indiferenca-tomar-partido/",
           "publishedOn": "2026-09-30T15:04:25.000Z",
-          "wordCount": 12121,
+          "wordCount": 12277,
           "title": "Contra a indiferença, tomar partido",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/sem_titulo-16.webp"
         },
@@ -1020,7 +1015,7 @@
           "description": "Fernando Novais completaria hoje 93 anos. Neste texto-homenagem, o Prof. Pedro Puntoni fala sobre a trajetória de Novais, além de tecer uma análise potente sobre um dos últimos textos que escreveu, \"História, historiografia e materialismo histórico\", publicado recentemente na Margem Esquerda (47).",
           "link": "https://blogdaboitempo.com.br/2026/09/30/fernando-novais-historiador-marxista/",
           "publishedOn": "2026-09-30T15:00:00.000Z",
-          "wordCount": 12429,
+          "wordCount": 12585,
           "title": "Fernando Novais: historiador marxista",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/09/fernando-novais_2021_06_pb_recorte-edited.jpg?fit=1200%2C881&ssl=1"
         },
@@ -1030,7 +1025,7 @@
           "description": "\"Os povos que vivem na Amazônia consideram os rios como a própria vida\". Conectando o debate sobre soberania, gestão socioambiental e justiça ambiental, Guilherme Pimentel e Soleane Manchineri tecem reflexões urgentes sobre a Amazônia hoje.",
           "link": "https://blogdaboitempo.com.br/2026/09/29/os-rios-da-amazonia-e-as-veias-abertas-da-america-latina/",
           "publishedOn": "2026-09-29T20:00:00.000Z",
-          "wordCount": 11997,
+          "wordCount": 12161,
           "title": "Os rios da Amazônia e as veias abertas da América Latina",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/dji_20260514133627_0225_d_55280831068_o.webp"
         },
