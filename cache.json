@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "tyEvo0",
+          "author": null,
+          "description": "O acordo que resultou no PL 777, aprovado na ALESP, autoriza, sem garantir, a realocação dos trabalhadores em órgãos estaduais. O texto, vendido como vitória pela oposição, legitima a concessão e oferece incerteza aos trabalhadores",
+          "link": "https://jornalofuturo.com.br/artigo/tyEvo0-pl-de-tarcisio-legitima-a-concessao-e-ferroviarios-de-sp-ficam-sem-garantias-de-realocacao",
+          "publishedOn": "2026-10-06T03:00:00.000Z",
+          "wordCount": 2529,
+          "title": "PL de Tarcísio legitima a concessão e ferroviários de SP ficam sem garantias de realocação",
+          "imageUrl": "https://media.jornalofuturo.com.br/25_ferroviarios-1280x1707.jpg"
+        },
+        {
           "id": "R8Q16G",
           "author": null,
           "description": "Essa crise não nasceu agora, muito menos pode ser resumida ao STF. O que está estampado nos jornais burgueses não passa de mais um capítulo do pleno funcionamento do Estado burguês brasileiro desde a redemocratização",
@@ -33,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6ac5701559cc9a03580758bd",
+          "author": "CSP Conlutas",
+          "description": "A PEC 221/19 (Proposta de Emenda à Constituição) que acaba com a escala 6x1 e reduz a jornada de trabalho no país entra na pauta do Senado nesta terça-feira (6). A proposta começa a ser discutida no plenário",
+          "link": "https://opiniaosocialista.com.br/aprovacao-do-fim-da-escala-6x1-ja-a-vida-dos-trabalhadores-nao-pode-ser-moeda-de-disputa-eleitoral/",
+          "publishedOn": "2026-10-06T22:09:40.000Z",
+          "wordCount": 1216,
+          "title": "Aprovação do fim da escala 6x1, já! A vida dos trabalhadores não pode ser moeda de disputa eleitoral",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/jornada-trabalho.webp"
+        },
+        {
           "id": "6ac3c6f159cc9a035807584d",
           "author": "Redação",
           "description": "O PSTU continuará nas lutas, disputando a classe trabalhadora para um outro projeto de país e sociedade",
@@ -49,6 +69,36 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-escravista-reafirma-que-e-contra-o-fim-da-escala-6x1",
+          "author": "Redação",
+          "description": "Flávio Bolsonaro defendeu a farsa da \"liberdade ao trabalhador de escolher a sua própria carga horária\" após se reunir com aliados na sede de sua campanha hoje.\nMatérias\n\n/ Classe trabalhadora, Flavio Bolsonaro, escala 6x1",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-escravista-reafirma-que-e-contra-o-fim-da-escala-6x1",
+          "publishedOn": "2026-10-06T20:21:12.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro escravista reafirma que é contra o fim da escala 6x1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Um-novo-sentido-para-a-lucidez",
+          "author": "Iuri Tonelo",
+          "description": "Reflexões ao redor do resultado das eleições brasileiras e como enfrentar a extrema-direita.\nMatérias\n\n/ Política, escala 6x1, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Um-novo-sentido-para-a-lucidez",
+          "publishedOn": "2026-10-06T19:39:18.000Z",
+          "wordCount": null,
+          "title": "Um novo sentido para a lucidez",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Quem-lhes-deu-esse-poder-As-eleicoes-tambem-foram-disputadas-no-Vale-do-Silicio",
+          "author": "El sovietista",
+          "description": "Meta, X, TikTok, Google e, agora, também os sistemas de IA concentram um poder crescente sobre a circulação de informações políticas. As eleições brasileiras de 2026 mostraram mais uma vez até que ponto algoritmos, publicidade segmentada e plataformas privadas podem interferir no debate público. Pode haver plena soberania política se a infraestrutura por meio da qual uma sociedade se informa, debate e forma opinião é controlada a partir do Vale do Silício?\n06-10-2026\n\n/ Política, Donald Trump, Flavio Bolsonaro, TikTok, Elon Musk, Big techs, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Quem-lhes-deu-esse-poder-As-eleicoes-tambem-foram-disputadas-no-Vale-do-Silicio",
+          "publishedOn": "2026-10-06T18:58:03.000Z",
+          "wordCount": null,
+          "title": "Quem lhes deu esse poder? As eleições também foram disputadas no Vale do Silício",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Estudantes-convocam-atos-pelo-pais-para-derrotar-Flavio-Bolsonaro-e-a-extrema-direita",
           "author": "Redação",
@@ -172,7 +222,7 @@
         {
           "id": "https://www.esquerdadiario.com.br/1o-turno-mostra-que-o-combate-a-Flavio-Trump-e-a-extrema-direita-exige-toda-forca-da-nossa-luta",
           "author": "Redação",
-          "description": "Em meio à crescente ingerência imperialista na América Latina e nas eleições brasileiras, o resultado que sai das urnas neste primeiro turno expressa, para além do captado pelas pesquisas de intenção de voto, o fortalecimento da extrema direita bolsonarista no regime político, marcado também pelo escândalo do Banco Master, e a necessidade de enfrentar frontalmente a extrema direita e os interesses de Donald Trump no Brasil. Flávio Bolsonaro, capacho de Trump, passou à frente nas presidenciais, com 47,09% dos votos (2,4 milhões de votos à frente de Lula), ganhando em 15 estados. Seu partido, o PL, quadruplicou sua bancada reacionária no Senado e avançou no governo de estados e regiões do país. É preciso enfrentar essa extrema direita asquerosa e seus vínculos com o imperialismo.\n03-10-2026\n\n/ Donald Trump, Flavio Bolsonaro, Bolsonaro, Eleições 2026",
+          "description": "Em meio à crescente ingerência imperialista na América Latina e nas eleições brasileiras, o resultado que sai das urnas neste primeiro turno expressa, para além do captado pelas pesquisas de intenção de voto, o fortalecimento da extrema direita bolsonarista no regime político, marcado também pelo escândalo do Banco Master, e a necessidade de enfrentar frontalmente a extrema direita e os interesses de Donald Trump no Brasil. Flávio Bolsonaro, capacho de Trump, passou à frente nas presidenciais, com 47,09% dos votos (2,4 milhões de votos à frente de Lula), ganhando em 15 estados. Seu partido, o PL, quadruplicou sua bancada reacionária no Senado e avançou no governo de estados e regiões do país. É preciso enfrentar essa extrema direita asquerosa e seus vínculos com o imperialismo.\n03-10-2026\n\n/ Política, Donald Trump, Flavio Bolsonaro, Bolsonaro, Eleições 2026",
           "link": "https://www.esquerdadiario.com.br/1o-turno-mostra-que-o-combate-a-Flavio-Trump-e-a-extrema-direita-exige-toda-forca-da-nossa-luta",
           "publishedOn": "2026-10-05T01:28:32.000Z",
           "wordCount": null,
@@ -287,6 +337,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445395",
+          "author": "Isabella Mota",
+          "description": "Do TikTok ao Congresso, lideranças como Eduarda Campopiano e Julia Zanatta usam a política para transformar o combate ao feminicídio em ‘ideologia’ e desmontar leis históricas.\nO post Como a extrema direita transformou o antifeminismo em máquina de votos no Congresso apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/10/06/extrema-direita-antifeminismo-maquina-de-votos-congresso/",
+          "publishedOn": "2026-10-06T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Como a extrema direita transformou o antifeminismo em máquina de votos no Congresso",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/10/Headerwide-10.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-10.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445366",
           "author": "Bianca Pyl",
           "description": "A eleição consolida a extrema direita em um partido tradicional e mostra que a única chance de Lula evitar a derrota é arriscar uma virada à esquerda\nO post Bolsonarismo engoliu o centro e a saída é à esquerda apareceu primeiro em Intercept Brasil.",
@@ -390,21 +455,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-7.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445233",
-          "author": "Isabella Mota",
-          "description": "Em entrevista ao Intercept, o cientista político analisa o impasse na frente ampla de Lula, a força do bolsonarismo no meio evangélico e os riscos de um projeto autocrático no Brasil. \nO post Eleições 2026: ‘Um novo governo de extrema direita vai acelerar o colapso da democracia’, alerta André Singer apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/02/governo-extrema-direita-acelera-colapso-democracia/",
-          "publishedOn": "2026-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Eleições 2026: ‘Um novo governo de extrema direita vai acelerar o colapso da democracia’, alerta André Singer",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/09/Headerwide-9.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/09/Headerwide-9.jpg"
         }
       ]
     },
@@ -478,12 +528,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=267939",
+          "author": "Raissa Neves",
+          "description": "O ex-governador de Goiás e candidato do PSD à Presidência da República, Ronaldo Caiado, encontrou-se nesta terça-feira (06/10) com Flávio Bolsonaro e, após uma reunião, oficializou apoio à candidatura do senador ao Palácio do Planalto. Após o encontro, Flávio Bolsonaro e Ronaldo Caiado discursaram para militantes e para a imprensa. Em sua fala, Caiado afirmou […]\nO post Após apoio de Caiado, Flávio Bolsonaro promete ‘mudar a Constituição’ se eleito apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/apos-apoio-de-caiado-flavio-bolsonaro-promete-mudar-a-constituicao-se-eleito/",
+          "publishedOn": "2026-10-06T22:15:45.000Z",
+          "wordCount": 3148,
+          "title": "Após apoio de Caiado, Flávio Bolsonaro promete ‘mudar a Constituição’ se eleito",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/32150787-high-scaled-e1786994020971-768x433-1.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267935",
+          "author": "Raissa Neves",
+          "description": "Há 237 anos, entre os dias 5 e 6 de outubro de 1789, ocorria a Marcha das Mulheres sobre Versalhes, um dos eventos mais significativos da Revolução Francesa. Revoltadas com a escassez do pão e com as dificuldades econômicas que afligiam as camadas populares, feirantes e trabalhadoras de Paris marcharam até o Palácio de Versalhes […]\nO post Marcha das Mulheres: trabalhadoras parisienses desafiam a monarquia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/marcha-das-mulheres-trabalhadoras-parisienses-desafiam-a-monarquia/",
+          "publishedOn": "2026-10-06T21:43:22.000Z",
+          "wordCount": 4451,
+          "title": "Marcha das Mulheres: trabalhadoras parisienses desafiam a monarquia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/marche_des_femmes_sur_versailles_5_et_6_oct_1789.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267928",
+          "author": "Raissa Neves",
+          "description": "Na Alemanha, um mês após as eleições na Saxônia-Anhalt, pequeno estado do leste do país onde a sigla de extrema direita AfD ficou em primeiro lugar nas urnas, os partidos continuam negociando possíveis coalizões de governo. Mas, nesta terça-feira (06/10), o Parlamento regional elegeu como presidente Tobias Rausch, membro da AfD, cargo que reúne amplos […]\nO post Alemanha: AfD assume presidência do Parlamento regional da Saxônia-Anhalt apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-afd-assume-presidencia-do-parlamento-regional-da-saxonia-anhalt/",
+          "publishedOn": "2026-10-06T20:20:11.000Z",
+          "wordCount": 3484,
+          "title": "Alemanha: AfD assume presidência do Parlamento regional da Saxônia-Anhalt",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-06-170610.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267922",
+          "author": "Raissa Neves",
+          "description": "Redes sociais continuaram a veicular anúncios político-eleitorais e a recomendar conteúdos de candidatos neste domingo (04/10), dia do primeiro turno das eleições de 2026. Levantamento do Observatório das Big Techs, do NetLab da Universidade Federal do Rio de Janeiro (UFRJ), identificou anúncios irregulares na Meta, no Kwai e no Google, além de recomendações irregulares de […]\nO post Estudo afirma que big techs violaram leis eleitorais no dia da votação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/estudo-afirma-que-big-techs-violaram-leis-eleitorais-no-dia-da-votacao/",
+          "publishedOn": "2026-10-06T19:40:23.000Z",
+          "wordCount": 4469,
+          "title": "Estudo afirma que big techs violaram leis eleitorais no dia da votação",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/aplicativo_0410211424.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267919",
+          "author": "Victor Farinelli",
+          "description": "O Ministério da Saúde do Quênia anunciou nesta segunda-feira (05/10) a primeira morte no país de uma pessoa infectada pelo vírus ebola, mais especificamente pela variante bundibugyo, responsável pelo mais recente surto da doença na África Central. Segundo o reporte das autoridades quenianas, a vítima teria sido um homem que regressou recentemente ao país após […]\nO post Quênia confirma primeira morte por variante do vírus ebola apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/quenia-confirma-primeira-morte-por-variante-do-virus-ebola/",
+          "publishedOn": "2026-10-06T19:00:17.000Z",
+          "wordCount": 3416,
+          "title": "Quênia confirma primeira morte por variante do vírus ebola",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/adule.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=267918",
+          "author": "Tabitha Ramalho",
+          "description": "Uma pesquisa eleitoral realizada pelo Canal 12 mostrou o bloco de Eisenkot com 54 cadeiras, o mesmo número da pesquisa anterior. O bloco de Netanyahu obtém 49 cadeiras, os partidos árabes somam 13, e o partido de Yoaz Hendel e Yaron Zelekha fica com quatro. Segundo o relatório, os opositores de Netanyahu somam uma maioria […]\nO post Pesquisa em Israel: bloco de Eisenkot mantém 54 vagas e oposição a Netanyahu soma 67 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/pesquisa-em-israel-bloco-de-eisenkot-mantem-54-cadeiras-e-oposicao-a-netanyahu-soma-67/",
+          "publishedOn": "2026-10-06T18:10:08.000Z",
+          "wordCount": 3682,
+          "title": "Pesquisa em Israel: bloco de Eisenkot mantém 54 vagas e oposição a Netanyahu soma 67",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lobbyactivityplenum.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=267914",
           "author": "Raissa Neves",
           "description": "É quase um senso comum a afirmação de que o processo de digitalização plataformizada contemporânea integra o conjunto de elementos centrais para a compreensão das mudanças políticas, culturais e econômicas da sociedade. Em duas décadas, nos tornamos completamente dependentes de dispositivos digitais que tornaram-se suporte para as mais diversas esferas da vida. Existem aplicativos para […]\nO post Luciano Huck e o ‘Tinder Eleitoral’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/267914/",
           "publishedOn": "2026-10-06T17:15:49.000Z",
-          "wordCount": 5896,
+          "wordCount": 5898,
           "title": "Luciano Huck e o ‘Tinder Eleitoral’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/web_summit_rio_2023_-_1116_52862351387.jpg"
         },
@@ -493,7 +603,7 @@
           "description": "Após sete meses de governo, o presidente do Chile, José Antonio Kast, amarga o maior índice de desaprovação entre os chilenos: 63%. Pesquisa Plaza Pública, realizada pelo instituto Cadem, aponta que apenas 32% aprovam a gestão do presidente. O resultado representa uma queda de quatro pontos percentuais na aprovação de Kast em relação ao levantamento […]\nO post Kast amarga desaprovação de 63% após sete meses de governo no Chile apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/kast-amarga-desaprovacao-de-63-apos-sete-meses-de-governo-no-chile/",
           "publishedOn": "2026-10-06T17:10:42.000Z",
-          "wordCount": 3367,
+          "wordCount": 3369,
           "title": "Kast amarga desaprovação de 63% após sete meses de governo no Chile",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-27-103356.png"
         },
@@ -503,7 +613,7 @@
           "description": "O ex-agente da CIA John Kiriakou afirmou que a agência estaria “potencialmente intervindo” nas eleições brasileiras em favor de Flávio Bolsonaro (PL). A princípio, Kiriakou escreveu em sua conta no X que conversou com o ex-presidente Jair Bolsonaro há três anos, quando este era candidato. “Receio ter subestimado o poder do populismo nesta disputa atual. […]\nO post CIA potencialmente interveio nas eleições brasileiras a favor de Flávio, diz ex-agente apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/cia-potencialmente-interveio-nas-eleicoes-brasileiras-a-favor-de-flavio-diz-ex-agente/",
           "publishedOn": "2026-10-06T16:30:41.000Z",
-          "wordCount": 3832,
+          "wordCount": 3834,
           "title": "CIA potencialmente interveio nas eleições brasileiras a favor de Flávio, diz ex-agente",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/54888958480_ce76ba7113_c.jpg"
         },
@@ -513,86 +623,9 @@
           "description": "Uma reportagem publicada nesta terça-feira (06/10) pelo jornal britânico The Guardian faz um balanço dos resultados do primeiro turno das eleições brasileiras, enfatizando o bom resultado de todos os membros da família Bolsonaro nos diferentes cargos em que concorreram. Segundo o periódico, o cenário surgido das urnas no Brasil neste domingo (04/10) pode consolidar o […]\nO post ‘Casa Bolsonaro’: Flávio pode consolidar dinastia política no Brasil, diz Guardian apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/casa-bolsonaro-flavio-pode-consolidar-dinastia-politica-no-brasil-diz-guardian/",
           "publishedOn": "2026-10-06T15:50:41.000Z",
-          "wordCount": 3687,
+          "wordCount": 3689,
           "title": "‘Casa Bolsonaro’: Flávio pode consolidar dinastia política no Brasil, diz Guardian",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/bolsonaros.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267894",
-          "author": "Tabitha Ramalho",
-          "description": "O Senado inicia nesta terça-feira (06/10) a análise, em plenário, da Proposta de Emenda à Constituição (PEC) 221/2019, que acaba com a escala 6×1 e reduz a jornada máxima de trabalho de 44 para 40 horas semanais. A primeira sessão de discussão está prevista para as 14h. A PEC foi aprovada em setembro pela Comissão […]\nO post Senado inicia discussão da PEC que prevê fim da escala 6×1 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/senado-inicia-discussao-da-pec-que-preve-fim-da-escala-6x1/",
-          "publishedOn": "2026-10-06T15:10:59.000Z",
-          "wordCount": 3691,
-          "title": "Senado inicia discussão da PEC que prevê fim da escala 6×1",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/1trabalho-escala-6x1tania-regoagencia-brasil-812cfb33.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267898",
-          "author": "Tatiana Carlotti",
-          "description": "O ex-presidente Jair Bolsonaro (PL) poderá ter sua situação novamente discutida pelo Supremo Tribunal Federal (STF) e até mesmo ser solto. O ministro Nunes Marques avalia colocar em plenário, após o segundo turno de 25 de outubro, tanto o pedido para que Bolsonaro deixe a prisão, quanto a tentativa da defesa de reverter sua condenação […]\nO post Nunes Marques pretende analisar pedido de soltura de Bolsonaro após segundo turno apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/nunes-marques-pretende-analisar-pedido-de-soltura-de-bolsonaro-apos-segundo-turno/",
-          "publishedOn": "2026-10-06T14:29:03.000Z",
-          "wordCount": 3384,
-          "title": "Nunes Marques pretende analisar pedido de soltura de Bolsonaro após segundo turno",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/14092025-pzzb3313.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267893",
-          "author": "Tatiana Carlotti",
-          "description": "A presidente do México, Claudia Sheinbaum, afirmou que setores da direita internacional buscam interferir em processos políticos de outros países. A declaração foi dada durante uma coletiva, nesta segunda-feira (05/10), após a mandatária mexicana ser questionada sobre as denúncias de uma possível interferência dos Estados Unidos no México e nas eleições brasileiras em favor do […]\nO post ‘Direita mundial quer intervir’, diz Sheinbaum ao comentar eleições no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/direita-mundial-quer-intervir-diz-sheinbaum-ao-comentar-eleicoes-no-brasil/",
-          "publishedOn": "2026-10-06T14:00:37.000Z",
-          "wordCount": 3499,
-          "title": "‘Direita mundial quer intervir’, diz Sheinbaum ao comentar eleições no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/04/claudia_sheinbaum_en_su_conferencia_matutina.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267888",
-          "author": "Tabitha Ramalho",
-          "description": "A Central Sindical dos Trabalhadores da Argentina (CTA) convocou diversas organizações sindicais, políticas, sociais, ambientais e de direitos humanos para uma marcha na terça-feira (06/10) em direção ao Palácio da Justiça, para expressar sua forte rejeição à recente decisão da Suprema Corte de Justiça. A decisão do Supremo Tribunal confirmou a validade do artigo 154.º […]\nO post ‘Terra argentina não é mercadoria’: sindicatos marcham contra decreto de Milei apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/terra-argentina-nao-e-mercadoria-sindicatos-marcham-contra-decreto-de-milei/",
-          "publishedOn": "2026-10-06T13:19:18.000Z",
-          "wordCount": 3553,
-          "title": "‘Terra argentina não é mercadoria’: sindicatos marcham contra decreto de Milei",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/08/milei-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267885",
-          "author": "Tatiana Carlotti",
-          "description": "Cerca de 90 mil pessoas participam nesta terça-feira (06/10) dos protestos dos estudantes secundaristas e universitários em diferentes regiões da França. Este é o terceiro dia de manifestações nacionais após as duas grandes mobilizações em 29 de setembro e 1º de outubro. O Ministério do Interior da França contabilizou 86 mil participantes apenas nas manifestações […]\nO post Milhares de estudantes tomam as ruas na França em defesa da educação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/milhares-de-estudantes-tomam-as-ruas-na-franca-em-defesa-da-educacao/",
-          "publishedOn": "2026-10-06T12:35:04.000Z",
-          "wordCount": 3555,
-          "title": "Milhares de estudantes tomam as ruas na França em defesa da educação",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/838909511_18008715749973300_881096029962389779_n-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267870",
-          "author": "Tatiana Carlotti",
-          "description": "Arábia Saudita, Turquia e Paquistão anunciaram nesta segunda-feira (05/10) o lançamento de uma nova aliança de defesa mútua, o Pacto de Meca. O acordo prevê o rápido envio de tropas para território saudita para implementar uma possível tentativa de cercar politicamente os Houthis. O anúncio foi oficializado após uma cúpula de emergência realizada na capital […]\nO post Arábia Saudita, Turquia e Paquistão anunciam aliança de defesa mútua apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/arabia-saudita-turquia-e-paquistao-anunciam-alianca-de-defesa-mutua/",
-          "publishedOn": "2026-10-06T10:32:16.000Z",
-          "wordCount": 3685,
-          "title": "Arábia Saudita, Turquia e Paquistão anunciam aliança de defesa mútua",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/arabia-saudita.png"
-        }
-      ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": [
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32650",
-          "author": "De Olho nos Ruralistas",
-          "description": "Número do partido, 22, aparece no final dos valores encaminhados ao evento evangélico em pelo menos 13 repasses para prefeituras do Rio Grande do Norte; candidato à reeleição, parlamentar bolsonarista foi condenado por danos morais coletivos ao incentivar atos antidemocráticos após as eleições de 2022 Por Carolina Bataier As emendas parlamentares do deputado federal General […]\nO post General Girão, do PL, inseriu sigla do partido no valor de emendas à Marcha para Jesus apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/10/02/marcha-jesus-girao/",
-          "publishedOn": "2026-10-02T21:17:19.000Z",
-          "wordCount": 2530,
-          "title": "General Girão, do PL, inseriu sigla do partido no valor de emendas à Marcha para Jesus",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/10/general-girao-marcha-natal.jpg"
         }
       ]
     },
@@ -602,12 +635,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234236",
+          "author": "Redação de AND",
+          "description": "O programa A Propósito #374 acompanhou a apuração do primeiro turno e debateu o crescente afastamento das massas da velha democracia, a ingerência ianque e o avanço bolsonarista. Com a totalização concluída, cálculo ampliado de AND chegou a 51,88 milhões de pessoas – quase a votação individual de cada candidato que passou ao segundo turno.",
+          "link": "https://anovademocracia.com.br/boicote-farsa-eleitoral-movimento-popular/",
+          "publishedOn": "2026-10-06T21:19:35.000Z",
+          "wordCount": 10349,
+          "title": "‘Sinal verde’ para a ofensiva na propaganda da Revolução: diretor-geral de AND analisa boicote de 51,9 milhões à farsa eleitoral",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/eleicao-nao-sao-paulo-2024-1024x683.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234256",
+          "author": "Jaílson de Souza",
+          "description": "O que aconteceu no dia 4 de outubro de 2026 não foram eleições regulares. Foram eleições sob forte interferência norte-americana, do imperialismo ianque. O governo do EUA através do Departamento de Estado, segundo o jornal britânico The Guardian, reservou 1 milhão de dólares para financiar grupos que atuassem em período eleitoral em favor das agitações bolsonaristas contra a “censura” que alegam ser vítimas. O governo do EUA impôs sanções econômicas às exportações do Brasil, de 40%, como punição pela “perseguição política a Jair Bolsonaro”. E o próprio governo ianque indicou naquela ocasião que, com Jair Bolsonaro condenado, as eleições poderiam",
+          "link": "https://anovademocracia.com.br/eleicoes-falencia-tatica-do-oportunismo/",
+          "publishedOn": "2026-10-06T20:17:07.000Z",
+          "wordCount": 8917,
+          "title": "Os resultados do primeiro turno das eleições demonstram a falência da tática do oportunismo (mais uma vez)",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/oportunismo-antessala-fascismo.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234243",
           "author": "Redação de AND",
           "description": "Organização revolucionária aponta mobilização de Sucre como exemplo para o movimento estudantil e conclama Federações Universitárias Locais de todo o país a lutar; retirada do subsídio elevou em cerca de 83% o preço do diesel e provocou aumentos nas tarifas do transporte.",
           "link": "https://anovademocracia.com.br/juventude-luta-auemnto-passagens-bolivia/",
           "publishedOn": "2026-10-06T14:22:14.000Z",
-          "wordCount": 7971,
+          "wordCount": 7972,
           "title": "Guardas Vermelhos convocam juventude universitária à luta contra ‘dieselazo’ e alta das passagens na Bolívia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-06-bolivia.jpg"
         },
@@ -617,7 +670,7 @@
           "description": "Frente Estudantil Revolucionária denuncia ofensiva contra espaços de organização estudantil; cerca de 30 alunos e dois professores ficaram feridos no Instituto Satyajit Ray, onde, uma semana depois, militantes hindutva voltaram a tentar entrar à força no campus.",
           "link": "https://anovademocracia.com.br/estudantes-india-grupos-fascistas/",
           "publishedOn": "2026-10-06T14:02:51.000Z",
-          "wordCount": 8432,
+          "wordCount": 8433,
           "title": "Estudantes indianos enfrentam novos ataques de grupos fascistas em universidades de Bengala",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-06-india.webp"
         },
@@ -627,7 +680,7 @@
           "description": "Ato convocado pela Liga Vermelha em Bremen protestou contra militarização e guerra durante as celebrações oficiais de 3 de outubro. Quatro policiais ficaram feridos e cerca de 40 manifestantes foram detidos ou retidos.",
           "link": "https://anovademocracia.com.br/alemanha-cerco-policial-festa-da-unidade/",
           "publishedOn": "2026-10-05T19:22:39.000Z",
-          "wordCount": 7861,
+          "wordCount": 7862,
           "title": "Anti-imperialistas queimam bandeira estatal e enfrentam cerco policial durante festa da ‘Unidade Alemã’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/03.10.26-Bremen-Angriff-der-Polizei.png"
         },
@@ -637,7 +690,7 @@
           "description": "Revolta iniciada nos bairros operários e pobres da região parisiense entra na terceira semana; mais de 5 mil pessoas já foram detidas, cerca de 85% delas menores de idade, enquanto mais de 30 universidades e campi são atingidos pelas mobilizações. Nesta segunda-feira (5), um estudante de 15 anos teve a mão arrancada após a explosão de uma granada policial em Lens.",
           "link": "https://anovademocracia.com.br/rebeliao-estudantil-franca-mais-mil-escolas/",
           "publishedOn": "2026-10-05T18:27:48.000Z",
-          "wordCount": 8382,
+          "wordCount": 8383,
           "title": "Rebelião estudantil toma as ruas da França e alcança mais de 1,2 mil escolas e 30 universidades",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/Design-sans-titre13-1.jpg"
         },
@@ -647,7 +700,7 @@
           "description": "Mais de 33 milhões de eleitores cadastrados não foram às urnas, maior taxa de abstenção desde 1998; nas 27 UFs, cálculo ampliado chega a 30,12% da população em idade eleitoral – quase um terço – e supera 30% em 11 delas. Com o exterior, o boicote alcança 51,88 milhões, 9,53% acima de 2022.",
           "link": "https://anovademocracia.com.br/boicote-farsa-milhoes-luiz-inacio-flavio/",
           "publishedOn": "2026-10-05T17:58:37.000Z",
-          "wordCount": 9079,
+          "wordCount": 9080,
           "title": "Exclusivo: Boicote à farsa eleitoral chega a 51,9 milhões e se aproxima das votações de Luiz Inácio e Flávio Bolsonaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/01_comparativo_capa.png"
         },
@@ -657,7 +710,7 @@
           "description": "Em entrevista ao Comitê de Apoio do AND de Belém, o artista Chico Ribeiro falou sobre as duas obras que apresentou na mostra, ambas voltadas à luta camponesa: \"Assembleia Popular, Acampamento Tiago dos Santos\" e \"Furacão\".",
           "link": "https://anovademocracia.com.br/exposicao-america-latina-livre-belem/",
           "publishedOn": "2026-10-04T16:58:48.000Z",
-          "wordCount": 7226,
+          "wordCount": 7227,
           "title": "Exposição “América Latina Livre” reuniu artistas em Belém para refletir sobre imperialismo, resistência e emancipação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-13.png"
         },
@@ -667,7 +720,7 @@
           "description": "Campanha chega às urnas sob baixo engajamento, crescimento histórico da abstenção, crise do caso Master e ingerência direta do imperialismo ianque sobre o País; AND acompanha ao longo deste domingo os principais acontecimentos em todo o Brasil.",
           "link": "https://anovademocracia.com.br/farsa-eleitoral-2026-crise-rechaco-do-povo/",
           "publishedOn": "2026-10-04T16:49:21.000Z",
-          "wordCount": 17615,
+          "wordCount": 17616,
           "title": "Plantão: Farsa eleitoral de 2026 começa sob crise profunda e crescente rechaço do povo",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Video-2026-10-04-at-11.55.30-1.mp4",
@@ -682,29 +735,9 @@
           "description": "Mais de 50 estudantes participaram da atividade, realizada após um mês de mobilizações com a distribuição de mais de 3 mil panfletos. Debate retomou as discussões do 43º ENEPe e apontou novas frentes de luta na UFPB.",
           "link": "https://anovademocracia.com.br/pos-enepe-da-ufpb-mobiliza-estudantes-contra-o-sucateamento-da-universidade-publica/",
           "publishedOn": "2026-10-04T16:23:08.000Z",
-          "wordCount": 7685,
+          "wordCount": 7686,
           "title": "Pós-ENEPe da UFPB mobiliza estudantes contra o sucateamento da universidade pública",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/FOTO-CAPA.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233997",
-          "author": "Giovanna Maria",
-          "description": "Estudantes denunciam superlotação, atrasos e quantidade insuficiente de ônibus na linha M202 Marituba–UFPA. Mobilização independente já reuniu mais de 1,6 mil assinaturas pela ampliação do serviço.",
-          "link": "https://anovademocracia.com.br/precarizacao-do-transporte-publico-gera-onda-de-mobilizacoes-na-ufpa/",
-          "publishedOn": "2026-10-04T15:40:44.000Z",
-          "wordCount": 7455,
-          "title": "Precarização do transporte público gera onda de mobilizações na UFPA",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=233983",
-          "author": "Giovanna Maria",
-          "description": "Após sua fundação em 20 de setembro, Comitê realizou ações em terminais de ônibus de Sorocaba e na Ocupação Dandara, em Votorantim.",
-          "link": "https://anovademocracia.com.br/comite-de-sorocaba-denuncia-farsa-eleitoral/",
-          "publishedOn": "2026-10-04T15:06:16.000Z",
-          "wordCount": 7464,
-          "title": "‘A luta é o que muda, o resto só ilude!’: Comitê de Sorocaba inicia ações de denúncia à farsa eleitoral",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-2.png"
         }
       ]
     },
@@ -720,12 +753,72 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3205986",
+          "author": "Lucas Scatolini",
+          "description": "O mesmo presidente que zombou da luta pela soberania sobre as ilhas tem agora planos para elas. Seus motivos: o interesse de Trump e a possibilidade de uma lei para impor, na prática, um estado de exceção permanente e vigilância sobre os cidadãos\nThe post Argentina: por que Milei reivindica as Malvinas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/geopoliticaeguerra/argentina-por-que-milei-reivindica-as-malvinas/",
+          "publishedOn": "2026-10-06T21:52:41.000Z",
+          "wordCount": 5690,
+          "title": "Argentina: por que Milei reivindica as Malvinas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5055739934546792057_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205971",
+          "author": "Lucas Scatolini",
+          "description": "Programa do candidato defende informalidade e contratos precários. Vê como entrave o Estado indutor de emprego. Permite a empregadores chantagear por retirada de direitos. Mina garantias de aposentadoria. E, sem surpresa, rejeita o fim da escala 6x1\nThe post Para Flávio, “Brasil que prospera” trabalha sem direitos appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/para-flavio-brasil-que-prospera-trabalha-sem-direitos/",
+          "publishedOn": "2026-10-06T21:50:55.000Z",
+          "wordCount": 4599,
+          "title": "Para Flávio, “Brasil que prospera” trabalha sem direitos",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-06-at-18-49-28-6172053_ca917349e58c147-960x540.webp-imagem-WEBP-960-%C3%97-540-pixels.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3206028",
+          "author": "Lucas Scatolini",
+          "description": "Endividadados pelo rentismo, muitos depositaram voto de protesto na ultradireita. Lutar pela redução da jornada pode ser antídoto. E – igualmente importante – abrirá caminho para um Lula 4 livre da jaula neoliberal em que se meteu\nThe post Derrotar Flávio e libertar Lula do arcabouço appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/derrotar-flavio-e-libertar-lula-do-arcabouco/",
+          "publishedOn": "2026-10-06T21:34:16.000Z",
+          "wordCount": 5203,
+          "title": "Derrotar Flávio e libertar Lula do arcabouço",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/50557399345467920351.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3206014",
+          "author": "Lucas Scatolini",
+          "description": "Nas comunidades amazônicas, garantias que a LGPD assegura aos indivíduos não bastam para proteger um grupo. Lacuna afeta territórios, saúde indígena e biopirataria. Em tempos de IA, quais os caminhos para ampliar a proteção jurídica e garantir sua autodeterminação?\nThe post A delicada proteção dos dados indígenas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/a-delicada-protecao-dos-dados-indigenas/",
+          "publishedOn": "2026-10-06T20:51:15.000Z",
+          "wordCount": 4860,
+          "title": "A delicada proteção dos dados indígenas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/apib_retrospectiva_juridico_site.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205989",
+          "author": "Rôney Rodrigues",
+          "description": "Frente às ameaças à tímida democracia brasileira, segundo turno exigirá intensa mobilização. Mas é hora de pensar além das urnas: reorganizar a luta social, disputar as periferias, produzir novos afetos e direcionar o ressentimento contra quem produz as desigualdades\nThe post Como derrotar a “contrarrevolução na ordem” – e ir além appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/como-derrotar-a-contrarrevolucao-na-ordem-e-ir-alem/",
+          "publishedOn": "2026-10-06T19:47:36.000Z",
+          "wordCount": 4306,
+          "title": "Como derrotar a “contrarrevolução na ordem” – e ir além",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5055739934546791998_x1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3205978",
+          "author": "Rôney Rodrigues",
+          "description": "Bastaria um mês do que o país desembolsa em juros da dívida para bancar um ano da Tarifa Zero nacional. Presidente paga o preço da opção pelo fiscalismo. É hora de apostar nas “pautas do povo\". E aprovar o fim da escala 6x1, nem que seja por Medida Provisória\nThe post O que fazer quando a barbárie bate à porta? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/o-que-fazer-quando-a-barbarie-bate-a-porta/",
+          "publishedOn": "2026-10-06T19:20:04.000Z",
+          "wordCount": 5009,
+          "title": "O que fazer quando a barbárie bate à porta?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/getty_184629194_362320.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3205937",
           "author": "Antonio Martins",
           "description": "Virada eleitoral é possível, ainda que árdua e difícil. Mas a ilusão de que a esquerda pode governar sem projeto de longo prazo, sem disputas com os poderosos e sem mobilização popular – esta precisa ficar para trás\nThe post Por onde recomeçar? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/por-onde-recomecar/",
           "publishedOn": "2026-10-05T23:30:11.000Z",
-          "wordCount": 5257,
+          "wordCount": 5349,
           "title": "Por onde recomeçar?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-2.jpeg"
         },
@@ -735,7 +828,7 @@
           "description": "Brasil enfrenta grave fragilidade institucional – do Congresso ao STF. Com Flávio, o desmonte tende a se aprofundar. Uma vitória de Lula bloqueia o autoritarismo e é condição necessária para a democracia brasileira, ainda que não represente a superação da crise\nThe post A Constituição sobreviverá às eleições? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/a-constituicao-sobrevivera-as-eleicoes/",
           "publishedOn": "2026-10-05T22:13:47.000Z",
-          "wordCount": 5106,
+          "wordCount": 5120,
           "title": "A Constituição sobreviverá às eleições?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Constituicao_1573233779-1.jpg"
         },
@@ -745,7 +838,7 @@
           "description": "1º turno derrotou as esquerdas. Pensador ecossocialista adverte: democracia está em risco e mesmo contraditório, Lula é a única opção para deter o “trem suicida” do fascismo. Freá-lo é ganhar tempo para a construção de outros horizontes políticos\nThe post Löwy: Lula e a corrida pela virada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/lowy-lula-e-a-corrida-pela-virada/",
           "publishedOn": "2026-10-05T20:58:09.000Z",
-          "wordCount": 6206,
+          "wordCount": 6110,
           "title": "Löwy: Lula e a corrida pela virada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo4.jpg"
         },
@@ -755,69 +848,9 @@
           "description": "O desemprego caiu, mas os trabalhadores amargam enormes retrocessos: da previdência à terceirização e ameaça de pejotização irrestrita. Seminário aponta: fim do ajuste fiscal, redução da jornada, instituições fortes e Estado indutor são tão cruciais quanto a revogação das contrarreformas\nThe post Como assegurar a proteção social no Brasil? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/como-assegurar-a-protecao-social-no-brasil/",
           "publishedOn": "2026-10-05T20:50:40.000Z",
-          "wordCount": 9567,
+          "wordCount": 9393,
           "title": "Como assegurar a proteção social no Brasil?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5053488134733106683.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205859",
-          "author": "Rôney Rodrigues",
-          "description": "Moradia, infraestrutura e mobilidade são cruciais. Mas imperam os fetiches da obra visível e das ações fragmentadas. Em vez de se restringirem a ordenar o espaço, políticas urbanas devem ser ampliadas: Cuidado, Cultura, Lazer e participação também são pilares do Direito à Cidade \nThe post A necessária virada do urbanismo brasileiro appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/a-necessaria-virada-do-urbanismo-brasileiro/",
-          "publishedOn": "2026-10-05T19:49:43.000Z",
-          "wordCount": 5843,
-          "title": "A necessária virada do urbanismo brasileiro",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5053488134733106667_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205745",
-          "author": "Lucas Scatolini",
-          "description": "Cada vez mais, cidades são acossadas por enchentes e calor extremo. Em vez de dragagem incessante, talvez a saída seja integrar natureza e vida urbana e um planejamento que desafie o concreto e o asfalto. Proteção de rios e áreas de várzea e política do Cuidado são cruciais\nThe post Crise climática: o papel das infraestruturas verdes appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/crise-climatica-o-papel-das-infraestruturas-verdes/",
-          "publishedOn": "2026-10-02T21:26:43.000Z",
-          "wordCount": 9010,
-          "title": "Crise climática: o papel das infraestruturas verdes",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-02-at-18-26-01-ibirapuera3.avif-imagem-AVIF-888-%C3%97-499-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205802",
-          "author": "Rôney Rodrigues",
-          "description": "A captura do trabalho coletivo, examinada por Marx, tornou-se brutal. Nunca se produziu tanta riqueza e tanta infelicidade. Faltam alternativas para que surja, deste abismo, mobilização transformadora. Reflexões às vésperas de uma eleição decisiva\nThe post O capital em crise e o futuro em disputa appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/o-capital-em-crise-e-o-futuro-em-disputa/",
-          "publishedOn": "2026-10-02T21:17:15.000Z",
-          "wordCount": 5958,
-          "title": "O capital em crise e o futuro em disputa",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/e470d117-7350-41c7-a852-97b1e88eadd3.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205769",
-          "author": "Lucas Scatolini",
-          "description": "Sob a ditadura recrudescida, a clandestinidade conduz o militante a uma casa na periferia de Campinas. Lá ele edita de forma inusitada o jornal da AP/PCdoB. Encontra um jeito de colaborar com o Movimento. E conhece a casa em que o Exército fará a Chacina da Lapa\nThe post Memórias do Jornalismo: Sete anos no esconderijo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-sete-anos-no-esconderijo/",
-          "publishedOn": "2026-10-02T20:31:27.000Z",
-          "wordCount": 6420,
-          "title": "Memórias do Jornalismo: Sete anos no esconderijo",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5044195019505470859.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205761",
-          "author": "Lucas Scatolini",
-          "description": "Na mesma mão, em um movimento mínimo, muda-se o regime de significação. Da violência, que oferece a ilusão de poder, à possibilidade de desvio, que representa mais: a falácia que a mimese da arma encenava. Reflexão sobre um ensaio poesia, para virar os votos\nThe post A arma, um giro, o L appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/a-arma-um-giro-o-l/",
-          "publishedOn": "2026-10-02T20:20:57.000Z",
-          "wordCount": 5689,
-          "title": "A arma, um giro, o L",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5044405683356372079.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205763",
-          "author": "Lucas Scatolini",
-          "description": "Por que superar o projeto neoliberal exige transformar o campo brasileiro? Ou: como construir, diante do poder do agro, um sistema agroalimentar capaz de combater a fome? Movimentos sociais convocam candidaturas a assumir compromisso com o futuro agroecológico\nThe post Eleições: a necessidade da Agroecologia appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/eleicoes-a-necessidade-da-agroecologia/",
-          "publishedOn": "2026-10-02T20:17:07.000Z",
-          "wordCount": 4588,
-          "title": "Eleições: a necessidade da Agroecologia",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5044195019505470855.jpg"
         }
       ]
     },
@@ -832,7 +865,7 @@
           "description": "Em que condições a classe trabalhadora pode voltar a se organizar como classe? Por Gabriel Teles",
           "link": "https://passapalavra.info/2026/10/160016/",
           "publishedOn": "2026-10-06T11:31:08.000Z",
-          "wordCount": 6304,
+          "wordCount": 6899,
           "title": "A urna e a luta de classes",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/Topor-4.jpg"
         },
@@ -884,12 +917,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67231",
+          "author": "Boitempo",
+          "description": "Nenhum direito social caiu do céu. Jornada, salário mínimo, previdência, descanso, organização sindical e proteção contra acidentes tornaram-se direitos porque homens e mulheres, em greves, tribunais, assembleias e eleições, conseguiram retirar certas dimensões da vida da pura lógica do mercado. Essa retirada nunca é definitiva, e a história que a produziu segue aberta.",
+          "link": "https://blogdaboitempo.com.br/2026/10/06/o-tempo-que-nao-se-vende/",
+          "publishedOn": "2026-10-06T19:57:09.000Z",
+          "wordCount": 14257,
+          "title": "O tempo que não se vende",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/pzzb6726.webp"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67220",
           "author": "Boitempo",
           "description": "Leia a orelha de Marcelo Rubens Paiva para o livro \"Meu Antônio\", de Isa Jinkings, uma homenagem em textos e imagens da professora e também militante à trajetória dessa destacada figura do comunismo brasileiro e dos universos político e cultural paraenses.",
           "link": "https://blogdaboitempo.com.br/2026/10/05/o-brasil-adora-destruir-a-democracia-para-salva-la-orelha-de-marcelo-rubens-paiva-para-o-livro-meu-antonio/",
           "publishedOn": "2026-10-05T14:42:41.000Z",
-          "wordCount": 11724,
+          "wordCount": 11568,
           "title": "O Brasil adora destruir a democracia para “salvá-la” | Orelha de Marcelo Rubens Paiva para o livro “Meu Antônio”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/08/meu-antonio-frente-e1787867988376.jpg?fit=1200%2C674&ssl=1"
         },
