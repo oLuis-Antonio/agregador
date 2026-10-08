@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "WdGkgc",
+          "author": null,
+          "description": "A caracterização da questão como uma disputa entre ministros deixa de lado a dimensão estrutural: que tipo de relações sociais permite que um banqueiro construa canais de acesso com tantos agentes situados no topo da máquina estatal?",
+          "link": "https://jornalofuturo.com.br/artigo/WdGkgc-as-alas-do-stf-nao-representam-alternativa-aos-trabalhadores",
+          "publishedOn": "2026-10-08T03:00:00.000Z",
+          "wordCount": 2796,
+          "title": "As “alas” do STF não representam alternativa aos trabalhadores",
+          "imageUrl": "https://media.jornalofuturo.com.br/STF-770x513.webp"
+        },
+        {
           "id": "6YgcqX",
           "author": null,
           "description": "Alcolumbre anunciou que a PEC 221/2019 será votada somente após as eleições. Setores empresariais pressionaram pelo adiamento da votação, para preparar uma contraofensiva, e tiveram a demanda atendida no Senado",
@@ -43,12 +53,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6ac7f9b259cc9a0358075a46",
+          "author": "CSP Conlutas",
+          "description": "A decisão judicial proferida nesta semana que determina o despejo das quase 100 famílias da Ocupação dos Queixadas, em Cajamar (SP), representa mais um grave ataque ao direito à moradia e à dignidade da população trabalhadora. A CSP-Conlutas repudia a",
+          "link": "https://opiniaosocialista.com.br/toda-solidariedade-e-apoio-a-ocupacao-dos-queixadas-em-cajamar-despejo-nao/",
+          "publishedOn": "2026-10-08T20:24:05.000Z",
+          "wordCount": 1608,
+          "title": "Toda solidariedade e apoio à Ocupação dos Queixadas em Cajamar! Despejo, não!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/queixadas.webp"
+        },
+        {
+          "id": "6ac7b87359cc9a0358075a0d",
+          "author": "PSTU-SP",
+          "description": "Tarcísio de Freitas foi reeleito governador de São Paulo no primeiro turno, com 62,65% dos votos válidos, contra 36,42% de Fernando Haddad. A vitória se estendeu ao Senado, com a eleição de Guilherme Derrite, do PP, e",
+          "link": "https://opiniaosocialista.com.br/tarcisio-reeleito-organizar-a-luta-contra-a-extrema-direita-em-sao-paulo/",
+          "publishedOn": "2026-10-08T15:42:50.000Z",
+          "wordCount": 1385,
+          "title": "Tarcísio reeleito: organizar a luta contra a extrema direita em São Paulo",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/tarcisio_site.webp"
+        },
+        {
           "id": "6ac64b5959cc9a035807593c",
           "author": "PSTU-DF",
           "description": "O PSTU apresentou uma alternativa socialista contra a extrema-direita e a Frente Ampla no 1º turno; no 2º turno, chamamos o voto crítico em Leandro Grass para derrotar a extrema-direita nas urnas e nas ruas",
           "link": "https://opiniaosocialista.com.br/nota-publica-do-pstu-df/",
           "publishedOn": "2026-10-07T13:42:59.000Z",
-          "wordCount": 2038,
+          "wordCount": 2034,
           "title": "Nota pública do PSTU-DF",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/pstu_df.jpeg"
         },
@@ -78,7 +108,7 @@
           "description": "A PEC 221/19 (Proposta de Emenda à Constituição) que acaba com a escala 6x1 e reduz a jornada de trabalho no país entra na pauta do Senado nesta terça-feira (6). A proposta começa a ser discutida no plenário",
           "link": "https://opiniaosocialista.com.br/aprovacao-do-fim-da-escala-6x1-ja-a-vida-dos-trabalhadores-nao-pode-ser-moeda-de-disputa-eleitoral/",
           "publishedOn": "2026-10-06T22:09:40.000Z",
-          "wordCount": 1216,
+          "wordCount": 1210,
           "title": "Aprovação do fim da escala 6x1, já! A vida dos trabalhadores não pode ser moeda de disputa eleitoral",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/jornada-trabalho.webp"
         },
@@ -88,7 +118,7 @@
           "description": "O PSTU continuará nas lutas, disputando a classe trabalhadora para um outro projeto de país e sociedade",
           "link": "https://opiniaosocialista.com.br/eleicoes-2026-cada-voto-nas-candidaturas-do-pstu-ajudou-a-fortalecer-um-programa-socialista-para-o-brasil/",
           "publishedOn": "2026-10-05T15:54:09.000Z",
-          "wordCount": 1356,
+          "wordCount": 1352,
           "title": "Cada voto nas candidaturas do PSTU ajudou a fortalecer um programa socialista para o Brasil",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/hertz-dias-e-vanessa-portugal.webp"
         }
@@ -99,6 +129,36 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Presidente-do-PL-admite-o-obvio-cla-Bolsonaro-planejou-dar-um-golpe-apos-derrota-em-2022",
+          "author": "Redação",
+          "description": "O presidente do PL, Valdemar Costa Neto, voltou a admitir que houve discussão sobre um golpe de Estado no final do governo Bolsonaro, após a derrota eleitoral de 2022. “Discutiram de dar o golpe. E daí?”, afirmou em entrevista à Rádio Gaúcha. Na mesma conversa, defendeu uma anistia para Jair Bolsonaro caso Flávio Bolsonaro seja eleito e, questionado sobre uma nova tentativa, respondeu: “Pode haver planejamento”. \n O presidente do PL, Valdemar Costa Neto, voltou a admitir que houve discussão (…)\n08-10-2026\n\n/ Política, Jair Bolsonaro, golpe, Governo Bolsonaro, Flavio Bolsonaro, Eduardo Bolsonaro, Família Bolsonaro, Bolsonaro, CPMI do 8 de janeiro, 8 de Janeiro, Tentativa de Golpe",
+          "link": "https://www.esquerdadiario.com.br/Presidente-do-PL-admite-o-obvio-cla-Bolsonaro-planejou-dar-um-golpe-apos-derrota-em-2022",
+          "publishedOn": "2026-10-08T18:16:09.000Z",
+          "wordCount": null,
+          "title": "Presidente do PL admite o óbvio: clã Bolsonaro planejou dar um golpe após derrota em 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Franca-radicalizada-jornada-de-protestos-e-enfrentamentos-da-juventude-contra-a-policia",
+          "author": "Redação",
+          "description": "Nesta quinta-feira, dia 8, a França viveu um novo e massivo dia de mobilização de estudantes secundaristas, acompanhados por universitários e diversos sindicatos de professores em todo o país. À tarde, a polícia avançou brutalmente contra dezenas de milhares de manifestantes na Praça da Bastilha, em Paris. Estudantes e professores convocaram uma nova mobilização nacional para a terça-feira, 13 de outubro. \n Nesta quinta-feira cumpre-se a quarta grande mobilização (quarto ato) protagonizada (…)\n08-10-2026\n\n/ Internacional, Juventude trabalhadora, Greve Geral na França, Crise política na França",
+          "link": "https://www.esquerdadiario.com.br/Franca-radicalizada-jornada-de-protestos-e-enfrentamentos-da-juventude-contra-a-policia",
+          "publishedOn": "2026-10-08T18:00:14.000Z",
+          "wordCount": null,
+          "title": "França: radicalizada jornada de protestos e enfrentamentos da juventude contra a polícia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/E-preciso-combater-as-ameacas-da-extrema-direita-a-UFPE-Que-toda-a-comunidade-academica-e-a",
+          "author": "Faísca Revolucionária UFPE",
+          "description": "Frente aos casos de incêndios na UFPE, a precarização da universidade e as recentes ameaças contra o movimento estudantil na UFPE pela extrema direita, não podemos deixar de nos mobilizar para impor uma investigação independente para sabermos as causas e culpados do incêndio e seguir batalhando nas ruas contra a extrema direita e Flávio Bolsonaro, capacho de Trump! \n Ontem à noite vimos cenas tristes e lamentáveis do prédio da Diretoria de Inovação e Empreendedorismo (Dine) se acabando em (…)\n08-10-2026\n\n/ Juventude, precarização, Incêndio, UFPE, cortes, Cortes na Educação, Faísca Revolucionária, RU da UFPE",
+          "link": "https://www.esquerdadiario.com.br/E-preciso-combater-as-ameacas-da-extrema-direita-a-UFPE-Que-toda-a-comunidade-academica-e-a",
+          "publishedOn": "2026-10-08T15:25:01.000Z",
+          "wordCount": null,
+          "title": "É preciso combater as ameaças da extrema direita à UFPE. Que toda a comunidade acadêmica e a população tenha acesso a todas as informações sobre o incêndio",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-apoia-volta-das-Bets-e-Centrao-articula-fim-da-proibicao-apos-segundo-turno",
           "author": "Redação",
@@ -368,36 +428,6 @@
           "wordCount": null,
           "title": "Bem-vindos às eleições mais racistas de Israel",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/A-CGT-convoca-mobilizacao-ao-lado-dos-estudantes-do-ensino-medio-neste-dia-6-de-outubro",
-          "author": "Damien Bernard",
-          "description": "Enquanto o governo de Macron e seu ministro Lecornu tentam quebrar o movimento dos estudantes secundaristas, que ganhou dimensão nacional e começou a se expandir para as universidades, docentes e setores de trabalhadores, vários sindicatos, entre eles a CGT, estão convocando a adesão à mobilização chamada pela juventude para a próxima terça-feira, 6 de outubro. A Revolución Permanente, organização irmã do MRT na França e integrante da nossa corrente internacional Revolução Permanente – Quarta Internacional (CRP-CI), defende que essa convocação é um importante ponto de apoio para impulsionar uma greve de massas contra a repressão, unir o movimento operário à revolta dos secundaristas e fazer convergir essa indignação com a revolta contra os cortes e o alto custo de vida. Eles conclamam a assumir esse chamado e a construir, pela base, uma greve de massas neste 6 de outubro.\n05-10-2026\n\n/ Internacional, Movimento Estudantil, França, Secundaristas",
-          "link": "https://www.esquerdadiario.com.br/A-CGT-convoca-mobilizacao-ao-lado-dos-estudantes-do-ensino-medio-neste-dia-6-de-outubro",
-          "publishedOn": "2026-10-05T12:41:51.000Z",
-          "wordCount": null,
-          "title": "A CGT convoca mobilização “ao lado dos estudantes do ensino médio” neste dia 6 de outubro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Cleitinho-Azevedo-ganha-em-MG-e-preciso-confrontar-seu-governo-na-luta-de-classes",
-          "author": "Redação Minas Gerais",
-          "description": "Cleitinho Azevedo é eleito em primeiro turno para governador de MG. É preciso confrontar seu governo e derrotá-lo junto à extrema direita e o imperialismo.\n03-10-2026\n\n/ Política, Minas Gerais, Extrema direita, Republicanos, imperialismo, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Cleitinho-Azevedo-ganha-em-MG-e-preciso-confrontar-seu-governo-na-luta-de-classes",
-          "publishedOn": "2026-10-05T01:33:39.000Z",
-          "wordCount": null,
-          "title": "Cleitinho Azevedo ganha em MG: é preciso confrontar seu governo na luta de classes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/1o-turno-mostra-que-o-combate-a-Flavio-Trump-e-a-extrema-direita-exige-toda-forca-da-nossa-luta",
-          "author": "Redação",
-          "description": "Em meio à crescente ingerência imperialista na América Latina e nas eleições brasileiras, o resultado que sai das urnas neste primeiro turno expressa, para além do captado pelas pesquisas de intenção de voto, o fortalecimento da extrema direita bolsonarista no regime político, marcado também pelo escândalo do Banco Master, e a necessidade de enfrentar frontalmente a extrema direita e os interesses de Donald Trump no Brasil. Flávio Bolsonaro, capacho de Trump, passou à frente nas presidenciais, com 47,09% dos votos (2,4 milhões de votos à frente de Lula), ganhando em 15 estados. Seu partido, o PL, quadruplicou sua bancada reacionária no Senado e avançou no governo de estados e regiões do país. É preciso enfrentar essa extrema direita asquerosa e seus vínculos com o imperialismo.\n03-10-2026\n\n/ Política, Donald Trump, Flavio Bolsonaro, Bolsonaro, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/1o-turno-mostra-que-o-combate-a-Flavio-Trump-e-a-extrema-direita-exige-toda-forca-da-nossa-luta",
-          "publishedOn": "2026-10-05T01:28:32.000Z",
-          "wordCount": null,
-          "title": "1º turno mostra que o combate a Flávio, Trump e à extrema direita exige toda força da nossa luta",
-          "imageUrl": null
         }
       ]
     },
@@ -474,12 +504,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=163886",
+          "author": "Mariana Rosetti",
+          "description": "Com 47 eleitos na Câmara, nove no Senado e 12 na Alesp, grupo consolida poder político; especialistas apontam pouco espaço para políticas de segurança e risco de monopolização do debate\nO conteúdo O ‘partido policial’ ganha terreno no Senado Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/o-partido-policial-ganha-terreno-no-senado/",
+          "publishedOn": "2026-10-08T16:54:59.000Z",
+          "wordCount": 6599,
+          "title": "O ‘partido policial’ ganha terreno no Senado",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/letalidade-policial-ponte-jornalismo-juniao.webp"
+        },
+        {
           "id": "https://ponte.org/?p=163868",
           "author": "Pedro Stropasolas",
           "description": "Mãe de Ryan, de 4 anos, morto pela PM, critica resultado das urnas; especialistas apontam avanço de propostas de endurecimento penal\nO conteúdo ‘Sangue do meu filho nas mãos’: vitória de Tarcísio e Derrite fortalece política de violência policial Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/sangue-do-meu-filho-nas-maos-vitoria-de-tarcisio-e-derrite-fortalece-politica-de-violencia-policial/",
           "publishedOn": "2026-10-07T19:30:56.000Z",
-          "wordCount": 6471,
+          "wordCount": 6411,
           "title": "‘Sangue do meu filho nas mãos’: vitória de Tarcísio e Derrite fortalece política de violência policial",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/12/Protesto-marca-um-mes-da-morte-de-Ryan-em-SP-png.webp"
         },
@@ -499,7 +539,7 @@
           "description": "Ponte defende segurança pública que preserve vidas e enfrente desigualdades, sem ampliar violência e encarceramento\nO conteúdo Da Redação | O Brasil que queremos Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/o-brasil-que-queremos/",
           "publishedOn": "2026-10-05T14:51:02.000Z",
-          "wordCount": 6175,
+          "wordCount": 6100,
           "title": "Da Redação | O Brasil que queremos",
           "imageUrl": "https://ponte.org/wp-content/uploads/2025/11/MarchadasMulheres1-scaled.webp"
         }
@@ -528,12 +568,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268153",
+          "author": "Raissa Neves",
+          "description": "O governo de Israel está promovendo um filme online intitulado NAZA: A História Real, produzido para contestar as conclusões do documentário NAZA, dirigido pelos cineastas vencedores do Oscar Yuval Abraham e Rachel Szor. A produção original detalha os assassinatos em massa de civis palestinos em Gaza e está em cartaz nos cinemas, com exibição prevista […]\nO post Israel promove filme para contestar documentário sobre mortes de civis em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-promove-filme-para-contestar-documentario-sobre-mortes-de-civis-em-gaza/",
+          "publishedOn": "2026-10-08T20:40:25.000Z",
+          "wordCount": 4315,
+          "title": "Israel promove filme para contestar documentário sobre mortes de civis em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/graficocolado-2-1.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268143",
+          "author": "Raissa Neves",
+          "description": "A crise do Sistema Internacional não é uma novidade, ainda que seja recente desde o ponto de vista da longa duração na qual se processam as profundas mudanças sistêmicas. Ela começou na última década do século 20, com o fim da Guerra Fria e o começo de um “mundo regido por regras”. Regras definidas pelo […]\nO post Da coagulação do sistema internacional em esferas de poder ao IV Reich americano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/da-coagulacao-do-sistema-internacional-em-esferas-de-poder-ao-iv-reich-americano/",
+          "publishedOn": "2026-10-08T19:59:49.000Z",
+          "wordCount": 5940,
+          "title": "Da coagulação do sistema internacional em esferas de poder ao IV Reich americano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/vladimir_putin_and_xi_jinping-20260520.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268159",
+          "author": "Raissa Neves",
+          "description": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (08/10) a expedição de um mandado de prisão contra o ex-deputado federal Eduardo Bolsonaro, que está nos Estados Unidos. A medida foi determinada após o ministro mandar executar a condenação de Eduardo a quatro anos e dois meses de prisão pelo crime […]\nO post Moraes manda expedir mandado de prisão contra Eduardo Bolsonaro e cancela passaportes apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/moraes-manda-expedir-mandado-de-prisao-contra-eduardo-bolsonaro-e-cancela-passaportes/",
+          "publishedOn": "2026-10-08T19:59:17.000Z",
+          "wordCount": 3319,
+          "title": "Moraes manda expedir mandado de prisão contra Eduardo Bolsonaro e cancela passaportes",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55367429687_67831ee575_o.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268149",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (08/10) que não atacará o Irã “em nenhum momento antes” das eleições de meio de mandato, que ocorrerão em 3 de novembro de 2026. A declaração ocorre após uma reportagem do The Atlantic sugerir que a Casa Branca pediu ao Pentágono que desenvolvesse opções de […]\nO post Trump nega novos ataques contra Irã antes das eleições de meio mandato nos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-nega-novos-ataques-contra-ira-antes-das-eleicoes-de-meio-mandato-nos-eua/",
+          "publishedOn": "2026-10-08T18:30:11.000Z",
+          "wordCount": 3182,
+          "title": "Trump nega novos ataques contra Irã antes das eleições de meio mandato nos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55573811932_3e92a2763d_3k-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268142",
+          "author": "Tabitha Ramalho",
+          "description": "O fenômeno El Niño continuará se intensificando antes de alcançar seu “ponto máximo” em dezembro, alertou a ONU nesta quinta-feira (08/10), ao advertir que poderá ser um dos mais fortes registrados desde pelo menos 1950. Esse fenômeno meteorológico natural provocará um aumento das temperaturas em grande parte do planeta, segundo a Organização Meteorológica Mundial (OMM), […]\nO post El Niño avança e deve atingir força máxima em dezembro, alerta Organização Meteorológica Mundial apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/desastre-natural/el-nino-avanca-e-deve-atingir-forca-maxima-em-dezembro-alerta-organizacao-meteorologica-mundial/",
+          "publishedOn": "2026-10-08T17:10:53.000Z",
+          "wordCount": 3793,
+          "title": "El Niño avança e deve atingir força máxima em dezembro, alerta Organização Meteorológica Mundial",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/00d77547-e4ef-4c6e-9603-be40dd7fedd7-seca1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268134",
+          "author": "Tabitha Ramalho",
+          "description": "A campanha de Flávio Bolsonaro (PL) afirmou que pretende acabar com o chamado split payment, mecanismo criado pela reforma tributária para separar e recolher automaticamente os impostos sobre o consumo no momento em que uma operação é paga. A promessa foi feita pela coordenadora do núcleo econômico da campanha, Daniella Marques, que afirmou que o […]\nO post O que é ‘split payment’, mecanismo de combate a fraudes que Flávio Bolsonaro pretende extinguir se eleito apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/o-que-e-split-payment-mecanismo-de-combate-a-fraudes-que-flavio-bolsonaro-pretende-extinguir-se-eleito/",
+          "publishedOn": "2026-10-08T15:40:44.000Z",
+          "wordCount": 3867,
+          "title": "O que é ‘split payment’, mecanismo de combate a fraudes que Flávio Bolsonaro pretende extinguir se eleito",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/0d4a2424.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268128",
           "author": "Tabitha Ramalho",
           "description": "A Coreia do Sul anunciou nesta quinta-feira (08/10) que retirará seu embaixador, Park Ki-chang, da Ucrânia. A decisão ocorre em meio a uma crise diplomática entre os países envolvendo a transferência de prisioneiros de guerra da República Popular Democrática da Coreia. “O governo decidiu convocar seu embaixador na Ucrânia de volta ao seu país de […]\nO post Coreia do Sul retira embaixador da Ucrânia após crise sobre prisioneiros norte-coreanos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/coreia-do-sul-retira-embaixador-da-ucrania-apos-crise-sobre-prisioneiros-norte-coreanos/",
           "publishedOn": "2026-10-08T14:57:43.000Z",
-          "wordCount": 3634,
+          "wordCount": 3642,
           "title": "Coreia do Sul retira embaixador da Ucrânia após crise sobre prisioneiros norte-coreanos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/chatgpt-image-8-de-out.-de-2026-11_56_50-1024x683.png"
         },
@@ -543,7 +643,7 @@
           "description": "Os preços internacionais do petróleo dispararam 5% nesta quinta-feira (8/10), impulsionados pela escalada das tensões no Oriente Médio e pela ameaça de interrupção da produção no Golfo do México devido à aproximação de um furacão. O barril do Brent, referência internacional, chegou a US$ 105,30. A alta ocorre após a revista norte-americana The Atlantic revelar […]\nO post Preço do petróleo dispara com ameaça de novos ataques dos EUA ao Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/preco-do-petroleo-dispara-com-ameaca-de-novos-ataques-dos-eua-ao-ira/",
           "publishedOn": "2026-10-08T14:00:51.000Z",
-          "wordCount": 3380,
+          "wordCount": 3388,
           "title": "Preço do petróleo dispara com ameaça de novos ataques dos EUA ao Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/a_petrobras_tambem_na_baia_da_guanabara_-_rj_14813335772.jpg"
         },
@@ -553,7 +653,7 @@
           "description": "Cilia Flores, esposa do presidente venezuelano Nicolás Maduro, pode ter sofrido um ataque cardíaco e perdido muito peso, por isso seus advogados pedirão ao juiz nesta quinta-feira (08/10) que a liberte da prisão e a coloque em prisão domiciliar, segundo informações da Associated Press, citando a equipe de defesa da primeira-dama. “Seus advogados dizem que […]\nO post Advogados de Cilia Flores pedem prisão domiciliar após possível ataque cardíaco apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/advogados-de-cilia-flores-pedem-prisao-domiciliar-apos-possivel-ataque-cardiaco/",
           "publishedOn": "2026-10-08T13:20:41.000Z",
-          "wordCount": 3298,
+          "wordCount": 3306,
           "title": "Advogados de Cilia Flores pedem prisão domiciliar após possível ataque cardíaco",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/cilia_flores_in_2023_cropped-e1791471788454.jpg"
         },
@@ -563,71 +663,17 @@
           "description": "Estudantes do ensino médio e universitários voltaram às ruas nesta quinta-feira (08/10) na França para participar do “4º ato” do movimento iniciado há quase três semanas, que exige melhores condições de ensino. A mobilização tem o apoio de sindicatos e partidos de esquerda, além da participação de pais, professores, aposentados e outras categorias da população, […]\nO post França: estudantes realizam quarta mobilização por melhores condições de ensino apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/franca-estudantes-realizam-quarta-mobilizacao-por-melhores-condicoes-de-ensino/",
           "publishedOn": "2026-10-08T12:40:51.000Z",
-          "wordCount": 5012,
+          "wordCount": 5020,
           "title": "França: estudantes realizam quarta mobilização por melhores condições de ensino",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/838909511_18008715749973300_881096029962389779_n-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268089",
-          "author": "Tatiana Carlotti",
-          "description": "Pesquisa PoderData/Aya, a primeira divulgada após o pleito no último domingo (04/10), aponta o senador Flávio Bolsonaro (PL) com 53% das intenções de votos válidos para o segundo turno, contra 47% do presidente Luiz Inácio Lula da Silva (PT). O levantamento, divulgado nesta quinta-feira (08/10), aponta uma vantagem de seis pontos percentuais para o candidato […]\nO post PoderData/Aya: Flávio Bolsonaro tem 53% dos votos válidos contra 47% de Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/poderdata-flavio-bolsonaro-tem-53-dos-votos-validos-contra-47-de-lula-no-segundo-turno/",
-          "publishedOn": "2026-10-08T11:58:44.000Z",
-          "wordCount": 3518,
-          "title": "PoderData/Aya: Flávio Bolsonaro tem 53% dos votos válidos contra 47% de Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/20260121090120_bdcfcfa5f37737639cac9e21852cac137f84449e242b6f5f213006a0e8987a47-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268077",
-          "author": "Tatiana Carlotti",
-          "description": "Estudantes da Universidade Federal de Pernambuco (UFPE) receberam ameaças explícitas contra setores da instituição, incluindo uma mensagem que falava em “explodir o departamento” em nome de Flávio Bolsonaro, horas antes de um incêndio de grandes proporções atingir, na noite desta quarta-feira (07/10), a Diretoria de Inovação e Empreendedorismo da universidade, no Recife. A sequência dos […]\nO post Bolsonaristas enviaram ameaças antes do incêndio na UFPE: ‘vamos explodir’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/bolsonaristas-enviaram-ameacas-antes-do-incendio-na-ufpe-vamos-explodir/",
-          "publishedOn": "2026-10-08T11:04:31.000Z",
-          "wordCount": 3970,
-          "title": "Bolsonaristas enviaram ameaças antes do incêndio na UFPE: ‘vamos explodir’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/screenshot-2026-10-08-at-10.57.37.png.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268069",
-          "author": "Tatiana Carlotti",
-          "description": "Milhares de estudantes brasileiros foram às ruas, em várias capitais brasileiras como Rio de Janeiro, Salvador, Porto Alegre e Goiânia, na noite desta quarta-feira (07/10). As mobilizações dão início a um novo momento na campanha dos apoiadores do presidente brasileiro, Luiz Inácio Lula da Silva (PT), que rechaçam a volta da extrema direita ao poder, […]\nO post Estudantes vão às ruas nas capitais brasileiras pela reeleição de Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/estudantes-vao-as-ruas-nas-capitais-brasileiras-pela-reeleicao-de-lula/",
-          "publishedOn": "2026-10-08T10:46:52.000Z",
-          "wordCount": 4137,
-          "title": "Estudantes vão às ruas nas capitais brasileiras pela reeleição de Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/836515368_2045969485924832_3053287152128840018_n-1-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268067",
-          "author": "Tatiana Carlotti",
-          "description": "Um juiz no Equador declarou inocentes, na quarta-feira (07/10), 32 tripulantes de dois barcos de pesca que haviam sido interceptados e destruídos por forças militares norte-americanas no Oceano Pacífico. Os indivíduos, que haviam sido acusados ​​de conspiração, eram suspeitos de colaborar com redes de narcotráfico. No entanto, o juiz concluiu que não havia provas suficientes […]\nO post Tribunal equatoriano absolve pescadores de barcos atacados pelos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/tribunal-equatoriano-absolve-pescadores-de-barcos-atacados-pelos-eua/",
-          "publishedOn": "2026-10-08T10:15:33.000Z",
-          "wordCount": 3609,
-          "title": "Tribunal equatoriano absolve pescadores de barcos atacados pelos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/lancha-hundida-southcom.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=267501",
-          "author": "Fernanda Oliveira",
-          "description": "O Uruguai é um dos países da América do Sul mais avançados na garantia de direitos sociais. Em apenas duas décadas, aprovou leis importantes para o público feminino. Lei do Divórcio (1907), declarou-se um Estado laico (1917) e promoveu o voto feminino (1927). Mas, desde 2014, a disparada no número de feminicídios vem desafiando o […]\nO post Uruguai se aproxima do Brasil em taxa de feminicídio e traça estratégias de proteção apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/taxa-de-feminicidio-do-uruguai-se-equipara-ao-brasil/",
-          "publishedOn": "2026-10-08T10:00:42.000Z",
-          "wordCount": 6019,
-          "title": "Uruguai se aproxima do Brasil em taxa de feminicídio e traça estratégias de proteção",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/viviana-a-filha-e-o-neto-1-1-e1791469972638.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268041",
-          "author": "Tabitha Ramalho",
-          "description": "O francês Henri Kagan e o japonês Kenso Soai receberam nesta quarta-feira (07/10) o Prêmio Nobel de Química de 2026 por descobertas sobre os efeitos não lineares e a autocatalise na síntese orgânica assimétrica, avanços fundamentais para compreender por que determinadas moléculas aparecem na natureza em apenas uma de suas duas formas. A descoberta é […]\nO post Estudos sobre a estrutura das moléculas vence Nobel de Química apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/estudos-sobre-a-estrutura-das-moleculas-vence-nobel-de-quimica/",
-          "publishedOn": "2026-10-07T22:30:14.000Z",
-          "wordCount": 4025,
-          "title": "Estudos sobre a estrutura das moléculas vence Nobel de Química",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-07-160346.png"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -635,14 +681,34 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234334",
+          "author": "Redação de AND",
+          "description": "Convocação da Liga Anti-imperialista Internacional impulsionou manifestações, atos diante de representações indianas, bloqueios estudantis, reuniões, pichações e outras ações em países da Ásia, Europa e América Latina. No Brasil, estudantes aderiram à campanha em atividades no Rio de Janeiro.",
+          "link": "https://anovademocracia.com.br/liga-anti-imperialista-revolucao-indiana/",
+          "publishedOn": "2026-10-08T20:57:07.000Z",
+          "wordCount": 9451,
+          "title": "De Daca a Londres, campanha internacional da Liga Anti-imperialista leva às ruas apoio à Revolução Indiana",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-08-10-india.webp"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234419",
+          "author": "Redação de AND",
+          "description": "Milhares denunciaram a visita do secretário de Estado ianque e a política do governo grego de colaboração com as guerras do EUA e da OTAN. A polícia bloqueou a marcha rumo à Embaixada do EUA; no dia seguinte, Atenas e Washington acertaram 4 bilhões de dólares em vendas militares.",
+          "link": "https://anovademocracia.com.br/grecia-bloqueio-policia-rubio-marcha-eua/",
+          "publishedOn": "2026-10-08T20:25:52.000Z",
+          "wordCount": 7749,
+          "title": "Grécia: milhares enfrentam bloqueio policial em marcha contra visita de Rubio e colaboração militar com EUA",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/✊️-7Η-ΟΚΤΩΒΡΗ-ΜΕΡΑ-ΤΗΣ-ΑΝΤΙΣΤΑΣΗΣ-ΤΩΝ-ΛΑΩΝΣυγκέντρωση-για-την-υπεράσπιση-της-συμπλήρωσης-των-3-.webp"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234411",
           "author": "Giovanna Maria",
           "description": "Bruno Hashimura San Juliano, de 23 anos, foi atingido por quatro disparos. Polícia Civil afastou a tese de legítima defesa e indiciou bombeiro por homicídio qualificado.",
           "link": "https://anovademocracia.com.br/bombeiro-militar-mata-estudante-de-medicina-a-tiros-durante-discussao-de-transito-em-taubate/",
           "publishedOn": "2026-10-08T10:40:00.000Z",
-          "wordCount": null,
+          "wordCount": 7987,
           "title": "Bombeiro militar mata estudante de Medicina a tiros durante discussão de trânsito em Taubaté",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-20.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234404",
@@ -650,9 +716,9 @@
           "description": "Em ato com Caiado, o candidato invocou a maioria reacionária no Congresso, prometeu meio milhão de vagas em presídios e chamou Hamas e Hezbollah de “terroristas”, apresentando os movimentos de resistência como uma suposta ameaça ao Brasil. No País, organizações de luta anti-imperialista e solidárias à Palestina já são criminalizadas e tachadas de “terroristas” pela reação.",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-organizacoes-terroristas/",
           "publishedOn": "2026-10-08T01:29:38.000Z",
-          "wordCount": null,
+          "wordCount": 8566,
           "title": "Flávio Bolsonaro equipara organizações anti-imperialistas a CV e PCC sob o rótulo de ‘terroristas’",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-19.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234386",
@@ -660,9 +726,9 @@
           "description": "O Dilúvio de Al-Aqsa rompeu o mito da invencibilidade sionista e impulsionou a luta anti-imperialista internacional, em meio às derrotas estratégicas do imperialismo ianque no Afeganistão, na Palestina, no Irã e no Iraque e ao fracasso de sua ofensiva contrarrevolucionária geral.",
           "link": "https://anovademocracia.com.br/resistencia-palestina-periodo-revolucoes/",
           "publishedOn": "2026-10-08T00:08:34.000Z",
-          "wordCount": null,
+          "wordCount": 9198,
           "title": "Análise: Há três anos, a Resistência Palestina inaugurava um novo período de revoluções no mundo",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/2023-10-07-diluvio-al-aqsa.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234320",
@@ -670,9 +736,9 @@
           "description": "Maior jornada desde o início das mobilizações reuniu secundaristas, universitários, professores e pais em todo o país. Presente nos bloqueios desde setembro, a organização revolucionária participou de ações em diferentes cidades e defende a união com os trabalhadores contra a repressão e o militarismo.",
           "link": "https://anovademocracia.com.br/franca-juventude-comunista-atua-estudantil/",
           "publishedOn": "2026-10-07T16:50:02.000Z",
-          "wordCount": null,
+          "wordCount": 9672,
           "title": "450 mil marcham na França e Juventude Comunista amplia atuação na rebelião estudantil nacional",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-07-juventude-comunista-lyon-1.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234307",
@@ -680,9 +746,9 @@
           "description": "A extrema direita conseguiu ampliar sua penetração também entre parcelas das massas trabalhadoras e pobres, precisamente durante um governo que se apresentou como representante dessas mesmas massas.",
           "link": "https://anovademocracia.com.br/bolsonaro-abstencao-eleitoral-oportunismo/",
           "publishedOn": "2026-10-07T14:40:29.000Z",
-          "wordCount": null,
+          "wordCount": 8144,
           "title": "Quem favoreceu Flávio Bolsonaro não foi a abstenção eleitoral, mas sim o oportunismo da falsa esquerda",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/0g0a0067-1024x683.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234291",
@@ -690,14 +756,14 @@
           "description": "Campanha de Flávio publica vídeo sob o título “LCP deve ser classificada como terrorista” e requenta a bravata do patriarca Jair Bolsonaro, que já prometera “conter esse terrorismo” em Rondônia e fora derrotado pela grandiosa resistência camponesa em 2020-21. Na conversa com Flávio, Fernando Máximo, eleito senador por Rondônia, associa a LCP ao “crime organizado”, acusa-a de portar fuzis e matar policiais e exige tratá-la como “terrorista”",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-diz-que-lcp-e-terrorista/",
           "publishedOn": "2026-10-07T00:54:59.000Z",
-          "wordCount": null,
+          "wordCount": 9047,
           "title": "Flávio Bolsonaro diz que ‘LCP é terrorista’ e afirma que ela ‘tem dia e hora pra acabar’",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-terrorista-lcp.mp4",
             "length": "27569834",
             "type": "video/mp4"
           },
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/maximo-flavio-marcos-atacam-lcp.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234236",
@@ -705,9 +771,9 @@
           "description": "O programa A Propósito #374 acompanhou a apuração do primeiro turno e debateu o crescente afastamento das massas da velha democracia, a ingerência ianque e o avanço bolsonarista. Com a totalização concluída, cálculo ampliado de AND chegou a um boicote de 51,88 milhões de pessoas – quase a votação individual de cada candidato que passou ao segundo turno.",
           "link": "https://anovademocracia.com.br/boicote-farsa-eleitoral-movimento-popular/",
           "publishedOn": "2026-10-06T21:19:35.000Z",
-          "wordCount": null,
+          "wordCount": 10363,
           "title": "O oportunismo frustra as massas e ‘colabora com o crescimento da extrema direita’: diretor-geral de AND analisa primeiro turno da farsa eleitoral",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/eleicao-nao-sao-paulo-2024-1024x683.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=234256",
@@ -715,29 +781,9 @@
           "description": "A falsa esquerda, hasteando bandeiras vermelhas e governando com a direita, fortalece politicamente a extrema direita. A culpa não é das abstenções, senhoras e senhores, mas do próprio oportunismo.",
           "link": "https://anovademocracia.com.br/eleicoes-falencia-tatica-do-oportunismo/",
           "publishedOn": "2026-10-06T20:17:07.000Z",
-          "wordCount": null,
+          "wordCount": 9000,
           "title": "Os resultados do primeiro turno das eleições demonstram a falência da tática do oportunismo (mais uma vez)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234243",
-          "author": "Redação de AND",
-          "description": "Organização revolucionária aponta mobilização de Sucre como exemplo para o movimento estudantil e conclama Federações Universitárias Locais de todo o país a lutar; retirada do subsídio elevou em cerca de 83% o preço do diesel e provocou aumentos nas tarifas do transporte.",
-          "link": "https://anovademocracia.com.br/juventude-luta-auemnto-passagens-bolivia/",
-          "publishedOn": "2026-10-06T14:22:14.000Z",
-          "wordCount": null,
-          "title": "Guardas Vermelhos convocam juventude universitária à luta contra ‘dieselazo’ e alta das passagens na Bolívia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234239",
-          "author": "Redação de AND",
-          "description": "Frente Estudantil Revolucionária denuncia ofensiva contra espaços de organização estudantil; cerca de 30 alunos e dois professores ficaram feridos no Instituto Satyajit Ray, onde, uma semana depois, militantes hindutva voltaram a tentar entrar à força no campus.",
-          "link": "https://anovademocracia.com.br/estudantes-india-grupos-fascistas/",
-          "publishedOn": "2026-10-06T14:02:51.000Z",
-          "wordCount": null,
-          "title": "Estudantes indianos enfrentam novos ataques de grupos fascistas em universidades de Bengala",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/oportunismo-antessala-fascismo-ok.jpg"
         }
       ]
     },
@@ -752,6 +798,36 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3206344",
+          "author": "Kauany Rocha",
+          "description": "A mesma iniciativa que acompanhou passo a passo as consequências da pandemia de covid-19 lança um conjunto de ferramentas que ajudam a examinar com profundidade uma das grandes expressões da crise civilizatória\nThe post Para entender a fundo as desigualdades globais appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/para-entender-a-fundo-as-desigualdades-globais/",
+          "publishedOn": "2026-10-08T20:55:50.000Z",
+          "wordCount": 5442,
+          "title": "Para entender a fundo as desigualdades globais",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5062546298069781975_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3206311",
+          "author": "Lucas Scatolini",
+          "description": "Com a revitalização dos centros, eles passaram a ser vistos como desafio ao planejamento urbano. Saída é proibir ou regularizá-los? Realocá-los em praças ou construir camelódromos? Uma análise do caso de Juiz de Fora, a partir da visão de especialistas e dos próprios camelôs\nThe post Cidades: O que fazer com os camelôs? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/cidades-o-que-fazer-com-os-camelos/",
+          "publishedOn": "2026-10-08T20:07:33.000Z",
+          "wordCount": 12761,
+          "title": "Cidades: O que fazer com os camelôs?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5062546298069781971_x.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3206269",
+          "author": "Lucas Scatolini",
+          "description": "De volta aos cinemas, Ran é a releitura de Rei Lear sob as lentes de Akira Kurosawa. Rodado nas imediações do monte Fuji, tragédia familiar não abre mão da beleza. Por trás de batalhas grandiosas, a paisagem implacável e um destino patético sobre a miséria humana\nThe post Cinema: nenhuma tirania será absoluta appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/poeticas/cinema-nenhuma-tirania-sera-absoluta/",
+          "publishedOn": "2026-10-08T19:13:43.000Z",
+          "wordCount": 4339,
+          "title": "Cinema: nenhuma tirania será absoluta",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-08-at-16-11-09-17895976876aab17f715b09_1789597687_3x2_md.jpg-imagem-JPEG-768-%C3%97-512-pixels.png"
+        },
         {
           "id": "https://outraspalavras.net/?p=3206176",
           "author": "Lucas Scatolini",
@@ -768,7 +844,7 @@
           "description": "Como o declínio dos serviços públicos abriu, na Itália e no Brasil, caminho para o controle do crime sobre os territórios. Por que o rentismo quase sempre abre as portas aos recursos ilícitos. Qual o papel de políticos como Flávio na trama\nThe post Milícias, Faria Lima e governos: a <i>zona cinza</i> appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/milicias-faria-lima-governos-a-zona-cinza/",
           "publishedOn": "2026-10-07T21:39:53.000Z",
-          "wordCount": 6264,
+          "wordCount": 6286,
           "title": "Milícias, Faria Lima e governos: a zona cinza",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo.jpg"
         },
@@ -778,7 +854,7 @@
           "description": "A longa espera pela consulta, pela vaga, pela casa, pelo ônibus, pelo futuro está levando dezenas de milhares a desistir da política. Serão “pobres de direita”? Ou é preciso refletir sobre uma esquerda que pede confiança apenas por ser menos ruim que a alternativa?\nThe post Perguntas incômodas sobre os que não votaram appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/perguntas-incomodas-sobre-os-que-nao-votaram/",
           "publishedOn": "2026-10-07T20:46:08.000Z",
-          "wordCount": 6827,
+          "wordCount": 6903,
           "title": "Perguntas incômodas sobre os que não votaram",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-07-at-17-44-48-image.webp-imagem-WEBP-1411-%C3%97-794-pixels-Redimensionada-81.png"
         },
@@ -788,7 +864,7 @@
           "description": "Análise da votação de Lula na cidade. Venceu, mas número de votos minguou em relação a 2022. Há chão para recuperá-los: o “cinturão da periferia em transição”, regiões que tiveram melhorias urbanas nas últimas décadas, mas oscilam a cada eleição, entre o lulismo e a ultradireita \nThe post SP: Por onde começar a virada nos bairros populares? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/sp-por-onde-comecar-a-virada-nos-bairros-populares-2/",
           "publishedOn": "2026-10-07T20:18:53.000Z",
-          "wordCount": 3905,
+          "wordCount": 3906,
           "title": "SP: Por onde começar a virada nos bairros populares?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5059988125353970815_w.jpg"
         },
@@ -798,7 +874,7 @@
           "description": "Três anos depois do início do genocídio, rapper foi excluído de turnê de Ed Sheeran, por protestar contra Israel. Ato revela relações da indústria cultural com poder econômico e sionismo. Mas cena musical reagiu, e revela: solidariedade segue possível na nova dinâmica digital\nThe post “Palestina Livre”: o desafio à censura pop appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/palestina-livre-o-desafio-a-censura-pop/",
           "publishedOn": "2026-10-07T19:17:20.000Z",
-          "wordCount": 5027,
+          "wordCount": 5030,
           "title": "“Palestina Livre”: o desafio à censura pop",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5059988125353970789_y.jpg"
         },
@@ -808,7 +884,7 @@
           "description": "Megalópole chinesa é uma das principais smart cities do planeta. Faz até Nova York e Paris parecerem um passado nostálgico. Um relato de várias viagens à cidade mostra o frenesi, os encantos e as contradições de uma modernidade radical e tecnologias futuristas…\nThe post Crônica: Shang Hai, mon amour appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/cronica-xangai-mon-amour/",
           "publishedOn": "2026-10-07T19:09:41.000Z",
-          "wordCount": 5409,
+          "wordCount": 5407,
           "title": "Crônica: Shang Hai, mon amour",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5059988125353970798_y1.jpg"
         },
@@ -818,39 +894,9 @@
           "description": "O mesmo presidente que zombou da luta pela soberania sobre as ilhas tem agora planos para elas. Seus motivos: o interesse de Trump e a possibilidade de uma lei para impor, na prática, um estado de exceção permanente e vigilância sobre os cidadãos\nThe post Argentina: por que Milei reivindica as Malvinas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/argentina-por-que-milei-reivindica-as-malvinas/",
           "publishedOn": "2026-10-06T21:52:41.000Z",
-          "wordCount": 5704,
+          "wordCount": 5701,
           "title": "Argentina: por que Milei reivindica as Malvinas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5055739934546792057_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3205971",
-          "author": "Lucas Scatolini",
-          "description": "Programa do candidato defende informalidade e contratos precários. Vê como entrave o Estado indutor de emprego. Permite a empregadores chantagear por retirada de direitos. Mina garantias de aposentadoria. E, sem surpresa, rejeita o fim da escala 6x1\nThe post Para Flávio, “Brasil que prospera” trabalha sem direitos appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/para-flavio-brasil-que-prospera-trabalha-sem-direitos/",
-          "publishedOn": "2026-10-06T21:50:55.000Z",
-          "wordCount": 4588,
-          "title": "Para Flávio, “Brasil que prospera” trabalha sem direitos",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-06-at-18-49-28-6172053_ca917349e58c147-960x540.webp-imagem-WEBP-960-%C3%97-540-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3206028",
-          "author": "Lucas Scatolini",
-          "description": "Endividadados pelo rentismo, muitos depositaram voto de protesto na ultradireita. Lutar pela redução da jornada pode ser antídoto. E – igualmente importante – abrirá caminho para um Lula 4 livre da jaula neoliberal em que se meteu\nThe post Derrotar Flávio e libertar Lula do arcabouço appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/derrotar-flavio-e-libertar-lula-do-arcabouco/",
-          "publishedOn": "2026-10-06T21:34:16.000Z",
-          "wordCount": 5192,
-          "title": "Derrotar Flávio e libertar Lula do arcabouço",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/50557399345467920351.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3206014",
-          "author": "Lucas Scatolini",
-          "description": "Nas comunidades amazônicas, garantias que a LGPD assegura aos indivíduos não bastam para proteger um grupo. Lacuna afeta territórios, saúde indígena e biopirataria. Em tempos de IA, quais os caminhos para ampliar a proteção jurídica e garantir sua autodeterminação?\nThe post A delicada proteção dos dados indígenas appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/a-delicada-protecao-dos-dados-indigenas/",
-          "publishedOn": "2026-10-06T20:51:15.000Z",
-          "wordCount": 4855,
-          "title": "A delicada proteção dos dados indígenas",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/apib_retrospectiva_juridico_site.jpg"
         }
       ]
     },
@@ -907,6 +953,16 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67297",
+          "author": "Boitempo",
+          "description": "Eleger Lula no segundo turno é a resposta imediata, mas depois de 25 de outubro será preciso reconstruir a esperança em projetos coletivos concretos: sonhar mais, elaborar em conjunto e lutar por novas saídas para nós mesmos.",
+          "link": "https://blogdaboitempo.com.br/2026/10/08/precisamos-ser-mais-do-que-os-fiadores-da-agonia/",
+          "publishedOn": "2026-10-08T16:00:00.000Z",
+          "wordCount": 12298,
+          "title": "Precisamos ser mais do que os fiadores da agonia",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151.webp"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67294",
           "author": "Boitempo",
           "description": "Ronaldo Tadeu de Souza propõe cinco teses de caracterização do primeiro turno de 2026, recusando tanto o desespero quanto o conformismo.",
@@ -922,7 +978,7 @@
           "description": "Nenhum direito social caiu do céu. Jornada, salário mínimo, previdência, descanso, organização sindical e proteção contra acidentes tornaram-se direitos porque homens e mulheres, em greves, tribunais, assembleias e eleições, conseguiram retirar certas dimensões da vida da pura lógica do mercado. Essa retirada nunca é definitiva, e a história que a produziu segue aberta.",
           "link": "https://blogdaboitempo.com.br/2026/10/06/o-tempo-que-nao-se-vende/",
           "publishedOn": "2026-10-06T19:57:09.000Z",
-          "wordCount": 14257,
+          "wordCount": 14413,
           "title": "O tempo que não se vende",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/pzzb6726.webp"
         },
