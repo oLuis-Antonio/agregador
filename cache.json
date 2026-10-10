@@ -34,16 +34,6 @@
           "wordCount": 2749,
           "title": "Adiamento da votação da 6x1 fortalece a reação dos patrões",
           "imageUrl": "https://media.jornalofuturo.com.br/imagem_materia-860x570.jpg"
-        },
-        {
-          "id": "tyEvo0",
-          "author": null,
-          "description": "O acordo que resultou no PL 777, aprovado na ALESP, autoriza, sem garantir, a realocação dos trabalhadores em órgãos estaduais. O texto, vendido como vitória pela oposição, legitima a concessão e oferece incerteza aos trabalhadores",
-          "link": "https://jornalofuturo.com.br/artigo/tyEvo0-pl-de-tarcisio-legitima-a-concessao-e-ferroviarios-de-sp-ficam-sem-garantias-de-realocacao",
-          "publishedOn": "2026-10-06T03:00:00.000Z",
-          "wordCount": 2529,
-          "title": "PL de Tarcísio legitima a concessão e ferroviários de SP ficam sem garantias de realocação",
-          "imageUrl": "https://media.jornalofuturo.com.br/25_ferroviarios-1280x1707.jpg"
         }
       ]
     },
@@ -59,7 +49,7 @@
           "link": "https://opiniaosocialista.com.br/pstu-am-nossa-posicao-no-segundo-turno-das-eleicoes-estaduais/",
           "publishedOn": "2026-10-09T23:52:30.000Z",
           "wordCount": 938,
-          "title": "PSTU-AM: Nossa posição no segundo turno das eleições estaduais",
+          "title": "PSTU-Amazonas: Nossa posição no segundo turno das eleições estaduais",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/pstu_am.webp"
         },
         {
@@ -139,6 +129,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/ABSURDO-PM-reprime-estudantes-da-UFPE-que-faziam-campanha-contra-Flavio-Bolsonaro",
+          "author": "Redação",
+          "description": "Estudantes que faziam campanha contra Flávio Bolsonaro em Casa Amarela foram detidos pela PM de Raquel Lyra. Repudiamos a repressão e exigimos que não haja nenhum processo ou represália contra os estudantes. \n Estudantes da Universidade Federal de Pernambuco (UFPE) foram detidos por policiais militares enquanto faziam campanha contra Flávio Bolsonaro no bairro de Casa Amarela, no Recife. Os jovens panfletavam e distribuíam materiais à população quando foram abordados e levados por PMs. Uma (…)\n09-10-2026\n\n/ Juventude, Recife, Extrema direita, Pernambuco, UFPE, Raquel Lyra",
+          "link": "https://www.esquerdadiario.com.br/ABSURDO-PM-reprime-estudantes-da-UFPE-que-faziam-campanha-contra-Flavio-Bolsonaro",
+          "publishedOn": "2026-10-10T17:46:51.000Z",
+          "wordCount": null,
+          "title": "ABSURDO! PM reprime estudantes da UFPE que faziam campanha contra Flávio Bolsonaro!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Javier-Milei-inspiracao-de-Flavio-licoes-da-esquerda-argentina-no-combate-a-extrema-direita",
+          "author": "André Barbieri",
+          "description": "Reflexões sobre o que nos ensina a esquerda argentina: enfrentar a extrema direita, é com \"Frente Ampla\", ou com a luta de classes independente?\n09-10-2026\n\n/ Internacional, Opinião, PTS na FIT, Myriam Bregman, Partido dos Trabalhadores Socialistas (PTS), Javier Milei , Governo Lula-Alckmin",
+          "link": "https://www.esquerdadiario.com.br/Javier-Milei-inspiracao-de-Flavio-licoes-da-esquerda-argentina-no-combate-a-extrema-direita",
+          "publishedOn": "2026-10-10T15:07:52.000Z",
+          "wordCount": null,
+          "title": "Javier Milei, inspiração de Flávio: lições da esquerda argentina no combate à extrema direita",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/O-PL-se-consolidou-como-um-partido-do-bolsonarismo",
           "author": "Thiago Flamé",
@@ -418,26 +428,6 @@
           "wordCount": null,
           "title": "Internacional reacionária: Trump, Milei e Netanyahu asquerosos declaram apoio a Flávio Bolsonaro após 1° turno",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Historica-jornada-de-luta-de-trabalhadores-e-estudantes-sacode-a-Franca",
-          "author": "Redação",
-          "description": "A revolta estudantil do ensino médio continua apesar da política do governo de fechar as escolas para evitar os protestos. Grande mobilização nacional unifica estudantes e trabalhadores.\n05-10-2026\n\n/ Internacional, Movimento Estudantil, França, Greve Estudantil",
-          "link": "https://www.esquerdadiario.com.br/Historica-jornada-de-luta-de-trabalhadores-e-estudantes-sacode-a-Franca",
-          "publishedOn": "2026-10-06T15:51:38.000Z",
-          "wordCount": null,
-          "title": "Histórica jornada de luta de trabalhadores e estudantes sacode a França",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Enfrentar-a-serio-o-bolsonarismo-com-moderacao-impossivel",
-          "author": "André Barbieri",
-          "description": "Uma reflexão sobre o combate à extrema direita e o fim dos tempos da moderação, à luz da tese de André Singer.\n05-10-2026\n\n/ Opinião, Myriam Bregman, Flavio Bolsonaro, Frente Ampla, Governo Lula-Alckmin, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Enfrentar-a-serio-o-bolsonarismo-com-moderacao-impossivel",
-          "publishedOn": "2026-10-06T15:24:28.000Z",
-          "wordCount": null,
-          "title": "Enfrentar a sério o bolsonarismo: com moderação, impossível",
-          "imageUrl": null
         }
       ]
     },
@@ -542,13 +532,73 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268311",
+          "author": "Tabitha Ramalho",
+          "description": "Um terremoto de magnitude 7,7 atingiu o Panamá na sexta-feira (09/10), por volta do meio-dia, deixando ao menos 27 pessoas com ferimentos leves, cerca de 300 evacuados e mais de 400 edificações afetadas, segundo as autoridades locais. A Comissão Central de Seguridade Social (CSS) confirmou no sábado (10/10) que o país centro-americano não registrou mortes […]\nO post Panamá: terremoto de magnitude 7,7 deixa ao menos 27 feridos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/panama-terremoto-de-magnitude-77-deixa-ao-menos-27-feridos/",
+          "publishedOn": "2026-10-10T19:40:12.000Z",
+          "wordCount": 3459,
+          "title": "Panamá: terremoto de magnitude 7,7 deixa ao menos 27 feridos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-10-161527.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268307",
+          "author": "Tabitha Ramalho",
+          "description": "Após telefonema ao presidente russo, Vladimir Putin, o presidente dos EUA, Donald Trump, declarou neste sábado (10/10) que, em sua opinião, a Ucrânia precisa de um novo líder “capaz de chegar a um acordo” com a Rússia. Em conversa com a imprensa, o republicano afirmou que seu homólogo ucraniano, Volodymyr Zelensky, “quer criar problemas para […]\nO post Após telefonema a Putin, Trump defende saída de Zelensky do poder na Ucrânia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/apos-telefonema-a-putin-trump-defende-saida-de-zelensky-do-poder-na-ucrania/",
+          "publishedOn": "2026-10-10T18:54:18.000Z",
+          "wordCount": 4291,
+          "title": "Após telefonema a Putin, Trump defende saída de Zelensky do poder na Ucrânia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55519335575_4b1e6ff2d7_o-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268303",
+          "author": "Tabitha Ramalho",
+          "description": "A ganhadora do Prêmio Nobel da Paz em 2026, Navi Pillay, criticou as sanções dos Estados Unidos contra o Tribunal Penal Internacional (TPI) e definiu a medida como “inaceitável e sem precedentes”. “Há muita tensão e ansiedade em torno da continuidade dos tribunais internacionais, principalmente o Tribunal Penal Internacional em Haia”, disse a magistrada sul-africana, […]\nO post Vencedora do Nobel da Paz rechaça sanções ‘inaceitáveis’ dos EUA contra TPI apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/vencedora-do-nobel-da-paz-rechaca-sancoes-inaceitaveis-dos-eua-contra-tpi/",
+          "publishedOn": "2026-10-10T17:45:32.000Z",
+          "wordCount": 3838,
+          "title": "Vencedora do Nobel da Paz rechaça sanções ‘inaceitáveis’ dos EUA contra TPI",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/copia-de-nao-deletar-fotos-pb-breno-redacao.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268300",
+          "author": "Tabitha Ramalho",
+          "description": "Mensagens eletrônicas obtidas pela Polícia Federal (PF) indicam que uma conta identificada com o nome do senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República, esteve vinculada ao perfil administrativo de acesso bancário de uma empresa do advogado Willer Tomaz, alvo de investigação por suspeita de lavagem de dinheiro no esquema de fraudes contra aposentados […]\nO post Flávio Bolsonaro dividia conta com investigado por fraude no INSS, indicam e-mails apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-dividia-conta-com-investigado-por-fraude-no-inss-indicam-e-mails/",
+          "publishedOn": "2026-10-10T16:30:28.000Z",
+          "wordCount": 3930,
+          "title": "Flávio Bolsonaro dividia conta com investigado por fraude no INSS, indicam e-mails",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/flavio.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268275",
+          "author": "Fernanda Oliveira",
+          "description": "A abstenção entre brasileiros residentes no exterior no primeiro turno das eleições presidenciais foi recorde neste ano. Segundo o Tribunal Superior Eleitoral (TSE), mais de 916 mil eleitores estão aptos a votar fora do país, mas cerca de 574 mil não compareceram às urnas, o equivalente a 62%. O índice é superior ao registrado em […]\nO post Alta abstenção no exterior mobiliza brasileiros em campanha por caronas e hospedagem apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/alta-abstencao-no-exterior-mobiliza-brasileiros-em-campanha-por-caronas-e-hospedagem/",
+          "publishedOn": "2026-10-10T15:40:11.000Z",
+          "wordCount": 4132,
+          "title": "Alta abstenção no exterior mobiliza brasileiros em campanha por caronas e hospedagem",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/e7982110-f15c-4386-8765-8970bfcf36b1-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268295",
+          "author": "Tabitha Ramalho",
+          "description": "O primeiro-ministro espanhol, Pedro Sánchez, e o principal líder da direita, Alberto Núñez Feijóo, iniciaram a campanha neste sábado (10/10) para as eleições legislativas marcadas para 29 de novembro. O líder socialista prometeu reforçar a legislação sobre habitação, em um momento em que a crise de moradias gera forte mobilização em toda a Espanha. Já […]\nO post Sánchez e oposição de direita iniciam campanha para eleições legislativas na Espanha apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/sanchez-e-oposicao-de-direita-iniciam-campanha-para-eleicoes-legislativas-na-espanha/",
+          "publishedOn": "2026-10-10T14:46:19.000Z",
+          "wordCount": 4182,
+          "title": "Sánchez e oposição de direita iniciam campanha para eleições legislativas na Espanha",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-10-114401.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268292",
           "author": "Tabitha Ramalho",
-          "description": "O Comitê Norueguês do Nobel é uma instituição “corrupta”, declarou o presidente dos EUA, Donald Trump, na sexta-feira (09/10), criticando a decisão de conceder o Prêmio Nobel da Paz a Navanethem ‘Navi’ Pillay, uma jurista sul-africana. “Hoje, o Prêmio Nobel da Paz foi concedido a alguém de quem eu nunca tinha ouvido falar. Ninguém nunca […]\nO post Trump chama Comitê do Nobel de ‘corrupto’ e diz que EUA deveriam ter vencido o prêmio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-chama-comite-do-nobel-de-corrupto-e-diz-que-eua-deveriam-ter-vencido-o-premio/",
+          "description": "O Comitê Norueguês do Nobel é uma instituição “corrupta”, declarou o presidente dos EUA, Donald Trump, na sexta-feira (09/10), criticando a decisão de conceder o Prêmio Nobel da Paz a Navanethem ‘Navi’ Pillay, uma jurista sul-africana. “Hoje, o Prêmio Nobel da Paz foi concedido a alguém de quem eu nunca tinha ouvido falar. Ninguém nunca […]\nO post Após perder Nobel da Paz, Trump chama comitê do prêmio de ‘corrupto’ e diz que EUA deveriam ter vencido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/apos-nobel-trump-chama-comite-de-corrupto-e-diz-que-eua-deveriam-ter-vencido/",
           "publishedOn": "2026-10-10T14:12:17.000Z",
-          "wordCount": 3600,
-          "title": "Trump chama Comitê do Nobel de ‘corrupto’ e diz que EUA deveriam ter vencido o prêmio",
+          "wordCount": 3607,
+          "title": "Após perder Nobel da Paz, Trump chama comitê do prêmio de ‘corrupto’ e diz que EUA deveriam ter vencido",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55536076333_6ce1def758_3k-scaled.jpg"
         },
         {
@@ -557,7 +607,7 @@
           "description": "Duas brasileiras procuraram a embaixada do Brasil em Varsóvia, na Polônia, por se sentirem ameaçadas após uma publicação na rede social X feita pelo deputado polonês da extrema direita Dominik Tarczyński. O parlamentar postou uma foto das duas mulheres no dia do primeiro turno das eleições no Brasil, pedindo informações sobre elas em caráter de […]\nO post Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/brasileiras-na-polonia-procuram-embaixada-apos-ameaca-de-deputado-defensor-de-flavio/",
           "publishedOn": "2026-10-10T13:30:33.000Z",
-          "wordCount": 3125,
+          "wordCount": 3132,
           "title": "Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/ameaca.jpg"
         },
@@ -567,7 +617,7 @@
           "description": "Em época de eleição, poucas palavras provocam tantas paixões, desconfianças e conflitos quanto “direita” e “esquerda”. Elas atravessam debates televisivos, discursos de candidatos, conversas de família e discussões nas redes sociais, servindo tanto para identificar projetos políticos quanto para desqualificar adversários. Mas como esses termos onipresentes nas discussões contemporâneas passaram a representar essas visões de […]\nO post Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/esquerda-x-direita-qual-e-a-origem-das-denominacoes-dadas-aos-espectros-politicos/",
           "publishedOn": "2026-10-09T21:52:38.000Z",
-          "wordCount": 4996,
+          "wordCount": 5007,
           "title": "Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/estatesgeneral.jpg"
         },
@@ -577,69 +627,9 @@
           "description": "Os presidentes da Rússia, Vladimir Putin, e dos Estados Unidos, Donald Trump, revelaram em declarações dadas na tarde desta sexta-feira (09/10) que tiveram uma conversa recente por telefone na qual definiram, entre outras coisas, um acordo para o fornecimento imediato de pouco mais de 300 mil toneladas de diesel russo para o país norte-americano e […]\nO post Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/apos-disparada-do-petroleo-nas-bolsas-trump-busca-putin-para-acordo-sobre-diesel/",
           "publishedOn": "2026-10-09T21:30:24.000Z",
-          "wordCount": 3304,
+          "wordCount": 3311,
           "title": "Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/trumputin.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268274",
-          "author": "Raissa Neves",
-          "description": "A divulgação de um áudio atribuído a Daniel Vorcaro, dono do Banco Master, provocou questionamentos sobre a origem da gravação e a possibilidade de uso político do material contra o presidente Lula durante a campanha eleitoral. Procuradores familiarizados com as investigações do banco e integrantes da defesa do ex-banqueiro suspeitam que o registro possa ter […]\nO post PF e PGR negam relato de Vorcaro sobre financiamento de filme de Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/pf-e-pgr-negam-relato-de-vorcaro-sobre-financiamento-de-filme-de-lula/",
-          "publishedOn": "2026-10-09T21:25:17.000Z",
-          "wordCount": 4007,
-          "title": "PF e PGR negam relato de Vorcaro sobre financiamento de filme de Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/daniel_vorcaro03.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268267",
-          "author": "Victor Farinelli",
-          "description": "Dezenas de milhares de trabalhadores e estudantes foram às ruas de Bruxelas e diversas outras cidades da Bélgica nesta sexta-feira (09/10) para protestar contra o plano de ajuste fiscal promovido pelo governo conservador de Bart de Wever. A marcha reuniu cerca de 50 mil pessoas somente em Bruxelas, segundo um comunicado emitido durante a tarde […]\nO post Após marcha massiva, sindicato ameaça convocar greve geral na Bélgica apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/apos-marcha-massiva-sindicato-ameaca-convocar-greve-geral-na-belgica/",
-          "publishedOn": "2026-10-09T19:30:17.000Z",
-          "wordCount": 3239,
-          "title": "Após marcha massiva, sindicato ameaça convocar greve geral na Bélgica",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/belgica.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268265",
-          "author": "Raissa Neves",
-          "description": "O senador Flávio Bolsonaro (PL) e sua aproximação com lideranças internacionais de direita ganhou novos capítulos nesta semana. O candidato a presidência da república conversou com o primeiro-ministro israelense, Benjamin Netanyahu, que o convidou a visitar Israel, e discutiu com o presidente da Colômbia, Abelardo de la Espriella, uma possível cooperação no combate ao narcotráfico, […]\nO post Netanyahu convida Flávio Bolsonaro para visitar Israel: ‘renovar profunda amizade’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/netanyahu-convida-flavio-bolsonaro-para-visitar-israel-renovar-profunda-amizade/",
-          "publishedOn": "2026-10-09T18:51:22.000Z",
-          "wordCount": 3737,
-          "title": "Netanyahu convida Flávio Bolsonaro para visitar Israel: ‘renovar profunda amizade’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-154136.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268259",
-          "author": "Victor Farinelli",
-          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), expôs nesta sexta-feira (09/10) um relatório de segurança contendo milhares de mensagens publicadas na internet com ameaças de agressões físicas e assassinato contra ministros da Corte. As imagens das mensagens, extraídas de um relatório produzido pelo próprio STF, foram publicadas por Dino em seu perfil verificado […]\nO post Dino apresenta relatório com ameaça de assassinato contra ministros do STF apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/dino-apresenta-relatorio-com-ameaca-de-assassinato-contra-ministros-do-stf/",
-          "publishedOn": "2026-10-09T17:40:07.000Z",
-          "wordCount": 3325,
-          "title": "Dino apresenta relatório com ameaça de assassinato contra ministros do STF",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/dino.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268255",
-          "author": "Tatiana Carlotti",
-          "description": "Um agende federal do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) disparou pelo menos sete vezes contra um carro ocupado por um imigrante dominicano e uma criança de cinco anos em Nova York. O episódio ocorreu nesta quinta-feira (8/10), na West 225th Street, a cerca de um quarteirão da Broadway, junto ao Bronx. […]\nO post Agente do ICE atira sete vezes contra homem com criança de cinco anos no carro em Nova York apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/agente-do-ice-atira-sete-vezes-contra-homem-com-crianca-de-cinco-anos-no-carro-em-nova-york/",
-          "publishedOn": "2026-10-09T16:50:04.000Z",
-          "wordCount": 4183,
-          "title": "Agente do ICE atira sete vezes contra homem com criança de cinco anos no carro em Nova York",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-125243.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268251",
-          "author": "Victor Farinelli",
-          "description": "Uma pesquisa realizada pelo Centro de Investigações Sociológicas da Espanha (CIS) e divulgada nesta quinta-feira (08/10) mostrou que 77% da cidadania espanhola defende uma intervenção do Estado para preservar o direito à moradia e atuar contra a especulação imobiliária. Segundo o estudo, 80% dos entrevistados consideram que a habitação deve ser priorizada como um direito […]\nO post Espanha: pesquisa mostra que 77% apoiam intervenção estatal em crise habitacional apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/espanha-pesquisa-mostra-que-77-apoiam-intervencao-estatal-em-crise-habitacional/",
-          "publishedOn": "2026-10-09T16:00:43.000Z",
-          "wordCount": 3337,
-          "title": "Espanha: pesquisa mostra que 77% apoiam intervenção estatal em crise habitacional",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/faixa.jpg"
         }
       ]
     },
@@ -655,12 +645,57 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234512",
+          "author": "Giovanna Maria",
+          "description": "Caminhoneiro de 35 anos foi baleado diante dos filhos por policiais militares do 19º Batalhão. Familiares, amigos e moradores realizaram bloqueios na BR-101 e em outras vias e exigem a punição dos quatro PMs envolvidos na ação.",
+          "link": "https://anovademocracia.com.br/seis-tiros-moradores-protestam-apos-pm-matar-trabalhador-recife/",
+          "publishedOn": "2026-10-10T19:18:21.000Z",
+          "wordCount": 8103,
+          "title": "‘Seis tiros em um pai de família com os meninos dentro de casa’: moradores protestam após PM matar trabalhador em Recife",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/DSCF0928-1.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234510",
+          "author": "Redação de AND",
+          "description": "Após quase cinco décadas de restrições, EUA fornece milhares de fuzis ao Exército reacionário guatemalteco e amplia exercícios conjuntos com forças especiais responsáveis por massacres durante a guerra contrarrevolucionária no país.",
+          "link": "https://anovademocracia.com.br/eua-arma-treina-contrainsurgentes-guatemala/",
+          "publishedOn": "2026-10-10T18:55:06.000Z",
+          "wordCount": 8234,
+          "title": "EUA amplia fornecimento de armas e treinamento de tropas contrainsurgentes na Guatemala",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/eua-guatemala-contrainsurgente.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234501",
+          "author": "Redação de AND",
+          "description": "Em meio a eleições sob interferência direta do imperialismo ianque, o vassalo Flávio oferece o Brasil à coalizão de Trump, que reúne facções criminosas e grupos insurgentes sob o rótulo de “narcoterrorismo”.",
+          "link": "https://anovademocracia.com.br/flavio-bolsonaro-brasil-escudo-das-americas/",
+          "publishedOn": "2026-10-10T17:01:12.000Z",
+          "wordCount": 8019,
+          "title": "Flávio Bolsonaro promete levar Brasil ao ‘Escudo das Américas’ e abrir caminho à intervenção militar ianque",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-22.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234493",
+          "author": "Giovanna Maria",
+          "description": "Em entrevista ao AND após protesto de centenas de motoboys em Maringá (PR), liderança da categoria denuncia a insegurança nas ruas, a ausência de garantias trabalhistas e defende a união dos entregadores nas paralisações nacionais.",
+          "link": "https://anovademocracia.com.br/motoboy-parana-denuncia-riscos-morte/",
+          "publishedOn": "2026-10-10T16:27:47.000Z",
+          "wordCount": 9094,
+          "title": "‘Isso pode acontecer com qualquer um de nós’: após morte de colega no Paraná, motoboy denuncia riscos e falta de direitos",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/VIDEO-ATROPELAMENTO.mp4",
+            "length": "8799228",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/FOTO-CAPA.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234484",
           "author": "Redação de AND",
           "description": "Estônia, Letônia e Lituânia elevam gastos militares a cerca de 5% do PIB, enquanto Alemanha instala tropas permanentes e amplia investimentos na indústria bélica; ofensiva aprofunda a subjugação dos países bálticos às potências imperialistas.",
           "link": "https://anovademocracia.com.br/paises-balticos-otan-militarizacao-alemao/",
           "publishedOn": "2026-10-09T20:12:26.000Z",
-          "wordCount": 7703,
+          "wordCount": 7707,
           "title": "Países Bálticos: OTAN amplia militarização e impulsiona expansão do imperialismo alemão",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-09-baltico.webp"
         },
@@ -670,7 +705,7 @@
           "description": "Mobilização convocada pelas principais centrais sindicais denuncia ataques aos salários e direitos sociais; paralisações afetaram o transporte público e provocaram o cancelamento de 140 voos.",
           "link": "https://anovademocracia.com.br/belgica-bruxelas-repressao-policial/",
           "publishedOn": "2026-10-09T19:57:36.000Z",
-          "wordCount": 7329,
+          "wordCount": 7333,
           "title": "Bélgica: 30 mil tomam as ruas de Bruxelas contra austeridade e enfrentam repressão policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-09-belgica-1.jpg"
         },
@@ -680,7 +715,7 @@
           "description": "Enquanto bolsonaristas manobram no Senado, proposta subscrita pelo candidato mantém o teto de 44 horas e admite remuneração proporcional. Greve Geral de Resistência Nacional está na ordem do dia!",
           "link": "https://anovademocracia.com.br/extrema-direita-escala-6-por-1-greve-geral/",
           "publishedOn": "2026-10-09T19:34:50.000Z",
-          "wordCount": 8870,
+          "wordCount": 8874,
           "title": "Extrema direita tenta enterrar fim da escala 6 por 1; PEC assinada por Flávio Bolsonaro abre caminho para reduzir salários",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/20026-10-09-greve-geral.jpeg"
         },
@@ -690,7 +725,7 @@
           "description": "Em 2026, o próprio imperialismo ianque dispensou cerimônias: ataques militares a países vizinhos, sanção econômica ao País e fechamento da Embaixada e consulados às vésperas das eleições, tudo para manipular a opinião pública a crer que o “menos pior” é Flávio Bolsonaro.",
           "link": "https://anovademocracia.com.br/editorial-eleicoes-falencia-democracia/",
           "publishedOn": "2026-10-09T18:45:27.000Z",
-          "wordCount": 9034,
+          "wordCount": 9038,
           "title": "Editorial – Eleições sob interferência ianque são a falência da velha democracia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/image-95.png"
         },
@@ -700,7 +735,7 @@
           "description": "Advogado denuncia que agentes da GCM imobilizaram manifestantes enquanto sionistas os agrediam com socos, puxões de cabelo e golpes de mata-leão; entre as vítimas está uma integrante do Vozes Judaicas por Libertação. Rafael Rozenszajn já havia sido rechaçado por anti-imperialistas em Goiás.",
           "link": "https://anovademocracia.com.br/sionistas-agridem-ativistas-palestina-sp/",
           "publishedOn": "2026-10-09T17:40:58.000Z",
-          "wordCount": 8238,
+          "wordCount": 8242,
           "title": "Sionistas e GCM agridem ativistas pró-Palestina na Câmara de São Paulo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-21.png"
         },
@@ -710,49 +745,9 @@
           "description": "AND debate o lançamento das candidaturas presidenciais, o crescente descrédito nas instituições e sua posição histórica sobre o boicote à farsa eleitoral.",
           "link": "https://anovademocracia.com.br/analise-primeiro-turno-eleicoes-2026-375/",
           "publishedOn": "2026-10-08T22:26:26.000Z",
-          "wordCount": 7165,
+          "wordCount": 7169,
           "title": "ASSISTA: Análise do primeiro turno das eleições de 2026 – A Propósito #375",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP375.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234432",
-          "author": "Jaílson de Souza",
-          "description": "A concentração da terra não produz apenas poder econômico no campo. Por meio das oligarquias municipais e regionais, ela se converte em empregos, contratos, favores, crédito, obras e votos, ligando o domínio local à reprodução do Congresso, dos governos estaduais e do próprio sistema político nacional.",
-          "link": "https://anovademocracia.com.br/municipio-terra-voto-oligarquica-sistema/",
-          "publishedOn": "2026-10-08T21:50:22.000Z",
-          "wordCount": 10019,
-          "title": "O município, a terra e o voto: a máquina oligárquica que sustenta o sistema político",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-08-jailson.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234334",
-          "author": "Redação de AND",
-          "description": "Convocação da Liga Anti-imperialista Internacional impulsionou manifestações, atos diante de representações indianas, bloqueios estudantis, reuniões, pichações e outras ações em países da Ásia, Europa e América Latina. No Brasil, estudantes aderiram à campanha em atividades no Rio de Janeiro.",
-          "link": "https://anovademocracia.com.br/liga-anti-imperialista-revolucao-indiana/",
-          "publishedOn": "2026-10-08T20:57:07.000Z",
-          "wordCount": 9443,
-          "title": "De Daca a Londres, campanha internacional da Liga Anti-imperialista leva às ruas apoio à Revolução Indiana",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-08-10-india.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234419",
-          "author": "Redação de AND",
-          "description": "Milhares denunciaram a visita do secretário de Estado ianque e a política do governo grego de colaboração com as guerras do EUA e da OTAN. A polícia bloqueou a marcha rumo à Embaixada do EUA; no dia seguinte, Atenas e Washington acertaram 4 bilhões de dólares em vendas militares.",
-          "link": "https://anovademocracia.com.br/grecia-bloqueio-policia-rubio-marcha-eua/",
-          "publishedOn": "2026-10-08T20:25:52.000Z",
-          "wordCount": 7746,
-          "title": "Grécia: milhares enfrentam bloqueio policial em marcha contra visita de Rubio e colaboração militar com EUA",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/✊️-7Η-ΟΚΤΩΒΡΗ-ΜΕΡΑ-ΤΗΣ-ΑΝΤΙΣΤΑΣΗΣ-ΤΩΝ-ΛΑΩΝΣυγκέντρωση-για-την-υπεράσπιση-της-συμπλήρωσης-των-3-.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234411",
-          "author": "Giovanna Maria",
-          "description": "Bruno Hashimura San Juliano, de 23 anos, foi atingido por quatro disparos. Polícia Civil afastou a tese de legítima defesa e indiciou bombeiro por homicídio qualificado.",
-          "link": "https://anovademocracia.com.br/bombeiro-militar-mata-estudante-de-medicina-a-tiros-durante-discussao-de-transito-em-taubate/",
-          "publishedOn": "2026-10-08T10:40:00.000Z",
-          "wordCount": 7984,
-          "title": "Bombeiro militar mata estudante de Medicina a tiros durante discussão de trânsito em Taubaté",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-20.png"
         }
       ]
     },
@@ -928,7 +923,7 @@
           "description": "Gabriel Teles propõe a categoria de colapso social para nomear não o fim do capitalismo, mas sua forma atual de reprodução. Diante do cenário, a tarefa política parece ser decidir o que precisa ser preservado e quais relações sociais precisam efetivamente perder a capacidade de organizar o mundo.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/o-capitalismo-nao-vai-colapsar-porque-ja-aprendeu-a-administrar-o-colapso/",
           "publishedOn": "2026-10-09T14:29:40.000Z",
-          "wordCount": 9529,
+          "wordCount": 9697,
           "title": "O capitalismo não vai colapsar porque já aprendeu a administrar o colapso",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/rbr5563ta_29_1.webp"
         },
@@ -938,7 +933,7 @@
           "description": "O texto do mês da colunista Bruna Della Torre elabora uma análise profícua sobre a relação entre fascismo e reprodução social. Em diálogo com autoras como Verónica Gago e Silvia Federici, a autora reflete sobre como a fascistização do cuidado precisa ser pensada em conexão com as transformações introduzidas pelo capitalismo de plataforma.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/a-reproducao-fascista-do-cuidado/",
           "publishedOn": "2026-10-09T14:25:36.000Z",
-          "wordCount": 6934,
+          "wordCount": 7102,
           "title": "A reprodução fascista do cuidado",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/img00003-edited.png"
         },
@@ -958,7 +953,7 @@
           "description": "O que um adágio latino, a extrema direita, doenças tropicais, os títulos do Corinthians, duas canções de Chico Buarque e a cena teatral carioca podem ter em comum? Por uma série de associações, Mouzar Benedito revela afinidades eletivas (ou não) entre coisas tão distintas.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/cultura-inutil-dedos-duros-batatas-homens-bons-etc/",
           "publishedOn": "2026-10-09T11:00:00.000Z",
-          "wordCount": 5643,
+          "wordCount": 5802,
           "title": "Cultura inútil | Dedos-duros, batatas, homens bons etc.",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-9.png?fit=1200%2C676&ssl=1"
         },
@@ -968,7 +963,7 @@
           "description": "Eleger Lula no segundo turno é a resposta imediata, mas depois de 25 de outubro será preciso reconstruir a esperança em projetos coletivos concretos: sonhar mais, elaborar em conjunto e lutar por novas saídas para nós mesmos.",
           "link": "https://blogdaboitempo.com.br/2026/10/08/precisamos-ser-mais-do-que-os-fiadores-da-agonia/",
           "publishedOn": "2026-10-08T16:00:00.000Z",
-          "wordCount": 12298,
+          "wordCount": 5870,
           "title": "Precisamos ser mais do que os fiadores da agonia",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151.webp"
         },
@@ -978,7 +973,7 @@
           "description": "Ronaldo Tadeu de Souza propõe cinco teses de caracterização do primeiro turno de 2026, recusando tanto o desespero quanto o conformismo.",
           "link": "https://blogdaboitempo.com.br/2026/10/07/eleicoes-2026-primeiros-resultados-tentativa-de-analise-em-cinco-teses/",
           "publishedOn": "2026-10-07T16:22:34.000Z",
-          "wordCount": 13084,
+          "wordCount": 6656,
           "title": "Eleições 2026, primeiros resultados: tentativa de análise em cinco teses.",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/int6200.webp"
         },
