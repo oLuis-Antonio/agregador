@@ -130,6 +130,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Podemos-aprender-de-nossa-historia-e-nos-inspirar-na-juventude-para-derrotar-Flavio-Bolsonaro-e-o",
+          "author": "Leandro Lanfredi",
+          "description": "O resultado da eleição foi um grande baque em muitos trabalhadores. Precisamos entender como chegamos até aqui, debater e tirar lições de como a conciliação abre caminho para a direita. Essas lições se combinam também com encontrar a energia, a inspiração e as idéias, ao redor de nós e em nossa própria história para assim derrotar Bolsonaro e enfrentar o imperialismo em nosso continente.\n09-10-2026\n\n/ Classe trabalhadora, Greve dos Petroleiros, Donald Trump, Petrobras, Flavio Bolsonaro, Luta de Classes, Petroleiros, O petróleo e as terras raras têm que ser nossos",
+          "link": "https://www.esquerdadiario.com.br/Podemos-aprender-de-nossa-historia-e-nos-inspirar-na-juventude-para-derrotar-Flavio-Bolsonaro-e-o",
+          "publishedOn": "2026-10-10T20:59:37.000Z",
+          "wordCount": null,
+          "title": "Podemos aprender de nossa história e nos inspirar na juventude para derrotar Flávio Bolsonaro e o imperialismo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/ABSURDO-PM-reprime-estudantes-da-UFPE-que-faziam-campanha-contra-Flavio-Bolsonaro",
           "author": "Redação",
           "description": "Estudantes que faziam campanha contra Flávio Bolsonaro em Casa Amarela foram detidos pela PM de Raquel Lyra. Repudiamos a repressão e exigimos que não haja nenhum processo ou represália contra os estudantes. \n Estudantes da Universidade Federal de Pernambuco (UFPE) foram detidos por policiais militares enquanto faziam campanha contra Flávio Bolsonaro no bairro de Casa Amarela, no Recife. Os jovens panfletavam e distribuíam materiais à população quando foram abordados e levados por PMs. Uma (…)\n09-10-2026\n\n/ Juventude, Recife, Extrema direita, Pernambuco, UFPE, Raquel Lyra",
@@ -418,16 +428,6 @@
           "wordCount": null,
           "title": "Estudantes convocam atos pelo país para derrotar Flávio Bolsonaro e a extrema-direita",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Internacional-reacionaria-Trump-Milei-e-Netanyahu-asquerosos-declaram-apoio-a-Flavio-Bolsonaro-apos",
-          "author": "Redação",
-          "description": "O esgoto ideológico da Extrema Direita! Reacionários pelo mundo se manifestam a favor de Flávio Bolsonaro (PL) após votação no primeiro turno. É preciso um programa anti-imperialista que aposte na classe trabalhadora para derrotar a extrema-direita.\n06-10-2026\n\n/ Política, Donald Trump, Flavio Bolsonaro, Benjamin Netanyahu, Javier milei",
-          "link": "https://www.esquerdadiario.com.br/Internacional-reacionaria-Trump-Milei-e-Netanyahu-asquerosos-declaram-apoio-a-Flavio-Bolsonaro-apos",
-          "publishedOn": "2026-10-06T16:16:22.000Z",
-          "wordCount": null,
-          "title": "Internacional reacionária: Trump, Milei e Netanyahu asquerosos declaram apoio a Flávio Bolsonaro após 1° turno",
-          "imageUrl": null
         }
       ]
     },
@@ -532,12 +532,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268316",
+          "author": "Victor Farinelli",
+          "description": "A polícia de Nova Délhi prendeu neste sábado (10/10) mais de mil ativistas de diferentes partidos indianos ligados a partidos e movimentos políticos que se opõem ao governo do presidente Narendra Modi e contra o presidente da Comissão Eleitoral, Gyanesh Kumar, devido a uma atualização da Revisão Intensiva Especial (SIR, na sigla em inglês). A […]\nO post Índia prende líderes comunistas e do ‘Partido das Baratas’ por protestos contra o governo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/india-prende-lideres-comunistas-e-do-partido-das-baratas-por-protestos-contra-o-governo/",
+          "publishedOn": "2026-10-10T22:01:48.000Z",
+          "wordCount": 3339,
+          "title": "Índia prende líderes comunistas e do ‘Partido das Baratas’ por protestos contra o governo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/india.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268314",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente palestino, Mahmoud Abbas, adiou as eleições legislativas para 11 de setembro de 2027, informou a agência de notícias oficial palestina neste sábado (10/10). Previstas anteriormente para 28 de novembro de 2026, as eleições seriam o primeiro pleito palestino em quase 20 anos. O decreto foi emitido após uma reunião de um comitê de […]\nO post Abbas adia eleições legislativas palestinas para 2027 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/abbas-adia-eleicoes-legislativas-palestinas-para-2027/",
+          "publishedOn": "2026-10-10T20:20:26.000Z",
+          "wordCount": 3217,
+          "title": "Abbas adia eleições legislativas palestinas para 2027",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-112632.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268311",
           "author": "Tabitha Ramalho",
           "description": "Um terremoto de magnitude 7,7 atingiu o Panamá na sexta-feira (09/10), por volta do meio-dia, deixando ao menos 27 pessoas com ferimentos leves, cerca de 300 evacuados e mais de 400 edificações afetadas, segundo as autoridades locais. A Comissão Central de Seguridade Social (CSS) confirmou no sábado (10/10) que o país centro-americano não registrou mortes […]\nO post Panamá: terremoto de magnitude 7,7 deixa ao menos 27 feridos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/panama-terremoto-de-magnitude-77-deixa-ao-menos-27-feridos/",
           "publishedOn": "2026-10-10T19:40:12.000Z",
-          "wordCount": 3459,
+          "wordCount": 3443,
           "title": "Panamá: terremoto de magnitude 7,7 deixa ao menos 27 feridos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-10-161527.png"
         },
@@ -547,7 +567,7 @@
           "description": "Após telefonema ao presidente russo, Vladimir Putin, o presidente dos EUA, Donald Trump, declarou neste sábado (10/10) que, em sua opinião, a Ucrânia precisa de um novo líder “capaz de chegar a um acordo” com a Rússia. Em conversa com a imprensa, o republicano afirmou que seu homólogo ucraniano, Volodymyr Zelensky, “quer criar problemas para […]\nO post Após telefonema a Putin, Trump defende saída de Zelensky do poder na Ucrânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/apos-telefonema-a-putin-trump-defende-saida-de-zelensky-do-poder-na-ucrania/",
           "publishedOn": "2026-10-10T18:54:18.000Z",
-          "wordCount": 4291,
+          "wordCount": 4275,
           "title": "Após telefonema a Putin, Trump defende saída de Zelensky do poder na Ucrânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55519335575_4b1e6ff2d7_o-scaled.jpg"
         },
@@ -557,7 +577,7 @@
           "description": "A ganhadora do Prêmio Nobel da Paz em 2026, Navi Pillay, criticou as sanções dos Estados Unidos contra o Tribunal Penal Internacional (TPI) e definiu a medida como “inaceitável e sem precedentes”. “Há muita tensão e ansiedade em torno da continuidade dos tribunais internacionais, principalmente o Tribunal Penal Internacional em Haia”, disse a magistrada sul-africana, […]\nO post Vencedora do Nobel da Paz rechaça sanções ‘inaceitáveis’ dos EUA contra TPI apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/vencedora-do-nobel-da-paz-rechaca-sancoes-inaceitaveis-dos-eua-contra-tpi/",
           "publishedOn": "2026-10-10T17:45:32.000Z",
-          "wordCount": 3838,
+          "wordCount": 3822,
           "title": "Vencedora do Nobel da Paz rechaça sanções ‘inaceitáveis’ dos EUA contra TPI",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/copia-de-nao-deletar-fotos-pb-breno-redacao.jpg"
         },
@@ -567,7 +587,7 @@
           "description": "Mensagens eletrônicas obtidas pela Polícia Federal (PF) indicam que uma conta identificada com o nome do senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República, esteve vinculada ao perfil administrativo de acesso bancário de uma empresa do advogado Willer Tomaz, alvo de investigação por suspeita de lavagem de dinheiro no esquema de fraudes contra aposentados […]\nO post Flávio Bolsonaro dividia conta com investigado por fraude no INSS, indicam e-mails apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-dividia-conta-com-investigado-por-fraude-no-inss-indicam-e-mails/",
           "publishedOn": "2026-10-10T16:30:28.000Z",
-          "wordCount": 3930,
+          "wordCount": 3914,
           "title": "Flávio Bolsonaro dividia conta com investigado por fraude no INSS, indicam e-mails",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/flavio.jpg"
         },
@@ -577,7 +597,7 @@
           "description": "A abstenção entre brasileiros residentes no exterior no primeiro turno das eleições presidenciais foi recorde neste ano. Segundo o Tribunal Superior Eleitoral (TSE), mais de 916 mil eleitores estão aptos a votar fora do país, mas cerca de 574 mil não compareceram às urnas, o equivalente a 62%. O índice é superior ao registrado em […]\nO post Alta abstenção no exterior mobiliza brasileiros em campanha por caronas e hospedagem apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/alta-abstencao-no-exterior-mobiliza-brasileiros-em-campanha-por-caronas-e-hospedagem/",
           "publishedOn": "2026-10-10T15:40:11.000Z",
-          "wordCount": 4132,
+          "wordCount": 4116,
           "title": "Alta abstenção no exterior mobiliza brasileiros em campanha por caronas e hospedagem",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/e7982110-f15c-4386-8765-8970bfcf36b1-scaled.jpg"
         },
@@ -587,7 +607,7 @@
           "description": "O primeiro-ministro espanhol, Pedro Sánchez, e o principal líder da direita, Alberto Núñez Feijóo, iniciaram a campanha neste sábado (10/10) para as eleições legislativas marcadas para 29 de novembro. O líder socialista prometeu reforçar a legislação sobre habitação, em um momento em que a crise de moradias gera forte mobilização em toda a Espanha. Já […]\nO post Sánchez e oposição de direita iniciam campanha para eleições legislativas na Espanha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/sanchez-e-oposicao-de-direita-iniciam-campanha-para-eleicoes-legislativas-na-espanha/",
           "publishedOn": "2026-10-10T14:46:19.000Z",
-          "wordCount": 4182,
+          "wordCount": 4162,
           "title": "Sánchez e oposição de direita iniciam campanha para eleições legislativas na Espanha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-10-114401.png"
         },
@@ -597,7 +617,7 @@
           "description": "O Comitê Norueguês do Nobel é uma instituição “corrupta”, declarou o presidente dos EUA, Donald Trump, na sexta-feira (09/10), criticando a decisão de conceder o Prêmio Nobel da Paz a Navanethem ‘Navi’ Pillay, uma jurista sul-africana. “Hoje, o Prêmio Nobel da Paz foi concedido a alguém de quem eu nunca tinha ouvido falar. Ninguém nunca […]\nO post Após perder Nobel da Paz, Trump chama comitê do prêmio de ‘corrupto’ e diz que EUA deveriam ter vencido apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/apos-nobel-trump-chama-comite-de-corrupto-e-diz-que-eua-deveriam-ter-vencido/",
           "publishedOn": "2026-10-10T14:12:17.000Z",
-          "wordCount": 3607,
+          "wordCount": 3591,
           "title": "Após perder Nobel da Paz, Trump chama comitê do prêmio de ‘corrupto’ e diz que EUA deveriam ter vencido",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55536076333_6ce1def758_3k-scaled.jpg"
         },
@@ -607,29 +627,9 @@
           "description": "Duas brasileiras procuraram a embaixada do Brasil em Varsóvia, na Polônia, por se sentirem ameaçadas após uma publicação na rede social X feita pelo deputado polonês da extrema direita Dominik Tarczyński. O parlamentar postou uma foto das duas mulheres no dia do primeiro turno das eleições no Brasil, pedindo informações sobre elas em caráter de […]\nO post Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/brasileiras-na-polonia-procuram-embaixada-apos-ameaca-de-deputado-defensor-de-flavio/",
           "publishedOn": "2026-10-10T13:30:33.000Z",
-          "wordCount": 3132,
+          "wordCount": 3116,
           "title": "Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/ameaca.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268284",
-          "author": "Raissa Neves",
-          "description": "Em época de eleição, poucas palavras provocam tantas paixões, desconfianças e conflitos quanto “direita” e “esquerda”. Elas atravessam debates televisivos, discursos de candidatos, conversas de família e discussões nas redes sociais, servindo tanto para identificar projetos políticos quanto para desqualificar adversários. Mas como esses termos onipresentes nas discussões contemporâneas passaram a representar essas visões de […]\nO post Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos? apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/esquerda-x-direita-qual-e-a-origem-das-denominacoes-dadas-aos-espectros-politicos/",
-          "publishedOn": "2026-10-09T21:52:38.000Z",
-          "wordCount": 5007,
-          "title": "Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos?",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/estatesgeneral.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268279",
-          "author": "Victor Farinelli",
-          "description": "Os presidentes da Rússia, Vladimir Putin, e dos Estados Unidos, Donald Trump, revelaram em declarações dadas na tarde desta sexta-feira (09/10) que tiveram uma conversa recente por telefone na qual definiram, entre outras coisas, um acordo para o fornecimento imediato de pouco mais de 300 mil toneladas de diesel russo para o país norte-americano e […]\nO post Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/apos-disparada-do-petroleo-nas-bolsas-trump-busca-putin-para-acordo-sobre-diesel/",
-          "publishedOn": "2026-10-09T21:30:24.000Z",
-          "wordCount": 3311,
-          "title": "Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/trumputin.jpg"
         }
       ]
     },
@@ -645,12 +645,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234528",
+          "author": "Redação de AND",
+          "description": "Centenas de milhares de trabalhadores, estudantes e moradores tomaram as ruas de diferentes cidades da Espanha, nas últimas semanas, contra os despejos, o aumento dos aluguéis e a especulação imobiliária. Somente em Madri e Barcelona, duas das maiores manifestações reuniram 620 mil pessoas.",
+          "link": "https://anovademocracia.com.br/espanha-milhares-protestam-contra-despejos/",
+          "publishedOn": "2026-10-10T22:19:28.000Z",
+          "wordCount": 8396,
+          "title": "Centenas de milhares protestam contra despejos e especulação imobiliária na Espanha",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-06-espanha-barcelona-protesto-1024x683.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234512",
           "author": "Giovanna Maria",
           "description": "Caminhoneiro de 35 anos foi baleado diante dos filhos por policiais militares do 19º Batalhão. Familiares, amigos e moradores realizaram bloqueios na BR-101 e em outras vias e exigem a punição dos quatro PMs envolvidos na ação.",
           "link": "https://anovademocracia.com.br/seis-tiros-moradores-protestam-apos-pm-matar-trabalhador-recife/",
           "publishedOn": "2026-10-10T19:18:21.000Z",
-          "wordCount": 8103,
+          "wordCount": 8093,
           "title": "‘Seis tiros em um pai de família com os meninos dentro de casa’: moradores protestam após PM matar trabalhador em Recife",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/DSCF0928-1.jpg"
         },
@@ -738,16 +748,6 @@
           "wordCount": 8242,
           "title": "Sionistas e GCM agridem ativistas pró-Palestina na Câmara de São Paulo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-21.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234439",
-          "author": "Redação de AND",
-          "description": "AND debate o lançamento das candidaturas presidenciais, o crescente descrédito nas instituições e sua posição histórica sobre o boicote à farsa eleitoral.",
-          "link": "https://anovademocracia.com.br/analise-primeiro-turno-eleicoes-2026-375/",
-          "publishedOn": "2026-10-08T22:26:26.000Z",
-          "wordCount": 7169,
-          "title": "ASSISTA: Análise do primeiro turno das eleições de 2026 – A Propósito #375",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP375.jpg"
         }
       ]
     },
@@ -923,7 +923,7 @@
           "description": "Gabriel Teles propõe a categoria de colapso social para nomear não o fim do capitalismo, mas sua forma atual de reprodução. Diante do cenário, a tarefa política parece ser decidir o que precisa ser preservado e quais relações sociais precisam efetivamente perder a capacidade de organizar o mundo.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/o-capitalismo-nao-vai-colapsar-porque-ja-aprendeu-a-administrar-o-colapso/",
           "publishedOn": "2026-10-09T14:29:40.000Z",
-          "wordCount": 9697,
+          "wordCount": 9529,
           "title": "O capitalismo não vai colapsar porque já aprendeu a administrar o colapso",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/rbr5563ta_29_1.webp"
         },
@@ -933,7 +933,7 @@
           "description": "O texto do mês da colunista Bruna Della Torre elabora uma análise profícua sobre a relação entre fascismo e reprodução social. Em diálogo com autoras como Verónica Gago e Silvia Federici, a autora reflete sobre como a fascistização do cuidado precisa ser pensada em conexão com as transformações introduzidas pelo capitalismo de plataforma.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/a-reproducao-fascista-do-cuidado/",
           "publishedOn": "2026-10-09T14:25:36.000Z",
-          "wordCount": 7102,
+          "wordCount": 6934,
           "title": "A reprodução fascista do cuidado",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/img00003-edited.png"
         },
@@ -943,7 +943,7 @@
           "description": "O texto recorre à distinção freudiana entre erro e ilusão: a ilusão não se corrige com informação porque é defesa diante do desamparo, e a extrema direita soube organizá-la ao vender ascensão individual onde o governo oferece proteção social.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/uma-analise-freudiana-da-votacao-na-extrema-direita-no-brasil/",
           "publishedOn": "2026-10-09T14:25:23.000Z",
-          "wordCount": 5864,
+          "wordCount": 5696,
           "title": "Uma análise freudiana da votação na extrema direita no Brasil",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/site-o-futuro-de-uma-ilusao-freud.jpg"
         },
@@ -953,7 +953,7 @@
           "description": "O que um adágio latino, a extrema direita, doenças tropicais, os títulos do Corinthians, duas canções de Chico Buarque e a cena teatral carioca podem ter em comum? Por uma série de associações, Mouzar Benedito revela afinidades eletivas (ou não) entre coisas tão distintas.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/cultura-inutil-dedos-duros-batatas-homens-bons-etc/",
           "publishedOn": "2026-10-09T11:00:00.000Z",
-          "wordCount": 5802,
+          "wordCount": 5643,
           "title": "Cultura inútil | Dedos-duros, batatas, homens bons etc.",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/12/image-9.png?fit=1200%2C676&ssl=1"
         },
@@ -963,7 +963,7 @@
           "description": "Eleger Lula no segundo turno é a resposta imediata, mas depois de 25 de outubro será preciso reconstruir a esperança em projetos coletivos concretos: sonhar mais, elaborar em conjunto e lutar por novas saídas para nós mesmos.",
           "link": "https://blogdaboitempo.com.br/2026/10/08/precisamos-ser-mais-do-que-os-fiadores-da-agonia/",
           "publishedOn": "2026-10-08T16:00:00.000Z",
-          "wordCount": 5870,
+          "wordCount": 5702,
           "title": "Precisamos ser mais do que os fiadores da agonia",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151.webp"
         },
@@ -973,7 +973,7 @@
           "description": "Ronaldo Tadeu de Souza propõe cinco teses de caracterização do primeiro turno de 2026, recusando tanto o desespero quanto o conformismo.",
           "link": "https://blogdaboitempo.com.br/2026/10/07/eleicoes-2026-primeiros-resultados-tentativa-de-analise-em-cinco-teses/",
           "publishedOn": "2026-10-07T16:22:34.000Z",
-          "wordCount": 6656,
+          "wordCount": 6488,
           "title": "Eleições 2026, primeiros resultados: tentativa de análise em cinco teses.",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/int6200.webp"
         },
@@ -983,7 +983,7 @@
           "description": "Nenhum direito social caiu do céu. Jornada, salário mínimo, previdência, descanso, organização sindical e proteção contra acidentes tornaram-se direitos porque homens e mulheres, em greves, tribunais, assembleias e eleições, conseguiram retirar certas dimensões da vida da pura lógica do mercado. Essa retirada nunca é definitiva, e a história que a produziu segue aberta.",
           "link": "https://blogdaboitempo.com.br/2026/10/06/o-tempo-que-nao-se-vende/",
           "publishedOn": "2026-10-06T19:57:09.000Z",
-          "wordCount": 14257,
+          "wordCount": 7661,
           "title": "O tempo que não se vende",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/pzzb6726.webp"
         }
