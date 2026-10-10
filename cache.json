@@ -140,6 +140,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/O-PL-se-consolidou-como-um-partido-do-bolsonarismo",
+          "author": "Thiago Flamé",
+          "description": "A pergunta não é de simples resposta, mas sua importância para o momento atual é evidente.\n09-10-2026\n\n/ Política, bolsonarismo",
+          "link": "https://www.esquerdadiario.com.br/O-PL-se-consolidou-como-um-partido-do-bolsonarismo",
+          "publishedOn": "2026-10-10T13:37:50.000Z",
+          "wordCount": null,
+          "title": "O PL se consolidou como um partido do bolsonarismo?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Os-10-aliados-mais-nojentos-de-Flavio-Bolsonaro-e-porque-combate-los-62203",
           "author": "Kassandra Andrade de Sousa",
           "description": "Com o fim do 1° turno dessas eleições uma legião de figuras nojentas da extrema-direita conformou o congresso mais reacionário da história, com o PL se consolidando como o partido mais sólido da direita ao alcançar a maior bancada partidária desde a redemocratização.\n09-10-2026\n\n/ Opinião, Extrema direita, Flavio Bolsonaro, Tarcísio de Freitas, PL, Derrite, Eleições 2026",
@@ -428,16 +438,6 @@
           "wordCount": null,
           "title": "Enfrentar a sério o bolsonarismo: com moderação, impossível",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Estudantes-e-trabalhadores-convocam-passeata-contra-Flavio-Bolsonaro-e-a-direita-amanha-12h-na",
-          "author": "Redação",
-          "description": "Associações de estudantes e agrupações sindicais estão convocando para amanhã, 07/10, uma grande passeata contra Flávio Bolsonaro e a extrema-direita na Candelária, às 12h.\n06-10-2026\n\n/ Política, Lula, Bolsonaro, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Estudantes-e-trabalhadores-convocam-passeata-contra-Flavio-Bolsonaro-e-a-direita-amanha-12h-na",
-          "publishedOn": "2026-10-06T14:38:30.000Z",
-          "wordCount": null,
-          "title": "Estudantes e trabalhadores convocam passeata contra Flávio Bolsonaro e a direita amanhã,12h na Candelária",
-          "imageUrl": null
         }
       ]
     },
@@ -446,6 +446,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=445410",
+          "author": "Isabella Mota",
+          "description": "Apoiada pela grande imprensa e empoderada pelas urnas, a candidatura de Flávio Bolsonaro promete 'redemocratizar' o país destruindo as instituições por dentro.\nO post Com as bênçãos do Congresso e da imprensa, Flávio Bolsonaro quer terra arrasada apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/10/10/flavio-bolsonaro-projeto-golpismo-reescrever-constituicao/",
+          "publishedOn": "2026-10-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Com as bênçãos do Congresso e da imprensa, Flávio Bolsonaro quer terra arrasada",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/10/wide-2.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/10/wide-2.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=445401",
           "author": "Maurício Moraes",
@@ -475,21 +490,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-10.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445366",
-          "author": "Bianca Pyl",
-          "description": "A eleição consolida a extrema direita em um partido tradicional e mostra que a única chance de Lula evitar a derrota é arriscar uma virada à esquerda\nO post Bolsonarismo engoliu o centro e a saída é à esquerda apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/05/bolsonarismo-engoliu-centro-saida-esquerda/",
-          "publishedOn": "2026-10-05T20:45:29.000Z",
-          "wordCount": null,
-          "title": "Bolsonarismo engoliu o centro e a saída é à esquerda",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/Headerwide-8.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-8.jpg"
         }
       ]
     },
@@ -527,16 +527,6 @@
           "wordCount": 6411,
           "title": "‘Sangue do meu filho nas mãos’: vitória de Tarcísio e Derrite fortalece política de violência policial",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/12/Protesto-marca-um-mes-da-morte-de-Ryan-em-SP-png.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=163827",
-          "author": "Pedro Stropasolas",
-          "description": "Mãe de África Menor pede investigações de três policiais por homicídio em Sorocaba. Defesa cita laudos para contestar versão de confronto e critica atuação do Ministério Público\nO conteúdo No inquérito sobre sua morte, artista é alvo de investigação e PMs são vítimas Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/no-inquerito-sobre-sua-morte-artista-e-alvo-de-investigacao-e-pms-sao-vitimas/",
-          "publishedOn": "2026-10-05T19:28:43.000Z",
-          "wordCount": 6629,
-          "title": "No inquérito sobre sua morte, artista é alvo de investigação e PMs são vítimas",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2025/10/reginaldo-junior.webp"
         }
       ]
     },
@@ -552,12 +542,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268292",
+          "author": "Tabitha Ramalho",
+          "description": "O Comitê Norueguês do Nobel é uma instituição “corrupta”, declarou o presidente dos EUA, Donald Trump, na sexta-feira (09/10), criticando a decisão de conceder o Prêmio Nobel da Paz a Navanethem ‘Navi’ Pillay, uma jurista sul-africana. “Hoje, o Prêmio Nobel da Paz foi concedido a alguém de quem eu nunca tinha ouvido falar. Ninguém nunca […]\nO post Trump chama Comitê do Nobel de ‘corrupto’ e diz que EUA deveriam ter vencido o prêmio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/trump-chama-comite-do-nobel-de-corrupto-e-diz-que-eua-deveriam-ter-vencido-o-premio/",
+          "publishedOn": "2026-10-10T14:12:17.000Z",
+          "wordCount": 3600,
+          "title": "Trump chama Comitê do Nobel de ‘corrupto’ e diz que EUA deveriam ter vencido o prêmio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55536076333_6ce1def758_3k-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268289",
+          "author": "Victor Farinelli",
+          "description": "Duas brasileiras procuraram a embaixada do Brasil em Varsóvia, na Polônia, por se sentirem ameaçadas após uma publicação na rede social X feita pelo deputado polonês da extrema direita Dominik Tarczyński. O parlamentar postou uma foto das duas mulheres no dia do primeiro turno das eleições no Brasil, pedindo informações sobre elas em caráter de […]\nO post Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/brasileiras-na-polonia-procuram-embaixada-apos-ameaca-de-deputado-defensor-de-flavio/",
+          "publishedOn": "2026-10-10T13:30:33.000Z",
+          "wordCount": 3125,
+          "title": "Brasileiras na Polônia procuram embaixada após ameaça de deputado defensor de Flávio",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/ameaca.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268284",
           "author": "Raissa Neves",
           "description": "Em época de eleição, poucas palavras provocam tantas paixões, desconfianças e conflitos quanto “direita” e “esquerda”. Elas atravessam debates televisivos, discursos de candidatos, conversas de família e discussões nas redes sociais, servindo tanto para identificar projetos políticos quanto para desqualificar adversários. Mas como esses termos onipresentes nas discussões contemporâneas passaram a representar essas visões de […]\nO post Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/esquerda-x-direita-qual-e-a-origem-das-denominacoes-dadas-aos-espectros-politicos/",
           "publishedOn": "2026-10-09T21:52:38.000Z",
-          "wordCount": 4992,
+          "wordCount": 4996,
           "title": "Esquerda x Direita: qual é a origem das denominações dadas aos espectros políticos?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/estatesgeneral.jpg"
         },
@@ -567,7 +577,7 @@
           "description": "Os presidentes da Rússia, Vladimir Putin, e dos Estados Unidos, Donald Trump, revelaram em declarações dadas na tarde desta sexta-feira (09/10) que tiveram uma conversa recente por telefone na qual definiram, entre outras coisas, um acordo para o fornecimento imediato de pouco mais de 300 mil toneladas de diesel russo para o país norte-americano e […]\nO post Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/apos-disparada-do-petroleo-nas-bolsas-trump-busca-putin-para-acordo-sobre-diesel/",
           "publishedOn": "2026-10-09T21:30:24.000Z",
-          "wordCount": 3300,
+          "wordCount": 3304,
           "title": "Após disparada do petróleo nas bolsas, Trump busca Putin para acordo sobre diesel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/trumputin.jpg"
         },
@@ -577,7 +587,7 @@
           "description": "A divulgação de um áudio atribuído a Daniel Vorcaro, dono do Banco Master, provocou questionamentos sobre a origem da gravação e a possibilidade de uso político do material contra o presidente Lula durante a campanha eleitoral. Procuradores familiarizados com as investigações do banco e integrantes da defesa do ex-banqueiro suspeitam que o registro possa ter […]\nO post PF e PGR negam relato de Vorcaro sobre financiamento de filme de Lula apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/pf-e-pgr-negam-relato-de-vorcaro-sobre-financiamento-de-filme-de-lula/",
           "publishedOn": "2026-10-09T21:25:17.000Z",
-          "wordCount": 4003,
+          "wordCount": 4007,
           "title": "PF e PGR negam relato de Vorcaro sobre financiamento de filme de Lula",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/daniel_vorcaro03.webp"
         },
@@ -587,7 +597,7 @@
           "description": "Dezenas de milhares de trabalhadores e estudantes foram às ruas de Bruxelas e diversas outras cidades da Bélgica nesta sexta-feira (09/10) para protestar contra o plano de ajuste fiscal promovido pelo governo conservador de Bart de Wever. A marcha reuniu cerca de 50 mil pessoas somente em Bruxelas, segundo um comunicado emitido durante a tarde […]\nO post Após marcha massiva, sindicato ameaça convocar greve geral na Bélgica apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/apos-marcha-massiva-sindicato-ameaca-convocar-greve-geral-na-belgica/",
           "publishedOn": "2026-10-09T19:30:17.000Z",
-          "wordCount": 3235,
+          "wordCount": 3239,
           "title": "Após marcha massiva, sindicato ameaça convocar greve geral na Bélgica",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/belgica.jpg"
         },
@@ -597,7 +607,7 @@
           "description": "O senador Flávio Bolsonaro (PL) e sua aproximação com lideranças internacionais de direita ganhou novos capítulos nesta semana. O candidato a presidência da república conversou com o primeiro-ministro israelense, Benjamin Netanyahu, que o convidou a visitar Israel, e discutiu com o presidente da Colômbia, Abelardo de la Espriella, uma possível cooperação no combate ao narcotráfico, […]\nO post Netanyahu convida Flávio Bolsonaro para visitar Israel: ‘renovar profunda amizade’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/netanyahu-convida-flavio-bolsonaro-para-visitar-israel-renovar-profunda-amizade/",
           "publishedOn": "2026-10-09T18:51:22.000Z",
-          "wordCount": 3733,
+          "wordCount": 3737,
           "title": "Netanyahu convida Flávio Bolsonaro para visitar Israel: ‘renovar profunda amizade’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-154136.png"
         },
@@ -607,7 +617,7 @@
           "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), expôs nesta sexta-feira (09/10) um relatório de segurança contendo milhares de mensagens publicadas na internet com ameaças de agressões físicas e assassinato contra ministros da Corte. As imagens das mensagens, extraídas de um relatório produzido pelo próprio STF, foram publicadas por Dino em seu perfil verificado […]\nO post Dino apresenta relatório com ameaça de assassinato contra ministros do STF apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/dino-apresenta-relatorio-com-ameaca-de-assassinato-contra-ministros-do-stf/",
           "publishedOn": "2026-10-09T17:40:07.000Z",
-          "wordCount": 3321,
+          "wordCount": 3325,
           "title": "Dino apresenta relatório com ameaça de assassinato contra ministros do STF",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/dino.jpg"
         },
@@ -617,7 +627,7 @@
           "description": "Um agende federal do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) disparou pelo menos sete vezes contra um carro ocupado por um imigrante dominicano e uma criança de cinco anos em Nova York. O episódio ocorreu nesta quinta-feira (8/10), na West 225th Street, a cerca de um quarteirão da Broadway, junto ao Bronx. […]\nO post Agente do ICE atira sete vezes contra homem com criança de cinco anos no carro em Nova York apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/agente-do-ice-atira-sete-vezes-contra-homem-com-crianca-de-cinco-anos-no-carro-em-nova-york/",
           "publishedOn": "2026-10-09T16:50:04.000Z",
-          "wordCount": 4179,
+          "wordCount": 4183,
           "title": "Agente do ICE atira sete vezes contra homem com criança de cinco anos no carro em Nova York",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-125243.png"
         },
@@ -627,29 +637,9 @@
           "description": "Uma pesquisa realizada pelo Centro de Investigações Sociológicas da Espanha (CIS) e divulgada nesta quinta-feira (08/10) mostrou que 77% da cidadania espanhola defende uma intervenção do Estado para preservar o direito à moradia e atuar contra a especulação imobiliária. Segundo o estudo, 80% dos entrevistados consideram que a habitação deve ser priorizada como um direito […]\nO post Espanha: pesquisa mostra que 77% apoiam intervenção estatal em crise habitacional apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/espanha-pesquisa-mostra-que-77-apoiam-intervencao-estatal-em-crise-habitacional/",
           "publishedOn": "2026-10-09T16:00:43.000Z",
-          "wordCount": 3333,
+          "wordCount": 3337,
           "title": "Espanha: pesquisa mostra que 77% apoiam intervenção estatal em crise habitacional",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/faixa.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268248",
-          "author": "Tatiana Carlotti",
-          "description": "O Conselho de Cooperação do Golfo (CCG) condenou, nesta sexta-feira (9/10), os ataques dos Houthis do Iêmen contra o Aeroporto Internacional Rei Khalid, em Riad, capital da Arábia Saudita. A ofensiva, realizada na quinta-feira (8/10), deixou três cidadãos sauditas mortos e vários feridos, em meio à escalada dos confrontos entre o movimento iemenita e a […]\nO post Países do Golfo condenam ataque dos Houthis contra aeroporto na Arábia Saudita apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/paises-do-golfo-condenam-ataque-dos-houthis-contra-aeroporto-na-arabia-saudita/",
-          "publishedOn": "2026-10-09T15:23:23.000Z",
-          "wordCount": 3432,
-          "title": "Países do Golfo condenam ataque dos Houthis contra aeroporto na Arábia Saudita",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/domestic_departures_riyadh_airport.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268233",
-          "author": "Tatiana Carlotti",
-          "description": "O senador Flávio Bolsonaro (PL) aparece à frente do presidente Luiz Inácio Lula da Silva (PT) em uma simulação de segundo turno da eleição presidencial, segundo pesquisa AtlasIntel/Bloomberg divulgada nesta sexta-feira (09/10). O parlamentar registra 52,8% dos votos válidos, enquanto o atual chefe do Executivo soma 47,2%, uma diferença de 5,6 pontos percentuais. Os números […]\nO post AtlasIntel: Flávio Bolsonaro tem 52,8% dos votos válidos contra 47,2% de Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/atlasintel-flavio-bolsonaro-tem-528-dos-votos-validos-contra-472-de-lula/",
-          "publishedOn": "2026-10-09T14:14:45.000Z",
-          "wordCount": 3847,
-          "title": "AtlasIntel: Flávio Bolsonaro tem 52,8% dos votos válidos contra 47,2% de Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-112215.png"
         }
       ]
     },
@@ -896,12 +886,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160037",
+          "author": "FP",
+          "description": "A rede de resposta rápida das Cidades Gêmeas se formou como uma operação de contrainteligência para deter a Gestapo de Trump. Por Connor O'Callaghan",
+          "link": "https://passapalavra.info/2026/10/160037/",
+          "publishedOn": "2026-10-10T08:59:30.000Z",
+          "wordCount": 9242,
+          "title": "Revolução, poder dual e a rede de resposta rápida das Cidades Gêmeas",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/black-square-and-red-square-1915.jpgLarge.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=160046",
           "author": "FP",
           "description": "Wendy Chartrand, famosa por pintar um retrato de Donald Trump usando merda, declarou: “se não podemos fazer nada para mudar as coisas, vamos pelo menos rir delas“. Passa Palavra",
           "link": "https://passapalavra.info/2026/10/160046/",
           "publishedOn": "2026-10-08T11:57:33.000Z",
-          "wordCount": 3845,
+          "wordCount": 3857,
           "title": "Pelo menos rir",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         },
@@ -911,29 +911,9 @@
           "description": "Em que condições a classe trabalhadora pode voltar a se organizar como classe? Por Gabriel Teles",
           "link": "https://passapalavra.info/2026/10/160016/",
           "publishedOn": "2026-10-06T11:31:08.000Z",
-          "wordCount": 7052,
+          "wordCount": 7056,
           "title": "A urna e a luta de classes",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/Topor-4.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160014",
-          "author": "Passa Palavra",
-          "description": "Vigilantes da UERJ são amaeaçados de terem que compensar horário por demora em tempo de votação. Por Invisíveis.",
-          "link": "https://passapalavra.info/2026/10/160014/",
-          "publishedOn": "2026-10-05T20:39:47.000Z",
-          "wordCount": 4177,
-          "title": "[Rio de Janeiro] Eleições 2026: Multiserv assedia vigilantes",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/05/MOVIMENTO_LUTA.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160012",
-          "author": "Passa Palavra",
-          "description": "",
-          "link": "https://passapalavra.info/2026/10/160012/",
-          "publishedOn": "2026-10-05T18:21:37.000Z",
-          "wordCount": 3839,
-          "title": "Velha Toupeira (47)",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/VT047-TRUMP-E-AS-MENTIRAS.jpg"
         }
       ]
     },
@@ -968,7 +948,7 @@
           "description": "O texto recorre à distinção freudiana entre erro e ilusão: a ilusão não se corrige com informação porque é defesa diante do desamparo, e a extrema direita soube organizá-la ao vender ascensão individual onde o governo oferece proteção social.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/uma-analise-freudiana-da-votacao-na-extrema-direita-no-brasil/",
           "publishedOn": "2026-10-09T14:25:23.000Z",
-          "wordCount": 5696,
+          "wordCount": 5864,
           "title": "Uma análise freudiana da votação na extrema direita no Brasil",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/site-o-futuro-de-uma-ilusao-freud.jpg"
         },
@@ -988,7 +968,7 @@
           "description": "Eleger Lula no segundo turno é a resposta imediata, mas depois de 25 de outubro será preciso reconstruir a esperança em projetos coletivos concretos: sonhar mais, elaborar em conjunto e lutar por novas saídas para nós mesmos.",
           "link": "https://blogdaboitempo.com.br/2026/10/08/precisamos-ser-mais-do-que-os-fiadores-da-agonia/",
           "publishedOn": "2026-10-08T16:00:00.000Z",
-          "wordCount": 5702,
+          "wordCount": 12298,
           "title": "Precisamos ser mais do que os fiadores da agonia",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151.webp"
         },
@@ -998,7 +978,7 @@
           "description": "Ronaldo Tadeu de Souza propõe cinco teses de caracterização do primeiro turno de 2026, recusando tanto o desespero quanto o conformismo.",
           "link": "https://blogdaboitempo.com.br/2026/10/07/eleicoes-2026-primeiros-resultados-tentativa-de-analise-em-cinco-teses/",
           "publishedOn": "2026-10-07T16:22:34.000Z",
-          "wordCount": 6488,
+          "wordCount": 13084,
           "title": "Eleições 2026, primeiros resultados: tentativa de análise em cinco teses.",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/int6200.webp"
         },
@@ -1008,7 +988,7 @@
           "description": "Nenhum direito social caiu do céu. Jornada, salário mínimo, previdência, descanso, organização sindical e proteção contra acidentes tornaram-se direitos porque homens e mulheres, em greves, tribunais, assembleias e eleições, conseguiram retirar certas dimensões da vida da pura lógica do mercado. Essa retirada nunca é definitiva, e a história que a produziu segue aberta.",
           "link": "https://blogdaboitempo.com.br/2026/10/06/o-tempo-que-nao-se-vende/",
           "publishedOn": "2026-10-06T19:57:09.000Z",
-          "wordCount": 7661,
+          "wordCount": 14257,
           "title": "O tempo que não se vende",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/pzzb6726.webp"
         }
