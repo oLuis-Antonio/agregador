@@ -71,36 +71,6 @@
           "wordCount": 1387,
           "title": "Tarcísio reeleito: organizar a luta contra a extrema direita em São Paulo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/tarcisio_site.webp"
-        },
-        {
-          "id": "6ac64b5959cc9a035807593c",
-          "author": "PSTU-DF",
-          "description": "O PSTU apresentou uma alternativa socialista contra a extrema-direita e a Frente Ampla no 1º turno; no 2º turno, chamamos o voto crítico em Leandro Grass para derrotar a extrema-direita nas urnas e nas ruas",
-          "link": "https://opiniaosocialista.com.br/nota-publica-do-pstu-df/",
-          "publishedOn": "2026-10-07T13:42:59.000Z",
-          "wordCount": 2036,
-          "title": "Nota pública do PSTU-DF",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/pstu_df.jpeg"
-        },
-        {
-          "id": "6ac641f359cc9a03580758ff",
-          "author": "Redação",
-          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
-          "link": "https://opiniaosocialista.com.br/eleicoes-o-que-o-brasil-necessita-ep-289/",
-          "publishedOn": "2026-10-07T12:58:43.000Z",
-          "wordCount": 433,
-          "title": "ELEIÇÕES: O QUE O BRASIL NECESSITA EP #289",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
-        },
-        {
-          "id": "6ac6392859cc9a03580758de",
-          "author": "Direção Nacional do PSTU",
-          "description": "Para enfrentar a extrema direita e Trump, é preciso mobilização e organização dos trabalhadores, independência de classe e uma alternativa socialista que supere o projeto do PT",
-          "link": "https://opiniaosocialista.com.br/contra-bolsonaro-voto-critico-no-13-e-nenhum-apoio-ao-governo-lula/",
-          "publishedOn": "2026-10-07T12:52:31.000Z",
-          "wordCount": 1219,
-          "title": "Contra Bolsonaro: Voto crítico no 13, e nenhum apoio ao governo Lula",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/bolsonaro-morto.webp"
         }
       ]
     },
@@ -109,6 +79,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Atos-massivos-mostram-a-forca-social-para-derrotar-Flavio-Bolsonaro-a-6x1-e-o-imperialismo",
+          "author": "Redação",
+          "description": "Há forças sociais que desejam combater nas ruas o reacionarismo bolsonarista e o imperialismo norte-americano.\nMatérias\n\n/ Flavio Bolsonaro, Governo Lula, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Atos-massivos-mostram-a-forca-social-para-derrotar-Flavio-Bolsonaro-a-6x1-e-o-imperialismo",
+          "publishedOn": "2026-10-12T00:16:48.000Z",
+          "wordCount": null,
+          "title": "Atos massivos mostram a força social para derrotar Flávio Bolsonaro, a 6x1 e o imperialismo",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Com-a-presenca-de-Lula-multidao-ocupa-a-Av-Paulista-contra-Flavio-Bolsonaro",
           "author": "Redação",
@@ -160,10 +140,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.esquerdadiario.com.br/A-juventude-brasileira-e-de-direita-Entre-deputados-asquerosos-e-bandeira-queimadas",
+          "id": "https://www.esquerdadiario.com.br/A-juventude-brasileira-e-de-direita-Entre-deputados-asquerosos-e-bandeiras-queimadas",
           "author": "Vitória Camargo",
           "description": "\"Ele acabou de eleger a maior bancada jovem conservadora do Brasil, agradeço ao Nikolas e ao Jair Bolsonaro\", disse Lucas Pavanato. Com mais de 3 milhões de votos cada um, Nikolas Ferreira (PL-MG) e Lucas Pavanato (PL-SP) não apenas foram os deputados federais mais votados do país, como emplacaram recordes históricos na Câmara dos Deputados. O desempenho eleitoral dessas figuras odiosas puxou para o Congresso Nacional e Assembleias Legislativas o que vem sendo chamada de \"a bancada do Nikolas\": um bloco de parlamentares jovens (em geral, abaixo dos 30 anos), com milhões de seguidores nas redes sociais e alinhados a um discurso arqui reacionário. A partir disso, uma pergunta reaparece no debate público: afinal, a juventude brasileira tornou-se, de fato, conservadora? Os dias que se seguiram ao primeiro turno, marcados por manifestações de dezenas de milhares de estudantes e assembleias de centenas nas universidades para enfrentar e derrotar a extrema direita, dão pistas sobre essa questão. “Ser jovem e não ser revolucionário é contradição genética”, diz um cartaz parafraseando Che Guevara nas mãos de uma secundarista nas ruas do Rio de Janeiro.\n09-10-2026\n\n/ Movimento Estudantil, Ditadura militar, Juventude trabalhadora, Flavio Bolsonaro, Nikolas Ferreira",
-          "link": "https://www.esquerdadiario.com.br/A-juventude-brasileira-e-de-direita-Entre-deputados-asquerosos-e-bandeira-queimadas",
+          "link": "https://www.esquerdadiario.com.br/A-juventude-brasileira-e-de-direita-Entre-deputados-asquerosos-e-bandeiras-queimadas",
           "publishedOn": "2026-10-11T15:26:56.000Z",
           "wordCount": null,
           "title": "A juventude brasileira é de direita? Entre deputados asquerosos e bandeiras queimadas",
@@ -398,16 +378,6 @@
           "wordCount": null,
           "title": "Flávio Bolsonaro ameaça a juventude negra com redução da maioridade penal mudando a Constituição",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Estudantes-no-RJ-realizam-forte-ato-contra-a-extrema-direita-e-Flavio-Bolsonaro",
-          "author": "Redação",
-          "description": "Hoje, estudantes do Rio de Janeiro tomaram as ruas contra Flávio Bolsonaro e sua corja da extrema direita. O caminho precisa ser o da mobilização independente e anti-imperialista para derrotar o projeto da extrema direita, contra todo entreguismo a Trump e pelo fim imediato da escala 6x1.\n07-10-2026\n\n/ Rio de Janeiro, Extrema direita, Flavio Bolsonaro, Protestos, escala 6x1, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Estudantes-no-RJ-realizam-forte-ato-contra-a-extrema-direita-e-Flavio-Bolsonaro",
-          "publishedOn": "2026-10-07T22:25:46.000Z",
-          "wordCount": null,
-          "title": "Estudantes no RJ realizam forte ato contra a extrema-direita e Flávio Bolsonaro",
-          "imageUrl": null
         }
       ]
     },
@@ -497,12 +467,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268360",
+          "author": "Rocio Paik",
+          "description": "A Coreia do Norte lançou nesta segunda-feira (12/10) uma série de mísseis balísticos em direção ao Mar do Leste, de acordo com as atualizações do Exército sul-coreano, acrescentando que foram detectados pelo menos dois mísseis a partir da área de Pyongyang. Os dispositivos voaram mais de 900 quilômetros. Conforme a mídia local, a ação pode […]\nO post Coreia do Norte lança mísseis balísticos no Mar do Leste em meio a tensões com Seul apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-lanca-misseis-balisticos-no-mar-do-leste-em-meio-a-tensoes-com-seul/",
+          "publishedOn": "2026-10-12T04:40:10.000Z",
+          "wordCount": 3323,
+          "title": "Coreia do Norte lança mísseis balísticos no Mar do Leste em meio a tensões com Seul",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/0003141699_001_20261012112810934.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268357",
+          "author": "Rocio Paik",
+          "description": "O presidente da Ucrânia, Volodymyr Zelensky, revelou ao portal Axios no domingo (11/10) que não tinha conhecimento sobre o acordo de cessar-fogo energético com a Rússia anunciado pelo mandatário norte-americano Donald Trump. No entanto, disse que estaria disposto a concordar com a medida caso Moscou fizesse o mesmo. “O anúncio desse cessar-fogo foi uma novidade […]\nO post Zelensky diz desconhecer cessar-fogo energético com Rússia anunciado por Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/zelensky-diz-desconhecer-cessar-fogo-energetico-com-russia-anunciado-por-trump/",
+          "publishedOn": "2026-10-12T00:32:00.000Z",
+          "wordCount": 3131,
+          "title": "Zelensky diz desconhecer cessar-fogo energético com Rússia anunciado por Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/humjrlwx0aew76q-scaled.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268352",
+          "author": "Tabitha Ramalho",
+          "description": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax, parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada […]\nO post Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira/",
+          "publishedOn": "2026-10-11T20:52:56.000Z",
+          "wordCount": 3549,
+          "title": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/53648100892_c7c30dc128_o.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268348",
+          "author": "Victor Farinelli",
+          "description": "O corregedor-geral eleitoral, ministro Ricardo Vilas Bôas Cuêva, derrubou neste domingo (11/10) a decisão do presidente da Corte, Kassio Nunes Marques, que suspendeu o canal “Exército do Lula”, criado no WhatsApp para postagens de apoios ao candidato à reeleição Luiz Inácio Lula da Silva (PT). Neste sábado (10/10), Vilas Bôas Cuêva, relator do processo, pediu […]\nO post Corregedor derruba decisão que suspendeu canal ‘Exército do Lula’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/corregedor-derruba-decisao-que-suspendeu-canal-exercito-do-lula/",
+          "publishedOn": "2026-10-11T20:16:20.000Z",
+          "wordCount": 3416,
+          "title": "Corregedor derruba decisão que suspendeu canal ‘Exército do Lula’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/janones.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268346",
+          "author": "Tabitha Ramalho",
+          "description": "Após o primeiro turno das eleições presidenciais de 2026, movimentos estudantis e diversas organizações sociais no Brasil foram às ruas neste domingo (11/10) para apoiar a reeleição do presidente Luiz Inácio Lula da Silva e se opor à extrema direita, representada pelo senador Flávio Bolsonaro. “Estamos aqui para barrar o fascismo, para manter os direitos, […]\nO post ‘Para barrar o fascismo’: brasileiros vão às ruas de várias cidades em apoio a Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/para-barrar-o-fascismo-brasileiros-vao-as-ruas-de-varias-cidades-em-apoio-a-lula/",
+          "publishedOn": "2026-10-11T20:08:57.000Z",
+          "wordCount": 3764,
+          "title": "‘Para barrar o fascismo’: brasileiros vão às ruas de várias cidades em apoio a Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-11-at-17.01.00.jpeg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268342",
           "author": "Victor Farinelli",
           "description": "Após o incêndio que atingiu o prédio da Diretoria de Inovação e Empreendedorismo (Dine) da Universidade Federal de Pernambuco (UFPE), o governo Lula anunciou uma série de medidas de reconstrução e ampliação das estruturas atingidas e para a continuidade dos trabalhos dos pesquisadores. As ações foram anunciadas pelos ministérios da Educação (MEC) e da Ciência, […]\nO post Governo Lula destina verba para reconstrução de laboratórios atingidos em incêndio na UFPE apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/governo-lula-destina-verba-para-reconstrucao-de-laboratorios-atingidos-em-incendio-na-ufpe/",
           "publishedOn": "2026-10-11T19:30:51.000Z",
-          "wordCount": 3920,
+          "wordCount": 3914,
           "title": "Governo Lula destina verba para reconstrução de laboratórios atingidos em incêndio na UFPE",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/luciana-santos.jpg"
         },
@@ -512,7 +532,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, anunciou neste domingo (11/10) uma trégua entre Rússia e Ucrânia para suspender ataques contra infraestruturas energéticas. “Com efeito imediato, entra em vigor um cessar-fogo energético na guerra entre a Rússia e a Ucrânia. Ambas as partes concordaram. Não o quebrem!”, escreveu ele em sua plataforma Truth Social. A […]\nO post Trump anuncia cessar-fogo energético ‘imediato’ entre Rússia e Ucrânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/trump-anuncia-cessar-fogo-energetico-imediato-entre-russia-e-ucrania/",
           "publishedOn": "2026-10-11T18:40:57.000Z",
-          "wordCount": 3195,
+          "wordCount": 3189,
           "title": "Trump anuncia cessar-fogo energético ‘imediato’ entre Rússia e Ucrânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55485006791_3576c7a22b_o-scaled.jpg"
         },
@@ -522,7 +542,7 @@
           "description": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou neste domingo (11/10) a suspensão do canal “Exército do Lula”, criado no WhatsApp para postagens de apoio ao candidato à reeleição Luiz Inácio Lula da Silva (PT),  que conta com cerca de 3,3 milhões de pessoas. O ministro atendeu ao pedido de suspensão […]\nO post TSE atende Flávio Bolsonaro e suspende canal de Lula com 3,3 milhões de seguidores apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/tse-atende-flavio-bolsonaro-e-suspende-canal-de-lula-com-33-milhoes-de-seguidores/",
           "publishedOn": "2026-10-11T17:24:03.000Z",
-          "wordCount": 3631,
+          "wordCount": 3625,
           "title": "TSE atende Flávio Bolsonaro e suspende canal de Lula com 3,3 milhões de seguidores",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/kass.jpg"
         },
@@ -532,7 +552,7 @@
           "description": "A oposição israelense enviou uma petição à procuradora-geral Gali Baharav-Miara exigindo a abertura de uma investigação criminal contra o primeiro-ministro Benjamin Netanyahu e sua equipe. A solicitação ocorre após o ex-secretário militar de Netanyahu, Avi Gil, afirmar que houve tentativas, dentro do gabinete do premiê, de alterar os registros de data e hora das chamadas […]\nO post Oposição israelense pede investigação contra Netanyahu por alterar registros do 7 de outubro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/oposicao-israelense-pede-investigacao-contra-netanyahu-por-alterar-registros-do-7-de-outubro/",
           "publishedOn": "2026-10-11T16:53:21.000Z",
-          "wordCount": 3794,
+          "wordCount": 3788,
           "title": "Oposição israelense pede investigação contra Netanyahu por alterar registros do 7 de outubro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/g4lwgfkwsaa2ybl.jpg"
         },
@@ -542,59 +562,9 @@
           "description": "Os houthis, grupo político e militar do Iêmen, emitiram, neste domingo (11/10), um novo alerta sobre o risco de ataques a aeroportos da Arábia Saudita. O grupo recomendou que companhias aéreas, viajantes e trabalhadores do setor evitem os aeroportos sauditas. O anúncio ocorre após um ataque ao Aeroporto Internacional Rei Khalid, em Riad, que, segundo […]\nO post Houthis alertam sobre novos ataques a aeroportos sauditas em meio à escalada do conflito no Iêmen apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/houthis-alertam-sobre-novos-ataques-a-aeroportos-sauditas-em-meio-a-escalada-do-conflito-no-iemen/",
           "publishedOn": "2026-10-11T15:48:16.000Z",
-          "wordCount": 3450,
+          "wordCount": 3444,
           "title": "Houthis alertam sobre novos ataques a aeroportos sauditas em meio à escalada do conflito no Iêmen",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/houthis.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268326",
-          "author": "Victor Farinelli",
-          "description": "“O futuro que Flávio Bolsonaro promete, a gente vive aqui. E não é um filme bom”. Esse é o mote da campanha digital “Eu vim do futuro. Moro na Argentina”, que ganhou força nas redes sociais logo após o primeiro turno das eleições brasileiras. A iniciativa reúne vídeos curtos, cards e conteúdos digitais que alertam […]\nO post ‘Vim do futuro, moro na Argentina de Milei’: brasileiros alertam sobre plano econômico de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/vim-do-futuro-moro-na-argentina-de-milei-brasileiros-alertam-sobre-plano-economico-de-flavio-bolsonaro/",
-          "publishedOn": "2026-10-11T14:59:52.000Z",
-          "wordCount": 4439,
-          "title": "‘Vim do futuro, moro na Argentina de Milei’: brasileiros alertam sobre plano econômico de Flávio Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/flavio-milei.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268323",
-          "author": "Victor Farinelli",
-          "description": "A campanha à reeleição do presidente Lula (PT) decidiu acionar o Tribunal Superior Eleitoral (TSE) e a Agência Nacional de Proteção de Dados (ANPD) sob a alegação de que a Meta, controladora do Instagram e do Facebook, tem interferido no pleito presidencial para beneficiar o senador Flávio Bolsonaro (PL-RJ). A ofensiva jurídica ocorre a cerca […]\nO post Campanha de Lula aciona TSE por suposta ingerência da Meta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/campanha-de-lula-aciona-tse-por-suposta-ingerencia-da-meta/",
-          "publishedOn": "2026-10-11T13:59:15.000Z",
-          "wordCount": 3615,
-          "title": "Campanha de Lula aciona TSE por suposta ingerência da Meta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/meta.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268319",
-          "author": "Victor Farinelli",
-          "description": "A Suprema Corte da Índia enquadrou o governo do premiê Narendra Modi neste domingo (11/10), após a repressão a uma manifestação contra a Comissão Eleitoral e a detenção de milhares de manifestantes na véspera. A mais alta instância judicial indiana indicou que as autoridades devem respeitar os procedimentos legais de prisão e não obstruir a […]\nO post Suprema Corte da Índia enquadra governo Modi e ordena libertação de manifestantes apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/suprema-corte-da-india-enquadra-governo-modi-e-ordena-libertacao-de-manifestantes/",
-          "publishedOn": "2026-10-11T13:20:24.000Z",
-          "wordCount": 4193,
-          "title": "Suprema Corte da Índia enquadra governo Modi e ordena libertação de manifestantes",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/the-hindu.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268316",
-          "author": "Victor Farinelli",
-          "description": "A polícia de Nova Délhi prendeu neste sábado (10/10) mais de mil ativistas de diferentes partidos indianos ligados a partidos e movimentos políticos que se opõem ao governo do presidente Narendra Modi e contra o presidente da Comissão Eleitoral, Gyanesh Kumar, devido a uma atualização da Revisão Intensiva Especial (SIR, na sigla em inglês). A […]\nO post Índia prende líderes comunistas e do ‘Partido das Baratas’ por protestos contra o governo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/india-prende-lideres-comunistas-e-do-partido-das-baratas-por-protestos-contra-o-governo/",
-          "publishedOn": "2026-10-10T22:01:48.000Z",
-          "wordCount": 3341,
-          "title": "Índia prende líderes comunistas e do ‘Partido das Baratas’ por protestos contra o governo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/india.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268314",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente palestino, Mahmoud Abbas, adiou as eleições legislativas para 11 de setembro de 2027, informou a agência de notícias oficial palestina neste sábado (10/10). Previstas anteriormente para 28 de novembro de 2026, as eleições seriam o primeiro pleito palestino em quase 20 anos. O decreto foi emitido após uma reunião de um comitê de […]\nO post Abbas adia eleições legislativas palestinas para 2027 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/abbas-adia-eleicoes-legislativas-palestinas-para-2027/",
-          "publishedOn": "2026-10-10T20:20:26.000Z",
-          "wordCount": 3219,
-          "title": "Abbas adia eleições legislativas palestinas para 2027",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/captura-de-tela-2026-09-24-112632.png"
         }
       ]
     },
@@ -610,12 +580,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234532",
+          "author": "Redação de AND",
+          "description": "Em entrevista exclusiva ao AND, jovens comunistas explicam como a luta por condições dignas de estudo e trabalho se liga à luta operária e às aspirações revolucionárias da juventude. A organização denuncia a preparação para a guerra imperialista, a repressão e as tentativas da imprensa burguesa e da social-democracia de isolar e pacificar a rebelião e defende ampliar a mobilização.",
+          "link": "https://anovademocracia.com.br/juventude-comunista-franca-rebeliao-and/",
+          "publishedOn": "2026-10-11T21:00:03.000Z",
+          "wordCount": 9537,
+          "title": "‘A melhor resposta à repressão é a organização’: Juventude Comunista da França fala ao AND sobre a rebelião secundarista",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-jc-fr-1-1024x683.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234523",
           "author": "Redação de AND",
           "description": "Em 4 de outubro de 1936, operários, imigrantes e moradores do East End de Londres ergueram barricadas e enfrentaram a repressão policial para impedir uma marcha fascista. Mobilização foi organizada sob a direção do Partido Comunista da Grã-Bretanha, que havia consolidado sua influência entre as massas trabalhadoras da região.",
           "link": "https://anovademocracia.com.br/trabalhador-comunista-batalha-cable-street/",
           "publishedOn": "2026-10-11T15:00:00.000Z",
-          "wordCount": 7911,
+          "wordCount": 7917,
           "title": "Há 90 anos, trabalhadores dirigidos por comunistas britânicos derrotaram fascistas na Batalha de Cable Street",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/cable-street-cover.png"
         },
@@ -625,7 +605,7 @@
           "description": "Centenas de milhares de trabalhadores, estudantes e moradores tomaram as ruas de diferentes cidades da Espanha, nas últimas semanas, contra os despejos, o aumento dos aluguéis e a especulação imobiliária. Somente em Madri e Barcelona, duas das maiores manifestações reuniram 620 mil pessoas.",
           "link": "https://anovademocracia.com.br/espanha-milhares-protestam-contra-despejos/",
           "publishedOn": "2026-10-10T22:19:28.000Z",
-          "wordCount": 8395,
+          "wordCount": 8401,
           "title": "Centenas de milhares protestam contra despejos e especulação imobiliária na Espanha",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-06-espanha-barcelona-protesto-1024x683.jpg"
         },
@@ -635,7 +615,7 @@
           "description": "Caminhoneiro de 35 anos foi baleado diante dos filhos por policiais militares do 19º Batalhão. Familiares, amigos e moradores realizaram bloqueios na BR-101 e em outras vias e exigem a punição dos quatro PMs envolvidos na ação.",
           "link": "https://anovademocracia.com.br/seis-tiros-moradores-protestam-apos-pm-matar-trabalhador-recife/",
           "publishedOn": "2026-10-10T19:18:21.000Z",
-          "wordCount": 8092,
+          "wordCount": 8098,
           "title": "‘Seis tiros em um pai de família com os meninos dentro de casa’: moradores protestam após PM matar trabalhador em Recife",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/DSCF0928-1.jpg"
         },
@@ -645,7 +625,7 @@
           "description": "Após quase cinco décadas de restrições, EUA fornece milhares de fuzis ao Exército reacionário guatemalteco e amplia exercícios conjuntos com forças especiais responsáveis por massacres durante a guerra contrarrevolucionária no país.",
           "link": "https://anovademocracia.com.br/eua-arma-treina-contrainsurgentes-guatemala/",
           "publishedOn": "2026-10-10T18:55:06.000Z",
-          "wordCount": 8233,
+          "wordCount": 8239,
           "title": "EUA amplia fornecimento de armas e treinamento de tropas contrainsurgentes na Guatemala",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/eua-guatemala-contrainsurgente.jpg"
         },
@@ -655,7 +635,7 @@
           "description": "Em meio a eleições sob interferência direta do imperialismo ianque, o vassalo Flávio oferece o Brasil à coalizão de Trump, que reúne facções criminosas e grupos insurgentes sob o rótulo de “narcoterrorismo”.",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-brasil-escudo-das-americas/",
           "publishedOn": "2026-10-10T17:01:12.000Z",
-          "wordCount": 8018,
+          "wordCount": 8024,
           "title": "Flávio Bolsonaro promete levar Brasil ao ‘Escudo das Américas’ e abrir caminho à intervenção militar ianque",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-22.png"
         },
@@ -665,7 +645,7 @@
           "description": "Em entrevista ao AND após protesto de centenas de motoboys em Maringá (PR), liderança da categoria denuncia a insegurança nas ruas, a ausência de garantias trabalhistas e defende a união dos entregadores nas paralisações nacionais.",
           "link": "https://anovademocracia.com.br/motoboy-parana-denuncia-riscos-morte/",
           "publishedOn": "2026-10-10T16:27:47.000Z",
-          "wordCount": 9093,
+          "wordCount": 9099,
           "title": "‘Isso pode acontecer com qualquer um de nós’: após morte de colega no Paraná, motoboy denuncia riscos e falta de direitos",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/VIDEO-ATROPELAMENTO.mp4",
@@ -680,7 +660,7 @@
           "description": "Estônia, Letônia e Lituânia elevam gastos militares a cerca de 5% do PIB, enquanto Alemanha instala tropas permanentes e amplia investimentos na indústria bélica; ofensiva aprofunda a subjugação dos países bálticos às potências imperialistas.",
           "link": "https://anovademocracia.com.br/paises-balticos-otan-militarizacao-alemao/",
           "publishedOn": "2026-10-09T20:12:26.000Z",
-          "wordCount": 7706,
+          "wordCount": 7712,
           "title": "Países Bálticos: OTAN amplia militarização e impulsiona expansão do imperialismo alemão",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-09-baltico.webp"
         },
@@ -690,7 +670,7 @@
           "description": "Mobilização convocada pelas principais centrais sindicais denuncia ataques aos salários e direitos sociais; paralisações afetaram o transporte público e provocaram o cancelamento de 140 voos.",
           "link": "https://anovademocracia.com.br/belgica-bruxelas-repressao-policial/",
           "publishedOn": "2026-10-09T19:57:36.000Z",
-          "wordCount": 7332,
+          "wordCount": 7338,
           "title": "Bélgica: 30 mil tomam as ruas de Bruxelas contra austeridade e enfrentam repressão policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-09-belgica-1.jpg"
         },
@@ -700,19 +680,9 @@
           "description": "Enquanto bolsonaristas manobram no Senado, proposta subscrita pelo candidato mantém o teto de 44 horas e admite remuneração proporcional. Greve Geral de Resistência Nacional está na ordem do dia!",
           "link": "https://anovademocracia.com.br/extrema-direita-escala-6-por-1-greve-geral/",
           "publishedOn": "2026-10-09T19:34:50.000Z",
-          "wordCount": 8873,
+          "wordCount": 8879,
           "title": "Extrema direita tenta enterrar fim da escala 6 por 1; PEC assinada por Flávio Bolsonaro abre caminho para reduzir salários",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/20026-10-09-greve-geral.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234464",
-          "author": "Redação de AND",
-          "description": "Em 2026, o próprio imperialismo ianque dispensou cerimônias: ataques militares a países vizinhos, sanção econômica ao País e fechamento da Embaixada e consulados às vésperas das eleições, tudo para manipular a opinião pública a crer que o “menos pior” é Flávio Bolsonaro.",
-          "link": "https://anovademocracia.com.br/editorial-eleicoes-falencia-democracia/",
-          "publishedOn": "2026-10-09T18:45:27.000Z",
-          "wordCount": 9037,
-          "title": "Editorial – Eleições sob interferência ianque são a falência da velha democracia",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/image-95.png"
         }
       ]
     },
@@ -846,6 +816,16 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160086",
+          "author": "Passa Palavra",
+          "description": "ATIVIDADE – LIVE* 📅 *Terça-feira, 13/10* 🕒 *Das 18h às 20h* 💻 *Online* 🔗 *Solicite o link* Você viu o que aconteceu no Estado espanhol? 👀 Uma senhora de quase 90 anos ia ser despejada e as pessoas se uniram para barrar o despejo. Dali surgiram atos, enfrentamentos com a polícia, marchas e um grande […]",
+          "link": "https://passapalavra.info/2026/10/160086/",
+          "publishedOn": "2026-10-11T23:11:54.000Z",
+          "wordCount": 4096,
+          "title": "Mobilizações na França e na Espanha",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/05/MOVIMENTO_LUTA.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=160037",
           "author": "FP",
           "description": "A rede de resposta rápida das Cidades Gêmeas se formou como uma operação de contrainteligência para deter a Gestapo de Trump. Por Connor O'Callaghan",
@@ -921,16 +901,6 @@
           "wordCount": 5702,
           "title": "Precisamos ser mais do que os fiadores da agonia",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151.webp"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=67294",
-          "author": "Boitempo",
-          "description": "Ronaldo Tadeu de Souza propõe cinco teses de caracterização do primeiro turno de 2026, recusando tanto o desespero quanto o conformismo.",
-          "link": "https://blogdaboitempo.com.br/2026/10/07/eleicoes-2026-primeiros-resultados-tentativa-de-analise-em-cinco-teses/",
-          "publishedOn": "2026-10-07T16:22:34.000Z",
-          "wordCount": 6488,
-          "title": "Eleições 2026, primeiros resultados: tentativa de análise em cinco teses.",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/int6200.webp"
         }
       ]
     }
