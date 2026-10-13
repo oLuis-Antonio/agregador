@@ -4,24 +4,33 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": [
-        {
-          "id": "zRzYQf",
-          "author": null,
-          "description": "Enquanto a direção dos correios tentou tentou caracterizar a greve como abusiva, a categoria batalha retirada de direitos, demissões, desmonte da empresa e de seu caráter público",
-          "link": "https://jornalofuturo.com.br/artigo/zRzYQf-greve-dos-correios-finalizada-mas-a-luta-precisa-continuar",
-          "publishedOn": "2026-10-09T03:00:00.000Z",
-          "wordCount": 2689,
-          "title": "Greve dos Correios finalizada, mas a luta precisa continuar",
-          "imageUrl": "https://media.jornalofuturo.com.br/IMG_2974-2-1280x567.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6ace791059cc9a0358075b7c",
+          "author": "CSP Conlutas",
+          "description": "A votação em primeiro turno da PEC que acaba com a escala 6x1 e reduz a jornada de trabalho para 40 horas semanais foi incluída na pauta do Senado para esta quarta-feira (14). Antes de ir a voto, o texto passará ainda por duas",
+          "link": "https://opiniaosocialista.com.br/pec-do-fim-da-escala-6x1-vai-a-votacao-no-senado-nesta-quarta-chega-de-enrolacao-aprovacao-ja/",
+          "publishedOn": "2026-10-13T18:34:22.000Z",
+          "wordCount": 1127,
+          "title": "PEC do fim da escala 6x1 vai à votação no Senado nesta quarta: chega de enrolação, aprovação já!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/escala6x1.webp"
+        },
+        {
+          "id": "6ace2e2b59cc9a0358075b57",
+          "author": "Gustavo Machado",
+          "description": "Morreu, no último dia 7 de outubro, Anwar Shaikh, um dos mais proeminentes economistas marxistas dos últimos 50 anos.",
+          "link": "https://opiniaosocialista.com.br/anwar-shaikh-e-os-limites-da-economia-politica-marxista/",
+          "publishedOn": "2026-10-13T13:23:43.000Z",
+          "wordCount": 2333,
+          "title": "Anwar Shaikh e os limites da economia política marxista",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/obituario.webp"
+        },
         {
           "id": "6ac97b6559cc9a0358075ac4",
           "author": "PSTU-AM",
@@ -49,6 +58,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Escravista-Flavio-faz-demagogia-que-votara-o-fim-da-6x1-mas-defende-a-7x0",
+          "author": "Redação",
+          "description": "Flávio Bolsonaro sempre se opôs ao fim da escala 6x1. Defende a escala 7x0, e o regime de trabalho mais explorador dentro do capitalismo: o pagamento por hora trabalhada. Por isso, é preciso manter firme a mobilização pelo fim da escala 6x1, sem redução salarial e sem subsídios para os patrões, e garantir que não haja nenhum voto em Flávio Bolsonaro!\n12-10-2026\n\n/ Política, Greve Geral, Flavio Bolsonaro, escala 6x1",
+          "link": "https://www.esquerdadiario.com.br/Escravista-Flavio-faz-demagogia-que-votara-o-fim-da-6x1-mas-defende-a-7x0",
+          "publishedOn": "2026-10-13T15:09:05.000Z",
+          "wordCount": null,
+          "title": "Escravista, Flávio faz demagogia que votará o fim da 6x1 mas defende a 7x0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Abaixo-a-censura-e-o-autoritarismo-de-Nunes-Marques-que-favorecem-Flavio-Bolsonaro",
+          "author": "Redação",
+          "description": "O presidente do TSE, Kassio Nunes Marques, tem atendido à todos os pedidos da campanha de Flávio Bolsonaro. \n12-10-2026\n\n/ Política, STF, Flavio Bolsonaro, Autoritarismo, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Abaixo-a-censura-e-o-autoritarismo-de-Nunes-Marques-que-favorecem-Flavio-Bolsonaro",
+          "publishedOn": "2026-10-13T14:20:53.000Z",
+          "wordCount": null,
+          "title": "Abaixo a censura e o autoritarismo de Nunes Marques que favorecem Flávio Bolsonaro!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Indigenas-recebem-audios-com-ameacas-de-invasao-da-exterma-direita-caso-Flavio-Bolsonaro-venca",
           "author": "Redação",
@@ -318,16 +347,6 @@
           "wordCount": null,
           "title": "Mais uma vez, como chegamos até aqui? A pergunta que tem que se tornar um ponto de partida",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Super-El-Nino-se-intensifica-e-deve-agravar-secas-calor-extremo-e-enchentes-apesar-do-negacionismo",
-          "author": "Camila Galvão",
-          "description": "Segundo a Organização Meteorológica Mundial (OMM), o aquecimento anormal das águas superficiais do Pacífico tropical está se intensificando, indicando um fortalecimento do fenômeno El Niño, que poderá ser um dos mais fortes registrados desde pelo menos 1950. A organização prevê que as temperaturas dessas águas atinjam níveis históricos e sem precedentes entre outubro e dezembro de 2026, com o fenômeno alcançando seu pico de intensidade em dezembro.\n08-10-2026\n\n/ Enchentes, Seca, Crise ecológica, Enchentes no RS",
-          "link": "https://www.esquerdadiario.com.br/Super-El-Nino-se-intensifica-e-deve-agravar-secas-calor-extremo-e-enchentes-apesar-do-negacionismo",
-          "publishedOn": "2026-10-09T00:42:08.000Z",
-          "wordCount": null,
-          "title": "Super El Niño se intensifica e deve agravar secas, calor extremo e enchentes apesar do negacionismo da extrema direita",
-          "imageUrl": null
         }
       ]
     },
@@ -336,6 +355,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=445418",
+          "author": "Leandro Becker",
+          "description": "Se subir a rampa do Palácio do Planalto, Flávio Bolsonaro levará consigo os anseios de velhos companheiros, aqueles que precisam da violência para vender seus serviços.\nO post Se Flávio copiar Bukele, vai prender seus amigos milicianos? apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/10/13/flavio-copiar-bukele-prender-milicianos/",
+          "publishedOn": "2026-10-13T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Se Flávio copiar Bukele, vai prender seus amigos milicianos?",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/10/Headerfeat.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerfeat.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=445410",
           "author": "Isabella Mota",
@@ -358,6 +392,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=163951",
+          "author": "Jessica Santos",
+          "description": "O avanço de candidaturas antifeministas reacende discursos pela retirada de direitos, enquanto mulheres — sobretudo negras — ampliam sua presença política e organizam resistência dentro e fora dos parlamentos\nO conteúdo Da Redação | O futuro não será construído sem nós Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/antifeminismo-direitos-mulheres-resistencia/",
+          "publishedOn": "2026-10-13T15:15:29.000Z",
+          "wordCount": 6014,
+          "title": "Da Redação | O futuro não será construído sem nós",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2021/01/Ilustra_Mulheres_Profissao_juniao_ponte-1.jpg"
+        },
         {
           "id": "https://ponte.org/?p=163943",
           "author": "Pedro Stropasolas",
@@ -382,104 +426,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=268428",
-          "author": "Victor Farinelli",
-          "description": "O jornalista brasileiro Rogério Tomaz Jr. foi impedido de entrar na Argentina nesta segunda-feira (12/10) após a Direção Nacional de Migrações cancelar sua residência permanente e determinar a proibição de ingresso no país por cinco anos. Ele chegou ao aeroporto Aeroparque, em Buenos Aires, para realizar entrevistas destinadas a um livro sobre o governo de […]\nO post Argentina deporta jornalista brasileiro crítico de Milei e cancela sua residência no país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/argentina-deporta-jornalista-brasileiro-critico-de-milei/",
-          "publishedOn": "2026-10-12T21:34:39.000Z",
-          "wordCount": 3298,
-          "title": "Argentina deporta jornalista brasileiro crítico de Milei e cancela sua residência no país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/rtj.jpg"
+          "id": "https://operamundi.uol.com.br/?p=268504",
+          "author": "Raissa Neves",
+          "description": "Uma investigação publicada pela imprensa britânica nesta terça-feira (13/10) revelou que o presidente da FIFA, Gianni Infantino, recebeu mais de € 1,6 milhão em bônus não declarados em 2024. Os recursos foram pagos pela organização sediada nos Estados Unidos responsável pelos preparativos para a Copa do Mundo de 2026, além dos € 4,57 milhões em […]\nO post Presidente da FIFA teria recebido 1,6 milhão de euros em propina, denuncia imprensa britânica apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/presidente-da-fifa-teria-recebido-16-milhao-de-euros-em-propina-denuncia-imprensa-britanica/",
+          "publishedOn": "2026-10-13T19:00:19.000Z",
+          "wordCount": 3209,
+          "title": "Presidente da FIFA teria recebido 1,6 milhão de euros em propina, denuncia imprensa britânica",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/fifa-proyecto-768x512-1.webp"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=268425",
-          "author": "Victor Farinelli",
-          "description": "Fazendeiros e pecuaristas do sudeste do Pará ameaçam invadir a Terra Indígena (TI) Apyterewa caso o senador Flávio Bolsonaro (PL) vença o segundo turno das eleições presidenciais, marcado para 25 de outubro. A informação foi publicada nesta segunda-feira (12/10) pela Folha de São Paulo, que teve acesso exclusivo a oito áudios enviados por WhatsApp a […]\nO post Áudios revelam ameaças de invasão a Terra Indígena caso Flávio Bolsonaro vença eleições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/audios-revelam-ameacas-de-invasao-a-terra-indigena-caso-flavio-bolsonaro-venca-eleicoes/",
-          "publishedOn": "2026-10-12T20:51:47.000Z",
-          "wordCount": 4168,
-          "title": "Áudios revelam ameaças de invasão a Terra Indígena caso Flávio Bolsonaro vença eleições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/funai.jpg"
+          "id": "https://operamundi.uol.com.br/?p=268493",
+          "author": "Raissa Neves",
+          "description": "O governo federal anunciou nesta terça-feira (13/10) um pacote de cinco medidas voltadas aos microempreendedores individuais (MEIs), com foco na redução do endividamento, ampliação do acesso a recursos para investimento, aumento do teto de faturamento e simplificação de regras para pequenos negócios. A principal iniciativa é o envio ao Congresso Nacional de um projeto de […]\nO post Governo anuncia pacote com perdão de dívidas e crédito para MEIs apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/governo-anuncia-pacote-com-perdao-dividas-credito-para-meis/",
+          "publishedOn": "2026-10-13T18:20:32.000Z",
+          "wordCount": 4010,
+          "title": "Governo anuncia pacote com perdão de dívidas e crédito para MEIs",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/pzzb7408.webp"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=268419",
-          "author": "Victor Farinelli",
-          "description": "Agentes do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) realizaram nesta segunda-feira (12/10) uma operação de busca e apreensão na casa da congressista Ilhan Omar, do Partido Democrata, no estado norte-americano de Minnesota. Segundo o Departamento de Justiça norte-americano, a ação corresponde a suspeitas de uma suposta “fraude migratória” por parte de Omar […]\nO post ICE faz buscas em casa de parlamentar imigrante opositora de Trump apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/ice-faz-buscas-em-casa-de-parlamentar-imigrante-opositora-de-trump/",
-          "publishedOn": "2026-10-12T19:30:25.000Z",
-          "wordCount": 3381,
-          "title": "ICE faz buscas em casa de parlamentar imigrante opositora de Trump",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/omar.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268412",
-          "author": "Victor Farinelli",
-          "description": "O Brasil reúne condições para ampliar sua posição entre as maiores potências agrícolas do mundo e reduzir a tal ponto a distância que o separa dos Estados Unidos no comércio internacional de alimentos, tornando-se a maior potência mundial agrícola. O crescimento da produção de grãos, a liderança em commodities como soja, café, açúcar e carnes […]\nO post Brasil amplia exportações, supera EUA e projeta liderança em lista de potências agrícolas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/brasil-amplia-exportacoes-supera-eua-e-lidera-lista-de-potencias-agricolas/",
-          "publishedOn": "2026-10-12T18:43:55.000Z",
-          "wordCount": 5082,
-          "title": "Brasil amplia exportações, supera EUA e projeta liderança em lista de potências agrícolas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/safra.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268409",
-          "author": "Victor Farinelli",
-          "description": "Ao menos 139 pessoas morreram e outras 84 estavam desaparecidas após o naufrágio de uma embarcação com 305 migrantes na costa de Djibuti, no Chifre da África. O acidente ocorreu durante a noite de quinta-feira (08/10) para sexta-feira (09/10), nas proximidades de Guehere, ao norte de Obock, durante a travessia em direção ao Iêmen. Mais […]\nO post Naufrágio em Djibuti deixa ao menos 139 mortos em rota migratória para o Iêmen apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/naufragio-em-djibuti-deixa-ao-menos-139-mortos-em-rota-migratoria-para-o-iemen/",
-          "publishedOn": "2026-10-12T18:00:43.000Z",
-          "wordCount": 4022,
-          "title": "Naufrágio em Djibuti deixa ao menos 139 mortos em rota migratória para o Iêmen",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/oim.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268402",
-          "author": "Victor Farinelli",
-          "description": "O governo da China anunciou nesta segunda-feira (12/10) sanções contra Gustavo Villate, ministro das Tecnologias da Informação e Comunicação do Paraguai, e Francis Fonseca, ministro das Relações Exteriores e do Comércio Exterior de Belize. As medidas foram justificadas por Pequim como uma resposta à manutenção das relações diplomáticas dos dois países com Taiwan, ilha que […]\nO post China sanciona ministros de Paraguai e Belize por relações diplomáticas com Taiwan apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/china-sanciona-ministros-de-paraguai-e-belize-por-relacoes-diplomaticas-com-taiwan/",
-          "publishedOn": "2026-10-12T17:20:38.000Z",
-          "wordCount": 3921,
-          "title": "China sanciona ministros de Paraguai e Belize por relações diplomáticas com Taiwan",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/ning.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268401",
+          "id": "https://operamundi.uol.com.br/?p=268491",
           "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, determinou a identificação e a abertura de investigações criminais contra soldados e oficiais israelenses que prestaram depoimentos ao documentário NAZA, produzido pelo jornal britânico The Guardian. O filme, premiado no Festival Internacional de Cinema de Veneza, investiga os sistemas militares utilizados por Israel nos ataques que provocaram a morte […]\nO post Netanyahu ordena investigação contra militares que participam do documentário ‘NAZA’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/netanyahu-ordena-investigacao-contra-militares-que-participam-do-documentario-naza/",
-          "publishedOn": "2026-10-12T16:40:50.000Z",
-          "wordCount": 3950,
-          "title": "Netanyahu ordena investigação contra militares que participam do documentário ‘NAZA’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/naza-filme-e1787613959725.webp"
+          "description": "A Meta, empresa de Mark Zuckerberg que controla Facebook, Instagram e WhatsApp, reconheceu a ocorrência de “falhas técnicas” envolvendo publicações e anúncios da campanha do presidente Luiz Inácio Lula da Silva (PT), mas negou qualquer interferência eleitoral em benefício da candidatura de Flávio Bolsonaro (PL). A resposta foi apresentada nesta segunda-feira (12/10), após o Tribunal […]\nO post Meta admite ‘falhas técnicas’ em publicações da campanha de Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/meta-admite-falhas-tecnicas-em-publicacoes-da-campanha-de-lula/",
+          "publishedOn": "2026-10-13T17:30:35.000Z",
+          "wordCount": 4174,
+          "title": "Meta admite ‘falhas técnicas’ em publicações da campanha de Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-13-132511.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=268395",
-          "author": "Tatiana Carlotti",
-          "description": "O Irã afirmou nesta segunda-feira (12/10) que a segurança no Estreito de Ormuz não será restabelecida enquanto os Estados Unidos mantiverem a guerra contra o país. A declaração foi feita pelo porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, que confirmou que Teerã continua analisando a resposta de Washington à proposta apresentada em setembro […]\nO post Irã afirma que segurança não voltará ao estreito de Ormuz enquanto EUA mantiverem guerra apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-seguranca-nao-voltara-ao-estreito-de-ormuz-enquanto-eua-mantiverem-guerra/",
-          "publishedOn": "2026-10-12T16:00:14.000Z",
-          "wordCount": 3499,
-          "title": "Irã afirma que segurança não voltará ao estreito de Ormuz enquanto EUA mantiverem guerra",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/estreito-de-ormuz-mohammad-rasool-moradi-tasnim.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268397",
+          "id": "https://operamundi.uol.com.br/?p=268484",
           "author": "Victor Farinelli",
-          "description": "As manifestações em apoio à reeleição do presidente Luiz Inácio Lula da Silva (PT), realizadas neste domingo (11/10) em diferentes cidades brasileiras, repercutiram na imprensa internacional. Veículos como Reuters, AP, AFP, Al Jazeera, EFE e El País destacaram a mobilização na Avenida Paulista, em São Paulo, com a participação de jovens e a esquerda ganhando […]\nO post Imprensa internacional destaca mobilização pró-Lula e protagonismo da juventude nas ruas do Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/imprensa-internacional-destaca-mobilizacao-pro-lula-e-protagonismo-da-juventude-nas-ruas-do-brasil/",
-          "publishedOn": "2026-10-12T15:20:25.000Z",
-          "wordCount": 4084,
-          "title": "Imprensa internacional destaca mobilização pró-Lula e protagonismo da juventude nas ruas do Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/ato-lula.jpg"
+          "description": "O presidente do Conselho Executivo do Hezbollah, Ali Damoush, anunciou nesta terça-feira (13/10) um programa de ajuda habitacional voltado para famílias deslocadas que tiveram suas casas destruídas ou parcialmente danificadas pelo Exército israelense no Líbano. Segundo uma fonte do grupo xiita, cerca de 50 mil famílias serão beneficiadas. A assistência prevê um valor de até […]\nO post Hezbollah anuncia ajuda financeira a famílias que perderam casas nos bombardeios de Israel ao Líbano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/hezbollah-anuncia-ajuda-financeira-a-familias-que-perderam-casas-nos-bombardeios-de-israel-ao-libano/",
+          "publishedOn": "2026-10-13T16:40:39.000Z",
+          "wordCount": 4492,
+          "title": "Hezbollah anuncia ajuda financeira a famílias que perderam casas nos bombardeios de Israel ao Líbano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lib-3.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=268382",
+          "id": "https://operamundi.uol.com.br/?p=268416",
           "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro britânico, Andy Burnham, afirmou que a Rússia interferiu no referendo de 2016 que determinou a saída do Reino Unido da União Europeia, processo conhecido como Brexit. A declaração provocou uma controvérsia política no país, levando o governo a esclarecer nesta segunda-feira (12/10) que reconhece a legitimidade da votação e não considera que a […]\nO post Premiê britânico afirma que Rússia interferiu no Brexit, mas reconhece legitimidade do resultado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/premie-britanico-afirma-que-russia-interferiu-no-brexit-mas-reconhece-legitimidade-do-resultado/",
-          "publishedOn": "2026-10-12T14:40:14.000Z",
-          "wordCount": 4007,
-          "title": "Premiê britânico afirma que Rússia interferiu no Brexit, mas reconhece legitimidade do resultado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/uk-parliament--1024x683.png"
+          "description": "O presidente de Burkina Faso, capitão Ibrahim Traoré, completou seus quatro anos no comando do país inaugurando a Raffinor-BF, primeira refinaria nacional de ouro do país. “O ouro de Burkina Faso não deve mais ser apenas extraído em Burkina Faso. Deve ser transformado, controlado, valorizado e certificado em Burkina Faso”, declarou o capitão Traoré. A […]\nO post ‘Terrorismo é único mal que assola Burkina Faso’, afirma ativista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/africa/terrorismo-e-unico-mal-que-assola-burkina-faso-afirma-ativista/",
+          "publishedOn": "2026-10-13T16:00:30.000Z",
+          "wordCount": 5116,
+          "title": "‘Terrorismo é único mal que assola Burkina Faso’, afirma ativista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-12-163034.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268468",
+          "author": "Tatiana Carlotti",
+          "description": "A França vive mais um dia de mobilização de estudantes do ensino médio em várias cidades do país nesta terça-feira (13/10). Os manifestantes, que protestam há semanas, contam também com o apoio de universitários para reivindicar melhores condições de ensino. Pouco antes da passeata em Paris, a ativista sueca Greta Thunberg se juntou ao movimento […]\nO post Greta Thunberg participa de protestos estudantis na França: ‘estão mostrando ao mundo’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/greta-thunberg-participa-de-protestos-estudantis-na-franca-estao-mostrando-ao-mundo/",
+          "publishedOn": "2026-10-13T15:20:03.000Z",
+          "wordCount": 3673,
+          "title": "Greta Thunberg participa de protestos estudantis na França: ‘estão mostrando ao mundo’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-13-113952.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268462",
+          "author": "Victor Farinelli",
+          "description": "A promessa da campanha do candidato Flávio Bolsonaro (PL) de promover um “tesouraço” nas despesas públicas, tendo como inspiração o ajuste fiscal de Javier Milei na Argentina, abriu uma disputa sobre o possível alcance dos cortes, ainda não detalhados pelo candidato. O candidato Luiz Inácio Lula da Silva (PT) tem cobrado Flávio para explicar o […]\nO post Modelo de Flávio Bolsonaro, Milei freou aumento da aposentadoria na Argentina em 21% apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/modelo-de-flavio-bolsonaro-milei-freou-aumento-da-aposentadoria-na-argentina-em-21/",
+          "publishedOn": "2026-10-13T14:32:05.000Z",
+          "wordCount": 4454,
+          "title": "Modelo de Flávio Bolsonaro, Milei freou aumento da aposentadoria na Argentina em 21%",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/milei.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268456",
+          "author": "Tatiana Carlotti",
+          "description": "Daniel Vorcaro, dono do Banco Master, financiou a partir de 2023 uma rede de prostituição de alcance internacional que recrutava mulheres estrangeiras para eventos privados com autoridades e amigos do banqueiro em São Paulo, segundo investigação da Polícia Federal (PF). Reportagem de Natália Portinari e Fábio Serapião no UOL revela que Vorcaro atuava não apenas como […]\nO post Vorcaro financiou rede de prostituição e recrutou refugiadas ucranianas, revela portal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/vorcaro-financiou-rede-de-prostituicao-e-recrutou-refugiadas-ucranianas-revela-portal/",
+          "publishedOn": "2026-10-13T13:27:49.000Z",
+          "wordCount": 4085,
+          "title": "Vorcaro financiou rede de prostituição e recrutou refugiadas ucranianas, revela portal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-05-20-at-15.30.35.jpeg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268450",
+          "author": "Tatiana Carlotti",
+          "description": "Empresas russas e norte-americanas iniciaram negociações para o fornecimento de diesel da Rússia aos Estados Unidos, após um acordo anunciado pelos presidentes Vladimir Putin e Donald Trump na última sexta-feira (9/10). A informação foi confirmada pelo vice-primeiro-ministro russo, Alexander Novak, em entrevista à emissora Vesti nesta segunda (12/10). As tratativas envolvem empresas dos dois países, […]\nO post Rússia e EUA iniciam negociações para fornecimento de diesel russo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/russia-e-eua-iniciam-negociacoes-para-fornecimento-de-diesel-russo/",
+          "publishedOn": "2026-10-13T13:01:34.000Z",
+          "wordCount": 4201,
+          "title": "Rússia e EUA iniciam negociações para fornecimento de diesel russo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/putin-e-trump-no-alasca-casa-branca.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268437",
+          "author": "Tatiana Carlotti",
+          "description": "Pesquisa BTG/Nexus divulgada nesta terça-feira (13/10) aponta empate técnico entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais. O candidato da extrema direita aparece com 52% dos votos válidos e o petista, 48%. Esta é a primeira pesquisa do instituto após o primeiro […]\nO post BTG/Nexus: Flávio Bolsonaro tem 52% contra 48% de Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/btg-nexus-flavio-bolsonaro-tem-52-e-lula-48/",
+          "publishedOn": "2026-10-13T12:00:41.000Z",
+          "wordCount": 3874,
+          "title": "BTG/Nexus: Flávio Bolsonaro tem 52% contra 48% de Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/pesquisa-lula-e-flavio.jpg"
         }
       ]
     },
@@ -495,12 +539,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234661",
+          "author": "Giovanna Maria",
+          "description": "Atividade reunirá familiares, juristas, pesquisadores e entidades de direitos humanos para exigir justiça pelo assassinato do estudante de Medicina pela PM-SP. Evento ocorre às 19h, na sede do Sindicato dos Jornalistas.",
+          "link": "https://anovademocracia.com.br/ato-justica-marco-aurelio-sp/",
+          "publishedOn": "2026-10-13T15:04:24.000Z",
+          "wordCount": 7264,
+          "title": "Ato por justiça a Marco Aurélio, jovem assassinado pela PM em 2024, será realizado nesta quarta (14) em São Paulo",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/e058df34-6094-4f94-802d-767c8847dd72.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=234657",
+          "author": "Redação de AND",
+          "description": "Seção francesa da LAI exige a renúncia do governo e conclama à organização da revolta em outros países; declaração denuncia quase 7 mil detenções e mutilações de adolescentes.",
+          "link": "https://anovademocracia.com.br/liga-anti-imperialista-rebeliao-francesa/",
+          "publishedOn": "2026-10-13T12:00:00.000Z",
+          "wordCount": 7447,
+          "title": "‘A Revolução Socialista está de volta’: Liga Anti-imperialista convoca apoio à rebelião francesa",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-jc-fr-13.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234646",
           "author": "Redação de AND",
           "description": "Flávio “Rachadinha” promete integrar Forças Armadas reacionárias e polícias; generais invocam a “soberania” contra bases permanentes enquanto admitem operações com militares do EUA nas fronteiras.",
           "link": "https://anovademocracia.com.br/generais-eua-tropas-brasil-flavio-bolsonaro/",
           "publishedOn": "2026-10-13T11:00:00.000Z",
-          "wordCount": 10031,
+          "wordCount": 10036,
           "title": "Generais vassalos admitem operações com tropas do EUA nas fronteiras do Brasil se Flávio Bolsonaro vencer",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/Southern-Vanguard22-Lorena-1024x683.jpg"
         },
@@ -510,7 +574,7 @@
           "description": "A informação foi negada pela equipe de Flávio Bolsonaro, que promete preservar benefícios sociais, mas não explica como alcançaria o “tesouraço” anunciado para um eventual governo de extrema direita.",
           "link": "https://anovademocracia.com.br/flavio-arrocho-aposentadoria-saude-educacao/",
           "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": 7639,
+          "wordCount": 7644,
           "title": "Equipe de Flávio ‘Rachadinha’ prepara arrocho de até R$ 250 bilhões contra aposentadorias, saúde e educação, diz Folha",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-cni.jpg"
         },
@@ -520,7 +584,7 @@
           "description": "Festa organizada pela associação de moradores, composta exclusivamente por mulheres, reuniu brincadeiras, distribuição de brinquedos e solidariedade popular. As 207 famílias da comunidade seguem mobilizadas em defesa do direito à moradia.",
           "link": "https://anovademocracia.com.br/sp-comunidade-menino-jesus-celebra-dia-das-criancas-em-meio-a-luta-contra-despejo/",
           "publishedOn": "2026-10-12T22:26:35.000Z",
-          "wordCount": 7561,
+          "wordCount": 7568,
           "title": "SP: Comunidade Menino Jesus celebra Dia das Crianças em meio à luta contra despejo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-24.png"
         },
@@ -530,7 +594,7 @@
           "description": "A atividade foi promovida uma semana após a conformação do Comitê de Boicote à Farsa Eleitoral na cidade, e contou com a presença de João Pedro Fragoso, pesquisador independente do marxismo e criador do canal “Rompendo com Velhas Ideias” no YouTube.",
           "link": "https://anovademocracia.com.br/comite-apoio-and-florianopolis-farsa-eleitoral/",
           "publishedOn": "2026-10-12T22:12:54.000Z",
-          "wordCount": 7178,
+          "wordCount": 7183,
           "title": "Comitê de Apoio ao AND de Florianópolis realiza escola popular sobre a farsa eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-23.png"
         },
@@ -540,7 +604,7 @@
           "description": "Sete dos trabalhadores eram paraguaios, incluindo dois adolescentes de 15 e 16 anos. O grupo foi recrutado pelas redes sociais, transportado ao Brasil por um intermediário conhecido como “gato” e trabalhava sem receber salários.",
           "link": "https://anovademocracia.com.br/dez-adultos-dois-adolescentes-trabalho-servil-paranacity/",
           "publishedOn": "2026-10-12T22:02:41.000Z",
-          "wordCount": 7807,
+          "wordCount": 7812,
           "title": "PR: Dez adultos e dois adolescentes são resgatados de trabalho servil em Paranacity",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/FOTO-CAPA-1.jpg"
         },
@@ -550,7 +614,7 @@
           "description": "A ofensiva bolsonarista ameaça aprofundar a submissão do País ao imperialismo ianque e os ataques às liberdades democráticas. No A Propósito #375, diretor-geral de AND aponta a luta por direitos e a Revolução Agrária como bases da resistência e desmascara o oportunismo que frustra e desmobiliza as massas, favorecendo a reação.",
           "link": "https://anovademocracia.com.br/enfrentar-extrema-direita-ingerencia-ianque/",
           "publishedOn": "2026-10-12T09:24:24.000Z",
-          "wordCount": 9058,
+          "wordCount": 9063,
           "title": "‘Mobilizar as massas é o remédio para enfrentar a extrema direita e a ingerência ianque’: diretor-geral de AND analisa como preparar a resistência popular",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP375.png"
         },
@@ -560,7 +624,7 @@
           "description": "Estudantes revolucionários da bsCEM e da RSF denunciam prisões e agressões, combatem a exclusão de muçulmanos, dalits e adivasi e defendem a luta pela Nova Democracia contra a farsa eleitoral do velho Estado fascista bramânico-hindutva indiano.",
           "link": "https://anovademocracia.com.br/modi-prende-7-mil-proibe-protestos-india/",
           "publishedOn": "2026-10-12T09:00:00.000Z",
-          "wordCount": 8166,
+          "wordCount": 8171,
           "title": "Governo fascista de Modi prende mais de 7 mil manifestantes e proíbe protestos contra fraude eleitoral na Índia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-10-bsCEM-india.webp"
         },
@@ -570,29 +634,9 @@
           "description": "Em entrevista exclusiva ao AND, jovens comunistas explicam como a luta por condições dignas de estudo e trabalho se liga à luta operária e às aspirações revolucionárias da juventude. A organização denuncia a preparação para a guerra imperialista, a repressão e as tentativas da imprensa burguesa e da social-democracia de isolar e pacificar a rebelião e defende ampliar a mobilização.",
           "link": "https://anovademocracia.com.br/juventude-comunista-franca-rebeliao-and/",
           "publishedOn": "2026-10-11T21:00:03.000Z",
-          "wordCount": 9782,
+          "wordCount": 9787,
           "title": "‘A melhor resposta à repressão é a organização’: Juventude Comunista da França fala ao AND sobre a rebelião secundarista",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-jc-fr-1-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234523",
-          "author": "Redação de AND",
-          "description": "Em 4 de outubro de 1936, operários, imigrantes e moradores do East End de Londres ergueram barricadas e enfrentaram a repressão policial para impedir uma marcha fascista. Mobilização foi organizada sob a direção do Partido Comunista da Grã-Bretanha, que havia consolidado sua influência entre as massas trabalhadoras da região.",
-          "link": "https://anovademocracia.com.br/trabalhador-comunista-batalha-cable-street/",
-          "publishedOn": "2026-10-11T15:00:00.000Z",
-          "wordCount": 7913,
-          "title": "Há 90 anos, trabalhadores dirigidos por comunistas britânicos derrotaram fascistas na Batalha de Cable Street",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/cable-street-cover.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234528",
-          "author": "Redação de AND",
-          "description": "Centenas de milhares de trabalhadores, estudantes e moradores tomaram as ruas de diferentes cidades da Espanha, nas últimas semanas, contra os despejos, o aumento dos aluguéis e a especulação imobiliária. Somente em Madri e Barcelona, duas das maiores manifestações reuniram 620 mil pessoas.",
-          "link": "https://anovademocracia.com.br/espanha-milhares-protestam-contra-despejos/",
-          "publishedOn": "2026-10-10T22:19:28.000Z",
-          "wordCount": 8397,
-          "title": "Centenas de milhares protestam contra despejos e especulação imobiliária na Espanha",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-06-espanha-barcelona-protesto-1024x683.jpg"
         }
       ]
     },
@@ -618,6 +662,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3206566",
+          "author": "Rôney Rodrigues",
+          "description": "Candidato promete megacortes de gastos públicos que podem devastar Previdência, Saúde e Educação. A inspiração: Milei, que arrastou a Argentina para uma grave crise econômica e social. O contraponto necessário de Lula: romper o fiscalismo que minou sua gestão\nThe post O “tesouraço” de Flávio appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/o-tesouraco-de-flavio/",
+          "publishedOn": "2026-10-13T19:03:44.000Z",
+          "wordCount": 4498,
+          "title": "O “tesouraço” de Flávio",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/10/photo_5077925686898527387_w-1500x1000.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3206523",
           "author": "Lucas Scatolini",
@@ -718,7 +772,7 @@
           "description": "Gabriel Teles propõe a categoria de colapso social para nomear não o fim do capitalismo, mas sua forma atual de reprodução. Diante do cenário, a tarefa política parece ser decidir o que precisa ser preservado e quais relações sociais precisam efetivamente perder a capacidade de organizar o mundo.",
           "link": "https://blogdaboitempo.com.br/2026/10/09/o-capitalismo-nao-vai-colapsar-porque-ja-aprendeu-a-administrar-o-colapso/",
           "publishedOn": "2026-10-09T14:29:40.000Z",
-          "wordCount": 9529,
+          "wordCount": 9534,
           "title": "O capitalismo não vai colapsar porque já aprendeu a administrar o colapso",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/rbr5563ta_29_1.webp"
         },
