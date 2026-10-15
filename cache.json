@@ -387,6 +387,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445452",
+          "author": "Isabella Mota",
+          "description": "Você está entre as 33 milhões de pessoas que não votaram no primeiro turno? Então este texto é para você: ele cheira a grana extra, prosperidade e morango do amor.\nO post A gente não quer só comida, a gente quer comida e body splash apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/10/15/a-gente-quer-comida-body-splash/",
+          "publishedOn": "2026-10-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A gente não quer só comida, a gente quer comida e body splash",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/10/Headerwide-11.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-11.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445454",
           "author": "Isabella Mota",
           "description": "A antropóloga Letícia Cesarino, autora do lançamento “Ecologias de crise”, argumenta que as plataformas não são ferramentas neutras e o campo democrático precisa de estratégias híbridas, nos algoritmos e além dos algoritmos, para ganhar a eleição presidencial.\nO post ENTREVISTA: ‘A Meta está sabotando as eleições’, diz Letícia Cesarino apareceu primeiro em Intercept Brasil.",
@@ -429,7 +444,7 @@
           "description": "Em vídeos analisados pela Ponte, agentes usam fardas, viaturas e relatos de atendimentos para ridicularizar mulheres que procuram ajuda ou retomam relações com agressores\nO conteúdo Da ocorrência à piada: policiais transformam violência doméstica em conteúdo nas redes Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/da-ocorrencia-a-piada-policiais-transformam-violencia-domestica-em-conteudo-nas-redes/",
           "publishedOn": "2026-10-14T21:36:20.000Z",
-          "wordCount": 8055,
+          "wordCount": 8243,
           "title": "Da ocorrência à piada: policiais transformam violência doméstica em conteúdo nas redes",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Copia-de-Sem-nome-6.webp"
         },
@@ -439,7 +454,7 @@
           "description": "Em editorial conjunto, 55 veículos ligados à Ajor alertam para riscos à democracia e à liberdade de imprensa e defendem a preservação das instituições democráticas\nO conteúdo Editorial | Veículos de jornalismo se unem pela democracia Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/editorial-jornalismo-independente-defesa-democracia/",
           "publishedOn": "2026-10-14T14:12:01.000Z",
-          "wordCount": 5947,
+          "wordCount": 5885,
           "title": "Editorial | Veículos de jornalismo se unem pela democracia",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/11_0.webp"
         },
@@ -508,12 +523,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268677",
+          "author": "Tatiana Carlotti",
+          "description": "O magnata Elon Musk, proprietário da SpaceX e da Tesla, defendeu a saída do presidente ucraniano, Volodymyr Zelensky, em meio ao agravamento das tensões entre Kiev e Washington, e após ser criticado pelas restrições ao funcionamento dos sistemas de comunicação por satélite utilizados pelas Forças Armadas da Ucrânia. “E assim o massacre continua… É hora […]\nO post Elon Musk afirma que ‘está na hora de Zelensky ir’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/elon-musk-afirma-que-esta-na-hora-de-zelensky-ir/",
+          "publishedOn": "2026-10-15T12:09:54.000Z",
+          "wordCount": 3642,
+          "title": "Elon Musk afirma que ‘está na hora de Zelensky ir’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/04/elon-musk-gage-skidmore.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268670",
+          "author": "Tatiana Carlotti",
+          "description": "O governo da Rússia acusou nesta quinta-feira (15/10) o presidente ucraniano, Volodymyr Zelensky, de dificultar os esforços diplomáticos dos Estados Unidos para encerrar a guerra na Ucrânia. A declaração do porta-voz do Kremlin, Dmitry Peskov, ocorreu após um novo ataque atribuído às forças ucranianas contra uma refinaria de petróleo na região russa de Ryazan, onde […]\nO post Moscou acusa Zelensky de contrariar esforços de Trump e impedir negociações de paz apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/moscou-acusa-zelensky-de-contrariar-esforcos-de-trump-e-impedir-negociacoes-de-paz/",
+          "publishedOn": "2026-10-15T11:22:32.000Z",
+          "wordCount": 3723,
+          "title": "Moscou acusa Zelensky de contrariar esforços de Trump e impedir negociações de paz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/42c546d9-77b9-4b1d-937a-16b73eec618a-499472904-3893605170889830-5016544474877506824-n-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268665",
+          "author": "Tatiana Carlotti",
+          "description": "Mais de 370 mil empregos registrados foram perdidos na Argentina desde que o presidente Javier Milei assumiu o cargo em novembro de 2023. De acordo com dados do Sistema Integrado de Pensões da Argentina (SIPA) até julho de 2026, o emprego no setor privado vem caindo há 14 meses consecutivos, com a perda de até […]\nO post Governo Milei eliminou mais de 370 mil empregos formais na Argentina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/governo-milei-eliminou-mais-de-370-mil-empregos-formais-na-argentina/",
+          "publishedOn": "2026-10-15T10:23:42.000Z",
+          "wordCount": 3931,
+          "title": "Governo Milei eliminou mais de 370 mil empregos formais na Argentina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/milei.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268663",
+          "author": "Tatiana Carlotti",
+          "description": "A OpenAI, desenvolvedora do ChatGPT, alertou a Polícia Federal sobre interações de ao menos dois usuários que sinalizaram, dentro da plataforma, intenção de atacar ou ameaçar o presidente Luiz Inácio Lula da Silva. A empresa compartilhou os diálogos com as autoridades e encerrou ao menos uma das contas envolvidas no começo de outubro. Em uma […]\nO post OpenAI alerta PF sobre ameaças de morte a Lula no ChatGPT apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/openai-alerta-pf-sobre-ameacas-de-morte-a-lula-no-chatgpt/",
+          "publishedOn": "2026-10-15T10:10:39.000Z",
+          "wordCount": 4295,
+          "title": "OpenAI alerta PF sobre ameaças de morte a Lula no ChatGPT",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/55538513815_230fec9b99_z.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268474",
+          "author": "Rocio Paik",
+          "description": "A mobilização que impulsionou o ato massivo na capital paulista no último domingo (11/10) teve como protagonistas comunidades de fãs de artistas, sobretudo de grupos do gênero musical sul-coreano K-pop. Organizadas em torno de seus ídolos, essas comunidades incentivaram os seus seguidores, divulgaram informações e articularam diferentes fanbases — páginas e grupos dedicados a artistas […]\nO post Das redes sociais para as ruas: como fandoms de K-pop impulsionam campanha para reeleger Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/do-meio-digital-para-as-ruas-como-fandoms-de-k-pop-impulsionam-campanha-para-reeleger-lula/",
+          "publishedOn": "2026-10-15T10:00:06.000Z",
+          "wordCount": 6974,
+          "title": "Das redes sociais para as ruas: como fandoms de K-pop impulsionam campanha para reeleger Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/842785030_2630331690751798_4299478626821094582_n-e1791964095796.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268654",
+          "author": "Rocio Paik",
+          "description": "Após 12 anos de sua conclusão, a Nova Ponte do Rio Yalu, que liga as províncias de Liaoning, na China, e de Pyongan do Norte, na Coreia do Norte, foi inaugurada nesta quinta-feira (15/10), aprofundando os laços econômicos entre as nações. Atualmente, Pequim é o maior parceiro comercial dos norte-coreanos, fornecendo apoio nas esferas diplomática, […]\nO post China e Coreia do Norte inauguram nova ponte que interliga países e aprofundam laços econômicos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/china-e-coreia-do-norte-inauguram-nova-ponte/",
+          "publishedOn": "2026-10-15T05:34:41.000Z",
+          "wordCount": 3256,
+          "title": "China e Coreia do Norte inauguram nova ponte que interliga países e aprofundam laços econômicos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268651",
+          "author": "Rocio Paik",
+          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, chamou o Brasil de “um pequeno país” ao recordar seu comparecimento na posse cerimonial de Jair Bolsonaro, então presidente eleito em 2019. A fala foi feita na quarta-feira (14/10) durante a inauguração da embaixada da Colômbia em Jerusalém ocupada. O premiê sugeriu que poderá novamente visitar o Brasil caso […]\nO post Netanyahu chama Brasil de ‘país pequeno’ ao defender candidatura de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/netanyahu-chama-brasil-de-pais-pequeno-ao-defender-candidatura-de-flavio-bolsonaro/",
+          "publishedOn": "2026-10-15T04:45:34.000Z",
+          "wordCount": 3619,
+          "title": "Netanyahu chama Brasil de ‘país pequeno’ ao defender candidatura de Flávio Bolsonaro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/bolsonaro_with_israeli_pm_benjamin_netanyahu_jerusalem_31_march_2019.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268646",
           "author": "Rocio Paik",
           "description": "O presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT), celebrou na noite desta quarta-feira (14/10) a aprovação da Proposta de Emenda à Constituição (PEC) 221, de 2019, que acaba com a escala de trabalho 6×1. “É oficial: a escala 6×1 acabou! Hoje é dia de comemorar uma conquista histórica de milhões de […]\nO post Lula celebra aprovação da PEC do fim da escala 6×1: ‘conquista histórica’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-celebra-aprovacao-da-pec-do-fim-da-escala-6x1-conquista-historica/",
           "publishedOn": "2026-10-15T02:37:36.000Z",
-          "wordCount": 4948,
+          "wordCount": 4956,
           "title": "Lula celebra aprovação da PEC do fim da escala 6×1: ‘conquista histórica’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/552102936189f89d101e04k-ad7fc084-2048x1365-1.webp"
         },
@@ -523,7 +608,7 @@
           "description": "Atualizada às 22h50 Em vitória histórica de movimentos sindicais e populares, o Senado brasileiro aprovou na noite desta quarta-feira (14/10) a Proposta de Emenda à Constituição (PEC 221/2019) que prevê o fim da escala de trabalho 6×1. O texto se consolida como uma das maiores bandeiras da campanha de reeleição do presidente Luiz Inácio Lula […]\nO post Senado aprova PEC do fim da escala 6×1 em vitória histórica para Lula e trabalhadores apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/senado-aprova-pec-do-fim-da-escala-6x1/",
           "publishedOn": "2026-10-14T23:55:45.000Z",
-          "wordCount": 4160,
+          "wordCount": 4168,
           "title": "Senado aprova PEC do fim da escala 6×1 em vitória histórica para Lula e trabalhadores",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/sem_titulo-6.webp"
         },
@@ -533,79 +618,9 @@
           "description": "A primeira pesquisa Quaest sobre o segundo turno da eleição presidencial de 2026, divulgada nesta quarta-feira (14/10), aponta empate técnico entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ). O parlamentar registra 46% das intenções de voto, enquanto o petista alcança 44%, uma diferença de dois pontos percentuais. O […]\nO post Quaest: Flávio Bolsonaro tem 46% e Lula 44% no segundo turno apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/quaest-flavio-bolsonaro-tem-46-e-lula-44-no-segundo-turno/",
           "publishedOn": "2026-10-14T22:04:34.000Z",
-          "wordCount": 3215,
+          "wordCount": 3662,
           "title": "Quaest: Flávio Bolsonaro tem 46% e Lula 44% no segundo turno",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-14-185452.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268626",
-          "author": "Victor Farinelli",
-          "description": "A campanha do presidente Luiz Inácio Lula da Silva (PT) entregou à Organização dos Estados Americanos (OEA), nesta quarta-feira (14/10) uma denúncia sobre a atuação da empresa Meta contra sua campanha para a reeleição à Presidência da República. A iniciativa segue ação no mesmo sentido apresentada dias antes ao Tribunal Superior Eleitoral (TSE), também sobre […]\nO post Campanha de Lula diz que irá denunciar à OEA postura intervencionista da Meta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/campanha-de-lula-diz-que-ira-denunciar-a-oea-postura-intervencionista-da-meta/",
-          "publishedOn": "2026-10-14T21:46:25.000Z",
-          "wordCount": 3835,
-          "title": "Campanha de Lula diz que irá denunciar à OEA postura intervencionista da Meta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lula.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268619",
-          "author": "Victor Farinelli",
-          "description": "Em coletiva realizada horas antes da sessão no Senado que definiu a aprovação do projeto de fim da escala 6×1, o deputado Sóstenes Cavalcante (PL-RJ), líder do seu partido na Câmara, afirmou que, embora os senadores e deputados do seu partido tenham votado a favor da proposta, esse setor pretende reverter a política em um […]\nO post Líder do PL admite que Flávio Bolsonaro tentará reverter fim da 6×1 com PEC das Horas Trabalhadas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lider-do-pl-admite-que-flavio-bolsonaro-tentara-reverter-fim-da-6x1-com-pec-das-horas-trabalhadas/",
-          "publishedOn": "2026-10-14T20:43:51.000Z",
-          "wordCount": 3534,
-          "title": "Líder do PL admite que Flávio Bolsonaro tentará reverter fim da 6×1 com PEC das Horas Trabalhadas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/sost.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268620",
-          "author": "Raissa Neves",
-          "description": "Em um país marcado por elevados índices de violência contra a população LGBT+, discriminação e exclusão social, a chegada do Partido dos Trabalhadores (PT) à Presidência da República abriu um novo capítulo na história das políticas públicas voltadas à diversidade sexual e de gênero. Ao longo dos governos de Luiz Inácio Lula da Silva e […]\nO post Direitos LGBT+, conquistas e avanços dos governos petistas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/direitos-lgbt-conquistas-e-avancos-dos-governos-petistas/",
-          "publishedOn": "2026-10-14T20:40:36.000Z",
-          "wordCount": 5114,
-          "title": "Direitos LGBT+, conquistas e avanços dos governos petistas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lula-direitos-lgbt.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268610",
-          "author": "Raissa Neves",
-          "description": "A crise ecológica contemporânea e as possibilidades de construção da sustentabilidade constituem o tema central da obra Desenvolvimento Verde China América Latina, organizada por Guo Cunhai e Márcio Pochmann. Publicado em 2026 pela Chaohua Publishing House, o livro reúne pesquisadores chineses e latino-americanos em torno de uma agenda que articula desenvolvimento, sustentabilidade, inovação tecnológica, transição […]\nO post Desenvolvimento Verde China América Latina apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/desenvolvimento-verde-china-america-latina/",
-          "publishedOn": "2026-10-14T19:58:49.000Z",
-          "wordCount": 4774,
-          "title": "Desenvolvimento Verde China América Latina",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/15346922866_db78b925b1_z.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268607",
-          "author": "Raissa Neves",
-          "description": "O combate à violência nas escolas virou justificativa para o governo de Keiko Fujimori impor regras mais rígidas à aparência dos estudantes no Peru. As novas diretrizes restringem o uso de maquiagem e esmalte, cabelos tingidos e saias curtas, além de estabelecer padrões para os penteados dos meninos. A iniciativa aproxima a política educacional peruana […]\nO post Keiko Fujimori proíbe cabelo comprido, maquiagem e unhas pintadas nas escolas públicas do Peru apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/keiko-fujimori-proibe-cabelo-comprido-maquiagem-e-unhas-pintadas-nas-escolas-publicas-do-peru/",
-          "publishedOn": "2026-10-14T19:57:55.000Z",
-          "wordCount": 3558,
-          "title": "Keiko Fujimori proíbe cabelo comprido, maquiagem e unhas pintadas nas escolas públicas do Peru",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55589471724_3983b69c58_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268600",
-          "author": "Victor Farinelli",
-          "description": "O Tribunal Superior Eleitoral (TSE) confirmou nesta quarta-feira (14/10) que o Brasil receberá sete missões internacionais que irão acompanhar o segundo turno das eleições no país, marcados para o dia 25 de outubro. Segundo o comunicado do órgão eleitoral, delegações da Organização dos Estados Americanos (OEA), do Parlamento do Mercosul e da União Europeia estarão […]\nO post Brasil terá sete missões internacionais acompanhando segundo turno eleitoral apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/brasil-tera-sete-missoes-internacionais-acompanhando-segundo-turno-eleitoral/",
-          "publishedOn": "2026-10-14T18:20:30.000Z",
-          "wordCount": 3229,
-          "title": "Brasil terá sete missões internacionais acompanhando segundo turno eleitoral",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/tse.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268586",
-          "author": "Raissa Neves",
-          "description": "Os cinco partidos com políticos que mais atuaram em pautas consideradas contrárias aos povos indígenas, segundo a plataforma do Conselho Indigenista Missionário (Cimi), vão ocupar 53 cadeiras no Senado Federal a partir de 2027. São eles o PL, o PP, o Republicanos, o União Brasil e o MDB. O PL conseguiu ocupar a maior bancada […]\nO post Bancada indígena diminui no Congresso e lideranças se preparam para desmonte e retrocesso apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/bancada-indigena-diminui-no-congresso-e-liderancas-se-preparam-para-desmonte-e-retrocesso/",
-          "publishedOn": "2026-10-14T17:40:43.000Z",
-          "wordCount": 6548,
-          "title": "Bancada indígena diminui no Congresso e lideranças se preparam para desmonte e retrocesso",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-14-135507.png"
         }
       ]
     },
@@ -666,7 +681,7 @@
           "description": "PEC assinada pelo candidato mantém o teto de 44 horas semanais e prevê remuneração proporcional às horas trabalhadas, com prevalência do contrato individual sobre a negociação coletiva.",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-discurso-escala-6x1/",
           "publishedOn": "2026-10-14T21:35:23.000Z",
-          "wordCount": 8231,
+          "wordCount": 8229,
           "title": "Flávio Bolsonaro muda de discurso sobre o fim da escala 6 por 1, mas articula seu esvaziamento para 2027",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-31.png"
         },
@@ -739,7 +754,7 @@
           "description": "Combativa e criativa, juventude cria movimento antifascista de baixo para cima, muito além dos partidos e suas direções. Um mote cada vez repetido entre os baianos chama a atenção para a necessidade de estender a política muito além das eleições\nThe post Na Bahia, fascista não se cria appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/na-bahia-fascista-nao-se-cria/",
           "publishedOn": "2026-10-14T23:59:54.000Z",
-          "wordCount": 3849,
+          "wordCount": 3835,
           "title": "Na Bahia, fascista não se cria",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-2.jpg"
         },
@@ -749,19 +764,19 @@
           "description": "Crônica política a partir de Parnaíba. Aqui, a juventude que foi às ruas mora em bairros populares, conhece a penúria. É orgulho e esperança de suas família. Muda votos. E sua energia, agora renovada, pode dar novo rumo a Lula 4 – sacudindo instituições e partidos ossificados\nThe post Como os estudantes mudaram a cena appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/como-os-estudantes-mudaram-a-cena/",
           "publishedOn": "2026-10-14T23:30:16.000Z",
-          "wordCount": 3873,
+          "wordCount": 3862,
           "title": "Como os estudantes mudaram a cena",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-2.png"
         },
         {
           "id": "https://outraspalavras.net/?p=3206713",
           "author": "Lucas Scatolini",
-          "description": "Congresso e STF eliminam, desde 2017, longa lista de direitos. Quais são. Como o programa de Flávio prevê tornar tudo pior. Por que eleição e propostas de Lula são insuficientes – mas abrem caminho para fim dos retrocessos e retomada das lutas \nThe post Trabalho: E depois do fim da 6×1? appeared first on Outras Palavras.",
+          "description": "Vitória histórica convida a resgatar a longa lista de direitos eliminados, desde 2017, pelo Congresso e STF. Como  Flávio prevê tornar tudo pior. Por que propostas de Lula são insuficientes – mas abrem caminho para  a retomada das lutas\nThe post Trabalho: E depois do fim da 6×1? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/trabalho-e-depois-do-fim-da-6x1/",
           "publishedOn": "2026-10-14T23:26:29.000Z",
-          "wordCount": 5311,
+          "wordCount": 5295,
           "title": "Trabalho: E depois do fim da 6×1?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Captura-de-tela-de-2026-10-14-20-24-56.png"
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Gaiola6.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3206745",
@@ -769,7 +784,7 @@
           "description": "Em texto coletivo, mídias independentes apontam os riscos à democracia, caso Flávio seja eleito. Dados mostram a explosão de casos de violência contra jornalistas no governo Bolsonaro. Defender a profissão é crucial para o direito à informação e o futuro do Brasil\nThe post O jornalismo contra o retorno da barbárie appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/o-jornalismo-contra-o-retorno-da-barbarie/",
           "publishedOn": "2026-10-14T22:30:15.000Z",
-          "wordCount": 4293,
+          "wordCount": 4288,
           "title": "O jornalismo contra o retorno da barbárie",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-14-at-19-29-42-14.10_DEMOCRACIA_cAPA-1.webp-imagem-WEBP-1003-%C3%97-532-pixels.png"
         },
@@ -779,7 +794,7 @@
           "description": "Narrativa neoliberal de liberdade seduz muitos jovens. A prosperidade viria, desde que “façam por merecer”. Em época de eleições, uma consciência é fundamental: construir o próprio futuro depende de uma sociedade comprometida com a formação e o direitos de todos\nThe post Educação: Um convite à autonomia dos jovens appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/educacao-um-convite-a-autonomia-dos-jovens/",
           "publishedOn": "2026-10-14T20:21:17.000Z",
-          "wordCount": 4395,
+          "wordCount": 4384,
           "title": "Educação: Um convite à autonomia dos jovens",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5080070602156084679_w.jpg"
         },
@@ -789,7 +804,7 @@
           "description": "A poucos dias da eleição, estratégia mais certeira é mirar a periferia distante -- onde Lula já venceu, mas a abstenção aumentou. Na Grande SP, onde a disputa é acirrada, desafio é virar os votos perdidos para Flávio. No interior, qualquer margem ganha à ultradireita é importante\nThe post SP: Em dados, os caminhos para virar votos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/sp-em-dados-os-caminhos-para-virar-votos/",
           "publishedOn": "2026-10-14T19:16:45.000Z",
-          "wordCount": 6779,
+          "wordCount": 6768,
           "title": "SP: Em dados, os caminhos para virar votos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/1_Favela-em-Santo-Andre.-Arquivo-ABCD-Maior.-Rede-Brasil-Atual.png"
         },
@@ -809,7 +824,7 @@
           "description": "Mobilização nas redes é importante, mas não basta. Ruas demonstram força, não furam a bolha. Experiências de campanhas como as de Mamdani ou Die Linke demonstram que a velha conversa porta a porta não só ganha votos como também engaja mais à ação\nThe post Eleições: há vida além do digital appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-ha-vida-alem-do-digital/",
           "publishedOn": "2026-10-13T22:10:35.000Z",
-          "wordCount": 4630,
+          "wordCount": 4640,
           "title": "Eleições: há vida além do digital",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5077925686898527422_x-1.jpg"
         },
@@ -819,7 +834,7 @@
           "description": "Em cenário difícil, eclode nas periferias outra luta pelo Comum. Macron impõe “ajuste fiscal”; jovens exigem escola digna, buscam apoio nas universidades e preparam nova jornada sábado. Ultradireita exige “ordem”. Esquerda junta-se ao movimento\nThe post França: os sentidos da grande revolta appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/franca-os-sentidos-da-grande-revolta/",
           "publishedOn": "2026-10-13T21:40:04.000Z",
-          "wordCount": 7484,
+          "wordCount": 7490,
           "title": "França: os sentidos da grande revolta",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-6.jpeg"
         },
@@ -829,7 +844,7 @@
           "description": "Seria trágico sucumbir ao bolsonarismo, quando Trump se fragiliza. País e Lula podem ter grande papel na luta para mudar o sistema financeiro global. Mas sem enfrentar o rentismo e a injustiça tributária, governo sempre estará de mãos atadas\nThe post Piketty: o Brasil precisa vencer appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/piketty-obrasil-precisa-vencer/",
           "publishedOn": "2026-10-13T21:15:31.000Z",
-          "wordCount": 6369,
+          "wordCount": 6473,
           "title": "Piketty: o Brasil precisa vencer",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-1.jpg"
         }
@@ -841,12 +856,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160110",
+          "author": "Passa Palavra",
+          "description": "Dilemas e perspectivas para o segundo turno de 2026. Por vidaventovela",
+          "link": "https://passapalavra.info/2026/10/160110/",
+          "publishedOn": "2026-10-15T11:14:51.000Z",
+          "wordCount": 4986,
+          "title": "A emenda ficou pior que o soneto",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/Ismael-Nery-Autorretratos-ru9zchjkrzfiei92xv1ee8ksm21x54v4xq5ilb6plg.webp"
+        },
+        {
           "id": "https://passapalavra.info/?p=160114",
           "author": "Passa Palavra",
           "description": "O que estamos fazendo diante da criminalização das lutas sociais que já acontece dentro da democracia? Por Favela do Moinho",
           "link": "https://passapalavra.info/2026/10/160114/",
           "publishedOn": "2026-10-14T11:33:12.000Z",
-          "wordCount": 4584,
+          "wordCount": 4591,
           "title": "[São Paulo] Liberdade para Alê!",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/05/MOVIMENTO_LUTA.png"
         },
@@ -856,7 +881,7 @@
           "description": "Um grupo de professores do ensino fundamental debate o resultado do 1º turno das eleições brasileiras de 2026, em que Flávio Bolsonaro venceu Lula. Por Professores do Primário",
           "link": "https://passapalavra.info/2026/10/160096/",
           "publishedOn": "2026-10-13T19:10:58.000Z",
-          "wordCount": 4882,
+          "wordCount": 4881,
           "title": "Professores do ensino fundamental debatem o 1º turno",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/reminiscence-2005.jpg"
         },
@@ -903,7 +928,7 @@
           "description": "Lisandro Cañón intervém no debate aberto pelo artigo de Vladimir Safatle sobre os estudos decoloniais, recusando os dois lados da querela. Sua tese é que a disputa terminológica entre colonialismo, colonialidade e decolonialidade encobre a pergunta que importa: que relações sociais concretas cada categoria consegue explicar — e, sobretudo, o que as reproduz materialmente.",
           "link": "https://blogdaboitempo.com.br/2026/10/14/alem-do-debate-decolonial-colonialismo-capitalismo-e-a-critica-materialista/",
           "publishedOn": "2026-10-14T11:00:00.000Z",
-          "wordCount": 9092,
+          "wordCount": 9095,
           "title": "Além do debate decolonial: colonialismo, capitalismo e a crítica materialista",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/02_frantz-fanon-lors-dune-conference-de-presse-du-congres-des-ecrivains-a-tunis-1959.jpg"
         },
@@ -913,7 +938,7 @@
           "description": "Rafael Rezende reflete sobre a aproximação das campanhas e estratégias de Javier Milei e Flávio Bolsonaro, marcadas pela interferência estadunidense. Apenas uma vitória eleitoral de Lula evitaria a argentinização do Brasil.",
           "link": "https://blogdaboitempo.com.br/2026/10/13/unidos-e-ungidos-por-trump-o-que-liga-flavio-bolsonaro-a-javier-milei/",
           "publishedOn": "2026-10-13T21:25:37.000Z",
-          "wordCount": 5207,
+          "wordCount": 5206,
           "title": "Unidos e ungidos por Trump: o que liga Flávio Bolsonaro a Javier Milei",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/photo-collage.png-1.png?fit=1200%2C675&ssl=1"
         }
