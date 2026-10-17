@@ -4,7 +4,38 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "dy3tMk",
+          "author": null,
+          "description": "O Senado aprovou por 75 votos a 1 o fim da jornada de seis dias por um de descanso, sem redução de salário. A conquista só chegou ao plenário porque 78% da população a apoiaram e aumentaram a pressão popular por sua aprovação",
+          "link": "https://jornalofuturo.com.br/artigo/dy3tMk-fim-da-escala-6x1-e-vitoria-dos-trabalhadores",
+          "publishedOn": "2026-10-16T03:00:00.000Z",
+          "wordCount": 3784,
+          "title": "Fim da escala 6x1 é vitória dos trabalhadores",
+          "imageUrl": "https://media.jornalofuturo.com.br/6x1%20JULHO%20(37%20de%2055)%20(2)-1280x720.jpg"
+        },
+        {
+          "id": "lIJmi3",
+          "author": null,
+          "description": "O PCBR iniciou a implementação de seu Sistema Nacional de Formação Política para a militância. A formação é concebida para nós como parte central da luta teórica pela posição proletária e da construção de quadros de um partido marxista-leninista",
+          "link": "https://jornalofuturo.com.br/artigo/lIJmi3-por-que-educar-revolucionariamente",
+          "publishedOn": "2026-10-15T03:00:00.000Z",
+          "wordCount": 1835,
+          "title": "Por que educar revolucionariamente?",
+          "imageUrl": "https://media.jornalofuturo.com.br/1000606710-1068x1084.jpg"
+        },
+        {
+          "id": "7ldjrc",
+          "author": null,
+          "description": "O Acordo de Meca une Turquia, Arábia Saudita e Paquistão na cooperação militar e na disputa de suas burguesias por mercados e zonas de influência",
+          "link": "https://jornalofuturo.com.br/artigo/7ldjrc-turquia-arabia-saudita-e-paquistao-firmam-pacto-militar-na-disputa-imperialista",
+          "publishedOn": "2026-10-14T03:00:00.000Z",
+          "wordCount": 2892,
+          "title": "Turquia, Arábia Saudita e Paquistão firmam pacto militar na disputa imperialista",
+          "imageUrl": "https://media.jornalofuturo.com.br/000-C47Q3ZT-1024x576.webp"
+        }
+      ]
     },
     {
       "title": "Opinião Socialista",
@@ -168,6 +199,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Uma-noite-das-barricadas-nacional-o-movimento-operario-deve-entrar-na-batalha-como-em-1968",
+          "author": "Yann Le Bras",
+          "description": "Ao mobilizar trabalhadores e coletes amarelos neste sábado, a revolta dos colégios foi o estopim de um movimento social mais amplo. A determinação demonstrada neste sábado, apesar da repressão das últimas semanas, abre novas perspectivas. Para concretizá-las, é preciso preparar a entrada em luta do movimento operário por meio da greve, da auto-organização e dos encontros interprofissionais. Reflexões no calor do momento. \n Embora a jornada ainda não tenha terminado e restem dúvidas sobre a (…)\n16-10-2026\n\n/ Internacional, França, Juventude trabalhadora, Crise política na França",
+          "link": "https://www.esquerdadiario.com.br/Uma-noite-das-barricadas-nacional-o-movimento-operario-deve-entrar-na-batalha-como-em-1968",
+          "publishedOn": "2026-10-17T17:42:09.000Z",
+          "wordCount": null,
+          "title": "Uma \"noite das barricadas\" nacional: o movimento operário deve entrar na batalha como em 1968!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/17O-uma-manifestacao-massiva-e-radicalizada-incendeia-todo-o-pais",
+          "author": "Paul Morao",
+          "description": "A raiva na França está realmente presente e se alastra por todo o país. Enquanto muitos questionavam a capacidade da jornada de luta do 17 de outubro de cumprir suas promessas, a mobilização já se faz notar.\n16-10-2026\n\n/ Internacional, Juventude, França, Juventude trabalhadora, Emmanuel Macron, Crise política na França",
+          "link": "https://www.esquerdadiario.com.br/17O-uma-manifestacao-massiva-e-radicalizada-incendeia-todo-o-pais",
+          "publishedOn": "2026-10-17T17:09:06.000Z",
+          "wordCount": null,
+          "title": "17O: uma manifestação massiva e radicalizada incendeia todo o país",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Trump-move-tropas-para-Panama-Colombia-e-Honduras-abaixo-o-Escudo-das-Americas-e-fora-EUA-da-regiao",
           "author": "Redação",
@@ -642,12 +693,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268886",
+          "author": "Fernanda Oliveira",
+          "description": "O governo de Donald Trump respondeu a um grupo de parlamentares democratas dos Estados Unidos sem confirmar se reconhecerá o resultado das eleições presidenciais brasileiras de 2026. Em carta enviada na quinta-feira (15/10), o Departamento de Estado afirmou que apoia o direito dos brasileiros a eleições livres e justas, mas não respondeu diretamente ao pedido […]\nO post Governo Trump evita confirmar se reconhecerá resultado das eleições brasileiras apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/governo-trump-evita-confirmar-se-reconhecera-resultado-das-eleicoes-brasileiras/",
+          "publishedOn": "2026-10-17T17:15:53.000Z",
+          "wordCount": 3715,
+          "title": "Governo Trump evita confirmar se reconhecerá resultado das eleições brasileiras",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55585685189_09b5dac7f7_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268880",
+          "author": "Fernanda Oliveira",
+          "description": "Milhares de pessoas participaram de manifestações na França e na Itália entre sexta-feira (16/10) e este sábado (17/10), em mobilizações contra o custo de vida, as condições das escolas públicas e as prioridades de gastos dos governos. Na França, manifestações convocadas por estudantes, sindicatos e participantes ligados ao movimento dos coletes amarelos reuniram neste sábado […]\nO post Protestos na França e Itália reúnem estudantes e trabalhadores contra cortes e custo de vida apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/protestos-na-franca-e-italia-reunem-estudantes-e-trabalhadores-contra-cortes-e-custo-de-vida/",
+          "publishedOn": "2026-10-17T16:30:17.000Z",
+          "wordCount": 4163,
+          "title": "Protestos na França e Itália reúnem estudantes e trabalhadores contra cortes e custo de vida",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-17-132903.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268836",
+          "author": "Victor Farinelli",
+          "description": "Após o encerramento do primeiro turno, com Flávio Bolsonaro em primeiro lugar e uma vitória retumbante do PL e da extrema direita no Congresso Nacional, uma série de mobilizações surpreendentes, organizadas inicialmente por estudantes nas universidades e fortalecidas por professores, sindicatos e outros movimentos sociais, transformou-se em atos massivos de apoio à reeleição do presidente […]\nO post A caça às bruxas de um eventual governo Bolsonaro já começou apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-caca-as-bruxas-de-um-eventual-governo-bolsonaro-ja-comecou/",
+          "publishedOn": "2026-10-17T15:48:01.000Z",
+          "wordCount": 4459,
+          "title": "A caça às bruxas de um eventual governo Bolsonaro já começou",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55238405502_d11b2eb36d_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268872",
+          "author": "Fernanda Oliveira",
+          "description": "O governo dos Emirados Árabes Unidos concordou em retomar o financiamento de forças iemenitas que combatem os houthis no sul do país, enquanto a Arábia Saudita se comprometeu a fornecer cobertura aérea a essas tropas, segundo reportagem publicada neste sábado (17/10) pelo jornal britânico The Guardian. Segundo o periódico, o acordo teria sido motivado pelos […]\nO post Emirados Árabes Unidos retomam apoio a forças anti-houthis no Iêmen, diz Guardian apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/emirados-arabes-unidos-retomam-apoio-a-forcas-anti-houthis-no-iemen-diz-guardian/",
+          "publishedOn": "2026-10-17T15:27:24.000Z",
+          "wordCount": 4100,
+          "title": "Emirados Árabes Unidos retomam apoio a forças anti-houthis no Iêmen, diz Guardian",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/emirate_mirage_2000_jets.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268720",
+          "author": "Tatiana Carlotti",
+          "description": "A oito dias do segundo turno presidencial marcado por denúncias de manipulação dos algoritmos pelas plataformas digitais, os brasileiros se levantaram nas ruas e nas redes em prol da reeleição do presidente Luiz Inácio Lula da Silva. A luta não é contra um candidato, no caso, Flávio Bolsonaro (PL), mas contra uma nova forma de […]\nO post ‘Falta de transparência das big techs favorece conteúdos da extrema direita nas eleições’, afirma sociólogo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/falta-de-transparencia-das-big-techs-favorece-conteudos-da-extrema-direita-nas-eleicoes-afirma-sociologo/",
+          "publishedOn": "2026-10-17T14:41:51.000Z",
+          "wordCount": 8200,
+          "title": "‘Falta de transparência das big techs favorece conteúdos da extrema direita nas eleições’, afirma sociólogo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/52668691419_9f3391d1c9_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268864",
+          "author": "Fernanda Oliveira",
+          "description": "O governo russo comemorou neste sábado (17/10) a decisão do presidente dos Estados Unidos, Donald Trump, de suspender a aplicação de novas sanções econômicas contra o país. Kirill Dmitriev, assessor do Kremlin para a cooperação econômica internacional, classificou a medida como um “momento importante e verdadeiramente histórico”. “A suspensão da Lei Graham pela administração Trump […]\nO post Kremlin comemora decisão do governo Trump de suspender novas sanções contra a Rússia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/politica-e-economia/kremlin-comemora-decisao-do-governo-trump-de-suspender-novas-sancoes-contra-a-russia/",
+          "publishedOn": "2026-10-17T13:51:44.000Z",
+          "wordCount": 3729,
+          "title": "Kremlin comemora decisão do governo Trump de suspender novas sanções contra a Rússia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/vladimir_putin_and_donald_trump_at_the_2017_g-20_hamburg_summit_2.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268845",
           "author": "Raissa Neves",
           "description": "O Tribunal Superior Eleitoral (TSE) aprovou nesta sexta-feira (16/10), novas regras para identificar canais de WhatsApp vinculados a campanhas eleitorais. A decisão ocorre em meio à disputa judicial envolvendo o canal Exército do Lula, que reúne mais de quatro milhões de seguidores, e às denúncias de possível favorecimento político nas plataformas da Meta. A regulamentação […]\nO post TSE aprova restrições para canais eleitorais no WhatsApp após denúncias contra Meta apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/tse-aprova-restricoes-para-canais-eleitorais-no-whatsapp-apos-denuncias-contra-meta/",
           "publishedOn": "2026-10-16T22:00:10.000Z",
-          "wordCount": 4396,
+          "wordCount": 4386,
           "title": "TSE aprova restrições para canais eleitorais no WhatsApp após denúncias contra Meta",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/julio-lopez-ilbjfrwogza-unsplash-scaled.jpg"
         },
@@ -657,7 +768,7 @@
           "description": "Uma reportagem especial do site Intercept Brasil, publicada nesta sexta-feira (16/10), revelou que Flávio Bolsonaro teria feito negócios com a empresa norte-americana de cibersegurança Elytron que oferece serviço de inteligência artificial capaz de manipular eleições de forma clandestina. A investigação, cujo texto é assinado pelos jornalistas Laís Martins, Leandro Becker e Eduardo Goulart, afirma que […]\nO post Flávio Bolsonaro pagou R$ 600 mil a empresa nos EUA que vende sistema para manipular eleições, diz site apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-pagou-r-600-mil-a-empresa-nos-eua-que-vende-sistema-para-manipular-eleicoes-diz-site/",
           "publishedOn": "2026-10-16T21:57:01.000Z",
-          "wordCount": 3862,
+          "wordCount": 3852,
           "title": "Flávio Bolsonaro pagou R$ 600 mil a empresa nos EUA que vende sistema para manipular eleições, diz site",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/enytron.jpg"
         },
@@ -667,7 +778,7 @@
           "description": "Por trás da ostensiva polarização entre socialistas e conservadores, a ciência política e a sociologia identificam um fenômeno surpreendente: ambos os lados abandonaram suas matrizes ideológicas tradicionais para adotar a mesma gramática conceitual de matriz liberal. Em vez de centralizar o debate na luta de classes ou na preservação da ordem comunitária tradicional, a política […]\nO post A batalha das identidades entre petismo e bolsonarismo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-batalha-das-identidades-entre-petismo-e-bolsonarismo/",
           "publishedOn": "2026-10-16T21:54:59.000Z",
-          "wordCount": 4941,
+          "wordCount": 5372,
           "title": "A batalha das identidades entre petismo e bolsonarismo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/magno_malta_exibe_panfleto_no_plenario_do_senado-9_de_junho_de_2015.jpg"
         },
@@ -677,69 +788,9 @@
           "description": "A pervasividade das Big Techs torna-se cada vez mais notória, especialmente no contexto eleitoral atual. A última evidência publicamente reconhecida veio pela descoberta de um viés explícito na ferramenta de IA generativa do WhatsApp, plataforma da Meta, que possui um “filtro interno de segurança” em seu gerador de imagens inibindo a produção de conteúdos relacionados […]\nO post Davi e o Golias digital apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/davi-e-o-golias-digital/",
           "publishedOn": "2026-10-16T21:38:14.000Z",
-          "wordCount": 6774,
+          "wordCount": 6764,
           "title": "Davi e o Golias digital",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/54562910791_02f9bcc274_b.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268850",
-          "author": "Raissa Neves",
-          "description": "O acesso à moradia digna permanece um dos grandes desafios sociais enfrentados pelo Brasil. A possibilidade de viver com segurança e dignidade sempre foi profundamente condicionada pela desigualdade de renda e pela concentração da propriedade. A formação histórica das cidades brasileiras, marcada pela segregação espacial, pela especulação imobiliária e pela insuficiência de políticas habitacionais contínuas, […]\nO post Minha Casa, Minha Vida: como Lula levou o sonho da casa própria a milhões de brasileiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/minha-casa-minha-vida-como-lula-levou-o-sonho-da-casa-propria-a-milhoes-de-brasileiros/",
-          "publishedOn": "2026-10-16T21:32:25.000Z",
-          "wordCount": 4937,
-          "title": "Minha Casa, Minha Vida: como Lula levou o sonho da casa própria a milhões de brasileiros",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/01.08.2025_-_cerimonia_de_entrega_simultanea_de_unidades_habitacionais_do_minha_casa_minha_vida_-_54692672897.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268829",
-          "author": "Raissa Neves",
-          "description": "O papa Leão XIV conversou por telefone com o presidente da Rússia, Vladimir Putin, nesta sexta-feira (16/10), e pediu uma trégua em Oleshky, na região ucraniana de Kherson, para viabilizar a chegada de ajuda humanitária aos moradores. A informação foi divulgada pela Sala de Imprensa do Vaticano. De acordo com a Santa Sé, o pontífice […]\nO post Papa Leão 14 pede cessar-fogo em cidade ucraniana durante conversa com Putin apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/papa-leao-14-pede-cessar-fogo-em-cidade-ucraniana-durante-conversa-com-putin/",
-          "publishedOn": "2026-10-16T20:00:48.000Z",
-          "wordCount": 3909,
-          "title": "Papa Leão 14 pede cessar-fogo em cidade ucraniana durante conversa com Putin",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/design-sem-nome-1-e1792173965386.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268840",
-          "author": "Tabitha Ramalho",
-          "description": "Milhares de estudantes foram às ruas nesta sexta-feira (16/10) em importantes cidades italianas como Roma, Milão, Bolonha e Turim para exigir melhorias estruturais na educação pública e protestar contra o governo da premiê Giorgia Meloni. Grupos estudantis denunciaram a deterioração progressiva da infraestrutura escolar e exigiram que os 13 bilhões de euros destinados a gastos […]\nO post Estudantes tomam as ruas da Itália contra governo de Meloni: ‘dinheiro para escolas, não para a guerra’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/estudantes-tomam-as-ruas-da-italia-contra-governo-de-meloni-dinheiro-para-escolas-nao-para-a-guerra/",
-          "publishedOn": "2026-10-16T19:10:53.000Z",
-          "wordCount": 3530,
-          "title": "Estudantes tomam as ruas da Itália contra governo de Meloni: ‘dinheiro para escolas, não para a guerra’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/huvp0nswqaapiyf.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268825",
-          "author": "Tatiana Carlotti",
-          "description": "O primeiro-ministro e chanceler do Catar, Mohammed bin Abdulrahman Al Thani, anunciou nesta sexta-feira (16/10) a construção de uma usina solar de grande porte no sul do Líbano, em meio à grave crise de eletricidade que assola o país. “Concordamos em estabelecer uma estrutura abrangente de cooperação no setor energético e apresentar soluções viáveis”, declarou […]\nO post Catar anuncia construção de usina solar no Líbano para enfrentar crise energética apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/catar-anuncia-construcao-de-usina-solar-no-libano-para-enfrentar-crise-energetica/",
-          "publishedOn": "2026-10-16T18:30:22.000Z",
-          "wordCount": 3418,
-          "title": "Catar anuncia construção de usina solar no Líbano para enfrentar crise energética",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/qata-news-agency-ok.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268827",
-          "author": "Victor Farinelli",
-          "description": "O Ministério da Saúde palestino na Faixa de Gaza divulgou nesta sexta-feira (16/10) um informe indicando que foram registrados ao menos 466 casos de pessoas que morreram por inanição no território desde outubro de 2023 quando Israel iniciou sua ofensiva militar e o bloqueio da entrada de ajuda humanitária. Segundo as autoridades locais, a divulgação […]\nO post Mais de 1,4 milhão de palestinos estão no mapa da fome por conta do bloqueio israelense apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/mais-de-14-milhao-de-palestinos-estao-no-mapa-da-fome-por-conta-do-bloqueio-israelense/",
-          "publishedOn": "2026-10-16T17:20:54.000Z",
-          "wordCount": 3422,
-          "title": "Mais de 1,4 milhão de palestinos estão no mapa da fome por conta do bloqueio israelense",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/gaza-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268809",
-          "author": "Tabitha Ramalho",
-          "description": "A França vive a expectativa de uma nova jornada de mobilização neste sábado (17/10), enquanto bloqueios ainda afetam escolas e universidades do país nesta sexta-feira. O protesto contra o aumento do custo de vida, convocado pelos “coletes amarelos”, contará com a participação de diversas categorias de trabalhadores e do movimento estudantil francês, que se manifesta […]\nO post França se prepara para nova manifestação nacional com a volta dos ‘coletes amarelos’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/franca-se-prepara-para-nova-manifestacao-nacional-com-a-volta-dos-coletes-amarelos/",
-          "publishedOn": "2026-10-16T16:40:21.000Z",
-          "wordCount": 4028,
-          "title": "França se prepara para nova manifestação nacional com a volta dos ‘coletes amarelos’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/htidfekweaa1g9y.jpg"
         }
       ]
     },
@@ -754,7 +805,7 @@
           "description": "Almirante Flávio Rocha foi secretário de Assuntos Estratégicos no governo do amigo Jair, onde atuou em políticas de mineração e energia; por R$ 50 mil ao mês, entrou em abril no conselho da Atlas Lithium, que prospecta lítio em Minas e urânio – de forma disfarçada – em seis estados Por Tonsk Fialho O almirante […]\nO post “Sombra” de Bolsonaro destrava projetos de terras raras e urânio para empresa apoiada por Trump apareceu primeiro em De Olho nos Ruralistas.",
           "link": "https://deolhonosruralistas.com.br/2026/10/16/almirante-bolsonaro-uranio/",
           "publishedOn": "2026-10-16T20:57:46.000Z",
-          "wordCount": 3741,
+          "wordCount": 3742,
           "title": "“Sombra” de Bolsonaro destrava projetos de terras raras e urânio para empresa apoiada por Trump",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/10/capa-flaviorocha.jpeg"
         },
@@ -776,12 +827,27 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=234911",
+          "author": "Redação de AND",
+          "description": "Em dois dias de trabalho de campo no extremo sul da Bahia, os estudantes do curso de Geografia conheceram de perto a vida e a organização das comunidades Pataxó de Barra Velha e Comexatibá. As visitas também revelaram de perto a continuidade da aguda luta pela terra na região.",
+          "link": "https://anovademocracia.com.br/pataxo-luta-pela-terra-pistolagem-sul-bahia/",
+          "publishedOn": "2026-10-17T15:44:13.000Z",
+          "wordCount": 12445,
+          "title": "‘Invasão Zero foi a pior coisa que aconteceu’: estudantes da UERJ visitam comunidades Pataxó e colhem relatos sobre a luta pela terra no Sul da Bahia",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Video-2026-10-08-at-20.54.29.mp4",
+            "length": "19650009",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/20261009_110232-1536x1357-1.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=234920",
           "author": "Redação de AND",
           "description": "Se Flávio Bolsonaro vencer, os ianques buscarão impor acordos militares e ampliar seu domínio sobre o Brasil; se perder, poderão apoiar novas investidas golpistas. Em qualquer cenário, a força capaz de contrariar esses planos está na mobilização independente das massas populares.",
           "link": "https://anovademocracia.com.br/editorial-combater-com-atos-extrema-direita/",
           "publishedOn": "2026-10-16T04:42:00.000Z",
-          "wordCount": 8436,
+          "wordCount": 8452,
           "title": "Editorial – Combater com atos a extrema direita e a ingerência ianque!",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-16-editorial.jpg"
         },
@@ -791,7 +857,7 @@
           "description": "A Propósito #376 debate ameaças bolsonaristas, Master e chantagem ianque no segundo turno.",
           "link": "https://anovademocracia.com.br/assista-segundo-turno-ameacas-bolsonaristas/",
           "publishedOn": "2026-10-15T22:04:19.000Z",
-          "wordCount": 6670,
+          "wordCount": 6686,
           "title": "ASSISTA: Segundo turno sob ameaças bolsonaristas e chantagem ianque – A Propósito #376",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP376.jpg"
         },
@@ -801,7 +867,7 @@
           "description": "Após anos de mobilização popular, Senado aprova jornada de 40 horas semanais e dois dias de descanso, sem redução salarial. CNI, Fiesp e extrema direita articulam ataques à conquista, enquanto organizações classistas defendem a continuidade da luta pelas 36 horas e contra as contrarreformas trabalhistas.",
           "link": "https://anovademocracia.com.br/escala-6-por-1-mobilizacao-direitos/",
           "publishedOn": "2026-10-15T21:30:48.000Z",
-          "wordCount": 8622,
+          "wordCount": 8638,
           "title": "Conquista da luta popular: fim da escala 6 por 1 é aprovado, mas mobilização deve prosseguir para garantir direitos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-6por1-1024x683.jpg"
         },
@@ -811,7 +877,7 @@
           "description": "Conglomerado reacionário demitiu Frederic Kachar após o vazamento; em conversa atribuída ao executivo, ele também se vangloria de receber resposta de Netanyahu.",
           "link": "https://anovademocracia.com.br/globo-materias-vorcaro-publicidade/",
           "publishedOn": "2026-10-15T20:59:57.000Z",
-          "wordCount": 7417,
+          "wordCount": 7433,
           "title": "Monopólio de imprensa Globo oferecia matérias a Vorcaro e cobrava publicidade",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/vorcaro-globo.avif"
         },
@@ -821,7 +887,7 @@
           "description": "Juventude exige a renúncia de Edi Rama, enfrenta a repressão e amplia a revolta contra a precariedade da educação e os negócios de luxo ligados a Jared Kushner. Mobilizações alcançam Elbasan e Shkodra e se somam às grandes jornadas de luta na Europa.",
           "link": "https://anovademocracia.com.br/revolucao-rebeliao-popular-albania/",
           "publishedOn": "2026-10-15T19:52:11.000Z",
-          "wordCount": 8027,
+          "wordCount": 8043,
           "title": "‘Isto é uma revolução’: rebelião popular na Albânia atinge ministérios e paralisa o Parlamento",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-albania-1024x683.jpg"
         },
@@ -831,7 +897,7 @@
           "description": "Mulheres eram chamadas de “escravas” pelo banqueiro e por um intermediário; estrutura abastecia festas com “autoridades” do velho Estado e amigos do dono do Master.",
           "link": "https://anovademocracia.com.br/vorcaro-refugiadas-prostituicao-mensagens/",
           "publishedOn": "2026-10-15T19:29:55.000Z",
-          "wordCount": 7470,
+          "wordCount": 7486,
           "title": "Vorcaro tratava refugiadas como mercadoria em rede de prostituição, apontam mensagens",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-kassio.jpg"
         },
@@ -841,7 +907,7 @@
           "description": "Comando alega proteger a intimidade dos ocupantes; Forças Armadas reacionárias mantiveram negócios com o Master e o Exército renovou o credenciamento do banco meses antes da liquidação.",
           "link": "https://anovademocracia.com.br/fab-passageiros-jato-vorcaro-100-anos/",
           "publishedOn": "2026-10-15T19:08:24.000Z",
-          "wordCount": 7329,
+          "wordCount": 7345,
           "title": "FAB blinda passageiros do jato de Vorcaro por até 100 anos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-vorcaro.jpg"
         },
@@ -851,7 +917,7 @@
           "description": "Campanha cobra reabertura do acesso à lagoa e permanência das comunidades após suspensão provisória das obras do Maraey. Projeto de grupos espanhóis, com hotéis da rede ianque Marriott, tem financiamento de R$ 360 milhões anunciado pela Prefeitura.",
           "link": "https://anovademocracia.com.br/indigenas-e-pescadores-de-marica-enfrentam-resort-espanhol-com-bloqueios-e-mobilizacoes-pela-restinga/",
           "publishedOn": "2026-10-15T18:52:10.000Z",
-          "wordCount": 9144,
+          "wordCount": 9160,
           "title": "Indígenas e pescadores de Maricá enfrentam resort espanhol com bloqueios e mobilizações pela restinga",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-marica.jpeg"
         },
@@ -861,19 +927,9 @@
           "description": "Centenas de estudantes de 24 instituições de ensino participaram das paralisações no estado de Washington. A jornada em celebração do Dilúvio de Al-Aqsa também alcançou a Califórnia e Indiana, com denúncias de repressão e exigências de ruptura dos vínculos das universidades com a indústria de armamentos e com “Israel”.",
           "link": "https://anovademocracia.com.br/juventude-eua-estudantes-palestina/",
           "publishedOn": "2026-10-15T18:28:30.000Z",
-          "wordCount": 9417,
+          "wordCount": 9433,
           "title": "Juventude revolucionária do EUA mobiliza estudantes pela Palestina em sete cidades de três estados",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-13-eua-2.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234840",
-          "author": "Redator AND",
-          "description": "Depoimentos revelam autorização para atacar sem evacuar moradores; novas revelações são divulgadas enquanto Netanyahu exige a identificação e a perseguição criminal dos participantes do documentário “NAZA”.",
-          "link": "https://anovademocracia.com.br/sionistas-bombardeiam-moradores-gaza-terror/",
-          "publishedOn": "2026-10-15T18:27:35.000Z",
-          "wordCount": 7198,
-          "title": "Militares sionistas admitem bombardeios a prédios habitados sem retirar moradores de Gaza",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/AP23289288799427-1024x683.webp"
         }
       ]
     },
@@ -894,18 +950,18 @@
           "description": "Filho de sobreviventes do Holocausto, ele chegou criança ao Brasil. Anos depois, foi torturado pela ditadura. Medo da volta ao passado o faz perder o sono, o ônibus, a aula de Tai Chi: o que há de errado com uma democracia que elege quem debocha da Constituição e arquiteta um golpe?\nThe post Crônica: “Morto, amordaçado, volta a incomodar” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/cronica-morto-amordacado-volta-a-incomodar/",
           "publishedOn": "2026-10-16T22:06:43.000Z",
-          "wordCount": 4385,
+          "wordCount": 4388,
           "title": "Crônica: “Morto, amordaçado, volta a incomodar”",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/IMG_0432-550x413-1.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3207173",
           "author": "Lucas Scatolini",
-          "description": "Risco de retrocesso político e civilizatório levou multidões às ruas. Mas convencer as maiorias exige de Lula um projeto de futuro. Um compromisso que ligue a defesa da democracia com a transformação material que a sociedade reclama \nThe post O que falta para tornar a virada possível appeared first on Outras Palavras.",
+          "description": "Risco de retrocesso político e civilizatório levou multidões às ruas. Mas convencer as maiorias exige de Lula um projeto de futuro. Um compromisso que ligue a defesa da democracia com a transformação material que a sociedade reclama \nThe post O que falta para completar a virada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/oque-falta-para-tornar-a-virada-possivel/",
           "publishedOn": "2026-10-16T21:35:54.000Z",
-          "wordCount": 7275,
-          "title": "O que falta para tornar a virada possível",
+          "wordCount": 7267,
+          "title": "O que falta para completar a virada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/e3e89653-a6af-4642-91f7-64e2c02d9d49.jpg"
         },
         {
@@ -924,7 +980,7 @@
           "description": "Filme mostra a volta de Thomas Mann à Alemanha, após o exílio. Critica a apropriação nacionalista da cultura, mas o aproxima do reacionarismo e do patriarcado. E sua crítica ao nazismo? A esquerda pode esquecer um legado artístico que serve à luta contra o autoritarismo?\nThe post <i>Vaterland</i>: Entre a barbárie e a cultura sacrificada appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/vaterland-entre-a-barbarie-e-a-cultura-sacrificada/",
           "publishedOn": "2026-10-16T21:17:43.000Z",
-          "wordCount": 4644,
+          "wordCount": 4647,
           "title": "Vaterland: Entre a barbárie e a cultura sacrificada",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/49d80b15-ec22-460d-b4b4-b18d746d7924-1.jpg"
         },
@@ -954,7 +1010,7 @@
           "description": "O  voto no presidente caiu nas comunidades urbanas, onde vivem 8% da população brasileira. 2º turno é a chance de renovar o pacto de confiança com os mais pobres. Um caminho: anunciar ciclo de investimentos nos territórios, com política integrada de direito à cidade\nThe post Lula e a necessária aposta nas periferias appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/lula-e-a-necessaria-aposta-nas-periferias/",
           "publishedOn": "2026-10-16T18:44:53.000Z",
-          "wordCount": 5283,
+          "wordCount": 5280,
           "title": "Lula e a necessária aposta nas periferias",
           "enclosure": {
             "url": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Video-Ion-de-Andrade.mp4",
@@ -969,7 +1025,7 @@
           "description": "A expansão digital exige abundância do metal e atualiza histórica cobiça na região. Só o México exporta 47% da demanda dos EUA. A mesma mineradora do Norte concentra extração no Peru, Brasil, Bolívia, Chile e Argentina, e reforça o vácuo de políticas soberanas\nThe post A ignorada corrida pela prata latino-americana appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/a-ignorada-corrida-pela-prata-latino-americana/",
           "publishedOn": "2026-10-16T18:36:25.000Z",
-          "wordCount": 4567,
+          "wordCount": 4564,
           "title": "A ignorada corrida pela prata latino-americana",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664017.jpg"
         },
@@ -979,7 +1035,7 @@
           "description": "Ensaio desce fundo nas memórias de alguém que viveu o rock extremo nos anos 1980, quando certo ethos violento inventou uma linguagem: o sofrimento, a tortura, a desintegração da pessoa… O que isso diz da emergência da extrema direita, hoje?\nThe post Rock e “satanismo”: uma gênese da desagregação social  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/rock-e-satanismo-uma-genese-da-desagregacao-social/",
           "publishedOn": "2026-10-16T17:59:33.000Z",
-          "wordCount": 5893,
+          "wordCount": 5896,
           "title": "Rock e “satanismo”: uma gênese da desagregação social",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664000.jpg"
         },
@@ -989,7 +1045,7 @@
           "description": "The post Teatro de marionetes appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/cartum/teatro-de-marionetes/",
           "publishedOn": "2026-10-16T16:29:11.000Z",
-          "wordCount": 2118,
+          "wordCount": 2121,
           "title": "Teatro de marionetes",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/8-1.jpg"
         }
@@ -1001,12 +1057,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160140",
+          "author": "Enzo Silva",
+          "description": "Há um ressurgimento preocupante da tendência de subordinar a crítica aos Estados, à guerra e à dominação capitalista a um campo nacional. Por Antithesi",
+          "link": "https://passapalavra.info/2026/10/160140/",
+          "publishedOn": "2026-10-17T15:49:33.000Z",
+          "wordCount": 11411,
+          "title": "O “terceiro campo” revisitado: O internacionalismo proletário em meio à guerra e a “liberação” nacional",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/myriam-thyes-2005-2007-migration-flags-bulgaria-croatia-2060px-web.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=160137",
           "author": "Passa Palavra",
           "description": "Pelo fim IMEDIATO da 6x1 para os terceirizados dos serviços públicos federais!",
           "link": "https://passapalavra.info/2026/10/160137/",
           "publishedOn": "2026-10-16T20:43:41.000Z",
-          "wordCount": 3996,
+          "wordCount": 4031,
           "title": "Uma proposta de luta contra a 6×1",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2020/03/MOVIMENTO_LUTA-1.png"
         },
@@ -1016,7 +1082,7 @@
           "description": "Dilemas e perspectivas para o segundo turno de 2026. Por vidaventovela",
           "link": "https://passapalavra.info/2026/10/160110/",
           "publishedOn": "2026-10-15T11:14:51.000Z",
-          "wordCount": 10521,
+          "wordCount": 10872,
           "title": "A emenda ficou pior que o soneto",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/Ismael-Nery-Autorretratos-ru9zchjkrzfiei92xv1ee8ksm21x54v4xq5ilb6plg.webp"
         },
@@ -1036,7 +1102,7 @@
           "description": "Um grupo de professores do ensino fundamental debate o resultado do 1º turno das eleições brasileiras de 2026, em que Flávio Bolsonaro venceu Lula. Por Professores do Primário",
           "link": "https://passapalavra.info/2026/10/160096/",
           "publishedOn": "2026-10-13T19:10:58.000Z",
-          "wordCount": 4881,
+          "wordCount": 4883,
           "title": "Professores do ensino fundamental debatem o 1º turno",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/reminiscence-2005.jpg"
         }
@@ -1053,7 +1119,7 @@
           "description": "Continuar falando sobre a Palestina significa, sobretudo, aprender a escutar sem exigir a cada dia uma nova imagem insuportável. Ninguém deveria precisar exibir o corpo de seu filho para voltar a merecer atenção. A criança que procura uma escola, o agricultor impedido de alcançar sua terra e a família que tenta reconstruir uma casa já têm razões suficientes para exigir nossa presença política. Aproximamo-nos dos três anos do 7 de outubro com uma responsabilidade que o “cessar-fogo” não suspendeu. Enquanto a liberdade palestina continuar adiada, não temos o direito de tratar essa história como assunto encerrado.",
           "link": "https://blogdaboitempo.com.br/2026/10/17/naza-um-relato-sobre-a-banalidade-do-mal-e-a-urgencia-da-dessionizacao-do-territorio-palestino/",
           "publishedOn": "2026-10-17T11:00:00.000Z",
-          "wordCount": 7391,
+          "wordCount": 7560,
           "title": "Naza, um relato sobre a banalidade do mal e a urgência da dessionização do território palestino",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/hosnysalah-palestine-7360944.jpg?fit=1200%2C800&ssl=1"
         },
