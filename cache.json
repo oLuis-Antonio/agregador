@@ -24,16 +24,6 @@
           "wordCount": 1835,
           "title": "Por que educar revolucionariamente?",
           "imageUrl": "https://media.jornalofuturo.com.br/1000606710-1068x1084.jpg"
-        },
-        {
-          "id": "7ldjrc",
-          "author": null,
-          "description": "O Acordo de Meca une Turquia, Arábia Saudita e Paquistão na cooperação militar e na disputa de suas burguesias por mercados e zonas de influência",
-          "link": "https://jornalofuturo.com.br/artigo/7ldjrc-turquia-arabia-saudita-e-paquistao-firmam-pacto-militar-na-disputa-imperialista",
-          "publishedOn": "2026-10-14T03:00:00.000Z",
-          "wordCount": 2892,
-          "title": "Turquia, Arábia Saudita e Paquistão firmam pacto militar na disputa imperialista",
-          "imageUrl": "https://media.jornalofuturo.com.br/000-C47Q3ZT-1024x576.webp"
         }
       ]
     },
@@ -189,6 +179,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Grande-ato-em-Brasilia-com-apoiadores-de-Lula-e-contra-a-extrema-direita",
+          "author": "Redação",
+          "description": "Neste domingo (18) milhares de pessoas estão tomando a Esplanada dos Ministérios em Brasília para demonstrar sua revolta contra Flávio Bolsonaro e a extrema direita. Os atos que estão ocorrendo nacionalmente com milhares nas ruas são a força social que pode derrotar a extrema direita, nos apoiando na conquista que foi o fim da escala 6x1 temos que seguir as mobilizações combatendo Flávio, Trump e lutar por mais direitos. Siga a cobertura dos atos neste domingo pelo Esquerda Diário!\n18-10-2026\n\n/ Brasília, Extrema direita, Flavio Bolsonaro, Manifestações, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Grande-ato-em-Brasilia-com-apoiadores-de-Lula-e-contra-a-extrema-direita",
+          "publishedOn": "2026-10-18T14:58:12.000Z",
+          "wordCount": null,
+          "title": "Grande ato em Brasília, com apoiadores de Lula e contra a extrema-direita",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/PM-PE-de-Raquel-Lyra-prendeu-quase-20-militantes-que-estavam-fazendo-campanha-contra-Flavio",
           "author": "Gabriel Girão",
@@ -418,16 +418,6 @@
           "wordCount": null,
           "title": "9 provas de que os Bolsonaros não são patriotas e querem entregar o país ao imperialismo",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/De-que-se-trata-o-pagamento-por-hora-de-Flavio-Bolsonaro-e-Marinho-que-busca-afogar-o-fim-da-6x1",
-          "author": "Julia Cardoso",
-          "description": "Sabemos que Flávio Bolsonaro sempre se opôs ao fim da escala 6x1. Se apoia na sua corja escravista dentro do Senado para ameaçar alterar a Constituição, como já propunha Rogério Marinho, para rasgar a CLT e jogar os trabalhadores na escala 7x0. Por nenhum voto em Flávio Bolsonaro e não arredar o pé da luta independente pelo fim da escala 6x1!\nMatérias\n\n/ Política, Flavio Bolsonaro, Precarização do trabalho, escala 6x1",
-          "link": "https://www.esquerdadiario.com.br/De-que-se-trata-o-pagamento-por-hora-de-Flavio-Bolsonaro-e-Marinho-que-busca-afogar-o-fim-da-6x1",
-          "publishedOn": "2026-10-14T01:28:36.000Z",
-          "wordCount": null,
-          "title": "De que se trata o pagamento por hora de Flavio Bolsonaro e Marinho que busca afogar o fim da 6x1?",
-          "imageUrl": null
         }
       ]
     },
@@ -628,12 +618,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268908",
+          "author": "Fernanda Oliveira",
+          "description": "A fotojornalista norte-americana Heidi Levine, colaboradora do jornal The Washington Post, ficou gravemente ferida após ser agredida por homens mascarados identificados como colonos israelenses na aldeia palestina de Abu Falah, na Cisjordânia ocupada. Ela cobria a colheita anual de azeitonas quando foi atacada junto a agricultores palestinos. O caso ocorreu na sexta-feira (16/10) e provocou […]\nO post Fotojornalista norte-americana é agredida por colonos israelenses na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/fotojornalista-norte-americana-e-agredida-por-colonos-israelenses-na-cisjordania-ocupada/",
+          "publishedOn": "2026-10-18T16:25:13.000Z",
+          "wordCount": 4153,
+          "title": "Fotojornalista norte-americana é agredida por colonos israelenses na Cisjordânia ocupada",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/hu6g-33wcaacmj4.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268906",
+          "author": "Fernanda Oliveira",
+          "description": "Um ataque ucraniano com drones deixou uma pessoa morta e outras 15 feridas em São Petersburgo e na região de Leningrado, no noroeste da Rússia, neste domingo (18/10), segundo autoridades russas. As ofensivas atingiram instalações petrolíferas, um centro logístico e um de dados. O Ministério da Defesa da Rússia informou que seus sistemas de defesa […]\nO post Ataque ucraniano com drones deixa um morto e 15 feridos na Rússia, afirmam autoridades apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ataque-ucraniano-com-drones-deixa-um-morto-e-15-feridos-na-russia-afirmam-autoridades/",
+          "publishedOn": "2026-10-18T16:12:31.000Z",
+          "wordCount": 3670,
+          "title": "Ataque ucraniano com drones deixa um morto e 15 feridos na Rússia, afirmam autoridades",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/1449683.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268903",
+          "author": "Fernanda Oliveira",
+          "description": "Sindicatos, estudantes e outros setores da população francesa foram às ruas no sábado (17/10) para cobrar medidas contra o custo de vida, aumentos salariais e a defesa dos serviços públicos. As manifestações foram acompanhadas por confrontos com as forças de segurança. Segundo o balanço divulgado pelo Ministério do Interior neste domingo (18/10), cerca de 1.800 […]\nO post Protestos na França deixam feridos e 1,8 mil pessoas detidas; Mélenchon denuncia violência policial apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/protestos-na-franca-deixam-feridos-e-18-mil-pessoas-detidas-melenchon-denuncia-violencia-policial/",
+          "publishedOn": "2026-10-18T14:17:18.000Z",
+          "wordCount": 5029,
+          "title": "Protestos na França deixam feridos e 1,8 mil pessoas detidas; Mélenchon denuncia violência policial",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/huhpk8fxeaexcgc-scaled.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268897",
           "author": "Fernanda Oliveira",
           "description": "O Ministério da Justiça e Segurança Pública pediu ao Ministério Público Federal (MPF) que avalie o ajuizamento de uma ação civil pública contra a Meta, empresa responsável pelo Facebook, Instagram e WhatsApp, por falta de transparência nos procedimentos de moderação de conteúdo durante as eleições de 2026. A solicitação foi encaminhada pela Secretaria Nacional de […]\nO post Governo Lula pede ao MPF ação contra Meta por falta de transparência durante eleições apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/governo-lula-pede-ao-mpf-acao-contra-meta-por-falta-de-transparencia-durante-eleicoes/",
           "publishedOn": "2026-10-17T20:20:51.000Z",
-          "wordCount": 3625,
+          "wordCount": 3633,
           "title": "Governo Lula pede ao MPF ação contra Meta por falta de transparência durante eleições",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/brasilia_palaciodajustica1.jpg"
         },
@@ -643,7 +663,7 @@
           "description": "A polícia israelense abriu uma investigação sobre o ataque a uma delegação diplomática europeia na aldeia palestina de Taybeh, na Cisjordânia ocupada, neste sábado (17/10). Representantes da França, Bélgica e Polônia estavam entre os integrantes do grupo, que também incluía representantes católicos e um prefeito francês. Um veículo do consulado belga teve uma janela quebrada […]\nO post Polícia israelense investiga ataque a diplomatas europeus na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/policia-israelense-investiga-ataque-a-diplomatas-europeus-na-cisjordania-ocupada/",
           "publishedOn": "2026-10-17T19:40:09.000Z",
-          "wordCount": 3731,
+          "wordCount": 3739,
           "title": "Polícia israelense investiga ataque a diplomatas europeus na Cisjordânia ocupada",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/2010-08_ramallah_43.jpg"
         },
@@ -653,18 +673,18 @@
           "description": "O papa Leão 14, de 71 anos, recebeu alta hospitalar neste sábado (17/10), quatro dias após passar por uma cirurgia para retirar um adenocarcinoma pulmonar. O pontífice deixou o Hospital Agostino Gemelli, em Roma, por volta das 15h30 (horário local) e retornou ao Vaticano. A equipe médica considerou que ele tinha condições de continuar a […]\nO post Papa Leão 14 recebe alta após cirurgia para retirada de tumor no pulmão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/sociedade/papa-leao-14-recebe-alta-apos-cirurgia-para-retirada-de-tumor-no-pulmao/",
           "publishedOn": "2026-10-17T19:02:42.000Z",
-          "wordCount": 3419,
+          "wordCount": 3427,
           "title": "Papa Leão 14 recebe alta após cirurgia para retirada de tumor no pulmão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/pope_leo_xiv.png"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=268886",
           "author": "Fernanda Oliveira",
-          "description": "O governo de Donald Trump respondeu a um grupo de parlamentares democratas dos Estados Unidos sem confirmar se reconhecerá o resultado das eleições presidenciais brasileiras de 2026. Em carta enviada na quinta-feira (15/10), o Departamento de Estado afirmou que apoia o direito dos brasileiros a eleições livres e justas, mas não respondeu diretamente ao pedido […]\nO post Governo Trump evita confirmar se reconhecerá resultado das eleições brasileiras apareceu primeiro em Opera Mundi.",
+          "description": "O governo de Donald Trump respondeu a um grupo de parlamentares democratas dos Estados Unidos sem confirmar se reconhecerá o resultado das eleições presidenciais brasileiras de 2026. Em carta enviada na quinta-feira (15/10), o Departamento de Estado afirmou que apoia o direito dos brasileiros a eleições livres e justas, mas não respondeu diretamente ao pedido […]\nO post Washington evita confirmar se reconhecerá resultado das eleições brasileiras apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/governo-trump-evita-confirmar-se-reconhecera-resultado-das-eleicoes-brasileiras/",
           "publishedOn": "2026-10-17T17:15:53.000Z",
-          "wordCount": 3710,
-          "title": "Governo Trump evita confirmar se reconhecerá resultado das eleições brasileiras",
+          "wordCount": 3718,
+          "title": "Washington evita confirmar se reconhecerá resultado das eleições brasileiras",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55585685189_09b5dac7f7_k.jpg"
         },
         {
@@ -673,7 +693,7 @@
           "description": "Milhares de pessoas participaram de manifestações na França e na Itália entre sexta-feira (16/10) e este sábado (17/10), em mobilizações contra o custo de vida, as condições das escolas públicas e as prioridades de gastos dos governos. Na França, manifestações convocadas por estudantes, sindicatos e participantes ligados ao movimento dos coletes amarelos reuniram neste sábado […]\nO post Protestos na França e Itália reúnem estudantes e trabalhadores contra cortes e custo de vida apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/protestos-na-franca-e-italia-reunem-estudantes-e-trabalhadores-contra-cortes-e-custo-de-vida/",
           "publishedOn": "2026-10-17T16:30:17.000Z",
-          "wordCount": 4158,
+          "wordCount": 4166,
           "title": "Protestos na França e Itália reúnem estudantes e trabalhadores contra cortes e custo de vida",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-17-132903.png"
         },
@@ -683,7 +703,7 @@
           "description": "Após o encerramento do primeiro turno, com Flávio Bolsonaro em primeiro lugar e uma vitória retumbante do PL e da extrema direita no Congresso Nacional, uma série de mobilizações surpreendentes, organizadas inicialmente por estudantes nas universidades e fortalecidas por professores, sindicatos e outros movimentos sociais, transformou-se em atos massivos de apoio à reeleição do presidente […]\nO post A caça às bruxas de um eventual governo Bolsonaro já começou apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/a-caca-as-bruxas-de-um-eventual-governo-bolsonaro-ja-comecou/",
           "publishedOn": "2026-10-17T15:48:01.000Z",
-          "wordCount": 4454,
+          "wordCount": 4462,
           "title": "A caça às bruxas de um eventual governo Bolsonaro já começou",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55238405502_d11b2eb36d_k.jpg"
         },
@@ -693,39 +713,9 @@
           "description": "O governo dos Emirados Árabes Unidos concordou em retomar o financiamento de forças iemenitas que combatem os houthis no sul do país, enquanto a Arábia Saudita se comprometeu a fornecer cobertura aérea a essas tropas, segundo reportagem publicada neste sábado (17/10) pelo jornal britânico The Guardian. Segundo o periódico, o acordo teria sido motivado pelos […]\nO post Emirados Árabes Unidos retomam apoio a forças anti-houthis no Iêmen, diz Guardian apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/emirados-arabes-unidos-retomam-apoio-a-forcas-anti-houthis-no-iemen-diz-guardian/",
           "publishedOn": "2026-10-17T15:27:24.000Z",
-          "wordCount": 4095,
+          "wordCount": 4103,
           "title": "Emirados Árabes Unidos retomam apoio a forças anti-houthis no Iêmen, diz Guardian",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/emirate_mirage_2000_jets.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268720",
-          "author": "Tatiana Carlotti",
-          "description": "A oito dias do segundo turno presidencial marcado por denúncias de manipulação dos algoritmos pelas plataformas digitais, os brasileiros se levantaram nas ruas e nas redes em prol da reeleição do presidente Luiz Inácio Lula da Silva. A luta não é contra um candidato, no caso, Flávio Bolsonaro (PL), mas contra uma nova forma de […]\nO post ‘Falta de transparência das big techs favorece conteúdos da extrema direita nas eleições’, afirma sociólogo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-entrevista/falta-de-transparencia-das-big-techs-favorece-conteudos-da-extrema-direita-nas-eleicoes-afirma-sociologo/",
-          "publishedOn": "2026-10-17T14:41:51.000Z",
-          "wordCount": 8200,
-          "title": "‘Falta de transparência das big techs favorece conteúdos da extrema direita nas eleições’, afirma sociólogo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/52668691419_9f3391d1c9_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268864",
-          "author": "Fernanda Oliveira",
-          "description": "O governo russo comemorou neste sábado (17/10) a decisão do presidente dos Estados Unidos, Donald Trump, de suspender a aplicação de novas sanções econômicas contra o país. Kirill Dmitriev, assessor do Kremlin para a cooperação econômica internacional, classificou a medida como um “momento importante e verdadeiramente histórico”. “A suspensão da Lei Graham pela administração Trump […]\nO post Kremlin comemora decisão do governo Trump de suspender novas sanções contra a Rússia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/kremlin-comemora-decisao-do-governo-trump-de-suspender-novas-sancoes-contra-a-russia/",
-          "publishedOn": "2026-10-17T13:51:44.000Z",
-          "wordCount": 3724,
-          "title": "Kremlin comemora decisão do governo Trump de suspender novas sanções contra a Rússia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/vladimir_putin_and_donald_trump_at_the_2017_g-20_hamburg_summit_2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268845",
-          "author": "Raissa Neves",
-          "description": "O Tribunal Superior Eleitoral (TSE) aprovou nesta sexta-feira (16/10), novas regras para identificar canais de WhatsApp vinculados a campanhas eleitorais. A decisão ocorre em meio à disputa judicial envolvendo o canal Exército do Lula, que reúne mais de quatro milhões de seguidores, e às denúncias de possível favorecimento político nas plataformas da Meta. A regulamentação […]\nO post TSE aprova restrições para canais eleitorais no WhatsApp após denúncias contra Meta apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/tse-aprova-restricoes-para-canais-eleitorais-no-whatsapp-apos-denuncias-contra-meta/",
-          "publishedOn": "2026-10-16T22:00:10.000Z",
-          "wordCount": 4381,
-          "title": "TSE aprova restrições para canais eleitorais no WhatsApp após denúncias contra Meta",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/julio-lopez-ilbjfrwogza-unsplash-scaled.jpg"
         }
       ]
     },
@@ -762,12 +752,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=235000",
+          "author": "Redação de AND",
+          "description": "A seção brasileira da Liga Anti-imperialista Internacional (LAI) no Rio de Janeiro promoverá um ato no dia 21 de outubro, na praça Saens Peña, Tijuca, para denunciar a crescente intervenção imperialista na América Latina, em especial no Brasil. A convocatória foi uma das decisões tomadas na plenária realizada pela LAI, pelo Movimento Estudantil Popular Revolucionário (MEPR) e pelo Movimento Arapuka no dia 13 de outubro na Universidade do Estado do Rio de Janeiro (UERJ). A plenária lotou uma sala da universidade com estudantes e trabalhadores. Nela, os participantes discutiram a situação política internacional e nacional e a necessidade de propagandear",
+          "link": "https://anovademocracia.com.br/plenaria-da-lai-no-rio-de-janeiro-reune-estudantes-e-trabalhadores-e-convoca-ato-anti-imperialista-para-dia-21-10/",
+          "publishedOn": "2026-10-18T18:32:57.000Z",
+          "wordCount": 7090,
+          "title": "Plenária da LAI no Rio de Janeiro reúne estudantes e trabalhadores e convoca ato anti-imperialista para dia 21/10",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.13.10.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=235020",
           "author": "Redação de AND",
           "description": "PL também repassou R$ 131,9 mil à Elytron. Documentos revelados pelo Intercept descrevem boatos, infiltração e conteúdo falso para atingir adversários.",
           "link": "https://anovademocracia.com.br/flavio-600-mil-manipulacao-eleitoral/",
           "publishedOn": "2026-10-18T00:24:51.000Z",
-          "wordCount": 7208,
+          "wordCount": 7212,
           "title": "Flávio Bolsonaro paga R$ 600 mil a empresa denunciada por oferecer manipulação eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2025/12/1-Jair-Bolsonaro-e-Flavio-Bolsonaro-1024x687-1-1.jpg.webp"
         },
@@ -777,7 +777,7 @@
           "description": "Militares poderão apoiar incursões terrestres sob o pretexto do combate ao narcotráfico; Flávio Bolsonaro promete integrar o País à coalizão militar ianque",
           "link": "https://anovademocracia.com.br/trump-envia-tropas-america-latina-brasil/",
           "publishedOn": "2026-10-18T00:12:50.000Z",
-          "wordCount": 7392,
+          "wordCount": 7396,
           "title": "Trump envia tropas à América Latina e reforça chantagem contra o Brasil",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/2026-06-20-EDUARDO-1024x576.jpg"
         },
@@ -787,7 +787,7 @@
           "description": "Onze de 14 textos enviados ao banqueiro foram alterados; mensagens também expõem a reação da diretora do portal à ameaça de processo criminal contra um repórter.",
           "link": "https://anovademocracia.com.br/metropoles-master-vorcaro-editar-reportagem/",
           "publishedOn": "2026-10-17T23:39:40.000Z",
-          "wordCount": 7252,
+          "wordCount": 7256,
           "title": "Metrópoles recebeu R$ 20 milhões do Master e deixava Vorcaro editar reportagens",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-33.png"
         },
@@ -797,7 +797,7 @@
           "description": "Nota pública afirma que a proteção aos menores de 18 anos é cláusula pétrea e condena consulta popular que abra caminho para antecipar o encarceramento da juventude.",
           "link": "https://anovademocracia.com.br/abrapo-e-entidades-denuncia-ataques-eca/",
           "publishedOn": "2026-10-17T23:24:08.000Z",
-          "wordCount": 7498,
+          "wordCount": 7502,
           "title": "ABRAPO e outras sete entidades denunciam ataque do velho Estado brasileiro à maioridade penal",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-32.png"
         },
@@ -807,7 +807,7 @@
           "description": "Um dia após a publicação da entrevista do general da reserva, Moraes abateu 86 dias da pena de Paulo Sérgio Nogueira e aprovou trabalho administrativo proposto pelo comando militar das Forças Armadas reacionárias.",
           "link": "https://anovademocracia.com.br/pazuello-anistia-bolsonaro-ameaca-stf/",
           "publishedOn": "2026-10-17T22:46:01.000Z",
-          "wordCount": 8178,
+          "wordCount": 8182,
           "title": "Pazuello pede anistia a Bolsonaro e generais golpistas em ameaça a ministros do STF",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/17915662746ac921c20b9b1_1791566274_3x2_rt-1024x683.jpg"
         },
@@ -817,7 +817,7 @@
           "description": "Em dois dias de trabalho de campo no extremo sul da Bahia, os estudantes do curso de Geografia conheceram de perto a vida e a organização das comunidades Pataxó de Barra Velha e Comexatibá. As visitas também revelaram de perto a continuidade da aguda luta pela terra na região.",
           "link": "https://anovademocracia.com.br/pataxo-luta-pela-terra-pistolagem-sul-bahia/",
           "publishedOn": "2026-10-17T15:44:13.000Z",
-          "wordCount": 12426,
+          "wordCount": 12430,
           "title": "‘Invasão Zero foi a pior coisa que aconteceu’: estudantes da UERJ visitam comunidades Pataxó e colhem relatos sobre a luta pela terra no Sul da Bahia",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Video-2026-10-08-at-20.54.29.mp4",
@@ -832,7 +832,7 @@
           "description": "Se Flávio Bolsonaro vencer, os ianques buscarão impor acordos militares e ampliar seu domínio sobre o Brasil; se perder, poderão apoiar novas investidas golpistas. Em qualquer cenário, a força capaz de contrariar esses planos está na mobilização independente das massas populares.",
           "link": "https://anovademocracia.com.br/editorial-combater-com-atos-extrema-direita/",
           "publishedOn": "2026-10-16T04:42:00.000Z",
-          "wordCount": 8433,
+          "wordCount": 8437,
           "title": "Editorial – Combater com atos a extrema direita e a ingerência ianque!",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-16-editorial.jpg"
         },
@@ -842,7 +842,7 @@
           "description": "A Propósito #376 debate ameaças bolsonaristas, Master e chantagem ianque no segundo turno.",
           "link": "https://anovademocracia.com.br/assista-segundo-turno-ameacas-bolsonaristas/",
           "publishedOn": "2026-10-15T22:04:19.000Z",
-          "wordCount": 6667,
+          "wordCount": 6671,
           "title": "ASSISTA: Segundo turno sob ameaças bolsonaristas e chantagem ianque – A Propósito #376",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP376.jpg"
         },
@@ -852,19 +852,9 @@
           "description": "Após anos de mobilização popular, Senado aprova jornada de 40 horas semanais e dois dias de descanso, sem redução salarial. CNI, Fiesp e extrema direita articulam ataques à conquista, enquanto organizações classistas defendem a continuidade da luta pelas 36 horas e contra as contrarreformas trabalhistas.",
           "link": "https://anovademocracia.com.br/escala-6-por-1-mobilizacao-direitos/",
           "publishedOn": "2026-10-15T21:30:48.000Z",
-          "wordCount": 8619,
+          "wordCount": 8623,
           "title": "Conquista da luta popular: fim da escala 6 por 1 é aprovado, mas mobilização deve prosseguir para garantir direitos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-6por1-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234878",
-          "author": "Redação de AND",
-          "description": "Conglomerado reacionário demitiu Frederic Kachar após o vazamento; em conversa atribuída ao executivo, ele também se vangloria de receber resposta de Netanyahu.",
-          "link": "https://anovademocracia.com.br/globo-materias-vorcaro-publicidade/",
-          "publishedOn": "2026-10-15T20:59:57.000Z",
-          "wordCount": 7414,
-          "title": "Monopólio de imprensa Globo oferecia matérias a Vorcaro e cobrava publicidade",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/vorcaro-globo.avif"
         }
       ]
     },
@@ -885,7 +875,7 @@
           "description": "Filho de sobreviventes do Holocausto, ele chegou criança ao Brasil. Anos depois, foi torturado pela ditadura. Medo da volta ao passado o faz perder o sono, o ônibus, a aula de Tai Chi: o que há de errado com uma democracia que elege quem debocha da Constituição e arquiteta um golpe?\nThe post Crônica: “Morto, amordaçado, volta a incomodar” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/cronica-morto-amordacado-volta-a-incomodar/",
           "publishedOn": "2026-10-16T22:06:43.000Z",
-          "wordCount": 4388,
+          "wordCount": 4385,
           "title": "Crônica: “Morto, amordaçado, volta a incomodar”",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/IMG_0432-550x413-1.jpg"
         },
@@ -905,7 +895,7 @@
           "description": "Gestão da ex-prefeita de Santos, falecida há uma semana, transformou o cuidado em inteligência pública. Em vez de culpar infectados pelo HIV, estruturou serviços, levou prevenção às ruas e adotou medidas de redução de danos, tornando-se referência internacional. Cabe a nós continuar \nThe post Telma de Souza: a política como um gesto de cuidado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/telma-de-souza-a-politica-como-um-gesto-de-cuidado/",
           "publishedOn": "2026-10-16T21:34:14.000Z",
-          "wordCount": 5274,
+          "wordCount": 5271,
           "title": "Telma de Souza: a política como um gesto de cuidado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664094.jpg"
         },
@@ -980,7 +970,7 @@
           "description": "The post Teatro de marionetes appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/cartum/teatro-de-marionetes/",
           "publishedOn": "2026-10-16T16:29:11.000Z",
-          "wordCount": 2121,
+          "wordCount": 2118,
           "title": "Teatro de marionetes",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/8-1.jpg"
         }
@@ -997,7 +987,7 @@
           "description": "Há um ressurgimento preocupante da tendência de subordinar a crítica aos Estados, à guerra e à dominação capitalista a um campo nacional. Por Antithesi",
           "link": "https://passapalavra.info/2026/10/160140/",
           "publishedOn": "2026-10-17T15:49:33.000Z",
-          "wordCount": 11411,
+          "wordCount": 11414,
           "title": "O “terceiro campo” revisitado: O internacionalismo proletário em meio à guerra e a “liberação” nacional",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/myriam-thyes-2005-2007-migration-flags-bulgaria-croatia-2060px-web.jpg"
         },
@@ -1007,7 +997,7 @@
           "description": "Pelo fim IMEDIATO da 6x1 para os terceirizados dos serviços públicos federais!",
           "link": "https://passapalavra.info/2026/10/160137/",
           "publishedOn": "2026-10-16T20:43:41.000Z",
-          "wordCount": 4082,
+          "wordCount": 4654,
           "title": "Uma proposta de luta contra a 6×1",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2020/03/MOVIMENTO_LUTA-1.png"
         },
@@ -1017,7 +1007,7 @@
           "description": "Dilemas e perspectivas para o segundo turno de 2026. Por vidaventovela",
           "link": "https://passapalavra.info/2026/10/160110/",
           "publishedOn": "2026-10-15T11:14:51.000Z",
-          "wordCount": 11703,
+          "wordCount": 12730,
           "title": "A emenda ficou pior que o soneto",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/Ismael-Nery-Autorretratos-ru9zchjkrzfiei92xv1ee8ksm21x54v4xq5ilb6plg.webp"
         },
