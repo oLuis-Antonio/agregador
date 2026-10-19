@@ -14,16 +14,6 @@
           "wordCount": 3784,
           "title": "Fim da escala 6x1 é vitória dos trabalhadores",
           "imageUrl": "https://media.jornalofuturo.com.br/6x1%20JULHO%20(37%20de%2055)%20(2)-1280x720.jpg"
-        },
-        {
-          "id": "lIJmi3",
-          "author": null,
-          "description": "O PCBR iniciou a implementação de seu Sistema Nacional de Formação Política para a militância. A formação é concebida para nós como parte central da luta teórica pela posição proletária e da construção de quadros de um partido marxista-leninista",
-          "link": "https://jornalofuturo.com.br/artigo/lIJmi3-por-que-educar-revolucionariamente",
-          "publishedOn": "2026-10-15T03:00:00.000Z",
-          "wordCount": 1835,
-          "title": "Por que educar revolucionariamente?",
-          "imageUrl": "https://media.jornalofuturo.com.br/1000606710-1068x1084.jpg"
         }
       ]
     },
@@ -151,26 +141,6 @@
           "wordCount": 3180,
           "title": "Afinal, o que é fascismo? Como combatê-lo?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Palazzo_Braschi_Fascist_Poster-_1934.webp"
-        },
-        {
-          "id": "6ad0457159cc9a0358075bf8",
-          "author": "Diego Cruz",
-          "description": "Vitória, porém, depende ainda da manutenção da luta contra as ameaças de retrocessos",
-          "link": "https://opiniaosocialista.com.br/mobilizacao-e-pressao-garantem-o-fim-da-escala-6x1-no-senado/",
-          "publishedOn": "2026-10-15T03:23:09.000Z",
-          "wordCount": 1769,
-          "title": "Mobilização e pressão garantem o fim da Escala 6x1 no Senado",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/fim-da-escala-6x1--1-.webp"
-        },
-        {
-          "id": "6acfdbcf59cc9a0358075bca",
-          "author": "Redação",
-          "description": "Programa \"Boas Práticas\" recebe Fernando de Souza, que incentivou  a formação e organização de grêmio estudantil. Episódio vai ao ar nesta quarta-feira, 21, às 19h30. Leia abaixo depoimento do professor",
-          "link": "https://opiniaosocialista.com.br/professor-e-militante-do-pstu-da-zona-leste-de-sao-paulo-recebe-homenagem-em-programa-da-tv-cultura/",
-          "publishedOn": "2026-10-14T19:50:39.000Z",
-          "wordCount": 915,
-          "title": "Militante do PSTU e professor na Zona Leste de São Paulo recebe homenagem em programa da TV Cultura",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/Fernando-de-Souza--1-.webp"
         }
       ]
     },
@@ -179,6 +149,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Qual-o-impacto-para-os-trabalhadores-da-motossera-de-Milei-que-Flavio-quer-copiar",
+          "author": "Ítalo Gimenes",
+          "description": "No debate da Band, Flávio Bolsonaro driblou, se esquivou, mas não teve como esconder: Javier Milei é para ele um ídolo e seu modelo de governo profundamente ajustador contra os trabalhadores, os serviços públicos e totalmente subserviente aos EUA é o modelo a ser seguido por Flávio. Saiba mais o que está sendo o plano “motoserra” de Milei, copiado pelo plano “tesouraço” de Flávio, e porque ele levou ao desemprego, à fome e à precariedade dos serviços públicos na Argentina.\n19-10-2026\n\n/ Política, Ajustes Fiscais, Desemprego, salário mínimo, Flavio Bolsonaro, Javier Milei , Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Qual-o-impacto-para-os-trabalhadores-da-motossera-de-Milei-que-Flavio-quer-copiar",
+          "publishedOn": "2026-10-19T14:49:02.000Z",
+          "wordCount": null,
+          "title": "Qual o impacto para os trabalhadores da “motossera de Milei” que Flávio quer copiar?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/SUS-padrao-Einstein-de-Flavio-Bolsonaro-e-saude-publica-privatizada",
+          "author": "Marcella Campos",
+          "description": "No debate da Band deste domingo, Flávio Bolsonaro prometeu levar ao SUS o “padrão Einstein” e anunciou o convite a Claudio Lottenberg, ex-presidente do hospital privado, para assumir o Ministério da Saúde, indicando seu alvo na saúde pública da população.\n19-10-2026\n\n/ Sociedade, Privatização, SUS, Flavio Bolsonaro, Privatização do SUS, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/SUS-padrao-Einstein-de-Flavio-Bolsonaro-e-saude-publica-privatizada",
+          "publishedOn": "2026-10-19T13:37:53.000Z",
+          "wordCount": null,
+          "title": "SUS “padrão Einstein” de Flávio Bolsonaro é saúde pública privatizada",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Apoiadores-de-Flavio-Bolsonaro-pedem-que-Trump-bombardeie-o-Brasil",
           "author": "Redação",
@@ -348,66 +338,6 @@
           "wordCount": null,
           "title": "General Mourão, ex-vice de Jair Bolsonaro, é o único senador a votar contra o fim da 6x1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Fim-da-escala-6x1-uma-vitoria-contra-o-ceticismo-que-mostra-que-a-extrema-direita-pode-ser",
-          "author": "Danilo Paris",
-          "description": "Após uma década de ataques, o fim da escala 6x1 pode representar uma grande mudança, recuperar a confiança na força da mobilização e demonstrar que a extrema-direita pode ser derrotada.\n14-10-2026\n\n/ Classe trabalhadora, Política, MRT, Breque dos apps, Mobilização, Luta, escala 6x1, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Fim-da-escala-6x1-uma-vitoria-contra-o-ceticismo-que-mostra-que-a-extrema-direita-pode-ser",
-          "publishedOn": "2026-10-15T02:29:45.000Z",
-          "wordCount": null,
-          "title": "Fim da escala 6x1: uma vitória contra o ceticismo que mostra que a extrema-direita pode ser derrotada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Forca-da-classe-trabalhadora-derrota-a-extrema-direita-e-o-fim-da-6x1-e-aprovado",
-          "author": "Redação",
-          "description": "Foi aprovado, por 75 votos favoráveis, PEC 221/2019, que coloca o fim da escala 6x1, uma importante vitória da classe trabalhadora brasileira contra a extrema direita e a precarização do trabalho.\n14-10-2026\n\n/ Classe trabalhadora, Política, Senado, Direitos Trabalhistas, Reforma Trabalhista, Trabalhadores Terceirizados, Revogação Integral da Reforma Trabalhista, escala 6x1, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Forca-da-classe-trabalhadora-derrota-a-extrema-direita-e-o-fim-da-6x1-e-aprovado",
-          "publishedOn": "2026-10-15T01:14:37.000Z",
-          "wordCount": null,
-          "title": "Força da classe trabalhadora derrota a extrema direita e o fim da 6x1 é aprovado!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-foge-e-nao-participa-da-votacao-pelo-fim-da-escala-6x1-porque-defende-a-7x0",
-          "author": "Redação",
-          "description": "Acovardado, Flávio Bolsonaro não participa hoje da sessão do Senado que vota o fim da escala 6x1.\n14-10-2026\n\n/ Classe trabalhadora, Política, Flavio Bolsonaro, PL, escala 6x1, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-foge-e-nao-participa-da-votacao-pelo-fim-da-escala-6x1-porque-defende-a-7x0",
-          "publishedOn": "2026-10-14T22:53:13.000Z",
-          "wordCount": null,
-          "title": "Flávio Bolsonaro, defensor da 7x0, foge e não participa da votação pelo fim da escala 6x1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Lider-do-PL-na-Camara-confirma-partido-de-Flavio-Bolsonaro-vai-tentar-passar-escala-7x0-escravista",
-          "author": "Redação",
-          "description": "O líder do PL na Câmara dos Deputados, Sóstenes Cavalcante (PL-RJ), reafirmou nesta quarta-feira (14) que o partido de Jair e Flávio Bolsonaro pretende avançar com uma proposta escravista de flexibilização das jornadas de trabalho, a escala 7x0, que remunera por hora trabalhada.\n14-10-2026\n\n/ Classe trabalhadora, Flavio Bolsonaro, bolsonarismo, PL, escala 6x1",
-          "link": "https://www.esquerdadiario.com.br/Lider-do-PL-na-Camara-confirma-partido-de-Flavio-Bolsonaro-vai-tentar-passar-escala-7x0-escravista",
-          "publishedOn": "2026-10-14T22:23:11.000Z",
-          "wordCount": null,
-          "title": "Líder do PL na Câmara confirma: partido de Flávio Bolsonaro vai tentar passar escala 7x0 escravista",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Meta-gera-imagens-de-campanha-para-Flavio-mas-bloqueia-para-Lula-big-techs-favorecem-bolsonarismo",
-          "author": "Redação",
-          "description": "A inteligência artificial da Meta, empresa controlada pelo bilionário Mark Zuckerberg e responsável pelo WhatsApp, Instagram e Facebook, vem deixando óbvia a sua contribuição com a campanha escravista de Flávio Bolsonaro. Além de já ter sido acusada de entregar menos os conteúdos de Lula no Instagram, agora a IA da Meta mostrou uma recusa em produzir imagens para o presidente, enquanto produzia o mesmo tipo de imagens para o bolsonarista e outras figuras da direita.\n14-10-2026\n\n/ Política, Whatsapp, Facebook, Flavio Bolsonaro, inteligência artificial, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Meta-gera-imagens-de-campanha-para-Flavio-mas-bloqueia-para-Lula-big-techs-favorecem-bolsonarismo",
-          "publishedOn": "2026-10-14T19:15:35.000Z",
-          "wordCount": null,
-          "title": "Meta gera imagens de campanha para Flávio, mas bloqueia para Lula: big techs favorecem bolsonarismo escravista",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Abaixo-o-Escudo-das-Americas-Fora-o-imperialismo-da-Venezuela-e-fim-ao-bloqueio-em-Cuba",
-          "author": "Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
-          "description": "O Escudo das Américas, a implantação de um protetorado neocolonial na Venezuela e a ofensiva sobre Cuba são demonstrações da agressiva ofensiva imperialista na região. No entanto, isso não reflete uma hegemonia indiscutível, e sim as dificuldades dos Estados Unidos para sustentar seu domínio em escala mundial. Os governos de extrema-direita avançam em grande parte devido ao fracasso dos progressismos. Quando querem aplicar seu programa, rapidamente desencadeiam o descontentamento popular. Como Corrente Revolução Permanente - Quarta Internacional (CRP-QI), encontramo-nos batalhando em diversos países contra os planos imperialistas e, nesse marco, publicamos esta declaração internacional chamando a potenciar uma resposta anti-imperialista e anticolonialista internacionalista.\n14-10-2026\n\n/ Internacional, América Latina, Venezuela, Donald Trump, Trotskismo, Cuba, Bloqueio a Cuba, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
-          "link": "https://www.esquerdadiario.com.br/Abaixo-o-Escudo-das-Americas-Fora-o-imperialismo-da-Venezuela-e-fim-ao-bloqueio-em-Cuba",
-          "publishedOn": "2026-10-14T16:23:06.000Z",
-          "wordCount": null,
-          "title": "Abaixo o Escudo das Américas! Fora o imperialismo da Venezuela e fim ao bloqueio em Cuba!",
-          "imageUrl": null
         }
       ]
     },
@@ -490,21 +420,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-11.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445454",
-          "author": "Isabella Mota",
-          "description": "A antropóloga Letícia Cesarino, autora do lançamento “Ecologias de crise”, argumenta que as plataformas não são ferramentas neutras e o campo democrático precisa de estratégias híbridas, nos algoritmos e além dos algoritmos, para ganhar a eleição presidencial.\nO post ENTREVISTA: ‘A Meta está sabotando as eleições’, diz Letícia Cesarino apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/14/entrevista-meta-sabotando-eleicoes/",
-          "publishedOn": "2026-10-14T20:46:52.000Z",
-          "wordCount": null,
-          "title": "ENTREVISTA: ‘A Meta está sabotando as eleições’, diz Letícia Cesarino",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/wide-22.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/wide-22.png"
         }
       ]
     },
@@ -513,6 +428,16 @@
       "feedUrl": "https://ponte.org/feed/",
       "siteUrl": "https://ponte.org/",
       "articles": [
+        {
+          "id": "https://ponte.org/?p=164149",
+          "author": "Jessica Santos",
+          "description": "Propostas de Flávio Bolsonaro para segurança pública apostam em mais prisões, violência policial e vigilância, enquanto deixam de lado medidas de prevenção e controle das forças de segurança\nO conteúdo Da Redação | Por que a volta da família Bolsonaro é pior para a democracia e para a segurança pública Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/flavio-bolsonaro-seguranca-publica-democracia/",
+          "publishedOn": "2026-10-19T15:07:10.000Z",
+          "wordCount": 6847,
+          "title": "Da Redação | Por que a volta da família Bolsonaro é pior para a democracia e para a segurança pública",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2023/01/ato_democracia_0901.jpg"
+        },
         {
           "id": "https://ponte.org/?p=164115",
           "author": "Catarina Duarte",
@@ -532,16 +457,6 @@
           "wordCount": 9452,
           "title": "‘Só de lutar a gente já evita que outros morram’: mães de militares se unem na busca por justiça",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/forcas-armadas-maes-curitiba-tami-taketani-ponte-jornalismo-46-scaled.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=163752",
-          "author": "Mariana Rosetti",
-          "description": "Em vídeos analisados pela Ponte, agentes usam fardas, viaturas e relatos de atendimentos para ridicularizar mulheres que procuram ajuda ou retomam relações com agressores\nO conteúdo Da ocorrência à piada: policiais transformam violência doméstica em conteúdo nas redes Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/da-ocorrencia-a-piada-policiais-transformam-violencia-domestica-em-conteudo-nas-redes/",
-          "publishedOn": "2026-10-14T21:36:20.000Z",
-          "wordCount": 8118,
-          "title": "Da ocorrência à piada: policiais transformam violência doméstica em conteúdo nas redes",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/09/Copia-de-Sem-nome-6.webp"
         }
       ]
     },
@@ -589,16 +504,6 @@
           "wordCount": 4035,
           "title": "“Super Sparta”: a nova dependência militar de Israel nos Estados Unidos",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/israel.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74796",
-          "author": "Globetrotter",
-          "description": "a entrada de Xingfuli, um complexo residencial na cidade de Ganzhou, na província de Jiangxi, um quadro de avisos exibe os nomes, fotografias e números de telefone das pessoas responsáveis pela gestão do bairro. Embora à primeira vista pareça um quadro de avisos comum, entre os representantes do prédio e os membros do Partido Comunista […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/10/14/as-abelhas-na-cidade-a-organizacao-dos-entregadores-da-china-em-ganzhou/",
-          "publishedOn": "2026-10-15T00:13:27.000Z",
-          "wordCount": 3942,
-          "title": "As abelhas na cidade: a organização dos entregadores da China em Ganzhou",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/china.webp"
         }
       ]
     },
@@ -608,104 +513,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=268976",
+          "author": "Tatiana Carlotti",
+          "description": "O primeiro-ministro francês, Sébastien Lecornu, anunciou nesta segunda-feira (19/10) que o governo adotará toques de recolher em áreas específicas de grandes cidades, incluindo a possibilidade de restrições em Paris. As medidas foram anunciadas depois de manifestações realizadas no sábado (17/10), seguidas de novos episódios de violência no domingo (18/10). Milhares de pessoas, incluindo secundaristas, universitários, os […]\nO post França anuncia toque de recolher e prepara novas medidas de segurança em meio aos protestos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/franca-anuncia-toque-de-recolher-e-prepara-novas-medidas-de-seguranca-em-meio-aos-protestos/",
+          "publishedOn": "2026-10-19T14:23:16.000Z",
+          "wordCount": 4109,
+          "title": "França anuncia toque de recolher e prepara novas medidas de segurança em meio aos protestos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/09/departamento-de-defesa-eua.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268834",
+          "author": "Victor Farinelli",
+          "description": "Autorizar a liberação de um lote, avaliar um desvio na fabricação ou investigar um sinal de segurança são decisões que podem afetar o paciente. Quando a inteligência artificial participa desse processo, surge uma questão que a indústria farmacêutica precisa resolver: quem explica e responde pelo que foi decidido? “Um medicamento não é apenas parte de […]\nO post Quando a IA intervém em um medicamento, a responsabilidade continua sendo humana apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/quando-a-ia-intervem-em-um-medicamento-a-responsabilidade-continua-sendo-humana/",
+          "publishedOn": "2026-10-19T14:15:43.000Z",
+          "wordCount": 3970,
+          "title": "Quando a IA intervém em um medicamento, a responsabilidade continua sendo humana",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/summit.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268971",
+          "author": "Tatiana Carlotti",
+          "description": "Pesquisa PoderData/AYA divulgada nesta segunda-feira (19/10) mostra o senador Flávio Bolsonaro (PL) com 52% dos votos válidos, contra 48% do presidente Luiz Inácio Lula da Silva (PT), na disputa pelo segundo turno das eleições presidenciais, marcado para domingo (25/10). Na comparação com o levantamento anterior, divulgado na sexta-feira (16/10), Flávio Bolsonaro e Lula apareciam empatados […]\nO post PoderData/AYA: Flávio Bolsonaro tem 52% dos votos válidos contra 48% de Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/poderdata-aya-flavio-bolsonaro-tem-52-dos-votos-validos-contra-48-de-lula/",
+          "publishedOn": "2026-10-19T13:40:31.000Z",
+          "wordCount": 3323,
+          "title": "PoderData/AYA: Flávio Bolsonaro tem 52% dos votos válidos contra 48% de Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/20260121090120_bdcfcfa5f37737639cac9e21852cac137f84449e242b6f5f213006a0e8987a47-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268962",
+          "author": "Tatiana Carlotti",
+          "description": "As pesquisas BTG/Nexus e Atlas/Bloomberg divulgadas nesta segunda-feira (19/10) registram o crescimento do presidente Luiz Inácio Lula da Silva (PT) nas intenções de voto e o recuo do senador Flávio Bolsonaro (PL) na disputa pelo segundo turno das eleições presidenciais, que acontece no próximo domingo (25/10). Realizados com metodologias diferentes, os dois levantamentos apontam redução […]\nO post Lula cresce e reduz vantagem de Flávio Bolsonaro a seis dias do segundo turno, apontam pesquisas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-cresce-e-reduz-vantagem-de-flavio-bolsonaro-a-seis-dias-do-segundo-turno-apontam-pesquisas/",
+          "publishedOn": "2026-10-19T12:47:57.000Z",
+          "wordCount": 3892,
+          "title": "Lula cresce e reduz vantagem de Flávio Bolsonaro a seis dias do segundo turno, apontam pesquisas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55557959784_d287750b66_k-1024x616.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268955",
+          "author": "Tabitha Ramalho",
+          "description": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, alertou o primeiro-ministro israelense, Benjamin Netanyahu, sobre a possibilidade de uma nova escalada militar entre os dois países. Em uma publicação nas redes sociais no domingo (18/10), o chanceler fez alusão a confrontos anteriores para defender a capacidade da República Islâmica de responder eventuais ações militares. […]\nO post Irã alerta Netanyahu que se houver nova escalada a resposta será ‘severa’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-alerta-netanyahu-que-se-houver-nova-escalada-a-resposta-sera-severa/",
+          "publishedOn": "2026-10-19T12:41:16.000Z",
+          "wordCount": 3297,
+          "title": "Irã alerta Netanyahu que se houver nova escalada a resposta será ‘severa’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/bdf-20250722-152553-12966d-1536x1022-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268947",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente da Ucrânia, Volodymyr Zelensky, acusou nesta segunda-feira (19/10) os Estados Unidos de não terem alertado Kiev sobre um ataque de mísseis russos contra instalações de energia na capital ucraniana, ocorrido na noite deste domingo (18/10). “Mais uma vez, a Rússia lançou um ataque com mísseis balísticos em múltiplas ondas durante a noite e, […]\nO post Zelensky acusa EUA de não alertarem Kiev sobre novo ataque russo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/zelensky-acusa-eua-de-nao-alertarem-kiev-sobre-novo-ataque-russo/",
+          "publishedOn": "2026-10-19T11:02:44.000Z",
+          "wordCount": 4105,
+          "title": "Zelensky acusa EUA de não alertarem Kiev sobre novo ataque russo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/hsqioftwwaafgz5-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268941",
+          "author": "Tatiana Carlotti",
+          "description": "O ministro da Justiça francês, Gérald Darmanin, reconheceu nesta segunda-feira (19/10) que as autoridades “sem dúvida falharam” diante da onda de violência que marcou o fim de semana na França. Segundo ele, houve falha dos serviços de inteligência, pouco preparados para monitorar grupos da ultraesquerda. Os responsáveis por saques e ataques às forças de segurança […]\nO post França: ‘falhamos’, diz ministro da Justiça após violência contra manifestantes apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/franca-falhamos-diz-ministro-da-justica-apos-fim-de-semana-de-violencia-contra-manifestantes/",
+          "publishedOn": "2026-10-19T10:30:34.000Z",
+          "wordCount": 4586,
+          "title": "França: ‘falhamos’, diz ministro da Justiça após violência contra manifestantes",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/856975112_1479150597410109_7409486857659856794_n-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268935",
+          "author": "Tatiana Carlotti",
+          "description": "Um relatório do Monitor de Opinião Pública (MOP) da Zentrix Consultora, publicado neste domingo, revelou que dois terços dos argentinos enfrentam dificuldades para fechar as contas apenas com a renda de seus salários. Os resultados revelam uma situação particularmente complexa entre os setores de baixa renda. De acordo com a pesquisa, 83,3% das pessoas da […]\nO post Dois terços dos argentinos enfrentam dificuldades para pagar contas no final do mês apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/dois-tercos-dos-argentinos-enfrentam-dificuldades-para-pagar-contas-no-final-do-mes/",
+          "publishedOn": "2026-10-19T10:00:22.000Z",
+          "wordCount": 3587,
+          "title": "Dois terços dos argentinos enfrentam dificuldades para pagar contas no final do mês",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/e65e4044-6fc9-42b8-b434-e40bd2dda2d3-54148834738-fc2d170537-k-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=268931",
+          "author": "Rocio Paik",
+          "description": "O presidente brasileiro, Luiz Inácio Lula da Silva (PT), candidato à reeleição, criticou neste domingo (18/10) o ex-mandatário Jair Bolsonaro, atualmente preso por tentativa de golpe, ao responder às provocações do seu adversário, senador Flávio Bolsonaro (PL), sobre seu filho, Fábio Luís Lula da Silva. “Eu não sou pai que protege o filho como você […]\nO post Lula diz que ‘não protege filho’ como Jair Bolsonaro, desafia Flávio a abrir conta bancária e cita casos Master e Ana Clara apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/lula-diz-que-nao-protege-filho-como-jair-bolsonaro-desafia-flavio-a-abrir-conta-bancaria-e-cita-casos-master-e-ana-clara/",
+          "publishedOn": "2026-10-19T05:07:19.000Z",
+          "wordCount": 4736,
+          "title": "Lula diz que ‘não protege filho’ como Jair Bolsonaro, desafia Flávio a abrir conta bancária e cita casos Master e Ana Clara",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55598389344_0b037a5739_k.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=268928",
           "author": "Rocio Paik",
           "description": "Ao menos 80 cidades brasileiras marcaram atos em apoio ao presidente Luiz Inácio Lula da Silva (PT) neste domingo (18/10), há uma semana do segundo turno eleitoral contra o candidato Flávio Bolsonaro (PL). Foram realizados comícios em diversas localidades, incluindo São Paulo, Rio de Janeiro, Belo Horizonte, Curitiba, Brasília, Salvador, Recife, Florianópolis e Porto Alegre, […]\nO post ‘Bora Virar’: manifestantes pró-Lula defendem democracia nas ruas de todo Brasil e do exterior apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/bora-virar-manifestantes-pro-lula-defendem-democracia-nas-ruas-de-todo-brasil-e-do-exterior/",
           "publishedOn": "2026-10-19T03:04:16.000Z",
-          "wordCount": 3743,
+          "wordCount": 3748,
           "title": "‘Bora Virar’: manifestantes pró-Lula defendem democracia nas ruas de todo Brasil e do exterior",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela_18-10-2026_235833_www.instagram.com_.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268925",
-          "author": "Rocio Paik",
-          "description": "Manifestantes bolsonaristas exibiram uma representação de um míssil com um pedido de ataque nuclear contra o Brasil durante o ato em apoio à candidatura de Flávio Bolsonaro (PL) à Presidência da República, neste domingo (18/10), na avenida Paulista, em São Paulo. A manifestação contou com a presença do senador e de aliados, como o deputado […]\nO post Em SP, bolsonaristas pedem que Trump bombardeie Brasil com arma nuclear apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/em-sp-bolsonaristas-pedem-que-trump-bombardeie-brasil-com-arma-nuclear/",
-          "publishedOn": "2026-10-19T00:39:45.000Z",
-          "wordCount": 3815,
-          "title": "Em SP, bolsonaristas pedem que Trump bombardeie Brasil com arma nuclear",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/missil-3-3e4a7f95.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268919",
-          "author": "Fernanda Oliveira",
-          "description": "O presidente dos Estados Unidos, Donald Trump, declarou neste domingo (18/10) apoio à reeleição do primeiro-ministro de Israel, Benjamin Netanyahu, nove dias antes do pleito parlamentar israelense, marcado para 27 de outubro. Em publicação na rede social Truth Social, Trump elogiou o premiê e afirmou que seu apoio à candidatura é “completo e total”. “Bibi […]\nO post Trump declara apoio a Netanyahu nove dias antes das eleições em Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/trump-declara-apoio-a-netanyahu-nove-dias-antes-das-eleicoes-em-israel/",
-          "publishedOn": "2026-10-18T21:07:13.000Z",
-          "wordCount": 3622,
-          "title": "Trump declara apoio a Netanyahu nove dias antes das eleições em Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/54822870395_7fe2a0260b_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268916",
-          "author": "Fernanda Oliveira",
-          "description": "O presidente da Ucrânia, Volodymyr Zelensky, agradeceu neste domingo (18/10) ao governo dos Estados Unidos pela retomada do compartilhamento de informações de inteligência via sistema Starlink usadas para detectar ataques russos com mísseis balísticos. Em entrevista ao programa Meet the Press, da rede norte-americana NBC, Zelensky afirmou que o fluxo de informações havia sido interrompido […]\nO post Zelensky agradece Trump pela retomada de compartilhamento de inteligência Starlink dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/zelensky-agradece-a-trump-pela-retomada-do-starlink-dos-eua/",
-          "publishedOn": "2026-10-18T21:01:08.000Z",
-          "wordCount": 3965,
-          "title": "Zelensky agradece Trump pela retomada de compartilhamento de inteligência Starlink dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/54870709168_9e018c5deb_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268911",
-          "author": "Fernanda Oliveira",
-          "description": "O presidente da França, Emmanuel Macron, condenou os episódios de violência registrados durante protestos em diversas cidades do país e prometeu responsabilizar os envolvidos em ataques a prédios públicos e estabelecimentos comerciais. Em pronunciamento neste domingo (18/10), Macron voltou a condenar as cenas de violência e afirmou que os episódios eram injustificáveis. O presidente anunciou […]\nO post Macron condena violência em protestos na França após mais de 2 mil detenções: ‘injustificável’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/macron-condena-violencia-em-protestos-na-franca-apos-mais-de-2-mil-detencoes-injustificavel/",
-          "publishedOn": "2026-10-18T20:44:46.000Z",
-          "wordCount": 4157,
-          "title": "Macron condena violência em protestos na França após mais de 2 mil detenções: ‘injustificável’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-18-174246.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268908",
-          "author": "Fernanda Oliveira",
-          "description": "A fotojornalista norte-americana Heidi Levine, colaboradora do jornal The Washington Post, ficou gravemente ferida após ser agredida por homens mascarados identificados como colonos israelenses na aldeia palestina de Abu Falah, na Cisjordânia ocupada. Ela cobria a colheita anual de azeitonas quando foi atacada junto a agricultores palestinos. O caso ocorreu na sexta-feira (16/10) e provocou […]\nO post Fotojornalista norte-americana é agredida por colonos israelenses na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/fotojornalista-norte-americana-e-agredida-por-colonos-israelenses-na-cisjordania-ocupada/",
-          "publishedOn": "2026-10-18T16:25:13.000Z",
-          "wordCount": 3702,
-          "title": "Fotojornalista norte-americana é agredida por colonos israelenses na Cisjordânia ocupada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/hu6g-33wcaacmj4.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268906",
-          "author": "Fernanda Oliveira",
-          "description": "Um ataque ucraniano com drones deixou uma pessoa morta e outras 15 feridas em São Petersburgo e na região de Leningrado, no noroeste da Rússia, neste domingo (18/10), segundo autoridades russas. As ofensivas atingiram instalações petrolíferas, um centro logístico e um de dados. O Ministério da Defesa da Rússia informou que seus sistemas de defesa […]\nO post Ataque ucraniano com drones deixa um morto e 15 feridos na Rússia, afirmam autoridades apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ataque-ucraniano-com-drones-deixa-um-morto-e-15-feridos-na-russia-afirmam-autoridades/",
-          "publishedOn": "2026-10-18T16:12:31.000Z",
-          "wordCount": 3662,
-          "title": "Ataque ucraniano com drones deixa um morto e 15 feridos na Rússia, afirmam autoridades",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/1449683.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268903",
-          "author": "Fernanda Oliveira",
-          "description": "Sindicatos, estudantes e outros setores da população francesa foram às ruas no sábado (17/10) para cobrar medidas contra o custo de vida, aumentos salariais e a defesa dos serviços públicos. As manifestações foram acompanhadas por confrontos com as forças de segurança. Segundo o balanço divulgado pelo Ministério do Interior neste domingo (18/10), cerca de 1.800 […]\nO post Protestos na França deixam feridos e detidos; Mélenchon denuncia violência policial apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/protestos-na-franca-deixam-feridos-e-18-mil-pessoas-detidas-melenchon-denuncia-violencia-policial/",
-          "publishedOn": "2026-10-18T14:17:18.000Z",
-          "wordCount": 5013,
-          "title": "Protestos na França deixam feridos e detidos; Mélenchon denuncia violência policial",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/huhpk8fxeaexcgc-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268897",
-          "author": "Fernanda Oliveira",
-          "description": "O Ministério da Justiça e Segurança Pública pediu ao Ministério Público Federal (MPF) que avalie o ajuizamento de uma ação civil pública contra a Meta, empresa responsável pelo Facebook, Instagram e WhatsApp, por falta de transparência nos procedimentos de moderação de conteúdo durante as eleições de 2026. A solicitação foi encaminhada pela Secretaria Nacional de […]\nO post Governo Lula pede ao MPF ação contra Meta por falta de transparência durante eleições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/governo-lula-pede-ao-mpf-acao-contra-meta-por-falta-de-transparencia-durante-eleicoes/",
-          "publishedOn": "2026-10-17T20:20:51.000Z",
-          "wordCount": 3188,
-          "title": "Governo Lula pede ao MPF ação contra Meta por falta de transparência durante eleições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/brasilia_palaciodajustica1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=268893",
-          "author": "Fernanda Oliveira",
-          "description": "A polícia israelense abriu uma investigação sobre o ataque a uma delegação diplomática europeia na aldeia palestina de Taybeh, na Cisjordânia ocupada, neste sábado (17/10). Representantes da França, Bélgica e Polônia estavam entre os integrantes do grupo, que também incluía representantes católicos e um prefeito francês. Um veículo do consulado belga teve uma janela quebrada […]\nO post Polícia israelense investiga ataque a diplomatas europeus na Cisjordânia ocupada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/policia-israelense-investiga-ataque-a-diplomatas-europeus-na-cisjordania-ocupada/",
-          "publishedOn": "2026-10-17T19:40:09.000Z",
-          "wordCount": 3731,
-          "title": "Polícia israelense investiga ataque a diplomatas europeus na Cisjordânia ocupada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/2010-08_ramallah_43.jpg"
         }
       ]
     },
@@ -742,12 +647,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=235046",
+          "author": "Redação de AND",
+          "description": "Emissora trata recepção à extrema direita como “cortesia”; Luiz Inácio relaciona aproximação aos interesses da empresa nas apostas e à disputa sobre a jornada.",
+          "link": "https://anovademocracia.com.br/globo-flavio-bolsonaro-bets-escala-6-por-1/",
+          "publishedOn": "2026-10-19T14:05:32.000Z",
+          "wordCount": 7713,
+          "title": "Globo recebe Flávio Bolsonaro antes de sabatina em meio à disputa sobre bets e escala 6 por 1",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/globo-confirma-almoco-de-flavio-bolsonaro-com-joao-roberto-marinho-presidente-do-grupo-antes-de-sabatina.png"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235041",
+          "author": "Redação de AND",
+          "description": "Secundaristas, universitários, trabalhadores e coletes amarelos fazem convergir suas lutas. Juventude Comunista marcha em blocos revolucionários e participa de bloqueios. Os governos imperialistas de Macron e Trump, assim como a extrema direita francesa, atacam a rebelião.",
+          "link": "https://anovademocracia.com.br/revolucao-rebeliao-franca-barricada-800-mil/",
+          "publishedOn": "2026-10-19T13:13:39.000Z",
+          "wordCount": 9218,
+          "title": "‘Uma só solução: a Revolução!’: maior ato da rebelião na França reúne 800 mil entre barricadas e confrontos",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/NEWS-•-CLERMONT-FERRAND-17-OCTOBRE-2026📸-@rcostasecaInitialement-organisee-contre-la-vie-cher-1024x769.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=235000",
           "author": "Redação de AND",
           "description": "A seção brasileira da Liga Anti-imperialista Internacional (LAI) no Rio de Janeiro promoverá um ato no dia 21 de outubro, na praça Saens Peña, Tijuca, para denunciar a crescente intervenção imperialista na América Latina, em especial no Brasil. A convocatória foi uma das decisões tomadas na plenária realizada pela LAI, pelo Movimento Estudantil Popular Revolucionário (MEPR) e pelo Movimento Arapuka no dia 13 de outubro na Universidade do Estado do Rio de Janeiro (UERJ). A plenária lotou uma sala da universidade com estudantes e trabalhadores. Nela, os participantes discutiram a situação política internacional e nacional e a necessidade de propagandear",
           "link": "https://anovademocracia.com.br/plenaria-da-lai-no-rio-de-janeiro-reune-estudantes-e-trabalhadores-e-convoca-ato-anti-imperialista-para-dia-21-10/",
           "publishedOn": "2026-10-18T18:32:57.000Z",
-          "wordCount": 7090,
+          "wordCount": 7096,
           "title": "Plenária da LAI no Rio de Janeiro reúne estudantes e trabalhadores e convoca ato anti-imperialista para dia 21/10",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.13.10.jpg"
         },
@@ -757,7 +682,7 @@
           "description": "PL também repassou R$ 131,9 mil à Elytron. Documentos revelados pelo Intercept descrevem boatos, infiltração e conteúdo falso para atingir adversários.",
           "link": "https://anovademocracia.com.br/flavio-600-mil-manipulacao-eleitoral/",
           "publishedOn": "2026-10-18T00:24:51.000Z",
-          "wordCount": 7212,
+          "wordCount": 7218,
           "title": "Flávio Bolsonaro paga R$ 600 mil a empresa denunciada por oferecer manipulação eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2025/12/1-Jair-Bolsonaro-e-Flavio-Bolsonaro-1024x687-1-1.jpg.webp"
         },
@@ -767,7 +692,7 @@
           "description": "Militares poderão apoiar incursões terrestres sob o pretexto do combate ao narcotráfico; Flávio Bolsonaro promete integrar o País à coalizão militar ianque",
           "link": "https://anovademocracia.com.br/trump-envia-tropas-america-latina-brasil/",
           "publishedOn": "2026-10-18T00:12:50.000Z",
-          "wordCount": 7396,
+          "wordCount": 7402,
           "title": "Trump envia tropas à América Latina e reforça chantagem contra o Brasil",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/2026-06-20-EDUARDO-1024x576.jpg"
         },
@@ -777,7 +702,7 @@
           "description": "Onze de 14 textos enviados ao banqueiro foram alterados; mensagens também expõem a reação da diretora do portal à ameaça de processo criminal contra um repórter.",
           "link": "https://anovademocracia.com.br/metropoles-master-vorcaro-editar-reportagem/",
           "publishedOn": "2026-10-17T23:39:40.000Z",
-          "wordCount": 7256,
+          "wordCount": 7262,
           "title": "Metrópoles recebeu R$ 20 milhões do Master e deixava Vorcaro editar reportagens",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-33.png"
         },
@@ -787,7 +712,7 @@
           "description": "Nota pública afirma que a proteção aos menores de 18 anos é cláusula pétrea e condena consulta popular que abra caminho para antecipar o encarceramento da juventude.",
           "link": "https://anovademocracia.com.br/abrapo-e-entidades-denuncia-ataques-eca/",
           "publishedOn": "2026-10-17T23:24:08.000Z",
-          "wordCount": 7502,
+          "wordCount": 7508,
           "title": "ABRAPO e outras sete entidades denunciam ataque do velho Estado brasileiro à maioridade penal",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-32.png"
         },
@@ -797,7 +722,7 @@
           "description": "Um dia após a publicação da entrevista do general da reserva, Moraes abateu 86 dias da pena de Paulo Sérgio Nogueira e aprovou trabalho administrativo proposto pelo comando militar das Forças Armadas reacionárias.",
           "link": "https://anovademocracia.com.br/pazuello-anistia-bolsonaro-ameaca-stf/",
           "publishedOn": "2026-10-17T22:46:01.000Z",
-          "wordCount": 8182,
+          "wordCount": 8183,
           "title": "Pazuello pede anistia a Bolsonaro e generais golpistas em ameaça a ministros do STF",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/17915662746ac921c20b9b1_1791566274_3x2_rt-1024x683.jpg"
         },
@@ -807,7 +732,7 @@
           "description": "Em dois dias de trabalho de campo no extremo sul da Bahia, os estudantes do curso de Geografia conheceram de perto a vida e a organização das comunidades Pataxó de Barra Velha e Comexatibá. As visitas também revelaram de perto a continuidade da aguda luta pela terra na região.",
           "link": "https://anovademocracia.com.br/pataxo-luta-pela-terra-pistolagem-sul-bahia/",
           "publishedOn": "2026-10-17T15:44:13.000Z",
-          "wordCount": 12430,
+          "wordCount": 12436,
           "title": "‘Invasão Zero foi a pior coisa que aconteceu’: estudantes da UERJ visitam comunidades Pataxó e colhem relatos sobre a luta pela terra no Sul da Bahia",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/WhatsApp-Video-2026-10-08-at-20.54.29.mp4",
@@ -822,29 +747,9 @@
           "description": "Se Flávio Bolsonaro vencer, os ianques buscarão impor acordos militares e ampliar seu domínio sobre o Brasil; se perder, poderão apoiar novas investidas golpistas. Em qualquer cenário, a força capaz de contrariar esses planos está na mobilização independente das massas populares.",
           "link": "https://anovademocracia.com.br/editorial-combater-com-atos-extrema-direita/",
           "publishedOn": "2026-10-16T04:42:00.000Z",
-          "wordCount": 8437,
+          "wordCount": 8443,
           "title": "Editorial – Combater com atos a extrema direita e a ingerência ianque!",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-16-editorial.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234895",
-          "author": "Redação de AND",
-          "description": "A Propósito #376 debate ameaças bolsonaristas, Master e chantagem ianque no segundo turno.",
-          "link": "https://anovademocracia.com.br/assista-segundo-turno-ameacas-bolsonaristas/",
-          "publishedOn": "2026-10-15T22:04:19.000Z",
-          "wordCount": 6671,
-          "title": "ASSISTA: Segundo turno sob ameaças bolsonaristas e chantagem ianque – A Propósito #376",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CapasAP376.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=234889",
-          "author": "Redação de AND",
-          "description": "Após anos de mobilização popular, Senado aprova jornada de 40 horas semanais e dois dias de descanso, sem redução salarial. CNI, Fiesp e extrema direita articulam ataques à conquista, enquanto organizações classistas defendem a continuidade da luta pelas 36 horas e contra as contrarreformas trabalhistas.",
-          "link": "https://anovademocracia.com.br/escala-6-por-1-mobilizacao-direitos/",
-          "publishedOn": "2026-10-15T21:30:48.000Z",
-          "wordCount": 8623,
-          "title": "Conquista da luta popular: fim da escala 6 por 1 é aprovado, mas mobilização deve prosseguir para garantir direitos",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-15-6por1-1024x683.jpg"
         }
       ]
     },
@@ -865,7 +770,7 @@
           "description": "Filho de sobreviventes do Holocausto, ele chegou criança ao Brasil. Anos depois, foi torturado pela ditadura. Medo da volta ao passado o faz perder o sono, o ônibus, a aula de Tai Chi: o que há de errado com uma democracia que elege quem debocha da Constituição e arquiteta um golpe?\nThe post Crônica: “Morto, amordaçado, volta a incomodar” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/cronica-morto-amordacado-volta-a-incomodar/",
           "publishedOn": "2026-10-16T22:06:43.000Z",
-          "wordCount": 4388,
+          "wordCount": 4385,
           "title": "Crônica: “Morto, amordaçado, volta a incomodar”",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/IMG_0432-550x413-1.jpg"
         },
@@ -885,7 +790,7 @@
           "description": "Gestão da ex-prefeita de Santos, falecida há uma semana, transformou o cuidado em inteligência pública. Em vez de culpar infectados pelo HIV, estruturou serviços, levou prevenção às ruas e adotou medidas de redução de danos, tornando-se referência internacional. Cabe a nós continuar \nThe post Telma de Souza: a política como um gesto de cuidado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/telma-de-souza-a-politica-como-um-gesto-de-cuidado/",
           "publishedOn": "2026-10-16T21:34:14.000Z",
-          "wordCount": 5271,
+          "wordCount": 5274,
           "title": "Telma de Souza: a política como um gesto de cuidado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664094.jpg"
         },
@@ -905,7 +810,7 @@
           "description": "Além de ícones da imprensa alternativa, Opinião e Movimento foram espaços de convergência política e polêmica. Em alguns casos, divergências estratégicas embaralhavam-se com sentimentos pessoais. Três grandes jornalistas viveram estes conflitos de maneira intensa\nThe post Memórias do Jornalismo: Polêmicas e afetos na luta contra a ditadura appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-polemicas-e-afetos-na-luta-contra-a-ditadura/",
           "publishedOn": "2026-10-16T21:09:31.000Z",
-          "wordCount": 5591,
+          "wordCount": 5594,
           "title": "Memórias do Jornalismo: Polêmicas e afetos na luta contra a ditadura",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/50847362337196641481.jpg"
         },
@@ -915,7 +820,7 @@
           "description": "Reflexões sobre o corpo-a-corpo nas ruas: pertencimento, empatia, disposição para cuidar e tolerância. O que as comunidades dos fandoms ensinam. E como Clarice Lispector uniu duas experiências e sentimentos que parecem, ao primeiro olhar, incompatíveis\nThe post <i>Vira-voto</i>: O <i>outro</i> que também sou em tempos de polarização appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/vira-voto-o-outro-que-tambem-sou-em-tempos-de-polarizacao/",
           "publishedOn": "2026-10-16T20:50:48.000Z",
-          "wordCount": 5345,
+          "wordCount": 5342,
           "title": "Vira-voto: O outro que também sou em tempos de polarização",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5082434728249462042.jpg"
         },
@@ -940,7 +845,7 @@
           "description": "A expansão digital exige abundância do metal e atualiza histórica cobiça na região. Só o México exporta 47% da demanda dos EUA. A mesma mineradora do Norte concentra extração no Peru, Brasil, Bolívia, Chile e Argentina, e reforça o vácuo de políticas soberanas\nThe post A ignorada corrida pela prata latino-americana appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/a-ignorada-corrida-pela-prata-latino-americana/",
           "publishedOn": "2026-10-16T18:36:25.000Z",
-          "wordCount": 4567,
+          "wordCount": 4564,
           "title": "A ignorada corrida pela prata latino-americana",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664017.jpg"
         },
@@ -950,7 +855,7 @@
           "description": "Ensaio desce fundo nas memórias de alguém que viveu o rock extremo nos anos 1980, quando certo ethos violento inventou uma linguagem: o sofrimento, a tortura, a desintegração da pessoa… O que isso diz da emergência da extrema direita, hoje?\nThe post Rock e “satanismo”: uma gênese da desagregação social  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/rock-e-satanismo-uma-genese-da-desagregacao-social/",
           "publishedOn": "2026-10-16T17:59:33.000Z",
-          "wordCount": 5893,
+          "wordCount": 5896,
           "title": "Rock e “satanismo”: uma gênese da desagregação social",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5084736233719664000.jpg"
         },
@@ -960,7 +865,7 @@
           "description": "The post Teatro de marionetes appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/cartum/teatro-de-marionetes/",
           "publishedOn": "2026-10-16T16:29:11.000Z",
-          "wordCount": 2118,
+          "wordCount": 2121,
           "title": "Teatro de marionetes",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/8-1.jpg"
         }
@@ -1009,12 +914,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67567",
+          "author": "Boitempo",
+          "description": "No texto de hoje, Moisés Alves Soares convoca os partidos e organizações de esquerda a voltar a levar a crítica jurídica a sério, se não quiserem continuar terceirizando sua imaginação institucional às platitudes ou prerrogativas dos juristas liberais.",
+          "link": "https://blogdaboitempo.com.br/2026/10/19/a-esquerda-precisa-voltar-a-disputar-o-direito/",
+          "publishedOn": "2026-10-19T12:00:00.000Z",
+          "wordCount": 8204,
+          "title": "A esquerda precisa voltar a disputar o direito",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/raf1174-10.webp"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67459",
           "author": "Boitempo",
           "description": "Continuar falando sobre a Palestina significa, sobretudo, aprender a escutar sem exigir a cada dia uma nova imagem insuportável. Ninguém deveria precisar exibir o corpo de seu filho para voltar a merecer atenção. A criança que procura uma escola, o agricultor impedido de alcançar sua terra e a família que tenta reconstruir uma casa já têm razões suficientes para exigir nossa presença política. Aproximamo-nos dos três anos do 7 de outubro com uma responsabilidade que o “cessar-fogo” não suspendeu. Enquanto a liberdade palestina continuar adiada, não temos o direito de tratar essa história como assunto encerrado.",
           "link": "https://blogdaboitempo.com.br/2026/10/17/naza-um-relato-sobre-a-banalidade-do-mal-e-a-urgencia-da-dessionizacao-do-territorio-palestino/",
           "publishedOn": "2026-10-17T11:00:00.000Z",
-          "wordCount": 7391,
+          "wordCount": 7559,
           "title": "Naza, um relato sobre a banalidade do mal e a urgência da dessionização do território palestino",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/hosnysalah-palestine-7360944.jpg?fit=1200%2C800&ssl=1"
         },
@@ -1024,7 +939,7 @@
           "description": "O que significou a derrota de candidaturas ambientalistas nas eleições 2026? A reflexão de Emanuel Alencar traz um alerta importante sobre o futuro da pauta, assim como nos convoca à mobilização.",
           "link": "https://blogdaboitempo.com.br/2026/10/16/o-pesado-clima-das-urnas/",
           "publishedOn": "2026-10-16T11:00:00.000Z",
-          "wordCount": 5110,
+          "wordCount": 5278,
           "title": "O pesado clima das urnas",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/0d7a0858.jpg.webp"
         },
@@ -1044,7 +959,7 @@
           "description": "Para Douglas Barros, \"é preciso levar em consideração que a esquerda da ordem fez de tudo para silenciar as tão evidentes profecias. Entretanto, como Cassandras, sabemos que o “eu já sabia” é miserável em seu esplendor. Se somos Cassandras modernas, também sabemos que o único deus que nos condenou foi o capital, cujo culto à gestão, promovido pela esquerda institucional, lhe prestou tremendos favores\".",
           "link": "https://blogdaboitempo.com.br/2026/10/15/a-impotencia-do-eu-ja-sabia/",
           "publishedOn": "2026-10-15T15:24:37.000Z",
-          "wordCount": 5272,
+          "wordCount": 5345,
           "title": "A impotência do “eu já sabia!”",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/gettyimages-122210209-1024x1024-1-edited.jpg"
         },
@@ -1057,16 +972,6 @@
           "wordCount": 5518,
           "title": "Mary Shelley e sua criatura",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/58932_mary-shelley-2-jpg.webp"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=67406",
-          "author": "Boitempo",
-          "description": "Diante do cenário das eleições 2026, Walter Lippold nos convida a reler o texto publicado por ele e Deivison Faustino no final de 2025, no Blog da Boitempo. Em 2016 as big techs testaram  experimentos de censura algorítmica capitalizada e os ataques à soberania digital brasileira. Agora, eles estão sendo aplicados em nossas eleições.",
-          "link": "https://blogdaboitempo.com.br/2026/10/14/meta-tira-a-mao-da-nossa-eleicao/",
-          "publishedOn": "2026-10-14T20:00:00.000Z",
-          "wordCount": 7096,
-          "title": "META, TIRA A MÃO DA NOSSA ELEIÇÃO",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/image.png?fit=1200%2C426&ssl=1"
         }
       ]
     }
