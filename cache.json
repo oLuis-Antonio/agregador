@@ -33,6 +33,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6adbea7459cc9a03580760c6",
+          "author": "Redação",
+          "description": "Uma sucessão de acontecimentos mostram que a descarada interferência das big techs nas eleições brasileiras já ultrapassou totalmente o nível de suspeita para se revelar um fato incontestável. Assim como ocorreu nas eleições ao redor",
+          "link": "https://opiniaosocialista.com.br/meta-nao-se-meta-big-techs-interferem-nas-eleicoes-a-favor-da-extrema-direita/",
+          "publishedOn": "2026-10-23T23:25:37.000Z",
+          "wordCount": 1081,
+          "title": "Meta não se meta: Big Techs interferem nas eleições a favor da extrema direita",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Ato-contra-Meta-sergio-koei.webp"
+        },
+        {
           "id": "6adaa14859cc9a0358076060",
           "author": "Redação",
           "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
@@ -78,7 +88,7 @@
           "description": "O Sindipetro-RJ (Sindicato dos Petroleiros do Rio de Janeiro) denunciou a tentativa da campanha de Flávio Bolsonaro (PL) de intimidar e silenciar organizações sindicais e movimentos sociais que se posicionam contra a volta da extrema direita ao governo federal",
           "link": "https://opiniaosocialista.com.br/abaixo-a-censura-sindipetro-rj-denuncia-ofensiva-autoritaria-de-flavio-bolsonaro/",
           "publishedOn": "2026-10-20T19:03:45.000Z",
-          "wordCount": 1091,
+          "wordCount": 1101,
           "title": "Abaixo a censura: Sindipetro-RJ denuncia ofensiva autoritária de Flávio Bolsonaro",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/sindipetrorj_site.webp"
         },
@@ -99,6 +109,46 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Mae-de-Ana-Clara-crianca-assassinada-por-policial-defendido-por-Flavio-leva-denuncia-ao-debate-da",
+          "author": "Redação",
+          "description": "Cristiane Gomes da Silva, mãe da menina Ana Clara, vai aos estúdios globo para acompanhar, na plateia, o debate da TV Globo e encarar de frente Flávio Bolsonaro, defensor do policial assassino, na noite desta sexta-feira (23/10).\n23-10-2026\n\n/ Violência policial, Flavio Bolsonaro, debate globo, mãe, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Mae-de-Ana-Clara-crianca-assassinada-por-policial-defendido-por-Flavio-leva-denuncia-ao-debate-da",
+          "publishedOn": "2026-10-24T02:43:47.000Z",
+          "wordCount": null,
+          "title": "Mãe de Ana Clara, criança assassinada por policial defendido por Flávio, leva denúncia ao debate da Globo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-oculta-que-no-governo-Bolsonaro-a-seguranca-alimentar-da-populacao-era-a-fila-do-osso",
+          "author": "Redação",
+          "description": "No debate na globo, Flávio Bolsonaro faz demagogia com a segurança alimentar da população, mas oculta que no governo de Jair a população fazia filas pra conseguir carcaças em açougues.\n23-10-2026\n\n/ Fome, Flavio Bolsonaro, debate globo, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Flavio-oculta-que-no-governo-Bolsonaro-a-seguranca-alimentar-da-populacao-era-a-fila-do-osso",
+          "publishedOn": "2026-10-24T02:22:50.000Z",
+          "wordCount": null,
+          "title": "Flávio oculta que no governo Bolsonaro a “segurança alimentar” da população era a fila do osso",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-mente-sobre-reajuste-de-aposentadorias-seu-pai-diminuiu-o-valor-e-aumentou-o-tempo",
+          "author": "Redação",
+          "description": "No debate da Globo, que acontece nessa sexta-feira, 23, Flávio Bolsonaro tentou enganar os trabalhadores e aposentados. Em várias oportunidades. Entre elas, quando prometeu reajustar o salário mínimo e as aposentadorias acima da inflação.\n23-10-2026\n\n/ Reforma da Previdência, Flavio Bolsonaro, Aposentadoria, debate globo, Eleições 2026",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-mente-sobre-reajuste-de-aposentadorias-seu-pai-diminuiu-o-valor-e-aumentou-o-tempo",
+          "publishedOn": "2026-10-24T01:48:02.000Z",
+          "wordCount": null,
+          "title": "Flávio Bolsonaro mente sobre reajuste de aposentadorias: seu pai diminuiu o valor e aumentou o tempo de contribuição",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/So-me-preocupo-com-comprar-saco-preto-disse-ministro-de-Bolsonaro-sobre-a-crise-em-Manaus",
+          "author": "Redação",
+          "description": "Pazuello deixou bem claro o que pensava sobre as pessoas que morriam sem oxigênio em Manaus, assim como Bolsonaro e suas risadas. \n Essa foi a frase que o então ministro da Saúde disse durante uma festa em 2021, enquanto as pessoas morriam sem oxigênio em Manaus. \n23-10-2026\n\n/ Política, Pandemia, Bolsonaro",
+          "link": "https://www.esquerdadiario.com.br/So-me-preocupo-com-comprar-saco-preto-disse-ministro-de-Bolsonaro-sobre-a-crise-em-Manaus",
+          "publishedOn": "2026-10-24T01:43:26.000Z",
+          "wordCount": null,
+          "title": "\"Só me preocupo com comprar saco preto” disse ministro de Bolsonaro sobre a crise em Manaus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Luno-Pires-a-Meta-e-as-BigTechs-estao-manipulando-nosso-processo-eleitoral",
           "author": "Luno P.",
@@ -358,46 +408,6 @@
           "wordCount": null,
           "title": "Apesar de Resolução do TSE garantindo o direito, Justiça eleitoral do Amazonas nega transporte fluvial a indígenas do Vale do Javari",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Repercussao-negativa-leva-Exercito-a-suspender-assinatura-de-contrato-com-a-empresa-sionista-Elbit",
-          "author": "Redação",
-          "description": "Ontem foi noticiado, por colunista do Estadão, que o Exército brasileiro havia marcado para o dia 27 a assinatura de contrato com a AEL Sistemas, subsidiária brasileira da empresa israelense Elbit Systems, para a compra dois obuseiros, que passariam por testes, e abrindo caminho para a compra de um lote desta arma, com valor estimado em cerca de R$ 800 milhões. A repercussão negativa do fato, no entanto, levou a que hoje o Exército anunciasse a suspensão da assinatura do contrato, sem marcar (…)\n20-10-2026\n\n/ Política, Israel, Campanha pela ruptura de todas das relações Brasil-Israel, Genocídio",
-          "link": "https://www.esquerdadiario.com.br/Repercussao-negativa-leva-Exercito-a-suspender-assinatura-de-contrato-com-a-empresa-sionista-Elbit",
-          "publishedOn": "2026-10-21T00:22:06.000Z",
-          "wordCount": null,
-          "title": "Repercussão negativa leva Exército a suspender assinatura de contrato com a empresa sionista Elbit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/PM-de-Raquel-Lyra-prende-idosa-de-69-anos-por-bandeira-de-Lula-em-onibus-no-Recife",
-          "author": "Redação",
-          "description": "No sábado (17), uma passageira de 69 anos que levava uma bandeira de Lula foi retirada à força de um ônibus no Terminal da Macaxeira e levada à delegacia, sendo autuada por desacato e desobediência. Uma semana antes, a mesma PM tinha detido 18 militantes por colarem lambes contra Flávio Bolsonaro. \n Maria José da Silva, de 69 anos, entrou num ônibus da linha 1906 – TI Pelópidas/TI Macaxeira com uma bandeira de Lula. Saiu dele, segundo a defesa, arrancada à força, algemada e jogada numa (…)\n20-10-2026\n\n/ Política, Extrema direita, Pernambuco, Repressão policial, Brutalidade policial, Polícia Militar, Raquel Lyra",
-          "link": "https://www.esquerdadiario.com.br/PM-de-Raquel-Lyra-prende-idosa-de-69-anos-por-bandeira-de-Lula-em-onibus-no-Recife",
-          "publishedOn": "2026-10-20T20:54:22.000Z",
-          "wordCount": null,
-          "title": "PM de Raquel Lyra prende idosa de 69 anos por bandeira de Lula em ônibus no Recife",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Policia-de-Macri-reprime-sindicato-do-Metro-e-trabalhadores-respondem-parando-todas-as-linhas",
-          "author": "Redação Cidade de Buenos Aires",
-          "description": "Dirigentes sindicais Claudio Dellecarbonara e e Facundo Heredia foram detidos, junto ao companheiro Sebastián Carrizo.\n20-10-2026\n\n/ Internacional, Argentina, Classe Trabalhadora, Buenos Aires",
-          "link": "https://www.esquerdadiario.com.br/Policia-de-Macri-reprime-sindicato-do-Metro-e-trabalhadores-respondem-parando-todas-as-linhas",
-          "publishedOn": "2026-10-20T19:00:34.000Z",
-          "wordCount": null,
-          "title": "Polícia de Macri reprime sindicato do Metrô, e trabalhadores respondem parando todas as linhas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/O-exerciro-brasileiro-compra-mais-de-R-800-milhoes-em-artilharia-de-Israel-financiando-o-genocidio",
-          "author": "Diego Nunes",
-          "description": "Flávio Bolsonaro recebeu apoio do Primeiro Ministro de Israel o genocida Benjamin Netanyahu, apontando para o fortalecimento das relações militares e comerciais entre Brasil e Israel caso eleito. O exército brasileiro se antecipou e informou que irá retomar contrato de 2024 para a compra de 36 obuseiros dois dias após o segundo turno das eleições. No primeiro lote estão previstos dois desses equipamentos produzidos pela tecnologia israelense aplicada ao genocídio em Gaza. Quase um bilhão de (…)\n20-10-2026\n\n/ Internacional, Política, Economia, Flavio Bolsonaro, Benjamin Netanyahu, Exército de Israel, Palestina Livre, Frente Ampla, Governo Lula, Campanha pela ruptura de todas das relações Brasil-Israel, Sionismo",
-          "link": "https://www.esquerdadiario.com.br/O-exerciro-brasileiro-compra-mais-de-R-800-milhoes-em-artilharia-de-Israel-financiando-o-genocidio",
-          "publishedOn": "2026-10-20T16:45:16.000Z",
-          "wordCount": null,
-          "title": "O exérciro brasileiro compra mais de R$800 milhões em artilharia de Israel, financiando o genocídio em Gaza",
-          "imageUrl": null
         }
       ]
     },
@@ -567,16 +577,6 @@
           "wordCount": 7306,
           "title": "Artigo | O Brasil falha na infância e cobra a conta na adolescência",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/charge-juniao-reducao-maioridade-penal.jpg.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=164149",
-          "author": "Jessica Santos",
-          "description": "Propostas de Flávio Bolsonaro para segurança pública apostam em mais prisões, violência policial e vigilância, enquanto deixam de lado medidas de prevenção e controle das forças de segurança\nO conteúdo Da Redação | Por que a volta da família Bolsonaro é pior para a democracia e para a segurança pública Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/flavio-bolsonaro-seguranca-publica-democracia/",
-          "publishedOn": "2026-10-19T15:07:10.000Z",
-          "wordCount": 6822,
-          "title": "Da Redação | Por que a volta da família Bolsonaro é pior para a democracia e para a segurança pública",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2023/01/ato_democracia_0901.jpg"
         }
       ]
     },
@@ -648,7 +648,7 @@
           "description": "O ministro Floriano de Azevedo Marques, do Tribunal Superior Eleitoral (TSE), atendeu a um pedido da campanha do presidente Luiz Inácio Lula da Silva (PT) e determinou nesta sexta-feira (23/10) que a Presidência da Corte não pode suspender ou restringir o funcionamento do canal “Exército do Lula” no WhatsApp por ato monocrático. Pela decisão liminar, […]\nO post Ministro do TSE proíbe suspensão do ‘Exército do Lula’ sem aval do plenário apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/ministro-do-tse-proibe-suspensao-do-exercito-do-lula-sem-aval-do-plenario/",
           "publishedOn": "2026-10-23T21:42:26.000Z",
-          "wordCount": 3546,
+          "wordCount": 3527,
           "title": "Ministro do TSE proíbe suspensão do ‘Exército do Lula’ sem aval do plenário",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/exer.jpg"
         },
@@ -658,7 +658,7 @@
           "description": "A coordenação da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) acusou o seu adversário, o senador Flávio Bolsonaro (PL), de não cumprir o acordo feito entre os candidatos para a abertura simultânea dos sigilos bancários, fiscais e telefônicos deles e de seus familiares mais próximos. Segundo o senador Camilo Santana (PT-CE), […]\nO post Campanha de Lula diz que Flávio Bolsonaro ‘fugiu do compromisso’ de abrir sigilos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/campanha-de-lula-diz-que-flavio-bolsonaro-fugiu-do-compromisso-de-abrir-sigilos/",
           "publishedOn": "2026-10-23T21:24:24.000Z",
-          "wordCount": 3485,
+          "wordCount": 3466,
           "title": "Campanha de Lula diz que Flávio Bolsonaro ‘fugiu do compromisso’ de abrir sigilos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/flavio-lula-debate-band-fotos-publicas.png"
         },
@@ -668,7 +668,7 @@
           "description": "Um vídeo publicado pelo deputado federal Nikolas Ferreira na última terça-feira, dia 20 de outubro, virou piada nas redes sociais. A peça pretendia transformar os problemas enfrentados pela população nordestina em munição eleitoral contra Lula, mas acabou sendo exposta como uma encenação, após o vazamento de cenas de bastidores. As imagens revelaram uma produção cuidadosamente […]\nO post Muito além dos estereótipos: Lula e a transformação do Nordeste apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/muito-alem-dos-estereotipos-lula-e-a-transformacao-do-nordeste/",
           "publishedOn": "2026-10-23T20:41:56.000Z",
-          "wordCount": 6963,
+          "wordCount": 6481,
           "title": "Muito além dos estereótipos: Lula e a transformação do Nordeste",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/rafael_medeiros-suape.jpg"
         },
@@ -678,7 +678,7 @@
           "description": "“Eu não voto em candidato, eu voto em propostas de melhoria para o povo brasileiro”. A frase é da estudante de Rádio, TV e Internet Bianca Barciela, que votou no escritor Augusto Cury (Avante) no primeiro turno das eleições presidenciais de 2026, mas pretende votar em Luiz Inácio Lula da Silva (PT) no segundo turno, […]\nO post ‘Em Lula encontro melhores propostas’, afirma eleitora que votou em Augusto Cury no primeiro turno apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/em-lula-encontro-melhores-propostas-afirma-eleitora-que-votou-em-augusto-cury-no-primeiro-turno/",
           "publishedOn": "2026-10-23T20:14:15.000Z",
-          "wordCount": 4567,
+          "wordCount": 4548,
           "title": "‘Em Lula encontro melhores propostas’, afirma eleitora que votou em Augusto Cury no primeiro turno",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/triptico-de-retratos-publicos-brasileiros-1024x512.png"
         },
@@ -688,7 +688,7 @@
           "description": "Milhares de pessoas foram às ruas da Venezuela nesta quinta-feira (22/10) para pressionar as autoridades por eleições e mudanças no sistema político. A mobilização, liderada por setores da oposição ao governo interino de Delcy Rodríguez, ocorreu em várias cidades e representa o primeiro protesto oposicionista de alcance nacional em quase dois anos. Os atos acontecem […]\nO post Protestos na Venezuela cobram eleições livres e pressionam governo interino apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/protestos-na-venezuela-cobram-eleicoes-livres-e-pressionam-governo-interino/",
           "publishedOn": "2026-10-23T19:00:38.000Z",
-          "wordCount": 3931,
+          "wordCount": 3912,
           "title": "Protestos na Venezuela cobram eleições livres e pressionam governo interino",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-23-151943.png"
         },
@@ -698,7 +698,7 @@
           "description": "O governo dos Estados Unidos anunciou nesta sexta-feira (23/10) que Rússia e Ucrânia aceitaram um cessar-fogo temporário na cidade ucraniana de Oleshky, ocupada militarmente pela Rússia, que enfrenta uma situação de crise humanitária. Segundo comunicado divulgado pela Casa Branca, tanto Moscou quanto Kiev concordaram em suspender todas as operações militares na cidade a partir de […]\nO post Rússia e Ucrânia concordam com cessar-fogo em região afetada por crise humanitária apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-e-ucrania-concordam-com-cessar-fogo-em-regiao-afetada-por-crise-humanitaria/",
           "publishedOn": "2026-10-23T18:10:42.000Z",
-          "wordCount": 3257,
+          "wordCount": 3238,
           "title": "Rússia e Ucrânia concordam com cessar-fogo em região afetada por crise humanitária",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/bandeiras.jpg"
         },
@@ -708,7 +708,7 @@
           "description": "A empregada doméstica Leandra Lacerda, 52 anos, recorda que precisou conviver com pressões de patrões durante períodos eleitorais. As mensagens chegaram em diferentes fases de sua trajetória profissional de formas, inclusive, escancaradas. “Eu trabalhava numa residência. E a empregadora gritava comigo (para votar em um candidato)”, afirma. Não foram raras as vezes em que isso […]\nO post Entidades lançam campanha para combater assédio eleitoral contra trabalhadoras domésticas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/entidades-lancam-campanha-para-combater-assedio-eleitoral-contra-trabalhadoras-domesticas/",
           "publishedOn": "2026-10-23T17:40:48.000Z",
-          "wordCount": 4330,
+          "wordCount": 3854,
           "title": "Entidades lançam campanha para combater assédio eleitoral contra trabalhadoras domésticas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/whatsapp_image_2026-10-22_at_09.05.18.webp"
         },
@@ -718,7 +718,7 @@
           "description": "A Associação Brasileira de Juristas pela Democracia (ABJD), que já havia pedido a suspeição do presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, entrou com novo pedido de liminar para impedir que o canal de WhatsApp Exército do Lula seja retirado do ar às vésperas do segundo turno das eleições presidenciais, marcado para domingo […]\nO post Juristas Pela Democracia pedem liminar contra censura do ‘Exército do Lula’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/juristas-pela-democracia-pedem-liminar-contra-censura-do-exercito-do-lula/",
           "publishedOn": "2026-10-23T17:10:13.000Z",
-          "wordCount": 4419,
+          "wordCount": 4400,
           "title": "Juristas Pela Democracia pedem liminar contra censura do ‘Exército do Lula’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/exerctito.jpg"
         },
@@ -728,7 +728,7 @@
           "description": "O senador norte-americano Bernie Sanders anunciou a transferência de US$ 1 milhão (R$ 5 milhões) para a campanha de Abdul El-Sayed, candidato democrata ao Senado pelo estado de Michigan, que poderá se tornar o primeiro senador muçulmano dos Estados Unidos. El-Sayed integra a ala progressista do Partido Democrata, próxima a Sanders e à deputada Alexandria […]\nO post Bernie Sanders doa US$ 1 milhão à campanha de candidato muçulmano ao Senado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/bernie-sanders-doa-us-1-milhao-a-campanha-de-candidato-muculmano-ao-senado/",
           "publishedOn": "2026-10-23T16:40:57.000Z",
-          "wordCount": 3605,
+          "wordCount": 3586,
           "title": "Bernie Sanders doa US$ 1 milhão à campanha de candidato muçulmano ao Senado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-23-130752.png"
         },
@@ -738,7 +738,7 @@
           "description": "Forças militares de Israel iniciaram nesta sexta-feira (23/10) uma operação para evacuação e demolição de residências nas cidades de Hebron e Halhul, na Cisjordânia. A operação foi ordenada horas depois de uma ação realizada por dois homens armados, supostamente de nacionalidade palestina, que teriam disparado contra um posto de controle militar israelense em Hebron, matando […]\nO post Israel inicia demolições na Cisjordânia após morte de dois soldados em ataque a tiros apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-inicia-demolicoes-na-cisjordania-apos-morte-de-dois-soldados-em-ataque-a-tiros/",
           "publishedOn": "2026-10-23T16:00:15.000Z",
-          "wordCount": 3764,
+          "wordCount": 3745,
           "title": "Israel inicia demolições na Cisjordânia após morte de dois soldados em ataque a tiros",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2024/12/fcb38909-d32c-4a66-887e-f0dc250af61d.jpg"
         }
@@ -802,7 +802,7 @@
           "description": "Quatro viaturas chegaram à Vila Alípio de Freitas em 22 de outubro, segundo relatos. No dia 23, missão de solidariedade deve acompanhar assembleia com o Incra sobre a regularização da Área Tiago Campin dos Santos e outras reivindicações.",
           "link": "https://anovademocracia.com.br/braguin-tenta-intimidar-camponeses-incra/",
           "publishedOn": "2026-10-23T19:10:53.000Z",
-          "wordCount": 8319,
+          "wordCount": 8316,
           "title": "Braguin tenta intimidar camponeses para frustrar missão de solidariedade e assembleia com o Incra",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/roIMG_8764-114.jpg"
         },
@@ -812,7 +812,7 @@
           "description": "Manifestação percorreu a Praça Saens Peña, a UERJ e o Andaraí, denunciou a intervenção ianque na América Latina e reuniu organizações populares, estudantis e democráticas a poucos dias do segundo turno da farsa eleitoral.",
           "link": "https://anovademocracia.com.br/ato-tijuca-lai/",
           "publishedOn": "2026-10-23T19:07:17.000Z",
-          "wordCount": 7870,
+          "wordCount": 7867,
           "title": "Ato na Tijuca integra campanha continental da LAI, denuncia farsa eleitoral e enfrenta intimidação policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/20261021_182849-1024x473.jpg"
         },
@@ -822,7 +822,7 @@
           "description": "Washington também enviará, pela primeira vez, um assessor de “contraterrorismo” a Assunção. Acordos militares, sistemas de vigilância e investimentos estratégicos aprofundam a presença ianque num país onde o Exército do Povo Paraguaio (EPP) mantém a luta armada e o governo lacaio de Santiago Peña amplia o aparato contrainsurgente.",
           "link": "https://anovademocracia.com.br/eua-antinarcoticos-paraguai-cone-sul/",
           "publishedOn": "2026-10-23T18:36:04.000Z",
-          "wordCount": 8504,
+          "wordCount": 8501,
           "title": "EUA anuncia ‘centro antinarcóticos’ no Paraguai para coordenar operações no Cone Sul e amplia presença na Tríplice Fronteira",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-46-1024x576.jpg"
         },
@@ -832,7 +832,7 @@
           "description": "Gestores foram afastados após a mobilização em Cambé. Ao AND, ExPEPe denuncia abusos no modelo cívico-militar e destaca a organização de estudantes e professores contra sua expansão",
           "link": "https://anovademocracia.com.br/contra-cameras-escola-civico-militar-parana/",
           "publishedOn": "2026-10-23T16:00:53.000Z",
-          "wordCount": 8079,
+          "wordCount": 8076,
           "title": "Estudantes protestam contra câmeras escondidas em banheiros de escola cívico-militar no Paraná",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/alunos-protestam-contra-cameras-espias-em-banheiro.jpg"
         },
@@ -842,7 +842,7 @@
           "description": "Trump explora a rebelião francesa para atacar a oposição e os imigrantes, enquanto o próprio EUA enfrenta mobilizações contra a repressão. Na fronteira com o México, o Pentágono autorizou testes de uma arma térmica para dispersar multidões.",
           "link": "https://anovademocracia.com.br/eua-pode-queimar-como-a-franca-trump-teme-protestos-explosivos-e-ataca-imigrantes/",
           "publishedOn": "2026-10-22T21:43:47.000Z",
-          "wordCount": 7545,
+          "wordCount": 7542,
           "title": "EUA ‘pode queimar como a França’: Trump teme protestos explosivos e ataca imigrantes",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-22-eua-1024x683.jpg"
         },
@@ -852,7 +852,7 @@
           "description": "Polícia desmontou acampamentos em Lisboa e no Porto, mas manifestantes voltaram às ruas e decidiram permanecer na praça, mesmo sem tendas. Os 55 detidos na capital responderão a procedimentos judiciais, enquanto novas assembleias populares ampliam a mobilização contra a carestia e a crise da moradia.",
           "link": "https://anovademocracia.com.br/manifestantes-repressao-policial-portugal/",
           "publishedOn": "2026-10-22T21:27:25.000Z",
-          "wordCount": 7794,
+          "wordCount": 7791,
           "title": "Após 55 detenções, manifestantes retomam Rossio e resistem à repressão policial em Portugal",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-22-portugal-1024x683.jpg"
         },
@@ -862,7 +862,7 @@
           "description": "A Propósito #377 debate novos escândalos e os desdobramentos da reta final da farsa eleitoral.",
           "link": "https://anovademocracia.com.br/campanha-eleicoes-2026-a-proposito-377/",
           "publishedOn": "2026-10-22T21:22:32.000Z",
-          "wordCount": 6703,
+          "wordCount": 6700,
           "title": "ASSISTA: Análise da última semana de campanha das eleições de 2026 – A Propósito #377",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/CAPAAP377.jpg"
         },
@@ -872,7 +872,7 @@
           "description": "Mais de 500 policiais, gendarmes e militares participaram de operações simuladas com tropas de choque, gás lacrimogêneo e vigilância por drones. O exercício contou com a participação de um negociador do FBI e representantes de estruturas da União Europeia e da Otan, semanas após a repressão a manifestações camponesas em Bucareste.",
           "link": "https://anovademocracia.com.br/policia-treina-protesto-romenia-europeia/",
           "publishedOn": "2026-10-22T21:06:03.000Z",
-          "wordCount": 8392,
+          "wordCount": 8389,
           "title": "Forças policiais de 19 países treinam repressão a protestos na Romênia em exercício financiado pela União Europeia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-22-romenia.jpg"
         }
@@ -892,26 +892,6 @@
           "wordCount": 3619,
           "title": "Derrotar Bolsonaro no segundo turno sem abandonar a luta pela revolução",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/10/298799902_486408576824035_6675726856310978443_n-2.jpg"
-        },
-        {
-          "id": "6ad638327f8ed50598a03bff",
-          "author": "O Poder Popular",
-          "description": "Por Lucas Andreto - Graduado e mestre em História pela Unesp de Assis. Doutor em Ciências Sociais pela Unesp de Marília. Membro do Comitê Regional de São Paulo do PCB.\nCrítica ao Plano de Governo de Flávio",
-          "link": "https://opoderpopular.com.br/critica-ao-plano-de-governo-de-flavio-bolsonaro-projeto-da-colonia-brasileira-dos-estados-unidos-da-america/",
-          "publishedOn": "2026-10-19T15:39:40.000Z",
-          "wordCount": 10208,
-          "title": "Crítica ao Plano de Governo de Flávio Bolsonaro",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/10/298799902_486408576824035_6675726856310978443_n-1.jpg"
-        },
-        {
-          "id": "6ad6373e7f8ed50598a03819",
-          "author": "O Poder Popular",
-          "description": "Coordenação Nacional da União da Juventude Comunista \nA UJC repudia qualquer movimento em direção à redução da maioridade penal. Este é um projeto de extermínio e encarceramento da juventude negra e trabalhadora!\nO Estado burguês",
-          "link": "https://opoderpopular.com.br/nao-a-reducao-da-maioridade-penal/",
-          "publishedOn": "2026-10-19T15:30:23.000Z",
-          "wordCount": 1268,
-          "title": "Não à redução da maioridade penal!",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/10/5087266476263148918.jpg"
         }
       ]
     },
@@ -936,7 +916,7 @@
           "description": "Quem promove Flávio deseja um nada no comando do país. Uma peça vazia a ponto de oferecer moeda, títulos, empresas públicas, serviços sociais, biomas e territórios. Mas as torrentes de manifestantes abriram fissuras imprevistas no projeto. Bora, Lula! Bora, frente antifascista e antissistêmica para tudo o que virá!\nThe post Domingo e depois appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/domingo-e-depois/",
           "publishedOn": "2026-10-23T21:17:24.000Z",
-          "wordCount": 4259,
+          "wordCount": 4256,
           "title": "Domingo e depois",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-23-at-18-14-50-1-Instagram.png"
         },
@@ -956,7 +936,7 @@
           "description": "Lula aposta em câmeras corporais, transparência algorítmica e proteção de direitos em plataformas digitais. Em contraponto, Flávio inspira-se em Bukele e promete “muralha” de vigilância e fim das estruturas de combate à desinformação. Que riscos envolvem nosso voto?\nThe post Segurança: fiscalização responsável ou a hipervigilância? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/seguranca-fiscalizacao-responsavel-ou-a-hipervigilancia/",
           "publishedOn": "2026-10-23T19:48:58.000Z",
-          "wordCount": 4090,
+          "wordCount": 4093,
           "title": "Segurança: fiscalização responsável ou a hipervigilância?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5104956776540474647.jpg"
         },
@@ -976,7 +956,7 @@
           "description": "Parábola em que se compreende a exultação dos rentistas com o resultado do primeiro turno. E se demonstra que o Brasil real precisa, além de derrotá-los, decifrar a aritmética por trás de seu júbilo. Pois quanto mais intenso ele for, mais lágrimas tenderão a produzir ao povo trabalhador\nThe post A Comunidade, a Fazenda e o Cassino appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-comunidade-a-fazenda-e-o-cassino/",
           "publishedOn": "2026-10-23T19:31:23.000Z",
-          "wordCount": 5861,
+          "wordCount": 5858,
           "title": "A Comunidade, a Fazenda e o Cassino",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5105101796111224199-1.jpg"
         },
@@ -986,7 +966,7 @@
           "description": "Bolsonarismo visa submeter um direito ao rentismo. Já Lula, aposta no papel do Estado com o MCMV, apesar de contradições. O que o modelo chinês – que  controla a terra urbana e aposta na habitação como infraestrutura para o desenvolvimento – ensina ao Brasil?\nThe post Moradia no Brasil: Lula, Flávio e as lições da China appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/moradia-no-brasil-lula-flavio-e-as-licoes-da-china/",
           "publishedOn": "2026-10-23T17:39:37.000Z",
-          "wordCount": 5595,
+          "wordCount": 5598,
           "title": "Moradia no Brasil: Lula, Flávio e as lições da China",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5104956776540474632.jpg"
         },
@@ -996,7 +976,7 @@
           "description": "Campo conservador brada que tem a fórmula para criar novas lideranças – mas dados revelam equívoco. E a renovação política não pertence a um espectro, mas à capacidade de mudar as dinâmicas opacas e viciadas do Congresso. Não basta só polemizar online\nThe post Legislativo: renovação à direita é menor que se pensa appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/legislativo-renovacao-a-direita-e-menor-que-se-pensa/",
           "publishedOn": "2026-10-22T22:04:07.000Z",
-          "wordCount": 4482,
+          "wordCount": 4479,
           "title": "Legislativo: renovação à direita é menor que se pensa",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/26a3d0_cong_materia_manual_5100094041162d0b97abbc.jpg"
         },
@@ -1006,7 +986,7 @@
           "description": "Como se formou o movimento Vida Além do Trabalho, hoje presente em 26 estados? Quais coalizões construiu? De que forma, em meio ao fluxo frenético de notícias na sociedade, usou a criatividade para manter a pauta no debate público e pressionar o Congresso?\nThe post Breve memória da luta pelo fim da escala 6×1 appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/breve-memoria-da-luta-pelo-fim-da-escala-6x1/",
           "publishedOn": "2026-10-22T21:54:07.000Z",
-          "wordCount": 4075,
+          "wordCount": 4078,
           "title": "Breve memória da luta pelo fim da escala 6×1",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-22-at-18-53-30-rbr-1024x683.webp-imagem-WEBP-1024-%C3%97-683-pixels-Redimensionada-87.png"
         },
@@ -1016,7 +996,7 @@
           "description": "Da física quântica à teoria das supercordas e o princípio holográfico, Ciência mostra que a experiência é dual. O que isso pode ensinar sobre a polarização política? Como enfrentar a ideia de aniquilamento do outro que move debates? Reflexões sobre as tensões no Brasil\nThe post Convite ao diálogo num Brasil atormentado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/convite-ao-dialogo-num-brasil-atormentado/",
           "publishedOn": "2026-10-22T21:50:13.000Z",
-          "wordCount": 6124,
+          "wordCount": 6127,
           "title": "Convite ao diálogo num Brasil atormentado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/51049838691941778942.jpg"
         }
@@ -1043,7 +1023,7 @@
           "description": "A explicação para essa mediocridade e superficialidade do debate não reside simplesmente na incapacidade, mas na própria natureza do processo eleitoral. Por O Jardineiro",
           "link": "https://passapalavra.info/2026/10/160210/",
           "publishedOn": "2026-10-23T10:42:57.000Z",
-          "wordCount": 5825,
+          "wordCount": 6286,
           "title": "A mediocridade e superficialidade do primeiro debate presidencial",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/kapoor4.jpg"
         },
@@ -1086,16 +1066,6 @@
           "wordCount": 7464,
           "title": "Uma volta a 64? Não. A neocolônia de 1500",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/taxi-cab-ii-1959.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160153",
-          "author": "Vieira",
-          "description": "Meu pai não teve condições de lidar com as contradições que viveu. Será que nós temos tido condições? Por Isadora de Andrade Guerreiro",
-          "link": "https://passapalavra.info/2026/10/160153/",
-          "publishedOn": "2026-10-19T15:39:29.000Z",
-          "wordCount": 11832,
-          "title": "Meu pai, um país: um trotskista evangélico",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/07/coluna_1.jpg"
         }
       ]
     },
@@ -1110,7 +1080,7 @@
           "description": "Análise de Maikel da Silveira sobre mais uma eleição do fim do mundo.",
           "link": "https://blogdaboitempo.com.br/2026/10/23/o-brasil-em-mais-uma-eleicao-do-fim-do-mundo/",
           "publishedOn": "2026-10-23T11:27:17.000Z",
-          "wordCount": 10638,
+          "wordCount": 10639,
           "title": "O Brasil em mais uma eleição do fim do mundo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/toms4742.webp"
         },
@@ -1130,7 +1100,7 @@
           "description": "\"A mobilização iniciada depois do primeiro turno mostrou que o medo pode encontrar uma resposta coletiva e que a disputa eleitoral pode produzir novos compromissos, solidariedade e organização.\" No texto de hoje, Ederson Duda nos lembra da urgência de disputar o futuro.",
           "link": "https://blogdaboitempo.com.br/2026/10/22/disputar-o-futuro/",
           "publishedOn": "2026-10-22T11:00:00.000Z",
-          "wordCount": 5439,
+          "wordCount": 5611,
           "title": "Disputar o futuro",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/d6a0151-1.webp"
         },
@@ -1173,16 +1143,6 @@
           "wordCount": 6873,
           "title": "Uma breve reflexão sobre a esquerda revolucionária nas eleições de 2026",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/img_3840.webp"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=67567",
-          "author": "Boitempo",
-          "description": "No texto de hoje, Moisés Alves Soares convoca os partidos e organizações de esquerda a voltar a levar a crítica jurídica a sério, se não quiserem continuar terceirizando sua imaginação institucional às platitudes ou prerrogativas dos juristas liberais.",
-          "link": "https://blogdaboitempo.com.br/2026/10/19/a-esquerda-precisa-voltar-a-disputar-o-direito/",
-          "publishedOn": "2026-10-19T12:00:00.000Z",
-          "wordCount": 8036,
-          "title": "A esquerda precisa voltar a disputar o direito",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/raf1174-10-1-1.webp"
         }
       ]
     }
