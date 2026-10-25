@@ -18,6 +18,43 @@
       ]
     },
     {
+      "title": "Opinião Socialista",
+      "feedUrl": "https://www.opiniaosocialista.com.br/feed",
+      "siteUrl": "https://opiniaosocialista.com.br/",
+      "articles": [
+        {
+          "id": "6adbea7459cc9a03580760c6",
+          "author": "Redação",
+          "description": "Uma sucessão de acontecimentos mostram que a descarada interferência das big techs nas eleições brasileiras já ultrapassou totalmente o nível de suspeita para se revelar um fato incontestável. Assim como ocorreu nas eleições ao redor",
+          "link": "https://opiniaosocialista.com.br/meta-nao-se-meta-big-techs-interferem-nas-eleicoes-a-favor-da-extrema-direita/",
+          "publishedOn": "2026-10-23T23:25:37.000Z",
+          "wordCount": 1081,
+          "title": "Meta não se meta: Big Techs interferem nas eleições a favor da extrema direita",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Ato-contra-Meta-sergio-koei.webp"
+        },
+        {
+          "id": "6adaa14859cc9a0358076060",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/depois-do-2o-turno-os-trabalhadores-terao-batalhas-ainda-maiores-ep-18/",
+          "publishedOn": "2026-10-22T23:50:45.000Z",
+          "wordCount": 454,
+          "title": "Depois do 2º turno, os trabalhadores terão BATALHAS AINDA MAIORES - EP #18",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
+          "id": "6ad94e3059cc9a0358075fd8",
+          "author": "Diego Cruz",
+          "description": "Como o público evangélico, cuja maioria votou em Lula em 2002, ganhou protagonismo e se constituiu como uma das principais bases do bolsonarismo",
+          "link": "https://opiniaosocialista.com.br/guerra-religiosa-motivos-profanos-o-bolsonarismo-e-a-teologia-do-dominio/",
+          "publishedOn": "2026-10-21T23:51:42.000Z",
+          "wordCount": 3476,
+          "title": "Guerra religiosa, motivos profanos: o bolsonarismo e a Teologia do Domínio",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/Flavio-Bolsonaro-e-Malafaia.webp"
+        }
+      ]
+    },
+    {
       "title": "Esquerda Diário",
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
@@ -418,21 +455,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/flavio-doacoes-agro-wide.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445550",
-          "author": "Isabella Mota",
-          "description": "A socióloga e economista Sabrina Fernandes, numa edição especial em vídeo da coluna “No Fim do Túnel”, comenta o segundo turno das eleições e as dificuldades do campo democrático para falar de propostas políticas e projeto de nação.\nO post Sabrina Fernandes: ‘Flávio Bolsonaro é Jair Bolsonaro’ apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/20/sabrina-fernandes-flavio-bolsonaro-jair-bolsonaro/",
-          "publishedOn": "2026-10-20T19:59:12.000Z",
-          "wordCount": null,
-          "title": "Sabrina Fernandes: ‘Flávio Bolsonaro é Jair Bolsonaro’",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/Headerwide-13.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-13.jpg"
         }
       ]
     },
@@ -490,16 +512,6 @@
           "wordCount": 7019,
           "title": "Como um ‘detalhezinho’ rejeitado por Flávio Bolsonaro atrapalha facções e desvendou a morte de uma juíza odiada por milicianos",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/E6B05DD0-B6B1-43AC-B9ED-176321F3102B.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=164210",
-          "author": "Catarina Duarte",
-          "description": "Antes de reduzir a maioridade penal, é preciso garantir o direito à infância\nO conteúdo Artigo | O Brasil falha na infância e cobra a conta na adolescência Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/artigo-o-brasil-falha-na-infancia-e-cobra-a-conta-na-adolescencia/",
-          "publishedOn": "2026-10-20T21:00:47.000Z",
-          "wordCount": 7240,
-          "title": "Artigo | O Brasil falha na infância e cobra a conta na adolescência",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/charge-juniao-reducao-maioridade-penal.jpg.webp"
         }
       ]
     },
@@ -537,16 +549,6 @@
           "wordCount": 5743,
           "title": "Mensagem das bases: a juventude exige o rap na dança da virada",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/virada-rap.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74822",
-          "author": "Middle East Monitor",
-          "description": "presidente Trump prometeu que os Estados Unidos não atacarão o Irã antes das eleições de meio-termo de 3 de novembro. Essa declaração soa como moderação e, ao mesmo tempo, também pode ser interpretada como uma advertência. Ao vincular a moderação militar à data das eleições, Trump tornou o período após a votação mais perigoso. A […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/10/20/trump-poderia-perder-o-congresso-e-ainda-assim-ampliar-a-guerra-dos-eua-contra-o-ira/",
-          "publishedOn": "2026-10-20T22:37:01.000Z",
-          "wordCount": 3524,
-          "title": "Trump poderia perder o Congresso e, ainda assim, ampliar a guerra dos EUA contra o Irã",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/trump-ira.webp"
         }
       ]
     },
@@ -561,18 +563,18 @@
           "description": "Há mais de dois anos, o jovem Felipe Augusto Savari saiu de Minas Gerais e veio morar em Seul, capital da Coreia do Sul. Vestindo a camisa verde e amarela, com um “13” estampado nas costas, foi depositar o seu voto na urna e contou a Opera Mundi que acredita em uma virada eleitoral. “Vi […]\nO post ‘Soldados do Lula’ na Coreia do Sul acreditam na virada: ‘não vou deixar que levem o Brasil’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/soldados-do-lula-na-coreia-do-sul-acreditam-na-virada-nao-vou-deixar-que-levem-o-brasil/",
           "publishedOn": "2026-10-25T03:33:20.000Z",
-          "wordCount": 4687,
+          "wordCount": 4747,
           "title": "‘Soldados do Lula’ na Coreia do Sul acreditam na virada: ‘não vou deixar que levem o Brasil’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-25-at-00.30.42.jpeg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=269636",
           "author": "Rocio Paik",
-          "description": "O segundo turno das eleições presidenciais do Brasil, disputadas pelos candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), começou em Wellington, na Nova Zelândia, neste sábado (24/10), às 16h, pelo horário de Brasília. Pouco depois, às 18h, a Austrália também abriu as seções eleitorais em três cidades. Os dois países são os […]\nO post Eleições 2026: brasileiros no exterior votam na Nova Zelândia, Austrália e Coreia do Sul apareceu primeiro em Opera Mundi.",
+          "description": "O segundo turno das eleições presidenciais do Brasil, disputadas pelos candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), começou em Wellington, na Nova Zelândia, neste sábado (24/10), às 16h, pelo horário de Brasília. Pouco depois, às 18h, a Austrália também abriu as seções eleitorais em três cidades. Os dois países são os […]\nO post Eleições 2026: Lula vence na Nova Zelândia com 81% dos votos válidos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/eleicoes-2026-brasileiros-no-exterior-comecam-a-votar-no-segundo-turno-presidencial/",
           "publishedOn": "2026-10-24T23:36:00.000Z",
-          "wordCount": 3921,
-          "title": "Eleições 2026: brasileiros no exterior votam na Nova Zelândia, Austrália e Coreia do Sul",
+          "wordCount": 4099,
+          "title": "Eleições 2026: Lula vence na Nova Zelândia com 81% dos votos válidos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-24-at-20.15.11-scaled.jpeg"
         },
         {
@@ -581,7 +583,7 @@
           "description": "As últimas pesquisas Datafolha e Quaest, divulgadas neste sábado (24/10), véspera do segundo turno das eleições presidenciais, apontam empate técnico entre o senador Flávio Bolsonaro (PL), com 51% dos votos válidos, e o presidente Luiz Inácio Lula da Silva (PT), com 49%. Os dois levantamentos apresentam os mesmos percentuais, com o senador numericamente à frente, […]\nO post Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, apontam Datafolha e Quaest apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-apontam-datafolha-e-quaest/",
           "publishedOn": "2026-10-24T22:40:59.000Z",
-          "wordCount": 3862,
+          "wordCount": 3881,
           "title": "Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, apontam Datafolha e Quaest",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-09-112215.png"
         },
@@ -591,7 +593,7 @@
           "description": "Com a Constituição em uma das mãos e a bandeira do Brasil na outra, o presidente Luiz Inácio Lula da Silva (PT) cantou o hino nacional  acompanhado de uma multidão de pessoas durante o ato final de sua campanha eleitoral, realizado na Avenida Paulista, em São Paulo, na tarde deste sábado (24/10). “Há muitos anos, […]\nO post Multidão toma a Avenida Paulista no ato final da campanha de Lula: ‘povo está organizado’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/multidao-toma-a-avenida-paulista-no-ato-final-da-campanha-de-lula-e-o-povo-que-esta-organizando/",
           "publishedOn": "2026-10-24T21:28:28.000Z",
-          "wordCount": 5373,
+          "wordCount": 4933,
           "title": "Multidão toma a Avenida Paulista no ato final da campanha de Lula: ‘povo está organizado’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-24-183411.png"
         },
@@ -601,7 +603,7 @@
           "description": "Eleito com a promessa de reduzir o Estado, cortar impostos e reativar a economia, o presidente do Chile, José Antonio Kast, vem enfrentando uma crise econômica em apenas sete meses de mandato, com retração do Produto Interno Bruto (PIB) e desemprego em alta em meio a um ajuste fiscal. No terceiro trimestre de 2026, o […]\nO post Política de austeridade de Kast aumenta desemprego e provoca queda do PIB no Chile apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/politica-de-austeridade-do-governo-kast-aumenta-desemprego-e-provoca-queda-do-pib/",
           "publishedOn": "2026-10-24T19:30:44.000Z",
-          "wordCount": 4449,
+          "wordCount": 4468,
           "title": "Política de austeridade de Kast aumenta desemprego e provoca queda do PIB no Chile",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-27-103356.png"
         },
@@ -611,7 +613,7 @@
           "description": "Uma eventual vitória do candidato Flávio Bolsonaro (PL) no segundo turno das eleições brasileiras neste domingo (25/10) contra o mandatário Luiz Inácio Lula da Silva (PT), poderia trazer consequências para a cooperação Brasília-Pequim em setores estratégicos, além de alterar o papel que o país sul-americano desempenha no BRICS. Esta é a avaliação de especialistas consultados […]\nO post Como a China avalia os riscos de um eventual governo Flávio Bolsonaro? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/como-a-china-interpreta-os-riscos-de-um-governo-flavio-bolsonaro-para-o-brasil/",
           "publishedOn": "2026-10-24T18:23:19.000Z",
-          "wordCount": 5366,
+          "wordCount": 5385,
           "title": "Como a China avalia os riscos de um eventual governo Flávio Bolsonaro?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/13.05.2025_-_cerimonia_de_assinatura_de_atos_54517062020.jpg"
         },
@@ -621,7 +623,7 @@
           "description": "O governo cubano anunciou nesta sexta-feira (23/10) uma série de medidas destinadas a proteger as parcelas mais vulneráveis da população cubana. O programa prevê a entrega de ferramentas e equipamentos de trabalho a famílias em situação de vulnerabilidade social, com o objetivo de facilitar a criação de pequenas atividades econômicas que lhes permitam gerar renda […]\nO post Cuba anuncia medidas sociais em meio à crise econômica provocada pelo bloqueio dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cuba-anuncia-medidas-sociais-em-meio-a-crise-economica-provocada-pelo-bloqueio-dos-eua/",
           "publishedOn": "2026-10-24T17:40:18.000Z",
-          "wordCount": 4514,
+          "wordCount": 4533,
           "title": "Cuba anuncia medidas sociais em meio à crise econômica provocada pelo bloqueio dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/cuba-1.jpg"
         },
@@ -631,7 +633,7 @@
           "description": "Há anos ouvimos Lula ser chamado de “nove dedos” de um jeito desrespeitoso, violento, preconceituoso. No começo, reagimos. Depois, de tanto ouvir, fomos naturalizando. A indignação continuou, mas o insulto passou a fazer parte da paisagem política brasileira. Uma violência que se pode repetir em público, entre risadas, sem precisar responder por ela. Ontem, Flávio […]\nO post Lula e a dor a mais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/lula-e-a-dor_a-mais/",
           "publishedOn": "2026-10-24T17:11:24.000Z",
-          "wordCount": 4197,
+          "wordCount": 3765,
           "title": "Lula e a dor a mais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lula-debate.webp"
         },
@@ -641,7 +643,7 @@
           "description": "O fundador do WikiLeaks, Julian Assange, relembrou neste sábado (24/10) o apoio recebido pelo presidente Luiz Inácio Lula da Silva quando ele esteve preso, e destacou a diferença de posicionamento de Jair e Flávio Bolsonaro, em publicação em suas redes sociais, acompanhada de uma foto com o líder brasileiro. “Fiquei em confinamento solitário por 1.901 […]\nO post Julian Assange declara apoio a Lula: ‘lutou pela minha liberdade’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/julian-assange-apoia-lula-lutou-pela-minha-liberdade/",
           "publishedOn": "2026-10-24T16:40:23.000Z",
-          "wordCount": 3554,
+          "wordCount": 3573,
           "title": "Julian Assange declara apoio a Lula: ‘lutou pela minha liberdade’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/6adc9f6159bf5b2d0948a0a5.jpg"
         },
@@ -651,7 +653,7 @@
           "description": "A pesquisa CNT/MDA divulgada neste sábado (24/10), véspera do segundo turno das eleições presidenciais, aponta o senador Flávio Bolsonaro (PL) com 50,7% dos votos válidos, contra 49,3% do presidente Luiz Inácio Lula da Silva (PT). A diferença de 1,4 ponto percentual mantém os dois candidatos em situação de empate técnico, considerando a margem de erro […]\nO post CNT/MDA: Flávio tem 50,7% dos votos válidos, e Lula, 49,3% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/cnt-mda-flavio-tem-507-dos-votos-validos-e-lula-493/",
           "publishedOn": "2026-10-24T16:00:51.000Z",
-          "wordCount": 3597,
+          "wordCount": 3616,
           "title": "CNT/MDA: Flávio tem 50,7% dos votos válidos, e Lula, 49,3%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/lula-e-fb.webp"
         }
@@ -700,12 +702,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=235446",
+          "author": "Redação de AND",
+          "description": "Na véspera do segundo turno, candidato de extrema direita repetiu acusação contra mesários difundida por Gayer; áudio já havia motivado ordem de retirada do TSE.",
+          "link": "https://anovademocracia.com.br/flavio-bolsonaro-convoca-desordens-fraude/",
+          "publishedOn": "2026-10-25T07:00:51.000Z",
+          "wordCount": 7917,
+          "title": "Alegando ‘risco de fraude’, Flávio Bolsonaro convoca desordens na frente de colégios eleitorais",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-24-flavio-bolsonaro-bh-1024x683.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235439",
+          "author": "Redação de AND",
+          "description": "Diplomatas receberam orientação de favorecer Jair e, depois, Flávio. A apuração detalha a articulação pelas sanções contra Moraes e pela classificação das “facções” como “terroristas”, em meio à chantagem de Washington contra o Brasil.",
+          "link": "https://anovademocracia.com.br/trump-operou-volta-do-cla-bolsonaro-estado/",
+          "publishedOn": "2026-10-25T06:43:07.000Z",
+          "wordCount": 9275,
+          "title": "Governo Trump operou pela volta do clã Bolsonaro à gerência do velho Estado, revelam funcionários ianques",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/trump-flavio-bolsonaro-casa-branca.avif"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=235403",
           "author": "Redação de AND",
           "description": "Manifestação reuniu cerca de 100 pessoas na Praça Sete de Setembro nos três anos da operação Dilúvio de Al-Aqsa.",
           "link": "https://anovademocracia.com.br/ato-em-belo-horizonte-sauda-resistencia-palestina-e-denuncia-genocidio-em-gaza/",
           "publishedOn": "2026-10-24T10:40:00.000Z",
-          "wordCount": 7257,
+          "wordCount": 7253,
           "title": "Ato em Belo Horizonte saúda resistência palestina e denuncia genocídio em Gaza",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-46.png"
         },
@@ -715,7 +737,7 @@
           "description": "Carestia, falta de perspectivas para a juventude e descrédito das instituições alimentam uma mobilização que resiste a quase dois anos de repressão. Maoistas denunciam a farsa eleitoral e defendem o boicote como parte da luta pela reconstituição do Partido Comunista da Iugoslávia.",
           "link": "https://anovademocracia.com.br/servia-150-mil-contra-velha-ordem-politica/",
           "publishedOn": "2026-10-24T10:07:51.000Z",
-          "wordCount": 8081,
+          "wordCount": 8077,
           "title": "150 mil tomam as ruas da capital da Sérvia contra a velha ordem política; comunistas defendem boicote eleitoral",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-22-servia-protestos-1024x682.jpg"
         },
@@ -725,7 +747,7 @@
           "description": "Contrato com empresa do EUA terminou sem entregar nenhuma das quatro aeronaves previstas. Após 15 anos, equipamentos ficaram sem uso e comandante da Marinha reivindica mais recursos enquanto admite estreito alinhamento militar com Washington.",
           "link": "https://anovademocracia.com.br/marinha-avioes-cobra-verbas-combater-crime/",
           "publishedOn": "2026-10-24T09:13:52.000Z",
-          "wordCount": 8467,
+          "wordCount": 8463,
           "title": "Marinha pagou mais de R$ 191 milhões por aviões que nunca recebeu e agora cobra mais verbas para ‘combater o crime’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-48.png"
         },
@@ -735,7 +757,7 @@
           "description": "A atividade reafirmou o princípio de se sustentar com as próprias forças, sendo organizada sem ligação com grandes empresas ou com os partidos da velha ordem.",
           "link": "https://anovademocracia.com.br/pb-comunidade-dia-criancas-ocupacao-jurema/",
           "publishedOn": "2026-10-23T20:13:48.000Z",
-          "wordCount": 7416,
+          "wordCount": 7412,
           "title": "PB: Ativistas e moradores da Comunidade Márcio Rocha organizam atividade de Dia das Crianças",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/23-_DSC8101-1024x663.jpg"
         },
@@ -745,7 +767,7 @@
           "description": "Juventude Comunista defende “estratégia prolongada” para a Revolução Socialista na França. Governo restringe manifestações e anuncia unidades especiais, blindados e drones para 24 de outubro.",
           "link": "https://anovademocracia.com.br/revolucionarios-franca-macron-ultraesquerda/",
           "publishedOn": "2026-10-23T19:25:30.000Z",
-          "wordCount": 7687,
+          "wordCount": 7683,
           "title": "Revolucionários mantêm convocação para ‘Ato II’ na França e não temem aparato de guerra de Macron contra ‘ultraesquerda’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/855109223_17988401874083919_8937493827816334190_n.jpg"
         },
@@ -755,7 +777,7 @@
           "description": "Quatro viaturas chegaram à Vila Alípio de Freitas em 22 de outubro, segundo relatos. No dia 23, missão de solidariedade deve acompanhar assembleia com o Incra sobre a regularização da Área Tiago Campin dos Santos e outras reivindicações.",
           "link": "https://anovademocracia.com.br/braguin-tenta-intimidar-camponeses-incra/",
           "publishedOn": "2026-10-23T19:10:53.000Z",
-          "wordCount": 8316,
+          "wordCount": 8312,
           "title": "Braguin tenta intimidar camponeses para frustrar missão de solidariedade e assembleia com o Incra",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/roIMG_8764-114.jpg"
         },
@@ -765,7 +787,7 @@
           "description": "Manifestação percorreu a Praça Saens Peña, a UERJ e o Andaraí, denunciou a intervenção ianque na América Latina e reuniu organizações populares, estudantis e democráticas a poucos dias do segundo turno da farsa eleitoral.",
           "link": "https://anovademocracia.com.br/ato-tijuca-lai/",
           "publishedOn": "2026-10-23T19:07:17.000Z",
-          "wordCount": 7867,
+          "wordCount": 7863,
           "title": "Ato na Tijuca integra campanha continental da LAI, denuncia farsa eleitoral e enfrenta intimidação policial",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/20261021_182849-1024x473.jpg"
         },
@@ -775,29 +797,9 @@
           "description": "Washington também enviará, pela primeira vez, um assessor de “contraterrorismo” a Assunção. Acordos militares, sistemas de vigilância e investimentos estratégicos aprofundam a presença ianque num país onde o Exército do Povo Paraguaio (EPP) mantém a luta armada e o governo lacaio de Santiago Peña amplia o aparato contrainsurgente.",
           "link": "https://anovademocracia.com.br/eua-antinarcoticos-paraguai-cone-sul/",
           "publishedOn": "2026-10-23T18:36:04.000Z",
-          "wordCount": 8501,
+          "wordCount": 8497,
           "title": "EUA anuncia ‘centro antinarcóticos’ no Paraguai para coordenar operações no Cone Sul e amplia presença na Tríplice Fronteira",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-46-1024x576.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235358",
-          "author": "Redação de AND",
-          "description": "Gestores foram afastados após a mobilização em Cambé. Ao AND, ExPEPe denuncia abusos no modelo cívico-militar e destaca a organização de estudantes e professores contra sua expansão",
-          "link": "https://anovademocracia.com.br/contra-cameras-escola-civico-militar-parana/",
-          "publishedOn": "2026-10-23T16:00:53.000Z",
-          "wordCount": 8076,
-          "title": "Estudantes protestam contra câmeras escondidas em banheiros de escola cívico-militar no Paraná",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/alunos-protestam-contra-cameras-espias-em-banheiro.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235348",
-          "author": "Redação de AND",
-          "description": "Trump explora a rebelião francesa para atacar a oposição e os imigrantes, enquanto o próprio EUA enfrenta mobilizações contra a repressão. Na fronteira com o México, o Pentágono autorizou testes de uma arma térmica para dispersar multidões.",
-          "link": "https://anovademocracia.com.br/eua-pode-queimar-como-a-franca-trump-teme-protestos-explosivos-e-ataca-imigrantes/",
-          "publishedOn": "2026-10-22T21:43:47.000Z",
-          "wordCount": 7542,
-          "title": "EUA ‘pode queimar como a França’: Trump teme protestos explosivos e ataca imigrantes",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-22-eua-1024x683.jpg"
         }
       ]
     },
@@ -829,7 +831,7 @@
           "description": "Durante anos, mistura de fatos, mentiras e distorções alimentou uma rejeição profunda à política brasileira e as ideias progressistas. A disputa de 2026 exige presença e coragem para defender publicamente a esperança, tão castigada, de construir um país menos desigual\nThe post Compromisso histórico appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/compromisso-historico/",
           "publishedOn": "2026-10-24T15:17:59.000Z",
-          "wordCount": 3811,
+          "wordCount": 3814,
           "title": "Compromisso histórico",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-24-at-12-15-14-55567120900_c208976e74_k-scaled-960x540.webp-imagem-WEBP-960-%C3%97-540-pixels.png"
         },
@@ -849,7 +851,7 @@
           "description": "No colégio, um jovem de roupas improvisadas imitava mães e fazia a plateia chorar de rir. Anos depois, seu talento conquistou o Brasil. Mas a omissão de um governo nos privou de sua arte. A pandemia poderia ter sido diferente? A eleição vai absolver quem riu da morte?\nThe post Um trem chamado Paulo Gustavo appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/um-trem-chamado-paulo-gustavo/",
           "publishedOn": "2026-10-24T14:54:44.000Z",
-          "wordCount": 4526,
+          "wordCount": 4512,
           "title": "Um trem chamado Paulo Gustavo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-24-at-11-53-01-Paulo-Gustavo-17.webp-imagem-WEBP-1200-%C3%97-800-pixels-Redimensionada-79.jpg"
         },
@@ -869,7 +871,7 @@
           "description": "Organizações e empresas submetem-se cada vez mais ao colonialismo intelectual. Estudos mostram os riscos de confiança excessiva na tecnologia e dependência das big techs. O desafio: utilizá-las sem abdicar da autonomia e da capacidade de produzir conhecimento\nThe post IA e a eficiência de desaprender a pensar appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ia-e-a-eficiencia-de-desaprender-a-pensar/",
           "publishedOn": "2026-10-24T14:39:45.000Z",
-          "wordCount": 3862,
+          "wordCount": 3865,
           "title": "IA e a eficiência de desaprender a pensar",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-24-at-11-38-57-pensamento-critico_UX_inteligencia-artificial-768x432.jpg.webp-imagem-WEBP-768-%C3%97-432-pixels.png"
         },
@@ -879,7 +881,7 @@
           "description": "Responsável por proteger a Carta, STF é ambíguo: retirou direitos trabalhistas, mas foi crucial contra o negacionismo na pandemia e na punição dos golpistas. São tempos obscuros – e Brasil precisará de uma frente permanente e popular para garantir a democracia\nThe post Constituição: A defesa para além das urnas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/constituicao-a-defesa-para-alem-das-urnas/",
           "publishedOn": "2026-10-24T14:24:34.000Z",
-          "wordCount": 4716,
+          "wordCount": 4719,
           "title": "Constituição: A defesa para além das urnas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/1023589-capa_03062016-dsc_7868_1-1-scaled.jpg"
         },
@@ -889,7 +891,7 @@
           "description": "Da mobilidade à crise climática, os desafios urbanos extrapolam fronteiras municipais. Saída não está em mera centralização do planejamento, como pode ocorrer na gestão Tarcísio. Faltam financiamento estável, resgatar a capacidade técnica do poder público e efetiva participação social\nThe post SP: Caminhos para metrópoles democráticas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/sp-caminhos-para-metropoles-democraticas/",
           "publishedOn": "2026-10-24T14:14:09.000Z",
-          "wordCount": 4494,
+          "wordCount": 4483,
           "title": "SP: Caminhos para metrópoles democráticas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5_sao-paulo.jpg"
         },
@@ -899,7 +901,7 @@
           "description": "Às vésperas do 2º turno, uma jornada pelo cotidiano das maiorias desde 1995. A redistribuição de riquezas com Lula e Dilma, após espiral de queda nos salários com FHC. O desmonte do Brasil com Temer e Bolsonaro. E um balanço dos avanços sociais nos últimos 4 anos\nThe post Trinta anos de conquistas e percalços  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/trinta-anos-de-conquistas-e-percalcos/",
           "publishedOn": "2026-10-23T22:21:08.000Z",
-          "wordCount": 5479,
+          "wordCount": 5476,
           "title": "Trinta anos de conquistas e percalços",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-23-at-19-20-09-faixa_de_pedestre_no_df_completa_20_anos_-_arquivo_agencia_brasil.webp-imagem-WEBP-1170-%C3%97-700-pixels-Redimensionada-90.png"
         },
@@ -989,16 +991,6 @@
           "wordCount": 3846,
           "title": "Estar e morar",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160157",
-          "author": "FP",
-          "description": "O diagnóstico que devemos inferir é: hoje nós discutimos uma gramática que não é nossa. Um tipo de linguagem que não mais tem apelo. Um tipo de luta já perdida, combatida no campo de batalha dos inimigos. Por Sérgio Elia",
-          "link": "https://passapalavra.info/2026/10/160157/",
-          "publishedOn": "2026-10-20T19:41:46.000Z",
-          "wordCount": 7462,
-          "title": "Uma volta a 64? Não. A neocolônia de 1500",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/taxi-cab-ii-1959.jpg"
         }
       ]
     },
@@ -1033,7 +1025,7 @@
           "description": "Denise Narli da Silveira convoca Eco, Arendt, Benjamin e Agamben para mostrar que o fascismo não precisa voltar de uniforme. Basta que a exceção se torne rotina, o adversário vire inimigo e a política vire espetáculo.",
           "link": "https://blogdaboitempo.com.br/2026/10/22/para-uma-critica-do-fascismo/",
           "publishedOn": "2026-10-22T12:00:00.000Z",
-          "wordCount": 5672,
+          "wordCount": 5500,
           "title": "Para uma crítica do fascismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/jodydelldavis-prison-fence-219264.jpg?fit=1200%2C900&ssl=1"
         },
