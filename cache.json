@@ -4,13 +4,34 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "D4yF5X",
+          "author": null,
+          "description": "A fuga, realizada dois dias após sua derrota nas eleições presidenciais, ocorre em um cenário em que o bolsonarista vem sendo investigado por crimes como lavagem de dinheiro e irregularidades no financiamento do filme “Dark Horse”",
+          "link": "https://jornalofuturo.com.br/artigo/D4yF5X-flavio-bolsonaro-foge-do-brasil-com-apoio-do-governo-trump",
+          "publishedOn": "2026-10-27T03:00:00.000Z",
+          "wordCount": 1390,
+          "title": "Flávio Bolsonaro foge do Brasil com apoio do governo Trump",
+          "imageUrl": "https://media.jornalofuturo.com.br/Q5XBTG6CXVGXXMSWFDYHC6MRVA-1280x853.jpg"
+        }
+      ]
     },
     {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6ae1f3de692b2a034e5853e7",
+          "author": "Redação",
+          "description": "Vivemos nas últimas semanas uma das mais intensas mobilizações de massas da história do país. Após o resultado do 1º turno, com Flávio Bolsonaro à frente, uma série de manifestações espontâ",
+          "link": "https://opiniaosocialista.com.br/as-mobilizacoes-derrotaram-flavio-bolsonaro-agora-e-preparar-as-lutas-contra-o-ajuste-fiscal-do-governo-lula/",
+          "publishedOn": "2026-10-28T13:44:22.000Z",
+          "wordCount": 1996,
+          "title": "As mobilizações derrotaram Flávio Bolsonaro, agora é preparar as lutas contra o ajuste fiscal do governo Lula",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/ato-paulista-midia-ninja--1-.webp"
+        },
         {
           "id": "6ae0adb7692b2a034e585354",
           "author": "Roberto Aguiar, da redação",
@@ -20,16 +41,6 @@
           "wordCount": 1696,
           "title": "Belchior, 80 anos: a vida real por trás da alucinação",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/Belchior.webp"
-        },
-        {
-          "id": "6adbea7459cc9a03580760c6",
-          "author": "Redação",
-          "description": "Uma sucessão de acontecimentos mostram que a descarada interferência das big techs nas eleições brasileiras já ultrapassou totalmente o nível de suspeita para se revelar um fato incontestável. Assim como ocorreu nas eleições ao redor",
-          "link": "https://opiniaosocialista.com.br/meta-nao-se-meta-big-techs-interferem-nas-eleicoes-a-favor-da-extrema-direita/",
-          "publishedOn": "2026-10-23T23:25:37.000Z",
-          "wordCount": 1080,
-          "title": "Meta não se meta: Big Techs interferem nas eleições a favor da extrema direita",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Ato-contra-Meta-sergio-koei.webp"
         }
       ]
     },
@@ -38,6 +49,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/O-que-Bacurau-reflete-sobre-a-luta-contra-a-extrema-direita",
+          "author": "Felipe Guarnieri",
+          "description": "Um post despretensioso na página do Plot nesse último final de semana confluiu com o sentimento de milhares de pessoas. Trata-se do ato final de Bacurau, quando os habitantes da fictícia cidade se vingaram do prefeito Tony Jr. (Thardelly Lima) e do caçador Michael (o falecido ator Udo Kier). O que era para ser um desabafo cinematográfico frente ao 2º turno eleitoral, viralizou e expressou uma dimensão da força popular, que em 20 dias pôs fim à escala 6x1 e derrotou Flávio Bolsonaro.\n27-10-2026\n\n/ Cultura",
+          "link": "https://www.esquerdadiario.com.br/O-que-Bacurau-reflete-sobre-a-luta-contra-a-extrema-direita",
+          "publishedOn": "2026-10-27T23:30:43.000Z",
+          "wordCount": null,
+          "title": "O que Bacurau reflete sobre a luta contra a extrema-direita?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Jamais-esquecer-Ana-Clara",
           "author": "Maré",
@@ -327,16 +348,6 @@
           "wordCount": null,
           "title": "24O: maré humana nas ruas de Paris e toda a França em nova jornada de luta",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Mae-de-Ana-Clara-crianca-assassinada-por-policial-defendido-por-Flavio-leva-denuncia-ao-debate-da",
-          "author": "Redação",
-          "description": "Cristiane Gomes da Silva, mãe da menina Ana Clara, vai aos estúdios globo para acompanhar, na plateia, o debate da TV Globo e encarar de frente Flávio Bolsonaro, defensor do policial assassino, na noite desta sexta-feira (23/10).\n23-10-2026\n\n/ Violência policial, Flavio Bolsonaro, debate globo, mãe, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Mae-de-Ana-Clara-crianca-assassinada-por-policial-defendido-por-Flavio-leva-denuncia-ao-debate-da",
-          "publishedOn": "2026-10-24T02:43:47.000Z",
-          "wordCount": null,
-          "title": "Mãe de Ana Clara, criança assassinada por policial defendido por Flávio, leva denúncia ao debate da Globo",
-          "imageUrl": null
         }
       ]
     },
@@ -359,36 +370,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/wide-25.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445605",
-          "author": "Leandro Becker",
-          "description": "Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro.\nO post Documento obtido pela PF contradiz Flávio e aponta dinheiro ilegal de Vorcaro para ‘Dark Horse apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/23/documento-pf-flavio-dinheiro-ilegal-vorcaro-dark-horse/",
-          "publishedOn": "2026-10-23T21:24:40.000Z",
-          "wordCount": null,
-          "title": "Documento obtido pela PF contradiz Flávio e aponta dinheiro ilegal de Vorcaro para ‘Dark Horse",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/wide-2.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/wide-2.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445569",
-          "author": "Bianca Pyl",
-          "description": "Em entrevista ao Intercept Brasil, a socióloga Camila Galetti explica como o antifeminismo, o ataque aos direitos reprodutivos e a violência política são usados pelo conservadorismo para cooptar o eleitorado feminino e definir quem pode ocupar o poder no Brasil.\nO post Projeto de poder da extrema direita precisa da ideologia de gênero  apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/23/projeto-extrema-direita-ideologia-genero/",
-          "publishedOn": "2026-10-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Projeto de poder da extrema direita precisa da ideologia de gênero",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/Headerwide-14.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/Headerwide-14.jpg"
         }
       ]
     },
@@ -398,12 +379,32 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=164360",
+          "author": "Mariana Rosetti",
+          "description": "Relatório da Human Rights Watch analisou 4.400 horas de imagens e identificou 278 episódios de obstrução de câmeras; gravações de agentes do Bope foram interrompidas no momento mais letal da operação\nO conteúdo Massacre do Alemão e da Penha: câmeras policiais não registraram nenhuma das 123 mortes Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/massacre-alemao-cameras-policiais-mortes/",
+          "publishedOn": "2026-10-28T11:14:49.000Z",
+          "wordCount": 6412,
+          "title": "Massacre do Alemão e da Penha: câmeras policiais não registraram nenhuma das 123 mortes",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/massacre-alemao-penha-corpos-eusebio-gomes.jpg.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=164399",
+          "author": "Paulo Batistella",
+          "description": "Conforme consta em boletim de ocorrência obtido pela Ponte, o soldado Thiago Dela Bruna Noronha diz que tentou frear e que vítima teria acelerado moto, \"vindo a colidir contra viatura\". Justiça determina investigação da conduta do policial\nO conteúdo PM que atropelou jovem em ato pró-Lula em SC atribui culpa à vítima por ‘não frear nem desviar’ Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/pm-culpa-jovem-atropelamento-florianopolis/",
+          "publishedOn": "2026-10-27T20:57:08.000Z",
+          "wordCount": 6147,
+          "title": "PM que atropelou jovem em ato pró-Lula em SC atribui culpa à vítima por ‘não frear nem desviar’",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/policial-atropela-jovem-em-ato-em-sc-reproducao.webp"
+        },
+        {
           "id": "https://ponte.org/?p=164398",
           "author": "Paulo Batistella",
           "description": "Pedro Henrique Ely era mantido sob custódia em hospital após ter sido atropelado por PM em comemoração por vitória de Lula. MPSC foi favorável à prisão de vítima. Ato em apoio ao jovem terminou com pessoas feridas por tiros de borracha\nO conteúdo Justiça concede liberdade a jovem atropelado em SC, e PM ataca manifestantes em protesto Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/justica-solta-jovem-atropelado-pm-sc-protesto/",
           "publishedOn": "2026-10-27T19:51:29.000Z",
-          "wordCount": 6048,
+          "wordCount": 6026,
           "title": "Justiça concede liberdade a jovem atropelado em SC, e PM ataca manifestantes em protesto",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/pmsc-ataca-manifestantes-em-ato-a-favor-de-jovem-atropelado-reproducao-1.webp"
         },
@@ -446,16 +447,6 @@
           "wordCount": 5755,
           "title": "Morre Dona Zilda, mãe de Osasco e mulher negra referência na luta contra a violência de Estado",
           "imageUrl": "https://ponte.org/wp-content/uploads/2025/08/DonaZilda.Foto_.Daniel.Arroyo.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=164248",
-          "author": "Paulo Batistella",
-          "description": "Redução da maioridade penal, milícias, facções criminosas, \"saidinhas\", presídios de segurança máxima, PEC da Segurança Pública, \"narcoterrorismo\" e \"castração química\": entenda as propostas e o histórico dos presidenciáveis\nO conteúdo Lula x Flávio: perguntas e respostas do que cada um quer para a segurança pública Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/lula-flavio-bolsonaro-seguranca-publica/",
-          "publishedOn": "2026-10-23T14:32:04.000Z",
-          "wordCount": 7896,
-          "title": "Lula x Flávio: perguntas e respostas do que cada um quer para a segurança pública",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/10/lula-e-flavio-divulgacao.webp"
         }
       ]
     },
@@ -464,6 +455,16 @@
       "feedUrl": "https://revistaopera.operamundi.uol.com.br/feed/",
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
+        {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74868",
+          "author": "Pedro Marin",
+          "description": "No dia 2 de novembro de 2022, há quase quatro anos, publiquei um artigo com o seguinte título: “Sejamos claros: Bolsonaro não reconheceu sua derrota”. Naquele dia, depois de dois dias sumido após sua derrota no segundo turno, o então presidente Jair Bolsonaro, pressionado por aliados, enfim decidiu se pronunciar, enquanto seus apoiadores bloqueavam estradas […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/10/27/sejamos-claros-nem-flavio-o-fugido-nem-trump-reconheceram-os-resultados-das-eleicoes/",
+          "publishedOn": "2026-10-27T23:00:42.000Z",
+          "wordCount": 3287,
+          "title": "Sejamos claros: nem Flávio, o Fugido, nem Trump reconheceram os resultados das eleições",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-2.webp"
+        },
         {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74862",
           "author": "Struggle-La Lucha",
@@ -503,16 +504,6 @@
           "wordCount": 3338,
           "title": "Crônica: a última eleição",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/eleicao-1.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74838",
-          "author": "Agência Pública",
-          "description": "duas semanas do segundo turno das eleições brasileiras, o norte-americano Robert Kennedy Jr., secretário de Saúde dos Estados Unidos e expoente do movimento antivacina, esteve no Rio de Janeiro para casar seu filho, Conor Kennedy. A noiva era a cantora Giulia Be, que, apesar de ter declarado voto em Luiz Inácio Lula da Silva em […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/10/23/leilao-as-avessas-vitoria-de-flavio-consolidaria-interferencia-dos-eua-no-brasil/",
-          "publishedOn": "2026-10-23T22:10:17.000Z",
-          "wordCount": 4221,
-          "title": "“Leilão às avessas”: vitória de Flávio consolidaria interferência dos EUA no Brasil",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-1-1.webp"
         }
       ]
     },
@@ -522,104 +513,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=270055",
+          "id": "https://operamundi.uol.com.br/?p=270156",
           "author": "Tabitha Ramalho",
-          "description": "O governo Donald Trump está ciente da ida de Flávio Bolsonaro aos Estados Unidos e vai conceder asilo ao senador do PL, segundo informação da Folha de S.Paulo. De acordo com o jornal, um aliado da família disse que a administração norte-americana colaborou no plano para viabilizar a saída do candidato derrotado do Brasil. Flávio […]\nO post Flávio Bolsonaro foge para os Estados Unidos, e governo Trump prepara asilo, diz jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-foge-para-os-estados-unidos-e-governo-trump-prepara-asilo-diz-jornal/",
-          "publishedOn": "2026-10-27T18:41:42.000Z",
-          "wordCount": 3495,
-          "title": "Flávio Bolsonaro foge para os Estados Unidos, e governo Trump prepara asilo, diz jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/flavio-e-trump.jpeg"
+          "description": "O senador Flávio Bolsonaro (PL) chegou com a esposa e as duas filhas, na manhã desta quarta-feira (28/10), aos Estados Unidos. Segundo o site de rastreio de voos FlightRadar, ele pousou no Aeroporto Executivo de Miami-Opa Locka, em Miami, na Flórida, às 9h23 no horário local (10h23 de Brasília). O desembarque de um jato executivo […]\nO post Após fugir do Brasil, Flávio Bolsonaro chega aos EUA com família e desembarca em Miami apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/apos-fugir-do-brasil-flavio-bolsonaro-chega-aos-eua-com-familia-e-desembarca-em-miami/",
+          "publishedOn": "2026-10-28T14:13:52.000Z",
+          "wordCount": 3686,
+          "title": "Após fugir do Brasil, Flávio Bolsonaro chega aos EUA com família e desembarca em Miami",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-10-28-114157.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=270050",
-          "author": "Victor Farinelli",
-          "description": "O governo da Argentina afirmou nesta terça-feira (27/10) que não emitirá nenhum reconhecimento à vitória do presidente Luiz Inácio Lula da Silva no segundo turno das eleições brasileiras, no último domingo (25/10), que o reelegeu para um quarto mandato à frente do Palácio do Planalto. Segundo o porta-voz Adrián Ravier, a Casa Rosada reconhece apenas […]\nO post Argentina se nega em reconhecer vitória de Lula e defende Milei: ‘não é hipócrita’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/argentina-se-nega-em-reconhecer-vitoria-de-lula-e-defende-milei-nao-e-hipocrita/",
-          "publishedOn": "2026-10-27T18:40:35.000Z",
-          "wordCount": 3460,
-          "title": "Argentina se nega em reconhecer vitória de Lula e defende Milei: ‘não é hipócrita’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/milei-3.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270049",
-          "author": "Raissa Neves",
-          "description": "O Likud, partido do primeiro-ministro Benjamin Netanyahu, e outras três legendas que integram sua base de apoio pediram nesta terça-feira (27/10) que a votação em Israel fosse prolongada por mais uma hora. Os partidos justificaram a solicitação com a formação de filas e a concentração de eleitores nos locais de votação. A decisão sobre a […]\nO post Partido de Netanyahu pede prorrogação do horário de votação em Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/partido-de-netanyahu-pede-prorrogacao-do-horario-de-votacao-em-israel/",
-          "publishedOn": "2026-10-27T18:38:03.000Z",
-          "wordCount": 5114,
-          "title": "Partido de Netanyahu pede prorrogação do horário de votação em Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/english_newsroom-2026_elections2026-01.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270033",
-          "author": "Victor Farinelli",
-          "description": "Em discurso durante a 8ª Cúpula do Fórum dos Países Exportadores de Gás (GECF, por sua sigla em inglês), o presidente da Rússia, Vladimir Putin, afirmou que “qualquer tentativa” de excluir seu país do mercado mundial de gás terá “graves consequências”. O pronunciamento ocorreu na abertura do evento que acontece em Moscou. O mandatário anfitrião […]\nO post Excluir Rússia do mercado mundial de gás pode ter graves consequências, diz Putin apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/excluir-russia-do-mercado-mundial-de-gas-pode-ter-graves-consequencias-diz-putin/",
-          "publishedOn": "2026-10-27T18:00:07.000Z",
-          "wordCount": 3413,
-          "title": "Excluir Rússia do mercado mundial de gás pode ter graves consequências, diz Putin",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/putin.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270040",
-          "author": "Victor Farinelli",
-          "description": "O presidente chinês Xi Jinping enviou, nesta terça-feira (27/10), uma mensagem parabenizando o presidente Luiz Inácio Lula da Silva pela reeleição. O vice-presidente chinês Han Zheng também enviou uma mensagem ao vice-presidente Geraldo Alckmin. Na mensagem, Xi destacou que Lula “tem dado importantes contribuições para o desenvolvimento das relações China-Brasil” e afirmou que os dois […]\nO post Xi Jinping parabeniza Lula pela reeleição e propõe acelerar parceria Brasil-China apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/xi-jinping-parabeniza-lula-pela-reeleicao-e-propoe-acelerar-parceria-brasil-china/",
-          "publishedOn": "2026-10-27T17:20:22.000Z",
-          "wordCount": 3338,
-          "title": "Xi Jinping parabeniza Lula pela reeleição e propõe acelerar parceria Brasil-China",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/xi.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270036",
+          "id": "https://operamundi.uol.com.br/?p=270149",
           "author": "Tatiana Carlotti",
-          "description": "Representantes dos três países integrantes do Pacto de Meca — Arábia Saudita, Turquia e Paquistão — reuniram-se nesta segunda-feira (26/10), em Teerã, com autoridades iranianas para discutir uma possível solução diplomática para o conflito entre Irã e Estados Unidos e conter a escalada militar no Oriente Médio. Participaram do encontro o ministro da Defesa saudita, […]\nO post Autoridades iranianas e do Pacto de Meca discutem cessar-fogo entre Irã e EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/autoridades-iranianas-e-do-pacto-de-meca-discutem-cessar-fogo-entre-ira-e-eua/",
-          "publishedOn": "2026-10-27T16:40:46.000Z",
+          "description": "A passagem de Flávio Bolsonaro (PL) pela Argentina na noite de terça-feira (27/10) provocou uma série de críticas de parlamentares da oposição ao presidente Javier Milei. Eles exigem esclarecimentos sobre a possível colaboração do governo argentino com a fuga do senador derrotado nas urnas no último domingo (25/10). “É evidente que Milei colaborou”, afirmou a […]\nO post Oposição argentina exige investigação sobre ajuda de Milei em fuga de Flávio Bolsonaro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/oposicao-argentina-exige-investigacao-sobre-ajuda-de-milei-em-fuga-de-flavio-bolsonaro/",
+          "publishedOn": "2026-10-28T13:50:05.000Z",
+          "wordCount": 3779,
+          "title": "Oposição argentina exige investigação sobre ajuda de Milei em fuga de Flávio Bolsonaro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/milei.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270133",
+          "author": "Tabitha Ramalho",
+          "description": "Projeto de lei polêmico permite cobrar até € 10 mil – quase R$ 60 mil, no câmbio de hoje – de integrantes de grupos envolvidos em depredações, mesmo que não tenham cometido diretamente os danos. Benefícios sociais também poderão ser penhorados para pagar indenizações. O projeto não é consenso na sociedade francesa: a Anistia Internacional […]\nO post ‘Quebrou, pagou’: Senado francês aprova projeto que responsabiliza manifestantes por vandalismo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/quebrou-pagou-senado-frances-aprova-projeto-que-responsabiliza-manifestantes-por-vandalismo/",
+          "publishedOn": "2026-10-28T13:00:42.000Z",
+          "wordCount": 3487,
+          "title": "‘Quebrou, pagou’: Senado francês aprova projeto que responsabiliza manifestantes por vandalismo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/3a941f07-f018-4550-9e23-af81d8fa5d01-captura-de-tela-2026-10-17-as-21.36.25.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270135",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente cubano, Miguel Díaz-Canel, comentou o primeiro dia de debates sobre a resolução que pede o fim do bloqueio imposto pelos Estados Unidos à ilha, na Assembleia Geral das Nações Unidas, e destacou “o apoio majoritário” recebido pela nação caribenha em sua reivindicação. “Hoje, na ONU, o apoio majoritário da comunidade internacional a Cuba […]\nO post Presidente cubano destaca apoio majoritário na ONU ao fim do bloqueio dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/presidente-cubano-destaca-apoio-majoritario-na-onu-ao-fim-do-bloqueio-dos-eua/",
+          "publishedOn": "2026-10-28T12:15:40.000Z",
+          "wordCount": 3252,
+          "title": "Presidente cubano destaca apoio majoritário na ONU ao fim do bloqueio dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hdas6j9amaegtk1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270118",
+          "author": "Tatiana Carlotti",
+          "description": "Com 85% dos votos apurados nesta quarta-feira (28/10), o bloco do primeiro-ministro israelense Benjamin Netanyahu obtém 53 das 120 cadeiras do Knesset, o Parlamento de Israel, ficando oito assentos abaixo dos 61 necessários para formar uma maioria. Segundo o Comitê Eleitoral Central, a oposição liderada por Gadi Eisenkot reúne 48 cadeiras, enquanto os partidos árabes, representados […]\nO post Eleições em Israel: partido de Netanyahu mantém liderança; apuração continua apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/likud-de-netanyahu-permanece-na-lideranca-na-contagem-eleitoral-em-israel/",
+          "publishedOn": "2026-10-28T11:23:56.000Z",
           "wordCount": 3675,
-          "title": "Autoridades iranianas e do Pacto de Meca discutem cessar-fogo entre Irã e EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/14050804200155710387302415.jpg"
+          "title": "Eleições em Israel: partido de Netanyahu mantém liderança; apuração continua",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/1280px-knesset_building_south_side.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=270025",
+          "id": "https://operamundi.uol.com.br/?p=270106",
           "author": "Tatiana Carlotti",
-          "description": "A uma semana das eleições legislativas dos Estados Unidos, marcadas para 3 de novembro, autoridades eleitorais estão se preparando para possíveis tentativas de interferência do governo de Donald Trump na votação e na apuração dos resultados. Segundo reportagem publicada nesta terça-feira (27/10) pelo The New York Times, funcionários responsáveis pela organização das eleições estão recebendo […]\nO post Autoridades eleitorais dos EUA se preparam contra interferências do governo Trump nas eleições apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/autoridades-eleitorais-dos-eua-se-preparam-contra-interferencias-do-governo-trump-nas-eleicoes/",
-          "publishedOn": "2026-10-27T16:00:59.000Z",
-          "wordCount": 3694,
-          "title": "Autoridades eleitorais dos EUA se preparam contra interferências do governo Trump nas eleições",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/voting_booths_at_a_polling_station_in_washington_dc_5_nov._2024.jpg"
+          "description": "O governo argentino confirmou que o senador Flávio Bolsonaro (PL), derrotado pelo presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de domingo (25/10), atravessou a fronteira brasileira na noite de terça-feira (27/10) e embarcou em um avião particular com destino ao Equador. De acordo com a Direção Nacional de Migrações […]\nO post Argentina confirma fuga de Flávio Bolsonaro pelo país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/argentina-confirma-passagem-de-flavio-bolsonaro-pelo-pais-em-voo-rumo-ao-equador/",
+          "publishedOn": "2026-10-28T10:49:24.000Z",
+          "wordCount": 3869,
+          "title": "Argentina confirma fuga de Flávio Bolsonaro pelo país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/0d4a6224.webp"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=270026",
-          "author": "Tabitha Ramalho",
-          "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), ordenou que a Polícia Federal (PF) abra um inquérito para apurar a possível interferência estrangeira sobre o processo eleitoral brasileiro, sobretudo por meio do financiamento oculto de campanha política. Dino tomou a decisão após ser provocado pelo PT numa arguição de descumprimento de preceito fundamental (ADPF) […]\nO post Dino manda PF apurar interferência externa no processo eleitoral brasileiro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/eleicoes-2026-brasil/dino-manda-policia-federal-apurar-interferencia-externa-no-processo-eleitoral-brasileiro/",
-          "publishedOn": "2026-10-27T15:25:31.000Z",
-          "wordCount": 4362,
-          "title": "Dino manda PF apurar interferência externa no processo eleitoral brasileiro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/abertura-stf-mc_abr_30012026-11.webp"
+          "id": "https://operamundi.uol.com.br/?p=270101",
+          "author": "Rocio Paik",
+          "description": "A partir de novembro, o presidente Luiz Inácio Lula da Silva deve retomar os compromissos internacionais, após fazer diversas viagens por todo o Brasil em campanha pela reeleição. Os Estados Unidos estão entre os destinos previstos. Lula pretende ir à Cúpula do G20, em 14 de dezembro. O evento ocorrerá no Trump National Doral Miami, […]\nO post Após vitória nas urnas, Lula retoma agendas internacionais a partir de novembro apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/apos-vitoria-nas-urnas-lula-retoma-agendas-internacionais-a-partir-de-novembro/",
+          "publishedOn": "2026-10-28T05:30:16.000Z",
+          "wordCount": 3260,
+          "title": "Após vitória nas urnas, Lula retoma agendas internacionais a partir de novembro",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/sem_titulo-10.webp"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=270012",
-          "author": "Tatiana Carlotti",
-          "description": "A presidente mexicana, Claudia Sheinbaum, conversou por telefone na segunda-feira (26/10) com seu homólogo brasileiro, Luiz Inácio Lula da Silva, reeleito no segundo turno das eleições de domingo (25/10). Os dois líderes combinaram de se encontrar em uma data posterior. Sheinbaum descreveu a vitória de Lula no Brasil como “um sopro de ar fresco para […]\nO post Em conversa telefônica, Sheinbaum e Lula combinam encontro ‘em breve’ no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/em-conversa-telefonica-sheinbaum-e-lula-combinam-encontro-em-breve-no-brasil/",
-          "publishedOn": "2026-10-27T15:00:35.000Z",
-          "wordCount": 3354,
-          "title": "Em conversa telefônica, Sheinbaum e Lula combinam encontro ‘em breve’ no Brasil",
-          "imageUrl": null
+          "id": "https://operamundi.uol.com.br/?p=270098",
+          "author": "Rocio Paik",
+          "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, declarou na noite de terça-feira (28/10), em discurso pós-eleitoral em Jerusalém, que partidos de direita conquistaram uma “maioria decisiva” nas eleições legislativas, apesar de as pesquisas de boca de urna não mostrarem um vencedor absoluto até então. Em sua fala a apoiadores, também defendeu a formação de um “governo […]\nO post Netanyahu alega que bloco de direita conquistará ‘maioria decisiva’; bocas de urnas não apontam vencedor absoluto apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/netanyahu-alega-que-bloco-de-direita-conquistara-maioria-decisiva-bocas-de-urnas-nao-apontam-vencedor-absoluto/",
+          "publishedOn": "2026-10-28T04:22:29.000Z",
+          "wordCount": 3444,
+          "title": "Netanyahu alega que bloco de direita conquistará ‘maioria decisiva’; bocas de urnas não apontam vencedor absoluto",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/hu6hassxuaebyvz.jpeg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=269517",
-          "author": "Tabitha Ramalho",
-          "description": "As eleições parlamentares de Israel estão ocorrendo nesta terça-feira (27/10) em um pleito considerado um dos mais importantes porque determinará a permanência do primeiro-ministro Benjamin Netanyahu no poder. A Opera Mundi, o deputado Ofer Cassif considera que o “fator decisivo” para derrotar o premiê seja a oposição. “O fator decisivo das eleições somos nós, a […]\nO post ‘Fator decisivo somos nós’, diz opositor sobre derrotar Netanyahu nas eleições israelenses apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/ofer-cassif-diz-que-lista-conjunta-pode-derrotar-netanyahu/",
-          "publishedOn": "2026-10-27T14:10:45.000Z",
-          "wordCount": 4543,
-          "title": "‘Fator decisivo somos nós’, diz opositor sobre derrotar Netanyahu nas eleições israelenses",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2024/12/fcb38909-d32c-4a66-887e-f0dc250af61d.jpg"
+          "id": "https://operamundi.uol.com.br/?p=270095",
+          "author": "Rocio Paik",
+          "description": "Veículos da mídia internacional repercutiram na terça-feira (27/10) a fuga de Flávio Bolsonaro (PL), dois dias após a derrota na disputa eleitoral. O jornal norte-americano The New York Times (NYT) lembra que a assistência prometida pelos Estados Unidos ao senador pode escalar as tensões entre o governo de Donald Trump e o presidente reeleito Luiz […]\nO post Imprensa internacional diz que Flávio replica padrão de reacionários que ‘recorrem aos EUA para fugir de crimes’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/imprensa-internacional-diz-que-flavio-replica-padrao-de-reacionarios-que-recorrem-aos-eua-para-fugir-de-responsabilidades-criminais/",
+          "publishedOn": "2026-10-28T02:37:07.000Z",
+          "wordCount": 3712,
+          "title": "Imprensa internacional diz que Flávio replica padrão de reacionários que ‘recorrem aos EUA para fugir de crimes’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55542246223_81600f26b7_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270092",
+          "author": "Rocio Paik",
+          "description": "O presidente reeleito, Luiz Inácio Lula da Silva, classificou como “vergonhosa” a fuga do senador e candidato derrotado das eleições, Flávio Bolsonaro (PL), nesta terça-feira (27), e disse que o bolsonarista vai “lamber bota dos Estados Unidos”. “Esse ato de sair do Brasil é vergonhoso”, afirmou Lula em pronunciamento feito para eleitores durante as comemorações […]\nO post Lula afirma que Flávio foi ‘lamber botas dos EUA’ e classifica fuga como ‘vergonhosa’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-afirma-que-flavio-foi-lamber-botas-dos-eua-e-classifica-fuga-como-vergonhosa/",
+          "publishedOn": "2026-10-28T01:47:04.000Z",
+          "wordCount": 3306,
+          "title": "Lula afirma que Flávio foi ‘lamber botas dos EUA’ e classifica fuga como ‘vergonhosa’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/0d7a1728jpg-f33ab929.webp"
         }
       ]
     },
@@ -637,16 +628,6 @@
           "wordCount": 2660,
           "title": "“Tá queimando tudo”: indígenas e ribeirinhos denunciam incêndios criminosos no Amazonas após primeiro turno",
           "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/10/mesdofogo-tribos.jpeg"
-        },
-        {
-          "id": "https://deolhonosruralistas.com.br/?p=32711",
-          "author": "De Olho nos Ruralistas",
-          "description": "Cantor sertanejo publicou vídeo atacando Bolsa Família e políticas assistenciais, que comparou a “esmola”; 16 dos 36 municípios onde Zezé se apresentou na região possuem IDH baixo e falta de saneamento básico; cachê cobrado pelo cantor junto a prefeituras e governos estaduais chegou a R$ 1,25 milhão Por Alceu Luís Castilho e Tonsk Fialho “A […]\nO post Zezé di Camargo ataca voto do Nordeste, onde recebeu R$ 22,5 milhões em shows públicos desde 2024 apareceu primeiro em De Olho nos Ruralistas.",
-          "link": "https://deolhonosruralistas.com.br/2026/10/23/farras-zeze/",
-          "publishedOn": "2026-10-23T22:11:59.000Z",
-          "wordCount": 3089,
-          "title": "Zezé di Camargo ataca voto do Nordeste, onde recebeu R$ 22,5 milhões em shows públicos desde 2024",
-          "imageUrl": "https://deolhonosruralistas.com.br/wp-content/uploads/2026/10/capa-zeze.jpeg"
         }
       ]
     },
@@ -656,13 +637,63 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=235850",
+          "author": "Redação de AND",
+          "description": "Impor o afastamento da China revisionista, saquear as riquezas nacionais e subordinar a Defesa brasileira a aceitar tropas ianques no território são objetivos do imperialismo; a derrota de Flávio “Rachadinha” não eliminou o perigo, aponta o diretor-geral de AND.",
+          "link": "https://anovademocracia.com.br/fuga-flavio-bolsonaro-eua-ingerencia-brasil/",
+          "publishedOn": "2026-10-28T14:32:30.000Z",
+          "wordCount": 9063,
+          "title": "Fuga de Flávio Bolsonaro ao EUA: tendência é iniciar uma nova fase da ingerência contra o Brasil, analisa diretor-geral de AND",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-chega-no-eua.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235842",
+          "author": "Redação de AND",
+          "description": "Amigo de Flávio Bolsonaro acionou o Judiciário contra proposta de ocupação em Angra dos Reis. Em Rondônia, atuou contra famílias camponesas em defesa de latifundiário acusado de envolvimento em dois assassinatos e três tentativas de homicídio.",
+          "link": "https://anovademocracia.com.br/eua-willer-tomaz-multa-mst-proteger-mansao/",
+          "publishedOn": "2026-10-28T10:00:00.000Z",
+          "wordCount": 7685,
+          "title": "Do EUA, Willer Tomaz pede multa de R$ 100 mil contra MST para proteger mansão",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/willer-flavio.avif"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235844",
+          "author": "Redação de AND",
+          "description": "Irmãos discutem os próximos passos após a fuga do senador. Aliados apontam possível pronunciamento em Washington nesta quarta-feira, 28 de outubro.",
+          "link": "https://anovademocracia.com.br/eua-flavio-eduardo-bolsonaro-na-florida/",
+          "publishedOn": "2026-10-28T06:18:29.000Z",
+          "wordCount": 7211,
+          "title": "Asseclas relataram encontro de Flávio com Eduardo Bolsonaro na Flórida e previsão de coletiva",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/eduardo-flavio-rubio.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235830",
+          "author": "Redação de AND",
+          "description": "Cabecilha ianque renova ataque à eleição brasileira no mesmo dia em que seu governo anuncia vistos para Flávio. Planalto mantém prioridade de negociar com Washington.",
+          "link": "https://anovademocracia.com.br/trump-acusacao-fraude-ingerencia-brasil/",
+          "publishedOn": "2026-10-28T01:45:19.000Z",
+          "wordCount": 7481,
+          "title": "Em comício no Texas, Trump repete acusação de fraude e mantém ingerência contra o Brasil",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-27-trump-texas-1024x683.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=235824",
+          "author": "Redação de AND",
+          "description": "Departamento de Estado confirma que permitirá a entrada do senador e de seus familiares. Fontes ouvidas pela Folha apontam participação ativa de Marco Rubio na retirada do Brasil.",
+          "link": "https://anovademocracia.com.br/trump-anuncia-vistos-flavio-bolsonaro-fuga/",
+          "publishedOn": "2026-10-28T01:20:21.000Z",
+          "wordCount": 7174,
+          "title": "Governo Trump anuncia vistos e garante acolhimento a Flávio Bolsonaro após fuga",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-27-marco-rubio.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=235792",
           "author": "Redação de AND",
           "description": "Simón Levy atribui a Marco Rubio a organização da fuga e associa a proteção ao senador à pressão econômica contra o Brasil. Governo oportunista espera preservar relação “pragmática” com Washington mesmo após a operação ultrajante em território nacional.",
           "link": "https://anovademocracia.com.br/operacao-alba-fuga-flavio-bolsonaro-trump/",
           "publishedOn": "2026-10-27T20:21:52.000Z",
-          "wordCount": 7378,
-          "title": "‘Operação Alba’: fuga de Flávio Bolsonaro articulada pelo EUA integra chantagem contra o Brasil, revela aliado de Trump",
+          "wordCount": 7436,
+          "title": "‘Operação Alba’: fuga de Flávio Bolsonaro articulada pelo EUA integra chantagem contra o Brasil, afirma aliado de Trump",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/ETT6-9mZ.jpg"
         },
         {
@@ -671,8 +702,8 @@
           "description": "Saída teria sido organizada por grupo restrito no Brasil e no EUA. Enquanto correligionários tentavam localizar o senador, a PF cancelou seus passaportes; dois inquéritos ameaçam o herdeiro do “capitão-do-mato”.",
           "link": "https://anovademocracia.com.br/flavio-foge-prepara-pedido-de-asilo-a-trump/",
           "publishedOn": "2026-10-27T19:01:52.000Z",
-          "wordCount": 8855,
-          "title": "Acovardado, Flávio Bolsonaro foge em operação ianque e prepara pedido de asilo a Trump",
+          "wordCount": 8837,
+          "title": "Acovardado e com medo da prisão, Flávio Bolsonaro foge em operação ianque e prepara pedido de asilo a Trump",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/06/rubio-e-flavio-1-.avif"
         },
         {
@@ -681,17 +712,17 @@
           "description": "Metrópoles aponta senador em voo para a Flórida após descumprimento de ordem de entrega dos passaportes. Derrotado, “Rachadinha” repete o caminho do pai e do irmão, que buscaram refúgio na cidadela imperialista a cujos interesses servem de maneira rastejante.",
           "link": "https://anovademocracia.com.br/flavio-bolsonaro-acovarda-foge-do-brasil/",
           "publishedOn": "2026-10-27T18:14:02.000Z",
-          "wordCount": 8139,
+          "wordCount": 7891,
           "title": "Urgente: Flávio Bolsonaro se acovarda e foge do Brasil",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-25-flavio-bolsonaro-covarde-1024x683.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=235716",
           "author": "Redação de AND",
-          "description": "O mandatário ianque, que evitou endossar abertamente Flávio durante a campanha, frustra os bolsonaristas ao descartar intervenção imediata após a derrota, mas conserva as suspeitas de fraude como pretexto para novas chantagens contra o Brasil. Sem precisar desconhecer a vitória oportunista, Washington dispõe de outros meios para arrancar concessões e fazer avançar seus objetivos de ingerência.",
+          "description": "Ao comentar o resultado em 26 de outubro, Trump alimentou acusações de fraude e manteve aberta a interlocução com Luiz Inácio. A pressão ianque combina-se à atuação de uma extrema direita fortalecida eleitoralmente e sob hegemonia do clã Bolsonaro.",
           "link": "https://anovademocracia.com.br/trump-chantagem-brasil-flavio-bolsonaro/",
           "publishedOn": "2026-10-27T17:25:50.000Z",
-          "wordCount": 9307,
+          "wordCount": 9229,
           "title": "Trump endossa suspeitas de fraude e mantém chantagem sobre o Brasil após derrota de Flávio Bolsonaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2GYZSFBTYZKPXBDZIAZJIC5HUM-1024x683.jpg"
         },
@@ -701,59 +732,9 @@
           "description": "Protesto contra o atropelamento de Pedro foi reprimido no dia seguinte à colisão. Um ativista do Comitê de Apoio ao AND foi atingido no rosto, e outros manifestantes ficaram feridos.",
           "link": "https://anovademocracia.com.br/pm-atropela-motociclista-em-florianopolis-ativista-de-and-atingido/",
           "publishedOn": "2026-10-27T13:42:20.000Z",
-          "wordCount": 7906,
+          "wordCount": 7914,
           "title": "PM atropela motociclista em Florianópolis e fere manifestantes em ato por justiça; ativista de AND foi atingido por bala de borracha",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-2026-10-27t073028.499.avif"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235705",
-          "author": "Redação de AND",
-          "description": "Protestos contra a carestia, o rearmamento e o governo Meloni mobilizam milhares de jovens em diversas cidades. Polícia conduz 371 pessoas às delegacias, entre elas 110 menores, e realiza nove prisões. Em Milão, promotoria pede prisão preventiva de pesquisador por suposta capacidade de desenvolver uma “estratégia revolucionária”.",
-          "link": "https://anovademocracia.com.br/italia-marcha-barricada-confrontos-policial/",
-          "publishedOn": "2026-10-27T12:07:33.000Z",
-          "wordCount": 8636,
-          "title": "Itália: 15 mil marcham em Milão; barricadas e confrontos desafiam cerco policial em Bolonha, Roma e Turim",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/2026-10-26-italia-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235731",
-          "author": "Giovanna Maria",
-          "description": "Cinco atos reuniram centenas de pessoas entre o primeiro e o segundo turnos das eleições. Nas ruas, também foram levantadas bandeiras pelo fim da escala 6x1 e pela Revolução Agrária.",
-          "link": "https://anovademocracia.com.br/rj-em-atos-contra-o-bolsonarismo-ativistas-defendem-a-revolucao-agraria-e-o-fim-da-escala-6x1-em-volta-redonda/",
-          "publishedOn": "2026-10-27T10:56:00.000Z",
-          "wordCount": 7222,
-          "title": "RJ: Em atos contra o bolsonarismo, ativistas defendem a Revolução Agrária e o fim da escala 6×1 em Volta Redonda",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-49.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235726",
-          "author": "Giovanna Maria",
-          "description": "Comitê de Apoio ao AND recebeu informação de que a Justiça deu dez dias para solucionar a situação das famílias. Moradores cobram a desapropriação da área.",
-          "link": "https://anovademocracia.com.br/ocupacao-da-paz-resiste-a-nova-ameaca-de-despejo-volta-redonda/",
-          "publishedOn": "2026-10-27T10:35:00.000Z",
-          "wordCount": 7715,
-          "title": "RJ: Ocupação da Paz resiste a nova ameaça de despejo em Volta Redonda",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-7-1024x769.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235708",
-          "author": "Redação de AND",
-          "description": "No 12º dia de rebelião, milhares de estudantes e trabalhadores enfrentam 2,5 mil policiais e marcham até a sede do governo em Tirana. Manifestantes exigem ensino digno, o fim da carestia e a saída de Rama.",
-          "link": "https://anovademocracia.com.br/albania-sede-governo-confrontos-policiais/",
-          "publishedOn": "2026-10-26T19:59:29.000Z",
-          "wordCount": 7507,
-          "title": "Rebelião na Albânia chega à sede do governo de Edi Rama após confrontos com tropas policiais",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/afp_6adce52f1b70-1792861487-1024x683.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=235695",
-          "author": "Giovanna Maria",
-          "description": "Driss Mrani relata que foi chamado de “terrorista” durante o espancamento e que sua namorada foi intimidada ao tentar filmar. Ele exige preservação das provas e investigação federal.",
-          "link": "https://anovademocracia.com.br/presidente-do-movimento-progressista-marroquino-denuncia-tortura-pela-policia-militar-de-goias/",
-          "publishedOn": "2026-10-26T19:41:00.000Z",
-          "wordCount": 8044,
-          "title": "Presidente do Movimento Progressista Marroquino denuncia tortura pela Polícia Militar de Goiás",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/Driss-Mrani-1024x576-1.jpg"
         }
       ]
     },
@@ -769,12 +750,42 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3208529",
+          "author": "Lucas Scatolini",
+          "description": "Depois de apostar em Flávio e perder, Faria Lima cobra de Lula o programa derrotado nas urnas. Ceder seria repetir 2015 diante de um Congresso mais hostil. Possível saída: nova PEC da Transição votada este ano, e imposto sobre os super-ricos que pague o programa eleito\nThe post Terceiro turno, a revanche do mercado appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/terceiro-turno-a-revanche-do-mercado/",
+          "publishedOn": "2026-10-27T21:57:06.000Z",
+          "wordCount": 5163,
+          "title": "Terceiro turno, a revanche do mercado",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5118423285719829879.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3208444",
+          "author": "Lucas Scatolini",
+          "description": "Após eleições, principal saldo é a capacidade de mobilização popular. Desmobilizar agora seria entregar Lula 4 a um país polarizado e com a extrema-direita à frente da maior bancada do Congresso. As próximas conquistas não virão dos gabinetes, mas das ruas que fizeram a virada\nThe post O voto não encerra a tarefa appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/o-voto-nao-encerra-a-tarefa/",
+          "publishedOn": "2026-10-27T21:54:12.000Z",
+          "wordCount": 6595,
+          "title": "O voto não encerra a tarefa",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5118423285719829884.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3208487",
+          "author": "Lucas Scatolini",
+          "description": "Lista formada em assembleias universitárias vence eleições parlamentares, supera 14 anos de autoritarismo e será governo. Não tem projeto claro, mas sua força está nas ruas. Poderá somar-se às lutas antineoliberais que despontam pelo mundo?\nThe post Sérvia: Os estudantes no poder? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/servia-estudantes-no-poder/",
+          "publishedOn": "2026-10-27T21:01:39.000Z",
+          "wordCount": 5615,
+          "title": "Sérvia: Os estudantes no poder?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5118423285719829859.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3208462",
           "author": "Rôney Rodrigues",
           "description": "País vai às urnas nesta terça. Três anos após o início do genocídio, historiador israelense mostra o que o sionismo tenta apagar. O cerco de 17 anos a Gaza. A recusa de Netanyahu em negociar. E o plano de “solução final” desenhado antes mesmo do ataque do Hamas\nThe post Israel e a arquitetura da barbárie appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/israel-e-a-arquitetura-da-barbarie/",
           "publishedOn": "2026-10-27T19:42:12.000Z",
-          "wordCount": 4629,
+          "wordCount": 4632,
           "title": "Israel e a arquitetura da barbárie",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5118423285719829836_y.jpg"
         },
@@ -784,7 +795,7 @@
           "description": "Na reta final da campanha, presidente abandonou a austeridade fiscal que o amarrava. Resgatou ideias populares represadas pelo ex-ministro. Comunicação moderna e jovem deu a senha da virada. Redes e ruas entoaram o anseio por mudança. Lula atenderá?\nThe post Lula 4: menos Haddad, mais Janones appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/lula-4-menos-haddad-mais-janones/",
           "publishedOn": "2026-10-27T19:29:10.000Z",
-          "wordCount": 5460,
+          "wordCount": 5468,
           "title": "Lula 4: menos Haddad, mais Janones",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/55612373316_a3cb77e3cf_k.jpg"
         },
@@ -794,7 +805,7 @@
           "description": "Em viagem ao Japão, capital mundial dos games, diretor da SPCine reflete sobre um grande potencial para o Brasil. Se histórias e artes brasileiras atravessam fronteiras, que revolução nasceria se o Estado oferecesse acesso à formação e tecnologias na área de jogos?\nThe post SP: O universo de games que pode florescer nas periferias appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/sp-o-universo-de-games-que-pode-florescer-nas-periferias/",
           "publishedOn": "2026-10-27T18:18:01.000Z",
-          "wordCount": 3549,
+          "wordCount": 3541,
           "title": "SP: O universo de games que pode florescer nas periferias",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/images-2.jpeg"
         },
@@ -804,7 +815,7 @@
           "description": "Brasil pode ser decisivo contra o colonialismo recrudescido de Trump, diz filósofa. Virada expressa mesmo desejo de futuro que move juventude na Europa, e revela a importância de buscar formas de democracia além das instituições e do liberalismo\nThe post Butler vê o sentido global da vitória de Lula appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/pos-capitalismo/butler-ve-o-sentido-global-vitoria-de-lula/",
           "publishedOn": "2026-10-26T22:09:45.000Z",
-          "wordCount": 7530,
+          "wordCount": 7527,
           "title": "Butler vê o sentido global da vitória de Lula",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-26-at-19-10-08-OP-PautasIdeias.png"
         },
@@ -814,7 +825,7 @@
           "description": "Programa de Lula 4 prevê a Rede Corre, infraestrutura digital pública que integre aplicativos de transporte e entrega. Algumas medidas: taxa máxima de 10% para plataformas, transparência sobre valores pagos, mecanismos de participação social e proteção contra abusos. Quais os desafios?\nThe post Uma alternativa para proteger os plataformizados appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/uma-alternativa-para-proteger-os-plataformizados/",
           "publishedOn": "2026-10-26T21:00:08.000Z",
-          "wordCount": 4771,
+          "wordCount": 4774,
           "title": "Uma alternativa para proteger os plataformizados",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5116171485906144767.jpg"
         },
@@ -824,7 +835,7 @@
           "description": "Vitória é esplêndida. Mas o país que sai das urnas entrega um Congresso bem mais à direita. Os próximos quatro anos serão decididos também pela capacidade do governo em transformar a força de outubro em mobilização permanente\nThe post A vitória que não encerra a disputa appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/a-vitoria-que-nao-encerra-a-disputa/",
           "publishedOn": "2026-10-26T20:15:44.000Z",
-          "wordCount": 6968,
+          "wordCount": 6974,
           "title": "A vitória que não encerra a disputa",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5116171485906144761_x.jpg"
         },
@@ -834,39 +845,9 @@
           "description": "Exército do Lula ensinou milhões de eleitores a operar frente à opacidade dos algoritmos. E mostrou o risco à democracia com a dependência de big techs. Tarefas urgentes: auditoria completa da atuação das plataformas nas eleições e criar uma infraestrutura digital própria\nThe post A proeza de Janones e o caminho para a soberania digital appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/a-proeza-de-janones-e-o-caminho-para-a-soberania-digital/",
           "publishedOn": "2026-10-26T20:08:34.000Z",
-          "wordCount": 4408,
+          "wordCount": 4405,
           "title": "A proeza de Janones e o caminho para a soberania digital",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5116171485906144763_y.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208307",
-          "author": "Rôney Rodrigues",
-          "description": "Uma vitória eleitoral não reverte quarenta anos de catástrofe neoliberal. Mas Lula mostra: com pautas de classe e mobilização, é possível barrar quem especula com guerras sem fim, o colapso climático e a depressão coletiva…\nThe post Bifo: A lição do Brasil ao mundo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/bifo-a-licao-do-brasil-ao-mundo/",
-          "publishedOn": "2026-10-26T18:59:12.000Z",
-          "wordCount": 3568,
-          "title": "Bifo: A lição do Brasil ao mundo",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5116171485906144738_y1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208219",
-          "author": "Lucas Scatolini",
-          "description": "Durante anos, mistura de fatos, mentiras e distorções alimentou uma rejeição profunda à política brasileira e as ideias progressistas. A disputa de 2026 exige presença e coragem para defender publicamente a esperança, tão castigada, de construir um país menos desigual\nThe post Compromisso histórico appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/compromisso-historico/",
-          "publishedOn": "2026-10-24T15:17:59.000Z",
-          "wordCount": 3799,
-          "title": "Compromisso histórico",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-24-at-12-15-14-55567120900_c208976e74_k-scaled-960x540.webp-imagem-WEBP-960-%C3%97-540-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208148",
-          "author": "Lucas Scatolini",
-          "description": "O país descobriu tardiamente a capacidade manipuladora das big techs. O fascismo jogará as forças disponíveis na batalha do fim de semana. O levante heroico das redes e nas ruas enfrentará o teste mais duro – e pode vencer. Agora o extremismo perdeu a vantagem do susto\nThe post Quatro anos em dois dias appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/quatro-anos-em-dois-dias/",
-          "publishedOn": "2026-10-24T15:13:20.000Z",
-          "wordCount": 3684,
-          "title": "Quatro anos em dois dias",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/lula-janones-live.jpg"
         }
       ]
     },
@@ -881,7 +862,7 @@
           "description": "“Sou totalmente a favor da proibição”:  trabalhador da Blaze conta como a casa de apostas lucra bilhões às suas custas. Por União Terra e Trabalho (UTT).",
           "link": "https://passapalavra.info/2026/10/160259/",
           "publishedOn": "2026-10-27T18:34:54.000Z",
-          "wordCount": 5565,
+          "wordCount": 5555,
           "title": "“Tudo é montado pra enganar”: trabalhador da Blaze conta como a casa de apostas lucra bilhões às suas custas",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/from-line-1974.jpg"
         },
@@ -911,29 +892,9 @@
           "description": "Somente nós, trabalhadores unidos nas organizações criadas na luta e para a luta, sem desvios partidários-sindicais, podemos buscar por uma transformação radical da sociedade. Por EducaLuta",
           "link": "https://passapalavra.info/2026/10/160226/",
           "publishedOn": "2026-10-24T10:42:04.000Z",
-          "wordCount": 9503,
+          "wordCount": 10407,
           "title": "A única urgência é o 3º turno: resistência e organização independente dos trabalhadores",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/17-nov-62-1962.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160208",
-          "author": "Vieira",
-          "description": "Está claro que a classe dominante quer um pesado ajuste fiscal e não querem crescimento econômico, sabem bem que se a coisa continuar como está não teremos um pouso forçado, mas sim uma queda livre da economia. Por Charles Júnior e Antônio Carlos",
-          "link": "https://passapalavra.info/2026/10/160208/",
-          "publishedOn": "2026-10-23T21:00:14.000Z",
-          "wordCount": 8044,
-          "title": "E aí, combinou com os russos?",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/texto1.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160210",
-          "author": "Passa Palavra",
-          "description": "A explicação para essa mediocridade e superficialidade do debate não reside simplesmente na incapacidade, mas na própria natureza do processo eleitoral. Por O Jardineiro",
-          "link": "https://passapalavra.info/2026/10/160210/",
-          "publishedOn": "2026-10-23T10:42:57.000Z",
-          "wordCount": 6726,
-          "title": "A mediocridade e superficialidade do primeiro debate presidencial",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/10/kapoor4.jpg"
         }
       ]
     },
@@ -943,12 +904,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=67924",
+          "author": "Boitempo",
+          "description": "Erudita e revolucionária, a nova obra do jurista Evguiéni B. Pachukanis resulta de um ciclo de palestras ministradas por ele em Moscou entre os anos de 1926 e 1927. A primeira parte do livro, intitulada Imperialismo e política colonial, aborda o imperialismo e partir da teoria de Lênin em divergência com o pensamento de outros teóricos como Rosa Luxemburgo e Fritz Sternberg. Leia aqui a orelha de Moisés Alves Soares.",
+          "link": "https://blogdaboitempo.com.br/2026/10/28/imperialismo-e-politica-colonial-de-evquieni-b-pachukanis/",
+          "publishedOn": "2026-10-28T11:00:00.000Z",
+          "wordCount": 5368,
+          "title": "“Imperialismo e política colonial”, de Evquiéni B. Pachukanis",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/imperialismo-e-politica-colonial-frente-1.jpg?fit=1200%2C719&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67914",
           "author": "Boitempo",
           "description": "Se os conservadores têm o conchavo e a sempre requentada (antiquada, mas com ares de novidade) chantagem econômica, você tem as ruas, que, ademais, não foram induzidas por ninguém em específico, tendo se constituído por uma força coletiva nascida de movimentos espontâneos e conscientes da relevância dos direitos sociais e concretamente democráticos no atual estágio do processo histórico; e tem, também, certamente, a comprovação, tantas vezes verificada, do quanto o rebaixamento da rede de proteção social favorece a alguns poucos, em detrimento de milhões.",
           "link": "https://blogdaboitempo.com.br/2026/10/27/carta-ao-lula/",
           "publishedOn": "2026-10-27T13:48:41.000Z",
-          "wordCount": 4703,
+          "wordCount": 4618,
           "title": "Carta ao Lula",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/int0202.jpg.webp"
         },
@@ -968,19 +939,9 @@
           "description": "Os mortos, Moas, Marielles, Mariguellas, Herzogs, Lamarcas acordaram os ossos escondidos nas covas rasas de 1964 e gritaram em sinal de alerta. Uma chance, uma pálida esperança e um canalha soluçando na Papuda e nós nos distraímos. Agora é véspera do segundo turno, de novo, e nos podemos evitar tudo isso. \n\nNós ainda podemos evitar tudo isso. Nós podemos... não podemos?",
           "link": "https://blogdaboitempo.com.br/2026/10/24/era-vespera-do-segundo-turno/",
           "publishedOn": "2026-10-24T23:00:00.000Z",
-          "wordCount": 4925,
+          "wordCount": 4762,
           "title": "Era véspera do segundo turno",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/0g0a6238.webp"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=67784",
-          "author": "Boitempo",
-          "description": "Análise de Maikel da Silveira sobre mais uma eleição do fim do mundo.",
-          "link": "https://blogdaboitempo.com.br/2026/10/23/o-brasil-em-mais-uma-eleicao-do-fim-do-mundo/",
-          "publishedOn": "2026-10-23T11:27:17.000Z",
-          "wordCount": 10465,
-          "title": "O Brasil em mais uma eleição do fim do mundo",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/10/toms4742.webp"
         }
       ]
     }
