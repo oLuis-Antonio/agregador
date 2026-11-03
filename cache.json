@@ -4,7 +4,18 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "YAQhfj",
+          "author": null,
+          "description": "Subida do tom do governo Trump e o apoio do braço tecnológico do Vale do Silício lançaram luz sobre as tentativas de interferência estrangeira nas eleições brasileiras",
+          "link": "https://jornalofuturo.com.br/artigo/YAQhfj-financiamento-e-pressao-politica-dos-estados-unidos-marcaram-a-disputa-eleitoral-do-brasil",
+          "publishedOn": "2026-11-02T03:00:00.000Z",
+          "wordCount": 2112,
+          "title": "Financiamento e pressão política dos Estados Unidos marcaram a disputa eleitoral do Brasil",
+          "imageUrl": "https://media.jornalofuturo.com.br/03_11-1024x683.jpg"
+        }
+      ]
     },
     {
       "title": "Opinião Socialista",
@@ -50,56 +61,6 @@
           "wordCount": 1360,
           "title": "Reintegração de posse ou agressão? Prefeitura de Manaus despeja 300 famílias em Santa Etelvina",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/manaus-despejo.webp"
-        },
-        {
-          "id": "6ae3c0f4692b2a034e585570",
-          "author": "Israel Luz",
-          "description": "Alessandra Moja foi libertada após mais de 400 dias presa. Alê do Moinho, como é conhecida por sua liderança na última favela da região central de São Paulo (SP), foi presa em setembro de 2025 pelo governo de Tarcí",
-          "link": "https://opiniaosocialista.com.br/ale-enfim-livre/",
-          "publishedOn": "2026-10-29T22:33:04.000Z",
-          "wordCount": 1133,
-          "title": "Alê, enfim, livre!",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/ale-luta-popular.webp"
-        },
-        {
-          "id": "6ae3bb1e692b2a034e585553",
-          "author": "Luiz Carlos Prates (Mancha), de São José dos Campos (SP)",
-          "description": "A semana que se iniciou após a reviravolta eleitoral brasileira, marcada pela intensa mobilização popular e pela vitória de Lula, também foi marcada por outros dois acontecimentos: a fuga de Flávio Bolsonaro para os EUA, alegando viver em uma",
-          "link": "https://opiniaosocialista.com.br/a-fuga-de-flavio-e-as-demissoes-e-perseguicoes-de-trabalhadores/",
-          "publishedOn": "2026-10-29T21:34:31.000Z",
-          "wordCount": 1298,
-          "title": "A fuga de Flávio e as demissões e perseguições de trabalhadores",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/10/flavio-bolsonaro-visita-trump-reproducao-x.webp"
-        },
-        {
-          "id": "6ae35aa6692b2a034e5854fc",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Cobramos do governo Lula a defesa dos povos originários, investigação das denúncias, proteção às vítimas e punição aos criminosos",
-          "link": "https://opiniaosocialista.com.br/perseguicao-a-indigenas-e-trabalhadores-por-voto-no-13-precisa-ser-combatida/",
-          "publishedOn": "2026-10-29T16:07:06.000Z",
-          "wordCount": 1429,
-          "title": "Perseguição a indígenas por voto no 13 precisa ser combatida",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Indigenas_.webp"
-        },
-        {
-          "id": "6ae36776692b2a034e585518",
-          "author": "Em Luta (seção portuguesa da LIT-QI)",
-          "description": "A resposta é simples: o governo português. Enquanto os jovens montavam as suas tendas em praças de Lisboa e do Porto para reivindicar casa para morar, o governo de direita (PSD) enviava um violento aparato policial para reprimir os manifestantes. Mas os jovens estão vencendo",
-          "link": "https://opiniaosocialista.com.br/portugal-quem-tem-medo-da-acampada/",
-          "publishedOn": "2026-10-29T15:44:27.000Z",
-          "wordCount": 1768,
-          "title": "Portugal: Quem tem medo da acampada?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/acampada-Portugal.webp"
-        },
-        {
-          "id": "6ae350f6692b2a034e5854d5",
-          "author": "PSTU Rio de Janeiro",
-          "description": "Uma operação de grande escala, sem segurança duradoura",
-          "link": "https://opiniaosocialista.com.br/um-ano-depois-da-chacina-no-complexo-da-penha-e-alemao-o-trafico-nao-foi-derrotado/",
-          "publishedOn": "2026-10-29T14:13:58.000Z",
-          "wordCount": 2071,
-          "title": "Um ano depois da chacina no Complexo da Penha e Alemão, o tráfico não foi derrotado",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/10/Foto2-RJ-tem-operacao-mais-letal-de-sua-historia-seis-meses-apos-reviravolta-na-ADPF-das-Favelas.webp"
         }
       ]
     },
@@ -217,46 +178,6 @@
           "wordCount": null,
           "title": "Protejam os povos indígenas: a palavra de ordem que tem que tomar conta de todo o país",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/69-mortos-em-choque-de-trens-de-alta-velocidade-mais-uma-tragedia-por-culpa-da-privatizacao-e-da",
-          "author": "Fabrício Barros",
-          "description": "Na manhã desta quarta-feira, 28 de outubro, um grave acidente ferroviário na região de Toledo, na Espanha, deixou pelo menos 69 mortos e mais de uma centena de feridos. Um trem de alta velocidade da Renfe, empresa ferroviária estatal espanhola, colidiu com um trem da Iryo, operadora privada, que estava parado na linha de alta velocidade entre Madri e Andaluzia. Com o impacto, os dois últimos vagões do trem da Iryo descarrilaram e caíram num barranco.\n29-10-2026\n\n/ Internacional, Classe trabalhadora, Transporte, Estado Espanhol, Privatização dos transportes, Trem",
-          "link": "https://www.esquerdadiario.com.br/69-mortos-em-choque-de-trens-de-alta-velocidade-mais-uma-tragedia-por-culpa-da-privatizacao-e-da",
-          "publishedOn": "2026-10-29T22:27:01.000Z",
-          "wordCount": null,
-          "title": "69 mortos em choque de trens de alta velocidade: mais uma tragédia por culpa da privatização e da falta de investimentos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Apos-415-dias-de-prisao-arbitraria-lider-comunitaria-Alessandra-Moja-recebe-liberdade-provisoria",
-          "author": "Vitória Busato",
-          "description": "Liderança comunitária da Favela do Moinho, na capital paulista, Alessandra Moja foi presa sem julgamento em 8 de setembro de 2025. Mais de um ano depois, após mobilização de movimentos sociais e da própria comunidade em que atua, a Justiça concedeu a ela liberdade provisória, com medidas cautelares.\n29-10-2026\n\n/ Sociedade, Prisão, Estado Policial, Tarcísio de Freitas",
-          "link": "https://www.esquerdadiario.com.br/Apos-415-dias-de-prisao-arbitraria-lider-comunitaria-Alessandra-Moja-recebe-liberdade-provisoria",
-          "publishedOn": "2026-10-29T22:08:03.000Z",
-          "wordCount": null,
-          "title": "Após 415 dias de prisão arbitrária, líder comunitária Alessandra Moja recebe liberdade provisória",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/O-panorama-internacional-pos-eleicoes-no-Brasil",
-          "author": "André Barbieri",
-          "description": "Quais peças do xadrez internacional se moveram nestes dias pós-eleitorais no Brasil?\nMatérias\n\n/ Internacional, Donald Trump, Juventude trabalhadora, Flavio Bolsonaro, Governo Lula, Marco Rubio",
-          "link": "https://www.esquerdadiario.com.br/O-panorama-internacional-pos-eleicoes-no-Brasil",
-          "publishedOn": "2026-10-29T21:38:09.000Z",
-          "wordCount": null,
-          "title": "O panorama internacional pós-eleições no Brasil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Ajuste-fiscal-anunciado-por-ministro-de-Lula-e-um-ataque-na-contramao-do-fim-da-6x1",
-          "author": "Ítalo Gimenes",
-          "description": "Na manhã desta terça-feira, 27, o atual Ministro da Fazenda do governo Lula, Dário Durigan, buscou tranquilizar os mercados afirmando que o governo irá fazer um ajuste fiscal para conter os gastos públicos e pagar a dívida com os banqueiros. Qualquer medida de ajuste fiscal deve ser enfrentado como um ataque à mobilização social que tomou as ruas e arrancou o fim da escala 6x1 e reivindicou uma série de direitos sociais.\n27-10-2026\n\n/ Política, Lula, Haddad, Ministério da fazenda, Neoliberalismo, Responsabilidade fiscal, Governo Lula, Arcabouço Fiscal, ajuste fiscal, Eleições 2026",
-          "link": "https://www.esquerdadiario.com.br/Ajuste-fiscal-anunciado-por-ministro-de-Lula-e-um-ataque-na-contramao-do-fim-da-6x1",
-          "publishedOn": "2026-10-29T14:13:00.000Z",
-          "wordCount": null,
-          "title": "Ajuste fiscal anunciado por ministro de Lula é um ataque na contramão do fim da 6x1",
-          "imageUrl": null
         }
       ]
     },
@@ -294,36 +215,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/10/Header-Ora-Thiago-Comunicacao.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445639",
-          "author": "Eduardo Goulart",
-          "description": "Sem investigar, a mídia publicou que o senador já estava nos EUA, quando, na verdade, ele ainda não havia saído da Argentina. Assim, o jornalismo serviu de megafone para narrativas do bolsonarismo.\nO post A fuga de Flávio Bolsonaro e o voo cego da imprensa apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/29/fuga-flavio-bolsonaro-e-voo-cego-imprensa/",
-          "publishedOn": "2026-10-29T17:13:45.000Z",
-          "wordCount": null,
-          "title": "A fuga de Flávio Bolsonaro e o voo cego da imprensa",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/Flavio_Aviao_Miami.png",
-            "length": "1",
-            "type": "image/png"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/Flavio_Aviao_Miami.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445627",
-          "author": "Bianca Pyl",
-          "description": "Resultado das urnas foi íntegro, mas inação de Nunes Marques diante de denúncias de falta de transporte gerou ruído e desviou foco de tentativa de supressão de votos.\nO post Nunes Marques botou TSE e eleição em risco ao fugir da responsabilidade de garantir o direito ao voto apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/10/29/nunes-marques-tse-e-eleicao-em-risco/",
-          "publishedOn": "2026-10-29T14:58:04.000Z",
-          "wordCount": null,
-          "title": "Nunes Marques botou TSE e eleição em risco ao fugir da responsabilidade de garantir o direito ao voto",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/10/1BEDWylI-Headerwide-10.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/10/1BEDWylI-Headerwide-10.jpg"
         }
       ]
     },
@@ -338,7 +229,7 @@
           "description": "Em sua 31ª edição, mobilização no Jardim Ângela, zona sul de São Paulo, homenageia vítimas da violência e cobra políticas públicas de proteção à infância e à adolescência\nO conteúdo ‘Menos velórios e mais formaturas’: caminhada pela vida e pela paz defende crianças e adolescentes Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/caminhada-vida-paz-jardim-angela-criancas-adolescentes/",
           "publishedOn": "2026-11-02T16:12:44.000Z",
-          "wordCount": 7056,
+          "wordCount": 7092,
           "title": "‘Menos velórios e mais formaturas’: caminhada pela vida e pela paz defende crianças e adolescentes",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/caminhada_vida_1_novembro_2026-scaled.webp"
         },
@@ -348,7 +239,7 @@
           "description": "Um ano após a operação que deixou 123 mortos, milhares de horas de gravações não mostram nenhuma das mortes; falhas, obstruções e lacunas nas imagens levantam questões sobre transparência, fiscalização e responsabilização policial\nO conteúdo Da Redação | Quando o Estado escolhe não ser visto Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/cameras-corporais-massacre-alemao-penha-transparencia/",
           "publishedOn": "2026-11-02T13:10:52.000Z",
-          "wordCount": 5978,
+          "wordCount": 5909,
           "title": "Da Redação | Quando o Estado escolhe não ser visto",
           "imageUrl": "https://ponte.org/wp-content/uploads/2025/10/toms9783-1.webp"
         },
@@ -358,7 +249,7 @@
           "description": "Alessandra Moja Cunha havia sido presa no ano passado, em meio a violento processo de remoção da comunidade em São Paulo. PMs que cumpriram mandado e registraram suposto flagrante de drogas contra ela não usavam câmeras.\nO conteúdo Líder comunitária da favela do Moinho obtém liberdade provisória após um ano presa Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/lider-moinho-liberdade-um-ano-presa/",
           "publishedOn": "2026-10-30T17:26:50.000Z",
-          "wordCount": 6493,
+          "wordCount": 6467,
           "title": "Líder comunitária da favela do Moinho obtém liberdade provisória após um ano presa",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/08/Protesto-Moinho_22_08_24_ARROYO-13-jpg.webp"
         },
@@ -368,7 +259,7 @@
           "description": "Agentes usavam câmeras corporais, mas imagens só foram cedidas, em parte, mais de três anos depois. Polícia Civil diz que registros não esclarecem toda a dinâmica. Promotora entendeu que investigados agiram em legítima defesa\nO conteúdo MPSP arquiva caso de entregador morto pela PM em SP com tiro pelas costas Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/mpsp-arquiva-morte-entregador-pm-tiro-costas/",
           "publishedOn": "2026-10-30T14:32:05.000Z",
-          "wordCount": 6376,
+          "wordCount": 6350,
           "title": "MPSP arquiva caso de entregador morto pela PM em SP com tiro pelas costas",
           "imageUrl": "https://ponte.org/wp-content/uploads/2023/02/Protesto-Carlos_Rede_26_02_23_Arroyo-1.jpg"
         }
@@ -386,104 +277,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=270639",
+          "author": "Tatiana Carlotti",
+          "description": "O Chile atravessa uma situação econômica e social difícil, marcada por recessão, aumento do desemprego a níveis não registrados desde a pandemia e rápida deterioração do apoio popular ao governo do presidente chileno José Antonio Kast. Apenas sete meses após assumir a Presidência com elevado apoio inicial, a estratégia de ajuste fiscal e cortes de […]\nO post Desaprovação do governo Kast atinge 64% em meio à crise econômica no Chile apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/desaprovacao-do-governo-kast-atinge-64-em-meio-a-crise-economica-no-chile/",
+          "publishedOn": "2026-11-03T11:26:26.000Z",
+          "wordCount": 4214,
+          "title": "Desaprovação do governo Kast atinge 64% em meio à crise econômica no Chile",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/07/hltikyoxiaajpoi.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270600",
+          "author": "Pedro Marin",
+          "description": "No texto anterior, escrevi que, para derrotarmos o Golias digital, precisaríamos, dentre outras coisas, utilizar sua própria espada contra ele, como fez Davi. Uma das formas que essa apropriação assumiu foi notadamente realizada pelo canal de WhatsApp “Exército do Lula”, iniciativa criada e assumida pelo deputado federal André Janones, figura que foi um dos protagonistas […]\nO post Após olhar o abismo: reflexões após o segundo turno das eleições apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/apos-olhar-o-abismo-reflexoes-apos-o-segundo-turno-das-eleicoes/",
+          "publishedOn": "2026-11-03T11:00:02.000Z",
+          "wordCount": 7525,
+          "title": "Após olhar o abismo: reflexões após o segundo turno das eleições",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/eleicoes.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270635",
+          "author": "Tatiana Carlotti",
+          "description": "O eleitorado dos EUA vai às urnas nesta terça-feira (03/10) para definir o futuro legislativo da nação em uma das eleições de meio de mandato (midterms) mais dramáticas e decisivas da história recente. As últimas projeções e levantamentos consolidados divulgados na véspera do pleito apontam uma tendência de forte rejeição à Casa Branca: o Partido […]\nO post Pesquisas apontam vantagem democrata nas eleições norte-americanas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/pesquisas-apontam-vantagem-democrata-nas-eleicoes-norte-americanas/",
+          "publishedOn": "2026-11-03T10:35:45.000Z",
+          "wordCount": 4568,
+          "title": "Pesquisas apontam vantagem democrata nas eleições norte-americanas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/united_states_capitol_west_front_edit2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270624",
+          "author": "Pedro Marin",
+          "description": "No debate econômico brasileiro contemporâneo, a ideia de que o país atravessa um “descontrole fiscal primário” constitui uma narrativa ideológica construída para ocultar o verdadeiro motor da insustentabilidade da dívida pública: a estratosférica taxa básica de juros. André Lara Resende (ALR), em seu contundente manifesto “Eu Acuso”, expõe que, com um déficit primário insignificante de […]\nO post Eu acuso o garrote rentista: por uma síntese desenvolvimentista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/eu-acuso-o-garrote-rentista-por-uma-sintese-desenvolvimentista/",
+          "publishedOn": "2026-11-03T10:30:15.000Z",
+          "wordCount": 6810,
+          "title": "Eu acuso o garrote rentista: por uma síntese desenvolvimentista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/bolsa-de-valores-rentista-desenvolvimentista-eu-acuso.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270630",
+          "author": "Tatiana Carlotti",
+          "description": "Os Estados Unidos realizam nesta terça-feira (03/11) eleições parlamentares que são decisivas para o futuro do governo de Donald Trump. Em meio à insatisfação popular com a economia, à guerra contra o Irã e às operações de deportação de imigrantes, o Partido Republicano tenta preservar o controle do Congresso, enquanto os democratas apostam no desgaste […]\nO post EUA vão às urnas em eleições de meio de mandato decisivas para Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-vao-as-urnas-em-eleicoes-de-meio-de-mandato-decisivas-para-trump/",
+          "publishedOn": "2026-11-03T09:41:57.000Z",
+          "wordCount": 4629,
+          "title": "EUA vão às urnas em eleições de meio de mandato decisivas para Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/55573811932_3e92a2763d_3k-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270627",
+          "author": "Rocio Paik",
+          "description": "Na véspera das eleições de meio de mandato, a Suprema Corte dos Estados Unidos rejeitou na segunda-feira (02/11) um pedido do governo norte-americano para bloquear 20 mil cédulas por correspondência na Califórnia que, de acordo com o presidente Donald Trump, teriam sido enviadas por pessoas que não estão autorizadas a votar porque não são consideradas […]\nO post Suprema Corte dos EUA barra tentativa de Trump de forçar Califórnia a anular votos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/suprema-corte-dos-eua-barra-tentativa-de-trump-de-forcar-california-a-anular-votos/",
+          "publishedOn": "2026-11-03T05:30:49.000Z",
+          "wordCount": 3658,
+          "title": "Suprema Corte dos EUA barra tentativa de Trump de forçar Califórnia a anular votos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/us_supreme_court_-_corrected.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270619",
+          "author": "Rocio Paik",
+          "description": "O Hezbollah começou a distribuir nesta segunda-feira (02/11) as primeiras ajudas financeiras prometidas às famílias deslocadas e aos proprietários de imóveis destruídos por bombardeios israelenses. A iniciativa ocorre apesar dos esforços dos Estados Unidos para restringir as fontes de financiamento do movimento xiita pró-Irã. Dois centros instalados na região de Nabatiyeh, no sul do Líbano, […]\nO post Hezbollah dribla sanções dos EUA e distribui primeiras ajudas a famílias atingidas por Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/hezbollah-dribla-sancoes-dos-eua-e-distribui-primeiras-ajudas-a-familias-atingidas-por-israel/",
+          "publishedOn": "2026-11-03T04:30:38.000Z",
+          "wordCount": 3621,
+          "title": "Hezbollah dribla sanções dos EUA e distribui primeiras ajudas a famílias atingidas por Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hucetfzwqaat2bx.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270613",
+          "author": "Rocio Paik",
+          "description": "Os Estados Unidos atacaram a ilha iraniana de Qeshm, de acordo com o The Wall Street Journal (WSJ) nesta segunda-feira (02/11), que citou autoridades norte-americanas. A agência iraniana IRNA foi o veículo que inicialmente relatou uma série de explosões na área situada no Estreito de Ormuz. Na sequência, a agência semi-oficial Fars informou que explosões também […]\nO post EUA atacam ilha de Qeshm após Irã propor reabertura de Ormuz  apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-atacam-ilha-de-qeshm-apos-ira-propor-reabertura-de-ormuz/",
+          "publishedOn": "2026-11-03T03:30:26.000Z",
+          "wordCount": 2977,
+          "title": "EUA atacam ilha de Qeshm após Irã propor reabertura de Ormuz",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/qeshmisland_nasa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=270607",
+          "author": "Rocio Paik",
+          "description": "A Comunidade do Caribe (Caricom) reafirmou uma reivindicação por justiça reparatória na reunião de chefes de Governo da Comunidade das Nações (Commonwealth), que teve início neste domingo (01/11) e deve durar até o dia 4 de novembro, em Antígua e Barbuda. O bloco regional, que reúne 23 Estados caribenhos entre membros plenos e associados, exige […]\nO post Países do Caribe exigem que Reino Unido pague reparações pelos crimes da escravidão apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/paises-do-caribe-exigem-que-reino-unido-pague-reparacoes-pelos-crimes-da-escravidao/",
+          "publishedOn": "2026-11-03T02:10:00.000Z",
+          "wordCount": 3684,
+          "title": "Países do Caribe exigem que Reino Unido pague reparações pelos crimes da escravidão",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwkeutewsaagskd.jpeg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=270604",
           "author": "Rocio Paik",
           "description": "O governo da Coreia do Norte rejeitou categoricamente a investigação conduzida pela inteligência dos Estados Unidos que atribuiu ao país asiático o ataque cibernético à Binance, a maior plataforma global de exchange de criptomoedas. A chefe do Departamento de Assuntos Gerais do Partido dos Trabalhadores norte-coreano, Kim Yo Jong, também irmã do líder norte-coreano Kim […]\nO post Coreia do Norte reage à acusação dos EUA sobre ataque hacker à Binance e condena ‘grave provocação política’  apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-reage-a-acusacao-dos-eua-sobre-ataque-hacker-a-binance/",
           "publishedOn": "2026-11-03T01:14:18.000Z",
-          "wordCount": 3672,
+          "wordCount": 3664,
           "title": "Coreia do Norte reage à acusação dos EUA sobre ataque hacker à Binance e condena ‘grave provocação política’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/2026110390014_0.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270596",
-          "author": "Rocio Paik",
-          "description": "O deputado federal André Janones (Rede-MG) esteve na Argentina nesta segunda-feira (02/11) e se reuniu com a ex-presidente da Argentina, Cristina Kirchner, que está em prisão domiciliar após ter sido condenada irregularmente a seis anos de detenção por um suposto esquema de corrupção envolvendo a licitação de obras rodoviárias. De acordo com o periódico argentino […]\nO post Na Argentina, Janones se reúne com ex-presidente Cristina Kirchner: ‘podemos derrotar a extrema direita’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/na-argentina-janones-se-reune-com-ex-presidente-cristina-kirchner-podemos-derrotar-a-extrema-direita/",
-          "publishedOn": "2026-11-02T23:58:38.000Z",
-          "wordCount": 3477,
-          "title": "Na Argentina, Janones se reúne com ex-presidente Cristina Kirchner: ‘podemos derrotar a extrema direita’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwj0jx9xcaaqhnd-e1793664046312.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270591",
-          "author": "Fernanda Oliveira",
-          "description": "O presidente dos Estados Unidos, Donald Trump, fez nesta segunda-feira (02/11) seu último pronunciamento presencial antes das eleições de meio de mandato, marcadas para terça-feira (03/11). Reforçando suas próprias circunstâncias, o republicano transformou o pronunciamento em um show particular disparando acusações sem comprovação contra adversários democratas. A começar pelo local escolhido, que chamou a atenção […]\nO post Trump encerra campanha eleitoral com acusações sem provas contra democratas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-encerra-campanha-com-acusacoes-sem-provas-contra-democratas/",
-          "publishedOn": "2026-11-02T20:32:42.000Z",
-          "wordCount": 3935,
-          "title": "Trump encerra campanha eleitoral com acusações sem provas contra democratas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55627893608_c48c02e55b_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270588",
-          "author": "Fernanda Oliveira",
-          "description": "O governo do Reino Unido anunciou nesta segunda-feira (02/11) mudanças nas regras para a concessão de residência permanente a imigrantes. A proposta, apresentada pela ministra do Interior, Shabana Mahmood, amplia de cinco para dez anos o período básico de residência exigido para que a maioria dos estrangeiros possa solicitar o chamado Indefinite Leave to Remain […]\nO post Reino Unido prepara mudanças nas regras imigratórias e amplia prazo para residência permanente apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/reino-unido-prepara-mudancas-nas-regras-imigratorias-e-amplia-prazo-para-residencia-permanente/",
-          "publishedOn": "2026-11-02T20:16:46.000Z",
-          "wordCount": 4283,
-          "title": "Reino Unido prepara mudanças nas regras imigratórias e amplia prazo para residência permanente",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/palace_of_westminster_london_2023_01-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270585",
-          "author": "Fernanda Oliveira",
-          "description": "A eleição presidencial da Bulgária, realizada em segundo turno no domingo (01/11), terminou com a vitória de Iliana Iotova, que recebeu 57,66% dos votos apurados. O resultado, divulgado pela Comissão Eleitoral Central com 99,68% das atas processadas, torna Iotova a primeira mulher eleita para a Presidência do país. Ela disputou o cargo com Andrey Gyurov, […]\nO post Iliana Iotova vence eleições e será primeira mulher presidente da Bulgária apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/iliana-iotova-vence-eleicoes-e-sera-primeira-mulher-presidente-da-bulgaria/",
-          "publishedOn": "2026-11-02T19:51:10.000Z",
-          "wordCount": 3638,
-          "title": "Iliana Iotova vence eleições e será primeira mulher presidente da Bulgária",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/president_iliana_iotova_cropped.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270582",
-          "author": "Fernanda Oliveira",
-          "description": "O governo do Irã afirmou nesta segunda-feira (02/11) que pode reabrir o Estreito de Ormuz em até dois dias e retomar as negociações com os Estados Unidos, desde que Washington aceite as condições apresentadas por Teerã. A proposta é uma versão reduzida de um plano de sete etapas apresentado em setembro e está sendo discutida […]\nO post Irã propõe reabrir Ormuz em dois dias e retomar negociações com EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-propoe-reabrir-ormuz-e-retomar-negociacoes-com-os-eua/",
-          "publishedOn": "2026-11-02T19:07:41.000Z",
-          "wordCount": 3327,
-          "title": "Irã propõe reabrir Ormuz em dois dias e retomar negociações com EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/ormuz.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270580",
-          "author": "Fernanda Oliveira",
-          "description": "Estudantes franceses retomaram nesta segunda-feira (02/11) os protestos contra as condições de ensino, a falta de investimentos na educação pública e as desigualdades no acesso às universidades. Na volta às aulas, após duas semanas de férias de outono, 41 escolas de ensino médio estavam bloqueadas ou haviam sido alvo de tentativas de bloqueio, aproximadamente 1% […]\nO post Estudantes retomam protestos na França e mantêm pressão sobre governo Macron apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/estudantes-retomam-protestos-na-franca-e-mantem-pressao-sobre-governo-macron/",
-          "publishedOn": "2026-11-02T18:48:38.000Z",
-          "wordCount": 3848,
-          "title": "Estudantes retomam protestos na França e mantêm pressão sobre governo Macron",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/franca.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270577",
-          "author": "Fernanda Oliveira",
-          "description": "Ataques aéreos israelenses deixaram ao menos quatro mortos nesta segunda-feira (02/11), na Faixa de Gaza, segundo informações de equipes médicas e autoridades de saúde palestinas. As ofensivas atingiram Khan Younis, Al-Mussadar e o bairro de Tel al-Hawa, na Cidade de Gaza. Outras pessoas ficaram feridas. Conforme agências árabes de notícias, em Khan Younis, dois ataques […]\nO post Israel mata quatro palestinos em Gaza e ultrapassa 1,5 mil mortos desde trégua apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-mantem-ataques-a-gaza-e-mata-quatro-palestinos/",
-          "publishedOn": "2026-11-02T17:07:50.000Z",
-          "wordCount": 4874,
-          "title": "Israel mata quatro palestinos em Gaza e ultrapassa 1,5 mil mortos desde trégua",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hvttmkuwmaan1fa.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270574",
-          "author": "Fernanda Oliveira",
-          "description": "O presidente da Venezuela, Nicolás Maduro, que está preso nos Estados Unidos desde o sequestro em 3 de janeiro de 2026, enviou uma mensagem ao povo venezuelano, neste domingo (01/11). O registro foi divulgado nas redes sociais do líder venezuelano e se refere à passagem do Dia de Todos os Santos, uma das datas cristãs […]\nO post Maduro envia mensagem aos venezuelanos: ‘Cilia e eu estamos com vocês’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/maduro-envia-mensagem-aos-venezuelanos-cilia-e-eu-estamos-com-voces/",
-          "publishedOn": "2026-11-02T16:30:16.000Z",
-          "wordCount": 3449,
-          "title": "Maduro envia mensagem aos venezuelanos: ‘Cilia e eu estamos com vocês’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/651559d9-f1c2-49fb-aaff-8edc50ec5480-1140x760-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270571",
-          "author": "Fernanda Oliveira",
-          "description": "Mais de 53,1 milhões de eleitores norte-americanos já haviam votado antecipadamente até 1º de novembro, segundo dados do Election Lab, da Universidade da Flórida. Desse total, aproximadamente 29 milhões votaram presencialmente e 23 milhões enviaram cédulas pelo correio. O número supera os cerca de 46 milhões registrados nas eleições legislativas de meio de mandato de […]\nO post Mais de 53 milhões já votaram nas eleições de meio mandato nos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/mais-de-53-milhoes-de-norte-americanos-ja-votaram-nas-eleicoes-de-meio-mandato-nos-eua/",
-          "publishedOn": "2026-11-02T15:00:50.000Z",
-          "wordCount": 3203,
-          "title": "Mais de 53 milhões já votaram nas eleições de meio mandato nos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/50563648493_8789ebe781_k.jpg"
         }
       ]
     },
@@ -499,12 +390,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236151",
+          "author": "Giovanna Maria",
+          "description": "No Campo da Candelária, torcedores organizaram uma programação de brincadeiras para crianças e familiares. A Executiva de Estudantes de Pedagogia do Rio de Janeiro participou das atividades.",
+          "link": "https://anovademocracia.com.br/rj-torcidas-do-flamengo-e-executiva-de-pedagogia-promovem-atividades-para-criancas-na-mangueira/",
+          "publishedOn": "2026-11-03T11:21:00.000Z",
+          "wordCount": 7105,
+          "title": "RJ: Torcidas do Flamengo e Executiva de Pedagogia promovem atividades para crianças na Mangueira",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-2.jpeg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236166",
           "author": "Redação de AND",
           "description": "Reeleito em São Paulo, o governador “moderado” reconhece a derrota presidencial do bolsonarismo e admite disputar o Planalto em 2030. Busca ampliar sua margem de manobra numa direita em que as eleições consolidaram a hegemonia do clã Bolsonaro.",
           "link": "https://anovademocracia.com.br/tarcisio-mira-2030-defende-flavio-bolsonaro/",
           "publishedOn": "2026-11-02T22:56:23.000Z",
-          "wordCount": 8963,
+          "wordCount": 8964,
           "title": "Tarcísio defende Flávio ‘Rachadinha’ e mira 2030 sem romper com o clã Bolsonaro",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/tarcisio-flavio-bolsonaro-1024x683.jpg"
         },
@@ -514,7 +415,7 @@
           "description": "Liga reafirma que “Nelore” e “GPS” nunca pertenceram à organização e acusa Régis Braguin de tentar encobrir seus crimes. Declaração relaciona a nova ofensiva ao êxito da Assembleia Popular na Área Tiago Campin dos Santos.",
           "link": "https://anovademocracia.com.br/lcp-denuncia-assassinatos-braguin-rondonia/",
           "publishedOn": "2026-11-02T22:15:59.000Z",
-          "wordCount": 7714,
+          "wordCount": 7715,
           "title": "LCP denuncia como ‘queima de arquivo’ novos assassinatos sob comando de Braguin em Rondônia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-02-braguin-queima-de-arquivo.png"
         },
@@ -524,7 +425,7 @@
           "description": "Jato particular custou 150 mil dólares e teria sido contratado por assessor de Donald Trump. Empresa responsável pelo voo é citada em investigação de corrupção na Argentina.",
           "link": "https://anovademocracia.com.br/assessor-trump-voo-flavio-rachadinha-miami/",
           "publishedOn": "2026-11-02T21:05:36.000Z",
-          "wordCount": 7614,
+          "wordCount": 7610,
           "title": "Assessor de Trump teria contratado vôo que levou Flávio ‘Rachadinha’ até Miami",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-10-28-flavio-bolsonaro-eua-1024x683.jpg"
         },
@@ -534,7 +435,7 @@
           "description": "Intermediário no EUA pagou 150 mil dólares pelo jato; governo Trump garantiu acolhimento ao fugitivo e orientou o recuo de sua autoproclamação em Miami.",
           "link": "https://anovademocracia.com.br/operacao-fuga-flavio-bolsonaro-ex-mossad/",
           "publishedOn": "2026-11-02T20:24:58.000Z",
-          "wordCount": 8250,
+          "wordCount": 8251,
           "title": "Operação ianque para a fuga de Flávio Bolsonaro teve ex-Mossad e manobras migratórias",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-04-flavio-bolsonaro-entidade-sionista-1024x683.jpg"
         },
@@ -544,7 +445,7 @@
           "description": "Na Praça São Lucas, onde foram reunidos os corpos encontrados por moradores após a Operação Contenção, familiares prestaram homenagens às vítimas e cobraram justiça um ano depois da chacina.",
           "link": "https://anovademocracia.com.br/rj-moradores-e-movimentos-fazem-ato-em-memoria-das-vitimas-da-grande-chacina-da-penha/",
           "publishedOn": "2026-11-02T20:16:22.000Z",
-          "wordCount": 7702,
+          "wordCount": 7703,
           "title": "RJ: Moradores e movimentos fazem ato em memória das vítimas da grande chacina da Penha",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-1024x683.jpeg"
         },
@@ -554,7 +455,7 @@
           "description": "Alê permaneceu 415 dias presa, a campanha por sua liberdade continua, agora também pela absolvição plena.",
           "link": "https://anovademocracia.com.br/sp-mobilizacao-popular-conquista-liberdade-provisoria-de-ale-lideranca-da-favela-do-moinho-que-passou-415-dias-presa-sem-julgamento/",
           "publishedOn": "2026-10-31T21:11:13.000Z",
-          "wordCount": 7814,
+          "wordCount": 7815,
           "title": "SP: Mobilização popular conquista liberdade provisória de Alê, liderança da Favela do Moinho que passou 415 dias presa sem julgamento",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/image-66.png"
         },
@@ -564,7 +465,7 @@
           "description": "Famílias receberam uma missão de solidariedade e representantes do Incra cobraram a regularização dos lotes e apresentaram sua produção. A atividade frustrou novas tentativas de intimidação da PM-RO, que, na saída, chegou a abordar apoiadores.",
           "link": "https://anovademocracia.com.br/assembleia-popular-camponeses-rondonia/",
           "publishedOn": "2026-10-31T16:38:10.000Z",
-          "wordCount": 8309,
+          "wordCount": 8310,
           "title": "Assembleia Popular na Área Tiago dos Santos reúne centenas de camponeses e recebe missão de solidariedade em Rondônia",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/10/denuncia_trator_corte_revisado.mp4",
@@ -579,7 +480,7 @@
           "description": "Mobilização na Universidade Jamia Millia Islamia enfrenta agressões, detenções e cerco policial; organização revolucionária bsCEM denuncia ofensiva do velho Estado fascista indiano contra a organização independente dos estudantes.",
           "link": "https://anovademocracia.com.br/estudantes-indianos-resistem-a-repressao-e-mantem-greve-de-fome-por-eleicoes-universitarias/",
           "publishedOn": "2026-10-30T20:38:13.000Z",
-          "wordCount": 7787,
+          "wordCount": 7788,
           "title": "Estudantes indianos resistem à repressão e mantêm greve de fome por eleições universitárias",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/364060244fd543b0bf2f28808a014172_18.webp"
         },
@@ -589,19 +490,9 @@
           "description": "Manifestantes ergueram barricadas e incendiaram veículos durante confrontos com as forças policiais; ao menos 19 pessoas foram detidas. Protestos também atingiram atos de Vito Quiles em Iruña, Barcelona e Zaragoza.",
           "link": "https://anovademocracia.com.br/milhares-de-jovens-enfrentam-policia-e-barram-ato-de-extrema-direita-no-pais-basco/",
           "publishedOn": "2026-10-30T20:30:02.000Z",
-          "wordCount": 7745,
+          "wordCount": 7746,
           "title": "Milhares de jovens enfrentam polícia e barram ato de extrema direita no País Basco",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/fotonoticia-20260620185300-1920_26_1200x900.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236078",
-          "author": "Redação de AND",
-          "description": "Mobilizações pesaram no recálculo da ofensiva do imperialismo ianque, que pode apoiar-se na força bolsonarista no Congresso de corruptos. No A Propósito #380, o diretor-geral de AND defende ampliar a luta operária e camponesa para enfrentar a reação e as conciliações do governo oportunista.",
-          "link": "https://anovademocracia.com.br/flavio-bolsonaro-ianques-temem-mobilizacoes/",
-          "publishedOn": "2026-10-30T18:44:06.000Z",
-          "wordCount": 9629,
-          "title": "Recuo de Flávio Bolsonaro: ianques e extrema direita temem as mobilizações populares",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/10/ato-lai-tijuca-1-ok-1024x576.jpg"
         }
       ]
     },
@@ -642,7 +533,7 @@
           "description": "A força de pessoas conectadas em rede, somando suas ações em vez de disputar atenção individual, foi capaz de driblar os algoritmos. Mas, sem enquadrar as plataformas e apostar nos códigos abertos, seguiremos tentando fazer milagres no campo do adversário\nThe post Dobramos as big techs, e agora? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/dobramos-as-big-techs-e-agora/",
           "publishedOn": "2026-10-30T20:28:31.000Z",
-          "wordCount": 5821,
+          "wordCount": 5818,
           "title": "Dobramos as big techs, e agora?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5127477261463391911.jpg"
         },
@@ -672,49 +563,9 @@
           "description": "Boicote econômico imposto à força é hoje tática central dos EUA. Mas desde a I Guerra, Europa praticou-o, contrariando seu próprio discurso liberal. Responsável pelo extermínio de civis, por fomes e epidemias, foi arduamente defendido como “legítimo” por nações do Norte\nThe post Sanções: Breve história de uma arma de guerra appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/sancoes-breve-historia-de-uma-arma-de-guerra/",
           "publishedOn": "2026-10-30T19:13:21.000Z",
-          "wordCount": 8709,
+          "wordCount": 8712,
           "title": "Sanções: Breve história de uma arma de guerra",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5127477261463391836.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208830",
-          "author": "Lucas Scatolini",
-          "description": "Nesta sexta, no 47º aniversário da morte do operário, sua vida e legado serão lembrados num ato em SP. Um livro relata sua formação, suas ideias e a liderança que exerceu, em meio ao ascenso das lutas populares nos anos 1970. No trecho a seguir, a greve de 79 e o piquete fatídico\nThe post As últimas batalhas de Santo Dias da Silva appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/as-ultimas-batalhas-de-santo-dias-da-silva/",
-          "publishedOn": "2026-10-29T22:23:30.000Z",
-          "wordCount": 4770,
-          "title": "As últimas batalhas de Santo Dias da Silva",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-29-at-19-15-50-OP-PautasIdeias.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208741",
-          "author": "Lucas Scatolini",
-          "description": "Brasil recusou a resposta necrófila do primeiro turno e mobilizou o voto biófilo, vitorioso no segundo. Assim, a potencialidade primária de preservar a vida segue pulsando e pode se traduzir em escolhas concretas. Mas as ameaças ainda rondam o país e requerem alerta\nThe post O amor à vida contra a barbárie appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/o-amor-a-vida-contra-a-barbarie/",
-          "publishedOn": "2026-10-29T21:59:45.000Z",
-          "wordCount": 4404,
-          "title": "O amor à vida contra a barbárie",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5123205869242880121_y-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3206915",
-          "author": "Rôney Rodrigues",
-          "description": "Como o banco que deveria financiar o desenvolvimento virou ponta de lança das privatizações. As lógicas desconcertantes do neoliberalismo: usar dinheiro público para se apropriar da infraestrutura do país. A urgência de novo projeto, em Lula 4\nThe post Hora de dar outro rumo ao BNDES appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/as-distorcoes-do-bndes-e-futuro-das-cidades/",
-          "publishedOn": "2026-10-29T20:55:26.000Z",
-          "wordCount": 5939,
-          "title": "Hora de dar outro rumo ao BNDES",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Screenshot-2026-10-29-at-17-48-43-railroadtrackswitch.webp-imagem-WEBP-1024-%C3%97-632-pixels-Redimensionada-94_.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3208733",
-          "author": "Maurício Ayer",
-          "description": "Na campanha para a reeleição de Dilma, ação nas redes foi também muito exitosa. Renovador e criativo, Franklin Martins não contou com apoio do PT. Ao final, desfez-se a estrutura. Manter o trabalho de Janones, agora, é essencial para que Lula  possa de fato governar\nThe post Exército de Lula: para não repetir o erro de 2014 appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/exercito-de-lula-para-nao-repetir-o-erro-de-2014/",
-          "publishedOn": "2026-10-29T19:54:47.000Z",
-          "wordCount": 4293,
-          "title": "Exército de Lula: para não repetir o erro de 2014",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/photo_5122973661836021124_y.jpg"
         }
       ]
     },
@@ -766,7 +617,7 @@
           "description": "\"Na gramática bolsonarista, as políticas sociais públicas não são apenas objetos de esvaziamentos/desmantelamentos, mas também de deslegitimações categoriais\". No texto de hoje, Felipe Brito analisa a “avalanche” bolsonarista na eleição de 2026 e a força do Lulismo.",
           "link": "https://blogdaboitempo.com.br/2026/10/30/a-avalanche-bolsonarista-na-eleicao-de-2026-e-a-forca-do-lulismo/",
           "publishedOn": "2026-10-30T11:00:00.000Z",
-          "wordCount": 7965,
+          "wordCount": 7967,
           "title": "A “avalanche” bolsonarista na eleição de 2026 e a força do Lulismo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/10/missil-3-3e4a7f95.webp?fit=906%2C1200&ssl=1"
         }
