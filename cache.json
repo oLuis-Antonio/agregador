@@ -517,6 +517,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445690",
+          "author": "Bianca Pyl",
+          "description": "Visto como modelo pela extrema direita, país vizinho colapsa após rombo em banco digital derrubar o presidente Santiago Peña.\nO post Crise do Ueno Bank no Paraguai desmonta farsa do paraíso liberal bolsonarista apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/11/07/crise-paraguai-desmonta-paraiso-bolsonarista/",
+          "publishedOn": "2026-11-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Crise do Ueno Bank no Paraguai desmonta farsa do paraíso liberal bolsonarista",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/11/wide-6.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/11/wide-6.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445675",
           "author": "Gisele Lobato",
           "description": "Com 19 processos minerários na Bahia – 12 deles na APA Ponta da Baleia-Abrolhos –, Energy Fuels recebeu empréstimo de 725 milhões de dólares do governo Trump para ampliar o processamento de minerais considerados críticos pelos EUA.\nO post Mineradora financiada por Trump quer explorar terras raras na região do paraíso natural de Abrolhos apareceu primeiro em Intercept Brasil.",
@@ -626,6 +641,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74904",
+          "author": "Globetrotter",
+          "description": "Paraguai atravessa uma das crises políticas e financeiras mais graves de sua história recente. A intervenção no Ueno Bank por parte do Banco Central do Paraguai, após a detecção de graves irregularidades em suas operações e problemas de solvência, desencadeou uma crise que rapidamente deixou de ser apenas bancária. Hoje, ela tem consequências diretas sobre […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/07/a-crise-no-paraguai-mais-um-exemplo-do-fracasso-do-modelo-liberal/",
+          "publishedOn": "2026-11-07T13:45:20.000Z",
+          "wordCount": 3527,
+          "title": "A crise no Paraguai: mais um exemplo do fracasso do modelo liberal",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/paraguai.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74898",
           "author": "CTXT",
           "description": "imagem vívida da debacle foi dada ontem pelo próprio presidente, com o olhar perdido nas vigas de aço do salão de baile para o qual ele mandou demolir a Ala Leste da Casa Branca, ainda em obras, fugindo da realidade com uma descrição surrealista de onde ficariam as cozinhas. “Tem gente que fica estressada com […]",
@@ -673,13 +698,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=271038",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente Luiz Inácio Lula da Silva parabenizou Pedro Alliana, que assumiu a Presidência do Paraguai nesta sexta-feira (06/11), após o impeachment de Santiago Peña pelo Congresso Nacional. Em mensagem publicada na rede social X, Lula manifestou o desejo de fortalecer as relações bilaterais e a integração regional, além de convidar o novo presidente paraguaio […]\nO post Lula envia mensagem de apoio a Pedro Alliana, novo presidente do Paraguai apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/lula-envia-mensagem-de-apoio-a-pedro-alliana-novo-presidente-do-paraguai/",
+          "publishedOn": "2026-11-07T14:27:26.000Z",
+          "wordCount": 3755,
+          "title": "Lula envia mensagem de apoio a Pedro Alliana, novo presidente do Paraguai",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwg7zx8xoaeh7hz.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271002",
+          "author": "Victor Farinelli",
+          "description": "A derrota do Partido Republicano nas eleições legislativas de meio de mandato nos Estados Unidos – as chamadas “midterms” – deve gerar uma mudança de postura no governo do presidente Donald Trump, o que levanta rumores sobre uma mudança nas relações com os países da América Latina, em especial com o Brasil. No entanto, segundo […]\nO post Trump deve manter postura intervencionista na América Latina apesar da derrota nas midterms, diz especialista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-entrevista/trump-deve-manter-postura-intervencionista-na-america-latina-apesar-da-derrota-nas-midterms-diz-especialista/",
+          "publishedOn": "2026-11-07T14:00:03.000Z",
+          "wordCount": 5600,
+          "title": "Trump deve manter postura intervencionista na América Latina apesar da derrota nas midterms, diz especialista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/donald.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271034",
+          "author": "Tatiana Carlotti",
+          "description": "Em meio a uma tensa operação de segurança e fortes protestos populares, o ex-presidente deposto do Paraguai, Santiago Peña, foi transferido na noite desta sexta-feira (06/11) de sua residência no bairro de Santíssima Trinidad, em Assunção, para a sede do Regimento de Escolta Presidencial (REP), onde permanecerá detido como parte da investigação judicial sobre o […]\nO post Santiago Peña é transferido para regimento militar após sofrer impeachment apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/santiago-pena-e-transferido-para-regimento-militar-apos-sofrer-impeachment/",
+          "publishedOn": "2026-11-07T13:43:51.000Z",
+          "wordCount": 3684,
+          "title": "Santiago Peña é transferido para regimento militar após sofrer impeachment",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwts_hqxqaev8yc.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271031",
+          "author": "Victor Farinelli",
+          "description": "Moradores de Itacaré, no litoral sul da Bahia, impediram que um grupo de turistas israelenses destruísse um mural de solidariedade ao povo palestino, produzido coletivamente por artistas, estudantes e integrantes da comunidade local. A tentativa de vandalismo ocorreu na sexta-feira (30/10), poucas horas depois da conclusão da intervenção artística, realizada em um casarão histórico da […]\nO post Moradores de Itacaré tentam impedir ataque de turistas israelenses a mural pró-Palestina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/moradores-de-itacare-tentam-impedir-ataque-de-turistas-israelenses-a-mural-pro-palestina/",
+          "publishedOn": "2026-11-07T12:42:46.000Z",
+          "wordCount": 5554,
+          "title": "Moradores de Itacaré tentam impedir ataque de turistas israelenses a mural pró-Palestina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-142449-59d0d6dc.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=271027",
           "author": "Victor Farinelli",
-          "description": "O Senado do Paraguai aprovou nesta sexta-feira (06/11) o impeachment do agora ex-presidente Santiago Peña, em processo aberto em função das suas responsabilidades pelas crises política e econômica desencadeadas a partir da fraude financeira do Ueno Bank, instituição da qual o mandatário chegou a ser acionista. Na votação, 44 parlamentares votaram a favor da condenação […]\nO post Senado paraguaio aprova impeachment de Santiago Peña e Justiça ordena detenção apareceu primeiro em Opera Mundi.",
+          "description": "O Senado do Paraguai aprovou nesta sexta-feira (06/11) o impeachment do agora ex-presidente Santiago Peña, em processo aberto em função das suas responsabilidades pelas crises política e econômica desencadeadas a partir da fraude financeira do Ueno Bank, instituição da qual o mandatário chegou a ser acionista. Na votação, 44 parlamentares votaram a favor da condenação […]\nO post Senado aprova impeachment e Santiago Peña é preso no Paraguai apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/senado-paraguaio-aprova-impeachment-de-santiago-pena-e-justica-ordena-detencao/",
           "publishedOn": "2026-11-06T23:17:19.000Z",
-          "wordCount": 3500,
-          "title": "Senado paraguaio aprova impeachment de Santiago Peña e Justiça ordena detenção",
+          "wordCount": 3496,
+          "title": "Senado aprova impeachment e Santiago Peña é preso no Paraguai",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/pena-1.jpg"
         },
         {
@@ -688,7 +753,7 @@
           "description": "Passada a intensidade das disputas políticas de outubro, que mobilizaram boa parte dos brasileiros, especialmente aqueles preocupados com os rumos da democracia no país, podemos retomar questões que ultrapassam o calendário eleitoral, embora estejam diretamente relacionadas às escolhas que fazemos nas urnas. Uma delas diz respeito a quem tem o direito de circular pelo mundo, […]\nO post Antirracismo e transnacionalidades apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/antirracismo-e-transnacionalidades/",
           "publishedOn": "2026-11-06T23:09:56.000Z",
-          "wordCount": 4732,
+          "wordCount": 4258,
           "title": "Antirracismo e transnacionalidades",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/antirracismo.webp"
         },
@@ -698,7 +763,7 @@
           "description": "Em comunicado publicado nesta sexta-feira (06/11), o governo dos Estados Unidos anunciou que Stephen Miller será o novo chefe de gabinete da Casa Branca, um dos cargos de maior confiança do presidente norte-americano Donald Trump. Ele substituirá Susie Wiles, demitida após a derrota governista nas eleições legislativas da última terça-feira (03/11). Um dos assessores mais […]\nO post Trump nomeia extremista como novo chefe de gabinete da Casa Branca apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trump-nomeia-extremista-como-novo-chefe-de-gabinete-da-casa-branca/",
           "publishedOn": "2026-11-06T21:49:29.000Z",
-          "wordCount": 3548,
+          "wordCount": 3537,
           "title": "Trump nomeia extremista como novo chefe de gabinete da Casa Branca",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/miller.jpg"
         },
@@ -708,7 +773,7 @@
           "description": "Depois do revés recebido pelo presidente Luiz Inácio Lula da Silva no primeiro turno das eleições presidenciais de 2026, ele angariou dez milhões de votos a mais para vencer o segundo turno com uma diferença de quatro milhões de votos sobre uma coalizão da direita e ultradireita bolsonarista. Flávio Bolsonaro, filho do presidiário ex-presidente e […]\nO post Da vitória de Lula à contraofensiva do campo popular global apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/da-vitoria-de-lula-a-contraofensiva-do-campo-popular-global/",
           "publishedOn": "2026-11-06T21:37:45.000Z",
-          "wordCount": 5581,
+          "wordCount": 6032,
           "title": "Da vitória de Lula à contraofensiva do campo popular global",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/lula-1.jpg"
         },
@@ -718,7 +783,7 @@
           "description": "Praias paradisíacas de areia dourada e águas cristalinas, rodeadas por imponentes coqueirais e entrecortadas por cursos de água doce. Lindas cachoeiras e um pôr do sol de tirar o fôlego. Como plano de fundo, a exuberante Mata Atlântica. Na pequena cidade de Itacaré, localizada no sul da Bahia, junto à região conhecida como Costa do […]\nO post Quem manda em Itacaré? Moradores enfrentam israelenses e demandam fim do turismo predatório apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/quem-manda-em-itacare-moradores-enfrentam-israelenses-e-demandam-fim-do-turismo-predatorio/",
           "publishedOn": "2026-11-06T21:00:41.000Z",
-          "wordCount": 5242,
+          "wordCount": 5236,
           "title": "Quem manda em Itacaré? Moradores enfrentam israelenses e demandam fim do turismo predatório",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-142449-59d0d6dc.webp"
         },
@@ -728,49 +793,9 @@
           "description": "O governo de Javier Milei foi acusado na televisão argentina de bancar a permanência de bolsonaristas foragidos que deixaram o Brasil após os ataques golpistas de 8 de janeiro de 2023. Segundo a denúncia, cada um receberia 2 milhões de pesos por mês, cerca de R$ 7,1 mil, para pagar hospedagem e despesas no país […]\nO post TV argentina acusa Milei de financiar bolsonaristas foragidos da Justiça apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/270996/",
           "publishedOn": "2026-11-06T19:20:30.000Z",
-          "wordCount": 4448,
+          "wordCount": 4444,
           "title": "TV argentina acusa Milei de financiar bolsonaristas foragidos da Justiça",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55420443663_56b7579032_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270987",
-          "author": "Victor Farinelli",
-          "description": "Passaram-se 58 dias entre a apresentação dos documentos dos irmãos Bolsonaro na Embaixada da Itália em Brasília e o reconhecimento da cidadania italiana. A informação foi confirmada hoje (06/11), durante sessão no plenário da Câmara dos Deputados da Itália, pela subsecretária Matilde Siracusano, representante do governo de Giorgia Meloni no Parlamento. Em uma interpelação dirigida […]\nO post Deputado italiano leva à Justiça suspeitas sobre cidadania concedida a irmãos Bolsonaro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/deputado-italiano-leva-a-justica-suspeitas-sobre-cidadania-concedida-a-irmaos-bolsonaro/",
-          "publishedOn": "2026-11-06T18:40:33.000Z",
-          "wordCount": 3941,
-          "title": "Deputado italiano leva à Justiça suspeitas sobre cidadania concedida a irmãos Bolsonaro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/bolsos-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270988",
-          "author": "Tatiana Carlotti",
-          "description": "O governo da Guiné-Bissau desautorizou um controverso estudo clínico sobre uma vacina contra a hepatite B em recém-nascidos, financiado pelos Estados Unidos. Após semanas de discussões, o governo proibiu a realização da pesquisa que envolveria 14 mil bebês, dos quais metade receberia a vacina ao nascer, enquanto os outros 7 mil teriam a imunização adiada […]\nO post Guiné-Bissau cancela ‘teste polêmico’ de vacina financiado pelos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/guine-bissau-cancela-teste-polemico-de-vacina-financiado-pelos-eua/",
-          "publishedOn": "2026-11-06T18:00:01.000Z",
-          "wordCount": 3104,
-          "title": "Guiné-Bissau cancela ‘teste polêmico’ de vacina financiado pelos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/yellow_fever_vaccination_03.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270983",
-          "author": "Tatiana Carlotti",
-          "description": "O Papa Leão XIV iniciou nesta sexta-feira (06/11) sua primeira viagem apostólica à América do Sul, com visitas ao Uruguai, à Argentina e ao Peru. Ao todo, serão 11 dias de compromissos em uma região que ainda concentra o maior número de católicos do mundo. A viagem ocorre também poucas semanas depois de o Santo […]\nO post Papa Leão 14 inicia viagem pela América do Sul com primeira parada no Uruguai apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/papa-leao-14-inicia-viagem-pela-america-do-sul-com-primeira-parada-no-uruguai/",
-          "publishedOn": "2026-11-06T17:10:06.000Z",
-          "wordCount": 3842,
-          "title": "Papa Leão 14 inicia viagem pela América do Sul com primeira parada no Uruguai",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/papa-2.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270975",
-          "author": "Victor Farinelli",
-          "description": "Pela primeira vez na história da diplomacia brasileira, dois indígenas ingressam no Curso de Formação de Diplomatas do Instituto Rio Branco. Marcelo Kariri Menezes, do povo Kariri, e Idjahure Terena, do povo Terena, tomaram posse nesta quarta-feira (04/11), no Palácio Itamaraty, em Brasília, como terceiros-secretários da carreira diplomática do Ministério das Relações Exteriores. Os dois […]\nO post Indígenas ingressam pela primeira vez na formação de diplomatas do Itamaraty apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/diplomacia/indigenas-ingressam-pela-primeira-vez-na-formacao-de-diplomatas-do-itamaraty/",
-          "publishedOn": "2026-11-06T16:30:20.000Z",
-          "wordCount": 6530,
-          "title": "Indígenas ingressam pela primeira vez na formação de diplomatas do Itamaraty",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ascom.jpg"
         }
       ]
     },
@@ -786,12 +811,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236584",
+          "author": "Redação de AND",
+          "description": "Ataque na fronteira com a Colômbia deixou ao menos 19 mortos e contou, segundo fonte militar, com apoio da CIA e do FBI. Enquanto isso, governo interino avança na entrega de ativos estatais ao capital privado e se submete ao plano de transição política de Washington.",
+          "link": "https://anovademocracia.com.br/delcy-rodriguez-eln-eua-imperialismo/",
+          "publishedOn": "2026-11-07T13:16:13.000Z",
+          "wordCount": 8338,
+          "title": "Governo de Delcy Rodríguez bombardeia acampamento do ELN sob ordens do EUA e aprofunda submissão ao imperialismo",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-13.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236554",
           "author": "Giovanna Maria",
           "description": "Manifestação saiu da Candelária em marcha até a Cinelândia. Lideranças indígenas e apoiadores denunciaram os ataques aos povos originários, cobraram o fim do marco temporal e defenderam a luta pela terra.",
           "link": "https://anovademocracia.com.br/200-pessoas-ato-rio-luta-indigena/",
           "publishedOn": "2026-11-06T20:28:09.000Z",
-          "wordCount": 7805,
+          "wordCount": 7807,
           "title": "RJ: Cerca de 200 pessoas realizam ato no Centro do Rio em defesa da luta indígena e pela demarcação de terras",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-06-172038.png"
         },
@@ -801,7 +836,7 @@
           "description": "Após a aprovação do fim da escala 6 por 1, grandes monopólios da indústria e do comércio acionam o STF para adiar a redução da jornada de trabalho. Flávio Dino convoca audiência de conciliação entre empresários, governo e centrais sindicais para discutir a aplicação da conquista dos trabalhadores.",
           "link": "https://anovademocracia.com.br/monopolios-stf-adiar-fim-escala-6-por-1/",
           "publishedOn": "2026-11-06T20:21:07.000Z",
-          "wordCount": 8101,
+          "wordCount": 8103,
           "title": "Grandes monopólios da indústria e do comércio recorrem ao STF para adiar fim da escala 6 por 1",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2024/11/Foto-2-1-scaled-1-1024x771.jpg"
         },
@@ -811,7 +846,7 @@
           "description": "Protestos alcançaram 34 cidades; jovens exigiram mais recursos para escolas, psicoterapia e tratamento da dependência química e rejeitaram o serviço militar obrigatório. Em Frankfurt, 54 pessoas foram detidas após confrontos.",
           "link": "https://anovademocracia.com.br/alemanha-carestia-policia-manifestacoes/",
           "publishedOn": "2026-11-06T20:14:26.000Z",
-          "wordCount": 7877,
+          "wordCount": 7879,
           "title": "Mais de 100 mil vão às ruas na Alemanha contra rearmamento e carestia; polícia reprime manifestações",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/feat_germany_11042026.webp"
         },
@@ -836,7 +871,7 @@
           "description": "Rogério Marinho pretende percorrer os estados para pressionar senadores da direita. Aliados calculam 38 votos para sua candidatura, enquanto Alcolumbre busca apoios no próprio PL mediante cargos, relatorias e anistia aos golpistas, com respaldo do governo de Luiz Inácio.",
           "link": "https://anovademocracia.com.br/extrema-direita-senado-anistia-golpistas/",
           "publishedOn": "2026-11-06T19:57:57.000Z",
-          "wordCount": 8566,
+          "wordCount": 8568,
           "title": "Extrema direita prepara ofensiva nacional pelo comando do Senado; governo negocia cargos e anistia aos golpistas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/ROGERIO-MARINHO-E-DAVI-ALCOLUMBRE-17-12-25-1024x683.jpg"
         },
@@ -846,7 +881,7 @@
           "description": "Documentos do Comando Sul ianque expõem cooperação com militares brasileiros especializados em operações psicológicas. Aproximação ganha relevância diante da ofensiva de militarização da segurança pública e da possibilidade de utilização do discurso do “narcoterrorismo” contra movimentos populares.",
           "link": "https://anovademocracia.com.br/eua-guerra-psicologica-brasil-exercito/",
           "publishedOn": "2026-11-06T19:53:09.000Z",
-          "wordCount": 8251,
+          "wordCount": 8253,
           "title": "EUA admite operações de guerra psicológica voltadas ao Brasil e intercâmbio com Exército reacionário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-eb-1024x683.jpg"
         },
@@ -856,7 +891,7 @@
           "description": "Convocado por organizações indígenas, pelo Coletivo Cultural Flecha e pela LAI, o ato de 1º de novembro reuniu estudantes, operários e ativistas no centro de São Paulo. Após conflitos pelo espaço de fala na Praça Roosevelt, parte dos manifestantes iniciou uma passeata até o MASP.",
           "link": "https://anovademocracia.com.br/manifestacao-genocidio-indigena-sao-paulo/",
           "publishedOn": "2026-11-06T19:45:00.000Z",
-          "wordCount": 7445,
+          "wordCount": 7447,
           "title": "Manifestação contra o genocídio indígena reúne centenas e toma as ruas de São Paulo",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Enquanto-partidarios-comemoram-em-um-show-micio-as-migalhas-que-a-social-democracia-nos-entrega.mp4",
@@ -871,7 +906,7 @@
           "description": "Três cães foram encontrados feridos na aldeia Ka’aguy Mirim Porã, em Araquari. A comunidade relata invasões, furtos e ameaças desde a destruição de parte da aldeia em 2022.",
           "link": "https://anovademocracia.com.br/entrevita-guarani-ataques-aldeia-araquari/",
           "publishedOn": "2026-11-06T19:38:45.000Z",
-          "wordCount": 8032,
+          "wordCount": 8034,
           "title": "SC: Indígenas Guarani denunciam ataques contra aldeia em Araquari; três cães da comunidade foram feridos",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/fotoMarilene-Escobar-incendio-Aldeia-Taruma02.jpg"
         },
@@ -881,19 +916,9 @@
           "description": "Mesmo sem energia elétrica, após o corte feito pela Energisa e a recusa judicial à religação, mais de 120 famílias levantam a sede da associação e uma igreja. Agora, se cotizam para perfurar um poço de 60 metros depois que a extração de água pela fábrica da Coca-Cola rebaixou o lençol freático da vizinhança.",
           "link": "https://anovademocracia.com.br/areia-branca-resiste-despejo-da-prefeitura/",
           "publishedOn": "2026-11-06T19:33:58.000Z",
-          "wordCount": 8602,
+          "wordCount": 8604,
           "title": "RO: Ocupação Areia Branca avança na construção popular e resiste às manobras de despejo da Prefeitura",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Assembleia-popular-foto-tirada-pelos-oculpantes.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236439",
-          "author": "Giovanna Maria",
-          "description": "Manifestação em 4 de novembro reuniu denúncias de ataques aos povos indígenas, cobrou demarcações e levou à Esplanada dos Ministérios a defesa da Revolução Agrária.",
-          "link": "https://anovademocracia.com.br/indigenas-marcham-em-brasilia-contra-o-latifundio-e-a-violencia-do-velho-estado/",
-          "publishedOn": "2026-11-06T14:29:14.000Z",
-          "wordCount": 7782,
-          "title": "Indígenas marcham em Brasília contra o latifúndio e a violência do velho Estado",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-10-1024x768.jpeg"
         }
       ]
     },
@@ -985,7 +1010,7 @@
           "description": "De ameaça de demissão ao terror psicológico, explodem as denúncias de assédio eleitoral no ambiente de trabalho após o 2º turno. Análise de dados dos dois últimos pleitos mostra como a coerção do voto cedeu lugar à retaliação bolsonarista\nThe post Retrato do rancor patronal após a vitória de Lula appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/retrato-do-rancor-patronal-apos-a-vitoria-de-lula/",
           "publishedOn": "2026-11-06T17:25:48.000Z",
-          "wordCount": 5692,
+          "wordCount": 5695,
           "title": "Retrato do rancor patronal após a vitória de Lula",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5147861141890469597-1.jpg"
         },
@@ -995,7 +1020,7 @@
           "description": "Breve história do surgimento do serviço militar obrigatório. Há tensões: se ele encarna ideais republicanos de vontade coletiva e soberania nacional, também é mecanismo de disciplina e submissão ao Estado. Este último paradigma, no entanto, prevaleceu\nThe post Como a modernidade forjou o cidadão-soldado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/como-a-modernidade-forjou-o-cidadao-soldado/",
           "publishedOn": "2026-11-06T17:18:38.000Z",
-          "wordCount": 8304,
+          "wordCount": 8307,
           "title": "Como a modernidade forjou o cidadão-soldado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5147861141890469587-1.jpg"
         },
@@ -1005,7 +1030,7 @@
           "description": "Novo grão na sementeira de propostas para Lula 4, cultivada pelo criador dos Pontos de Cultura. Diante das plataformas de streaming, que aviltam a remuneração e as condições de vida dos artistas, um conjunto de alternativas concretas – e sua fundamentação teórico-filosófica\nThe post Célio Turino: Uma nova política para o Direito Autoral appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/celio-turino-uma-nova-politica-para-o-direito-autoral/",
           "publishedOn": "2026-11-06T15:34:52.000Z",
-          "wordCount": 6329,
+          "wordCount": 6332,
           "title": "Célio Turino: Uma nova política para o Direito Autoral",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/bdf-20250721-185650-2e75bf.jpeg"
         },
@@ -1035,7 +1060,7 @@
           "description": "O caçador avistou uma escola. Bang! Encontrou um hospital. Bang! Bang! Percebeu uma obra de infraestrutura. Não hesitou. A árvore continuou crescendo. Preparava nova rajada quando ouviu uma gargalhada do alto. Na copa estava uma raposa, lustrosa e empanturrada. Chamava-se Juros\nThe post A raposa da responsabilidade fiscal appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-raposa-da-responsabilidade-fiscal/",
           "publishedOn": "2026-11-05T20:48:39.000Z",
-          "wordCount": 3812,
+          "wordCount": 3815,
           "title": "A raposa da responsabilidade fiscal",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5145908757131890285_x.jpg"
         },
@@ -1057,12 +1082,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160321",
+          "author": "FP",
+          "description": "– Ei! – Pois não?. – Eu ouvi falar que o Chico Buarque estaria nesse ato pró-Lula da Candelária. – Acho que ele só vai para o de Copacabana, não? – Ah… acho que vai ser o Caetano. Sabe o que é, é que eu sou mais fã do Chico. Por Passa Palavra",
+          "link": "https://passapalavra.info/2026/11/160321/",
+          "publishedOn": "2026-11-07T10:29:05.000Z",
+          "wordCount": 3839,
+          "title": "Nós, democratas (2)",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
+        },
+        {
           "id": "https://passapalavra.info/?p=160312",
           "author": "Passa Palavra",
           "description": "Por Charles Junior, Antonio Carlos e Pedro Seeger O Brasil parece que capotou umas trinta vezes, pelo amor de Santa Rosa de Luxemburgo. Realmente não temos motivos para ficar tristes depois da reeleição de Luiz Inácio Lula da Silva, conduzido pela 4ª vez à presidência do país. Mas, parafraseando Maiakovski [1], também não temos motivos […]",
           "link": "https://passapalavra.info/2026/11/160312/",
           "publishedOn": "2026-11-05T02:37:37.000Z",
-          "wordCount": 5696,
+          "wordCount": 5699,
           "title": "O dia depois de amanhã",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/texto2.1.png"
         },
@@ -1075,16 +1110,6 @@
           "wordCount": 4444,
           "title": "O Passa Palavra e os comentários",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/frost-activity-contemporary-art-installation-e1607823708990.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160293",
-          "author": "FP",
-          "description": "A paixão pelo Real que reinou na esquerda do século XX, cujo objetivo se resumia a revelar a Verdade por trás das relações sociais, converteu-se na paixão pela imagem. Por André Antunes",
-          "link": "https://passapalavra.info/2026/11/160293/",
-          "publishedOn": "2026-11-02T20:47:38.000Z",
-          "wordCount": 5046,
-          "title": "A metamorfose",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/111111.jpg"
         }
       ]
     },
@@ -1093,6 +1118,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=68176",
+          "author": "Boitempo",
+          "description": "Docente no câmpus de Marília, Henrique Tahan Novaes é educador e defende mudanças nos modelos de produção e consumo, além de uma maior integração da questão climática ao ensino, à extensão e à pesquisa nas instituições de ensino superior.",
+          "link": "https://blogdaboitempo.com.br/2026/11/07/o-papel-das-universidades-no-enfrentamento-das-mudancas-climaticas-henrique-tahan-novaes-vai-a-cop31/",
+          "publishedOn": "2026-11-07T11:54:58.000Z",
+          "wordCount": 6268,
+          "title": "O papel das universidades no enfrentamento das mudanças climáticas: Henrique Tahan Novaes vai à COP31",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/cop31-turquiacapa.jpg"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=68055",
           "author": "Boitempo",
