@@ -43,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6af0d09cab804e0314c1b4b4",
+          "author": "Roberto Aguiar",
+          "description": "A nova novela das seis da TV Globo, Lá na Minha Terra, estreia amanhã, dia 9 de novembro. E, pelos materiais de divulgação, parece que teremos mais uma história atravessada por um velho pacote de estereótipos sobre o Nordeste. Dessa vez,",
+          "link": "https://opiniaosocialista.com.br/novela-la-na-minha-terra-e-o-nordeste-que-a-tv-globo-insiste-em-nao-enxergar/",
+          "publishedOn": "2026-11-08T19:56:11.000Z",
+          "wordCount": 1448,
+          "title": "Novela 'Lá na Minha Terra' e o Nordeste que a TV Globo insiste em não enxergar",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/novela-globo.webp"
+        },
+        {
           "id": "6aef5329ab804e0314c1b488",
           "author": "Érika Andreassy",
           "description": "Os riscos da PEC da Segurança Pública para as liberdades democráticas e os movimentos sociais",
@@ -181,16 +191,6 @@
           "wordCount": 1874,
           "title": "Chapecó: tornado expõe desigualdade climática e quem paga pela destruição",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/tornado-santa-catarina.webp"
-        },
-        {
-          "id": "6aed06d0ab804e0314c1b290",
-          "author": "Roberto Aguiar",
-          "description": "A cultura é um direito, não uma mercadoria!",
-          "link": "https://opiniaosocialista.com.br/dia-nacional-da-cultura-pela-liberdade-da-arte-e-contra-sua-submissao-ao-capital/",
-          "publishedOn": "2026-11-05T23:16:25.000Z",
-          "wordCount": 1553,
-          "title": "Dia Nacional da Cultura: pela liberdade da arte e contra sua submissão ao capital!",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/cultura-baiana.webp"
         }
       ]
     },
@@ -428,26 +428,6 @@
           "wordCount": null,
           "title": "Secretário escolhido por Zucco deixou legado de assédio aos professores e alunos no PR",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/O-panorama-internacional-pos-eleicoes-no-Brasil",
-          "author": "André Barbieri",
-          "description": "Quais peças do xadrez internacional se moveram nestes dias pós-eleitorais no Brasil?\nMatérias\n\n/ Internacional, Donald Trump, Juventude trabalhadora, Flavio Bolsonaro, Governo Lula, Marco Rubio",
-          "link": "https://www.esquerdadiario.com.br/O-panorama-internacional-pos-eleicoes-no-Brasil",
-          "publishedOn": "2026-11-04T04:18:50.000Z",
-          "wordCount": null,
-          "title": "O panorama internacional pós-eleições no Brasil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Trump-sofre-pesada-derrota-politica-Democratas-assumem-controle-da-Camara-e-do-Senado",
-          "author": "Virgílio Grasso",
-          "description": "Com apuração avançada, as eleições de meio mandato nos Estados Unidos significaram uma enorme derrota política a Donald Trump. Os Democratas, beneficiando-se do repúdio popular contra a alta do custo de vida, a guerra no Irã e a perseguição aos imigrantes, vencem a Câmara dos Representantes e o Senado. Na Carolina do Sul, no Texas, em Ohio e no Kansas, os Democratas tomaram assentos no Senado das mãos dos Republicanos. \n03-11-2026\n\n/ Internacional, Estados Unidos, Eleições Estados Unidos, Donald Trump",
-          "link": "https://www.esquerdadiario.com.br/Trump-sofre-pesada-derrota-politica-Democratas-assumem-controle-da-Camara-e-do-Senado",
-          "publishedOn": "2026-11-04T04:14:12.000Z",
-          "wordCount": null,
-          "title": "Trump sofre pesada derrota política, Democratas assumem controle da Câmara e do Senado",
-          "imageUrl": null
         }
       ]
     },
@@ -571,6 +551,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=74909",
+          "author": "Middle East Monitor",
+          "description": "onald Trump entrou em guerra contra o Irã com o objetivo de demonstrar a invencibilidade do império americano. Oito meses depois, o Irã ajudou a infligir uma das derrotas estratégicas mais devastadoras da história do poder imperial americano. O campo de batalha foi no Irã; o terremoto político atingiu Washington. Trump queria uma mudança de […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/08/trump-buscou-uma-mudanca-de-regime-no-ira-o-ira-foi-quem-a-concretizou-em-washington/",
+          "publishedOn": "2026-11-08T18:10:15.000Z",
+          "wordCount": 3147,
+          "title": "Trump buscou uma mudança de regime no Irã; o Irã foi quem a concretizou em Washington",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/ira.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=74904",
           "author": "Globetrotter",
           "description": "Paraguai atravessa uma das crises políticas e financeiras mais graves de sua história recente. A intervenção no Ueno Bank por parte do Banco Central do Paraguai, após a detecção de graves irregularidades em suas operações e problemas de solvência, desencadeou uma crise que rapidamente deixou de ser apenas bancária. Hoje, ela tem consequências diretas sobre […]",
@@ -608,104 +598,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=271101",
+          "id": "https://operamundi.uol.com.br/?p=271143",
           "author": "Tatiana Carlotti",
-          "description": "O governo iraniano reafirmou seu direito de defender a soberania e a segurança nacional diante da escalada militar no Oriente Médio. O ministro das Relações Exteriores, Abbas Araghchi, informou neste sábado (07/11) ter realizado conversas telefônicas com chanceleres de 12 países nas 48 horas anteriores, para discutir acontecimentos regionais e internacionais e as ameaças dos […]\nO post Irã reivindica direito à autodefesa em diálogos com países da região apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-reivindica-direito-a-autodefesa-em-dialogos-com-paises-da-regiao/",
-          "publishedOn": "2026-11-08T13:00:29.000Z",
-          "wordCount": 4235,
-          "title": "Irã reivindica direito à autodefesa em diálogos com países da região",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/estreito-de-ormuz-mohammad-rasool-moradi-tasnim.png"
+          "description": "O ex-chefe do Estado-Maior de Israel, Gadi Eisenkot, foi oficialmente encarregado pelo presidente israelense Isaac Herzog de formar um novo governo neste domingo (08/11), durante uma cerimônia na Residência Presidencial, em Jerusalém. O líder do partido Yashar tem 28 dias para construir uma maioria parlamentar e, se conseguir, poderá se tornar o primeiro-ministro de Israel. […]\nO post Eisenkot busca apoio de aliados de Netanyahu para formar governo em Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/eisenkot-busca-apoio-de-aliados-de-netanyahu-para-formar-governo-em-israel/",
+          "publishedOn": "2026-11-08T19:45:47.000Z",
+          "wordCount": 4513,
+          "title": "Eisenkot busca apoio de aliados de Netanyahu para formar governo em Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwnpt1rxeaadidw.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271070",
+          "id": "https://operamundi.uol.com.br/?p=271135",
           "author": "Tatiana Carlotti",
-          "description": "O presidente de Israel, Isaac Herzog, anunciou neste sábado (07/11) sua decisão de encarregar Gadi Eisenkot, líder do partido Yashar e principal adversário do primeiro-ministro Benjamin Netanyahu, de formar um novo governo. A escolha ocorre após a coalizão dos partidos em torno de Netanyahu ter perdido a maioria de 61 assentos do Parlamento, obtendo apenas […]\nO post Em derrota de Netanyahu, presidente de Israel autoriza Gadi Eisenkot a formar novo governo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel/em-derrota-de-netanyahu-presidente-de-israel-autoriza-gadi-eisenkot-a-formar-novo-governo/",
-          "publishedOn": "2026-11-07T20:35:59.000Z",
-          "wordCount": 3698,
-          "title": "Em derrota de Netanyahu, presidente de Israel autoriza Gadi Eisenkot a formar novo governo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwjgayrxqaauc3e.jpg"
+          "description": "Um ataque com drones carregados de explosivos contra uma unidade militar em Santa Rosa del Sur, no departamento de Bolívar, no norte da Colômbia, deixou ao menos três militares mortos e dezesseis feridos neste sábado (07/11). A ofensiva atingiu as instalações do Cantão Militar de Santa Rosa del Sur, onde funciona o Batalhão de Infantaria […]\nO post Ataque contra unidade militar na Colômbia deixa ao menos três mortos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/ataque-contra-unidade-militar-na-colombia-deixa-ao-menos-tres-mortos/",
+          "publishedOn": "2026-11-08T19:20:05.000Z",
+          "wordCount": 3619,
+          "title": "Ataque contra unidade militar na Colômbia deixa ao menos três mortos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwdz6x6xoai4i-d.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271068",
+          "id": "https://operamundi.uol.com.br/?p=271110",
           "author": "Tatiana Carlotti",
-          "description": "O ex-presidente Santiago Peña compareceu à sede do Ministério Público na manhã deste sábado (07/11), mas optou por permanecer em silêncio durante seu depoimento. Ele foi formalmente acusado pelos supostos crimes de lesão de confiança e administração em benefício próprio no âmbito das investigações sobre o Ueno Bank. O MP do Paraguai solicitou a prisão […]\nO post Ministério Público do Paraguai pede prisão preventiva de Santiago Peña apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/ministerio-publico-do-paraguai-pede-prisao-preventiva-de-santiago-pena/",
-          "publishedOn": "2026-11-07T20:12:10.000Z",
-          "wordCount": 3695,
-          "title": "Ministério Público do Paraguai pede prisão preventiva de Santiago Peña",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/2-santiago-pena.jpg"
+          "description": "O aumento da presença de turistas israelenses em Itacaré, no litoral sul da Bahia, tem provocado conflitos com moradores e denúncias de violência. A tensão ganhou repercussão ante a tentativa de destruição de um mural pró-Palestina após uma intervenção artística, realizada em 30 de outubro, na parede externa de um casarão histórico da cidade. “Primeiro, […]\nO post Ativista pede ação federal contra agressões de turistas sionistas na Bahia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/ativista-pede-acao-federal-contra-agressoes-de-turistas-sionistas-na-bahia/",
+          "publishedOn": "2026-11-08T18:40:01.000Z",
+          "wordCount": 8164,
+          "title": "Ativista pede ação federal contra agressões de turistas sionistas na Bahia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-204343.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271063",
+          "id": "https://operamundi.uol.com.br/?p=271124",
           "author": "Tatiana Carlotti",
-          "description": "Um homem armado matou seis pessoas e deixou pelo menos 15 feridas neste sábado (07/11), ao abrir fogo contra pedestres na Praça do Mercado Principal (Rynek Główny), no centro histórico de Cracóvia, a segunda maior cidade da Polônia. Entre os feridos estão dois policiais, e pelo menos 12 pessoas encontram-se em estado grave, com risco […]\nO post Tiroteio deixa seis mortos e ao menos quinze feridos na Polônia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/tiroteio-deixa-seis-mortos-e-ao-menos-quinze-feridos-na-polonia/",
-          "publishedOn": "2026-11-07T18:51:44.000Z",
-          "wordCount": 3385,
-          "title": "Tiroteio deixa seis mortos e ao menos quinze feridos na Polônia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwienkaweaaelzg.jpg"
+          "description": "O senador democrata eleito pelo Texas, James Talarico, visitou neste sábado (07/11) o memorial dedicado ao imigrante mexicano Lorenzo Salgado Araujo, morto por disparos de um agente do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) em Houston. Durante a homenagem, Talarico prometeu lutar por justiça para a família do trabalhador. “Lorenzo Salgado viveu […]\nO post Talarico homenageia mexicano morto pelo ICE em Houston apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/talarico-homenageia-mexicano-morto-pelo-ice-em-houston/",
+          "publishedOn": "2026-11-08T18:00:28.000Z",
+          "wordCount": 3718,
+          "title": "Talarico homenageia mexicano morto pelo ICE em Houston",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-08-130418.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271060",
+          "id": "https://operamundi.uol.com.br/?p=271129",
           "author": "Tatiana Carlotti",
-          "description": "O presidente Luiz Inácio Lula da Silva recebeu uma mensagem do papa Leão XIV nesta sexta-feira (06/11) e renovou o convite para que o pontífice visite o Brasil. A manifestação ocorreu durante a primeira viagem do pontífice à América do Sul, com primeira parada no Uruguai, onde defendeu a paz, o diálogo e a união […]\nO post Papa Leão 14 envia votos de ‘paz e unidade’ ao Brasil e recebe convite de Lula apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/sociedade/papa-leao-14-envia-votos-de-paz-e-unidade-ao-brasil-e-recebe-convite-de-lula/",
-          "publishedOn": "2026-11-07T18:12:01.000Z",
-          "wordCount": 4216,
-          "title": "Papa Leão 14 envia votos de ‘paz e unidade’ ao Brasil e recebe convite de Lula",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cq5dam.thumbnail.cropped.1500.844.jpg"
+          "description": "Em meio a uma profunda crise política e institucional, Pedro Alliana tomou posse como o novo presidente da República do Paraguai após a destituição do agora ex-presidente Santiago Peña (2023-2026) por meio de um julgamento político no Senado. Em suas primeiras declarações oficiais como chefe de Estado, neste sábado  (07/11), Alliana reafirmou o compromisso de […]\nO post Alliana ratifica aliança com EUA após assumir Presidência do Paraguai apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/alliana-ratifica-alianca-com-eua-apos-assumir-presidencia-do-paraguai/",
+          "publishedOn": "2026-11-08T17:20:36.000Z",
+          "wordCount": 3540,
+          "title": "Alliana ratifica aliança com EUA após assumir Presidência do Paraguai",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwhxddswsaag3re.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271057",
+          "id": "https://operamundi.uol.com.br/?p=271123",
           "author": "Victor Farinelli",
-          "description": "O novo dia de protestos realizados neste sábado (07/11) em Paris reuniu, até o momento, menos participantes do que o esperado, mas demonstra que o movimento de contestação ao governo do presidente Emmanuel Macron continua ativo após seis semanas de manifestações, greves e atos de violência urbana. No início da tarde, cerca de 7 mil […]\nO post Protestos em Paris mantêm pressão sobre governo de Macron apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/protestos-em-paris-mantem-pressao-sobre-governo-de-macron/",
-          "publishedOn": "2026-11-07T17:40:45.000Z",
-          "wordCount": 4441,
-          "title": "Protestos em Paris mantêm pressão sobre governo de Macron",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/franca.jpg"
+          "description": "Eleita aos 21 anos para a Câmara Federal com 524.219 em Minas Gerais, Ana Elisa (PT) divulgou um vídeo nesta sexta-feira (06/11) em que expõe uma das várias ameaças de morte que tem recebido, o que lhe forçou a pedir uma escolta policial. O vídeo depoimento foi publicado após mentira divulgada pela influenciadora bolsonarista Natássia […]\nO post Ana Elisa expõe ameaça de morte após mentira propagada por bolsonarista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/ana-elisa-expoe-ameaca-de-morte-apos-mentira-propagada-por-bolsonarista/",
+          "publishedOn": "2026-11-08T16:40:33.000Z",
+          "wordCount": 4139,
+          "title": "Ana Elisa expõe ameaça de morte após mentira propagada por bolsonarista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ana-elisa.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271049",
+          "id": "https://operamundi.uol.com.br/?p=271114",
+          "author": "Tatiana Carlotti",
+          "description": "Tempestades acompanhadas de ventos intensos atingem a Faixa de Gaza desde a noite de sexta-feira (6/11) e já deixaram cerca de 70 mil tendas inundadas e dezenas de milhares de palestinos deslocados sem abrigo adequado. Segundo informações divulgadas neste domingo (08/11) pela Al Jazeera, com base em autoridades locais, a Defesa Civil de Gaza recebeu […]\nO post Chuvas inundam 70 mil tendas e deixam milhares de desabrigados em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/chuvas-inundam-70-mil-tendas-e-deixam-milhares-de-desabrigados-em-gaza/",
+          "publishedOn": "2026-11-08T16:00:41.000Z",
+          "wordCount": 3664,
+          "title": "Chuvas inundam 70 mil tendas e deixam milhares de desabrigados em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/forced_displacement_of_gaza_strip_residents_during_the_gaza-israel_war_23-25-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271108",
           "author": "Victor Farinelli",
-          "description": "O presidente reeleito Luiz Inácio Lula da Silva rechaçou nesta sexta-feira (06/11) a pressão do mercado por ajuste fiscal e apontamentos de que o governo não tem responsabilidade com as contas públicas. As declarações foram dadas durante reunião do Conselho Nacional de Política Energética, no Ministério de Minas e Energia. “Alguém pode falar que esse […]\nO post Lula rechaça pressão por ajuste e diz que não levará ‘povo pobre ao sacrifício’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-rechaca-pressao-por-ajuste-fiscal-e-diz-que-nao-vai-levar-o-povo-pobre-a-nenhum-sacrificio/",
-          "publishedOn": "2026-11-07T16:50:24.000Z",
-          "wordCount": 3584,
-          "title": "Lula rechaça pressão por ajuste e diz que não levará ‘povo pobre ao sacrifício’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/lula.jpg"
+          "description": "Pesquisa Quaest divulgada neste domingo (08/11) mostra que 94% dos brasileiros torcem para que o presidente reeleito Luiz Inácio Lula da Silva (PT) tenha sucesso em seu quarto mandato. O levantamento também revela que 62% dos entrevistados consideram errada a ida do senador Flávio Bolsonaro (PL) aos Estados Unidos, e 56% acreditam que ele deixou […]\nO post Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/fuga-de-flavio-bolsonaro-aos-eua-e-rejeitada-por-62-dos-brasileiros-diz-quaest/",
+          "publishedOn": "2026-11-08T15:00:04.000Z",
+          "wordCount": 4188,
+          "title": "Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1-flavio.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271050",
+          "id": "https://operamundi.uol.com.br/?p=270899",
           "author": "Tatiana Carlotti",
-          "description": "A Rússia lançou uma ofensiva de grande escala contra a Ucrânia na madrugada deste sábado (07/11), atingindo instalações de energia, infraestrutura de transporte e unidades industriais em Kiev e em regiões próximas. Os bombardeios provocaram interrupções no fornecimento de eletricidade e água. Segundo o presidente ucraniano, Volodymyr Zelensky, as forças russas empregaram 172 drones e […]\nO post Ataque russo atinge rede elétrica, ponte e instalações industriais na Ucrânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ataque-russo-atinge-rede-eletrica-ponte-e-instalacoes-industriais-na-ucrania/",
-          "publishedOn": "2026-11-07T16:00:13.000Z",
-          "wordCount": 3894,
-          "title": "Ataque russo atinge rede elétrica, ponte e instalações industriais na Ucrânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1492243.jpg"
+          "description": "A vitória de Luiz Inácio Lula da Silva sobre Flávio Bolsonaro nas eleições brasileiras atravessou fronteiras e movimenta a oposição argentina, com a criação do chamado “Exército do Peronismo”, inspirado na mobilização digital que contribuiu para a virada eleitoral brasileira. Nesta semana, o “general” do Exército de Lula, deputado federal André Janones (Rede-MG), reuniu-se com […]\nO post ‘Mobilização brasileira nas eleições deve ser replicada na Argentina’, afirma historiador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-entrevista/vitoria-de-lula-mostrou-que-e-possivel-derrotar-trump-na-america-latina-diz-historiador/",
+          "publishedOn": "2026-11-08T14:20:41.000Z",
+          "wordCount": 5564,
+          "title": "‘Mobilização brasileira nas eleições deve ser replicada na Argentina’, afirma historiador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1-exercito.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271046",
+          "id": "https://operamundi.uol.com.br/?p=271099",
           "author": "Tatiana Carlotti",
-          "description": "A coalizão conservadora que governa a Nova Zelândia conseguiu preservar uma maioria parlamentar mínima nas eleições legislativas deste sábado (7/11), mas ainda não assegurou sua permanência no poder. Com mais de 95% dos votos da apuração preliminar contabilizados, o bloco liderado pelo primeiro-ministro Christopher Luxon alcançou 67 das 130 cadeiras do Parlamento, apenas uma acima […]\nO post Direita mantém vantagem mínima nas eleições da Nova Zelândia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/direita-mantem-vantagem-minima-nas-eleicoes-da-nova-zelandia/",
-          "publishedOn": "2026-11-07T15:17:20.000Z",
-          "wordCount": 3879,
-          "title": "Direita mantém vantagem mínima nas eleições da Nova Zelândia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/luxus-x-.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271038",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente Luiz Inácio Lula da Silva parabenizou Pedro Alliana, que assumiu a Presidência do Paraguai nesta sexta-feira (06/11), após o impeachment de Santiago Peña pelo Congresso Nacional. Em mensagem publicada na rede social X, Lula manifestou o desejo de fortalecer as relações bilaterais e a integração regional, além de convidar o novo presidente paraguaio […]\nO post Lula envia mensagem de apoio a Pedro Alliana, novo presidente do Paraguai apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/lula-envia-mensagem-de-apoio-a-pedro-alliana-novo-presidente-do-paraguai/",
-          "publishedOn": "2026-11-07T14:27:26.000Z",
-          "wordCount": 4189,
-          "title": "Lula envia mensagem de apoio a Pedro Alliana, novo presidente do Paraguai",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwg7zx8xoaeh7hz.jpg"
+          "description": "Os Estados Unidos anunciaram no sábado (07/11) a ampliação do bloqueio econômico e militar contra o Irã, com a criação de uma força-tarefa destinada a restringir o transporte de armamentos, tecnologias e mercadorias sancionadas pelas fronteiras terrestres iranianas e pelo Mar Cáspio. Denominada Iron Gate, a nova força-tarefa foi anunciada pelo Comando Central dos Estados […]\nO post EUA ampliam bloqueio ao Irã e atacam embarcações no Golfo de Omã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-ampliam-bloqueio-ao-ira-e-atacam-embarcacoes-no-golfo-de-oma/",
+          "publishedOn": "2026-11-08T13:40:56.000Z",
+          "wordCount": 3617,
+          "title": "EUA ampliam bloqueio ao Irã e atacam embarcações no Golfo de Omã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/uscgc_aquidneck_in_strait_of_hormuz_201202-n-ie405-2219.jpg"
         }
       ]
     },
@@ -721,12 +711,32 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236593",
+          "author": "Giovanna Maria",
+          "description": "Cerca de 20 manifestantes participaram de panfletagem no centro da cidade e marcharam até a Câmara Municipal. Organizada em três dias, a mobilização reuniu movimentos indígenas, estudantis e populares em denúncia aos ataques recentes.",
+          "link": "https://anovademocracia.com.br/mg-movimento-acao-antifascista-de-juiz-de-fora-mobiliza-ato-contra-o-genocidio-dos-povos-indigenas/",
+          "publishedOn": "2026-11-08T16:47:15.000Z",
+          "wordCount": 7679,
+          "title": "MG: Movimento Ação Antifascista de Juiz de Fora mobiliza ato contra o genocídio dos povos indígenas",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-16-1024x768.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236589",
+          "author": "Redação de AND",
+          "description": "Mais de 20 famílias perderam móveis, camas e eletrodomésticos com a chuva de 17 de outubro. Moradores fecharam uma faixa da Avenida América Central para cobrar uma solução para os alagamentos que atingem o bairro há mais de duas décadas.",
+          "link": "https://anovademocracia.com.br/rj-apos-novos-alagamentos-moradores-do-guarani-bloqueiam-avenida-em-cabo-frio/",
+          "publishedOn": "2026-11-08T16:04:31.000Z",
+          "wordCount": 7499,
+          "title": "RJ: Após novos alagamentos, moradores do Guarani bloqueiam avenida em Cabo Frio",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-14.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236584",
           "author": "Redação de AND",
           "description": "Ataque na fronteira com a Colômbia deixou ao menos 19 mortos e contou, segundo fonte militar, com apoio da CIA e do FBI. Enquanto isso, governo interino avança na entrega de ativos estatais ao capital privado e se submete ao plano de transição política de Washington.",
           "link": "https://anovademocracia.com.br/delcy-rodriguez-eln-eua-imperialismo/",
           "publishedOn": "2026-11-07T13:16:13.000Z",
-          "wordCount": 8338,
+          "wordCount": 8333,
           "title": "Governo de Delcy Rodríguez bombardeia acampamento do ELN sob ordens do EUA e aprofunda submissão ao imperialismo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-13.png"
         },
@@ -736,7 +746,7 @@
           "description": "Manifestação saiu da Candelária em marcha até a Cinelândia. Lideranças indígenas e apoiadores denunciaram os ataques aos povos originários, cobraram o fim do marco temporal e defenderam a luta pela terra.",
           "link": "https://anovademocracia.com.br/200-pessoas-ato-rio-luta-indigena/",
           "publishedOn": "2026-11-06T20:28:09.000Z",
-          "wordCount": 7807,
+          "wordCount": 7802,
           "title": "RJ: Cerca de 200 pessoas realizam ato no Centro do Rio em defesa da luta indígena e pela demarcação de terras",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-06-172038.png"
         },
@@ -746,7 +756,7 @@
           "description": "Após a aprovação do fim da escala 6 por 1, grandes monopólios da indústria e do comércio acionam o STF para adiar a redução da jornada de trabalho. Flávio Dino convoca audiência de conciliação entre empresários, governo e centrais sindicais para discutir a aplicação da conquista dos trabalhadores.",
           "link": "https://anovademocracia.com.br/monopolios-stf-adiar-fim-escala-6-por-1/",
           "publishedOn": "2026-11-06T20:21:07.000Z",
-          "wordCount": 8103,
+          "wordCount": 8098,
           "title": "Grandes monopólios da indústria e do comércio recorrem ao STF para adiar fim da escala 6 por 1",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2024/11/Foto-2-1-scaled-1-1024x771.jpg"
         },
@@ -756,7 +766,7 @@
           "description": "Protestos alcançaram 34 cidades; jovens exigiram mais recursos para escolas, psicoterapia e tratamento da dependência química e rejeitaram o serviço militar obrigatório. Em Frankfurt, 54 pessoas foram detidas após confrontos.",
           "link": "https://anovademocracia.com.br/alemanha-carestia-policia-manifestacoes/",
           "publishedOn": "2026-11-06T20:14:26.000Z",
-          "wordCount": 7879,
+          "wordCount": 7874,
           "title": "Mais de 100 mil vão às ruas na Alemanha contra rearmamento e carestia; polícia reprime manifestações",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/feat_germany_11042026.webp"
         },
@@ -766,7 +776,7 @@
           "description": "Após nova operação policial que deixou 13 detidos e dezenas de feridos, manifestantes voltaram a instalar cerca de 100 tendas nas duas cidades. No Porto, policial à paisana chegou a sacar uma arma de fogo contra participantes da mobilização.",
           "link": "https://anovademocracia.com.br/acampadas-portugal-repressao-policial/",
           "publishedOn": "2026-11-06T20:06:22.000Z",
-          "wordCount": 8173,
+          "wordCount": 8168,
           "title": "Povo retoma acampadas por moradia em Portugal apesar de violenta repressão policial em Lisboa e Porto",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/A-manifestante-@sara.mago-gravou-o-momento-onde-um-policia-infiltrado-empunha-uma-arma-de-fogo-p.mp4",
@@ -781,7 +791,7 @@
           "description": "Rogério Marinho pretende percorrer os estados para pressionar senadores da direita. Aliados calculam 38 votos para sua candidatura, enquanto Alcolumbre busca apoios no próprio PL mediante cargos, relatorias e anistia aos golpistas, com respaldo do governo de Luiz Inácio.",
           "link": "https://anovademocracia.com.br/extrema-direita-senado-anistia-golpistas/",
           "publishedOn": "2026-11-06T19:57:57.000Z",
-          "wordCount": 8568,
+          "wordCount": 8563,
           "title": "Extrema direita prepara ofensiva nacional pelo comando do Senado; governo negocia cargos e anistia aos golpistas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/ROGERIO-MARINHO-E-DAVI-ALCOLUMBRE-17-12-25-1024x683.jpg"
         },
@@ -791,7 +801,7 @@
           "description": "Documentos do Comando Sul ianque expõem cooperação com militares brasileiros especializados em operações psicológicas. Aproximação ganha relevância diante da ofensiva de militarização da segurança pública e da possibilidade de utilização do discurso do “narcoterrorismo” contra movimentos populares.",
           "link": "https://anovademocracia.com.br/eua-guerra-psicologica-brasil-exercito/",
           "publishedOn": "2026-11-06T19:53:09.000Z",
-          "wordCount": 8253,
+          "wordCount": 8248,
           "title": "EUA admite operações de guerra psicológica voltadas ao Brasil e intercâmbio com Exército reacionário",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-eb-1024x683.jpg"
         },
@@ -801,7 +811,7 @@
           "description": "Convocado por organizações indígenas, pelo Coletivo Cultural Flecha e pela LAI, o ato de 1º de novembro reuniu estudantes, operários e ativistas no centro de São Paulo. Após conflitos pelo espaço de fala na Praça Roosevelt, parte dos manifestantes iniciou uma passeata até o MASP.",
           "link": "https://anovademocracia.com.br/manifestacao-genocidio-indigena-sao-paulo/",
           "publishedOn": "2026-11-06T19:45:00.000Z",
-          "wordCount": 7447,
+          "wordCount": 7442,
           "title": "Manifestação contra o genocídio indígena reúne centenas e toma as ruas de São Paulo",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Enquanto-partidarios-comemoram-em-um-show-micio-as-migalhas-que-a-social-democracia-nos-entrega.mp4",
@@ -809,26 +819,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-05-sp.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236485",
-          "author": "Giovanna Maria",
-          "description": "Três cães foram encontrados feridos na aldeia Ka’aguy Mirim Porã, em Araquari. A comunidade relata invasões, furtos e ameaças desde a destruição de parte da aldeia em 2022.",
-          "link": "https://anovademocracia.com.br/entrevita-guarani-ataques-aldeia-araquari/",
-          "publishedOn": "2026-11-06T19:38:45.000Z",
-          "wordCount": 8034,
-          "title": "SC: Indígenas Guarani denunciam ataques contra aldeia em Araquari; três cães da comunidade foram feridos",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/fotoMarilene-Escobar-incendio-Aldeia-Taruma02.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236489",
-          "author": "Giovanna Maria",
-          "description": "Mesmo sem energia elétrica, após o corte feito pela Energisa e a recusa judicial à religação, mais de 120 famílias levantam a sede da associação e uma igreja. Agora, se cotizam para perfurar um poço de 60 metros depois que a extração de água pela fábrica da Coca-Cola rebaixou o lençol freático da vizinhança.",
-          "link": "https://anovademocracia.com.br/areia-branca-resiste-despejo-da-prefeitura/",
-          "publishedOn": "2026-11-06T19:33:58.000Z",
-          "wordCount": 8604,
-          "title": "RO: Ocupação Areia Branca avança na construção popular e resiste às manobras de despejo da Prefeitura",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Assembleia-popular-foto-tirada-pelos-oculpantes.jpeg"
         }
       ]
     },
@@ -890,7 +880,7 @@
           "description": "Pensador marxista examina os múltiplos fatores da crise ecológica. A financeirização da natureza e os remendos tecnológicos. As novas faces do imperialismo na corrida da IA. E o proletariado ambiental, que provoca: futuro será de “ruína ou revolução”?\nThe post Bellamy Foster: O impossível capitalismo verde  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/bellamy-foster-o-impossivel-capitalismo-verde/",
           "publishedOn": "2026-11-06T20:56:36.000Z",
-          "wordCount": 8591,
+          "wordCount": 8588,
           "title": "Bellamy Foster: O impossível capitalismo verde",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Palestrante-ao-Microfone-em-Sala-Iluminada.png"
         },
@@ -900,7 +890,7 @@
           "description": "Poeta e líder martinicano falava da mão ferida estendida às outras contra o terror colonial. Assim foi a eleição: de um lado, a fraternidade de quem conhece o peso do trabalho e enfrenta o Norte global; do outro, apenas o deboche rasteiro de um playboy grã-fino\nThe post A mão de Lula e o humanismo de Césaire appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/a-mao-de-lula-e-o-humanismo-de-cesaire/",
           "publishedOn": "2026-11-06T19:57:12.000Z",
-          "wordCount": 3785,
+          "wordCount": 3782,
           "title": "A mão de Lula e o humanismo de Césaire",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5150112941704154248-1.jpg"
         },
@@ -940,7 +930,7 @@
           "description": "Breve história do surgimento do serviço militar obrigatório. Há tensões: se ele encarna ideais republicanos de vontade coletiva e soberania nacional, também é mecanismo de disciplina e submissão ao Estado. Este último paradigma, no entanto, prevaleceu\nThe post Como a modernidade forjou o cidadão-soldado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/como-a-modernidade-forjou-o-cidadao-soldado/",
           "publishedOn": "2026-11-06T17:18:38.000Z",
-          "wordCount": 8307,
+          "wordCount": 8304,
           "title": "Como a modernidade forjou o cidadão-soldado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5147861141890469587-1.jpg"
         },
@@ -970,7 +960,7 @@
           "description": "O caçador avistou uma escola. Bang! Encontrou um hospital. Bang! Bang! Percebeu uma obra de infraestrutura. Não hesitou. A árvore continuou crescendo. Preparava nova rajada quando ouviu uma gargalhada do alto. Na copa estava uma raposa, lustrosa e empanturrada. Chamava-se Juros\nThe post A raposa da responsabilidade fiscal appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-raposa-da-responsabilidade-fiscal/",
           "publishedOn": "2026-11-05T20:48:39.000Z",
-          "wordCount": 3815,
+          "wordCount": 3812,
           "title": "A raposa da responsabilidade fiscal",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5145908757131890285_x.jpg"
         },
@@ -1034,7 +1024,7 @@
           "description": "Em 6 de outubro de 2026, dois dias depois do primeiro turno das eleições, uma pergunta apareceu entre as mais pesquisadas pelos brasileiros no Google: “O que é antifeminista?”.",
           "link": "https://blogdaboitempo.com.br/2026/11/08/o-que-cabe-em-uma-palavra-antifeminismo-identidade-e-as-emocoes-que-atravessam-a-politica/",
           "publishedOn": "2026-11-08T11:00:00.000Z",
-          "wordCount": 6129,
+          "wordCount": 5961,
           "title": "O que cabe em uma palavra? Antifeminismo, identidade e as emoções que atravessam a política",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/raf3441-22.jpg?fit=1200%2C804&ssl=1"
         },
