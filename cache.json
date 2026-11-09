@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "p9EGVW",
+          "author": null,
+          "description": "Os 38 anos que marcam o acontecimento mais marcante da história recente de Volta Redonda nos relembram que outros novembros virão. A crise do capital, os aparelhos repressivos do Estado e as opressões sempre darão motivos às novas lutas operárias.",
+          "link": "https://jornalofuturo.com.br/artigo/p9EGVW-volta-redonda-38-anos-do-dia-que-ousamos-revidar",
+          "publishedOn": "2026-11-09T03:00:00.000Z",
+          "wordCount": 3759,
+          "title": "Volta Redonda: 38 anos do dia que ousamos revidar",
+          "imageUrl": "https://media.jornalofuturo.com.br/09_11-1000x662.png"
+        },
+        {
           "id": "h012p8",
           "author": null,
           "description": "Não podemos jamais ver a Revolução Russa como “mais uma revolução” no século XX. Ela é A revolução. Não há antes da Revolução Russa e depois da queda da URSS surgiu qualquer experiência verdadeiramente duradoura de poder proletário.",
@@ -418,16 +428,6 @@
           "wordCount": null,
           "title": "Mobilizações no Paraguai contra Peña pelo confisco de poupanças após o fechamento do principal banco digital do país",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Secretario-escolhido-por-Zucco-deixou-legado-de-assedio-aos-professores-e-alunos-no-PR",
-          "author": "Diego Nunes, Movimento Nossa Classe, Rio Grande do Sul",
-          "description": "Entre um dos nomes que Luciano Zucco (PL) já anunciou para o seu futuro governo no RS está o nome de Roni Miranda Vieira para a Secretaria da Educação, muito bem conhecido pelos professores do Paraná por implantar centenas de escolas cívico-militares e também por dizer que professor pode ir trabalhar doente para não por atestado. Esse será o secretário que Zucco vai colocar para destruir a educação e entregar para o setor privado. Precisamos organizar a resistência desde cada escola e cada (…)\n03-11-2026\n\n/ Educação, Militarização das escolas, Fascismo, Privatização da Educação",
-          "link": "https://www.esquerdadiario.com.br/Secretario-escolhido-por-Zucco-deixou-legado-de-assedio-aos-professores-e-alunos-no-PR",
-          "publishedOn": "2026-11-04T17:45:31.000Z",
-          "wordCount": null,
-          "title": "Secretário escolhido por Zucco deixou legado de assédio aos professores e alunos no PR",
-          "imageUrl": null
         }
       ]
     },
@@ -480,21 +480,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/11/35689295-high.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=445663",
-          "author": "Bianca Pyl",
-          "description": "Com Congresso dominado pela oposição a Trump, aliança de Eduardo e Flávio perde força para sabotar a democracia brasileira em Washington.\nO post Derrota eleitoral de Trump no Congresso enfraquece plano dos Bolsonaro nos EUA apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/11/04/derrota-trump-congresso-enfraquece-bolsonaro/",
-          "publishedOn": "2026-11-04T14:46:17.000Z",
-          "wordCount": null,
-          "title": "Derrota eleitoral de Trump no Congresso enfraquece plano dos Bolsonaro nos EUA",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/11/Headerwide-11.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/11/Headerwide-11.jpg"
         }
       ]
     },
@@ -579,16 +564,6 @@
           "wordCount": 4128,
           "title": "Começa a guerra pela sucessão de Trump",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/trump.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74885",
-          "author": "El Salto",
-          "description": "o domingo, 25 de outubro, Luiz Inácio Lula da Silva venceu o segundo turno das eleições presidenciais brasileiras com 51,8% dos votos. Seu adversário, Flávio Bolsonaro, obteve 48,2%. Flávio é filho do ex-presidente Jair Bolsonaro, condenado em 2025 a 27 anos de prisão por tentativa de golpe de Estado. No dia seguinte, os mercados financeiros […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/04/o-terceiro-turno-dos-mercados/",
-          "publishedOn": "2026-11-04T15:44:38.000Z",
-          "wordCount": 4183,
-          "title": "O terceiro turno dos mercados",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/lula-2.webp"
         }
       ]
     },
@@ -598,12 +573,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=271173",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, espera se reunir com seus homólogos chinês e russo, Xi Jinping e Vladimir Putin, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (APEC) em Shenzhen, na China, realizada na próxima semana. “Uma das reuniões, eu acho, será com o presidente Putin e o presidente Xi. E isso vai […]\nO post Trump sugere encontro com Xi e Putin na próxima semana para abordar fim da guerra no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-sugere-que-vai-conversar-com-xi-jinping-e-putin-sobre-fim-da-guerra-no-ira/",
+          "publishedOn": "2026-11-09T05:00:02.000Z",
+          "wordCount": 3503,
+          "title": "Trump sugere encontro com Xi e Putin na próxima semana para abordar fim da guerra no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55630671128_78205080d2_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271167",
+          "author": "Rocio Paik",
+          "description": "No Senegal, as buscas continuam neste domingo (08/11) por possíveis sobreviventes após o naufrágio de uma embarcação que transportava migrantes na região de Kébémer, na costa noroeste do país. Pelo menos 21 pessoas morreram, segundo as autoridades. Trata-se de mais uma tragédia na rota do Atlântico, utilizada por milhares de jovens que tentam chegar à […]\nO post Senegal: naufrágio de embarcação com migrantes deixa ao menos 21 mortos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/migracao/senegal-naufragio-de-embarcacao-com-migrantes-deixa-ao-menos-21-mortos/",
+          "publishedOn": "2026-11-09T04:00:44.000Z",
+          "wordCount": 3352,
+          "title": "Senegal: naufrágio de embarcação com migrantes deixa ao menos 21 mortos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/loading_a_boat_on_a_partially-submerged_plank_senegal_1967.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271170",
+          "author": "Rocio Paik",
+          "description": "Em visita à Argentina, no âmbito de sua agenda pela América Latina, o papa Leão 14 declarou neste domingo (08/11) que a “economia deve estar a serviço da pessoa, e não a pessoa a serviço da economia”. A primeira mensagem no território argentino se deu no Palácio Libertad, onde estavam presentes o presidente Javier Milei […]\nO post Diante de Milei e população, papa Leão 14 aborda crise na Argentina e defende preservação da democracia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/diante-de-milei-e-populacao-papa-leao-14-aborda-crise-na-argentina-e-defende-preservacao-da-democracia/",
+          "publishedOn": "2026-11-09T03:00:13.000Z",
+          "wordCount": 4251,
+          "title": "Diante de Milei e população, papa Leão 14 aborda crise na Argentina e defende preservação da democracia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cq5dam.thumbnail.cropped.1500.844-2.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271164",
+          "author": "Rocio Paik",
+          "description": "O papa Leão 14 pediu neste domingo (08/11) aos homens que tratem suas esposas com respeito, ao concluir a primeira etapa de sua viagem pela América Latina, uma região marcada pela violência de gênero. “Queridos pais e avôs […], tratem suas esposas com respeito, peçam perdão e vivam com integridade, mesmo quando isso exigir sacrifício”, […]\nO post Em região marcada por feminicídios, papa Leão 14 pede que homens respeitem esposas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/em-regiao-marcada-por-feminicidios-papa-leao-14-pede-que-homens-respeitem-esposas/",
+          "publishedOn": "2026-11-09T02:00:33.000Z",
+          "wordCount": 3524,
+          "title": "Em região marcada por feminicídios, papa Leão 14 pede que homens respeitem esposas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cq5dam.thumbnail.cropped.1500.844-1.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271161",
+          "author": "Rocio Paik",
+          "description": "Em primeiro pronunciamento à nação após reeleito, na noite de domingo (08/11), o presidente Luiz Inácio Lula da Silva (PT) reafirmou que o Brasil “não cabe no quintal de ninguém” e exaltou a mobilização popular na defesa da soberania do país. Na mensagem gravada, o mandatário reforçou críticas contra as big techs, tema que tem […]\nO post Em 1º pronunciamento à nação após reeleito, Lula reafirma que ‘Brasil não cabe no quintal de ninguém’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/em-1o-pronunciamento-a-nacao-apos-reeleito-lula-reafirma-que-brasil-nao-cabe-no-quintal-de-ninguem/",
+          "publishedOn": "2026-11-09T00:50:21.000Z",
+          "wordCount": 4029,
+          "title": "Em 1º pronunciamento à nação após reeleito, Lula reafirma que ‘Brasil não cabe no quintal de ninguém’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55637120589_17dbac61ca_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271158",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (08/11) que a nova força-tarefa Iron Gate está “em pleno vigor” no Irã. O mecanismo foi anunciado pelo Comando Central norte-americano (Centcom, na sigla em inglês) no dia anterior, visando a restringir o suposto transporte de armamentos, tecnologias e mercadorias sancionadas pelas fronteiras terrestres iranianas […]\nO post Trump diz que está ‘em pleno vigor’ nova operação que amplia bloqueio ao Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-esta-em-pleno-vigor-nova-operacao-que-amplia-bloqueio-ao-ira/",
+          "publishedOn": "2026-11-08T23:42:13.000Z",
+          "wordCount": 3719,
+          "title": "Trump diz que está ‘em pleno vigor’ nova operação que amplia bloqueio ao Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55635973732_d4938ec77a_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271144",
+          "author": "Victor Farinelli",
+          "description": "As forças sauditas anunciaram, neste domingo (08/11), a interceptação de dois mísseis balísticos disparados pelos rebeldes houthis contra a capital, Riad. O anúncio ocorreu pouco depois de as autoridades emitirem um alerta e de jornalistas da AFP relatarem explosões. Várias testemunhas indicaram que o distrito financeiro foi atingido e que um edifício da gigante petrolífera […]\nO post Houthis atacam coração financeiro da Arábia Saudita e elevam tensão na região apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/houthis-atacam-coracao-financeiro-da-arabia-saudita-e-elevam-tensao-na-regiao/",
+          "publishedOn": "2026-11-08T20:40:36.000Z",
+          "wordCount": 4049,
+          "title": "Houthis atacam coração financeiro da Arábia Saudita e elevam tensão na região",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/riad.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=271143",
           "author": "Tatiana Carlotti",
           "description": "O ex-chefe do Estado-Maior de Israel, Gadi Eisenkot, foi oficialmente encarregado pelo presidente israelense Isaac Herzog de formar um novo governo neste domingo (08/11), durante uma cerimônia na Residência Presidencial, em Jerusalém. O líder do partido Yashar tem 28 dias para construir uma maioria parlamentar e, se conseguir, poderá se tornar o primeiro-ministro de Israel. […]\nO post Eisenkot busca apoio de aliados de Netanyahu para formar governo em Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel/eisenkot-busca-apoio-de-aliados-de-netanyahu-para-formar-governo-em-israel/",
           "publishedOn": "2026-11-08T19:45:47.000Z",
-          "wordCount": 4513,
+          "wordCount": 4544,
           "title": "Eisenkot busca apoio de aliados de Netanyahu para formar governo em Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwnpt1rxeaadidw.jpg"
         },
@@ -613,89 +658,19 @@
           "description": "Um ataque com drones carregados de explosivos contra uma unidade militar em Santa Rosa del Sur, no departamento de Bolívar, no norte da Colômbia, deixou ao menos três militares mortos e dezesseis feridos neste sábado (07/11). A ofensiva atingiu as instalações do Cantão Militar de Santa Rosa del Sur, onde funciona o Batalhão de Infantaria […]\nO post Ataque contra unidade militar na Colômbia deixa ao menos três mortos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/ataque-contra-unidade-militar-na-colombia-deixa-ao-menos-tres-mortos/",
           "publishedOn": "2026-11-08T19:20:05.000Z",
-          "wordCount": 3619,
+          "wordCount": 3650,
           "title": "Ataque contra unidade militar na Colômbia deixa ao menos três mortos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwdz6x6xoai4i-d.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=271110",
           "author": "Tatiana Carlotti",
-          "description": "O aumento da presença de turistas israelenses em Itacaré, no litoral sul da Bahia, tem provocado conflitos com moradores e denúncias de violência. A tensão ganhou repercussão ante a tentativa de destruição de um mural pró-Palestina após uma intervenção artística, realizada em 30 de outubro, na parede externa de um casarão histórico da cidade. “Primeiro, […]\nO post Ativista pede ação federal contra agressões de turistas sionistas na Bahia apareceu primeiro em Opera Mundi.",
+          "description": "O aumento da presença de turistas israelenses em Itacaré, no litoral sul da Bahia, tem provocado conflitos com moradores e denúncias de violência. A tensão ganhou repercussão nas últimas semanas, após a tentativa de destruição de um mural pró-Palestina, construído durante uma intervenção artística na parede externa de um casarão histórico da cidade, no último […]\nO post Ativista pede ação federal contra agressões de turistas sionistas na Bahia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/ativista-pede-acao-federal-contra-agressoes-de-turistas-sionistas-na-bahia/",
           "publishedOn": "2026-11-08T18:40:01.000Z",
-          "wordCount": 8164,
+          "wordCount": 8195,
           "title": "Ativista pede ação federal contra agressões de turistas sionistas na Bahia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-204343.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271124",
-          "author": "Tatiana Carlotti",
-          "description": "O senador democrata eleito pelo Texas, James Talarico, visitou neste sábado (07/11) o memorial dedicado ao imigrante mexicano Lorenzo Salgado Araujo, morto por disparos de um agente do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) em Houston. Durante a homenagem, Talarico prometeu lutar por justiça para a família do trabalhador. “Lorenzo Salgado viveu […]\nO post Talarico homenageia mexicano morto pelo ICE em Houston apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/talarico-homenageia-mexicano-morto-pelo-ice-em-houston/",
-          "publishedOn": "2026-11-08T18:00:28.000Z",
-          "wordCount": 3718,
-          "title": "Talarico homenageia mexicano morto pelo ICE em Houston",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-08-130418.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271129",
-          "author": "Tatiana Carlotti",
-          "description": "Em meio a uma profunda crise política e institucional, Pedro Alliana tomou posse como o novo presidente da República do Paraguai após a destituição do agora ex-presidente Santiago Peña (2023-2026) por meio de um julgamento político no Senado. Em suas primeiras declarações oficiais como chefe de Estado, neste sábado  (07/11), Alliana reafirmou o compromisso de […]\nO post Alliana ratifica aliança com EUA após assumir Presidência do Paraguai apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/alliana-ratifica-alianca-com-eua-apos-assumir-presidencia-do-paraguai/",
-          "publishedOn": "2026-11-08T17:20:36.000Z",
-          "wordCount": 3540,
-          "title": "Alliana ratifica aliança com EUA após assumir Presidência do Paraguai",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwhxddswsaag3re.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271123",
-          "author": "Victor Farinelli",
-          "description": "Eleita aos 21 anos para a Câmara Federal com 524.219 em Minas Gerais, Ana Elisa (PT) divulgou um vídeo nesta sexta-feira (06/11) em que expõe uma das várias ameaças de morte que tem recebido, o que lhe forçou a pedir uma escolta policial. O vídeo depoimento foi publicado após mentira divulgada pela influenciadora bolsonarista Natássia […]\nO post Ana Elisa expõe ameaça de morte após mentira propagada por bolsonarista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/ana-elisa-expoe-ameaca-de-morte-apos-mentira-propagada-por-bolsonarista/",
-          "publishedOn": "2026-11-08T16:40:33.000Z",
-          "wordCount": 4139,
-          "title": "Ana Elisa expõe ameaça de morte após mentira propagada por bolsonarista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ana-elisa.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271114",
-          "author": "Tatiana Carlotti",
-          "description": "Tempestades acompanhadas de ventos intensos atingem a Faixa de Gaza desde a noite de sexta-feira (6/11) e já deixaram cerca de 70 mil tendas inundadas e dezenas de milhares de palestinos deslocados sem abrigo adequado. Segundo informações divulgadas neste domingo (08/11) pela Al Jazeera, com base em autoridades locais, a Defesa Civil de Gaza recebeu […]\nO post Chuvas inundam 70 mil tendas e deixam milhares de desabrigados em Gaza apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/chuvas-inundam-70-mil-tendas-e-deixam-milhares-de-desabrigados-em-gaza/",
-          "publishedOn": "2026-11-08T16:00:41.000Z",
-          "wordCount": 3664,
-          "title": "Chuvas inundam 70 mil tendas e deixam milhares de desabrigados em Gaza",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/forced_displacement_of_gaza_strip_residents_during_the_gaza-israel_war_23-25-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271108",
-          "author": "Victor Farinelli",
-          "description": "Pesquisa Quaest divulgada neste domingo (08/11) mostra que 94% dos brasileiros torcem para que o presidente reeleito Luiz Inácio Lula da Silva (PT) tenha sucesso em seu quarto mandato. O levantamento também revela que 62% dos entrevistados consideram errada a ida do senador Flávio Bolsonaro (PL) aos Estados Unidos, e 56% acreditam que ele deixou […]\nO post Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/fuga-de-flavio-bolsonaro-aos-eua-e-rejeitada-por-62-dos-brasileiros-diz-quaest/",
-          "publishedOn": "2026-11-08T15:00:04.000Z",
-          "wordCount": 4188,
-          "title": "Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1-flavio.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=270899",
-          "author": "Tatiana Carlotti",
-          "description": "A vitória de Luiz Inácio Lula da Silva sobre Flávio Bolsonaro nas eleições brasileiras atravessou fronteiras e movimenta a oposição argentina, com a criação do chamado “Exército do Peronismo”, inspirado na mobilização digital que contribuiu para a virada eleitoral brasileira. Nesta semana, o “general” do Exército de Lula, deputado federal André Janones (Rede-MG), reuniu-se com […]\nO post ‘Mobilização brasileira nas eleições deve ser replicada na Argentina’, afirma historiador apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opera-entrevista/vitoria-de-lula-mostrou-que-e-possivel-derrotar-trump-na-america-latina-diz-historiador/",
-          "publishedOn": "2026-11-08T14:20:41.000Z",
-          "wordCount": 5564,
-          "title": "‘Mobilização brasileira nas eleições deve ser replicada na Argentina’, afirma historiador",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1-exercito.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271099",
-          "author": "Tatiana Carlotti",
-          "description": "Os Estados Unidos anunciaram no sábado (07/11) a ampliação do bloqueio econômico e militar contra o Irã, com a criação de uma força-tarefa destinada a restringir o transporte de armamentos, tecnologias e mercadorias sancionadas pelas fronteiras terrestres iranianas e pelo Mar Cáspio. Denominada Iron Gate, a nova força-tarefa foi anunciada pelo Comando Central dos Estados […]\nO post EUA ampliam bloqueio ao Irã e atacam embarcações no Golfo de Omã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-ampliam-bloqueio-ao-ira-e-atacam-embarcacoes-no-golfo-de-oma/",
-          "publishedOn": "2026-11-08T13:40:56.000Z",
-          "wordCount": 3617,
-          "title": "EUA ampliam bloqueio ao Irã e atacam embarcações no Golfo de Omã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/uscgc_aquidneck_in_strait_of_hormuz_201202-n-ie405-2219.jpg"
         }
       ]
     },
@@ -828,12 +803,32 @@
       "siteUrl": "https://opoderpopular.com.br/",
       "articles": [
         {
+          "id": "6af123347f8ed50598a080c4",
+          "author": "O Poder Popular",
+          "description": "Mariana Rosetti para a Ponte Jornalismo\nProposta aprovada pelo Senado permite a criação de polícias municipais e prevê maior integração entre as forças de segurança. Especialistas ouvidos pela Ponte apontam limites no controle externo das corporaç",
+          "link": "https://opoderpopular.com.br/pec-da-seguranca-publica/",
+          "publishedOn": "2026-11-09T01:38:16.000Z",
+          "wordCount": 2167,
+          "title": "PEC da Segurança Pública amplia poder das polícias e deixa lacunas na fiscalização",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/letalidade-policial-brasil-2025-1-852x500-1.jpg"
+        },
+        {
+          "id": "6af11b6b7f8ed50598a0776c",
+          "author": "O Poder Popular",
+          "description": "Portal Abril Abril\nCentenas de fábricas do setor vestuário foram fechadas nos últimos dias, no meio de uma greve em que os trabalhadores exigem aumentos substanciais e protestam contra salários de fome.\n\nDezenas de milhares de operários do setor vestuá",
+          "link": "https://opoderpopular.com.br/greve-do-vestuario-bangladesh/",
+          "publishedOn": "2026-11-09T01:32:24.000Z",
+          "wordCount": 2509,
+          "title": "Trabalhadores na indústria do vestuário em Bangladesh lutam por melhores salários",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/trabalhadores-bangladesh-protesto.jpeg.jpg"
+        },
+        {
           "id": "6aed37ef7f8ed50598a069c0",
           "author": "O Poder Popular",
           "description": "Fábio PY para a Carta Capital - É doutor em teologia pela PUC-RIO e professor do Programa de Pós-Graduação em Políticas Sociais da UENF.\nA passagem do senador pela Celeiro Flórida evidencia a articulação entre empreendedorismo",
           "link": "https://opoderpopular.com.br/flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo-leia-mais-em-https-www-cartacapital-com-br-artigo-flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo-shem-dsdf-sharefo/",
           "publishedOn": "2026-11-06T02:30:17.000Z",
-          "wordCount": 1896,
+          "wordCount": 1893,
           "title": "Flávio Bolsonaro e a internacionalização do cristofascismo",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/SaveClip.App_869161201_17895595386682849_2831290287693159516_n-1024x701.webp"
         },
@@ -843,29 +838,9 @@
           "description": "Por Afonso Bezerra – Brasil de Fato - ICL Notícias\nAtivistas denunciam racismo e condutas de supremacia por parte de turistas israelenses em destino turístico baiano\n\nTuristas israelenses tentaram vandalizar, na sexta-feira (30), um mural construído coletivamente por moradores de Itacaré, no sul",
           "link": "https://opoderpopular.com.br/turistas-israelenses-tentam-destruir-mural-pro-palestina-em-itacare-ba/",
           "publishedOn": "2026-11-06T02:12:15.000Z",
-          "wordCount": 1897,
+          "wordCount": 1894,
           "title": "Turistas israelenses tentam destruir mural pró-Palestina em Itacaré (BA)",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/whatsapp-image-2026-11-02-at-142449-59d0d6dc-960x540.webp"
-        },
-        {
-          "id": "6aeb494a7f8ed50598a04f49",
-          "author": "O Poder Popular",
-          "description": "Por Cleusa Santos - Militante do PCB em Santos e candidata a vice-presidência pelo PCB em 2026\nEntre a mobilização eleitoral e as respostas à violência, trabalhadores constroem experiências que podem abrir caminhos para novas articulações polí",
-          "link": "https://opoderpopular.com.br/das-redes-as-ruas/",
-          "publishedOn": "2026-11-04T15:13:36.000Z",
-          "wordCount": 5920,
-          "title": "Das redes às ruas: Solidariedade e organização depois das eleições",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/298799902_486408576824035_6675726856310978443_n.jpg"
-        },
-        {
-          "id": "6aeb48417f8ed50598a04cf3",
-          "author": "O Poder Popular",
-          "description": "Por André Lima e Guilherme Corona (Militantes da UJC na Bahia)\nPara todos aqueles atentos à luta de classes no mundo, os últimos anos se marcaram por um avanço assustador da extrema-direita, com destaque para organizações fascistas. Donald Trump, Javier Milei e Antonio",
-          "link": "https://opoderpopular.com.br/governar-com-o-povo-ou-nao-governar/",
-          "publishedOn": "2026-11-04T15:02:30.000Z",
-          "wordCount": 3177,
-          "title": "Governar com o povo ou não governar: A democracia possui valor universal?",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/5129849058368359623.jpg"
         }
       ]
     },
@@ -880,7 +855,7 @@
           "description": "Pensador marxista examina os múltiplos fatores da crise ecológica. A financeirização da natureza e os remendos tecnológicos. As novas faces do imperialismo na corrida da IA. E o proletariado ambiental, que provoca: futuro será de “ruína ou revolução”?\nThe post Bellamy Foster: O impossível capitalismo verde  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-civilizatoria/bellamy-foster-o-impossivel-capitalismo-verde/",
           "publishedOn": "2026-11-06T20:56:36.000Z",
-          "wordCount": 8588,
+          "wordCount": 8591,
           "title": "Bellamy Foster: O impossível capitalismo verde",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Palestrante-ao-Microfone-em-Sala-Iluminada.png"
         },
@@ -930,7 +905,7 @@
           "description": "Breve história do surgimento do serviço militar obrigatório. Há tensões: se ele encarna ideais republicanos de vontade coletiva e soberania nacional, também é mecanismo de disciplina e submissão ao Estado. Este último paradigma, no entanto, prevaleceu\nThe post Como a modernidade forjou o cidadão-soldado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/historia-e-memoria/como-a-modernidade-forjou-o-cidadao-soldado/",
           "publishedOn": "2026-11-06T17:18:38.000Z",
-          "wordCount": 8304,
+          "wordCount": 8307,
           "title": "Como a modernidade forjou o cidadão-soldado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5147861141890469587-1.jpg"
         },
@@ -940,7 +915,7 @@
           "description": "Novo grão na sementeira de propostas para Lula 4, cultivada pelo criador dos Pontos de Cultura. Diante das plataformas de streaming, que aviltam a remuneração e as condições de vida dos artistas, um conjunto de alternativas concretas – e sua fundamentação teórico-filosófica\nThe post Célio Turino: Uma nova política para o Direito Autoral appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/celio-turino-uma-nova-politica-para-o-direito-autoral/",
           "publishedOn": "2026-11-06T15:34:52.000Z",
-          "wordCount": 6332,
+          "wordCount": 6329,
           "title": "Célio Turino: Uma nova política para o Direito Autoral",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/bdf-20250721-185650-2e75bf.jpeg"
         },
@@ -950,7 +925,7 @@
           "description": "Aliado a Trump, Milei e os Bolsonaro, presidente renuncia. Crise bancária expõe “porta giratória” entre financismo e governo. Em xeque, acordo militar com EUA e uso de Itaipu pelas big techs. Partido Colorado ainda dá as cartas e blinda o vice\nThe post Paraguai: colapso num “paraíso” da ultradireita appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/paraguai-colapso-num-paraiso-da-ultradireita/",
           "publishedOn": "2026-11-05T22:20:05.000Z",
-          "wordCount": 5171,
+          "wordCount": 5168,
           "title": "Paraguai: colapso num “paraíso” da ultradireita",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo3.jpg"
         },
@@ -960,7 +935,7 @@
           "description": "O caçador avistou uma escola. Bang! Encontrou um hospital. Bang! Bang! Percebeu uma obra de infraestrutura. Não hesitou. A árvore continuou crescendo. Preparava nova rajada quando ouviu uma gargalhada do alto. Na copa estava uma raposa, lustrosa e empanturrada. Chamava-se Juros\nThe post A raposa da responsabilidade fiscal appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-raposa-da-responsabilidade-fiscal/",
           "publishedOn": "2026-11-05T20:48:39.000Z",
-          "wordCount": 3812,
+          "wordCount": 3815,
           "title": "A raposa da responsabilidade fiscal",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5145908757131890285_x.jpg"
         },
@@ -1024,7 +999,7 @@
           "description": "Em 6 de outubro de 2026, dois dias depois do primeiro turno das eleições, uma pergunta apareceu entre as mais pesquisadas pelos brasileiros no Google: “O que é antifeminista?”.",
           "link": "https://blogdaboitempo.com.br/2026/11/08/o-que-cabe-em-uma-palavra-antifeminismo-identidade-e-as-emocoes-que-atravessam-a-politica/",
           "publishedOn": "2026-11-08T11:00:00.000Z",
-          "wordCount": 5961,
+          "wordCount": 6129,
           "title": "O que cabe em uma palavra? Antifeminismo, identidade e as emoções que atravessam a política",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/raf3441-22.jpg?fit=1200%2C804&ssl=1"
         },
@@ -1034,7 +1009,7 @@
           "description": "Docente no câmpus de Marília, Henrique Tahan Novaes é educador e defende mudanças nos modelos de produção e consumo, além de uma maior integração da questão climática ao ensino, à extensão e à pesquisa nas instituições de ensino superior.",
           "link": "https://blogdaboitempo.com.br/2026/11/07/o-papel-das-universidades-no-enfrentamento-das-mudancas-climaticas-henrique-tahan-novaes-vai-a-cop31/",
           "publishedOn": "2026-11-07T11:54:58.000Z",
-          "wordCount": 6268,
+          "wordCount": 6437,
           "title": "O papel das universidades no enfrentamento das mudanças climáticas: Henrique Tahan Novaes vai à COP31",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/cop31-turquiacapa.jpg"
         },
@@ -1047,16 +1022,6 @@
           "wordCount": 5594,
           "title": "A revolta não precisa pedir licença a Žižek",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/journee_de_mobilisation_des_lyceens_a_perpignan_31.jpg?fit=1200%2C676&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=68039",
-          "author": "Boitempo",
-          "description": "Da plataformização à sensibilidade evangélica, da luta de classes esquecida à disputa China-EUA, cinco lições sobre por que o alívio da vitória não deve ser confundido com a reversão do bolsonarismo.",
-          "link": "https://blogdaboitempo.com.br/2026/11/04/cinco-licoes-sobre-a-quase-derrota/",
-          "publishedOn": "2026-11-04T11:00:00.000Z",
-          "wordCount": 9528,
-          "title": "CINCO LIÇÕES SOBRE A QUASE DERROTA",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/int0979.jpg.webp"
         }
       ]
     }
