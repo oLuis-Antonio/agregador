@@ -24,16 +24,6 @@
           "wordCount": 2825,
           "title": "O Futuro que a Revolução de Outubro criou",
           "imageUrl": "https://media.jornalofuturo.com.br/07_11-658x883.png"
-        },
-        {
-          "id": "jm2aHm",
-          "author": null,
-          "description": "Pressão nas ruas e decisão no TST: as greves da Caixa e dos Correios arrancaram reajustes e evitaram o desconto dos dias parados, mas a reivindicação central sobre os planos de saúde ficou sem resposta. Restam duas lições: o que a mobilização conquistou e o que a judicialização barrou",
-          "link": "https://jornalofuturo.com.br/artigo/jm2aHm-duas-greves-dois-desfechos-judiciais-o-que-a-caixa-e-os-correios-deixam-como-balanco",
-          "publishedOn": "2026-11-06T03:00:00.000Z",
-          "wordCount": 2735,
-          "title": "Duas greves, dois desfechos judiciais: o que a Caixa e os Correios deixam como balanço",
-          "imageUrl": "https://media.jornalofuturo.com.br/06_11-1280x516.png"
         }
       ]
     },
@@ -42,6 +32,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6af31408ab804e0314c1b583",
+          "author": "PSTU-BA",
+          "description": "Marisqueiras, pescadores e comerciantes, muitos deles mulheres negras e mães de família, enfrentam meses sem renda enquanto aguardam reparação",
+          "link": "https://opiniaosocialista.com.br/bahia-empresas-contaminam-a-praia-e-trabalhadores-ficam-sem-sustento-em-salvador/",
+          "publishedOn": "2026-11-10T13:05:45.000Z",
+          "wordCount": 1425,
+          "title": "Bahia: Empresas contaminam a praia, e trabalhadores ficam sem sustento em Salvador",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/praia-sao-tome-de-paripe.png"
+        },
         {
           "id": "6af25e6aab804e0314c1b540",
           "author": "Érika Andreassy",
@@ -168,7 +168,7 @@
           "description": "Desde 17 de outubro, milhares de jovens estão mobilizados em Portugal contra o alto custo dos aluguéis, o déficit habitacional e a carestia. Inspirados pelo movimento que começou na Espanha, jovens e trabalhadores organizaram um acampamento na cidade do Porto e na",
           "link": "https://opiniaosocialista.com.br/portugal-a-acampada-tem-feito-o-governo-tremer/",
           "publishedOn": "2026-11-06T18:11:52.000Z",
-          "wordCount": 1298,
+          "wordCount": 1300,
           "title": "Portugal: “A acampada tem feito o governo tremer”",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/acampada-portugal-_os.webp"
         },
@@ -181,16 +181,6 @@
           "wordCount": 1288,
           "title": "Povos indígenas sob ataque: Lula precisa agir para proteger os territórios e seus povos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/atl-2-1080x675.webp"
-        },
-        {
-          "id": "6aee14a5ab804e0314c1b337",
-          "author": "Roberto Aguiar",
-          "description": "Aliliane Souza Santos, conhecida como Lily do Acarajé, é uma empreendedora baiana que vive em Francisco Beltrão, no Paraná. Natural de Ilhéus, ela construiu seu negócio vendendo acarajé e outros pratos da culinária baiana. Mas na segunda-feira (26), um",
-          "link": "https://opiniaosocialista.com.br/perseguicao-politica-extrema-direita-promove-demissoes-e-boicotes-contra-quem-votou-no-13/",
-          "publishedOn": "2026-11-06T17:58:47.000Z",
-          "wordCount": 1255,
-          "title": "Perseguição política: extrema direita promove demissões e boicotes contra quem votou no 13",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/nikolas-ferreira.webp"
         }
       ]
     },
@@ -199,6 +189,56 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Trabalhadores-das-CIPA-s-exigem-que-o-Metro-adeque-imediatamente-a-escala-dos-terceirizados-com-o",
+          "author": "Tamiris Carvalho, compõe a CIPA Linha 2 Verde do Metrô-SP",
+          "description": "O fim da escala 6x1 precisa se traduzir em mudanças concretas e imediatas na vida dos trabalhadores terceirizados do Metrô! É inaceitável que esses trabalhadores continuem submetidos à escala 6x1 e 5x1, com apenas uma folga, enquanto se discutem prazos para a redução da jornada.\n10-11-2026\n\n/ Classe trabalhadora, Metrô, Terceirização, Metrô de São Paulo",
+          "link": "https://www.esquerdadiario.com.br/Trabalhadores-das-CIPA-s-exigem-que-o-Metro-adeque-imediatamente-a-escala-dos-terceirizados-com-o",
+          "publishedOn": "2026-11-10T19:15:30.000Z",
+          "wordCount": null,
+          "title": "Trabalhadores das CIPA's exigem que o Metrô adeque imediatamente a escala dos terceirizados com o fim da 6x1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Incendios-no-Para-lembram-acao-bolsonarista-de-2019",
+          "author": "Jean Ilg",
+          "description": "Brasil precisa de um plano de reforma agrária radical, com distribuição do solo, demarcação das terras indígenas, estatização com controle popular do agro para produção de alimentos e não para a destruição do meio ambiente.\n10-11-2026\n\n/ Meio Ambiente, Sociedade, Crime Ambiental",
+          "link": "https://www.esquerdadiario.com.br/Incendios-no-Para-lembram-acao-bolsonarista-de-2019",
+          "publishedOn": "2026-11-10T14:55:40.000Z",
+          "wordCount": null,
+          "title": "Incêndios no Pará lembram ação bolsonarista de 2019",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Eisenkot-e-escolhido-para-formar-governo-da-ocupacao-genocida-no-lugar-de-Netanyahu",
+          "author": "Mirta Pacheco",
+          "description": "O cenário político em Israel deu um passo decisivo após o presidente Isaac Herzog encubir oficialmente Gadi Eisenkot, líder do partido Yashar e ex chefe do Estado Maior, para a tarefa de formar um novo Governo.\n10-11-2026\n\n/ Internacional, Benjamin Netanyahu, Israel, #FreePalestine, Sionismo",
+          "link": "https://www.esquerdadiario.com.br/Eisenkot-e-escolhido-para-formar-governo-da-ocupacao-genocida-no-lugar-de-Netanyahu",
+          "publishedOn": "2026-11-10T14:14:03.000Z",
+          "wordCount": null,
+          "title": "Eisenkot é escolhido para formar governo da ocupação genocida no lugar de Netanyahu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/A-Geracao-Z-sacode-a-Europa-retrato-de-uma-geracao-que-se-lanca-ao-assalto-dos-ceus",
+          "author": "Enzo Tresso, Julien Anchaing",
+          "description": "Retrato de uma geração em meio ao caos mundial, em um momento em que demonstra sua vitalidade e audácia ao enfrentar um capitalismo cada vez mais em decomposição. Este artigo foi publicado originalmente em francês em 25/10/2026 na Armes de la Critique, parte da rede internacional La Izquierda Diario na França.\n10-11-2026\n\n/ Internacional, França, Rebelião na França, Geração Z",
+          "link": "https://www.esquerdadiario.com.br/A-Geracao-Z-sacode-a-Europa-retrato-de-uma-geracao-que-se-lanca-ao-assalto-dos-ceus",
+          "publishedOn": "2026-11-10T13:27:33.000Z",
+          "wordCount": null,
+          "title": "A Geração Z sacode a Europa: retrato de uma geração que se lança ao assalto dos céus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/O-governo-frances-ofereceu-um-aumento-salarial-miseravel-e-uma-nova-jornada-de-luta-esta-sendo",
+          "author": "Redação Internacional",
+          "description": "Após a manifestação multitudinária de 5 de novembro, o governo francês convocou uma mesa de \"diálogo social\" para tentar apaziguar a revolta expressa nas ruas. A proposta do governo foi um aumento miserável de 5 euros. Alguns sindicatos convocaram uma nova jornada de ação para 17 de novembro. Como apontam nossos companheiros e companheiras da Révolution Permanente, é urgente e necessário elaborar um plano para uma greve geral que permita conquistar todas as reivindicações.\n10-11-2026\n\n/ Internacional, França, Révolution Permanente, Rebelião na França",
+          "link": "https://www.esquerdadiario.com.br/O-governo-frances-ofereceu-um-aumento-salarial-miseravel-e-uma-nova-jornada-de-luta-esta-sendo",
+          "publishedOn": "2026-11-10T13:16:55.000Z",
+          "wordCount": null,
+          "title": "O governo francês ofereceu um aumento salarial miserável, e uma nova jornada de luta está sendo preparada para 17 de novembro",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Eleicoes-para-a-Reitoria-da-UFRN-interesses-em-jogo-e-uma-saida-por-uma-UFRN-a-servico-da-populacao",
           "author": "Faísca - UFRN",
@@ -377,6 +417,36 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=445708",
+          "author": "Deborah Leão",
+          "description": "Enquanto Brasil ainda fala em atrair data centers, nos EUA o recado das urnas foi claro: não é isso que o povo quer.\nO post Eleitores dos EUA mostraram que não querem mais data centers apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/11/10/eleitores-eua-data-centers-trump-musk/",
+          "publishedOn": "2026-11-10T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Eleitores dos EUA mostraram que não querem mais data centers",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/11/Header-Data-Centers-Eleicoes-EUA-Trump.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/11/Header-Data-Centers-Eleicoes-EUA-Trump.png"
+        },
+        {
+          "id": "https://www.intercept.com.br/?p=445703",
+          "author": "Bianca Pyl",
+          "description": "Enquanto o perdão fiscal aos microempreendedores gera alarme de \"gastança\", renúncias e Refis bilionários aos grandes devedores passam despercebidos.\nO post Perdoar a dívida do MEI não quebra os cofres públicos apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/11/10/perdoar-divida-mei-nao-quebra-cofres-publicos/",
+          "publishedOn": "2026-11-10T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Perdoar a dívida do MEI não quebra os cofres públicos",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/11/Headerwide-12.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/11/Headerwide-12.jpg"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=445690",
           "author": "Bianca Pyl",
           "description": "Visto como modelo pela extrema direita, país vizinho colapsa após rombo em banco digital derrubar o presidente Santiago Peña.\nO post Crise do Ueno Bank no Paraguai desmonta farsa do paraíso liberal bolsonarista apareceu primeiro em Intercept Brasil.",
@@ -414,12 +484,32 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=164701",
+          "author": "Catarina Duarte",
+          "description": "O desafio é ampliar a capacidade do Estado de combater o crime sem reproduzir práticas autoritárias no uso da força policial\nO conteúdo Artigo | Lula 4: o que esperar da segurança pública após a PEC? Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/lula-4-pec-da-seguranca-publica/",
+          "publishedOn": "2026-11-10T19:39:50.000Z",
+          "wordCount": 7350,
+          "title": "Artigo | Lula 4: o que esperar da segurança pública após a PEC?",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/lula-entrega-pec-seguranca-publica-congresso.jpg.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=164564",
+          "author": "Paulo Batistella",
+          "description": "Número de mortes decorrentes de intervenção policial caiu 26% em setembro em relação ao mesmo mês de 2025. Casos de MDIP representaram, neste ano, 22% de todas as mortes violentas intencionais no estado, o pior índice da série histórica\nO conteúdo Letalidade policial reduz, mas ainda responde por uma em cada cinco mortes violentas em SP Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/letalidade-policial-reduz-mas-ainda-responde-por-uma-em-cada-cinco-mortes-violentas-em-sp/",
+          "publishedOn": "2026-11-10T13:16:59.000Z",
+          "wordCount": 6333,
+          "title": "Letalidade policial reduz, mas ainda responde por uma em cada cinco mortes violentas em SP",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/tarcisio-em-solenidade-da-PMESP-no-Barro-Branco.webp"
+        },
+        {
           "id": "https://ponte.org/?p=164664",
           "author": "Jessica Santos",
           "description": "Após prometer ampliar a participação popular nas decisões do governo, Lula tem a oportunidade de romper com a baixa representatividade de mulheres negras no Judiciário e em ministérios estratégicos\nO conteúdo Da Redação | Governar com o povo é governar com as mulheres negras  Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/mulheres-negras-espacos-de-poder-lula/",
           "publishedOn": "2026-11-09T14:46:32.000Z",
-          "wordCount": 5701,
+          "wordCount": 5617,
           "title": "Da Redação | Governar com o povo é governar com as mulheres negras",
           "imageUrl": "https://ponte.org/wp-content/uploads/2023/03/justica_stf_ministra2.jpg"
         },
@@ -498,104 +588,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=271296",
+          "id": "https://operamundi.uol.com.br/?p=271373",
+          "author": "Victor Farinelli",
+          "description": "As imagens capturadas por uma câmera hoje são as principais para o registro, a investigação e a preservação da memória histórica e social. Afinal, estamos expostos a uma realidade acelerada e de grande sobrecarga. Nesse contexto o formato do minidocumentário parece ser uma alternativa para quem busca profundidade jornalística, resgate histórico e análise crítica sobre […]\nO post Como produzir minidocumentários históricos e sociais com entrevistas e imagens de arquivo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opera-conteudo/como-produzir-minidocumentarios-historicos-e-sociais-com-entrevistas-e-imagens-de-arquivo/",
+          "publishedOn": "2026-11-10T21:28:03.000Z",
+          "wordCount": 7508,
+          "title": "Como produzir minidocumentários históricos e sociais com entrevistas e imagens de arquivo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1marca.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271334",
           "author": "Tatiana Carlotti",
-          "description": "O ministro das Relações Exteriores do Irã, Abbas Aragchi, descartou nesta terça-feira (10/11) a possibilidade de uma reunião entre o secretário do Conselho Supremo de Segurança Nacional iraniano, Mohsen Rezaei, e o vice-presidente dos Estados Unidos, JD Vance. Segundo o chanceler, as informações divulgadas pela imprensa estrangeira sobre um possível encontro não têm fundamento e […]\nO post Irã nega encontro entre chefe de Segurança e vice de Trump: ‘parem de fabricar notícias falsas’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-descarta-reuniao-com-vance-e-exige-fim-de-sancoes-dos-eua/",
-          "publishedOn": "2026-11-10T11:20:44.000Z",
-          "wordCount": 3835,
-          "title": "Irã nega encontro entre chefe de Segurança e vice de Trump: ‘parem de fabricar notícias falsas’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/abbas_araghchi_2019-1.jpg"
+          "description": "Após um ato de solidariedade à Palestina realizado em um casarão histórico no centro de Itacaré, no sul da Bahia, integrantes de um grupo de WhatsApp passaram a compartilhar mensagens com ameaças, discursos de ódio e propostas de represálias contra ativistas e manifestações na cidade. As conversas foram encaminhadas a Opera Mundi por uma fonte […]\nO post Comerciantes de Itacaré articulam represálias contra ativistas pró-Palestina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/comerciantes-de-itacare-articulam-represalias-contra-ativistas-pro-palestina/",
+          "publishedOn": "2026-11-10T21:20:56.000Z",
+          "wordCount": 4504,
+          "title": "Comerciantes de Itacaré articulam represálias contra ativistas pró-Palestina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-10-132224.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271289",
+          "id": "https://operamundi.uol.com.br/?p=271361",
+          "author": "Paola Orlovas",
+          "description": "A Austrália anunciou, na terça-feira (10/11), que imporá medidas rigorosas de precaução a empresas especializadas em inteligência artificial (IA) que desejem operar no país, após a invasão de plataformas governamentais por um modelo da OpenAI. Uma nova autoridade reguladora de IA, encarregada de implementar medidas para supervisionar o setor, será criada, informou o primeiro-ministro Anthony […]\nO post Austrália endurece regras para empresas de IA após invasão de plataformas governamentais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/politica-e-economia/australia-endurece-regras-para-empresas-de-ia-apos-invasao/",
+          "publishedOn": "2026-11-10T20:30:19.000Z",
+          "wordCount": 3752,
+          "title": "Austrália endurece regras para empresas de IA após invasão de plataformas governamentais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/aus_flag.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271352",
+          "author": "Paola Orlovas",
+          "description": "Mais de 1,1 mil crianças sofreram amputações de membros na Faixa de Gaza desde o início da ofensiva militar israelense, em outubro de 2023. Segundo dados do Euro-Med Human Rights Monitor, divulgados pelo jornal espanhol Público, 1.134 meninos e meninas haviam passado por amputações até 9 de outubro deste ano. Deste total, menos de 15% […]\nO post Mais de mil crianças sofreram amputações em Gaza, denuncia cirurgião palestino apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/criancas-sofreram-amputacoes-em-gaza-denuncia-cirurgiao/",
+          "publishedOn": "2026-11-10T19:50:24.000Z",
+          "wordCount": 4008,
+          "title": "Mais de mil crianças sofreram amputações em Gaza, denuncia cirurgião palestino",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/abu.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271350",
+          "author": "Raissa Neves",
+          "description": "O heptacampeão mundial de Fórmula 1 Lewis Hamilton visitou nesta terça-feira (10/11) a passagem de fronteira de Rafah, no Egito, que liga o país à Faixa de Gaza, para conhecer o trabalho de organizações humanitárias responsáveis pelo envio de ajuda à população palestina. Durante a visita, o piloto britânico se encontrou com trabalhadores humanitários e […]\nO post Lewis Hamilton visita passagem de Rafah e reforça apoio à Palestina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/lewis-hamilton-visita-passagem-de-rafah-e-reforca-apoio-a-palestina/",
+          "publishedOn": "2026-11-10T18:40:59.000Z",
+          "wordCount": 3625,
+          "title": "Lewis Hamilton visita passagem de Rafah e reforça apoio à Palestina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/imagens-portal-itatiaia-16.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271348",
+          "author": "Raissa Neves",
+          "description": "Nosso texto publicado em 25 de outubro, antes da apuração, constatava que Lula, o herói trágico por antonomásia desta era do escárnio, encontraria afinal o seu destino. E nós também.  Por uma reviravolta épica descobrimos que o herói ainda conta com o amor das moiras e que o coro, que representa a cidade, tem a […]\nO post A era do escárnio: Lula, o herói, e as moiras apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/opiniao/a-era-do-escarnio-lula-o-heroi-e-as-moiras/",
+          "publishedOn": "2026-11-10T18:02:09.000Z",
+          "wordCount": 4314,
+          "title": "A era do escárnio: Lula, o herói, e as moiras",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55642063660_62089d2cbf_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271338",
+          "author": "Raissa Neves",
+          "description": "O Brasil apresentou na 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), na Turquia, o Marco de Financiamento do Plano de Ação em Saúde de Belém. Elaborado pelo Ministério da Saúde (MS) com o apoio da Organização Mundial da Saúde (OMS), o documento orienta países a identificar fontes de recursos para adaptar seus sistemas […]\nO post Na COP31, Brasil apresenta plano para adaptar sistemas de saúde às mudanças climáticas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/na-cop31-brasil-apresenta-plano-para-adaptar-sistemas-de-saude-as-mudancas-climaticas/",
+          "publishedOn": "2026-11-10T18:00:25.000Z",
+          "wordCount": 3999,
+          "title": "Na COP31, Brasil apresenta plano para adaptar sistemas de saúde às mudanças climáticas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55644776773_3bd39fcbcf_o.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271341",
           "author": "Tatiana Carlotti",
-          "description": "Sindicatos de caminhoneiros e transportadores independentes bloquearam intermitentemente várias rotas no sul do Chile na segunda-feira (09/11), em rejeição ao aumento dos preços dos combustíveis. Nas áreas de Victoria, Osorno, Curicó e Los Ángeles, trechos da Rota 5, o principal corredor do país e trecho da Rodovia Pan-Americana, amanheceram com caminhões estacionados e para-brisas que […]\nO post Caminhoneiros bloqueiam rotas no Chile contra aumento dos preços do diesel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/caminhoneiros-bloqueiam-rotas-no-chile-contra-aumento-dos-precos-do-diesel/",
-          "publishedOn": "2026-11-10T10:43:10.000Z",
-          "wordCount": 3783,
-          "title": "Caminhoneiros bloqueiam rotas no Chile contra aumento dos preços do diesel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/protestos-chile.jpg"
+          "description": "O governo da Bahia abriu nesta terça-feira (10/11) um canal de diálogo com a sociedade para discutir as denúncias de agressões, discriminação e conflitos envolvendo turistas israelenses e moradores do litoral baiano. A movimentação ocorre após turistas tentar destruir uma intervenção artística pró-Palestina na fachada de um casarão no centro histórico de Itacaré. A Frente […]\nO post Governo da Bahia abre diálogo com sociedade após denúncias contra turistas israelenses apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/governo-da-bahia-abre-dialogo-com-sociedade-apos-denuncias-contra-turistas-israelenses/",
+          "publishedOn": "2026-11-10T17:21:32.000Z",
+          "wordCount": 3887,
+          "title": "Governo da Bahia abre diálogo com sociedade após denúncias contra turistas israelenses",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/caarao-itacare-.png"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271283",
-          "author": "Rocio Paik",
-          "description": "Há 45 anos, em 9 de novembro de 1981, a Mauritânia se tornava o último país do mundo a abolir formalmente a escravidão. A despeito de sua extinção legal, o sistema escravagista ainda segue em vigor no país, respaldado pelas antigas tradições de um rígido sistema de castas. Estima-se que até 20% dos trabalhadores mauritanos […]\nO post Mauritânia: o último país a abolir a escravidão ainda tem cativos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/mauritania-o-ultimo-pais-a-abolir-a-escravidao-ainda-tem-cativos/",
-          "publishedOn": "2026-11-10T09:00:45.000Z",
-          "wordCount": 5091,
-          "title": "Mauritânia: o último país a abolir a escravidão ainda tem cativos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/les_petites_bonnes_de_mauritanie_suscitent_un_debat_social_5631348143-scaled.jpg"
+          "id": "https://operamundi.uol.com.br/?p=271327",
+          "author": "Victor Farinelli",
+          "description": "A China se tornou o primeiro país a ratificar o acordo que cria a Organização Mundial de Cooperação em Inteligência Artificial (WAICO, na sigla em inglês). O Comitê Permanente da 14ª Assembleia Nacional Popular aprovou o acordo na sexta-feira (06/11), e o porta-voz do Ministério das Relações Exteriores, Guo Jiakun, confirmou a decisão na coletiva […]\nO post China é primeiro país a ratificar criação de Organização Mundial de Cooperação em IA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/china-e-primeiro-pais-a-ratificar-criacao-de-organizacao-mundial-de-cooperacao-em-ia/",
+          "publishedOn": "2026-11-10T16:30:00.000Z",
+          "wordCount": 3545,
+          "title": "China é primeiro país a ratificar criação de Organização Mundial de Cooperação em IA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/waico.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=271286",
-          "author": "Rocio Paik",
-          "description": "Após meses de negociações, a ExxonMobil assinou um memorando de entendimento com a estatal Petróleos de Venezuela SA (PDVSA) nesta segunda-feira (09/11) para projetos de exploração e produção de petróleo. A assinatura foi conduzida pela presidente interina do país caribenho, Delcy Rodríguez, que ressaltou a importância do acordo, explicando que ela  permitirá que o setor […]\nO post Venezuela e ExxonMobil firmam acordo para aumentar exploração e produção de petróleo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuela-e-exxonmobil-firmam-acordo-para-aumentar-exploracao-e-producao-de-petroleo/",
-          "publishedOn": "2026-11-10T06:30:37.000Z",
-          "wordCount": 3488,
-          "title": "Venezuela e ExxonMobil firmam acordo para aumentar exploração e produção de petróleo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/venezuela-firma-exxon01.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271280",
-          "author": "Rocio Paik",
-          "description": "A morte de uma mulher japonesa, pela qual um militar estadunidense foi indiciado, voltou a colocar em evidência os conflitos em torno da presença militar dos Estados Unidos em Okinawa, no sul do Japão. O caso provocou indignação na ilha e levou o governador Genta Koja a anunciar, nesta segunda-feira (09/11), que defenderá uma revisão […]\nO post Assassinato de japonesa causa revolta e reacende debate sobre presença militar dos EUA em Okinawa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/assassinato-de-japonesa-causa-revolta-e-reacende-debate-sobre-presenca-militar-dos-eua-em-okinawa/",
-          "publishedOn": "2026-11-10T05:40:25.000Z",
-          "wordCount": 6320,
-          "title": "Assassinato de japonesa causa revolta e reacende debate sobre presença militar dos EUA em Okinawa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/151026oki-yagiphoto01.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271277",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, sinalizou nesta segunda-feira (09/11) que considera a guerra que promove juntamente com Israel contra o Irã “efetivament encerrada”. A fala se deu em conferência surpresa, após o republicano se reunir com o primeiro-ministro do Catar em Washington. Segundo ele, os iranianos estão “conversando muito educadamente” com os negociadores […]\nO post Após reunião com premiê do Catar, Trump diz que guerra contra Irã está ‘efetivamente encerrada’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/apos-reuniao-com-premie-do-catar-trump-diz-que-guerra-contra-ira-esta-efetivamente-encerrada/",
-          "publishedOn": "2026-11-10T04:30:18.000Z",
-          "wordCount": 4102,
-          "title": "Após reunião com premiê do Catar, Trump diz que guerra contra Irã está ‘efetivamente encerrada’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55643314038_46f1afbd47_k.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271274",
-          "author": "Rocio Paik",
-          "description": "O governo da Coreia do Norte testou um novo tipo de torpedo no Mar do Leste e estabeleceu como meta a implantação do sistema na Marinha no início de 2027, informou nesta terça-feira (10/11) a agência estatal KCNA. O veículo destacou que institutos científicos norte-coreanos como a Academia de Ciências de Defesa, a Administração de […]\nO post Coreia do Norte testa novo tipo de torpedo para equipar na Marinha no início de 2027 apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/coreia-do-norte-testa-novo-tipo-de-torpedo-para-equipar-na-marinha-no-inicio-de-2027/",
-          "publishedOn": "2026-11-10T03:20:13.000Z",
-          "wordCount": 3530,
-          "title": "Coreia do Norte testa novo tipo de torpedo para equipar na Marinha no início de 2027",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/562514_370106_3052.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271271",
-          "author": "Rocio Paik",
-          "description": "O papa Leão XIV defendeu nesta segunda-feira (09/11), em Buenos Aires (Argentina), o papel dos sindicatos na proteção dos trabalhadores, a capacidade reguladora do Estado e políticas públicas de geração de empregos. Diante de dirigentes das centrais sindicais CGT e CTA e de movimentos populares como a União dos Trabalhadores da Economia Popular (UTEP), o […]\nO post Na Argentina, papa Leão 14 defende sindicatos, Estado regulador e diz que desemprego ‘fere dignidade’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/na-argentina-papa-leao-14-defende-sindicatos-estado-regulador-e-diz-que-desemprego-fere-dignidade/",
-          "publishedOn": "2026-11-10T02:10:08.000Z",
-          "wordCount": 4869,
-          "title": "Na Argentina, papa Leão 14 defende sindicatos, Estado regulador e diz que desemprego ‘fere dignidade’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cq5dam.thumbnail.cropped.1500.844-3.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271268",
-          "author": "Rocio Paik",
-          "description": "O secretário de Estado norte-americano Marco Rubio confirmou nesta segunda-feira (09/11) que o governo de Donald Trump vai continuar mantendo contato com o Brasil de Luiz Inácio Lula da Silva, apesar das divergências entre os dois países. A declaração foi feita após questionado sobre as relações entre os Estados Unidos e o Brasil na reunião […]\nO post No G7, Rubio confirma que governo Trump manterá diálogo com Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/no-g7-rubio-confirma-que-governo-trump-mantera-dialogo-com-brasil/",
-          "publishedOn": "2026-11-10T01:00:01.000Z",
-          "wordCount": 3519,
-          "title": "No G7, Rubio confirma que governo Trump manterá diálogo com Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hwo0cj2wwaawvu1.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271265",
-          "author": "Rocio Paik",
-          "description": "O porta-voz do Ministério das Relações Exteriores iraniano, Esmail Baghaei, rejeitou nesta segunda-feira (09/11) a matéria publicada pelo jornal norte-americano The New York Times (NYT) em 2 de novembro, intitulada “Israel alerta EUA que Irã está preparando opção química“. A reportagem sustentava que a inteligência israelense relatava supostos “planos iranianos de empregar agentes químicos contra […]\nO post Irã rejeita reportagem ‘infundada’ da mídia dos EUA sobre supostos planos de armas químicas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-rejeita-reportagem-infundada-da-midia-dos-eua-sobre-supostos-planos-de-armas-quimicas/",
-          "publishedOn": "2026-11-09T23:46:53.000Z",
-          "wordCount": 3553,
-          "title": "Irã rejeita reportagem ‘infundada’ da mídia dos EUA sobre supostos planos de armas químicas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/iran_mfa_041124_1.jpg"
+          "id": "https://operamundi.uol.com.br/?p=271329",
+          "author": "Paola Orlovas",
+          "description": "A Rússia, Ucrânia e Estados Unidos iniciaram nesta terça-feira (10/11), em Abu Dhabi, capital dos Emirados Árabes Unidos, uma nova rodada de negociações para tentar encerrar o conflito, que já dura cerca de quatro anos e meio. Washington busca intermediar um acordo entre Moscou e Kiev, enquanto autoridades europeias pressionam por participação nas discussões, iniciativa […]\nO post Rússia e Ucrânia iniciam negociações de paz mediadas pelos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-e-ucrania-iniciam-negociacoes-de-paz-mediadas-pelos-eua/",
+          "publishedOn": "2026-11-10T15:50:48.000Z",
+          "wordCount": 3903,
+          "title": "Rússia e Ucrânia iniciam negociações de paz mediadas pelos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55517942162_04762330e9_c.jpg"
         }
       ]
     },
@@ -622,12 +712,72 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236630",
+          "author": "Giovanna Maria",
+          "description": "Após agentes da prefeitura darem dez dias para a desocupação do ponto onde Eduardo Peixeiro vive e trabalha, moradores do bairro saíram às ruas em sua defesa.",
+          "link": "https://anovademocracia.com.br/pb-moradores-fecham-rua-comerciante-despejo/",
+          "publishedOn": "2026-11-10T19:15:20.000Z",
+          "wordCount": 7331,
+          "title": "PB: Moradores do Aluízio Campos fecham ruas em defesa de comerciante ameaçado de despejo",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Video-Protesto.mp4",
+            "length": "25271346",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/PHOTO-2026-11-04-19-07-32.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236646",
+          "author": "Redação de AND",
+          "description": "Comitiva da Guarda Nacional de Nova York conheceu instalações do Exército Brasileiro; parceria firmada em 2019 inclui cursos de guerra na selva e exercícios de combate com tropas ianques na Amazônia.",
+          "link": "https://anovademocracia.com.br/ianque-manaus-presenca-eua-amazonia/",
+          "publishedOn": "2026-11-10T18:44:34.000Z",
+          "wordCount": 8150,
+          "title": "General ianque visita centro de guerra na selva em Manaus em meio a crescente presença militar do EUA na Amazônia",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-10-ianque.jpg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236643",
+          "author": "Redação de AND",
+          "description": "Moradores se refugiaram na mata após os tiros. A Usina Maravilha instalou uma base de pistoleiros na área produtiva do acampamento em 2023.",
+          "link": "https://anovademocracia.com.br/mst-segurancas-privados-camponeses-paraiba/",
+          "publishedOn": "2026-11-10T18:39:04.000Z",
+          "wordCount": 7318,
+          "title": "MST aponta possível ligação entre ‘seguranças privados’ e ataque a camponeses na Paraíba",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-10-paraiba.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236631",
+          "author": "Giovanna Maria",
+          "description": "Em entrevistas anônimas ao AND, membros e ex-membros da ADEVIPS (Associação dos Deficientes Visuais do Planalto Serrano) relataram assédio sexual contra alunas, intimidações e problemas na gestão. O jornal teve acesso a um boletim de ocorrência sobre ameaças e mensagens ofensivas dirigidas a associados, além de outros registros sobre disputas internas na entidade.",
+          "link": "https://anovademocracia.com.br/sc-deficientes-visuais-assedio-ameacas/",
+          "publishedOn": "2026-11-10T16:20:33.000Z",
+          "wordCount": 7837,
+          "title": "Abuso em SC: Integrantes de associação de deficientes visuais acusam gestão de assédio e ameaças",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-23.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236615",
+          "author": "Redação de AND",
+          "description": "Após ataques a um mural de solidariedade à Palestina, denúncias de racismo e agressões por turistas “israelenses”, mobilização popular cresce no litoral baiano. Governo petista da Bahia anuncia providências sob pressão, mas mantém histórico de colaboração com a entidade sionista.",
+          "link": "https://anovademocracia.com.br/itacare-rechaca-sionistas-bahia/",
+          "publishedOn": "2026-11-10T13:40:17.000Z",
+          "wordCount": 8805,
+          "title": "‘Itacaré é dos brasileiros!’: povo rechaça agressões sionistas no litoral da Bahia",
+          "enclosure": {
+            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/ssstwitter.com_1794317447833.mp4",
+            "length": "10050276",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-20.png"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236608",
           "author": "Giovanna Maria",
           "description": "Encontro no Instituto Federal de Goiás reuniu cerca de 50 pessoas para debater a resistência do povo saarauí e conhecer um livro sobre a luta pela independência do Saara Ocidental.",
           "link": "https://anovademocracia.com.br/ativistas-estudantes-debate-goias-sobre-50-anos-da-republica-saaraui-e-ocupacao-marroquina/",
           "publishedOn": "2026-11-09T20:01:00.000Z",
-          "wordCount": 7995,
+          "wordCount": 7984,
           "title": "Ativistas e estudantes realizam debate no Instituto Federal de Goiás sobre 50 anos da República Saarauí e a luta contra a ocupação marroquina",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-21.jpeg"
         },
@@ -637,7 +787,7 @@
           "description": "Às vésperas do Enem, secundaristas e universitários se reuniram no bairro Compensa para exigir a garantia do transporte até as escolas. Nesta segunda-feira (9), uma greve dos rodoviários ampliou a luta contra os cortes feitos pelo monopólio do transporte público.",
           "link": "https://anovademocracia.com.br/empresas-onibus-passe-livre-greve-protesto/",
           "publishedOn": "2026-11-09T16:01:15.000Z",
-          "wordCount": 7497,
+          "wordCount": 7486,
           "title": "Empresas de ônibus cortam recargas do Passe Livre e atrasam salários em Manaus; estudantes e rodoviários respondem com protesto e greve",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Imagem-Capa-1.png"
         },
@@ -647,7 +797,7 @@
           "description": "Cerca de 20 manifestantes participaram de panfletagem no centro da cidade e marcharam até a Câmara Municipal. Organizada em três dias, a mobilização reuniu movimentos indígenas, estudantis e populares em denúncia aos ataques recentes.",
           "link": "https://anovademocracia.com.br/mg-movimento-acao-antifascista-de-juiz-de-fora-mobiliza-ato-contra-o-genocidio-dos-povos-indigenas/",
           "publishedOn": "2026-11-08T16:47:15.000Z",
-          "wordCount": 7683,
+          "wordCount": 7672,
           "title": "MG: Movimento Ação Antifascista de Juiz de Fora mobiliza ato contra o genocídio dos povos indígenas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-16-1024x768.jpeg"
         },
@@ -657,7 +807,7 @@
           "description": "Mais de 20 famílias perderam móveis, camas e eletrodomésticos com a chuva de 17 de outubro. Moradores fecharam uma faixa da Avenida América Central para cobrar uma solução para os alagamentos que atingem o bairro há mais de duas décadas.",
           "link": "https://anovademocracia.com.br/rj-apos-novos-alagamentos-moradores-do-guarani-bloqueiam-avenida-em-cabo-frio/",
           "publishedOn": "2026-11-08T16:04:31.000Z",
-          "wordCount": 7503,
+          "wordCount": 7492,
           "title": "RJ: Após novos alagamentos, moradores do Guarani bloqueiam avenida em Cabo Frio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-14.png"
         },
@@ -667,64 +817,9 @@
           "description": "Ataque na fronteira com a Colômbia deixou ao menos 19 mortos e contou, segundo fonte militar, com apoio da CIA e do FBI. Enquanto isso, governo interino avança na entrega de ativos estatais ao capital privado e se submete ao plano de transição política de Washington.",
           "link": "https://anovademocracia.com.br/delcy-rodriguez-eln-eua-imperialismo/",
           "publishedOn": "2026-11-07T13:16:13.000Z",
-          "wordCount": 8337,
+          "wordCount": 8326,
           "title": "Governo de Delcy Rodríguez bombardeia acampamento do ELN sob ordens do EUA e aprofunda submissão ao imperialismo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-13.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236554",
-          "author": "Giovanna Maria",
-          "description": "Manifestação saiu da Candelária em marcha até a Cinelândia. Lideranças indígenas e apoiadores denunciaram os ataques aos povos originários, cobraram o fim do marco temporal e defenderam a luta pela terra.",
-          "link": "https://anovademocracia.com.br/200-pessoas-ato-rio-luta-indigena/",
-          "publishedOn": "2026-11-06T20:28:09.000Z",
-          "wordCount": 7806,
-          "title": "RJ: Cerca de 200 pessoas realizam ato no Centro do Rio em defesa da luta indígena e pela demarcação de terras",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-06-172038.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236557",
-          "author": "Redação de AND",
-          "description": "Após a aprovação do fim da escala 6 por 1, grandes monopólios da indústria e do comércio acionam o STF para adiar a redução da jornada de trabalho. Flávio Dino convoca audiência de conciliação entre empresários, governo e centrais sindicais para discutir a aplicação da conquista dos trabalhadores.",
-          "link": "https://anovademocracia.com.br/monopolios-stf-adiar-fim-escala-6-por-1/",
-          "publishedOn": "2026-11-06T20:21:07.000Z",
-          "wordCount": 8102,
-          "title": "Grandes monopólios da indústria e do comércio recorrem ao STF para adiar fim da escala 6 por 1",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2024/11/Foto-2-1-scaled-1-1024x771.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236552",
-          "author": "Redação de AND",
-          "description": "Protestos alcançaram 34 cidades; jovens exigiram mais recursos para escolas, psicoterapia e tratamento da dependência química e rejeitaram o serviço militar obrigatório. Em Frankfurt, 54 pessoas foram detidas após confrontos.",
-          "link": "https://anovademocracia.com.br/alemanha-carestia-policia-manifestacoes/",
-          "publishedOn": "2026-11-06T20:14:26.000Z",
-          "wordCount": 7878,
-          "title": "Mais de 100 mil vão às ruas na Alemanha contra rearmamento e carestia; polícia reprime manifestações",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/feat_germany_11042026.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236543",
-          "author": "Redação de AND",
-          "description": "Após nova operação policial que deixou 13 detidos e dezenas de feridos, manifestantes voltaram a instalar cerca de 100 tendas nas duas cidades. No Porto, policial à paisana chegou a sacar uma arma de fogo contra participantes da mobilização.",
-          "link": "https://anovademocracia.com.br/acampadas-portugal-repressao-policial/",
-          "publishedOn": "2026-11-06T20:06:22.000Z",
-          "wordCount": 8172,
-          "title": "Povo retoma acampadas por moradia em Portugal apesar de violenta repressão policial em Lisboa e Porto",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/A-manifestante-@sara.mago-gravou-o-momento-onde-um-policia-infiltrado-empunha-uma-arma-de-fogo-p.mp4",
-            "length": "9736667",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-06-portugal.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236536",
-          "author": "Redação de AND",
-          "description": "Rogério Marinho pretende percorrer os estados para pressionar senadores da direita. Aliados calculam 38 votos para sua candidatura, enquanto Alcolumbre busca apoios no próprio PL mediante cargos, relatorias e anistia aos golpistas, com respaldo do governo de Luiz Inácio.",
-          "link": "https://anovademocracia.com.br/extrema-direita-senado-anistia-golpistas/",
-          "publishedOn": "2026-11-06T19:57:57.000Z",
-          "wordCount": 8567,
-          "title": "Extrema direita prepara ofensiva nacional pelo comando do Senado; governo negocia cargos e anistia aos golpistas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/ROGERIO-MARINHO-E-DAVI-ALCOLUMBRE-17-12-25-1024x683.jpg"
         }
       ]
     },
@@ -752,26 +847,6 @@
           "wordCount": 2509,
           "title": "Trabalhadores na indústria do vestuário em Bangladesh lutam por melhores salários",
           "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/trabalhadores-bangladesh-protesto.jpeg.jpg"
-        },
-        {
-          "id": "6aed37ef7f8ed50598a069c0",
-          "author": "O Poder Popular",
-          "description": "Fábio PY para a Carta Capital - É doutor em teologia pela PUC-RIO e professor do Programa de Pós-Graduação em Políticas Sociais da UENF.\nA passagem do senador pela Celeiro Flórida evidencia a articulação entre empreendedorismo",
-          "link": "https://opoderpopular.com.br/flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo-leia-mais-em-https-www-cartacapital-com-br-artigo-flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo-shem-dsdf-sharefo/",
-          "publishedOn": "2026-11-06T02:30:17.000Z",
-          "wordCount": 1893,
-          "title": "Flávio Bolsonaro e a internacionalização do cristofascismo",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/SaveClip.App_869161201_17895595386682849_2831290287693159516_n-1024x701.webp"
-        },
-        {
-          "id": "6aed36e87f8ed50598a05f68",
-          "author": "O Poder Popular",
-          "description": "Por Afonso Bezerra – Brasil de Fato - ICL Notícias\nAtivistas denunciam racismo e condutas de supremacia por parte de turistas israelenses em destino turístico baiano\n\nTuristas israelenses tentaram vandalizar, na sexta-feira (30), um mural construído coletivamente por moradores de Itacaré, no sul",
-          "link": "https://opoderpopular.com.br/turistas-israelenses-tentam-destruir-mural-pro-palestina-em-itacare-ba/",
-          "publishedOn": "2026-11-06T02:12:15.000Z",
-          "wordCount": 1894,
-          "title": "Turistas israelenses tentam destruir mural pró-Palestina em Itacaré (BA)",
-          "imageUrl": "https://opoderpopular.com.br/content/images/2026/11/whatsapp-image-2026-11-02-at-142449-59d0d6dc-960x540.webp"
         }
       ]
     },
@@ -781,104 +856,104 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
-          "id": "https://outraspalavras.net/?p=3209876",
-          "author": "Raíssa Araújo Pacheco",
-          "description": "Proposta do economista abre possibilidade de utilização coordenada de instrumentos que enfrentam a financeirização subordinada do Brasil. Mas não basta reduzir a Selic: é preciso regular os mercados e recuperar capacidade do Estado de financiar a produção nacional\nThe post Comentário sobre Lara Resende appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/mercadovsdemocracia/comentario-sobre-lara-resende/",
-          "publishedOn": "2026-11-09T22:52:31.000Z",
-          "wordCount": 4435,
-          "title": "Comentário sobre Lara Resende",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-09-at-19-00-59-Banco-Central-Retira-Indicacao-de-um-Roteiro-Pre-definido-para-os-Juros-Avaliam-Economistas-1.png"
+          "id": "https://outraspalavras.net/?p=3210019",
+          "author": "Rôney Rodrigues",
+          "description": "Queime na fogueira toda crítica ao ajuste fiscal, sugere a Faria Lima – e até aliados do governo. Foi assim com Lara Resende. A resistência será enorme, caso presidente desafie o establishment. Mas as ruas, que o reelegeu para dar outro rumo ao país, poderão ser grandes aliadas\nThe post Lula e a heresia necessária para o futuro do Brasil appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/lula-e-a-heresia-necessaria-para-o-futuro-do-brasil/",
+          "publishedOn": "2026-11-10T21:31:26.000Z",
+          "wordCount": 5019,
+          "title": "Lula e a heresia necessária para o futuro do Brasil",
+          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/11/2015-859877513-bruxas.jpg_20151021.jpg"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209853",
-          "author": "Raíssa Araújo Pacheco",
-          "description": "Governo Lula não precisa continuar refém de big techs para dialogar com a população. Possível saída: tecnologias públicas capazes de escutar, conectar e fortalecer a sociedade. Plebiscitos virtuais e Banco de Problemas Públicos são possibilidades para esta virada\nThe post Por redes digitais cidadãs e soberanas appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/por-infraestruturas-digitais-cidadas-e-soberanas/",
-          "publishedOn": "2026-11-09T22:29:40.000Z",
-          "wordCount": 4692,
-          "title": "Por redes digitais cidadãs e soberanas",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-09-at-18-43-44-Innovative-Public-Infrastructure-for-the-Common-Good-%E2%80%93-FP-Analytics.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3209856",
-          "author": "Antonio Martins",
-          "description": "Eleições tornaram grupos socialistas, como o DSA, mais fortes. Mas também a agenda mudou: defesa dos serviços públicos, dos direitos dos trabalhadores e de “vida acessível” difundiu-se. Oposição às guerras é mais popular que nunca. Que esperar de 2028, agora?\nThe post EUA: o triunfo da esquerda, além dos números appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/estadoemdisputa/eua-o-triunfo-da-esquerda-alem-dos-numeros/",
-          "publishedOn": "2026-11-09T22:19:10.000Z",
-          "wordCount": 4595,
-          "title": "EUA: o triunfo da esquerda, além dos números",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sanders-SayedB.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3209790",
+          "id": "https://outraspalavras.net/?p=3209982",
           "author": "Lucas Scatolini",
-          "description": "Com a vitória de Lula, queimadas disparam: 503% no Pará e 1.305% no Amazonas. Mídia silencia. Mas números expõem atraso associado à pecuária. Juventude já não engole seu marketing e Lula tem a chance de semear novos horizontes no campo\nThe post O “mês do fogo” e a vingança do Agro appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/mes-do-fogo-e-a-vinganca-do-agro/",
-          "publishedOn": "2026-11-09T20:27:45.000Z",
-          "wordCount": 5015,
-          "title": "O “mês do fogo” e a vingança do Agro",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo1.jpg"
+          "description": "No segundo turno, evitou-se o horror. Mas ultradireita avançou no Congresso e os neoliberais têm sangue nos olhos. Há dois caminhos complementares: alimentar a mobilização das ruas e afirmar, na economia e nas relações sociais, as expressões do Comum e o que Lefèvre chamou de “utopia experimental”\nThe post Da vitória à possível virada hegemônica appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/da-vitoria-a-possivel-virada-hegemonica/",
+          "publishedOn": "2026-11-10T21:18:55.000Z",
+          "wordCount": 5807,
+          "title": "Da vitória à possível virada hegemônica",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-10-at-18-18-11-190819-municipalismo.jpg-imagem-JPEG-600-%C3%97-637-pixels.png"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209809",
+          "id": "https://outraspalavras.net/?p=3209969",
           "author": "Lucas Scatolini",
-          "description": "Vinte dias de mobilização autônoma incendiaram o país e quebraram a pasmaceira do 3º governo. Mas e agora, diante das novas pressões dos “mercados” e da mídia? A quem o governo se voltará? E que novos espaços se abrem para a ação política da esquerda?\nThe post O novo cenário, após o grande levante popular appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/cenario-apos-o-grande-levante-popular/",
-          "publishedOn": "2026-11-09T20:16:24.000Z",
-          "wordCount": 7016,
-          "title": "O novo cenário, após o grande levante popular",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5156811033396579773.jpg"
+          "description": "A crise urbana se agrava e a pasta não pode mais ser escanteada no governo Lula 4. Organizações apontam: comprometer-se de fato com uma Reforma Urbana Popular é caminho para manter a efervescência das ruas, garantir participação e enfrentar as desigualdades\nThe post Manifesto: Por um Ministério das Cidades de cara nova appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/manifesto-por-um-ministerio-das-cidades-de-cara-nova/",
+          "publishedOn": "2026-11-10T20:36:01.000Z",
+          "wordCount": 4164,
+          "title": "Manifesto: Por um Ministério das Cidades de cara nova",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-10-at-17-34-41-20161101-_UCS4596-Edit.webp-imagem-WEBP-1600-%C3%97-1068-pixels-Redimensionada-55.png"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209792",
+          "id": "https://outraspalavras.net/?p=3209986",
           "author": "Lucas Scatolini",
-          "description": "Sedução da autoridade, fabricação de inimigos e desejo de pertencer explicam a adesão ao fascismo, mostraram Wilhelm Reich e Freud. Na Era Digital, essa lógica vai além da tática política: é o cerne dos lucros das big techs. Como escapar desta armadilha?\nThe post Após a tormenta, a democracia no divã appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/apos-a-tormenta-a-democracia-no-diva/",
-          "publishedOn": "2026-11-09T19:30:23.000Z",
-          "wordCount": 6643,
-          "title": "Após a tormenta, a democracia no divã",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5156811033396579751.jpg"
+          "description": "Estratégias pouco visíveis como aplicativos para identificar regiões de virada, organizar panfletagem e coordenar caronas mesclaram-se com a combinação sinérgica entre redes, ruas e o clássico boca a boca. Qual eficácia limites desse modelo? É possível transformá-lo em participação política permanente?\nThe post Eleições: a arquitetura da virada appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/eleicoes-a-arquitetura-da-virada/",
+          "publishedOn": "2026-11-10T20:16:50.000Z",
+          "wordCount": 5858,
+          "title": "Eleições: a arquitetura da virada",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5159062833210265445_w.jpg"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209523",
+          "id": "https://outraspalavras.net/?p=3209980",
           "author": "Lucas Scatolini",
-          "description": "Pensador marxista examina os múltiplos fatores da crise ecológica. A financeirização da natureza e os remendos tecnológicos. As novas faces do imperialismo na corrida da IA. E o proletariado ambiental, que provoca: futuro será de “ruína ou revolução”?\nThe post Bellamy Foster: O impossível capitalismo verde  appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-civilizatoria/bellamy-foster-o-impossivel-capitalismo-verde/",
-          "publishedOn": "2026-11-06T20:56:36.000Z",
-          "wordCount": 8647,
-          "title": "Bellamy Foster: O impossível capitalismo verde",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Palestrante-ao-Microfone-em-Sala-Iluminada.png"
+          "description": "Em novo capítulo de sua Sementeira, autor sustenta: ainda que indicados em situações específicas, concursos reproduzem lógica neoliberal da meritocracia e da competição. Pasteurizam projetos, reduzem agentes culturais a concorrentes entre si e transpõem sua lógica e valores ao objeto criador\nThe post Cultura: Quando ficam claros os limites dos editais appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outrapolitica/cultura-quando-ficam-claros-os-limites-dos-editais/",
+          "publishedOn": "2026-11-10T19:45:28.000Z",
+          "wordCount": 6146,
+          "title": "Cultura: Quando ficam claros os limites dos editais",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5159062833210265438_x-2.jpg"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209726",
+          "id": "https://outraspalavras.net/?p=3209962",
           "author": "Lucas Scatolini",
-          "description": "Poeta e líder martinicano falava da mão ferida estendida às outras contra o terror colonial. Assim foi a eleição: de um lado, a fraternidade de quem conhece o peso do trabalho e enfrenta o Norte global; do outro, apenas o deboche rasteiro de um playboy grã-fino\nThe post A mão de Lula e o humanismo de Césaire appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/a-mao-de-lula-e-o-humanismo-de-cesaire/",
-          "publishedOn": "2026-11-06T19:57:12.000Z",
-          "wordCount": 3785,
-          "title": "A mão de Lula e o humanismo de Césaire",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5150112941704154248-1.jpg"
+          "description": "O empresário do ramo de eventos que afirmou no seu perfil de rede social que não vai contratar artistas esquerdistas; […]\nThe post O Luto nas Urnas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/o-luto-nas-urnas/",
+          "publishedOn": "2026-11-10T18:39:15.000Z",
+          "wordCount": 4691,
+          "title": "O Luto nas Urnas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209674",
+          "id": "https://outraspalavras.net/?p=3209958",
           "author": "Lucas Scatolini",
-          "description": "Após décadas nas redações e um fim de semana iluminador, o repórter aceita dirigir uma campanha eleitoral. Percebe que o povo nas telas pode fazer diferença. Vence e se prepara para o que será a Rede Povo. Mas o mandato do candidato eleito o leva a questionamentos éticos\nThe post Memórias do Jornalismo: Há propaganda política popular? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismoha-propaganda-politica-popular/",
-          "publishedOn": "2026-11-06T18:41:56.000Z",
-          "wordCount": 5606,
-          "title": "Memórias do Jornalismo: Há propaganda política popular?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5150112941704154238-1.jpg"
+          "description": "Em 1992, um grupo de músicos e jornalistas de Recife lançou um manifesto de nome improvável, Caranguejos com Cérebro, que […]\nThe post Trincheira não se cede: hegemonia depois do segundo turno appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/trincheira-nao-se-cede-hegemonia-depois-do-segundo-turno/",
+          "publishedOn": "2026-11-10T18:16:05.000Z",
+          "wordCount": 4206,
+          "title": "Trincheira não se cede: hegemonia depois do segundo turno",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
         {
-          "id": "https://outraspalavras.net/?p=3209550",
+          "id": "https://outraspalavras.net/?p=3209953",
           "author": "Lucas Scatolini",
-          "description": "Saques à margem dos protestos não são simples desvio violento. Em um contexto em que o orçamento público deixou de funcionar como projeto comum, expõem a exclusão estrutural de jovens sem acesso às mediações institucionais que deveriam ampará-los\nThe post França: onde começa a violência? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/franca-onde-comeca-a-violencia/",
-          "publishedOn": "2026-11-06T18:09:57.000Z",
-          "wordCount": 5349,
-          "title": "França: onde começa a violência?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5147861141890469609.jpg"
+          "description": "Vencemos! Venceram os estudantes, os idosos e as mulheres. Mas vencemos, apesar das dificuldades. Vencemos, apesar da do TSE, de […]\nThe post De Prometeu a Janones: redes sociais e o futuro da soberania digital brasileira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/de-prometeu-a-janones-redes-sociais-e-o-futuro-da-soberania-digital-brasileira/",
+          "publishedOn": "2026-11-10T18:10:38.000Z",
+          "wordCount": 3653,
+          "title": "De Prometeu a Janones: redes sociais e o futuro da soberania digital brasileira",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3209945",
+          "author": "Lucas Scatolini",
+          "description": "Foram várias as vitórias que tivemos nesta última eleição. A vitória é um fato, mas é também, sem dúvidas, um […]\nThe post Tecnologia dos afetos e o Exército do Lula appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/tecnologia-dos-afetos-e-o-exercito-do-lula/",
+          "publishedOn": "2026-11-10T18:05:51.000Z",
+          "wordCount": 4745,
+          "title": "Tecnologia dos afetos e o Exército do Lula",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3209935",
+          "author": "Lucas Scatolini",
+          "description": "“Eles eram comunistas.” Foi assim que Stephen Kotkin resumiu, numa conversa sobre sua pesquisa nos arquivos soviéticos, uma descoberta que […]\nThe post Os comunistas continuam comunistas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/os-comunistas-continuam-comunistas/",
+          "publishedOn": "2026-11-10T17:44:16.000Z",
+          "wordCount": 6373,
+          "title": "Os comunistas continuam comunistas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         }
       ]
     },
@@ -903,7 +978,7 @@
           "description": "Alguns preferem fechar os olhos e esperar um “melhor momento”, tratando com desprezo os “ingênuos” que se mobilizaram. Eu fico com o que disse o poeta Carlos Drummond de Andrade: “O tempo é a minha matéria, o tempo presente, os homens presentes, a vida presente.” Por Davi.",
           "link": "https://passapalavra.info/2026/11/160324/",
           "publishedOn": "2026-11-07T18:25:59.000Z",
-          "wordCount": 8287,
+          "wordCount": 9093,
           "title": "A maior mobilização popular em 10 anos: outubro de 2026",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/ppdesc.jpg"
         },
@@ -925,14 +1000,34 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=68167",
+          "author": "Boitempo",
+          "description": "No texto de hoje, a historiadora Anita Prestes demonstra como Euclides da Cunha e Luiz Carlos Prestes foram duas figuras destacadas da história do Brasil republicano, cujas trajetórias similares encerram ensinamentos importantes sobre a realidade brasileira, justificando uma abordagem historiográfica comparativa.",
+          "link": "https://blogdaboitempo.com.br/2026/11/10/euclides-da-cunha-e-luiz-carlos-prestes-dois-rebeldes-brasileiros/",
+          "publishedOn": "2026-11-10T14:34:52.000Z",
+          "wordCount": 7512,
+          "title": "Euclides da Cunha e Luiz Carlos Prestes: Dois rebeldes brasileiros",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/gemini_generated_image_2305r22305r22305.jpg?fit=1200%2C896&ssl=1"
+        },
+        {
+          "id": "http://blogdaboitempo.com.br/?p=68236",
+          "author": "Boitempo",
+          "description": "A centro-esquerda institucional vê-se diante dos limites da sua administração malabarista entre manter o tripé macroeconômico e avançar em uma modernização com inclusão social. Nesse cenário, Marcos Paulo filho propõe um diálogo entre André Singer e Kauê Lopes dos Santos.",
+          "link": "https://blogdaboitempo.com.br/2026/11/10/prolongamento-do-impasse-a-captura-do-eleitorado-para-um-programa-reacionario/",
+          "publishedOn": "2026-11-10T14:29:32.000Z",
+          "wordCount": 5414,
+          "title": "Prolongamento do impasse: a captura do eleitorado para um programa reacionário",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-09-04-at-124528-e5e04f7f.webp?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67109",
           "author": "Boitempo",
           "description": "Nesta conversa com Bruna Della Torre e Eduardo Altheman, Douglas Kellner fala sobre sua trajetória intelectual, o encontro com a teoria crítica, a Escola de Frankfurt e o trabalho de Herbert Marcuse.",
           "link": "https://blogdaboitempo.com.br/2026/11/09/do-arquivo-uma-conversa-com-douglas-kellner/",
           "publishedOn": "2026-11-09T11:00:00.000Z",
-          "wordCount": 10071,
-          "title": "Do arquivo: uma conversa com Douglas Kellner",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/09/douglas_kellner-edited.jpg"
+          "wordCount": 10092,
+          "title": "Sobre Hebert Marcuse: Conheça o filósofo alemão pela perspectiva de Douglas Kellner",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/c964c9de-0f31-4347-99a0-6d05e877005e_2560x1824.webp?fit=1200%2C855&ssl=1"
         },
         {
           "id": "http://blogdaboitempo.com.br/?p=68123",
@@ -940,7 +1035,7 @@
           "description": "Em 6 de outubro de 2026, dois dias depois do primeiro turno das eleições, uma pergunta apareceu entre as mais pesquisadas pelos brasileiros no Google: “O que é antifeminista?”.",
           "link": "https://blogdaboitempo.com.br/2026/11/08/o-que-cabe-em-uma-palavra-antifeminismo-identidade-e-as-emocoes-que-atravessam-a-politica/",
           "publishedOn": "2026-11-08T11:00:00.000Z",
-          "wordCount": 5961,
+          "wordCount": 6129,
           "title": "O que cabe em uma palavra? Antifeminismo, identidade e as emoções que atravessam a política",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/raf3441-22.jpg?fit=1200%2C804&ssl=1"
         },
