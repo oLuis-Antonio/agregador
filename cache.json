@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "ZNLrvc",
+          "author": null,
+          "description": "Ocorrendo desde o final de outubro, as denúncias abordam a ameaça de demissão em massa, de cortes salariais e precarização de vínculos trabalhistas em unidades de saúde em Santo Amaro e Cidade Ademar",
+          "link": "https://jornalofuturo.com.br/artigo/ZNLrvc-trabalhadores-da-saude-denunciam-ameaca-de-demissao-em-massa-e-precarizacao-no-sus-em-sao-paulo",
+          "publishedOn": "2026-11-12T03:00:00.000Z",
+          "wordCount": 2195,
+          "title": "Trabalhadores da saúde denunciam ameaça de demissão em massa e precarização no SUS em São Paulo",
+          "imageUrl": "https://media.jornalofuturo.com.br/IMG_6806-1280x568.jpg"
+        },
+        {
           "id": "fEEp3P",
           "author": null,
           "description": "A Chapa “SIMESP pela Base - Renovação e Luta” foi eleita para representar os médicos de São Paulo no próximo triênio, a partir de um programa independente de patrões e governos, em defesa dos trabalhadores",
@@ -33,12 +43,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6af64f0cab804e0314c1b71d",
+          "author": "Redação",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/a-forca-das-mobilizacoes-a-derrota-do-bolsonarismo-e-o-novo-ajuste-fiscal-do-governo-lula-ep-20/",
+          "publishedOn": "2026-11-12T23:43:40.000Z",
+          "wordCount": 469,
+          "title": "A força das mobilizações, a derrota do bolsonarismo e o novo ajuste fiscal do governo Lula - EP #20",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
+          "id": "6af63cdfab804e0314c1b6f9",
+          "author": "Érika Andreassy",
+          "description": "Mais uma manhã de caos nos trens de São Paulo. Nesta quinta-feira (12), passageiros da Linha 8-Diamante, operada pela ViaMobilidade, ficaram presos por cerca de 40 minutos dentro de uma composição que apresentou uma falha de tração entre as estaç",
+          "link": "https://opiniaosocialista.com.br/privatizacao-nos-trilhos-trabalhadores-pagam-a-conta-da-precarizacao/",
+          "publishedOn": "2026-11-12T22:36:05.000Z",
+          "wordCount": 1842,
+          "title": "Privatização nos trilhos: trabalhadores pagam a conta da precarização",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/falha-via-mobilidade.webp"
+        },
+        {
           "id": "6af5d25bab804e0314c1b6d7",
           "author": "PSTU-SE",
           "description": "Manifesto de Solidariedade do PSTU-Sergipe",
           "link": "https://opiniaosocialista.com.br/contra-as-manobras-que-tentam-roubar-o-mandato-do-psol-na-alese-a-vaga-e-de-linda-brasil/",
           "publishedOn": "2026-11-12T14:55:17.000Z",
-          "wordCount": 704,
+          "wordCount": 694,
           "title": "Contra as manobras que tentam roubar o mandato do PSOL na ALESE: a vaga é de Linda Brasil",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/linda-brasil.webp"
         },
@@ -58,7 +88,7 @@
           "description": "Pouco mais de duas semanas após o 2º turno, marcado por uma virada histórica possibilitada por manifestações de massa contra o bolsonarismo, um dos motes das quais foi justamente o combate ao \"tesouraço do Flávio\", o",
           "link": "https://opiniaosocialista.com.br/o-povo-nao-pode-pagar-a-conta-ajuste-fiscal-do-governo-lula-atinge-saude-e-educacao/",
           "publishedOn": "2026-11-11T18:19:18.000Z",
-          "wordCount": 1611,
+          "wordCount": 1601,
           "title": "O povo não pode pagar a conta: ajuste fiscal do governo Lula mira Saúde e Educação",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/Lula-e-Alcolumbre--2-.webp"
         },
@@ -68,7 +98,7 @@
           "description": "Duas lideranças indígenas foram presas em ação das polícias Civil e Militar dentro da Aldeia Mãe Barra Velha, no Extremo Sul da Bahia",
           "link": "https://opiniaosocialista.com.br/pstu-bahia-exige-do-governador-jeronimo-rodrigues-pt-a-libertacao-imediata-de-erilsa-e-karen-pataxo/",
           "publishedOn": "2026-11-11T17:49:19.000Z",
-          "wordCount": 981,
+          "wordCount": 971,
           "title": "PSTU-Bahia exige do governador Jerônimo Rodrigues (PT) a libertação imediata de Erilsa e Karen Pataxó!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/erilsa-karen-lado-a-lado.webp"
         },
@@ -88,7 +118,7 @@
           "description": "Denúncias de agressões e intimidações expõem a disputa entre interesses empresariais, direitos dos moradores e liberdade de manifestação em solidariedade à Palestina",
           "link": "https://opiniaosocialista.com.br/bahia-nao-e-territorio-sem-lei-fora-soldados-israelenses-de-nossas-praias-viva-a-palestina/",
           "publishedOn": "2026-11-11T12:59:29.000Z",
-          "wordCount": 1799,
+          "wordCount": 1789,
           "title": "Bahia não é território sem lei: fora soldados israelenses de nossas praias! Viva a Palestina!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/conflito-itacar--.webp"
         },
@@ -98,7 +128,7 @@
           "description": "Trabalhadores com carro ou moto sentem o aumento ao abastecer, e quem não tem veículo pode senti-lo no preço do ônibus, da comida e de outros produtos",
           "link": "https://opiniaosocialista.com.br/aprovado-o-aumento-do-icms-dos-combustiveis-mais-um-peso-no-bolso-do-trabalhador/",
           "publishedOn": "2026-11-11T00:07:32.000Z",
-          "wordCount": 2627,
+          "wordCount": 2615,
           "title": "Aprovado o aumento do ICMS dos combustíveis: mais um peso no bolso do trabalhador",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/gasolina--1-.webp"
         },
@@ -138,7 +168,7 @@
           "description": "Um dia depois da reeleição, governador autorizou a venda de ações da estatal de gás",
           "link": "https://opiniaosocialista.com.br/bahia-jeronimo-rodrigues-avanca-na-privatizacao-da-bahiagas-e-mantem-legado-entreguista-dos-governos-do-pt/",
           "publishedOn": "2026-11-09T12:45:35.000Z",
-          "wordCount": 1315,
+          "wordCount": 1303,
           "title": "Bahia: Jerônimo Rodrigues avança na privatização da Bahiagás e mantém legado entreguista dos governos do PT",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/sede-bahiagas.webp"
         },
@@ -594,16 +624,6 @@
           "wordCount": 4394,
           "title": "A geopolítica da IA e o projeto de dominação dos EUA",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/IA.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74909",
-          "author": "Middle East Monitor",
-          "description": "onald Trump entrou em guerra contra o Irã com o objetivo de demonstrar a invencibilidade do império americano. Oito meses depois, o Irã ajudou a infligir uma das derrotas estratégicas mais devastadoras da história do poder imperial americano. O campo de batalha foi no Irã; o terremoto político atingiu Washington. Trump queria uma mudança de […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/08/trump-buscou-uma-mudanca-de-regime-no-ira-o-ira-foi-quem-a-concretizou-em-washington/",
-          "publishedOn": "2026-11-08T18:10:15.000Z",
-          "wordCount": 3147,
-          "title": "Trump buscou uma mudança de regime no Irã; o Irã foi quem a concretizou em Washington",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/ira.webp"
         }
       ]
     },
@@ -613,12 +633,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=271655",
+          "author": "Rocio Paik",
+          "description": "O Serviço de Imigração e Alfândega dos Estados Unidos (ICE, na sigla em inglês) executou 483.200 expulsões de estrangeiros e 475.000 prisões no país durante o ano fiscal de 2026, marcando os maiores números já registrados na história da agência, de acordo com os dados divulgados pelo Departamento de Segurança (DHS) nesta quinta-feira (12/11). O […]\nO post Com mais de 483 mil expulsões, EUA atingem recorde de deportações pelo ICE em 2026 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/com-mais-de-483-mil-expulsoes-eua-atingem-recorde-de-deportacoes-pelo-ice-em-2026/",
+          "publishedOn": "2026-11-13T04:30:30.000Z",
+          "wordCount": 3208,
+          "title": "Com mais de 483 mil expulsões, EUA atingem recorde de deportações pelo ICE em 2026",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/g_xbry7wcaehgg_-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271649",
+          "author": "Rocio Paik",
+          "description": "O presidente dos Estados Unidos, Donald Trump, declarou nesta quinta-feira (12/11) que “quer resolver a questão de Cuba” antes do fim de seu mandato e não descartou o uso da força militar para isso. A posição foi dada em entrevista ao Salem News Channel, durante a qual o republicano destacou que o secretário de Estado […]\nO post Trump diz que quer ‘resolver a questão de Cuba’ e cogita intervenção militar apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/trump-diz-que-quer-resolver-a-questao-de-cuba-e-cogita-uso-de-forca-militar/",
+          "publishedOn": "2026-11-13T03:10:26.000Z",
+          "wordCount": 3337,
+          "title": "Trump diz que quer ‘resolver a questão de Cuba’ e cogita intervenção militar",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55648753306_acb8c51832_k.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271646",
+          "author": "Rocio Paik",
+          "description": "O secretário-geral da OTAN afirmou nesta quinta-feira (12/11) que é “muito difícil dizer” se a perspectiva de paz na Ucrânia está mais próxima, após vários dias de intensas negociações diplomáticas nos Emirados Árabes Unidos, na Rússia e na Irlanda. Em entrevista durante uma reunião de cúpula em Dublin, Mark Rutte elogiou o “trabalho intenso” realizado […]\nO post Após negociações com Rússia, paz na guerra com Ucrânia continua imprevisível, diz chefe da OTAN apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/apos-negociacoes-com-russia-paz-na-guerra-com-ucrania-continua-imprevisivel-diz-chefe-da-otan/",
+          "publishedOn": "2026-11-13T02:01:48.000Z",
+          "wordCount": 4731,
+          "title": "Após negociações com Rússia, paz na guerra com Ucrânia continua imprevisível, diz chefe da OTAN",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hw8apbiwuaa0zpr.jpeg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=271641",
           "author": "Raissa Neves",
           "description": "Em dezembro de 2022, quando seu filho recém-nascido enfrentou graves complicações de saúde e precisou de cuidados médicos intensivos, o goleiro paraguaio Orlando Gill teve de recorrer a um ato doloroso: vender quase tudo que tinha para conseguir pagar as despesas do tratamento. Precisou se desfazer de chuteiras, roupas e até uma camisa da seleção […]\nO post Estado mínimo, sofrimento máximo: Paraguai e a crise na Saúde apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/estado-minimo-sofrimento-maximo-paraguai-e-a-crise-na-saude/",
           "publishedOn": "2026-11-12T21:53:52.000Z",
-          "wordCount": 5571,
+          "wordCount": 5577,
           "title": "Estado mínimo, sofrimento máximo: Paraguai e a crise na Saúde",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/holiday_transforms_student_hearing_screenings_into_community_hearing_care_day_9770227-scaled.jpg"
         },
@@ -628,7 +678,7 @@
           "description": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), negou nesta quinta-feira (12/11) o pedido liminar para adiar a implementação da Emenda Constitucional 141/2026. A norma extingue a escala 6×1, reduz gradualmente a jornada semanal de 44 para 40 horas e amplia o repouso semanal remunerado para dois dias. A implementação foi dividida em duas […]\nO post Dino nega adiar fim da escala 6×1, mas estabelece regras para transição apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/dino-nega-adiar-fim-da-escala-6x1-mas-fixa-regras-de-transicao/",
           "publishedOn": "2026-11-12T21:40:01.000Z",
-          "wordCount": 3958,
+          "wordCount": 3511,
           "title": "Dino nega adiar fim da escala 6×1, mas estabelece regras para transição",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/dino.jpg"
         },
@@ -638,7 +688,7 @@
           "description": "O presidente Luiz Inácio Lula da Silva disse nesta quinta-feira (12/11) que espera um pedido de desculpas, por parte da imprensa brasileira, sobre o caso envolvendo um apartamento triplex em Guarujá (SP). “Fiquei 580 dias preso dizendo que o apartamento não era meu. Agora que a Justiça decidiu que o apartamento não era meu, eu […]\nO post Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-em-guaruja/",
           "publishedOn": "2026-11-12T21:00:32.000Z",
-          "wordCount": 3872,
+          "wordCount": 3423,
           "title": "Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cop-2.jpg"
         },
@@ -648,7 +698,7 @@
           "description": "O presidente chinês, Xi Jinping, afirmou nesta quinta-feira (12/11) que a reunificação de Taiwan é uma missão histórica do Partido Comunista da China (PCCh). A declaração foi feita durante uma cerimônia em homenagem aos 160 anos do nascimento do primeiro presidente da China republicana, Sun Yat-sen, realizada no Grande Palácio do Povo, em Beijing. “Resolver […]\nO post Xi Jinping afirma que reunificação de Taiwan é missão histórica do PC apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/china/xi-jinping-afirma-que-reunificacao-de-taiwan-e-missao-historica-do-partido-comunista/",
           "publishedOn": "2026-11-12T20:20:59.000Z",
-          "wordCount": 7112,
+          "wordCount": 7118,
           "title": "Xi Jinping afirma que reunificação de Taiwan é missão histórica do PC",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/xi.jpg"
         },
@@ -658,7 +708,7 @@
           "description": "O Parlamento da Espanha aprovou nesta quinta-feira (12/11) medidas para ampliar a proteção de inquilinos contra despejos, um dia após a greve geral que levou centenas de milhares de pessoas às ruas contra o aumento dos aluguéis e do custo de vida. As informações são da Al Jazeera. A votação ocorreu em meio à crise […]\nO post Espanha aprova medidas contra despejos após greve geral por moradia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/espanha-aprova-medidas-contra-despejos-apos-greve-geral-por-moradia/",
           "publishedOn": "2026-11-12T19:40:14.000Z",
-          "wordCount": 3455,
+          "wordCount": 3461,
           "title": "Espanha aprova medidas contra despejos após greve geral por moradia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hw8qdhmw4aetsdo.jpg"
         },
@@ -668,7 +718,7 @@
           "description": "O Congresso Nacional aprovou, nesta quinta-feira (12/11), projeto de lei que flexibiliza regras fiscais e orçamentárias para a realização da Copa do Mundo Feminina da Fifa 2027, no Brasil entre 24 de junho e 25 de julho. De autoria da Presidência da República, o Projeto de Lei do Congresso Nacional (PLN) nº 5 de 2026 prevê […]\nO post Congresso aprova flexibilização de regras fiscais para Copa Feminina de 2027 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/congresso-aprova-flexibilizacao-de-regras-fiscais-para-copa-feminina-de-2027/",
           "publishedOn": "2026-11-12T19:00:20.000Z",
-          "wordCount": 3752,
+          "wordCount": 3307,
           "title": "Congresso aprova flexibilização de regras fiscais para Copa Feminina de 2027",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/cbf_anuncia_amistosos_da_selecao_feminina_em_palcos_da_copa_do_mundo.webp"
         },
@@ -678,39 +728,9 @@
           "description": "Em meio às tensões no Oriente Médio e às tentativas de construir uma saída diplomática para a guerra, os presidente do Brasil Luiz Inácio Lula da Silva e o presidente do Irã  Masoud Pezeshkian conversaram nesta quinta-feira (12/11), em Antália, na Turquia. A reunião ocorreu durante a 31ª Conferência das Nações Unidas sobre Mudanças Climáticas […]\nO post Em reunião, Lula e presidente do Irã tratam sobre guerra no Oriente Médio e relações comerciais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/em-reuniao-lula-e-presidente-do-ira-tratam-sobre-guerra-no-oriente-medio-e-relacoes-comerciais/",
           "publishedOn": "2026-11-12T18:30:37.000Z",
-          "wordCount": 4298,
+          "wordCount": 4304,
           "title": "Em reunião, Lula e presidente do Irã tratam sobre guerra no Oriente Médio e relações comerciais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/image-6.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271607",
-          "author": "Tatiana Carlotti",
-          "description": "O governo Kast anunciou nesta quarta-feira (11/11) o congelamento dos preços dos combustíveis por 90 dias, até fevereiro de 2027. A decisão é uma tentativa de encerrar a greve de caminhoneiros que bloqueia parcialmente rodovias em diversas regiões do país. Segundo o ministro do Interior, Claudio Alvarado, o governo enviará ao Congresso um projeto de […]\nO post Chile congela preços dos combustíveis para encerrar greve dos caminhoneiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/chile-congela-precos-dos-combustiveis-para-encerrar-greve-dos-caminhoneiros/",
-          "publishedOn": "2026-11-12T17:45:06.000Z",
-          "wordCount": 3549,
-          "title": "Chile congela preços dos combustíveis para encerrar greve dos caminhoneiros",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-27-103356.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271597",
-          "author": "Tatiana Carlotti",
-          "description": "O Papa Leão 14 está no Peru, último destino de sua viagem pela América do Sul e país onde viveu por mais de duas décadas. Recebido por milhões de fieis, o pontífice chegou a Lima nesta quarta-feira (11/11), após passar pela Argentina e pelo Uruguai, e reuniu-se com a presidente peruana, Keiko Fujimori. Em seu […]\nO post De volta ao Peru, Leão 14 cobra políticas de justiça e reconciliação apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/de-volta-ao-peru-leao-14-cobra-politicas-de-justica-e-reconciliacao/",
-          "publishedOn": "2026-11-12T16:50:35.000Z",
-          "wordCount": 4034,
-          "title": "De volta ao Peru, Leão 14 cobra políticas de justiça e reconciliação",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/900664653_18654460543055231_1564204293777237203_n.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271608",
-          "author": "Paola Orlovas",
-          "description": "O cofundador e presidente-executivo da Nvidia, Jensen Huang, renunciou ao cargo nesta quinta-feira (12/11), após a divulgação de dois relacionamentos extraconjugais, um deles com uma empresária apontada por autoridades norte-americanas como possível agente da inteligência chinesa. As informações são do jornal norte-americano New York Times. A renúncia ocorreu um dia após o jornal revelar que […]\nO post CEO da Nvidia renuncia após escândalos envolvendo casos extraconjugais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/ceo-da-nvidia-renuncia-apos-escandalos-casos-extraconjugais/",
-          "publishedOn": "2026-11-12T16:30:09.000Z",
-          "wordCount": 4371,
-          "title": "CEO da Nvidia renuncia após escândalos envolvendo casos extraconjugais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/nvidia_ceo_jensen_huang_is_recognized_by_president_donald_trump_during_remarks_at_the_white_house_ai_summit_at_andrew_w._mellon_auditorium_in_washington_54677035268.jpg"
         }
       ]
     },
@@ -752,7 +772,7 @@
           "description": "Após a detenção, indígenas bloquearam uma estrada e tentaram libertar a vice-cacica, contestando a operação e exigindo sua soltura. Karen Pataxó, de 33 anos, também foi levada pelas forças de repressão ao se contrapor a prisão da liderança.",
           "link": "https://anovademocracia.com.br/policia-civil-operacao-bahia-latifundio/",
           "publishedOn": "2026-11-12T16:40:56.000Z",
-          "wordCount": 9257,
+          "wordCount": 9258,
           "title": "Polícia Civil prende vice-cacica Pataxó em operação no sul da Bahia ‘a serviço do latifúndio predatório e de milícias rurais’",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-32.png"
         },
@@ -762,7 +782,7 @@
           "description": "Governo oportunista articula com o Senado novas restrições aos gastos públicos para 2027, enquanto juros da dívida ultrapassam R$ 1,2 trilhão em 12 meses. Pacote atende a pressões do capital financeiro e ameaça reduzir obrigações de financiamento dos serviços públicos.",
           "link": "https://anovademocracia.com.br/luiz-inacio-ajuste-fiscal-saude-educacao/",
           "publishedOn": "2026-11-11T22:48:12.000Z",
-          "wordCount": 8146,
+          "wordCount": 8147,
           "title": "Luiz Inácio prepara ‘ajuste fiscal’ de até R$ 60 bilhões e ameaça verbas da Saúde e Educação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/coletiva-dario-moretti-foto-Washington-Costa-MF-1.jpg.optimal-1024x683.jpg"
         },
@@ -782,7 +802,7 @@
           "description": "Enquanto o Rio Madeira recua, famílias do Baixo Madeira enfrentam dificuldades para garantir água, alimentação e transporte. Sob temperaturas elevadas, as cobranças da Energisa tornam ainda mais difícil manter ventiladores e aparelhos de refrigeração ligados.",
           "link": "https://anovademocracia.com.br/rio-madeira-critico-camponeses-ribeirinhos/",
           "publishedOn": "2026-11-11T20:43:15.000Z",
-          "wordCount": 8998,
+          "wordCount": 8999,
           "title": "Rio Madeira atinge nível crítico enquanto camponeses e ribeirinhos sofrem com cobranças abusivas na conta de luz",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-30.png"
         },
@@ -792,7 +812,7 @@
           "description": "Durante a marcha, ativistas defenderam que apenas a autodemarcação, combinada com a autodefesa indígena, pode garantir aos povos indígenas o direito à terra.",
           "link": "https://anovademocracia.com.br/ato-avenida-paulista-contra-o-genocidio-indigena-e-em-defesa-da-revolucao-agraria/",
           "publishedOn": "2026-11-11T20:06:52.000Z",
-          "wordCount": 7293,
+          "wordCount": 7294,
           "title": "Ato convocado pela Liga Anti-Imperialista reúne dezenas na avenida Paulista contra o genocídio indígena e em defesa da Revolução Agrária",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/1000018828.jpg"
         },
@@ -802,7 +822,7 @@
           "description": "Investigação aponta vazamento antecipado de decisão na disputa bilionária pela Eldorado Celulose, entre a J&F e a Paper Excellence. Mensagens obtidas pela PF também revelam suspeita de acerto de R$ 40 milhões por parecer do MPF favorável à multinacional.",
           "link": "https://anovademocracia.com.br/ex-secretario-stj-informacoes-willer-tomaz/",
           "publishedOn": "2026-11-11T10:00:00.000Z",
-          "wordCount": 8286,
+          "wordCount": 8287,
           "title": "Ex-secretário do STJ é preso suspeito de repassar informações sigilosas ao advogado Willer Tomaz",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-27.png"
         },
@@ -812,7 +832,7 @@
           "description": "Após agentes da prefeitura darem dez dias para a desocupação do ponto onde Eduardo Peixeiro vive e trabalha, moradores do bairro saíram às ruas em sua defesa.",
           "link": "https://anovademocracia.com.br/pb-moradores-fecham-rua-comerciante-despejo/",
           "publishedOn": "2026-11-10T19:15:20.000Z",
-          "wordCount": 7339,
+          "wordCount": 7340,
           "title": "PB: Moradores do Aluízio Campos fecham ruas em defesa de comerciante ameaçado de despejo",
           "enclosure": {
             "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Video-Protesto.mp4",
@@ -827,7 +847,7 @@
           "description": "Comitiva da Guarda Nacional de Nova York conheceu instalações do Exército Brasileiro; parceria firmada em 2019 inclui cursos de guerra na selva e exercícios de combate com tropas ianques na Amazônia.",
           "link": "https://anovademocracia.com.br/ianque-manaus-presenca-eua-amazonia/",
           "publishedOn": "2026-11-10T18:44:34.000Z",
-          "wordCount": 8156,
+          "wordCount": 8157,
           "title": "General ianque visita centro de guerra na selva em Manaus em meio a crescente presença militar do EUA na Amazônia",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-10-ianque.jpg"
         },
@@ -837,7 +857,7 @@
           "description": "Moradores se refugiaram na mata após os tiros. A Usina Maravilha instalou uma base de pistoleiros na área produtiva do acampamento em 2023.",
           "link": "https://anovademocracia.com.br/mst-segurancas-privados-camponeses-paraiba/",
           "publishedOn": "2026-11-10T18:39:04.000Z",
-          "wordCount": 7320,
+          "wordCount": 7321,
           "title": "MST denuncia ataque de bando paramilitar contra camponeses no sul da Paraíba",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-10-paraiba.jpeg"
         }
@@ -896,12 +916,22 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3210284",
+          "author": "Raíssa Araújo Pacheco",
+          "description": "No mês em que milhares de estudantes e trabalhadores lotaram as ruas do mundo, estivadores de 113 portos da Europa cruzaram os braços para tentar frear o genocídio palestino. Em meio à crise do regime de guerra, costura-se um tecido em comum\nThe post O que nos mostra a greve portuária internacional? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/o-que-nos-mostra-a-greve-portuaria-internacional/",
+          "publishedOn": "2026-11-12T22:34:01.000Z",
+          "wordCount": 5352,
+          "title": "O que nos mostra a greve portuária internacional?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo-2.jpg"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3210319",
           "author": "Lucas Scatolini",
           "description": "Historiador que foi assessor-chefe da Defesa analisa em profundidade a caserna e seus bastidores. Esmiúça a doutrina de inimigo interno semeada pelos EUA. O fascismo enraizado na casta militar. Os erros de Lula. E como o Brasil pode se preparar contra uma agressão externa\nThe post Nas entranhas das Forças Armadas  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/nas-entranhas-das-forcas-armadas/",
           "publishedOn": "2026-11-12T21:11:38.000Z",
-          "wordCount": 7155,
+          "wordCount": 7158,
           "title": "Nas entranhas das Forças Armadas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5165670889503264043.jpg"
         },
@@ -971,7 +1001,7 @@
           "description": "Após 14 anos, país paralisa e vai às ruas por direitos e contra o avanço do fascismo. Como brotaram comitês em bairros de mais de cem cidades? Por que o Direito à Moradia é pauta central? O que o movimento propõe? E quais os próximos passos?\nThe post Espanha: Assim se organizou a greve geral appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/espanha-assim-se-organizou-a-grevegeral/",
           "publishedOn": "2026-11-11T23:02:59.000Z",
-          "wordCount": 5294,
+          "wordCount": 5291,
           "title": "Espanha: Assim se organizou a greve geral",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/17309948.jpeg"
         },
@@ -984,16 +1014,6 @@
           "wordCount": 5908,
           "title": "Lula 4: Como encarar as ameaças do rentismo",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Captura-de-tela-de-2026-11-11-18-36-27.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210124",
-          "author": "Lucas Scatolini",
-          "description": "Apesar de força adjuvante importante, as virtudes dessa tática abrigam suas limitações. Organização política exige experimentação contínua, militância não apenas virtual, conteúdo politizante e estratégia não imediatista – elementos cruciais para guerra que ainda temos pela frente\nThe post Pode o janonismo ir além dos seus limites? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/pode-o-janonismo-ir-alem-dos-seus-limites/",
-          "publishedOn": "2026-11-11T21:26:39.000Z",
-          "wordCount": 5879,
-          "title": "Pode o janonismo ir além dos seus limites?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/51635274645993588181.jpg"
         }
       ]
     },
@@ -1045,7 +1065,7 @@
           "description": "O que fazer com a bagunça narrativa e visual que é Rosebush Pruning? Leia a resenha de Alysson Oliveira sobre o longa dirigido pelo brasileiro Karim Aïnouz. O filme chega à plataforma Mubi nessa sexta (13).",
           "link": "https://blogdaboitempo.com.br/2026/11/12/rosebush-pruning-uma-elite-verdadeiramente-devassa/",
           "publishedOn": "2026-11-12T11:00:00.000Z",
-          "wordCount": 4882,
+          "wordCount": 4714,
           "title": "Rosebush Pruning: Uma elite verdadeiramente devassa",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/rosebush_f06cor_2026116362.jpg?fit=1200%2C675&ssl=1"
         },
@@ -1075,7 +1095,7 @@
           "description": "No texto de hoje, a historiadora Anita Prestes demonstra como Euclides da Cunha e Luiz Carlos Prestes foram duas figuras destacadas da história do Brasil republicano, cujas trajetórias similares encerram ensinamentos importantes sobre a realidade brasileira, justificando uma abordagem historiográfica comparativa.",
           "link": "https://blogdaboitempo.com.br/2026/11/10/euclides-da-cunha-e-luiz-carlos-prestes-dois-rebeldes-brasileiros/",
           "publishedOn": "2026-11-10T14:34:52.000Z",
-          "wordCount": 7512,
+          "wordCount": 7513,
           "title": "Euclides da Cunha e Luiz Carlos Prestes: Dois rebeldes brasileiros",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/gemini_generated_image_2305r22305r22305.jpg?fit=1200%2C896&ssl=1"
         },
@@ -1098,16 +1118,6 @@
           "wordCount": 10093,
           "title": "Sobre Hebert Marcuse: Conheça o filósofo alemão pela perspectiva de Douglas Kellner",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/c964c9de-0f31-4347-99a0-6d05e877005e_2560x1824.webp?fit=1200%2C855&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=68123",
-          "author": "Boitempo",
-          "description": "Em 6 de outubro de 2026, dois dias depois do primeiro turno das eleições, uma pergunta apareceu entre as mais pesquisadas pelos brasileiros no Google: “O que é antifeminista?”.",
-          "link": "https://blogdaboitempo.com.br/2026/11/08/o-que-cabe-em-uma-palavra-antifeminismo-identidade-e-as-emocoes-que-atravessam-a-politica/",
-          "publishedOn": "2026-11-08T11:00:00.000Z",
-          "wordCount": 5961,
-          "title": "O que cabe em uma palavra? Antifeminismo, identidade e as emoções que atravessam a política",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/raf3441-22.jpg?fit=1200%2C804&ssl=1"
         }
       ]
     }
