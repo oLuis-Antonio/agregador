@@ -43,6 +43,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6af889d7b79e7a48925f6bf9",
+          "author": "Direção Nacional do PSTU",
+          "description": "Rosinha, Marco Antonio Rosa Pugliese, acabou de nos deixar. É com muita tristeza que escrevemos esta nota e com certeza, que tantos militantes, amigos, ativistas e familiares receberam logo cedinho, na manhã de sábado, 14, essa notícia.\nRosinha começou a militar em 1980",
+          "link": "https://opiniaosocialista.com.br/rosinha-presente-ate-o-socialismo-sempre/",
+          "publishedOn": "2026-11-14T16:40:35.000Z",
+          "wordCount": 998,
+          "title": "Rosinha, presente, até o socialismo, sempre!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/Rosinha.webp"
+        },
+        {
           "id": "6af76ab5b79e7a48925f6b92",
           "author": "Secretaria Nacional de Negras e Negros do PSTU",
           "description": "Preparar as periferias para lutar por reparações ao povo negro, contra a redução da maioridade penal e contra o capitalismo!",
@@ -181,16 +191,6 @@
           "wordCount": 2613,
           "title": "Aprovado o aumento do ICMS dos combustíveis: mais um peso no bolso do trabalhador",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/gasolina--1-.webp"
-        },
-        {
-          "id": "6af31408ab804e0314c1b583",
-          "author": "PSTU-BA",
-          "description": "Marisqueiras, pescadores e comerciantes, muitos deles mulheres negras e mães de família, enfrentam meses sem renda enquanto aguardam reparação",
-          "link": "https://opiniaosocialista.com.br/bahia-empresas-contaminam-a-praia-e-trabalhadores-ficam-sem-sustento-em-salvador/",
-          "publishedOn": "2026-11-10T13:05:45.000Z",
-          "wordCount": 1425,
-          "title": "Bahia: Empresas contaminam a praia, e trabalhadores ficam sem sustento em Salvador",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/praia-sao-tome-de-paripe.png"
         }
       ]
     },
@@ -199,6 +199,16 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Ato-paralisacao-e-greve-Servidores-mostram-o-caminho-para-barrar-reforma-da-previdencia",
+          "author": "Redação, Victor Pepino",
+          "description": "Servidores de São Leopoldo das mais diferentes políticas como educação, saúde, assistência social e saneamento básico, paralisaram parte dos serviços públicos como forma de resistência contra proposta de reforma da previdência do governo Heliomar (PL).\n14-11-2026\n\n/ São Leopoldo, Sindicatos, Reforma, Previdência Social, Rio Grande do Sul, Paralisação",
+          "link": "https://www.esquerdadiario.com.br/Ato-paralisacao-e-greve-Servidores-mostram-o-caminho-para-barrar-reforma-da-previdencia",
+          "publishedOn": "2026-11-14T12:47:57.000Z",
+          "wordCount": null,
+          "title": "Ato, paralisação e greve. Servidores mostram o caminho para barrar reforma da previdência",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Flavio-Dino-vota-a-favor-de-patroes-a-flexibilizarem-fim-da-escala-6x1",
           "author": "Vitória Busato",
@@ -628,12 +638,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=271760",
+          "author": "Victor Farinelli",
+          "description": "O secretário-geral da Organização das Nações Unidas (ONU), António Guterres, cobrou dos países desenvolvidos maior responsabilidade no enfrentamento da crise climática durante sua participação na 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), realizada em Antalya, na Turquia. Em declaração na sexta-feira (13/11), ele afirmou que as nações mais vulneráveis, que menos contribuíram para […]\nO post ‘Futuro do planeta não pode depender de quem lucra com destruição’, diz líder da ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/meio-ambiente/futuro-do-planeta-nao-pode-depender-de-quem-lucra-com-destruicao-diz-lider-da-onu/",
+          "publishedOn": "2026-11-14T16:50:56.000Z",
+          "wordCount": 4455,
+          "title": "‘Futuro do planeta não pode depender de quem lucra com destruição’, diz líder da ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/guterres.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271757",
+          "author": "Victor Farinelli",
+          "description": "O presidente Luiz Inácio Lula da Silva reuniu-se neste sábado (14/11) com o presidente das Filipinas, Ferdinand Marcos Jr., em Manila, durante sua primeira visita de Estado ao país. Os dois governos anunciaram acordos de cooperação nas áreas de agricultura e defesa da concorrência, além de discutirem comércio, investimentos, energia, tecnologia e segurança alimentar. O […]\nO post Lula se reúne com presidente das Filipinas e assina acordos de cooperação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-se-reune-com-presidente-das-filipinas-e-assina-acordos-de-cooperacao/",
+          "publishedOn": "2026-11-14T16:00:43.000Z",
+          "wordCount": 4182,
+          "title": "Lula se reúne com presidente das Filipinas e assina acordos de cooperação",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/lula-2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271753",
+          "author": "Victor Farinelli",
+          "description": "Dois palestinos foram mortos e várias pessoas ficaram feridas em um ataque de drone israelense neste sábado (14/11), no norte da Faixa de Gaza. O bombardeio ocorreu nas proximidades do entroncamento de Abu Sharkh, a oeste do campo de refugiados de Jabalia, segundo informações da agência oficial palestina WAFA, com base em fontes médicas. Os […]\nO post Ataque lançado por Israel mata dois palestinos no norte de Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/ataque-lancado-por-israel-mata-dois-palestinos-no-norte-de-gaza/",
+          "publishedOn": "2026-11-14T15:20:10.000Z",
+          "wordCount": 4552,
+          "title": "Ataque lançado por Israel mata dois palestinos no norte de Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/wafa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271540",
+          "author": "Rocio Paik",
+          "description": "A disputa global pela inteligência artificial (IA) costuma ser retratada como uma corrida exclusiva entre Estados Unidos e China pelo desenvolvimento dos modelos mais avançados de tecnologia. Essa visão, porém, é limitada. A disputa envolve também o controle das cadeias produtivas e das infraestruturas necessárias para desenvolver, treinar e operar sistemas de IA. A questão, […]\nO post Brasil e Coreia do Sul devem consolidar autonomia estratégica em IA, diz especialista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/o-que-brasil-e-coreia-do-sul-podem-ganhar-na-disputa-global-pela-ia/",
+          "publishedOn": "2026-11-14T14:30:42.000Z",
+          "wordCount": 5871,
+          "title": "Brasil e Coreia do Sul devem consolidar autonomia estratégica em IA, diz especialista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-12-at-03.18.50-e1794479406748.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271745",
+          "author": "Victor Farinelli",
+          "description": "O ex-chefe das Forças Armadas de Israel e líder oposicionista Gadi Eisenkot acusou o primeiro-ministro interino Benjamin Netanyahu de alimentar uma campanha “racista e violenta” contra os cidadãos árabes do país. Em declaração publicada na sexta-feira (13/11), Representante do partido Yashar, Eisenkot afirmou que a ofensiva política procura deslegitimar uma parcela da população israelense por […]\nO post Eisenkot acusa Netanyahu de promover racismo contra árabes de Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel/eisenkot-acusa-netanyahu-de-promover-campanha-racista-contra-cidadaos-arabes-de-israel/",
+          "publishedOn": "2026-11-14T14:09:58.000Z",
+          "wordCount": 4358,
+          "title": "Eisenkot acusa Netanyahu de promover racismo contra árabes de Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1-gadi.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271742",
+          "author": "Victor Farinelli",
+          "description": "Os Estados Unidos reabriram o espaço aéreo após uma rara suspensão nacional das decolagens causada por uma falha de comunicação em centros de controle aéreo. O incidente levou ao cancelamento de mais de 6 mil voos e ao atraso de cerca de 10 mil operações, deixando centenas de milhares de passageiros sem informações claras nos […]\nO post EUA reabrem espaço aéreo após pane histórica que afetou mais de 6 mil voos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-reabrem-espaco-aereo-apos-pane-historica-que-afetou-mais-de-6-mil-voos/",
+          "publishedOn": "2026-11-14T12:39:03.000Z",
+          "wordCount": 5293,
+          "title": "EUA reabrem espaço aéreo após pane histórica que afetou mais de 6 mil voos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/avioes.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=271730",
           "author": "Raissa Neves",
           "description": "A possível participação da Europa nas próximas negociações sobre a Ucrânia se transformou em um impasse nesta sexta-feira (13/11), com a Rússia estabelecendo condições e os europeus alertando para as “armadilhas” de Moscou. Os enviados americanos Jared Kushner e Steve Witkoff, que se reuniram na quinta-feira (12/11) com o presidente russo, Vladimir Putin, em Moscou, […]\nO post Divididos ante proposta da Rússia, líderes europeus divergem sobre negociações por Ucrânia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/lideres-europeus-divergem-sobre-negociacoes-da-ucrania/",
           "publishedOn": "2026-11-13T21:40:48.000Z",
-          "wordCount": 4253,
+          "wordCount": 4255,
           "title": "Divididos ante proposta da Rússia, líderes europeus divergem sobre negociações por Ucrânia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-13-181545.png"
         },
@@ -643,7 +713,7 @@
           "description": "Há 117 anos, em 13 de novembro de 1909, a sufragista britânica Theresa Garnett atacava Winston Churchill com um chicote na estação ferroviária de Temple Meads, em Bristol. Então presidente da Junta de Comércio, Churchill era conhecido por se opor veementemente à extensão do direito ao voto às mulheres. Theresa era uma das mais ativas […]\nO post Theresa Garnett: a sufragista que chicoteou Winston Churchill apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/theresa-garnett-a-sufragista-que-chicoteou-winston-churchill/",
           "publishedOn": "2026-11-13T21:00:45.000Z",
-          "wordCount": 5933,
+          "wordCount": 5935,
           "title": "Theresa Garnett: a sufragista que chicoteou Winston Churchill",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/theresa_garnett_par_linley_blathwayt.jpg"
         },
@@ -653,7 +723,7 @@
           "description": "Agir imediatamente para enfrentar os efeitos devastadores do fenômeno El Niño custará metade do que esperar para reagir mais tarde, afirmou nesta sexta-feira (13/11) Alexander De Croo, diretor do Programa das Nações Unidas para o Desenvolvimento (PNUD) durante a COP31, em Antalya, na Turquia. “As necessidades para enfrentar os impactos do El Niño chegam a […]\nO post ONU alerta que adiar resposta ao El Niño pode dobrar custos de mitigação apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/meio-ambiente/onu-alerta-que-adiar-resposta-ao-el-nino-pode-dobrar-custos-de-mitigacao/",
           "publishedOn": "2026-11-13T20:08:40.000Z",
-          "wordCount": 3673,
+          "wordCount": 4132,
           "title": "ONU alerta que adiar resposta ao El Niño pode dobrar custos de mitigação",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/unicef.jpg"
         },
@@ -663,69 +733,9 @@
           "description": "O Café com História realiza em dezembro sua última edição de 2026. O programa mensal, presencial e exclusivo para apoiadores de Opera Mundi, abrirá as inscrições na próxima segunda-feira (16/11) e terá como tema o “Neoliberalismo”. Conduzida pelo jornalista e fundador de Opera Mundi, Breno Altman, a atividade abordará as origens do neoliberalismo, seus principais […]\nO post Café com História encerra programação de 2026 com debate sobre neoliberalismo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cafe-com-historia/cafe-com-historia-encerra-programacao-de-2026-com-debate-sobre-neoliberalismo/",
           "publishedOn": "2026-11-13T19:57:48.000Z",
-          "wordCount": 3514,
+          "wordCount": 3516,
           "title": "Café com História encerra programação de 2026 com debate sobre neoliberalismo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/carrossel-02-2-819x1024.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271710",
-          "author": "Raissa Neves",
-          "description": "O Exército de El Salvador passou a utilizar cães-robôs equipados com fuzis de assalto durante sua operação militar no Haiti. Os equipamentos foram registrados em imagens divulgadas nas redes sociais durante a retomada do estádio Sylvio Cator, em Porto Príncipe, na quinta-feira (12/11). A utilização de robôs armados em operações urbanas remete ao universo distópico […]\nO post Ação militar no Haiti gera cenário estilo ‘Black Mirror’, com cachorros robôs e crâneos humanos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/acao-militar-no-haiti-gera-cenario-estilo-black-mirror-com-cachorros-robos-e-craneos-humanos/",
-          "publishedOn": "2026-11-13T18:18:39.000Z",
-          "wordCount": 4575,
-          "title": "Ação militar no Haiti gera cenário estilo ‘Black Mirror’, com cachorros robôs e crâneos humanos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/capture-decran-2026-11-13-a-113423-1-1536x917-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271706",
-          "author": "Paola Orlovas",
-          "description": "A Polícia Civil do Distrito Federal (PCDF) deflagrou, na quinta-feira (12/11), uma operação contra um esquema suspeito de falsificar certidões de nascimento para permitir que estrangeiros do Oriente Médio e da Rússia obtivessem documentos de identidade e passaportes brasileiros. Entre os beneficiários do esquema está Fahad Abdullah Bakalka, cidadão saudita mencionado em um documento norte-americano […]\nO post Polícia investiga esquema que oferece documentos brasileiros falsificados para estrangeiros apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/policia-investiga-esquema-documentos-br-falsificados-para-estrangeiros/",
-          "publishedOn": "2026-11-13T17:10:51.000Z",
-          "wordCount": 3986,
-          "title": "Polícia investiga esquema que oferece documentos brasileiros falsificados para estrangeiros",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/fotos_produzidas_pelo_senado_39787884074.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271703",
-          "author": "Paola Orlovas",
-          "description": "A redução do financiamento da Agência das Nações Unidas de Assistência aos Refugiados da Palestina (UNRWA) tem agravado as condições de vida de refugiados palestinos no Líbano, comprometendo o funcionamento de escolas, unidades de saúde e serviços de assistência social. A situação é agravada pelos ataques israelenses contra o território libanês, que também atingem comunidades […]\nO post Falta de recursos agrava situação de refugiados palestinos no Líbano, alerta ONU apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/falta-de-recursos-agrava-situacao-refugiados-palestinos-no-libano/",
-          "publishedOn": "2026-11-13T15:50:33.000Z",
-          "wordCount": 3773,
-          "title": "Falta de recursos agrava situação de refugiados palestinos no Líbano, alerta ONU",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ho5k35axwaa5ft--e1794584198324.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271690",
-          "author": "Pedro Marin",
-          "description": "Na Folha de S. Paulo de 9 de novembro, a pretexto de combater eventual projeto de lei para classificar o sionismo como racismo, Lygia Maria defendeu que essa ideologia representaria um suposto “movimento de autodeterminação judaica”, no qual existiriam correntes supremacistas, mas sem que expressassem a essência da doutrina. Talvez a colunista pudesse ter invertido […]\nO post Sionismo é racismo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/sionismo-e-racismo/",
-          "publishedOn": "2026-11-13T15:00:55.000Z",
-          "wordCount": 3968,
-          "title": "Sionismo é racismo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/sionismo.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271696",
-          "author": "Paola Orlovas",
-          "description": "A multinacional norte-americana Microsoft descartou nesta sexta-feira (13/11) que uma atividade “maliciosa” tenha sido a causa das interrupções em seus serviços no mundo todo, enquanto ainda trabalha para restabelecer plenamente o funcionamento de plataformas como o e-mail Outlook e o chatbot Copilot. “Até o momento, não temos conhecimento de que alguma atividade maliciosa tenha causado […]\nO post Após instabilidade, Microsoft descarta atividade ‘maliciosa’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/apos-instabilidade-microsoft-descarta-atividade-maliciosa/",
-          "publishedOn": "2026-11-13T15:00:55.000Z",
-          "wordCount": 3413,
-          "title": "Após instabilidade, Microsoft descarta atividade ‘maliciosa’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/microsoft_koln_rheinauartoffice_rheinauhafen_koln-3603.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271689",
-          "author": "Paola Orlovas",
-          "description": "O ex-chefe das Forças Armadas de Israel Gadi Eisenkot, encarregado de tentar formar uma coalizão de governo para substituir o primeiro-ministro Benjamin Netanyahu, terá como um de seus principais desafios recuperar as relações com os Estados Unidos, deterioradas após a ofensiva israelense na Faixa de Gaza e a guerra contra o Irã. Diplomatas, parlamentares e […]\nO post Eisenkot enfrenta desafios para reaproximação de Israel com EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/eisenkot-enfrenta-desafios-reaproximacao-israel-eua/",
-          "publishedOn": "2026-11-13T14:25:59.000Z",
-          "wordCount": 3343,
-          "title": "Eisenkot enfrenta desafios para reaproximação de Israel com EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hvonwazxuaafnq-.jpg"
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/neo-1.png"
         }
       ]
     },
@@ -741,14 +751,24 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236789",
+          "author": "Redação de AND",
+          "description": "Após denunciar calote deliberado de grandes produtores agropecuários, direção do banco ameniza discurso sob pressão de entidades do ‘agro’, enquanto governo Luiz Inácio amplia benefícios e renegociações bilionárias ao setor.",
+          "link": "https://anovademocracia.com.br/latifundio-calotes-bb-recua-governo/",
+          "publishedOn": "2026-11-14T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Após reação do latifúndio sobre calotes, BB recua e governo corre para “apagar incêndio”",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236810",
           "author": "Redação de AND",
           "description": "A inadimplência de médios e grandes produtores de soja, milho e pecuária pesa no balanço do BB. Enquanto o latifúndio exige novas facilidades para suas dívidas, pequenos agricultores e trabalhadores enfrentam crédito escasso e juros altos.",
           "link": "https://anovademocracia.com.br/crise-agronegocio-queda-banco-do-brasil/",
           "publishedOn": "2026-11-13T22:33:47.000Z",
-          "wordCount": 8637,
+          "wordCount": null,
           "title": "Crise sem precedentes: calote do ‘agronegócio’ e alta da inadimplência geram queda de 66,5% no lucro do Banco do Brasil",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-13-bb-2.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236793",
@@ -756,9 +776,9 @@
           "description": "Enquanto os indígenas reivindicam seu território ancestral, o ICMBio pede sua retirada de uma área destinada à concessão para exploração de madeira de pínus.",
           "link": "https://anovademocracia.com.br/sc-icmbio-indigenas-laklano-xokleng-pinus/",
           "publishedOn": "2026-11-13T21:10:22.000Z",
-          "wordCount": 7978,
+          "wordCount": null,
           "title": "SC: ICMBio tenta expulsar indígenas Laklãnõ-Xokleng para favorecer negócio milionário com madeira de pínus em Três Barras",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/image-64.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236781",
@@ -766,9 +786,9 @@
           "description": "O projeto de lei que prevê a criminalização do apoio às organizações da resistência anti-imperialista e anti-sionista na Palestina e no chamado Oriente Médio e a classificação destas como “organizações terroristas” foi aprovada em votação simbólica pela Comissão de Relações Exteriores e de Defesa Nacional (CREDN).",
           "link": "https://anovademocracia.com.br/projeto-lei-criminaliza-apoio-palestina/",
           "publishedOn": "2026-11-13T12:24:20.000Z",
-          "wordCount": 7541,
+          "wordCount": null,
           "title": "Projeto de Lei que criminaliza apoio à Resistência Árabe-Palestina avança na Câmara",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-34-1024x683.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236762",
@@ -776,9 +796,9 @@
           "description": "A megaoperação financeira foi engendrada após a corporação ianque USA Rare Earth, atuando como braço do Estado imperialista, concretizar a aquisição da operadora brasileira Serra Verde pela quantia de 2,8 bilhões de dólares (em torno de R$ 15,63 bilhões).",
           "link": "https://anovademocracia.com.br/departamento-eua-terras-raras-brasil/",
           "publishedOn": "2026-11-12T19:12:42.000Z",
-          "wordCount": 8250,
+          "wordCount": null,
           "title": "EUA recebe primeira remessa de terras raras brasileiras após aquisição da mineradora Serra Verde",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-33.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236757",
@@ -786,9 +806,9 @@
           "description": "Após a detenção, indígenas bloquearam uma estrada e tentaram libertar a vice-cacica, contestando a operação e exigindo sua soltura. Karen Pataxó, de 33 anos, também foi levada pelas forças de repressão ao se contrapor a prisão da liderança.",
           "link": "https://anovademocracia.com.br/policia-civil-operacao-bahia-latifundio/",
           "publishedOn": "2026-11-12T16:40:56.000Z",
-          "wordCount": 9253,
+          "wordCount": null,
           "title": "Polícia Civil prende vice-cacica Pataxó em operação no sul da Bahia ‘a serviço do latifúndio predatório e de milícias rurais’",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-32.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236750",
@@ -796,9 +816,9 @@
           "description": "Governo oportunista articula com o Senado novas restrições aos gastos públicos para 2027, enquanto juros da dívida ultrapassam R$ 1,2 trilhão em 12 meses. Pacote atende a pressões do capital financeiro e ameaça reduzir obrigações de financiamento dos serviços públicos.",
           "link": "https://anovademocracia.com.br/luiz-inacio-ajuste-fiscal-saude-educacao/",
           "publishedOn": "2026-11-11T22:48:12.000Z",
-          "wordCount": 8142,
+          "wordCount": null,
           "title": "Luiz Inácio prepara ‘ajuste fiscal’ de até R$ 60 bilhões e ameaça verbas da Saúde e Educação",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/coletiva-dario-moretti-foto-Washington-Costa-MF-1.jpg.optimal-1024x683.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236693",
@@ -806,9 +826,9 @@
           "description": "Vídeo mostra policial militar lançando spray de pimenta no compartimento fechado de uma viatura, onde Maurício Pereira dos Santos, de 26 anos, estava algemado e pedia socorro. Familiares denunciam espancamento e cobram punição.",
           "link": "https://anovademocracia.com.br/pm-sufoca-homem-ate-morte-viatura-spray-mg/",
           "publishedOn": "2026-11-11T21:32:26.000Z",
-          "wordCount": 7928,
+          "wordCount": null,
           "title": "PM prende homem em viatura e o sufoca até a morte com spray de pimenta em MG",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-31.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236701",
@@ -816,9 +836,9 @@
           "description": "Enquanto o Rio Madeira recua, famílias do Baixo Madeira enfrentam dificuldades para garantir água, alimentação e transporte. Sob temperaturas elevadas, as cobranças da Energisa tornam ainda mais difícil manter ventiladores e aparelhos de refrigeração ligados.",
           "link": "https://anovademocracia.com.br/rio-madeira-critico-camponeses-ribeirinhos/",
           "publishedOn": "2026-11-11T20:43:15.000Z",
-          "wordCount": 8994,
+          "wordCount": null,
           "title": "Rio Madeira atinge nível crítico enquanto camponeses e ribeirinhos sofrem com cobranças abusivas na conta de luz",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-30.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236704",
@@ -826,19 +846,9 @@
           "description": "Durante a marcha, ativistas defenderam que apenas a autodemarcação, combinada com a autodefesa indígena, pode garantir aos povos indígenas o direito à terra.",
           "link": "https://anovademocracia.com.br/ato-avenida-paulista-contra-o-genocidio-indigena-e-em-defesa-da-revolucao-agraria/",
           "publishedOn": "2026-11-11T20:06:52.000Z",
-          "wordCount": 7289,
+          "wordCount": null,
           "title": "Ato convocado pela Liga Anti-Imperialista reúne dezenas na avenida Paulista contra o genocídio indígena e em defesa da Revolução Agrária",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/1000018828.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236686",
-          "author": "Redação de AND",
-          "description": "Investigação aponta vazamento antecipado de decisão na disputa bilionária pela Eldorado Celulose, entre a J&F e a Paper Excellence. Mensagens obtidas pela PF também revelam suspeita de acerto de R$ 40 milhões por parecer do MPF favorável à multinacional.",
-          "link": "https://anovademocracia.com.br/ex-secretario-stj-informacoes-willer-tomaz/",
-          "publishedOn": "2026-11-11T10:00:00.000Z",
-          "wordCount": 8282,
-          "title": "Ex-secretário do STJ é preso suspeito de repassar informações sigilosas ao advogado Willer Tomaz",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-27.png"
+          "imageUrl": null
         }
       ]
     },
@@ -930,7 +940,7 @@
           "description": "A machosfera diz ter tomado a pílula vermelha, mas atua na velha gramática patriarcal onde hipergamia e mercado sexual explicam tudo e mulheres viram categorias. Quem tornou visível o que parecia natural foi o feminismo. No fundo, são os redpill que seguem tomando a pílula azul\nThe post <i>Redpill</i>: Quem realmente ainda está na <i>Matrix</i>? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/feminismos/redpill-quem-realmente-ainda-esta-na-matrix/",
           "publishedOn": "2026-11-13T19:36:24.000Z",
-          "wordCount": 5567,
+          "wordCount": 5564,
           "title": "Redpill: Quem realmente ainda está na Matrix?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5167922689316949392.jpg"
         },
@@ -940,7 +950,7 @@
           "description": "Livro resgata época em que os trabalhadores lutaram para dar outro sentido aos territórios onde viviam. Da Paris da Comuna à Viena Vermelha, greves,  insurreições e disputas pelo comum, cultura e tempo livre. O que isso diz às metrópoles de hoje?\nThe post História e atualidade das Cidades Socialistas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/historia-e-atualidade-das-cidades-socialistas/",
           "publishedOn": "2026-11-13T19:00:00.000Z",
-          "wordCount": 11380,
+          "wordCount": 11383,
           "title": "História e atualidade das Cidades Socialistas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/c02c3a97-6d60-4e88-838a-2d946b077493-1.jpg"
         },
@@ -950,7 +960,7 @@
           "description": "Passado o momento bélico de engajamento eleitoral nas redes e a lavada de alma do domingo, precisamos de um tempo […]\nThe post Estratégias de organização digital no pós-eleição appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/leia-tambem/estrategias-de-organizacao-digital-no-pos-eleicao/",
           "publishedOn": "2026-11-13T16:14:46.000Z",
-          "wordCount": 5895,
+          "wordCount": 5898,
           "title": "Estratégias de organização digital no pós-eleição",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
@@ -960,7 +970,7 @@
           "description": "Como se introduz um conceito novo na política? Raramente começamos com uma definição. Conceitos políticos ganham força quando conseguem se […]\nThe post Narcoterrorismo, um conceito perigoso appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/leia-tambem/narcoterrorismo-um-conceito-perigoso/",
           "publishedOn": "2026-11-13T15:58:30.000Z",
-          "wordCount": 4451,
+          "wordCount": 4448,
           "title": "Narcoterrorismo, um conceito perigoso",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
@@ -982,12 +992,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=160391",
+          "author": "FP",
+          "description": "O oportunismo dificilmente se apresenta como abandono declarado de princípios. Por Arthur Moura",
+          "link": "https://passapalavra.info/2026/11/160391/",
+          "publishedOn": "2026-11-14T15:14:29.000Z",
+          "wordCount": 6427,
+          "title": "O problema do oportunismo: uma crítica materialista da política de esquerda",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/senza-titolo-19521.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=160383",
           "author": "FP",
           "description": "Ele, que já foi da polícia civil, traficante, presidiário, segurança de casa noturna e de cassino clandestino, capanga de prefeito – coronel – no interior do Brasil e dono de bar, hoje é motorista do ônibus escolar, concursado na prefeitura, e fez campanha para Flávio Bolsonaro. Depois do segundo turno, quando autoridades, chefes e gente […]",
           "link": "https://passapalavra.info/2026/11/160383/",
           "publishedOn": "2026-11-13T10:54:31.000Z",
-          "wordCount": 3882,
+          "wordCount": 3893,
           "title": "Consciência",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
         },
@@ -1034,7 +1054,7 @@
           "description": "Hoje 300 milhões de pessoas vivem em países onde não nasceram, e Nova York, onde um em cada três habitantes é imigrante e metade dos moradores fala em casa uma língua que não é o inglês, tornou-se o lugar onde a contradição aparece com mais nitidez. A operação Rotten Apple do ICE, que prendeu 2.197 imigrantes no estado entre julho e agosto de 2026, revelou menos uma ação de fiscalização do que o choque entre duas concepções de poder: a do governo federal, que reivindica autoridade sobre as fronteiras, e a das cidades-santuário que protegem quem já vive e trabalha nelas. No fundo está a assimetria característica da globalização: mercadorias, capitais e informações circulam em frações de segundo, enquanto as pessoas se deparam com vistos, controles e deportações.",
           "link": "https://blogdaboitempo.com.br/2026/11/13/a-era-das-migracoes/",
           "publishedOn": "2026-11-13T15:00:00.000Z",
-          "wordCount": 5957,
+          "wordCount": 5789,
           "title": "A Era das Migrações",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/protest_against_ice_in_minneapolis_-_55036179139.jpg?fit=1200%2C800&ssl=1"
         },
@@ -1064,7 +1084,7 @@
           "description": "Diante das ruas francesas, da derrota eleitoral do grupo de Aleksandar Vučić na Sérvia e da virada de Lula no Brasil, talvez seja o caso de dizermos: viva os estudantes!",
           "link": "https://blogdaboitempo.com.br/2026/11/11/da-franca-de-1968-as-mobilizacoes-de-2026-a-juventude-recoloca-a-luta-social-no-centro-da-politica/",
           "publishedOn": "2026-11-11T11:00:00.000Z",
-          "wordCount": 7673,
+          "wordCount": 7678,
           "title": "Da França de 1968 às mobilizações de 2026: A juventude recoloca a luta social no centro da política",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/ikasleen_protesta_baiona_2026_2.jpg"
         },
@@ -1074,7 +1094,7 @@
           "description": "De Orson Welles em 1938 ao kit de sobrevivência de 72 horas recomendado pela União Europeia em outubro de 2026, Samuel Kilsztajn percorre a genealogia do medo europeu para mostrar que a desestabilização que a Europa enfrenta hoje não vem de Moscou, mas do levante de sua própria população.",
           "link": "https://blogdaboitempo.com.br/2026/11/10/nao-olhe-para-cima-para-baixo-para-frente-para-tras-nem-para-os-lados/",
           "publishedOn": "2026-11-10T23:00:00.000Z",
-          "wordCount": 5308,
+          "wordCount": 5313,
           "title": "Não olhe para cima, para baixo, para frente, para trás, nem para os lados",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/protest_trg_slavija_22._dec_voa.jpg?fit=1200%2C675&ssl=1"
         },
@@ -1084,7 +1104,7 @@
           "description": "No texto de hoje, a historiadora Anita Prestes demonstra como Euclides da Cunha e Luiz Carlos Prestes foram duas figuras destacadas da história do Brasil republicano, cujas trajetórias similares encerram ensinamentos importantes sobre a realidade brasileira, justificando uma abordagem historiográfica comparativa.",
           "link": "https://blogdaboitempo.com.br/2026/11/10/euclides-da-cunha-e-luiz-carlos-prestes-dois-rebeldes-brasileiros/",
           "publishedOn": "2026-11-10T14:34:52.000Z",
-          "wordCount": 7513,
+          "wordCount": 7518,
           "title": "Euclides da Cunha e Luiz Carlos Prestes: Dois rebeldes brasileiros",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/gemini_generated_image_2305r22305r22305.jpg?fit=1200%2C896&ssl=1"
         },
@@ -1094,7 +1114,7 @@
           "description": "A centro-esquerda institucional vê-se diante dos limites da sua administração malabarista entre manter o tripé macroeconômico e avançar em uma modernização com inclusão social. Nesse cenário, Marcos Paulo filho propõe um diálogo entre André Singer e Kauê Lopes dos Santos.",
           "link": "https://blogdaboitempo.com.br/2026/11/10/prolongamento-do-impasse-a-captura-do-eleitorado-para-um-programa-reacionario/",
           "publishedOn": "2026-11-10T14:29:32.000Z",
-          "wordCount": 5415,
+          "wordCount": 5420,
           "title": "Prolongamento do impasse: a captura do eleitorado para um programa reacionário",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-09-04-at-124528-e5e04f7f.webp?fit=1200%2C800&ssl=1"
         }
