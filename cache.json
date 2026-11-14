@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "JpZC1D",
+          "author": null,
+          "description": "Trabalhadores paralisaram Centro Tecnológico da CAIXA durante a última greve e interromperam atividades estratégicas; mobilização expôs os limites do argumento de que a digitalização inviabilizaria as greves bancárias.",
+          "link": "https://jornalofuturo.com.br/artigo/JpZC1D-greve-da-caixa-paralisou-atividades-de-data-center-no-distrito-federal",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 2195,
+          "title": "Greve da CAIXA paralisou atividades de Data Center no Distrito Federal",
+          "imageUrl": "https://media.jornalofuturo.com.br/1000637169-903x481.jpg"
+        },
+        {
           "id": "ZNLrvc",
           "author": null,
           "description": "Ocorrendo desde o final de outubro, as denúncias abordam a ameaça de demissão em massa, de cortes salariais e precarização de vínculos trabalhistas em unidades de saúde em Santo Amaro e Cidade Ademar",
@@ -32,6 +42,26 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6af76ab5b79e7a48925f6b92",
+          "author": "Secretaria Nacional de Negras e Negros do PSTU",
+          "description": "Preparar as periferias para lutar por reparações ao povo negro, contra a redução da maioridade penal e contra o capitalismo!",
+          "link": "https://opiniaosocialista.com.br/por-um-novembro-negro-com-consciencia-negra-raca-e-classe/",
+          "publishedOn": "2026-11-13T20:14:52.000Z",
+          "wordCount": 2276,
+          "title": "Por um Novembro Negro com consciência negra, raça e classe",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/novembro-negro-sp.webp"
+        },
+        {
+          "id": "6af76646b79e7a48925f6b6d",
+          "author": "PSTU-BA",
+          "description": "Defendemos a proteção dos territórios e das comunidades atingidas e a criação de uma empresa estatal para controlar a exploração das terras raras, com pesquisa, tecnologia e controle dos trabalhadores",
+          "link": "https://opiniaosocialista.com.br/abrolhos-nao-esta-a-venda-contra-a-entrega-das-riquezas-da-bahia-as-mineradoras-estrangeiras/",
+          "publishedOn": "2026-11-13T19:46:01.000Z",
+          "wordCount": 1946,
+          "title": "Abrolhos não está à venda! Contra a entrega das riquezas da Bahia às mineradoras estrangeiras",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/abrolhos-bahia.webp"
+        },
         {
           "id": "6af71002ab804e0314c1b7b4",
           "author": "Roberto Aguiar",
@@ -118,7 +148,7 @@
           "description": "Duas lideranças indígenas foram presas em ação das polícias Civil e Militar dentro da Aldeia Mãe Barra Velha, no Extremo Sul da Bahia",
           "link": "https://opiniaosocialista.com.br/pstu-bahia-exige-do-governador-jeronimo-rodrigues-pt-a-libertacao-imediata-de-erilsa-e-karen-pataxo/",
           "publishedOn": "2026-11-11T17:49:19.000Z",
-          "wordCount": 971,
+          "wordCount": 969,
           "title": "PSTU-Bahia exige do governador Jerônimo Rodrigues (PT) a libertação imediata de Erilsa e Karen Pataxó!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/erilsa-karen-lado-a-lado.webp"
         },
@@ -138,7 +168,7 @@
           "description": "Denúncias de agressões e intimidações expõem a disputa entre interesses empresariais, direitos dos moradores e liberdade de manifestação em solidariedade à Palestina",
           "link": "https://opiniaosocialista.com.br/bahia-nao-e-territorio-sem-lei-fora-soldados-israelenses-de-nossas-praias-viva-a-palestina/",
           "publishedOn": "2026-11-11T12:59:29.000Z",
-          "wordCount": 1789,
+          "wordCount": 1787,
           "title": "Bahia não é território sem lei: fora soldados israelenses de nossas praias! Viva a Palestina!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/conflito-itacar--.webp"
         },
@@ -148,7 +178,7 @@
           "description": "Trabalhadores com carro ou moto sentem o aumento ao abastecer, e quem não tem veículo pode senti-lo no preço do ônibus, da comida e de outros produtos",
           "link": "https://opiniaosocialista.com.br/aprovado-o-aumento-do-icms-dos-combustiveis-mais-um-peso-no-bolso-do-trabalhador/",
           "publishedOn": "2026-11-11T00:07:32.000Z",
-          "wordCount": 2615,
+          "wordCount": 2613,
           "title": "Aprovado o aumento do ICMS dos combustíveis: mais um peso no bolso do trabalhador",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/gasolina--1-.webp"
         },
@@ -158,29 +188,9 @@
           "description": "Marisqueiras, pescadores e comerciantes, muitos deles mulheres negras e mães de família, enfrentam meses sem renda enquanto aguardam reparação",
           "link": "https://opiniaosocialista.com.br/bahia-empresas-contaminam-a-praia-e-trabalhadores-ficam-sem-sustento-em-salvador/",
           "publishedOn": "2026-11-10T13:05:45.000Z",
-          "wordCount": 1421,
+          "wordCount": 1425,
           "title": "Bahia: Empresas contaminam a praia, e trabalhadores ficam sem sustento em Salvador",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/praia-sao-tome-de-paripe.png"
-        },
-        {
-          "id": "6af25e6aab804e0314c1b540",
-          "author": "Érika Andreassy",
-          "description": "Confesso que, de vez em quando, procuro dar um tempo de escrever sobre a violência contra as mulheres. Não por ignorar a importância do tema, muito menos por achar que podemos nos dar ao luxo de baixar a guarda diante dessa realidade, mas por",
-          "link": "https://opiniaosocialista.com.br/quem-protege-as-mulheres/",
-          "publishedOn": "2026-11-10T01:07:38.000Z",
-          "wordCount": 1861,
-          "title": "Quem protege as mulheres?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/jiu-j--tsu-Lucas-Portela-Fontana.webp"
-        },
-        {
-          "id": "6af2336aab804e0314c1b4ef",
-          "author": "Érika Andreassy",
-          "description": "A violência sexual está centralmente vinculada a relações de desigualdade entre homens e mulheres, a objetificação dos corpos femininos, a naturalização da dominação masculina e a tolerância social a diferentes formas de violência e coerção sexual",
-          "link": "https://opiniaosocialista.com.br/reducao-da-maioridade-penal-nao-combate-a-violencia-sexual-quem-quer-proteger-as-mulheres-precisa-enfrentar-o-machismo-e-a-cultura-do-estupro/",
-          "publishedOn": "2026-11-09T21:08:57.000Z",
-          "wordCount": 2311,
-          "title": "Redução da maioridade penal não combate a violência sexual: quem quer proteger as mulheres precisa enfrentar o machismo e a cultura do estupro",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Mulher-em-Resist--ncia-Contra-a-Viol--ncia.webp"
         }
       ]
     },
@@ -189,6 +199,36 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Flavio-Dino-vota-a-favor-de-patroes-a-flexibilizarem-fim-da-escala-6x1",
+          "author": "Vitória Busato",
+          "description": "Após pedido de entidades empresariais, como a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI), de adiar o prazo estabelecido pela Emenda Constitucional para o fim da escala 6x1,em liminar concedida ontem (12), o ministro Flávio Dino flexibilizou a distribuição de folgas previstas para a redução da jornada de trabalho. Este é mais um ataque brutal sobre uma vitória conquistada pelo povo trabalhador que foi às ruas exigir por (…)\n13-11-2026\n\n/ STF, Ataque aos trabalhadores, escala 6x1",
+          "link": "https://www.esquerdadiario.com.br/Flavio-Dino-vota-a-favor-de-patroes-a-flexibilizarem-fim-da-escala-6x1",
+          "publishedOn": "2026-11-13T19:08:50.000Z",
+          "wordCount": null,
+          "title": "Flavio Dino vota a favor de patrões a flexibilizarem fim da escala 6x1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Motoristas-terceirizados-da-UFRN-paralisam-contra-atraso-de-salarios-e-direitos-pela-empresa",
+          "author": "Redação",
+          "description": "Todo apoio à luta dos motoristas terceirizados da UFRN! Estrutura e e UFRN paguem já os motoristas!\n13-11-2026\n\n/ Classe trabalhadora, Terceirização, efetivação terceirizados sem concurso, Rio Grande do Norte, Nordeste, Rio Grande do Norte, precarização, Natal, Classe Trabalhadora, UFRN, Trabalhadores Terceirizados, Atraso de salários, Atraso de salários, Brasil, Trabalhadores dos Transportes, Ataques a Salários, motoristas, Ataque aos trabalhadores, Precarização do trabalho, Manifesto contra a terceirização e a precarização do trabalho",
+          "link": "https://www.esquerdadiario.com.br/Motoristas-terceirizados-da-UFRN-paralisam-contra-atraso-de-salarios-e-direitos-pela-empresa",
+          "publishedOn": "2026-11-13T18:55:24.000Z",
+          "wordCount": null,
+          "title": "Motoristas terceirizados da UFRN paralisam contra atraso de salários e direitos pela empresa Estrutura e pela reitoria. Todo apoio!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Com-os-votos-de-todo-o-PT-tesouraco-de-Lula-e-Jaques-Wagner-e-aprovado-no-Senado",
+          "author": "Ítalo Gimenes",
+          "description": "Por 45 votos a 31, o Senado aprovou nesta quinta-feira (12) o texto-base do ajuste fiscal do governo Lula, apresentado pelo líder do governo, Jaques Wagner (PT-BA). O projeto amplia a margem do Executivo para bloquear verbas e cria um gatilho que pode baixar de 2,5% para 2% ao ano o teto de crescimento das despesas acima da inflação a partir de 2027.\n13-11-2026\n\n/ Ajustes Fiscais, Dívida pública, SUS, Não ao pagamento da dívida pública!, Arcabouço Fiscal, Jaques Wagner (PT), Tesouraço",
+          "link": "https://www.esquerdadiario.com.br/Com-os-votos-de-todo-o-PT-tesouraco-de-Lula-e-Jaques-Wagner-e-aprovado-no-Senado",
+          "publishedOn": "2026-11-13T16:05:00.000Z",
+          "wordCount": null,
+          "title": "Com os votos de todo o PT, tesouraço de Lula e Jaques Wagner é aprovado no Senado",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/Itacare-se-enfrenta-com-turismo-de-soldados-israelenses-e-a-complacencia-de-prefeito-e-governador",
           "author": "Redação",
@@ -398,16 +438,6 @@
           "wordCount": null,
           "title": "Super El Niño produz tornados, seca e intensa variação climática, resultado da crise climática capitalista",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Retomar-a-tradicao-internacionalista-da-luta-negra-diante-das-lutas-que-sacodem-a-Europa-contra-o",
-          "author": "Quilombo Vermelho",
-          "description": "Neste 20 de novembro, diante de um mundo atravessado por importantes processos de luta da juventude e da classe trabalhadora, queremos fortalecer uma perspectiva internacionalista e independente para a luta negra. As mobilizações que sacodem a França e outros países europeus, apontam o caminho para enfrentar o imperialismo. Inspirados por esses processos e pela tradição internacionalista da luta negra é que estamos construindo os atos do 20 de novembro, dia de Zumbi, e chamando ao Encontro Nacional do Quilombo Vermelho, no próximo dia 28 de novembro: Luta negra comunista, internacionalista e independente. É preciso debater como organizar nossa luta contra o racismo, a extrema direita, o imperialismo e a exploração capitalista, com independência política dos governos e dos patrões, o que no Brasil significa independência do governo Lula-Alckmin. Neste 20N vem construir esse quilombo!\n09-11-2026\n\n/ Luta Antirracista, Racismo, Racismo EUA, negras e negros, Racismo, Racismo Estrutural, antirracismo, 20 de Novembro, Zumbi de Palmares",
-          "link": "https://www.esquerdadiario.com.br/Retomar-a-tradicao-internacionalista-da-luta-negra-diante-das-lutas-que-sacodem-a-Europa-contra-o",
-          "publishedOn": "2026-11-09T12:17:43.000Z",
-          "wordCount": null,
-          "title": "Retomar a tradição internacionalista da luta negra diante das lutas que sacodem a Europa contra o imperialismo, o racismo e o capitalismo",
-          "imageUrl": null
         }
       ]
     },
@@ -519,12 +549,32 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=164607",
+          "author": "Catarina Duarte",
+          "description": "Em Belém, a instalação de um data center de R$ 250 milhões preocupa moradores de duas ocupações que enfrentam disputas por terra, falta de saneamento e incertezas sobre os impactos do empreendimento\nO conteúdo A vizinhança da inteligência artificial Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/a-vizinhanca-da-inteligencia-artificial/",
+          "publishedOn": "2026-11-13T19:00:57.000Z",
+          "wordCount": 7462,
+          "title": "A vizinhança da inteligência artificial",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/moradia-semente-de-deus-belem-joao-paulo-guimaraes.jpg-scaled.webp"
+        },
+        {
+          "id": "https://ponte.org/?p=164760",
+          "author": "Catarina Duarte",
+          "description": "As mudanças políticas no continente podem enfraquecer a aliança sem encerrar sua agenda de segurança. O desafio é transformar a defesa da soberania numa proposta concreta de cooperação regional\nO conteúdo Artigo | O Escudo das Américas depois da virada: o narcotráfico  como pretexto e a oportunidade do Brasil Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/escudo-das-americas-narcotrafico-brasil/",
+          "publishedOn": "2026-11-13T17:11:46.000Z",
+          "wordCount": 6586,
+          "title": "Artigo | O Escudo das Américas depois da virada: o narcotráfico  como pretexto e a oportunidade do Brasil",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/escudo-das-americas-trump-lideres-miami-2026.jpg.webp"
+        },
+        {
           "id": "https://ponte.org/?p=164710",
           "author": "Paulo Batistella",
           "description": "André Ferreira Rodrigues, o Olodum, desapareceu após ser visto pichando um condomínio em São Paulo. Câmeras filmaram pessoas correndo com aparentes pedaços de madeira nas mãos. Corpo foi encontrado em barragem do Rio Tietê\nO conteúdo ‘Não justifica’: família suspeita de linchamento contra pichador perseguido em SP e pede justiça Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/familia-suspeita-linchamento-pichador-sp/",
           "publishedOn": "2026-11-12T17:29:31.000Z",
-          "wordCount": 6198,
+          "wordCount": 6179,
           "title": "‘Não justifica’: família suspeita de linchamento contra pichador perseguido em SP e pede justiça",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/protesto-em-memoria-de-Andre-Ferreira-Olodum-Fabio-Vieira-FotoRua-01-scaled.webp"
         },
@@ -643,12 +693,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=271730",
+          "author": "Raissa Neves",
+          "description": "A possível participação da Europa nas próximas negociações sobre a Ucrânia se transformou em um impasse nesta sexta-feira (13/11), com a Rússia estabelecendo condições e os europeus alertando para as “armadilhas” de Moscou. Os enviados americanos Jared Kushner e Steve Witkoff, que se reuniram na quinta-feira (12/11) com o presidente russo, Vladimir Putin, em Moscou, […]\nO post Divididos ante proposta da Rússia, líderes europeus divergem sobre negociações por Ucrânia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/lideres-europeus-divergem-sobre-negociacoes-da-ucrania/",
+          "publishedOn": "2026-11-13T21:40:48.000Z",
+          "wordCount": 4253,
+          "title": "Divididos ante proposta da Rússia, líderes europeus divergem sobre negociações por Ucrânia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-13-181545.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271714",
+          "author": "Raissa Neves",
+          "description": "Há 117 anos, em 13 de novembro de 1909, a sufragista britânica Theresa Garnett atacava Winston Churchill com um chicote na estação ferroviária de Temple Meads, em Bristol. Então presidente da Junta de Comércio, Churchill era conhecido por se opor veementemente à extensão do direito ao voto às mulheres. Theresa era uma das mais ativas […]\nO post Theresa Garnett: a sufragista que chicoteou Winston Churchill apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/theresa-garnett-a-sufragista-que-chicoteou-winston-churchill/",
+          "publishedOn": "2026-11-13T21:00:45.000Z",
+          "wordCount": 5933,
+          "title": "Theresa Garnett: a sufragista que chicoteou Winston Churchill",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/theresa_garnett_par_linley_blathwayt.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271720",
+          "author": "Victor Farinelli",
+          "description": "Agir imediatamente para enfrentar os efeitos devastadores do fenômeno El Niño custará metade do que esperar para reagir mais tarde, afirmou nesta sexta-feira (13/11) Alexander De Croo, diretor do Programa das Nações Unidas para o Desenvolvimento (PNUD) durante a COP31, em Antalya, na Turquia. “As necessidades para enfrentar os impactos do El Niño chegam a […]\nO post ONU alerta que adiar resposta ao El Niño pode dobrar custos de mitigação apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/meio-ambiente/onu-alerta-que-adiar-resposta-ao-el-nino-pode-dobrar-custos-de-mitigacao/",
+          "publishedOn": "2026-11-13T20:08:40.000Z",
+          "wordCount": 4130,
+          "title": "ONU alerta que adiar resposta ao El Niño pode dobrar custos de mitigação",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/unicef.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271715",
+          "author": "Raissa Neves",
+          "description": "O Café com História realiza em dezembro sua última edição de 2026. O programa mensal, presencial e exclusivo para apoiadores de Opera Mundi, abrirá as inscrições na próxima segunda-feira (16/11) e terá como tema o “Neoliberalismo”. Conduzida pelo jornalista e fundador de Opera Mundi, Breno Altman, a atividade abordará as origens do neoliberalismo, seus principais […]\nO post Café com História encerra programação de 2026 com debate sobre neoliberalismo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/cafe-com-historia/cafe-com-historia-encerra-programacao-de-2026-com-debate-sobre-neoliberalismo/",
+          "publishedOn": "2026-11-13T19:57:48.000Z",
+          "wordCount": 3063,
+          "title": "Café com História encerra programação de 2026 com debate sobre neoliberalismo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/carrossel-02-2-819x1024.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271710",
+          "author": "Raissa Neves",
+          "description": "O Exército de El Salvador passou a utilizar cães-robôs equipados com fuzis de assalto durante sua operação militar no Haiti. Os equipamentos foram registrados em imagens divulgadas nas redes sociais durante a retomada do estádio Sylvio Cator, em Porto Príncipe, na quinta-feira (12/11). A utilização de robôs armados em operações urbanas remete ao universo distópico […]\nO post Ação militar no Haiti gera cenário estilo ‘Black Mirror’, com cachorros robôs e crâneos humanos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/acao-militar-no-haiti-gera-cenario-estilo-black-mirror-com-cachorros-robos-e-craneos-humanos/",
+          "publishedOn": "2026-11-13T18:18:39.000Z",
+          "wordCount": 4575,
+          "title": "Ação militar no Haiti gera cenário estilo ‘Black Mirror’, com cachorros robôs e crâneos humanos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/capture-decran-2026-11-13-a-113423-1-1536x917-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271706",
+          "author": "Paola Orlovas",
+          "description": "A Polícia Civil do Distrito Federal (PCDF) deflagrou, na quinta-feira (12/11), uma operação contra um esquema suspeito de falsificar certidões de nascimento para permitir que estrangeiros do Oriente Médio e da Rússia obtivessem documentos de identidade e passaportes brasileiros. Entre os beneficiários do esquema está Fahad Abdullah Bakalka, cidadão saudita mencionado em um documento norte-americano […]\nO post Polícia investiga esquema que oferece documentos brasileiros falsificados para estrangeiros apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/policia-investiga-esquema-documentos-br-falsificados-para-estrangeiros/",
+          "publishedOn": "2026-11-13T17:10:51.000Z",
+          "wordCount": 3986,
+          "title": "Polícia investiga esquema que oferece documentos brasileiros falsificados para estrangeiros",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/fotos_produzidas_pelo_senado_39787884074.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=271703",
+          "author": "Paola Orlovas",
+          "description": "A redução do financiamento da Agência das Nações Unidas de Assistência aos Refugiados da Palestina (UNRWA) tem agravado as condições de vida de refugiados palestinos no Líbano, comprometendo o funcionamento de escolas, unidades de saúde e serviços de assistência social. A situação é agravada pelos ataques israelenses contra o território libanês, que também atingem comunidades […]\nO post Falta de recursos agrava situação de refugiados palestinos no Líbano, alerta ONU apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/falta-de-recursos-agrava-situacao-refugiados-palestinos-no-libano/",
+          "publishedOn": "2026-11-13T15:50:33.000Z",
+          "wordCount": 3773,
+          "title": "Falta de recursos agrava situação de refugiados palestinos no Líbano, alerta ONU",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ho5k35axwaa5ft--e1794584198324.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=271690",
           "author": "Pedro Marin",
           "description": "Na Folha de S. Paulo de 9 de novembro, a pretexto de combater eventual projeto de lei para classificar o sionismo como racismo, Lygia Maria defendeu que essa ideologia representaria um suposto “movimento de autodeterminação judaica”, no qual existiriam correntes supremacistas, mas sem que expressassem a essência da doutrina. Talvez a colunista pudesse ter invertido […]\nO post Sionismo é racismo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/sionismo-e-racismo/",
           "publishedOn": "2026-11-13T15:00:55.000Z",
-          "wordCount": 3974,
+          "wordCount": 3968,
           "title": "Sionismo é racismo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/sionismo.webp"
         },
@@ -658,7 +778,7 @@
           "description": "A multinacional norte-americana Microsoft descartou nesta sexta-feira (13/11) que uma atividade “maliciosa” tenha sido a causa das interrupções em seus serviços no mundo todo, enquanto ainda trabalha para restabelecer plenamente o funcionamento de plataformas como o e-mail Outlook e o chatbot Copilot. “Até o momento, não temos conhecimento de que alguma atividade maliciosa tenha causado […]\nO post Após instabilidade, Microsoft descarta atividade ‘maliciosa’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/apos-instabilidade-microsoft-descarta-atividade-maliciosa/",
           "publishedOn": "2026-11-13T15:00:55.000Z",
-          "wordCount": 3419,
+          "wordCount": 3413,
           "title": "Após instabilidade, Microsoft descarta atividade ‘maliciosa’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/microsoft_koln_rheinauartoffice_rheinauhafen_koln-3603.jpg"
         },
@@ -668,79 +788,9 @@
           "description": "O ex-chefe das Forças Armadas de Israel Gadi Eisenkot, encarregado de tentar formar uma coalizão de governo para substituir o primeiro-ministro Benjamin Netanyahu, terá como um de seus principais desafios recuperar as relações com os Estados Unidos, deterioradas após a ofensiva israelense na Faixa de Gaza e a guerra contra o Irã. Diplomatas, parlamentares e […]\nO post Eisenkot enfrenta desafios para reaproximação de Israel com EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/eisenkot-enfrenta-desafios-reaproximacao-israel-eua/",
           "publishedOn": "2026-11-13T14:25:59.000Z",
-          "wordCount": 3804,
+          "wordCount": 3798,
           "title": "Eisenkot enfrenta desafios para reaproximação de Israel com EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hvonwazxuaafnq-.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271686",
-          "author": "Paola Orlovas",
-          "description": "O presidente Luiz Inácio Lula da Silva chegou às Filipinas para participar da 49ª Cúpula da Associação de Nações do Sudeste Asiático (Asean), marcada para domingo (15/11). Antes disso, no sábado (14/11), Lula faz uma visita de Estado ao país, a primeira visita oficial de um chefe de Estado brasileiro às Filipinas. A agenda inclui […]\nO post Lula chega às Filipinas para cúpula da Asean de olho em novos mercados na Ásia após tarifaço dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/lula-chega-as-filipinas-de-olho-em-novos-mercados-na-asia/",
-          "publishedOn": "2026-11-13T13:30:25.000Z",
-          "wordCount": 4146,
-          "title": "Lula chega às Filipinas para cúpula da Asean de olho em novos mercados na Ásia após tarifaço dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hw_mbliwmaalg0g.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271682",
-          "author": "Paola Orlovas",
-          "description": "A renúncia de Jensen Huang, cofundador e presidente executivo da Nvidia há 33 anos, na última quinta-feira (12/11) provocou uma crise em uma das empresas mais valiosas do mundo e principal fornecedora de chips utilizados no desenvolvimento de inteligência artificial. O executivo deixou o cargo depois da revelação de relacionamentos extraconjugais, incluindo um com uma […]\nO post Renúncia na Nvidia abala mercado global de inteligência artificial apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/politica-e-economia/renuncia-na-nvidia-abala-mercado-global-de-inteligencia-artificial/",
-          "publishedOn": "2026-11-13T12:50:13.000Z",
-          "wordCount": 4311,
-          "title": "Renúncia na Nvidia abala mercado global de inteligência artificial",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hmmpbctwiaatlf1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271679",
-          "author": "Victor Farinelli",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) teve um encontro com o presidente do Irã, Masoud Pezeshkian, durante a 31ª Conferência do Clima das Nações Unidas (COP31), que acontece em Antália, na Turquia. Os líderes conversaram sobre os conflitos no Oriente Médio, em especial a guerra no Irã. Lula manifestou preocupação com o impacto […]\nO post Reconhecer direito do Irã a programa nuclear foi ‘golaço de Lula’, diz especialista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/oriente-medio/reconhecer-direito-do-ira-a-programa-nuclear-foi-golaco-de-lula-diz-especialista/",
-          "publishedOn": "2026-11-13T12:02:42.000Z",
-          "wordCount": 3863,
-          "title": "Reconhecer direito do Irã a programa nuclear foi ‘golaço de Lula’, diz especialista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ira.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271675",
-          "author": "Rocio Paik",
-          "description": "Um relatório da Oxfam França, publicado nesta quinta-feira (12/11), mostra que a mudança climática já está chegando ao prato dos consumidores. O documento utiliza os casos da França e da Europa para sustentar que consumidores mais pobres e pequenos agricultores absorvem uma parcela crescente dos prejuízos, enquanto determinados segmentos da agroindústria conseguem preservar ou ampliar […]\nO post Crise climática encarece alimentos, fragiliza agricultores e favorece agroindústria, diz Oxfam apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/meio-ambiente/crise-climatica-encarece-alimentos-fragiliza-agricultores-e-favorece-agroindustria-diz-oxfam/",
-          "publishedOn": "2026-11-13T11:00:43.000Z",
-          "wordCount": 4077,
-          "title": "Crise climática encarece alimentos, fragiliza agricultores e favorece agroindústria, diz Oxfam",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/unload_wheat_by_the_combine_claas_lexion_584.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271671",
-          "author": "Rocio Paik",
-          "description": "O número de crianças palestinas mortas devido à exposição ao frio extremo na Faixa de Gaza subiu para 13 nesta sexta-feira (13/11), após o falecimento de Kinan Ahmed Raqiq, de 10 meses, que não resistiu às baixas temperaturas dentro da tenda em que estava com sua família deslocada em al-Mawasi, em Khan Younis, sul do […]\nO post Ao menos 13 crianças palestinas morrem pelo frio em Gaza enquanto Israel bloqueia ajuda apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/sobe-para-13-numero-de-criancas-palestinas-mortas-pelo-frio-em-gaza-enquanto-israel-bloqueia-ajuda/",
-          "publishedOn": "2026-11-13T10:00:45.000Z",
-          "wordCount": 3654,
-          "title": "Ao menos 13 crianças palestinas morrem pelo frio em Gaza enquanto Israel bloqueia ajuda",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/jbkfnesa.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271668",
-          "author": "Rocio Paik",
-          "description": "Após quase quatro horas de votação, o Senado aprovou nesta quinta-feira (12/11) o texto-base do projeto de ajuste fiscal do governo, por 45 votos a 31.  A proposta prevê medidas para reduzir despesas e ampliar a arrecadação, com economia estimada entre R$ 50 bilhões e R$ 60 bilhões em 2027, segundo o ministro Bruno Moretti. […]\nO post Senado aprova texto-base do ajuste fiscal; destaques são analisados na próxima terça (17) apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/senado-aprova-texto-base-do-ajuste-fiscal-destaques-sao-analisados-na-proxima-terca-17/",
-          "publishedOn": "2026-11-13T09:00:21.000Z",
-          "wordCount": 3934,
-          "title": "Senado aprova texto-base do ajuste fiscal; destaques são analisados na próxima terça (17)",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/sessao_do_congresso_12-11-26-2_0.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=271665",
-          "author": "Rocio Paik",
-          "description": "O presidente Luiz Inácio Lula da Silva (PT) deve viajar à capital espanhola Madri na próxima segunda-feira (16/11) para apoiar a campanha eleitoral do primeiro-ministro Pedro Sánchez, do Partido Socialista Operário Espanhol (PSOE), que busca permanecer no poder nas eleições gerais previstas para 29 de novembro. Autoridades do Executivo espanhol confirmaram nesta quinta-feira (12/11) que […]\nO post Lula vai à Espanha em apoio à campanha eleitoral de Sánchez na próxima segunda (16) apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-vai-a-espanha-em-apoio-a-campanha-eleitoral-de-sanchez-na-proxima-segunda-16/",
-          "publishedOn": "2026-11-13T07:50:46.000Z",
-          "wordCount": 3427,
-          "title": "Lula vai à Espanha em apoio à campanha eleitoral de Sánchez na próxima segunda (16)",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/52847097682_e820e674e6_k.jpg"
         }
       ]
     },
@@ -766,6 +816,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=236810",
+          "author": "Redação de AND",
+          "description": "A inadimplência de médios e grandes produtores de soja, milho e pecuária pesa no balanço do BB. Enquanto o latifúndio exige novas facilidades para suas dívidas, pequenos agricultores e trabalhadores enfrentam crédito escasso e juros altos.",
+          "link": "https://anovademocracia.com.br/crise-agronegocio-queda-banco-do-brasil/",
+          "publishedOn": "2026-11-13T22:33:47.000Z",
+          "wordCount": 8637,
+          "title": "Crise sem precedentes: calote do ‘agronegócio’ e alta da inadimplência geram queda de 66,5% no lucro do Banco do Brasil",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-13-bb-2.jpeg"
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236793",
+          "author": "Giovanna Maria",
+          "description": "Enquanto os indígenas reivindicam seu território ancestral, o ICMBio pede sua retirada de uma área destinada à concessão para exploração de madeira de pínus.",
+          "link": "https://anovademocracia.com.br/sc-icmbio-indigenas-laklano-xokleng-pinus/",
+          "publishedOn": "2026-11-13T21:10:22.000Z",
+          "wordCount": 7979,
+          "title": "SC: ICMBio tenta expulsar indígenas Laklãnõ-Xokleng para favorecer negócio milionário com madeira de pínus em Três Barras",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/05/image-64.png"
+        },
         {
           "id": "https://anovademocracia.com.br/?p=236781",
           "author": "Redação de AND",
@@ -845,31 +915,6 @@
           "wordCount": 8282,
           "title": "Ex-secretário do STJ é preso suspeito de repassar informações sigilosas ao advogado Willer Tomaz",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-27.png"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236630",
-          "author": "Giovanna Maria",
-          "description": "Após agentes da prefeitura darem dez dias para a desocupação do ponto onde Eduardo Peixeiro vive e trabalha, moradores do bairro saíram às ruas em sua defesa.",
-          "link": "https://anovademocracia.com.br/pb-moradores-fecham-rua-comerciante-despejo/",
-          "publishedOn": "2026-11-10T19:15:20.000Z",
-          "wordCount": 7335,
-          "title": "PB: Moradores do Aluízio Campos fecham ruas em defesa de comerciante ameaçado de despejo",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Video-Protesto.mp4",
-            "length": "25271346",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/foto_com_rostos_das_criancas_desfocados.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236646",
-          "author": "Redação de AND",
-          "description": "Comitiva da Guarda Nacional de Nova York conheceu instalações do Exército Brasileiro; parceria firmada em 2019 inclui cursos de guerra na selva e exercícios de combate com tropas ianques na Amazônia.",
-          "link": "https://anovademocracia.com.br/ianque-manaus-presenca-eua-amazonia/",
-          "publishedOn": "2026-11-10T18:44:34.000Z",
-          "wordCount": 8152,
-          "title": "General ianque visita centro de guerra na selva em Manaus em meio a crescente presença militar do EUA na Amazônia",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-10-ianque.jpg"
         }
       ]
     },
@@ -906,12 +951,92 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3210500",
+          "author": "Lucas Scatolini",
+          "description": "Sementeira para Lula 4: aprender com a luta das mulheres, para enfrentar a lógica patriarcal de hierarquia e controle. Abraçar a diversidade, simplificar burocracias, rechaçar o princípio de escassez e preservar o fio entre gerações… \nThe post Políticas Culturais: O que os feminismos ensinam appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/descolonizacoes/cultura-e-arte-o-que-os-feminismos-ensinam/",
+          "publishedOn": "2026-11-13T21:47:49.000Z",
+          "wordCount": 7827,
+          "title": "Políticas Culturais: O que os feminismos ensinam",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/bdfa0ae4-8f49-4c5e-b3f4-05eb4402b9ac-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210458",
+          "author": "Lucas Scatolini",
+          "description": "Centrão defende a reforma para frear os “puxadores de voto”, impulsionados pelas big techs. Mas há pouco debate. Modelo apresentado pode ampliar o controle da velha política e ameaçar presença de mulheres e pessoas negras no parlamento\nThe post Por que o voto distrital misto é um risco à democracia appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/voto-distrital-misto-por-que-e-um-risco-a-democracia/",
+          "publishedOn": "2026-11-13T21:47:49.000Z",
+          "wordCount": 4476,
+          "title": "Por que o voto distrital misto é um risco à democracia",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-13-at-18-45-58-1_mj0206-16-66804475.jpg-imagem-JPEG-1200-%C3%97-800-pixels-Redimensionada-81.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210466",
+          "author": "Lucas Scatolini",
+          "description": "Ideia de um Deus apartado do mundo e superior à natureza forjou-se na vida humana em ambiente hostil. Seria esta a matriz do imperativo de dominação do outro por guerras, religiões e poder econômico? Sem romper com essa mística, não há saída para a policrise\nThe post Religiões, história de um desvio cognitivo<br> appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-civilizatoria/ocidente-historia-de-um-desvio-cognitivo/",
+          "publishedOn": "2026-11-13T21:26:37.000Z",
+          "wordCount": 13477,
+          "title": "Religiões, história de um desvio cognitivo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/157763.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210481",
+          "author": "Lucas Scatolini",
+          "description": "Em 1989, campanha de Lula inovou na TV: parodiou a Globo e apostou em peças críticas que mostravam o Brasil do andar de baixo. Tornou-se caso de sucesso no marketing político. Como foi idealizada, com poucos recursos. Os perrengues diários. E a recompensa: “estamos no 2º turno!”\nThe post <i>Memórias do Jornalismo</i>: Rede Povo, crítica política e humor appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-rede-povo-critica-politica-e-humor/",
+          "publishedOn": "2026-11-13T20:23:53.000Z",
+          "wordCount": 8962,
+          "title": "Memórias do Jornalismo: Rede Povo, crítica política e humor",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5167922689316949411.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210456",
+          "author": "Lucas Scatolini",
+          "description": "Reduzir os juros, gerar empregos e ampliar os investimentos são desafios cruciais do novo governo Lula. O mesmo rigor que os “mercados” pedem para a “disciplina fiscal” precisaria nortear uma estratégia de desenvolvimento voltada para as maiorias. Quais os custos adiá-la?\nThe post O mínimo para governar com responsabilidade appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/crise-brasileira/o-minimo-para-governar-com-responsabilidade/",
+          "publishedOn": "2026-11-13T19:44:57.000Z",
+          "wordCount": 4949,
+          "title": "O mínimo para governar com responsabilidade",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5170601851261488809.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210468",
+          "author": "Lucas Scatolini",
+          "description": "A machosfera diz ter tomado a pílula vermelha, mas atua na velha gramática patriarcal onde hipergamia e mercado sexual explicam tudo e mulheres viram categorias. Quem tornou visível o que parecia natural foi o feminismo. No fundo, são os redpill que seguem tomando a pílula azul\nThe post <i>Redpill</i>: Quem realmente ainda está na <i>Matrix</i>? appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/feminismos/redpill-quem-realmente-ainda-esta-na-matrix/",
+          "publishedOn": "2026-11-13T19:36:24.000Z",
+          "wordCount": 5567,
+          "title": "Redpill: Quem realmente ainda está na Matrix?",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5167922689316949392.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3209339",
+          "author": "Rôney Rodrigues",
+          "description": "Livro resgata época em que os trabalhadores lutaram para dar outro sentido aos territórios onde viviam. Da Paris da Comuna à Viena Vermelha, greves,  insurreições e disputas pelo comum, cultura e tempo livre. O que isso diz às metrópoles de hoje?\nThe post História e atualidade das Cidades Socialistas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/historia-e-atualidade-das-cidades-socialistas/",
+          "publishedOn": "2026-11-13T19:00:00.000Z",
+          "wordCount": 11380,
+          "title": "História e atualidade das Cidades Socialistas",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/c02c3a97-6d60-4e88-838a-2d946b077493-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210435",
+          "author": "Lucas Scatolini",
+          "description": "Passado o momento bélico de engajamento eleitoral nas redes e a lavada de alma do domingo, precisamos de um tempo […]\nThe post Estratégias de organização digital no pós-eleição appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/estrategias-de-organizacao-digital-no-pos-eleicao/",
+          "publishedOn": "2026-11-13T16:14:46.000Z",
+          "wordCount": 5898,
+          "title": "Estratégias de organização digital no pós-eleição",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3210431",
           "author": "Lucas Scatolini",
           "description": "Como se introduz um conceito novo na política? Raramente começamos com uma definição. Conceitos políticos ganham força quando conseguem se […]\nThe post Narcoterrorismo, um conceito perigoso appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/leia-tambem/narcoterrorismo-um-conceito-perigoso/",
           "publishedOn": "2026-11-13T15:58:30.000Z",
-          "wordCount": 4461,
+          "wordCount": 4448,
           "title": "Narcoterrorismo, um conceito perigoso",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
@@ -921,89 +1046,9 @@
           "description": "Da China atual aos EUA de Roosevelt ou à França do pós-guerra, há inúmeros exemplos das virtudes de planejar. Brasil aprendeu a fazê-lo por 50 anos mas regrediu, nas décadas neoliberais. Como retomar esta ação indispensável, nas condições do século XXI?\nThe post Brasil: Bases para a retomada do Planejamento appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outrapolitica/brasil-bases-para-a-retomada-do-planejamento/",
           "publishedOn": "2026-11-13T15:48:05.000Z",
-          "wordCount": 4727,
+          "wordCount": 4713,
           "title": "Brasil: Bases para a retomada do Planejamento",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-13-at-12-44-50-shutterstock_391869445.jpg-imagem-JPEG-4256-%C3%97-2832-pixels-Redimensionada-22.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210284",
-          "author": "Raíssa Araújo Pacheco",
-          "description": "No mês em que milhares de estudantes e trabalhadores lotaram as ruas do mundo, estivadores de 113 portos da Europa cruzaram os braços para tentar frear o genocídio palestino. Em meio à crise do regime de guerra, costura-se um tecido em comum\nThe post O que nos mostra a greve portuária internacional? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/movimentoserebeldias/o-que-nos-mostra-a-greve-portuaria-internacional/",
-          "publishedOn": "2026-11-12T22:34:01.000Z",
-          "wordCount": 5344,
-          "title": "O que nos mostra a greve portuária internacional?",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo-2.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210319",
-          "author": "Lucas Scatolini",
-          "description": "Historiador que foi assessor-chefe da Defesa analisa em profundidade a caserna e seus bastidores. Esmiúça a doutrina de inimigo interno semeada pelos EUA. O fascismo enraizado na casta militar. Os erros de Lula. E como o Brasil pode se preparar contra uma agressão externa\nThe post Nas entranhas das Forças Armadas  appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/nas-entranhas-das-forcas-armadas/",
-          "publishedOn": "2026-11-12T21:11:38.000Z",
-          "wordCount": 7144,
-          "title": "Nas entranhas das Forças Armadas",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5165670889503264043.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210306",
-          "author": "Lucas Scatolini",
-          "description": "Interferência da Meta nas eleições brasileiras expõe os riscos de uma IA sob controle de corporações e governos autoritários. Mas o Grande Irmão não pode tudo, aprendemos em outubro. O que diria Foucault sobre a resistência comandada por Janones?\nThe post Tecnofascismo e insurgência democrática appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/tecnologiaemdisputa/tecnofascismo-e-insurgencia-democratica/",
-          "publishedOn": "2026-11-12T21:07:37.000Z",
-          "wordCount": 4866,
-          "title": "Tecnofascismo e insurgência democrática",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-12-at-18-02-58-_int2203.jpg-imagem-WEBP-770-%C3%97-513-pixels.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210344",
-          "author": "Lucas Scatolini",
-          "description": "Nem um discurso conciliatório, nem a mediação com a direita permitirão enfrentar as pressões do “mercado”, sobreviver ou, muito menos, avançar. É hora de propor uma agenda voltada aos interesses da classe trabalhadora, deixando evidente quem são os inimigos\nThe post Após a vitória, choque de projetos! appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/apos-a-vitoria-choque-de-projetos/",
-          "publishedOn": "2026-11-12T20:17:08.000Z",
-          "wordCount": 4969,
-          "title": "Após a vitória, choque de projetos!",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5165670889503264071_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210312",
-          "author": "Lucas Scatolini",
-          "description": "Virada de Lula foi acompanhada de promessas de transformação social – sem elas, a insatisfação ressurgirá. Renda, proteção social e segurança pública são os grandes temas. O que fazer? Por que a escuta nos territórios e o direito à cidade são caminhos para promover avanços?\nThe post Uma agenda para 2027 a partir do “chão de cidade” appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/uma-agenda-para-2027-a-partir-do-chao-de-cidade/",
-          "publishedOn": "2026-11-12T19:25:32.000Z",
-          "wordCount": 6748,
-          "title": "Uma agenda para 2027 a partir do “chão de cidade”",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5165670889503264053_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210294",
-          "author": "Lucas Scatolini",
-          "description": "As falhas técnicas no sistema da Meta, que prejudicaram as distribuições de conteúdos da campanha petista, acenderam novamente o debate […]\nThe post Regulação: por que o debate sobre as Big Techs vai muito além da política appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/leia-tambem/regulacao-por-que-o-debate-sobre-as-big-techs-vai-muito-alem-da-politica/",
-          "publishedOn": "2026-11-12T17:25:47.000Z",
-          "wordCount": 3658,
-          "title": "Regulação: por que o debate sobre as Big Techs vai muito além da política",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210278",
-          "author": "Lucas Scatolini",
-          "description": "Na esteira da vitória histórica que tivemos no Brasil no domingo, 25 de outubro, escrevo com a sensação, cada vez […]\nThe post Dos Indignados e do Occupy em 2011 às eleições de 2026 appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/leia-tambem/dos-indignados-e-do-occupy-em-2011-as-eleicoes-de-2026/",
-          "publishedOn": "2026-11-12T17:17:47.000Z",
-          "wordCount": 5317,
-          "title": "Dos Indignados e do Occupy em 2011 às eleições de 2026",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210255",
-          "author": "Antonio Martins",
-          "description": "Tramado pela “área econômica”, PLP 299 afronta a mobilização que assegurou a virada eleitoral. Arrocha Saúde e Educação, atinge salário mínimo e aposentadorias e não resolve falhas estruturais do “arcabouço fiscal”. Há inúmeras alternativas\nThe post O pacote que pode comprometer Lula 4 appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/o-pacote-que-pode-comprometer-lula-4/",
-          "publishedOn": "2026-11-12T12:55:53.000Z",
-          "wordCount": 6512,
-          "title": "O pacote que pode comprometer Lula 4",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/261112-Educacao.jpg"
         }
       ]
     },
@@ -1028,7 +1073,7 @@
           "description": "Um imenso movimento cuja força se encontrou não na exterioridade da ação violenta, mas no coração individual e coletivo da busca pela Vida. Por Henri Simon",
           "link": "https://passapalavra.info/2026/11/160366/",
           "publishedOn": "2026-11-12T13:10:52.000Z",
-          "wordCount": 9003,
+          "wordCount": 9060,
           "title": "Foi também isso, Maio de 68",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/0708920a-d7bd-46d6-b7a7-bce313855c16.jpg"
         },
@@ -1060,12 +1105,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=68321",
+          "author": "Boitempo",
+          "description": "Hoje 300 milhões de pessoas vivem em países onde não nasceram, e Nova York, onde um em cada três habitantes é imigrante e metade dos moradores fala em casa uma língua que não é o inglês, tornou-se o lugar onde a contradição aparece com mais nitidez. A operação Rotten Apple do ICE, que prendeu 2.197 imigrantes no estado entre julho e agosto de 2026, revelou menos uma ação de fiscalização do que o choque entre duas concepções de poder: a do governo federal, que reivindica autoridade sobre as fronteiras, e a das cidades-santuário que protegem quem já vive e trabalha nelas. No fundo está a assimetria característica da globalização: mercadorias, capitais e informações circulam em frações de segundo, enquanto as pessoas se deparam com vistos, controles e deportações.",
+          "link": "https://blogdaboitempo.com.br/2026/11/13/boitempo-e-boitata-na-28a-festa-do-livro-da-usp/",
+          "publishedOn": "2026-11-13T19:54:54.000Z",
+          "wordCount": 5991,
+          "title": "Boitempo e Boitatá na 28ª Festa do Livro da USP",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/banner-email-festa-usp-2026_01.jpg"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=67777",
           "author": "Boitempo",
           "description": "Hoje 300 milhões de pessoas vivem em países onde não nasceram, e Nova York, onde um em cada três habitantes é imigrante e metade dos moradores fala em casa uma língua que não é o inglês, tornou-se o lugar onde a contradição aparece com mais nitidez. A operação Rotten Apple do ICE, que prendeu 2.197 imigrantes no estado entre julho e agosto de 2026, revelou menos uma ação de fiscalização do que o choque entre duas concepções de poder: a do governo federal, que reivindica autoridade sobre as fronteiras, e a das cidades-santuário que protegem quem já vive e trabalha nelas. No fundo está a assimetria característica da globalização: mercadorias, capitais e informações circulam em frações de segundo, enquanto as pessoas se deparam com vistos, controles e deportações.",
           "link": "https://blogdaboitempo.com.br/2026/11/13/a-era-das-migracoes/",
           "publishedOn": "2026-11-13T15:00:00.000Z",
-          "wordCount": 5789,
+          "wordCount": 5958,
           "title": "A Era das Migrações",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/protest_against_ice_in_minneapolis_-_55036179139.jpg?fit=1200%2C800&ssl=1"
         },
@@ -1075,7 +1130,7 @@
           "description": "\"Mas parece que pode ter surgido um tipo de vitória que poderia ser chamada de antipirro. Depois de perder uma batalha e parecer tudo perdido, os perdedores dessa primeira batalha se enchem de energia, traz mais gente pra luta e vence, com um “exército” maior e mais forte do que antes. Só não pode se acomodar depois dela. Como diz uma música, é preciso estar atento e forte. Tivemos uma vitória não é o fim, mas o começo de muitas batalhas que virão. Difíceis. Que nossas vitórias sejam para nos orgulharmos de ter vencido. Uma vitória que resulte em melhorar o Brasil e o mundo\".",
           "link": "https://blogdaboitempo.com.br/2026/11/13/cultura-inutil-vitoria-pirro-e-antipirro/",
           "publishedOn": "2026-11-13T11:00:00.000Z",
-          "wordCount": 6489,
+          "wordCount": 6490,
           "title": "Cultura inútil | Vitória: Pirro e antipirro",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/le_jeune_pyrrhus_sauve_-_1634_-_nicolas_poussin_-_louvre_-_inv_7292__mr_2334.jpg"
         },
@@ -1125,19 +1180,9 @@
           "description": "A centro-esquerda institucional vê-se diante dos limites da sua administração malabarista entre manter o tripé macroeconômico e avançar em uma modernização com inclusão social. Nesse cenário, Marcos Paulo filho propõe um diálogo entre André Singer e Kauê Lopes dos Santos.",
           "link": "https://blogdaboitempo.com.br/2026/11/10/prolongamento-do-impasse-a-captura-do-eleitorado-para-um-programa-reacionario/",
           "publishedOn": "2026-11-10T14:29:32.000Z",
-          "wordCount": 5588,
+          "wordCount": 5583,
           "title": "Prolongamento do impasse: a captura do eleitorado para um programa reacionário",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-09-04-at-124528-e5e04f7f.webp?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=67109",
-          "author": "Boitempo",
-          "description": "Nesta conversa com Bruna Della Torre e Eduardo Altheman, Douglas Kellner fala sobre sua trajetória intelectual, o encontro com a teoria crítica, a Escola de Frankfurt e o trabalho de Herbert Marcuse.",
-          "link": "https://blogdaboitempo.com.br/2026/11/09/do-arquivo-uma-conversa-com-douglas-kellner/",
-          "publishedOn": "2026-11-09T11:00:00.000Z",
-          "wordCount": 10266,
-          "title": "Sobre Hebert Marcuse: Conheça o filósofo alemão pela perspectiva de Douglas Kellner",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/c964c9de-0f31-4347-99a0-6d05e877005e_2560x1824.webp?fit=1200%2C855&ssl=1"
         }
       ]
     }
