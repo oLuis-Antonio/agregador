@@ -23,6 +23,16 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=63439",
+          "author": "Clóvis Maia",
+          "description": "Mesmo com o crescimento das plataformas digitais, a circulação de jornais impressos continua sendo uma ferramenta de comunicação e organização política e contribui na difusão das ideias. Luiz Henrique| Recife OPINIÃO- As redes digitais mudaram profundamente a forma como as pessoas se informam e participam do debate político. Hoje, uma publicação pode alcançar milhares de […]",
+          "link": "https://averdade.org.br/2026/11/o-jornal-fisico-ainda-tem-espaco-na-era-das-redes/",
+          "publishedOn": "2026-11-18T14:19:54.000Z",
+          "wordCount": 7758,
+          "title": "O jornal físico ainda tem espaço na era das redes",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/11/jornal-A-Verdade.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=63430",
           "author": "Leonardo de Paula",
           "description": "No dia 29 de outubro, por volta das 16 horas, um incêndio atingiu o quadro geral de energia de um dos galpões da empresa Aratell, na capital paulista. Ao Jornal A Verdade, os operários denunciam que a falta de manutenção e de renovação da estrutura elétrica da empresa foi a causa do incêndio. Segundo os […]",
@@ -101,26 +111,6 @@
           "wordCount": 7511,
           "title": "Crônica: Voltar para a fábrica",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2021/09/e2e25b52-base-01-thumbnail-para-facebook.png"
-        },
-        {
-          "id": "https://averdade.org.br/?p=63392",
-          "author": "Felipe Annunziata",
-          "description": "Quase dois anos após o assassinato do jovem brasileiro-palestino Walid Ahmad, 17 anos, o regime sionista de Israel devolve o corpo para a família. Jovem foi assassinado por fome e torturas em prisão sionista em 2025. Felipe Annunziata | Redação INTERNACIONAL – Foi num caixão fechado com a bandeira do Brasil e da Palestina que […]",
-          "link": "https://averdade.org.br/2026/11/corpo-jovem-brasileiro-palestino-2-anos-assassinado-israel/",
-          "publishedOn": "2026-11-13T23:28:27.000Z",
-          "wordCount": 7250,
-          "title": "Jovem brasileiro-palestino é enterrado quase dois anos após seu assassinato por Israel",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/11/Design-sem-nome.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=63389",
-          "author": "Felipe Annunziata",
-          "description": "No modelo atual, Estado atua meramente como um organizador burocrático de privilégios para empresários estrangeiros, e quem paga a conta é sempre o trabalhador. Leo Ribeiro | Brasília (DF) BRASIL – No último dia 26/10, um dia após o povo brasileiro vencer o fascismo nas urnas e reeleger o presidente Lula, foi publicada, em edição extra […]",
-          "link": "https://averdade.org.br/2026/11/governo-privatizacao-energia/",
-          "publishedOn": "2026-11-13T23:01:39.000Z",
-          "wordCount": 8229,
-          "title": "Governo amplia privatização da energia para garantir lucros dos monopólios capitalistas",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2021/09/e2e25b52-base-01-thumbnail-para-facebook.png"
         }
       ]
     },
@@ -129,6 +119,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6afdcee9b79e7a48925f6d03",
+          "author": "Roberto Aguiar",
+          "description": "Dados do IBGE mostram que a população negra continua recebendo menos, ocupando os trabalhos mais precários, vivendo nas periferias e sendo a principal vítima da violência",
+          "link": "https://opiniaosocialista.com.br/racismo-e-exploracao-a-desigualdade-racial-e-parte-da-engrenagem-capitalista/",
+          "publishedOn": "2026-11-18T16:34:49.000Z",
+          "wordCount": 2228,
+          "title": "Racismo e exploração: a desigualdade racial é parte da engrenagem capitalista",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/mulher-negra.png"
+        },
         {
           "id": "6afb62dfb79e7a48925f6ca2",
           "author": "PSTU-RS",
@@ -168,26 +168,6 @@
           "wordCount": 998,
           "title": "Rosinha, presente, até o socialismo, sempre!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/Rosinha.webp"
-        },
-        {
-          "id": "6af76ab5b79e7a48925f6b92",
-          "author": "Secretaria Nacional de Negras e Negros do PSTU",
-          "description": "Preparar as periferias para lutar por reparações ao povo negro, contra a redução da maioridade penal e contra o capitalismo!",
-          "link": "https://opiniaosocialista.com.br/por-um-novembro-negro-com-consciencia-negra-raca-e-classe/",
-          "publishedOn": "2026-11-13T20:14:52.000Z",
-          "wordCount": 2276,
-          "title": "Por um Novembro Negro com consciência negra, raça e classe",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/novembro-negro-sp.webp"
-        },
-        {
-          "id": "6af76646b79e7a48925f6b6d",
-          "author": "PSTU-BA",
-          "description": "Defendemos a proteção dos territórios e das comunidades atingidas e a criação de uma empresa estatal para controlar a exploração das terras raras, com pesquisa, tecnologia e controle dos trabalhadores",
-          "link": "https://opiniaosocialista.com.br/abrolhos-nao-esta-a-venda-contra-a-entrega-das-riquezas-da-bahia-as-mineradoras-estrangeiras/",
-          "publishedOn": "2026-11-13T19:46:01.000Z",
-          "wordCount": 1954,
-          "title": "Abrolhos não está à venda! Contra a entrega das riquezas da Bahia às mineradoras estrangeiras",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/abrolhos-bahia.webp"
         }
       ]
     },
@@ -196,6 +176,26 @@
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Indigenas-fazem-barqueada-no-Para-para-denunciar-incendios-e-silencio-de-Lula",
+          "author": "Redação",
+          "description": "Mais de 600 indígenas do Baixo Tapajós, no oeste do Pará, realizaram uma barqueada pelo rio Tapajós para denunciar os incêndios florestais e cobrar medidas efetivas de proteção aos territórios amazônicos. A mobilização reuniu quase 20 embarcações e fez parte da 9ª edição do Grito Ancestral, manifestação que expressa a resistência dos povos indígenas diante da destruição ambiental e da expansão de projetos econômicos sobre seus territórios.\n18-11-2026\n\n/ Agronegócio, Indígenas, Luta indígena, Pará, Crise ecológica, Agro, Privatização dos rios",
+          "link": "https://www.esquerdadiario.com.br/Indigenas-fazem-barqueada-no-Para-para-denunciar-incendios-e-silencio-de-Lula",
+          "publishedOn": "2026-11-18T16:23:35.000Z",
+          "wordCount": null,
+          "title": "Indígenas fazem barqueada no Pará para denunciar incêndios e silêncio de Lula",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Motta-e-Alcolumbre-agem-para-destravar-impunidade-de-Bolsonaro-e-golpistas-para-tentarem-se",
+          "author": "Redação",
+          "description": "Os presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, reuniram-se com o ministro do Supremo Tribunal Federal, Alexandre de Moraes para avançar com o julgamento da Lei da Dosimetria, que garante impunidade aos golpistas e pode beneficiar Jair Bolsonaro. Nenhuma impunidade aos golpistas e à extrema direita!\n18-11-2026\n\n/ Política, Jair Bolsonaro, Davi Alcolumbre, Bolsonaro, 8 de Janeiro, Hugo Motta, Prisão de Bolsonaro",
+          "link": "https://www.esquerdadiario.com.br/Motta-e-Alcolumbre-agem-para-destravar-impunidade-de-Bolsonaro-e-golpistas-para-tentarem-se",
+          "publishedOn": "2026-11-18T14:04:49.000Z",
+          "wordCount": null,
+          "title": "Motta e Alcolumbre agem para destravar impunidade de Bolsonaro e golpistas para tentarem se reeleger",
+          "imageUrl": null
+        },
         {
           "id": "https://www.esquerdadiario.com.br/O-que-esta-em-jogo-no-encontro-Trump-Xi-Putin-em-Shenzhen",
           "author": "André Barbieri",
@@ -335,16 +335,6 @@
           "wordCount": null,
           "title": "Ato, paralisação e greve: servidores mostram o caminho para barrar reforma da previdência",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Flavio-Dino-vota-a-favor-de-patroes-a-flexibilizarem-fim-da-escala-6x1",
-          "author": "Vitória Busato",
-          "description": "Após pedido de entidades empresariais, como a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI), de adiar o prazo estabelecido pela Emenda Constitucional para o fim da escala 6x1,em liminar concedida ontem (12), o ministro Flávio Dino flexibilizou a distribuição de folgas previstas para a redução da jornada de trabalho. Este é mais um ataque brutal sobre uma vitória conquistada pelo povo trabalhador que foi às ruas exigir por (…)\n13-11-2026\n\n/ STF, Ataque aos trabalhadores, escala 6x1",
-          "link": "https://www.esquerdadiario.com.br/Flavio-Dino-vota-a-favor-de-patroes-a-flexibilizarem-fim-da-escala-6x1",
-          "publishedOn": "2026-11-13T19:08:50.000Z",
-          "wordCount": null,
-          "title": "Flavio Dino vota a favor de patrões a flexibilizarem fim da escala 6x1",
-          "imageUrl": null
         }
       ]
     },
@@ -353,6 +343,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=445775",
+          "author": "Isabella Mota",
+          "description": "Enquanto a Amazônia bate recorde na redução do desmate, focos de fogo disparam 102% e expõem uma ação coordenada em terras privadas para especulação e disputa política.\nO post Não queremos kits de emergência na Amazônia, queremos respirar apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/11/18/kits-emergencia-amazonia-respirar/",
+          "publishedOn": "2026-11-18T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Não queremos kits de emergência na Amazônia, queremos respirar",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/11/eAHXHmTu-wide-3.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/11/eAHXHmTu-wide-3.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=445778",
           "author": "Gisele Lobato",
@@ -436,12 +441,22 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=164783",
+          "author": "Paulo Batistella",
+          "description": "Em entrevista à Ponte, socióloga Vera Malaguti celebra vitória de Lula, mas critica concessão ao mercado e a pautas punitivistas. Agenda neoliberal pressupõe um \"Estado penal\", em que cortes sociais viram gastos com cadeias e polícias, diz ela\nO conteúdo ‘Ajuste fiscal agrava conflitos sociais e alimenta modelo de guerra na segurança pública’ Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/vera-malaguti-ajuste-fiscal-seguranca-publica/",
+          "publishedOn": "2026-11-18T16:36:12.000Z",
+          "wordCount": 7869,
+          "title": "‘Ajuste fiscal agrava conflitos sociais e alimenta modelo de guerra na segurança pública’",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/vera-malaguti.webp"
+        },
+        {
           "id": "https://ponte.org/?p=164828",
           "author": "Paulo Batistella",
           "description": "Adolescente de 16 anos foi sequestrado, torturado e morto por policiais militares em Salvador, segundo o MPBA. Captura do jovem foi tida como \"batismo\" de agentes recém-formados ao atribuírem a ele a identidade de outra pessoa\nO conteúdo Justiça da Bahia decide após 12 anos que PMs acusados de matar Davi Fiúza vão a júri popular Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/davi-fiuza-pms-juri-popular/",
           "publishedOn": "2026-11-17T22:22:08.000Z",
-          "wordCount": 5577,
+          "wordCount": 5549,
           "title": "Justiça da Bahia decide após 12 anos que PMs acusados de matar Davi Fiúza vão a júri popular",
           "imageUrl": "https://ponte.org/wp-content/uploads/2019/10/davi_fiuza.jpg"
         },
@@ -454,16 +469,6 @@
           "wordCount": 6219,
           "title": "Da Redação | Mais câmeras significam mais segurança?",
           "imageUrl": "https://ponte.org/wp-content/uploads/2025/10/SmartSampa-scaled.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=164607",
-          "author": "Catarina Duarte",
-          "description": "Em Belém, a instalação de um data center de R$ 250 milhões preocupa moradores de duas ocupações que enfrentam disputas por terra, falta de saneamento e incertezas sobre os impactos do empreendimento\nO conteúdo A vizinhança da inteligência artificial Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/a-vizinhanca-da-inteligencia-artificial/",
-          "publishedOn": "2026-11-13T19:00:57.000Z",
-          "wordCount": 7391,
-          "title": "A vizinhança da inteligência artificial",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/11/moradia-semente-de-deus-belem-joao-paulo-guimaraes.jpg-scaled.webp"
         }
       ]
     },
@@ -500,104 +505,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
-          "id": "https://operamundi.uol.com.br/?p=272066",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, está “sério” em tentar um encontro com o líder norte-coreano Kim Jong Un às margens de sua agenda oficial em países da Ásia, de acordo com o secretário de Estado norte-americano Marco Rubio nesta quarta-feira (18/11). A posição foi reiterada à imprensa em Manila, nas Filipinas, onde o […]\nO post Trump está ‘sério’ em busca de diálogo com Kim Jong Un, diz Rubio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/trump-esta-serio-em-busca-de-dialogo-com-kim-jong-un-diz-rubio/",
-          "publishedOn": "2026-11-18T04:57:55.000Z",
-          "wordCount": 3442,
-          "title": "Trump está ‘sério’ em busca de diálogo com Kim Jong Un, diz Rubio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/president_trump_meets_with_chairman_kim_jong_un_48164814177.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272052",
-          "author": "Rocio Paik",
-          "description": "O governo do Reino Unido impôs sanções a oito empresas israelenses envolvidas na construção de assentamentos israelenses na Cisjordânia ocupada e a um grupo de colonos que bloqueiam a entrada de ajuda humanitária na Faixa de Gaza. Um dia depois, nesta quarta-feira (18/11), a Austrália também decidiu sancionar três indivíduos israelenses e quatro organizações por […]\nO post Reino Unido e Austrália sancionam empresas israelenses que constroem assentamentos ilegais na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/reino-unido-e-australia-sancionam-empresas-israelenses-que-constroem-assentamentos-ilegais-na-cisjordania/",
-          "publishedOn": "2026-11-18T04:00:52.000Z",
-          "wordCount": 3747,
-          "title": "Reino Unido e Austrália sancionam empresas israelenses que constroem assentamentos ilegais na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hvorn6jxeaa6z-z.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272049",
-          "author": "Rocio Paik",
-          "description": "O presidente da Rússia, Vladimir Putin, chegou a Shenzhen na quarta-feira (17/11) para participar da cúpula da Cooperação Econômica Ásia-Pacífico (APEC) pelos próximos dias, em agendas oficiais que incluem o Fórum Empresarial e discurso na sessão plenária. Às margens do evento, o líder do Kremlin também tem um encontro trilateral marcado com o presidente chinês […]\nO post Putin chega à China para participar da APEC; altos funcionários avaliam ‘benéfico’ encontro com Trump e Xi Jinping apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/asia/putin-chega-a-china-para-participar-da-apec-altos-funcionarios-avaliam-benefico-encontro-com-trump-e-xi-jinping/",
-          "publishedOn": "2026-11-18T03:00:41.000Z",
-          "wordCount": 3680,
-          "title": "Putin chega à China para participar da APEC; altos funcionários avaliam ‘benéfico’ encontro com Trump e Xi Jinping",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/presidente-putin-arriba-a-shenzhen-foto-xinhua-1.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272046",
-          "author": "Rocio Paik",
-          "description": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), adiou para quarta-feira (18/11) a votação dos destaques ao texto-base do projeto de lei de ajuste fiscal do governo.  Para que a proposta pudesse ter votação concluída no Senado e ser enviada ainda nesta terça-feira (17/11) à Câmara dos Deputados, os destaques precisavam ser apreciados, mas a […]\nO post Senado adia votação do projeto de ajuste fiscal para esta quarta-feira (18) apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/senado-adia-votacao-do-projeto-de-ajuste-fiscal-para-quarta-feira-18/",
-          "publishedOn": "2026-11-18T02:13:24.000Z",
-          "wordCount": 4086,
-          "title": "Senado adia votação do projeto de ajuste fiscal para esta quarta-feira (18)",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/maioridade_12-11-26_0.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272034",
-          "author": "Raissa Neves",
-          "description": "O presidente Luiz Inácio Lula da Silva teve papel na articulação do encontro entre os presidentes Donald Trump, dos Estados Unidos, Xi Jinping, da China, e Vladimir Putin, da Rússia, previsto para quinta-feira (20/11), em Shenzhen, na China. A informação foi divulgada pelo primeiro-ministro canadense, Mark Carney, que atribuiu ao brasileiro a iniciativa de aproximar […]\nO post ‘Lula articulou trilateral entre Trump, Putin e Xi’, revela premiê do Canadá apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-articulou-trilateral-entre-trump-putin-e-xi-revela-premie-do-canada/",
-          "publishedOn": "2026-11-17T21:38:17.000Z",
-          "wordCount": 3646,
-          "title": "‘Lula articulou trilateral entre Trump, Putin e Xi’, revela premiê do Canadá",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-07-27-at-114723.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272030",
-          "author": "Raissa Neves",
-          "description": "Há 65 anos, em 17 de novembro de 1961, terminava o 1º Congresso Nacional de Lavradores e Trabalhadores Agrícolas, realizado em Belo Horizonte. O encontro, que reuniu milhares de delegados de todo o país, consolidou a reforma agrária como pauta nacional. O congresso também deu grande visibilidade às Ligas Camponesas e ao seu principal líder, […]\nO post Na lei ou na marra: Ligas Camponesas e a luta pela reforma agrária no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/na-lei-ou-na-marra-ligas-camponesas-e-a-luta-pela-reforma-agraria-no-brasil/",
-          "publishedOn": "2026-11-17T20:50:34.000Z",
-          "wordCount": 5051,
-          "title": "Na lei ou na marra: Ligas Camponesas e a luta pela reforma agrária no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/19245.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272020",
-          "author": "Raissa Neves",
-          "description": "Os Estados Unidos perderam oficialmente o reconhecimento internacional de país livre do sarampo após mais de um ano de circulação contínua do vírus. A decisão foi anunciada nesta terça-feira (17/11) pela Organização Pan-Americana da Saúde (OPAS), em meio ao aumento das infecções e à redução das taxas de vacinação no país. Segundo reportagem publicada pelo […]\nO post EUA perdem status de país livre do sarampo após 26 anos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/eua-perdem-status-de-pais-livre-do-sarampo-apos-26-anos/",
-          "publishedOn": "2026-11-17T20:11:24.000Z",
-          "wordCount": 4446,
-          "title": "EUA perdem status de país livre do sarampo após 26 anos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/image-7.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272008",
-          "author": "Raissa Neves",
-          "description": "Representantes do movimento estudantil que venceu as eleições legislativas de 25 de outubro na Sérvia tomaram posse nesta terça-feira (17/11) no Parlamento, após uma vitória histórica que pôs fim a 14 anos de domínio político do líder nacionalista Aleksandar Vucic. Com 53% dos votos e 140 das 250 cadeiras do Parlamento, o movimento estudantil chega ao […]\nO post Movimento estudantil toma posse no Parlamento da Sérvia após vitória histórica apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/movimento-estudantil-toma-posse-no-parlamento-da-servia-apos-vitoria-historica-sobre-nacionalistas/",
-          "publishedOn": "2026-11-17T19:00:42.000Z",
-          "wordCount": 4088,
-          "title": "Movimento estudantil toma posse no Parlamento da Sérvia após vitória histórica",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-17-150148.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272011",
+          "id": "https://operamundi.uol.com.br/?p=272134",
           "author": "Paola Orlovas",
-          "description": "O bilionário Elon Musk planeja uma fusão entre a Tesla e a SpaceX que poderá criar um conglomerado avaliado em mais de US$ 3 trilhões, reunindo negócios nos setores automotivo, aeroespacial, energético e de inteligência artificial. As informações são do jornal norte-americano New York Times. Segundo investigação publicada pelo veículo na última segunda-feira (16/11), as […]\nO post Musk planeja fusão entre Tesla e SpaceX para ampliar concentração de negócios apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/musk-planeja-fusao-entre-tesla-e-spacex/",
-          "publishedOn": "2026-11-17T18:20:26.000Z",
-          "wordCount": 4343,
-          "title": "Musk planeja fusão entre Tesla e SpaceX para ampliar concentração de negócios",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/54563239575_df1d7751ae_k-e1794939576332.jpg"
+          "description": "Um vazamento de 15 milhões de documentos internos do Deutsche Bank, divulgado nesta terça-feira (17/11), revelou operações financeiras envolvendo empresas do presidente dos Estados Unidos, Donald Trump, e US$ 582 milhões em transações suspeitas associadas ao financista Jeffrey Epstein. As informações são do jornal Financial Times. Segundo a Al Jazeera, os arquivos registram mais de […]\nO post Deutsche Bank tem operações com empresas de Trump expostas em vazamento apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/deutsche-bank-operacoes-com-empresas-de-trump-expostas-vazamento/",
+          "publishedOn": "2026-11-18T17:00:34.000Z",
+          "wordCount": 4623,
+          "title": "Deutsche Bank tem operações com empresas de Trump expostas em vazamento",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/p20260930mr-0773_55570070112-scaled-e1795019037403.jpg"
         },
         {
-          "id": "https://operamundi.uol.com.br/?p=272004",
-          "author": "Raissa Neves",
-          "description": "O papa Leão XIV enviou uma nova mensagem ao presidente do Brasil Luiz Inácio Lula da Silva nesta terça-feira (17/11) durante a passagem de seu avião pelo espaço aéreo brasileiro, no retorno de sua viagem apostólica pela América do Sul. No telegrama, o pontífice manifestou votos de prosperidade ao chefe do Executivo e pediu bênçãos […]\nO post Papa Leão XIV envia mensagem a Lula e defende combate à desigualdade social apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/papa-leao-xiv-envia-mensagem-a-lula-e-defende-combate-a-desigualdade-social/",
-          "publishedOn": "2026-11-17T17:40:20.000Z",
-          "wordCount": 3790,
-          "title": "Papa Leão XIV envia mensagem a Lula e defende combate à desigualdade social",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/image-8.png"
+          "id": "https://operamundi.uol.com.br/?p=272120",
+          "author": "Tatiana Carlotti",
+          "description": "O governo argentino condenou oficialmente a presença da Princesa Ana, do Reino Unido, nas Ilhas Malvinas, onde ela realiza uma visita oficial desde a última segunda-feira (09/11), classificando-a como “uma provocação” e vinculando a viagem ao avanço britânico na exploração unilateral de hidrocarbonetos no Atlântico Sul. Por meio de uma declaração emitida pelo Ministério das […]\nO post Argentina condena visita de princesa britânica às Ilhas Malvinas: ‘provocação’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/argentina-condena-visita-de-princesa-britanica-as-ilhas-malvinas-provocacao/",
+          "publishedOn": "2026-11-18T16:20:43.000Z",
+          "wordCount": 4486,
+          "title": "Argentina condena visita de princesa britânica às Ilhas Malvinas: ‘provocação’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/daniel-torok-white-house.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272125",
+          "author": "Victor Farinelli",
+          "description": "As eleições legislativas dos Estados Unidos ainda não estão completamente terminadas, mas pelo menos a disputa no Senado chegou ao seu fim nesta quarta-feira (18/11), com aa definição do cenário no Alasca, onde a líder indígena Mary Peltola, representando o Partido Democrata derrotou Dan Sullivan, do Partido Republicano, que disputava a reeleição. Peltola obteve 50,12% […]\nO post EUA: Indígena vence no Alasca e aumenta maioria dos Democratas no Senado apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/indigena-vence-no-alasca-e-aumenta-maioria-dos-democratas-no-senado-dos-eua/",
+          "publishedOn": "2026-11-18T15:40:46.000Z",
+          "wordCount": 4043,
+          "title": "EUA: Indígena vence no Alasca e aumenta maioria dos Democratas no Senado",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/mary.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272118",
+          "author": "Paola Orlovas",
+          "description": "Avaliações recentes de agências de inteligência ocidentais indicam que o presidente russo, Vladimir Putin, não pretende avançar nas negociações para encerrar a guerra na Ucrânia, apesar do encontro trilateral previsto com os líderes dos Estados Unidos e da China nesta quinta-feira (19/11). As informações são do jornal norte-americano New York Times. Autoridades europeias afirmam que […]\nO post Europa demonstra ceticismo sobre acordo para fim da guerra na Ucrânia, aponta NYT apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/europa-demonstra-ceticismo-acordo-fim-da-guerra-na-ucrania-nyt/",
+          "publishedOn": "2026-11-18T15:00:23.000Z",
+          "wordCount": 4227,
+          "title": "Europa demonstra ceticismo sobre acordo para fim da guerra na Ucrânia, aponta NYT",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/fm2d2qlxsaehdb5-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272112",
+          "author": "Tatiana Carlotti",
+          "description": "Durante o banquete de boas-vindas aos líderes da 33ª reunião da Cooperação Econômica Ásia-Pacífico (APEC), realizado nesta quarta-feira (18/11), em Shenzhen, na China, o presidente chinês, Xi Jinping, defendeu o aprofundamento da integração econômica regional e a ampliação da cooperação entre os países. O presidente chinês antecipou os principais temas das discussões entre os líderes […]\nO post Xi Jinping brinda ‘prosperidade’ da região Ásia-Pacífico em banquete para líderes globais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-brinda-prosperidade-da-regiao-asia-pacifico-em-banquete-para-lideres-globais/",
+          "publishedOn": "2026-11-18T14:18:12.000Z",
+          "wordCount": 4533,
+          "title": "Xi Jinping brinda ‘prosperidade’ da região Ásia-Pacífico em banquete para líderes globais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/xinhua-li-xiang.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272108",
+          "author": "Paola Orlovas",
+          "description": "Os preparativos para a primeira reunião trilateral entre os presidentes da Rússia, Vladimir Putin, da China, Xi Jinping, e dos Estados Unidos, Donald Trump, prevista para quinta-feira (19/11), incluem a elaboração de uma declaração conjunta, ainda em negociação entre os três países. A informação foi divulgada nesta quarta-feira (18/11) pelo assessor presidencial russo Yuri Ushakov, […]\nO post Kremlin prevê ampla agenda para reunião entre Putin, Xi e Trump, mas não detalha temas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/kremlin-preve-ampla-agenda-reuniao-entre-putin-xi-trump-nao-detalha-temas/",
+          "publishedOn": "2026-11-18T13:16:10.000Z",
+          "wordCount": 3635,
+          "title": "Kremlin prevê ampla agenda para reunião entre Putin, Xi e Trump, mas não detalha temas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/bifkhrejlksfbkipnlodbaknjrvdohfm.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272105",
+          "author": "Tatiana Carlotti",
+          "description": "O Exército do Irã anunciou nesta quarta-feira (18/11) um ataque com drones contra instalações militares dos Estados Unidos na base aérea de Ali Al Salem, no Kuwait, um dia após caças norte-americanos bombardearem uma instalação de lançamento de mísseis na ilha iraniana de Qeshm, no Estreito de Ormuz. Segundo comunicado das forças iranianas, divulgado pela […]\nO post Irã anuncia ataque contra base dos EUA no Kuwait após bombardeio norte-americano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-anuncia-ataque-contra-base-dos-eua-no-kuwait-apos-bombardeio-norte-americano/",
+          "publishedOn": "2026-11-18T12:33:20.000Z",
+          "wordCount": 4168,
+          "title": "Irã anuncia ataque contra base dos EUA no Kuwait após bombardeio norte-americano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/agencia-tasnim-confirmada.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272092",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente da China, Xi Jinping, recebeu pessoalmente nesta quarta-feira (18/11) o presidente dos Estados Unidos, Donald Trump, no Aeroporto Internacional Bao’an de Shenzhen, na província de Guangdong, no sul da China. O mandatário norte-americano chegou ao país para participar da 33ª Reunião de Líderes Econômicos da Cooperação Econômica Ásia-Pacífico (APEC), realizada nos dias 18 […]\nO post Xi Jinping recebe Trump no aeroporto e defende relações ‘construtivas’ entre EUA e China apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-recebe-trump-no-aeroporto-e-defende-relacoes-construtivas-entre-eua-e-china/",
+          "publishedOn": "2026-11-18T11:27:34.000Z",
+          "wordCount": 4070,
+          "title": "Xi Jinping recebe Trump no aeroporto e defende relações ‘construtivas’ entre EUA e China",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/vj6xarww4hunzyyf.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272080",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente da China, Xi Jinping, reuniu-se nesta quarta-feira (18/11) com o presidente da Rússia, Vladimir Putin, em Shenzhen, onde acontece a 33ª Reunião de Líderes Econômicos da Cooperação Econômica Ásia-Pacífico (APEC). Segundo o veículo estatal Xinhua, durante a reunião, o líder chinês classificou a parceria entre os dois países como “inabalável por tempestades e […]\nO post Xi Jinping reúne-se com Putin e classifica parceria com Moscou como ‘inabalável’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-reune-se-com-putin-e-classifica-parceria-com-moscou-como-inabalavel/",
+          "publishedOn": "2026-11-18T10:41:39.000Z",
+          "wordCount": 4162,
+          "title": "Xi Jinping reúne-se com Putin e classifica parceria com Moscou como ‘inabalável’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/zolsgxesjwjdp2ef.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272035",
+          "author": "Paola Orlovas",
+          "description": "A primeira reunião trilateral entre os presidentes da Rússia, Vladimir Putin, da China, Xi Jinping, e dos Estados Unidos, Donald Trump, está prevista para quinta-feira (19/11), em Shenzhen, na China. Rose Martins, mestra em Economia Política Internacional pela Universidade Federal do Rio de Janeiro (UFRJ), considera que o encontro trará “pouco consenso”, embora haja “um […]\nO post Reunião entre Trump, Putin e Xi trará ‘pouco consenso’ apesar de peso simbólico, diz analista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/politica-e-economia/reuniao-trump-putin-xi-trara-pouco-consenso-diz-analista/",
+          "publishedOn": "2026-11-18T10:00:29.000Z",
+          "wordCount": 5094,
+          "title": "Reunião entre Trump, Putin e Xi trará ‘pouco consenso’ apesar de peso simbólico, diz analista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/1493507.jpg"
         }
       ]
     },
@@ -624,14 +629,34 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=236954",
+          "author": "Redação de AND",
+          "description": "Pelo Projeto Nimbus, a Amazon reservou espaço em seus centros de dados para arquivos militares sigilosos. Em Gaza, tropas sionistas usavam câmeras para identificar palestinos que fugiam dos bombardeios.",
+          "link": "https://anovademocracia.com.br/amazon-fotos-exercito-sionista-palestinos/",
+          "publishedOn": "2026-11-18T10:49:54.000Z",
+          "wordCount": null,
+          "title": "Amazon recebeu 3,5 milhões de fotos para o Exército sionista vigiar palestinos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=236943",
+          "author": "Redação de AND",
+          "description": "O governo oportunista anunciou mais de 11 mil vagas a partir de 2027. Em Laranjeiras do Sul, no Paraná, estudantes já têm aulas em auditórios por falta de salas, relata a Executiva.",
+          "link": "https://anovademocracia.com.br/exnepe-avanco-privatista-universidades/",
+          "publishedOn": "2026-11-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "ExNEPe denuncia avanço privatista no plano de expansão das universidades federais",
+          "imageUrl": null
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=236924",
           "author": "Redação de AND",
           "description": "A decisão suspende provisoriamente a ordem que favorece os herdeiros do latifundiário Aziz Mutran Neto. No complexo, a Polícia Civil matou dois camponeses em 2024.",
           "link": "https://anovademocracia.com.br/camponeses-ocupam-br-155-suspenso-despejo/",
           "publishedOn": "2026-11-17T23:38:13.000Z",
-          "wordCount": 7751,
+          "wordCount": null,
           "title": "Camponeses bloqueiam BR-155 e conquistam suspensão de despejo de 400 famílias na Mutamba",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/despejo-fazenda-mutamba-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236925",
@@ -639,9 +664,9 @@
           "description": "Reunidos em Medellín, representantes de diferentes regiões do país ratificaram o Programa da LAI e definiram novas campanhas contra a ingerência imperialista na América Latina, em solidariedade às resistências dos povos da Palestina, Irã e Índia.",
           "link": "https://anovademocracia.com.br/colombia-secao-liga-anti-imperialista/",
           "publishedOn": "2026-11-17T23:30:17.000Z",
-          "wordCount": 7454,
+          "wordCount": null,
           "title": "Organizações populares e revolucionárias da Colômbia fundam seção da Liga Anti-imperialista",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Evento-6Nov-2.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236900",
@@ -649,9 +674,9 @@
           "description": "Em São Paulo, uma cesta básica custa quase metade da bolsa de mestrado. Pós-graduandos rompem com o imobilismo e convocam paralisação para 17 e 18 de novembro, em meio aos atos contra o novo “ajuste fiscal” de Luiz Inácio.",
           "link": "https://anovademocracia.com.br/estudantes-pos-graduacao-reajuste-ciencia/",
           "publishedOn": "2026-11-17T21:37:02.000Z",
-          "wordCount": 7884,
+          "wordCount": null,
           "title": "Estudantes da pós-graduação se levantam pelo reajuste das bolsas e pela ciência",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/VIVA-A-VITORIOSA-MANIFESTACAO-DO-43o-ENEPEe-EM-SAO-LUISA-vitoriosa-manifestacao-do-43°-ENEPe-r.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236896",
@@ -659,9 +684,9 @@
           "description": "Rogério Marinho chamou de “preso político” o ex-gerente de turno condenado por comandar os preparativos golpistas. No dia seguinte à negativa dos pedidos de visita, Alcolumbre e Hugo Motta foram ao Supremo pedir o julgamento da lei que pode reduzir as penas dos golpistas.",
           "link": "https://anovademocracia.com.br/extrema-direita-encontro-bolsonaro-negado/",
           "publishedOn": "2026-11-17T20:44:59.000Z",
-          "wordCount": 7549,
+          "wordCount": null,
           "title": "Extrema direita tem visitas a Bolsonaro negadas ao buscar aval para comandar o Senado e anistiar golpistas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-42-1024x683.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236875",
@@ -669,9 +694,9 @@
           "description": "Na véspera da prisão, o banqueiro se reuniu com o ministro em Brasília e pediu que ele procurasse o diretor-geral da Polícia Federal para adiar a operação. A entrega ao Supremo dos relatórios refeitos sobre o caso Master está prevista para 18 de novembro.",
           "link": "https://anovademocracia.com.br/vorcaro-voo-dubai-apos-perguntar-a-moraes/",
           "publishedOn": "2026-11-16T23:13:15.000Z",
-          "wordCount": 8204,
+          "wordCount": null,
           "title": "Vorcaro antecipou voo para Dubai após perguntar a Moraes se devia deixar o Brasil",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-40.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236855",
@@ -679,9 +704,9 @@
           "description": "Em 4 de novembro, ativistas distribuíram mais de 300 panfletos na UFPB para exigir a revogação do aumento do Restaurante Universitário e a gratuidade das refeições. Quatro dias antes, divulgaram uma nota da LCP no Terminal de Ônibus da Lagoa.",
           "link": "https://anovademocracia.com.br/pb-aurora-democratica-protesto-joao-pessoa/",
           "publishedOn": "2026-11-16T22:55:27.000Z",
-          "wordCount": 7316,
+          "wordCount": null,
           "title": "PB: Coletivo Aurora Democrática protesta contra aumento do RU e leva nota da LCP ao Centro de João Pessoa",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Design-sem-nome-1024x724.png"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236866",
@@ -689,9 +714,9 @@
           "description": "O prazo judicial para o relatório do território Puruborá venceu em junho. Na aldeia Aperoí, os indígenas denunciam que o veneno das lavouras de soja do latifúndio está adoecendo crianças.",
           "link": "https://anovademocracia.com.br/indigenas-paralisia-demarcacoes-rondonia/",
           "publishedOn": "2026-11-16T22:15:07.000Z",
-          "wordCount": 7686,
+          "wordCount": null,
           "title": "Indígenas denunciam paralisia das demarcações em Rondônia",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/DSC08032clara-comandolli-cimiclara-comandolli-cimi-scaled-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://anovademocracia.com.br/?p=236863",
@@ -699,29 +724,9 @@
           "description": "Em declaração de 16 de novembro, comunistas condenaram as prisões em massa e denunciaram impedimentos ao acesso de advogados. Apenas em Baguio, cerca de 9 mil estudantes tomaram as ruas contra o projeto ianque Pax Silica.",
           "link": "https://anovademocracia.com.br/protestam-contra-trump-filipinas-pcf-asean/",
           "publishedOn": "2026-11-16T21:46:21.000Z",
-          "wordCount": 8056,
+          "wordCount": null,
           "title": "Dezenas de milhares protestam contra Trump nas Filipinas; PCF denuncia prisão de centenas na cúpula da Asean",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/202611_kaguma-lr-01.jpeg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236841",
-          "author": "Giovanna Maria",
-          "description": "A BBX do Brasil busca licenciar o Projeto Ema, em Apuí, enquanto prepara a exploração de terras raras para mercados externos. Seus planos já estavam em curso antes das eleições e seguem independentemente de quem venceu a disputa.",
-          "link": "https://anovademocracia.com.br/mineradora-australiana-terras-raras-sul-amazonas/",
-          "publishedOn": "2026-11-15T20:18:41.000Z",
-          "wordCount": 8000,
-          "title": "Mineradora australiana avança sobre terras raras no sul do Amazonas",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Imagem-Capa.jpg"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=236829",
-          "author": "Redação de AND",
-          "description": "Da Argentina ao Uruguai, passando por Chile, Bolívia e Paraguai, dificuldades financeiras e escândalos envolvendo recursos públicos expõem contradições do modelo agroexportador.",
-          "link": "https://anovademocracia.com.br/crise-calote-agro-america-do-sul/",
-          "publishedOn": "2026-11-15T13:00:00.000Z",
-          "wordCount": 7730,
-          "title": "Crise e calote do ‘agro’ também atingem demais países da América do Sul",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-38.png"
+          "imageUrl": null
         }
       ]
     },
@@ -731,12 +736,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3210988",
+          "author": "Lucas Scatolini",
+          "description": "A história política contemporânea atesta uma tragédia anunciada: ao restringir sua atuação à conquista e gestão institucional de governos dentro […]\nThe post Gerenciar a crise não é opção: a esquerda diante do colapso do liberalismo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/gerenciar-a-crise-nao-e-opcao-a-esquerda-diante-do-colapso-do-liberalismo/",
+          "publishedOn": "2026-11-18T16:51:21.000Z",
+          "wordCount": 3997,
+          "title": "Gerenciar a crise não é opção: a esquerda diante do colapso do liberalismo",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3210983",
+          "author": "Lucas Scatolini",
+          "description": "Uma das características mais marcantes do debate econômico brasileiro nas últimas décadas é a concentração excessiva das discussões em torno […]\nThe post Por uma macroeconomia do desenvolvimento histórico-estruturalista brasileira appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/leia-tambem/por-uma-macroeconomia-do-desenvolvimento-historico-estruturalista-brasileira/",
+          "publishedOn": "2026-11-18T16:39:28.000Z",
+          "wordCount": 6152,
+          "title": "Por uma macroeconomia do desenvolvimento histórico-estruturalista brasileira",
+          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3210846",
           "author": "Lucas Scatolini",
           "description": "País ganha mais projeção internacional. Mas superar a condição periférica é tarefa árdua. Passa por enfrentar big techs, fragilidades a sanções, vassalagem das Forças Armadas e reprimarização. EUA reagirão, claro. Jogo de cintura geopolítico é crucial\nThe post Brasil: a grande estratégia e seus obstáculos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/brasil-grande-estrategia-e-seus-obstaculos/",
           "publishedOn": "2026-11-17T21:18:01.000Z",
-          "wordCount": 5114,
+          "wordCount": 5240,
           "title": "Brasil: a grande estratégia e seus obstáculos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo4.jpg"
         },
@@ -746,7 +771,7 @@
           "description": "Elite rentista pressiona governo para um terceiro turno. Entopem editoriais, mobilizam políticos conservadores e atacam alternativas à ortodoxia econômica – Lara Resende e Pedro Paulo Zahluth são alvos. Se Lula ceder, contribuirá para seu próprio desgaste até 2030\nThe post A Faria Lima quer o estelionato eleitoral appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-faria-lima-quer-o-estelionato-eleitoral/",
           "publishedOn": "2026-11-17T21:05:30.000Z",
-          "wordCount": 5442,
+          "wordCount": 5445,
           "title": "A Faria Lima quer o estelionato eleitoral",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-17-at-17-48-26-Restricoes-de-tempo-de-paz-abandonadas-na-guerra-pela-sobrevivencia-economica-Larry-Elliott-The-Guardian.png"
         },
@@ -756,7 +781,7 @@
           "description": "Em novo capítulo da Sementeira, propostas para reformar políticas de fomento. Esfera pública é o local das decisões, não gabinetes. Recursos devem chegar aos territórios, sem burocracias. E lógica neoliberal de competição, que deturpa a finalidade coletiva da Cultura, deve ser rechaçada\nThe post Turino: Por que revisar os editais da cultura? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/turino-por-que-revisar-os-editais-da-cultura/",
           "publishedOn": "2026-11-17T20:48:58.000Z",
-          "wordCount": 4995,
+          "wordCount": 4998,
           "title": "Turino: Por que revisar os editais da cultura?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-17-at-17-42-10-Creators-face-projected-global-revenue-losses-of-up-to-24-by-2028.png"
         },
@@ -766,7 +791,7 @@
           "description": "Com dívida recorde, ruralistas vendem imagem de que geram riqueza, alimentam o mundo e dispensam favores públicos. Mas gozam de uma teia de isenções fiscais, crédito farto e socorros incessantes. Três pilares expõem um setor altamente dependente do Estado\nThe post Exame da farsa de um “agro” moderno appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/exame-da-farsa-de-um-agro-moderno/",
           "publishedOn": "2026-11-17T20:29:08.000Z",
-          "wordCount": 5798,
+          "wordCount": 5801,
           "title": "Exame da farsa de um “agro” moderno",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5181945830552834537_w1.jpg"
         },
@@ -809,26 +834,6 @@
           "wordCount": 3678,
           "title": "O crime da Braskem e a Maceió que precisa ser vista",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5177007670429420907_x.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210681",
-          "author": "Lucas Scatolini",
-          "description": "Análise de 2,9 mil reportagens sobre condições laborais revela roteiro quase invariável. Do chão de fábrica e construções a serviços, comércio e escritórios, sofrimento e mortes são evitáveis. Reparações tardam. E tragédia some do noticiário em poucos dias\nThe post Trabalho: A morte calculada e o “risco aceitável” appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/trabalhoeprecariado/trabalho-a-morte-calculada-e-o-risco-aceitavel/",
-          "publishedOn": "2026-11-16T21:24:07.000Z",
-          "wordCount": 8321,
-          "title": "Trabalho: A morte calculada e o “risco aceitável”",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-16-at-18-22-07-construction-workers-on-elevated-steel-girders.jpeg-imagem-JPEG-1000-%C3%97-750-pixels-Redimensionada-86.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3210692",
-          "author": "Lucas Scatolini",
-          "description": "Mapeamento exclusivo revela que, em três meses, 11% da área protegida da vila paraense foi arrasada pelo fogo. Enquanto brigadistas e voluntários se esgotam no combate, a fumaça encobre ação coordenada para grilagem e especulação imobiliária, que se repete há anos\nThe post Alter do Chão: o fogo que loteia um paraíso appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/alter-do-chao-o-fogo-que-loteia-um-paraiso/",
-          "publishedOn": "2026-11-16T19:16:15.000Z",
-          "wordCount": 6613,
-          "title": "Alter do Chão: o fogo que loteia um paraíso",
-          "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_5177007670429420887_x.jpg"
         }
       ]
     },
@@ -843,7 +848,7 @@
           "description": "Um ensaio sobre A falência da política, de Maurício Tragtenberg. Por Marcelo Phintener",
           "link": "https://passapalavra.info/2026/11/160449/",
           "publishedOn": "2026-11-17T18:52:58.000Z",
-          "wordCount": 8621,
+          "wordCount": 8950,
           "title": "A política sem procuração",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/cool-series-no-9-gibraltar-1963.jpg"
         },
@@ -875,12 +880,32 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=68129",
+          "author": "Boitempo",
+          "description": "Thyago Marão Villela reconstitui o momento em que a psicanálise encontrou a mercadoria e mostra como esse encontro, de Brill a Edward Bernays e suas torches of freedom, inaugurou o negócio lucrativo da libidinização das mercadorias e desfaz a lenda de uma psicanálise eminentemente revolucionária.",
+          "link": "https://blogdaboitempo.com.br/2026/11/18/a-psicanalise-encontra-a-mercadoria/",
+          "publishedOn": "2026-11-18T15:00:00.000Z",
+          "wordCount": 6615,
+          "title": "A psicanálise encontra a mercadoria",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/a_seated_man_in_a_double-breasted_coat_smoking_a_pipe_while_wellcome_v0020408-1.jpg?fit=935%2C1200&ssl=1"
+        },
+        {
+          "id": "http://blogdaboitempo.com.br/?p=68446",
+          "author": "Boitempo",
+          "description": "Do Botafogo de Ribeirão Preto ao Paris Saint Germain, Raí é uma lenda do futebol. Campeão mundial pelo São Paulo em 1992 e tetracampeão em 1994 pela seleção brasileira, tornou-se um dos grandes nomes do esporte mundial. Nesta autobiografia, ele escreve sobre sua trajetória dentro e fora dos campos. Sua infância, sua relação com o futebol, sua carreira no Brasil e na França, a política, as causas sociais e sua relação com a educação.",
+          "link": "https://blogdaboitempo.com.br/2026/11/18/os-gols-da-minha-vida-trechos-da-biografia-de-uma-lenda-do-futebol/",
+          "publishedOn": "2026-11-18T11:00:00.000Z",
+          "wordCount": 5357,
+          "title": "Os gols da minha vida – Trechos da biografia de uma lenda do futebol",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/rai_c2a9mateus-rodrigues_editora-boitempo01.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=68264",
           "author": "Boitempo",
           "description": "Lendo a virada eleitoral com Trotsky e com o Lenin de \"Duas táticas\", o texto defende que a força social construída nos vinte e um dias entre os turnos só se tornará revolução democrática se encontrar instrumentos de organização.",
           "link": "https://blogdaboitempo.com.br/2026/11/17/a-revolucao-democratica-brasileira-do-seculo-xxi/",
           "publishedOn": "2026-11-17T22:00:00.000Z",
-          "wordCount": 7505,
+          "wordCount": 7673,
           "title": "A Revolução democrática brasileira do século XXI",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/raf6288-12.webp"
         },
@@ -890,7 +915,7 @@
           "description": "Rima Awada Zahra examina por que a Europa consegue mobilizar centenas de bilhões de euros para o rearmamento, flexibilizando regras fiscais apresentadas por anos como incontornáveis, e não demonstra a mesma ambição quando se trata de moradia, saúde e trabalho, num continente onde a insegurança material vem abrindo caminho para a extrema direita.",
           "link": "https://blogdaboitempo.com.br/2026/11/17/a-europa-esta-trocando-seu-estado-de-bem-estar-por-uma-economia-de-guerra/",
           "publishedOn": "2026-11-17T13:45:48.000Z",
-          "wordCount": 7042,
+          "wordCount": 7210,
           "title": "A Europa está trocando seu Estado de bem-estar por uma economia de guerra?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/rail_transport_of_military_equipment_in_russia.jpg?fit=1200%2C800&ssl=1"
         },
@@ -903,16 +928,6 @@
           "wordCount": 6253,
           "title": "O que é ajuste fiscal?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/img_6481_0.jpg"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=68321",
-          "author": "Boitempo",
-          "description": "Está chegando um dos eventos literários mais aguardados do ano: a 28ª Festa do Livro da USP! O evento acontece anualmente no Campus Butantã da Universidade de São Paulo, também conhecido como Cidade Universitária.\n\nOs livros têm no mínimo 50% de desconto, fazendo do evento uma ótima oportunidade para completar uma coleção, renovar a sua biblioteca pessoal ou presentear alguém.\n\nEncontre a Boitempo e a Boitatá, editora dedicada à literatura para as infâncias, na Festa:\n\nBoitempo - Espaço Verde, Estande 13\nBoitatá - Espaço Rosa, Estande 18",
-          "link": "https://blogdaboitempo.com.br/2026/11/13/boitempo-e-boitata-na-28a-festa-do-livro-da-usp/",
-          "publishedOn": "2026-11-13T19:54:54.000Z",
-          "wordCount": 5839,
-          "title": "Boitempo e Boitatá na 28ª Festa do Livro da USP",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/11/banner-email-festa-usp-2026_01.jpg"
         }
       ]
     }
