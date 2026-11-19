@@ -28,7 +28,7 @@
           "description": "Em Jundiaí, interior de São Paulo, as mulheres trabalhadoras têm enfrentado um aumento significativo dos índices de violência. Em toda a região, cresceram os casos de feminicídios, violência contra vulneráveis e solicitações de medida protetiva por parte das trabalhadoras contra seus agressores. Apesar desse cenário a região enfrenta uma carência de medidas eficazes de combate […]",
           "link": "https://averdade.org.br/2026/11/cresce-indice-de-violencia-contra-mulheres-e-criancas-de-jundiai/",
           "publishedOn": "2026-11-19T00:55:54.000Z",
-          "wordCount": 7551,
+          "wordCount": 7553,
           "title": "Cresce índice de violência contra mulheres e crianças de Jundiaí",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/11/54971664641_6dc907ce4a_c.jpg"
         },
@@ -135,7 +135,7 @@
           "description": "Dados do IBGE mostram que a população negra continua recebendo menos, ocupando os trabalhos mais precários, vivendo nas periferias e sendo a principal vítima da violência",
           "link": "https://opiniaosocialista.com.br/racismo-e-exploracao-a-desigualdade-racial-e-parte-da-engrenagem-capitalista/",
           "publishedOn": "2026-11-18T16:34:49.000Z",
-          "wordCount": 2228,
+          "wordCount": 2230,
           "title": "Racismo e exploração: a desigualdade racial é parte da engrenagem capitalista",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/mulher-negra.png"
         },
@@ -145,7 +145,7 @@
           "description": "É preciso romper a divisão entre efetivos e contratados e organizar a luta por direitos iguais",
           "link": "https://opiniaosocialista.com.br/a-maquina-da-precarizacao-e-a-luta-pela-efetivacao-dos-trabalhadores-da-educacao-no-rio-grande-do-sul/",
           "publishedOn": "2026-11-16T20:32:43.000Z",
-          "wordCount": 2914,
+          "wordCount": 2916,
           "title": "A máquina da precarização e a luta pela efetivação dos trabalhadores da Educação no Rio Grande do Sul",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Aula-sobre-reestrutura----o-produtiva.webp"
         },
@@ -155,7 +155,7 @@
           "description": "Enquanto as comunidades indígenas, quilombolas e ribeirinhas enfrentam o fogo com poucos recursos, os governos seguem favorecendo o agronegócio e a mineração",
           "link": "https://opiniaosocialista.com.br/incendios-no-para-crise-climatica-e-as-contradicoes-do-governo-de-hana-ghassan-e-do-futuro-governador-daniel-santos/",
           "publishedOn": "2026-11-16T19:55:13.000Z",
-          "wordCount": 2528,
+          "wordCount": 2530,
           "title": "Incêndios no Pará, crise climática e as contradições do governo de Hana Ghassan e do futuro governador Daniel Santos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Inc--ndio-na-Floresta-Tropical--2-.webp"
         },
@@ -168,16 +168,6 @@
           "wordCount": 457,
           "title": "Lula, o mercado e os trabalhadores: ajuste fiscal contra quem? - EP #21",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
-        },
-        {
-          "id": "6af889d7b79e7a48925f6bf9",
-          "author": "Direção Nacional do PSTU",
-          "description": "Rosinha, Marco Antonio Rosa Pugliese, acabou de nos deixar. É com muita tristeza que escrevemos esta nota e com certeza, que tantos militantes, amigos, ativistas e familiares receberam logo cedinho, na manhã de sábado, 14, essa notícia.\nRosinha começou a militar em 1980",
-          "link": "https://opiniaosocialista.com.br/rosinha-presente-ate-o-socialismo-sempre/",
-          "publishedOn": "2026-11-14T16:40:35.000Z",
-          "wordCount": 998,
-          "title": "Rosinha, presente, até o socialismo, sempre!",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/Rosinha.webp"
         }
       ]
     },
@@ -187,13 +177,33 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Governo-Lula-aprova-ajuste-fiscal-no-Senado-com-apoio-de-Flavio-Bolsonaro-da-extrema-direita-e-do",
+          "author": "Valéria Muller",
+          "description": "Nesta quarta (18), foi aprovada no Senado a proposta de ajuste fiscal que vai afetar serviços públicos como saúde e educação. Além das medidas já prevista, as negociações com a extrema direita, com o agro e com os governadores bolsonaristas resultaram em novas mudanças na proposta.\n19-11-2026\n\n/ Política, Ajustes Fiscais, Luta contra os ajustes, Ajustes, Governo Lula-Alckmin, PL, ajuste fiscal",
+          "link": "https://www.esquerdadiario.com.br/Governo-Lula-aprova-ajuste-fiscal-no-Senado-com-apoio-de-Flavio-Bolsonaro-da-extrema-direita-e-do",
+          "publishedOn": "2026-11-19T11:57:52.000Z",
+          "wordCount": null,
+          "title": "Governo Lula aprova ajuste fiscal no Senado com apoio de Flávio Bolsonaro, da extrema direita e do agro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Estado-genocida-israelense-lanca-nova-invasao-terrestre-de-Gaza-apos-meses-violando-diariamente",
+          "author": "Alexandre Miguez",
+          "description": "O Estado israelense deflagra um novo capítulo de seu genocídio contra o povo palestino em Gaza, com o lançamento de uma nova investida terrestre contra a população civil indefesa, a primeira desde o acordo de “cessar-fogo” de outubro de 2025, que já vinha sendo diariamente violado pelos israelenses.\n18-11-2026\n\n/ Internacional, Estado de Israel, Faixa de Gaza, Genocídio",
+          "link": "https://www.esquerdadiario.com.br/Estado-genocida-israelense-lanca-nova-invasao-terrestre-de-Gaza-apos-meses-violando-diariamente",
+          "publishedOn": "2026-11-19T02:09:11.000Z",
+          "wordCount": null,
+          "title": "Estado genocida israelense lança nova invasão terrestre de Gaza após meses violando diariamente “cessar-fogo”",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Escancarando-que-o-ajuste-fortalece-a-direita-governo-se-une-a-oposicao-para-aprovar-Tesouraco-de",
           "author": "Redação",
           "description": "Na noite desta quarta, o Senado aprovou por 69 votos a 2 o projeto de ajuste fiscal apresentado pelo governo Lula, com poucas mudanças. Agora, o projeto irá para a Câmara, onde deve ser votado na próxima semana. A saúde deve ser a área mais afetada pelos cortes. \n Na noite de hoje, o Senado aprovou, por 69 votos a dois, o PLP 299/2026, apresentado pelo governo Lula, que prevê um ajuste fiscal de até R$ 56 bilhões, endurecendo as regras do Arcabouço Fiscal. \n18-11-2026\n\n/ Política, Senado, bolsonarismo, Governo Lula-Alckmin, ajuste fiscal",
           "link": "https://www.esquerdadiario.com.br/Escancarando-que-o-ajuste-fortalece-a-direita-governo-se-une-a-oposicao-para-aprovar-Tesouraco-de",
           "publishedOn": "2026-11-19T01:43:16.000Z",
           "wordCount": null,
-          "title": "Escancarando que o ajuste fortalece a direita, governo se une a oposição para aprovar Tesouraço de Lula",
+          "title": "Governo se une à direita e ao agronegócio no Senado para aprovar ajuste fiscal de Lula",
           "imageUrl": null
         },
         {
@@ -335,16 +345,6 @@
           "wordCount": null,
           "title": "Conselho Nacional de Saúde denuncia ataque ao piso constitucional da saúde e desmente governo",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Ricardo-Nunes-e-a-educacao-desastre-na-alfabetizacao-e-escolas-militares",
-          "author": "Samara Roberto",
-          "description": "Como de costume, a Prefeitura de São Paulo usa o final do ano para passar seus ataques à educação. O foco agora é a alfabetização e o avanço das escolas cívico-militares. Os sindicatos da educação precisam atuar!\n14-11-2026\n\n/ Classe trabalhadora, São Paulo (capital), Professores, Educação, SINPEEM, Ricardo Nunes",
-          "link": "https://www.esquerdadiario.com.br/Ricardo-Nunes-e-a-educacao-desastre-na-alfabetizacao-e-escolas-militares",
-          "publishedOn": "2026-11-14T23:07:07.000Z",
-          "wordCount": null,
-          "title": "Ricardo Nunes e a educação: desastre na alfabetização e escolas militares.",
-          "imageUrl": null
         }
       ]
     },
@@ -353,6 +353,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=445809",
+          "author": "Maurício Moraes",
+          "description": "Presidente e seus eleitores terão o desafio de lidar com as vontades e a pressão do mercado, com a estratégia de conciliação de classes e com o medo das consequências de uma maior mobilização popular.\nO post Fantasmas políticos assombram governabilidade do quarto mandato de Lula apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/11/19/fantasmas-politicos-assombram-governabilidade-quarto-mandato-lula/",
+          "publishedOn": "2026-11-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fantasmas políticos assombram governabilidade do quarto mandato de Lula",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/11/coluna-sabrina-governabilidade-lula-quatro-headerwide.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/11/coluna-sabrina-governabilidade-lula-quatro-headerwide.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=445807",
           "author": "Eduardo Goulart",
@@ -506,16 +521,6 @@
           "wordCount": 4332,
           "title": "Não é (só) a economia: por que o povo não vota como a esquerda gostaria",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/esquerda.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74949",
-          "author": "Struggle-La Lucha",
-          "description": "teoria sobre espionagem usada contra Jensen Huang, da Nvidia, surtiu efeito em duas semanas. Ela eliminou o adversário mais poderoso a um bloqueio total de chips à China e deu ao Congresso norte-americano o impulso necessário para transformar esse bloqueio em lei. No dia em que Huang caiu, o procurador-geral dos Estados Unidos admitiu que […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/14/guerra-dos-chips-o-que-realmente-esta-por-tras-da-historia-de-espionagem-na-nvidia/",
-          "publishedOn": "2026-11-14T19:09:03.000Z",
-          "wordCount": 4285,
-          "title": "Guerra dos chips: o que realmente está por trás da história de espionagem na Nvidia",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/nvidia-1.webp"
         }
       ]
     },
@@ -525,12 +530,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=272248",
+          "author": "Tatiana Carlotti",
+          "description": "O Irã declarou, na quarta-feira (18/11), que as atividades de verificação da Agência Internacional de Energia Atômica (AIEA) em suas instalações nucleares estão sendo prejudicadas por ataques dos Estados Unidos e de Israel. Teerã também destacou que o diretor-geral da AIEA não condenou os ataques a instalações nucleares sujeitas a salvaguardas nem as ameaças contra […]\nO post Irã afirma que salvaguardas nucleares são ameaçadas por ataques de Israel e EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-salvaguardas-nucleares-sao-ameacadas-por-ataques-de-israel-e-eua/",
+          "publishedOn": "2026-11-19T12:10:03.000Z",
+          "wordCount": 4204,
+          "title": "Irã afirma que salvaguardas nucleares são ameaçadas por ataques de Israel e EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/vienna_international_center.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272223",
+          "author": "Tatiana Carlotti",
+          "description": "Os presidentes dos Estados Unidos, Donald Trump, da China, Xi Jinping, e da Rússia, Vladimir Putin, realizaram nesta quinta-feira (19/11) uma reunião trilateral inédita, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (APEC), em Shenzhen, na China. O encontro de uma hora e meia na residência Kylin Villa teve como principais temas o desarmamento nuclear, […]\nO post Xi, Putin e Trump discutem segurança em encontro inédito: ‘guerra nuclear jamais deve ser travada’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/trump-xi-e-putin-discutem-seguranca-internacional-e-desarmamento-nuclear-em-encontro-historico-na-china/",
+          "publishedOn": "2026-11-19T10:17:22.000Z",
+          "wordCount": 5090,
+          "title": "Xi, Putin e Trump discutem segurança em encontro inédito: ‘guerra nuclear jamais deve ser travada’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hxemalzwiaa2x1-.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272220",
+          "author": "Rocio Paik",
+          "description": "O presidente da China, Xi Jinping, defendeu nesta quinta-feira (19/11) o trabalho conjunto entre os membros da Cooperação Econômica Ásia-Pacífico (APEC), enfatizando que se trata do “único caminho para a revitalização e o desenvolvimento da região”. A posição foi dada na abertura da sessão plenária da cúpula de alto nível realizada em Shenzhen, na China, […]\nO post Xi Jinping diz que membros da APEC estão ‘todos no mesmo barco’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/xi-jinping-diz-que-membros-da-apec-estao-todos-no-mesmo-barco-e-defende-cooperacao-aberta/",
+          "publishedOn": "2026-11-19T06:14:46.000Z",
+          "wordCount": 3916,
+          "title": "Xi Jinping diz que membros da APEC estão ‘todos no mesmo barco’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hxdqo08a4aa7-sz.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272215",
+          "author": "Rocio Paik",
+          "description": "A Coreia do Sul e a China destravaram o tratado de livre comércio e chegaram a um acordo que consolida avanços nos setores de serviço e investimentos, prevendo o estabelecimento de bases institucionais para uma cooperação econômica ainda mais profunda, de acordo com o chefe do gabinete presidencial sul-coreano para assuntos políticos  Ha Joon Kyung […]\nO post Na APEC, Coreia do Sul e China destravam acordo de livre comércio sobre serviços e investimentos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/asia/coreia-do-sul-e-china-destravam-acordo-de-livre-comercio-a-margem-da-apec/",
+          "publishedOn": "2026-11-19T04:40:03.000Z",
+          "wordCount": 4572,
+          "title": "Na APEC, Coreia do Sul e China destravam acordo de livre comércio sobre serviços e investimentos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/chungwadae-scaled.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272212",
+          "author": "Rocio Paik",
+          "description": "Dezenas de policiais protestaram nesta quarta-feira (18/11) em frente ao Ministério do Interior da França para exigir aumento do adicional de risco e mais efetivo nas corporações. A mobilização, convocada pelo sindicato Alliance, ocorre após semanas de manifestações sociais e estudantis que intensificaram a atuação das forças de segurança. O governo promete elevar o benefício […]\nO post Policiais cobram governo francês por aumento e falam em ‘desgaste’ após protestos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/policiais-cobram-governo-frances-por-aumento-e-falam-em-desgaste-apos-protestos/",
+          "publishedOn": "2026-11-19T03:30:35.000Z",
+          "wordCount": 5498,
+          "title": "Policiais cobram governo francês por aumento e falam em ‘desgaste’ após protestos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-18-220707.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272204",
+          "author": "Rocio Paik",
+          "description": "O Exército de Israel lançou nesta quarta-feira (18/11) uma operação terrestre no centro da Faixa de Gaza, na qual suas tropas cruzaram a chamada “linha amarela”, demarcação da qual as tropas deveriam permanecer retiradas segundo o acordo de cessar-fogo selado em outubro de 2025. A invasão, que incluiu tanques e veículos blindados, deslocou civis palestinos […]\nO post Exército de Israel viola cessar-fogo, cruza ‘linha amarela’ e desloca população em Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/exercito-de-israel-viola-cessar-fogo-cruza-linha-amarela-e-desloca-populacao-em-gaza/",
+          "publishedOn": "2026-11-19T02:00:47.000Z",
+          "wordCount": 4097,
+          "title": "Exército de Israel viola cessar-fogo, cruza ‘linha amarela’ e desloca população em Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/hxtwripxcaacoqz.jpeg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=272208",
           "author": "Rocio Paik",
           "description": "O presidente da China, Xi Jinping, disse nesta quarta-feira (18/11) que o país irá além da redução de tarifas de importações e implementará reformas para incentivar mais as trocas comerciais com outros países. As declarações foram feitas no discurso de abertura da Cúpula de Lideranças Econômicas da Cooperação Econômica Ásia-Pacífico (Apec) de 2026 em Shenzhen, […]\nO post Xi Jinping anuncia que irá além do corte de tarifas e Putin aponta fracasso de sanções ocidentais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/xi-jinping-anuncia-que-ira-alem-do-corte-de-tarifas-e-putin-aponta-fracasso-de-sancoes-ocidentais/",
           "publishedOn": "2026-11-19T01:00:05.000Z",
-          "wordCount": 5195,
+          "wordCount": 5205,
           "title": "Xi Jinping anuncia que irá além do corte de tarifas e Putin aponta fracasso de sanções ocidentais",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/xi-jinping-mauro-ramos-apec-china-2983cdc1-2048x1529-1.webp"
         },
@@ -540,7 +605,7 @@
           "description": "O Senado Federal aprovou no fim da tarde desta quarta-feira (18/11) o projeto de ajuste fiscal do governo, sem as alterações no texto tentadas pela oposição. Ao todo, três destaques ao projeto, que modificavam substancialmente o seu conteúdo, foram rejeitados, um a um, pela votação em plenário. A análise precisou ser adiada por 24 horas […]\nO post Senado rejeita mudanças no texto e aprova ajuste fiscal do governo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo/",
           "publishedOn": "2026-11-19T00:30:51.000Z",
-          "wordCount": 4080,
+          "wordCount": 4533,
           "title": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/maioridade_12-11-26-3_0-1.webp"
         },
@@ -550,7 +615,7 @@
           "description": "O líder norte-coreano Kim Jong Un inspecionou uma universidade naval e canteiros de obras na província de Hamgyong do Sul, na costa leste do país, conforme divulgou na noite de quarta-feira (18/11) a agência estatal KCNA, em meio a especulações de um possível encontro com o presidente dos Estados Unidos, Donald Trump, que cumpre agenda […]\nO post Kim Jong Un inspeciona universidade naval enquanto Trump espera por negociação apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/kim-jong-un-inspeciona-universidade-naval-enquanto-trump-espera-por-negociacao/",
           "publishedOn": "2026-11-18T23:33:33.000Z",
-          "wordCount": 3989,
+          "wordCount": 3999,
           "title": "Kim Jong Un inspeciona universidade naval enquanto Trump espera por negociação",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/135051375.1.jpg"
         },
@@ -560,69 +625,9 @@
           "description": "A pressa para reparar vulnerabilidades apontadas por ferramentas de inteligência artificial (IA) pode estar por trás de uma série de interrupções em serviços nos Estados Unidos. De acordo com a avaliação de autoridades norte-americanas a tentativa de eliminar falhas em ritmo acelerado tem provocado instabilidades em sistemas de grandes empresas e instituições públicas, expondo os […]\nO post EUA investigam se corrida por segurança com IA tem gerado falhas em serviços essenciais apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-investigam-se-corrida-por-seguranca-com-ia-tem-gerado-falhas-em-servicos-essenciais/",
           "publishedOn": "2026-11-18T21:50:01.000Z",
-          "wordCount": 3925,
+          "wordCount": 3935,
           "title": "EUA investigam se corrida por segurança com IA tem gerado falhas em serviços essenciais",
           "imageUrl": null
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272181",
-          "author": "Raissa Neves",
-          "description": "18 de novembro de 1307. Conforme o folclore suíço, foi nessa data que um governante tirano obrigou um besteiro a acertar, com uma flecha, uma maçã posicionada sobre a cabeça do próprio filho. A história, repetida em contos infantis, óperas, filmes e desenhos animados, é uma das mais reconhecíveis do imaginário popular europeu. O protagonista […]\nO post Guilherme Tell: a lenda do arqueiro que desafiou os Habsburgo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/guilherme-tell-a-lenda-do-arqueiro-que-desafiou-os-habsburgo/",
-          "publishedOn": "2026-11-18T21:20:01.000Z",
-          "wordCount": 5498,
-          "title": "Guilherme Tell: a lenda do arqueiro que desafiou os Habsburgo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/nava_friburgo_rj_brasil_-_queijaria_suica_estatua_de_guilherme_tell_-_panoramio-scaled.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272170",
-          "author": "Victor Farinelli",
-          "description": "O estudo “Desigualdades Sociais por Cor ou Raça”, divulgada nesta quarta-feira (18) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), aponta que trabalhadores brancos receberam, em média R$ 4.425 por mês no Brasil em 2025, valor cerca de 71% superior ao dos pretos, cuja média salarial gira em torno de R$ 2.585, e 66% maior […]\nO post Trabalhador negro recebe 70% menos em comparação com brancos, aponta IBGE apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/trabalhador-negro-recebe-70-menos-em-comparacao-a-profissionais-brancos-diz-ibge/",
-          "publishedOn": "2026-11-18T21:00:55.000Z",
-          "wordCount": 4075,
-          "title": "Trabalhador negro recebe 70% menos em comparação com brancos, aponta IBGE",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/racismo.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272171",
-          "author": "Paola Orlovas",
-          "description": "Em uma reviravolta que parecia improvável até poucos meses atrás, o secretário de Defesa dos Estados Unidos, Pete Hegseth, anunciou durante sua visita a Caracas um acordo de cooperação militar entre Washington e a Venezuela. O anúncio, divulgado pela televisão estatal venezuelana, marca a retomada formal das relações técnico-militares entre os dois países após anos […]\nO post Pentágono anuncia cooperação militar com Venezuela 10 meses após sequestro de Maduro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/chefe-pentagono-anuncia-cooperacao-militar-eua-com-venezuela-meses-apos-sequestro-maduro/",
-          "publishedOn": "2026-11-18T20:20:51.000Z",
-          "wordCount": 4078,
-          "title": "Pentágono anuncia cooperação militar com Venezuela 10 meses após sequestro de Maduro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/pete-hegseth-gage-skidmore-flickr-750x500-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272147",
-          "author": "Victor Farinelli",
-          "description": "Sob a justificativa de resgatar quatro soldados de El Salvador que teriam sido capturados por gangues do Haiti, o presidente Nayib Bukele tem projetado poder no Caribe com uma operação militar na ilha Hispaniola, que dura três semanas e conta com mais de dois mil militares salvadorenhos. Os jornais haitianos registram crescente apoio popular às […]\nO post Bukele projeta poder no Caribe com ação militar no Haiti, afirma analista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/bukele-projeta-poder-no-caribe-com-acao-militar-no-haiti-afirma-analista/",
-          "publishedOn": "2026-11-18T19:40:04.000Z",
-          "wordCount": 4935,
-          "title": "Bukele projeta poder no Caribe com ação militar no Haiti, afirma analista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/nayib_bukele_at_the_groundbreaking_of_the_airport_of_the_pacific_1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272145",
-          "author": "Raissa Neves",
-          "description": "O deputado Hakeem Jeffries foi indicado, na quarta-feira (18/11), pela bancada democrata para assumir a presidência da Câmara dos Representantes dos Estados Unidos a partir de janeiro de 2027. Caso seja confirmado em plenário, será o primeiro parlamentar negro a ocupar o cargo na história do país. Apesar do apoio expressivo, sua indicação enfrenta resistência […]\nO post Hakeem Jeffries será primeiro negro a presidir Câmara de Representantes dos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/em-indicacao-historica-hakeem-jeffries-sera-primeiro-negro-a-presidir-camara-dos-eua/",
-          "publishedOn": "2026-11-18T19:00:25.000Z",
-          "wordCount": 4238,
-          "title": "Hakeem Jeffries será primeiro negro a presidir Câmara de Representantes dos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-18-144743.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272167",
-          "author": "Raissa Neves",
-          "description": "A reeleição do presidente Lula em outubro de 2026 abre as portas para um novo capítulo de possibilidades de avanços na integração latino-americana e caribenha. Não são tempos fáceis para os integracionistas, pelo contrário: nossa região está marcada pela fragmentação e por profundas divergências políticas. Manter uma agenda de política externa voltada à integração regional […]\nO post A América Latina depois da vitória de Lula: integração ou fragmentação? apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/a-america-latina-depois-da-vitoria-de-lula-integracao-ou-fragmentacao/",
-          "publishedOn": "2026-11-18T18:47:34.000Z",
-          "wordCount": 4528,
-          "title": "A América Latina depois da vitória de Lula: integração ou fragmentação?",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55657267454_ab94f026be_c.jpg"
         }
       ]
     },
@@ -654,9 +659,9 @@
           "description": "Primeira ofensiva iraniana em território kuwaitiano desde setembro, o ataque antecede a reunião de Shenzhen, à qual Trump quer levar a guerra contra o Irã.",
           "link": "https://anovademocracia.com.br/ira-ataca-instalacoes-ianques-kuwait/",
           "publishedOn": "2026-11-18T21:29:01.000Z",
-          "wordCount": null,
+          "wordCount": 8637,
           "title": "Após novo bombardeio ianque a Qeshm, Irã ataca instalações militares do EUA no Kuwait",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-49.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236975",
@@ -664,9 +669,9 @@
           "description": "A norma alcança também chips fabricados fora do EUA e abre uma exceção para empresas com sede ou matriz no país. O Brasil importou 6,8 bilhões de dólares em semicondutores de janeiro a setembro, antes de Washington anunciar a nova exigência.",
           "link": "https://anovademocracia.com.br/eua-submete-importacao-brasil-chips-chines/",
           "publishedOn": "2026-11-18T19:28:26.000Z",
-          "wordCount": null,
+          "wordCount": 9084,
           "title": "EUA submete importação brasileira de chips avançados a seu aval para restringir acesso chinês",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/jensen-huang-1-jpg-1024x682.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236967",
@@ -674,9 +679,9 @@
           "description": "A entrega dos registros começou em 5 de novembro, depois de assembleias, manifestações e cobranças à prefeitura e ao cartório.",
           "link": "https://anovademocracia.com.br/vitoria-historica-apos-27-anos-de-luta-moradores-da-vila-bandeira-vermelha-conquistam-os-primeiros-titulos-de-suas-casas/",
           "publishedOn": "2026-11-18T19:01:58.000Z",
-          "wordCount": null,
+          "wordCount": 7683,
           "title": "Vitória histórica: após 27 anos de luta, moradores da Vila Bandeira Vermelha conquistam os primeiros títulos de suas casas",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-24.jpeg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236954",
@@ -684,9 +689,9 @@
           "description": "Pelo Projeto Nimbus, a Amazon reservou espaço em seus centros de dados para arquivos militares sigilosos. Em Gaza, tropas sionistas usavam câmeras para identificar palestinos que fugiam dos bombardeios.",
           "link": "https://anovademocracia.com.br/amazon-fotos-exercito-sionista-palestinos/",
           "publishedOn": "2026-11-18T10:49:54.000Z",
-          "wordCount": null,
+          "wordCount": 7416,
           "title": "Amazon recebeu 3,5 milhões de fotos para o Exército sionista vigiar palestinos",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-45-1024x819.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236943",
@@ -694,9 +699,9 @@
           "description": "O governo oportunista anunciou mais de 11 mil vagas a partir de 2027. Em Laranjeiras do Sul, no Paraná, estudantes já têm aulas em auditórios por falta de salas, relata a Executiva.",
           "link": "https://anovademocracia.com.br/exnepe-avanco-privatista-universidades/",
           "publishedOn": "2026-11-18T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 7003,
           "title": "ExNEPe denuncia avanço privatista no plano de expansão das universidades federais",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/charge-uffs.webp"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236924",
@@ -704,9 +709,9 @@
           "description": "A decisão suspende provisoriamente a ordem que favorece os herdeiros do latifundiário Aziz Mutran Neto. No complexo, a Polícia Civil matou dois camponeses em 2024.",
           "link": "https://anovademocracia.com.br/camponeses-ocupam-br-155-suspenso-despejo/",
           "publishedOn": "2026-11-17T23:38:13.000Z",
-          "wordCount": null,
+          "wordCount": 7758,
           "title": "Camponeses bloqueiam BR-155 e conquistam suspensão de despejo de 400 famílias na Mutamba",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/despejo-fazenda-mutamba-1.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236925",
@@ -714,9 +719,9 @@
           "description": "Reunidos em Medellín, representantes de diferentes regiões do país ratificaram o Programa da LAI e definiram novas campanhas contra a ingerência imperialista na América Latina, em solidariedade às resistências dos povos da Palestina, Irã e Índia.",
           "link": "https://anovademocracia.com.br/colombia-secao-liga-anti-imperialista/",
           "publishedOn": "2026-11-17T23:30:17.000Z",
-          "wordCount": null,
+          "wordCount": 7461,
           "title": "Organizações populares e revolucionárias da Colômbia fundam seção da Liga Anti-imperialista",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Evento-6Nov-2.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236900",
@@ -724,9 +729,9 @@
           "description": "Em São Paulo, uma cesta básica custa quase metade da bolsa de mestrado. Pós-graduandos rompem com o imobilismo e convocam paralisação para 17 e 18 de novembro, em meio aos atos contra o novo “ajuste fiscal” de Luiz Inácio.",
           "link": "https://anovademocracia.com.br/estudantes-pos-graduacao-reajuste-ciencia/",
           "publishedOn": "2026-11-17T21:37:02.000Z",
-          "wordCount": null,
+          "wordCount": 7891,
           "title": "Estudantes da pós-graduação se levantam pelo reajuste das bolsas e pela ciência",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/07/VIVA-A-VITORIOSA-MANIFESTACAO-DO-43o-ENEPEe-EM-SAO-LUISA-vitoriosa-manifestacao-do-43°-ENEPe-r.jpg"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236896",
@@ -734,9 +739,9 @@
           "description": "Rogério Marinho chamou de “preso político” o ex-gerente de turno condenado por comandar os preparativos golpistas. No dia seguinte à negativa dos pedidos de visita, Alcolumbre e Hugo Motta foram ao Supremo pedir o julgamento da lei que pode reduzir as penas dos golpistas.",
           "link": "https://anovademocracia.com.br/extrema-direita-encontro-bolsonaro-negado/",
           "publishedOn": "2026-11-17T20:44:59.000Z",
-          "wordCount": null,
+          "wordCount": 7556,
           "title": "Extrema direita tem visitas a Bolsonaro negadas ao buscar aval para comandar o Senado e anistiar golpistas",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-42-1024x683.png"
         },
         {
           "id": "https://anovademocracia.com.br/?p=236875",
@@ -744,9 +749,9 @@
           "description": "Na véspera da prisão, o banqueiro se reuniu com o ministro em Brasília e pediu que ele procurasse o diretor-geral da Polícia Federal para adiar a operação. A entrega ao Supremo dos relatórios refeitos sobre o caso Master está prevista para 18 de novembro.",
           "link": "https://anovademocracia.com.br/vorcaro-voo-dubai-apos-perguntar-a-moraes/",
           "publishedOn": "2026-11-16T23:13:15.000Z",
-          "wordCount": null,
+          "wordCount": 8211,
           "title": "Vorcaro antecipou voo para Dubai após perguntar a Moraes se devia deixar o Brasil",
-          "imageUrl": null
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-40.png"
         }
       ]
     },
@@ -761,7 +766,7 @@
           "description": "Livro traça contrapontos ao modelo neoliberal de “cidades inteligentes”. De Barcelona a Brasil e Cuba, iniciativas mostram que cultura hacker, orçamento participativo e laboratórios cidadãos podem inspirar uma outra visão de urbanismo\nThe post <i>Futuros desobedientes</i> e a inteligência popular nas cidades appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/futuros-desobedientes-e-a-inteligencia-popular-nas-cidades/",
           "publishedOn": "2026-11-18T22:03:31.000Z",
-          "wordCount": 4680,
+          "wordCount": 4683,
           "title": "Futuros desobedientes e a inteligência popular nas cidades",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Screenshot-2026-11-18-at-19-02-46-o-legado-do-teatro-e-a-vitoria-do-parque-a-criacao-do-parque-do-rio-bixiga_2.webp-imagem-WEBP-640-%C3%97-427-pixels.png"
         },
@@ -771,7 +776,7 @@
           "description": "Soberania digital vai além de regular big techs e produzir chips, diz filósofo chinês. Contra a ideia ocidental de universalidade, outro horizonte é possível: autonomia e inovação locais, a partir de tecnologias voltadas ao bem-viver e à democracia\nThe post Yuk Hui: Quem teme a Tecnodiversidade? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/yuk-hui-quem-teme-tecnodiversidade/",
           "publishedOn": "2026-11-18T21:32:46.000Z",
-          "wordCount": 7322,
+          "wordCount": 7325,
           "title": "Yuk Hui: Quem teme a Tecnodiversidade?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5183770079257103805.jpg"
         },
@@ -781,7 +786,7 @@
           "description": "Netanyahu sai derrotado do pleito e, agora, terá de enfrentar oposição no parlamento, que pretende cercá-lo com inquérito sobre o 7 de outubro. Quais coalizões poderão ser formadas? O que planeja o Partido Árabe? Por que o sionismo perde cadeiras – mas não a força?\nThe post Israel depois das urnas appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/israel-depois-das-urnas/",
           "publishedOn": "2026-11-18T21:26:51.000Z",
-          "wordCount": 4177,
+          "wordCount": 4174,
           "title": "Israel depois das urnas",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/apostas.jpg"
         },
@@ -791,7 +796,7 @@
           "description": "Considerar apenas a capacidade de processamento é desperdiçar a potência de quem poderia criar. Quem deve tomar as decisões sobre dados gerados nos territórios? Afinal, um país pode ter máquina, modelo e nuvem – e ainda assim formar apenas consumidores\nThe post Soberania não começa nem termina no data center appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/soberania-nao-comeca-nem-termina-no-data-center/",
           "publishedOn": "2026-11-18T20:35:08.000Z",
-          "wordCount": 4808,
+          "wordCount": 4811,
           "title": "Soberania não começa nem termina no data center",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo-3.jpg"
         },
@@ -811,7 +816,7 @@
           "description": "Uma geração que carrega o estigma de “apática” e “desengajada” mostrou outra face na vitória democrática. A todo tempo fala-se em geração perdida. Mas ela não está alheia a política. O desejo e a luta nem sempre se manifestam com as teorias do passado\nThe post A virada da juventude: o que a esquerda não entende appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/a-virada-da-juventude-o-que-a-esquerda-nao-entende/",
           "publishedOn": "2026-11-18T19:55:28.000Z",
-          "wordCount": 6176,
+          "wordCount": 6173,
           "title": "A virada da juventude: o que a esquerda não entende",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/5184183950895680799.jpg"
         },
@@ -841,7 +846,7 @@
           "description": "País ganha mais projeção internacional. Mas superar a condição periférica é tarefa árdua. Passa por enfrentar big techs, fragilidades a sanções, vassalagem das Forças Armadas e reprimarização. EUA reagirão, claro. Jogo de cintura geopolítico é crucial\nThe post Brasil: a grande estratégia e seus obstáculos appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/brasil-grande-estrategia-e-seus-obstaculos/",
           "publishedOn": "2026-11-17T21:18:01.000Z",
-          "wordCount": 5237,
+          "wordCount": 5240,
           "title": "Brasil: a grande estratégia e seus obstáculos",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Sem-titulo4.jpg"
         },
@@ -868,7 +873,7 @@
           "description": "Um ensaio sobre A falência da política, de Maurício Tragtenberg. Por Marcelo Phintener",
           "link": "https://passapalavra.info/2026/11/160449/",
           "publishedOn": "2026-11-17T18:52:58.000Z",
-          "wordCount": 9554,
+          "wordCount": 9656,
           "title": "A política sem procuração",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/cool-series-no-9-gibraltar-1963.jpg"
         },
@@ -881,16 +886,6 @@
           "wordCount": 3818,
           "title": "Velha Toupeira (48)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/unnamed-scaled.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=160391",
-          "author": "FP",
-          "description": "O oportunismo dificilmente se apresenta como abandono declarado de princípios. Por Arthur Moura",
-          "link": "https://passapalavra.info/2026/11/160391/",
-          "publishedOn": "2026-11-14T15:14:29.000Z",
-          "wordCount": 6449,
-          "title": "O problema do oportunismo: uma crítica materialista da política de esquerda",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/11/senza-titolo-19521.jpg"
         }
       ]
     },
@@ -900,12 +895,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=68279",
+          "author": "Boitempo",
+          "description": "Rogger Oliveira entrevista Lana Daher, diretora do filme \"Do You Love Me\", para o Blog da Boitempo. O filme independente libanês reúne peças de arquivo de memória que moldam a identidade moderna libanesa e ressignificam a guerra civil.",
+          "link": "https://blogdaboitempo.com.br/2026/11/19/do-you-love-me-onde-a-arte-encontra-a-memoria/",
+          "publishedOn": "2026-11-19T09:00:00.000Z",
+          "wordCount": 5850,
+          "title": "Do You Love Me: Onde a arte encontra a memória",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/1290x0-3.webp?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=68129",
           "author": "Boitempo",
           "description": "Thyago Marão Villela reconstitui o momento em que a psicanálise encontrou a mercadoria e mostra como esse encontro, de Brill a Edward Bernays e suas torches of freedom, inaugurou o negócio lucrativo da libidinização das mercadorias e desfaz a lenda de uma psicanálise eminentemente revolucionária.",
           "link": "https://blogdaboitempo.com.br/2026/11/18/a-psicanalise-encontra-a-mercadoria/",
           "publishedOn": "2026-11-18T15:00:00.000Z",
-          "wordCount": 6616,
+          "wordCount": 6615,
           "title": "A psicanálise encontra a mercadoria",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/a_seated_man_in_a_double-breasted_coat_smoking_a_pipe_while_wellcome_v0020408-1.jpg?fit=935%2C1200&ssl=1"
         },
@@ -915,7 +920,7 @@
           "description": "Do Botafogo de Ribeirão Preto ao Paris Saint Germain, Raí é uma lenda do futebol. Campeão mundial pelo São Paulo em 1992 e tetracampeão em 1994 pela seleção brasileira, tornou-se um dos grandes nomes do esporte mundial. Nesta autobiografia, ele escreve sobre sua trajetória dentro e fora dos campos. Sua infância, sua relação com o futebol, sua carreira no Brasil e na França, a política, as causas sociais e sua relação com a educação.",
           "link": "https://blogdaboitempo.com.br/2026/11/18/os-gols-da-minha-vida-trechos-da-biografia-de-uma-lenda-do-futebol/",
           "publishedOn": "2026-11-18T11:00:00.000Z",
-          "wordCount": 5194,
+          "wordCount": 5357,
           "title": "Os gols da minha vida – Trechos da biografia de uma lenda do futebol",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/rai_c2a9mateus-rodrigues_editora-boitempo01.jpg?fit=1200%2C800&ssl=1"
         },
