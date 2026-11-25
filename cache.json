@@ -10,7 +10,18 @@
       "title": "Jornal A Verdade",
       "feedUrl": "https://averdade.org.br/feed/",
       "siteUrl": "https://averdade.org.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://averdade.org.br/?p=63461",
+          "author": "Clóvis Maia",
+          "description": "O ditador Castelo Branco alicerçou as bases para as duas décadas de violência, censura, corrupção, fome e miséria que caracterizaram o regime militar no Brasil.  Natanael Sarmento| Redação Pernambuco HISTÓRIA (Parte 46)- A governança do Marechal Humberto de Alencar Castelo Branco (1964/1967) institucionaliza a ditadura militar empresarial. Foi ele quem decretou os primeiros Atos Institucionais […]",
+          "link": "https://averdade.org.br/2026/11/o-legado-do-primeiro-ditador-do-golpe-militar-1964-1967/",
+          "publishedOn": "2026-11-25T13:09:51.000Z",
+          "wordCount": 8792,
+          "title": "O ‘legado’ do primeiro ditador do golpe militar (1964-1967)",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/11/castelo-branco.jpg"
+        }
+      ]
     },
     {
       "title": "Opinião Socialista",
@@ -18,12 +29,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6b06e513b79e7a48925f710f",
+          "author": "PSTU-SC",
+          "description": "O prazo para a saída dita voluntária venceu em 9 de novembro. A ordem judicial escala PM, Polícia Federal e PRF para tirar famílias Laklãnõ-Xokleng e Kaingang de seu território ancestral. Em jogo, uma pergunta que interessa a todo trabalhador: de quem é a terra?",
+          "link": "https://opiniaosocialista.com.br/retomada-jug-og-pan-txi-sob-ameaca-em-tres-barras-sc-o-lucro-do-pinus-contra-a-vida-indigena/",
+          "publishedOn": "2026-11-25T13:46:17.000Z",
+          "wordCount": 2691,
+          "title": "Retomada Jug Óg Pãn Txi sob ameaça: em Três Barras (SC), o lucro do pinus contra a vida indígena",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/indigenas_sc.webp"
+        },
+        {
+          "id": "6b0629d8b79e7a48925f70d7",
+          "author": "Gustavo Machado",
+          "description": "Para que não existam dúvidas a respeito da argumentação que iremos sustentar nesse texto, reafirmamos que defendemos a queda drástica da taxa de juros e somos contra o ajuste fiscal do governo Lula. Queremos que o Estado amplie os serviç",
+          "link": "https://opiniaosocialista.com.br/o-ajuste-fiscal-e-o-destino-da-riqueza-produzida-no-brasil/",
+          "publishedOn": "2026-11-25T00:42:59.000Z",
+          "wordCount": 2992,
+          "title": "O ajuste fiscal e o destino da riqueza produzida no Brasil",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/image_9ae9eee4.webp"
+        },
+        {
           "id": "6b05e577b79e7a48925f70a6",
           "author": "Redação",
           "description": "Numa velocidade que contrasta com a lenta tramitação do fim da Escala 6x1, a Câmara dos Deputados aprovou, em modo expresso, o plano de ajuste fiscal do governo Lula na noite desta segunda-feira, 23. Em sessão extraordinária convocada por Hugo Motta",
           "link": "https://opiniaosocialista.com.br/ajuste-fiscal-do-governo-e-aprovado-na-camara-e-sancionado-por-lula/",
           "publishedOn": "2026-11-24T19:42:15.000Z",
-          "wordCount": 2240,
+          "wordCount": 2262,
           "title": "Ajuste fiscal do governo é aprovado na Câmara e sancionado por Lula",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/camara-vota-plp.webp"
         },
@@ -43,7 +74,7 @@
           "description": "Em meio à polarização política e eleitoral, uma outra “guerra” estava latente no interior do mercado financeiro. Não é possível ainda entender todas as nuances e motivações que fizeram essa disputa aparecer de forma tã",
           "link": "https://opiniaosocialista.com.br/a-lavagem-de-roupa-suja-do-capital-financeiro/",
           "publishedOn": "2026-11-24T11:30:26.000Z",
-          "wordCount": 2285,
+          "wordCount": 2307,
           "title": "A lavagem de roupa suja do capital financeiro",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Conex--es-de-Poder-na-M--dia.webp"
         },
@@ -63,7 +94,7 @@
           "description": "Rejane de Oliveira, ex- candidata ao Governo do Rio Grande do Sul pelo PSTU\nOs anúncios dos nomes para o secretariado e as sinalizações sobre o orçamento estadual deixam nítido qual será o caráter do futuro governo Zucco",
           "link": "https://opiniaosocialista.com.br/para-ser-consequente-no-enfrentamento-ao-governo-militarizado-de-zucco-e-preciso-tambem-organizar-uma-oposicao-de-esquerda-ao-governo-lula-4/",
           "publishedOn": "2026-11-23T14:48:03.000Z",
-          "wordCount": 4527,
+          "wordCount": 4549,
           "title": "Para enfrentar de forma consequente o governo militarizado de Zucco é preciso também ser oposição de esquerda ao governo Lula 4",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/Zucco-RS.webp"
         },
@@ -93,7 +124,7 @@
           "description": "Depois de conquistar a reeleição com uma campanha marcada pelo discurso da “mainha”, apresentando-se como mãe do povo pernambucano, Raquel Lyra (PSD) começa a mostrar a verdadeira face de seu projeto político. Os abraços, as promessas de",
           "link": "https://opiniaosocialista.com.br/raquel-lyra-mostra-suas-garras-por-uma-nova-praieira-em-pernambuco/",
           "publishedOn": "2026-11-21T17:24:19.000Z",
-          "wordCount": 3303,
+          "wordCount": 3325,
           "title": "Raquel Lyra mostra suas garras: Por uma nova Praieira em Pernambuco",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/raquel-lyra.webp"
         },
@@ -103,69 +134,9 @@
           "description": "Essa semana o IBGE (Instituto Brasileiro de Geografia e Estatística) lançou a nova edição do estudo sobre desigualdades de cor e raça no Brasil. Considero pesquisas como essa fundamentais para demonstrar as desigualdades que atravessam nossa sociedade e que, muitas vezes,",
           "link": "https://opiniaosocialista.com.br/falar-sobre-falar-em-nome-de-mas-nao-falar-com/",
           "publishedOn": "2026-11-21T16:29:56.000Z",
-          "wordCount": 1471,
+          "wordCount": 1481,
           "title": "Falar sobre, falar em nome de, mas não falar com",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Do-Conhecimento-ao-Di--logo.webp"
-        },
-        {
-          "id": "6b00cad9b79e7a48925f6ed4",
-          "author": "PSTU Rio de Janeiro",
-          "description": "Ato no subúrbio carioca denunciou o genocídio da juventude negra, cobrou reparação histórica e defendeu uma oposição de esquerda ao governo",
-          "link": "https://opiniaosocialista.com.br/marcha-da-periferia-leva-250-pessoas-de-madureira-ao-quilombo-agbara-dudu-neste-20-de-novembro/",
-          "publishedOn": "2026-11-20T23:06:41.000Z",
-          "wordCount": 1020,
-          "title": "Marcha da Periferia leva 250 pessoas de Madureira ao Quilombo Agbara Dudu neste 20 de novembro",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/-2026-11-20--20N-Rio-de-Janeiro---Madureira---020---Romerito-Pontes.jpg"
-        },
-        {
-          "id": "6b00b704b79e7a48925f6ebc",
-          "author": "Redação",
-          "description": "OS 719 (1)\n\n\nOS 719 (1).pdf\n4 MB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle",
-          "link": "https://opiniaosocialista.com.br/edicao-719/",
-          "publishedOn": "2026-11-20T21:10:11.000Z",
-          "wordCount": 360,
-          "title": "Edição 719",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/CAPA_OS719.webp"
-        },
-        {
-          "id": "6b00b053b79e7a48925f6e9c",
-          "author": "Redação",
-          "description": "O governo Lula apresentou um ajuste fiscal que atinge as áreas sociais e endurece o arcabouço criado pelo próprio PT em 2023. A lógica é a austeridade, que subordina o orçamento aos interesses do mercado e preserva a remuneraçã",
-          "link": "https://opiniaosocialista.com.br/o-ajuste-fiscal-de-lula-a-pressao-do-mercado-e-os-desafios-dos-trabalhadores/",
-          "publishedOn": "2026-11-20T20:45:55.000Z",
-          "wordCount": 1397,
-          "title": "O ajuste fiscal de Lula, a pressão do mercado e os desafios dos trabalhadores",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/ato-faria-lima-contra-ajuste-fiscal.webp"
-        },
-        {
-          "id": "6b009cd0b79e7a48925f6e73",
-          "author": "Julio Anselmo",
-          "description": "Tanto o governo Lula, quanto o mercado financeiro e o conjunto da imprensa repetem o mantra que o Estado gasta demais e que, portanto, o ajuste fiscal é inevitável. Até mesmo parte da esquerda está caindo nessa narrativa, enquanto a extrema direita atua para um ajuste",
-          "link": "https://opiniaosocialista.com.br/o-ajuste-fiscal-do-governo-lula-e-inevitavel/",
-          "publishedOn": "2026-11-20T19:25:31.000Z",
-          "wordCount": 2074,
-          "title": "O ajuste fiscal do governo Lula é inevitável?",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/11/ato-faria-lima-contra-ajuste.webp"
-        },
-        {
-          "id": "6b0098f5b79e7a48925f6e4c",
-          "author": "Diego Cruz",
-          "description": "O governo aprovou a toque de caixa no Senado, no dia 12 de novembro, um duro projeto de ajuste fiscal que, além de retirar bilhões da Saúde já no próximo ano, endurece as regras do arcabouço fiscal (o teto",
-          "link": "https://opiniaosocialista.com.br/os-trabalhadores-nao-podem-pagar-a-conta-do-ajuste-fiscal-do-governo-lula/",
-          "publishedOn": "2026-11-20T19:13:12.000Z",
-          "wordCount": 1928,
-          "title": "Os trabalhadores não podem pagar a conta do ajuste fiscal do governo Lula",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/ato-contra-ajuste-fiscal-no-RJ.webp"
-        },
-        {
-          "id": "6b00879cb79e7a48925f6e2a",
-          "author": "Renata França",
-          "description": "É preciso garantir dois dias de descanso de verdade, sem banco de horas disfarçado e sem redução salarial",
-          "link": "https://opiniaosocialista.com.br/fim-da-6x1-governo-adia-regulamentacao-e-stf-abre-brechas-que-favorecem-a-patronal/",
-          "publishedOn": "2026-11-20T17:50:37.000Z",
-          "wordCount": 1280,
-          "title": "Fim da 6x1: governo adia regulamentação, e STF abre brechas que favorecem a patronal",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/11/Ministro-do-STF--Fl--vio-Dino-Foto_-Marcelo-Camargo_Ag--ncia-Brasil.webp"
         }
       ]
     },
@@ -272,16 +243,6 @@
           "wordCount": 3425,
           "title": "Omar Barghouti: “Gaza expôs a podridão da chamada democracia liberal no Ocidente”",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/Omar-Barghouti.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=74968",
-          "author": "Marco Aurélio",
-          "description": "dia 20 de novembro marca o mês da Consciência Negra em todo Brasil como feriado oficial, sancionado durante o governo Lula, em 2023, mas principalmente como um mês em que os movimentos negros se articulam num projeto de resgate memorial e de reivindicações, das mais antigas às mais atuais. Oficialmente, a data era comemorada no […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/11/20/20-de-novembro-de-qual-consciencia-negra-falamos/",
-          "publishedOn": "2026-11-20T15:22:53.000Z",
-          "wordCount": 7751,
-          "title": "20 de novembro: de qual consciência negra falamos?",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/11/consciencia-negra.webp"
         }
       ]
     },
@@ -291,104 +252,104 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=272754",
+          "author": "Tatiana Carlotti",
+          "description": "Um mês após a reeleição do presidente Luiz Inácio Lula da Silva, o Partido dos Trabalhadores (PT) divulgou, na noite desta terça-feira (24/11), uma nova Carta ao Povo Brasileiro. O documento estabelece as prioridades políticas da legenda para o quarto mandato do petista, defende o aprofundamento das transformações sociais no país e reivindica a primazia […]\nO post Em ‘Carta ao Povo Brasileiro’, PT defende soberania popular e limites ao poder econômico apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/em-nova-carta-ao-povo-brasileiro-pt-defende-soberania-popular-e-limites-ao-poder-economico/",
+          "publishedOn": "2026-11-25T12:45:09.000Z",
+          "wordCount": 4858,
+          "title": "Em ‘Carta ao Povo Brasileiro’, PT defende soberania popular e limites ao poder econômico",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/10/555671208106dded8b444k-eae101a2-1536x864-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272743",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente da Colômbia, Abelardo de la Espriella, confirmou, na madrugada desta quarta-feira (25/11), o resgate de todos os reféns mantidos por um grupo de homens armados em um supermercado da rede Éxito, em Cartagena de Indias. A crise, que envolveu cerca de 30 reféns, durou aproximadamente 17 horas. Situada no litoral caribenho, a cidade […]\nO post Reféns são soltos após 17 horas de sequestro em Cartagena apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/refens-sao-soltos-apos-17-horas-de-sequestro-em-supermercado-na-cidade-turistica-de-cartagena/",
+          "publishedOn": "2026-11-25T11:53:43.000Z",
+          "wordCount": 4012,
+          "title": "Reféns são soltos após 17 horas de sequestro em Cartagena",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/colombia-cartagena01.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272737",
+          "author": "Tatiana Carlotti",
+          "description": "O governo da Rússia consolidará seus vínculos comerciais, políticos e humanitários com o Brasil durante o próximo mandato do presidente Luiz Inácio Lula da Silva, reeleito em 25 de outubro, após derrotar, no segundo turno, o candidato de extrema direita Flávio Bolsonaro. O diretor do Departamento de América Latina do Ministério das Relações Exteriores da […]\nO post Moscou planeja reforçar cooperação estratégica com Brasil no próximo mandato de Lula apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/moscou-pretende-reforcar-cooperacao-estrategica-com-brasil-no-proximo-mandato-de-lula/",
+          "publishedOn": "2026-11-25T10:51:40.000Z",
+          "wordCount": 4576,
+          "title": "Moscou planeja reforçar cooperação estratégica com Brasil no próximo mandato de Lula",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/lula-putin.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272733",
+          "author": "Rocio Paik",
+          "description": "Em meio à crise e instabilidade econômica sob a gestão de Javier Milei, a carne de pombo passou a ser vendida em açougues na província argentina de Misiones. Na segunda-feira (23/11) a emissora Crónica TV foi às lojas da região e exibiu bandejas com fatias de pombos nas vitrines sendo ofertadas como uma alternativa mais […]\nO post Açougues na Argentina passam a vender carne de pombo em meio à crise apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/acougues-na-argentina-passam-a-vender-carne-de-pombo-em-meio-a-crise/",
+          "publishedOn": "2026-11-25T06:30:21.000Z",
+          "wordCount": 3878,
+          "title": "Açougues na Argentina passam a vender carne de pombo em meio à crise",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-25-020748.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272727",
+          "author": "Rocio Paik",
+          "description": "A ONU Turismo aprovou a proposta brasileira que prevê serviços turísticos que acolham as necessidades culturais e religiosas dos viajantes muçulmanos.  A iniciativa foi aprovada por aclamação durante sessão nesta terça-feira (24/11) da ONU Turismo, em Abu Dhabi, e teve o endosso de Indonésia, Irã e Nigéria, além de marcar o fim da presidência do […]\nO post ONU aprova proposta do Brasil de turismo amigável para muçulmanos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/onu-aprova-proposta-do-brasil-de-turismo-amigavel-para-muculmanos/",
+          "publishedOn": "2026-11-25T05:30:28.000Z",
+          "wordCount": 3693,
+          "title": "ONU aprova proposta do Brasil de turismo amigável para muçulmanos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/ad_6.jpg.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272730",
+          "author": "Rocio Paik",
+          "description": "A coalizão liderada pela Arábia Saudita que apoia o governo iemenita afirmou nesta manhã de quarta-feira (25/11) ter realizado ataques ao porto de Hodeidah, que é administrado pelos houthis, no Mar Vermelho e contra vários alvos nas províncias de Saada e Amran, no norte do Iêmen, próximas à fronteira saudita. “Nós focamos em capacidades operacionais […]\nO post Coalizão saudita ignora alerta dos houthis e confirma ataque ao porto de Hodeidah apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/coalizao-saudita-ignora-alerta-dos-houthis-e-confirma-ataque-ao-porto-de-hodeidah/",
+          "publishedOn": "2026-11-25T05:00:16.000Z",
+          "wordCount": 3755,
+          "title": "Coalizão saudita ignora alerta dos houthis e confirma ataque ao porto de Hodeidah",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-25-012647.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272724",
+          "author": "Rocio Paik",
+          "description": "O ministro da Defesa do regime sionista, Israel Katz, disse que está buscando censurar um relatório investigativo previsto para ser exibido nesta quarta-feira (25/11) pela emissora pública Kan, no programa Zman Emet, sobre casos de utilização de palestinos como escudos humanos por soldados ao longo do genocídio na Faixa de Gaza. De acordo com o […]\nO post Ministro de Defesa de Israel exige censura sobre caso de palestinos usados como escudos humanos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/ministro-de-defesa-de-israel-exige-censura-sobre-caso-de-palestinos-usados-como-escudos-humanos/",
+          "publishedOn": "2026-11-25T04:00:11.000Z",
+          "wordCount": 3948,
+          "title": "Ministro de Defesa de Israel exige censura sobre caso de palestinos usados como escudos humanos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/a3015910-b55d-4311-b1e4-4c56bca0d9ba-e1758640655538-640x400-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272721",
+          "author": "Rocio Paik",
+          "description": "A deterioração da infraestrutura energética e as perdas na atividade econômica vêm se intensificando e ampliam as dificuldades enfrentadas pela Ucrânia após quase cinco anos de guerra. Nesta terça-feira (24/11), cortes de energia atingiram sete regiões do país, em meio aos danos provocados por ataques russos contra instalações do sistema elétrico e à dificuldade de […]\nO post Apagões atingem sete regiões da Ucrânia e agravam crise econômica do país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/apagoes-atingem-sete-regioes-da-ucrania-e-agravam-crise-economica-do-pais/",
+          "publishedOn": "2026-11-25T02:50:52.000Z",
+          "wordCount": 4010,
+          "title": "Apagões atingem sete regiões da Ucrânia e agravam crise econômica do país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/g__ab0xwsaab-et.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=272718",
+          "author": "Rocio Paik",
+          "description": "O comandante do Exército do Irã, major-general Amir Hatami, condicionou a reabertura do Estreito de Ormuz ao cumprimento das sete condições iranianas por parte dos Estados Unidos para as negociações de paz, enfatizando que, caso contrário, a nação persa reforçará o controle sobre a via navegável e tornará as condições ainda mais difíceis para os […]\nO post Irã ordena fechamento de Ormuz até que sete condições sejam atendidas pelos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ordena-fechamento-de-ormuz-ate-que-condicoes-sejam-atendidas/",
+          "publishedOn": "2026-11-25T01:40:25.000Z",
+          "wordCount": 3902,
+          "title": "Irã ordena fechamento de Ormuz até que sete condições sejam atendidas pelos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/140404021050493633207604.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=272715",
           "author": "Rocio Paik",
           "description": "O governo do Brasil retirou seu convite ao argentino Javier Milei na cerimônia de posse de Luiz Inácio Lula da Silva para seu novo mandato presidencial, marcada para 5 de janeiro de 2027, além de remover definitivamente o seu embaixador em Buenos Aires, Julio Bitelli, informou nesta terça-feira (24/11) o jornal Clarín citando fontes próximas […]\nO post Brasil desconvida Milei para posse de Lula e remove embaixador na Argentina apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/brasil-desconvida-milei-para-posse-de-lula-e-remove-embaixador-na-argentina/",
           "publishedOn": "2026-11-25T00:20:59.000Z",
-          "wordCount": 3985,
+          "wordCount": 3974,
           "title": "Brasil desconvida Milei para posse de Lula e remove embaixador na Argentina",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/lula-desconvidou-milei-de-sua-posse-afirma-jornal-argentino-foto_-ricardo-stuckert-pr.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272712",
-          "author": "Rocio Paik",
-          "description": "O presidente Luiz Inácio Lula da Silva fez um novo apelo pela atenção do mundo às questões climáticas. Em discurso na manhã desta terça-feira (24/11), no Palácio do Planalto, Lula lamentou a falta de consenso no final da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31). “O multilateralismo não sofre apenas quando as […]\nO post Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-lamenta-falta-de-acordo-na-cop31-e-pede-uniao-pelo-meio-ambiente/",
-          "publishedOn": "2026-11-24T23:21:16.000Z",
-          "wordCount": 4220,
-          "title": "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55670445557_9f2c1a9d6a_o.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272691",
-          "author": "Raissa Neves",
-          "description": "O governo de Donald Trump vem planejando impor novas tarifas de importação contra a China, a União Europeia e outros países. Como justificativa, autoridades norte-americanas afirmam que essas nações prejudicam a economia dos Estados Unidos ao conceder subsídios ao setor industrial, conforme divulgado pelo jornal norte-americano The Wall Street Journal nesta terça (24/11). Vale ressaltar que […]\nO post EUA planejam impor novas tarifas contra China, UE e aliados, diz jornal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/eua-planejam-impor-novas-tarifas-contra-china-ue-e-aliados-diz-jornal/",
-          "publishedOn": "2026-11-24T22:10:10.000Z",
-          "wordCount": 4070,
-          "title": "EUA planejam impor novas tarifas contra China, UE e aliados, diz jornal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/55670529207_61a774cc10_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272692",
-          "author": "Paola Orlovas",
-          "description": "O ministro da Defesa da Alemanha, Boris Pistorius, anunciou nesta terça-feira (24/11) que o país passará a produzir drones ucranianos em seu território, como parte da ampliação da cooperação militar entre Berlim e Kiev. Segundo a emissora pública alemã Tagesschau, o anúncio foi feito após uma reunião entre Pistorius e seu homólogo ucraniano, Yevhen Chmara, […]\nO post Alemanha anuncia produção de drones para Ucrânia em seu território apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/alemanha-anuncia-producao-de-drones-para-ucrania-em-seu-territorio/",
-          "publishedOn": "2026-11-24T21:30:15.000Z",
-          "wordCount": 3903,
-          "title": "Alemanha anuncia produção de drones para Ucrânia em seu território",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/federal-minister-of-defense-boris-pistorius.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272705",
-          "author": "Victor Farinelli",
-          "description": "O Instituto Nacional de Estatísticas e Censos da Argentina (Indec) publicou nesta terça-feira (24/11) seu informe que apontou uma queda de 1,8% no Produto Interno Bruto (PIB) do país no período entre julho e setembro deste ano. Os dados significam que a economia do país sob o governo do economista ultraliberal Javier Milei, líder do […]\nO post Argentina entra em ‘recessão técnica’ após queda de 1,8% do PIB no terceiro trimestre apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/argentina-entra-em-recessao-tecnica-apos-queda-de-18-do-pib-no-terceiro-trimestre/",
-          "publishedOn": "2026-11-24T20:56:52.000Z",
-          "wordCount": 3669,
-          "title": "Argentina entra em ‘recessão técnica’ após queda de 1,8% do PIB no terceiro trimestre",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/milei.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272677",
-          "author": "Tatiana Carlotti",
-          "description": "Os temores, as angústias e as reflexões mais íntimas do Papa Francisco vieram à tona com a publicação, nesta terça-feira (24/11), de “O Diário Pessoal do Papa Francisco”. Organizada pelo cardeal argentino Víctor Manuel Fernández, prefeito do Dicastério para a Doutrina da Fé, a obra reúne anotações que o pontífice começou a fazer no final […]\nO post Diário do Papa Francisco traz relato de encontros com diabo: ‘olhos sedutores’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/sociedade/diario-do-papa-francisco-traz-relato-de-encontros-com-diabo-olhos-sedutores/",
-          "publishedOn": "2026-11-24T20:40:44.000Z",
-          "wordCount": 5022,
-          "title": "Diário do Papa Francisco traz relato de encontros com diabo: ‘olhos sedutores’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/03/1024px-pope_francis_june_2024_cropped-e1741352241225.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272697",
-          "author": "Tabitha Ramalho",
-          "description": "Dez meses depois, a equipe masculina do Senegal foi reintegrada como campeã da Copa Africana de Nações (CAN) de 2025, ao vencer um recurso no Tribunal Arbitral do Esporte (CAS) contra o Marrocos. A decisão deu fim ao processo que julgou os acontecimentos da final da competição continental, quando a seleção de Dacar venceu a […]\nO post Senegal recupera título de campeão da Copa Africana de 2025 após final polêmica apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/senegal-recupera-titulo-de-campeao-da-copa-africana-de-2025-apos-final-polemica/",
-          "publishedOn": "2026-11-24T20:00:22.000Z",
-          "wordCount": 4028,
-          "title": "Senegal recupera título de campeão da Copa Africana de 2025 após final polêmica",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-24-160027.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272701",
-          "author": "Raissa Neves",
-          "description": "Há 31 anos, em novembro de 1995, o filme Carlota Joaquina, Princesa do Brazil, dirigido por Carla Camurati, ultrapassava a marca de 1,2 milhão de espectadores, tornando-se um símbolo da retomada do cinema nacional. Em crise desde a década de 1980, a produção cinematográfica brasileira entrou em colapso após a extinção da Embrafilme no governo […]\nO post O fim da Embrafilme, ‘Carlota Joaquina’ e a retomada do cinema brasileiro apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/o-fim-da-embrafilme-carlota-joaquina-e-a-retomada-do-cinema-brasileiro/",
-          "publishedOn": "2026-11-24T19:51:56.000Z",
-          "wordCount": 7182,
-          "title": "O fim da Embrafilme, ‘Carlota Joaquina’ e a retomada do cinema brasileiro",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/carlota_joaquina.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272654",
-          "author": "Tabitha Ramalho",
-          "description": "Desde a gestão Jair Bolsonaro (PL), uma empresa fundada pelo bilionário Peter Thiel com apoio da CIA tem aprofundado seu lobby junto ao governo federal. Nos últimos cinco anos, representantes da Palantir Technologies tiveram ao menos 73 reuniões com pastas estratégicas que lidam com ações judiciais do governo, petróleo, terras raras e que mantêm vastos […]\nO post AGU usa tecnologia da Palantir em ‘projeto-piloto’ enquanto Abin vê ‘risco’ à soberania apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/agu-usa-tecnologia-da-palantir-em-projeto-piloto-enquanto-abin-ve-risco-a-soberania/",
-          "publishedOn": "2026-11-24T19:20:32.000Z",
-          "wordCount": 9264,
-          "title": "AGU usa tecnologia da Palantir em ‘projeto-piloto’ enquanto Abin vê ‘risco’ à soberania",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-24-121018.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=272678",
-          "author": "Paola Orlovas",
-          "description": "O Exército israelense abriu investigações criminais sobre ao menos 16 casos de suspeita de utilização de palestinos como escudos humanos por soldados durante operações militares, segundo reportagem publicada nesta terça-feira (24/11) pelo jornal israelense Haaretz. De acordo com o periódico, dez dos episódios investigados ocorreram na Faixa de Gaza e seis na Cisjordânia ocupada. Os […]\nO post Exército israelense investiga casos de palestinos usados como escudos humanos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/exercito-israelense-investiga-casos-palestinos-como-escudos-humanos/",
-          "publishedOn": "2026-11-24T18:40:52.000Z",
-          "wordCount": 4183,
-          "title": "Exército israelense investiga casos de palestinos usados como escudos humanos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/11/soi-war_23-10-29_idf_01-11.jpg"
         }
       ]
     },
@@ -415,12 +376,22 @@
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
         {
+          "id": "https://anovademocracia.com.br/?p=237165",
+          "author": "Redação de AND",
+          "description": "O “ajuste fiscal” do governo oportunista virou lei sem vetos. O texto rebaixa o mínimo do SUS e conserva o artigo que entidades científicas exigiram retirar.",
+          "link": "https://anovademocracia.com.br/luiz-inacio-sanciona-tesouraco-apos-camara/",
+          "publishedOn": "2026-11-25T01:16:04.000Z",
+          "wordCount": 8252,
+          "title": "Luiz Inácio sanciona ‘tesouraço’ sem vetos após Câmara aprovar texto integral",
+          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/17954876706b04f7b67cfb5_1795487670_3x2_rt-1024x683.jpg"
+        },
+        {
           "id": "https://anovademocracia.com.br/?p=237157",
           "author": "Redação de AND",
           "description": "O governo oportunista de Luiz Inácio se comprometeu a vistoriar a Fazenda Santa Tereza em 2023. Três anos depois, as famílias voltaram à terra para exigir a desapropriação e resistiram a uma investida de policiais e latifundiários.",
           "link": "https://anovademocracia.com.br/familias-camponesas-latifundio-sudeste-para/",
           "publishedOn": "2026-11-24T23:10:25.000Z",
-          "wordCount": 8045,
+          "wordCount": 8040,
           "title": "Mil famílias camponesas voltam a ocupar latifúndio no sudeste do Pará após três anos de promessas",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Foto-Laura-Victoria-Lima-da-Silva-MST-PA.jpg"
         },
@@ -430,7 +401,7 @@
           "description": "A manifestação contou com a presença de dezenas de ativistas de diversos movimentos e coletivos, e faz parte de um conjunto de ações em todo o estado em defesa da preservação do meio natural do estado do Rio Grande do Sul.",
           "link": "https://anovademocracia.com.br/rs-manifestantes-vao-as-ruas-em-pelotas-contra-a-implementacao-da-empresa-cmpc-celulose/",
           "publishedOn": "2026-11-24T17:17:14.000Z",
-          "wordCount": 7260,
+          "wordCount": 7255,
           "title": "RS: Manifestantes vão às ruas em Pelotas contra a implementação da empresa CMPC Celulose",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-34.jpeg"
         },
@@ -440,7 +411,7 @@
           "description": "A sessão articulou a exibição cinematográfica ao debate político sobre a resistência histórica do povo preto, mobilizando trabalhadores e estudantes locais para futuras jornadas de luta na periferia brasiliense.",
           "link": "https://anovademocracia.com.br/df-moradores-e-estudantes-lotam-atividade-da-liga-anti-imperialista-para-debater-dia-do-povo-preto/",
           "publishedOn": "2026-11-24T15:30:10.000Z",
-          "wordCount": 8510,
+          "wordCount": 8505,
           "title": "DF: Moradores e estudantes lotam atividade da Liga Anti-imperialista para debater Dia do Povo Preto",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Desfoque-seletivo-de-rostos-2.jpg"
         },
@@ -450,7 +421,7 @@
           "description": "Adenilde faleceu no dia 30 de Outubro de 2025 por conta de um câncer que tratava a anos, desde então, os progressistas legítimos, os democratas e revolucionários da cidade despendem sobre seu nome as mais frondosas eulogias.",
           "link": "https://anovademocracia.com.br/o-legado-de-adenilde-petrina-segue-vivo-na-luta-do-povo-de-juiz-de-fora-mg/",
           "publishedOn": "2026-11-24T14:32:07.000Z",
-          "wordCount": 9138,
+          "wordCount": 9133,
           "title": "O legado de Adenilde Petrina segue vivo na luta do povo de Juiz de Fora (MG)",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/image-30.jpeg"
         },
@@ -460,7 +431,7 @@
           "description": "Após mais de 60 anos de luta contra a grilagem e a pistolagem do latifúndio, as comunidades do Vale do Gurupi, no Maranhão, repartiram entre as famílias a terra que conquistaram juntas. Dezenas de camponeses participaram da primeira Assembleia Popular do acampamento, órgão de exercício da autoridade política das massas na terra conquistada.",
           "link": "https://anovademocracia.com.br/camponeses-fundam-acampamento-quintino-lira/",
           "publishedOn": "2026-11-23T13:18:08.000Z",
-          "wordCount": 9051,
+          "wordCount": 9046,
           "title": "Vitória histórica: camponeses do Maranhão conquistam a última gleba da antiga ‘Fazenda Nazaré’ e fundam o Acampamento Quintino Lira",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-acampamento-quintino-lira-8.jpg.jpeg"
         },
@@ -470,7 +441,7 @@
           "description": "Dedicado à luta anti-imperialista, o certame recebeu 56 poemas, 17 contos e 10 crônicas. A premiação será em 11 de dezembro, no Rio de Janeiro.",
           "link": "https://anovademocracia.com.br/iv-concurso-literario-de-and-recebe-83-trabalhos-e-entra-na-etapa-de-avaliacao/",
           "publishedOn": "2026-11-22T18:40:07.000Z",
-          "wordCount": 6955,
+          "wordCount": 6950,
           "title": "IV Concurso Literário de AND recebe 83 trabalhos e entra na etapa de avaliação",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-11.17.25.jpeg"
         },
@@ -480,7 +451,7 @@
           "description": "No 9º Grito Ancestral, os povos do Baixo Tapajós cobraram do pelego-mor Luiz Inácio que cumpra a promessa de impedir a dragagem do rio, obra que beneficia o latifúndio agroexportador e monopólios imperialistas como a Cargill.",
           "link": "https://anovademocracia.com.br/indigenas-barram-balsas-tapajos-demarcacao/",
           "publishedOn": "2026-11-22T14:18:37.000Z",
-          "wordCount": 7782,
+          "wordCount": 7777,
           "title": "Indígenas barram balsas de soja e petróleo no Tapajós e exigem demarcação contra o avanço do latifúndio",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/2026-11-grito-ancestral-tapajos-1.jpg"
         },
@@ -490,7 +461,7 @@
           "description": "Belo Monte desvia a água do Xingu, seca poços na Volta Grande e reserva parte da eletricidade a acionistas como a Vale. A Norte Energia tentou reduzir o número de famílias atendidas depois que o Ministério Público Federal encontrou lodo nos galões que a empresa entregava.",
           "link": "https://anovademocracia.com.br/indigenas-ribeirinhos-sem-agua-xingu-para/",
           "publishedOn": "2026-11-22T02:36:07.000Z",
-          "wordCount": 7829,
+          "wordCount": 7824,
           "title": "Contaminação de Belo Monte deixa indígenas e ribeirinhos sem água potável na Volta Grande do Xingu, no Pará",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Encontro_Pariaxa_Bacaja_27_Outubro_2026_Credito_Josiel_Juruna_MATI_VGX.jpg"
         },
@@ -500,19 +471,9 @@
           "description": "A bancada petista fechou com o projeto que mantém até 2030 o cálculo que rebaixa o piso federal da Saúde. Na campanha eleitoreira, a chapa oportunista prometera preservar o orçamento do SUS e reduzir a espera por atendimento.",
           "link": "https://anovademocracia.com.br/luiz-inacio-tesouraco-divisao-oportunismo/",
           "publishedOn": "2026-11-21T08:26:38.000Z",
-          "wordCount": 7832,
+          "wordCount": 7827,
           "title": "Luiz Inácio assume ‘tesouraço’ e se irrita com divisão no seio do oportunismo",
           "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2026/11/Lula-e-Durigan.webp"
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=237051",
-          "author": "Redação de AND",
-          "description": "A equipe de AND responsável pela produção do programa A Propósito fica feliz em anunciar que nosso novo estúdio está sendo construído!",
-          "link": "https://anovademocracia.com.br/gracas-ao-seu-apoio-estamos-construindo-nosso-novo-estudio-a-proposito-entra-em-hiato/",
-          "publishedOn": "2026-11-21T01:43:11.000Z",
-          "wordCount": 6732,
-          "title": "Graças ao seu apoio, estamos construindo nosso novo estúdio! A Propósito entra em hiato",
-          "imageUrl": "https://anovademocracia.com.br/wp-content/uploads/2023/03/logoApropositoPreto.png"
         }
       ]
     },
@@ -543,7 +504,7 @@
           "description": "Análise dos 17 artigos da proposta de ajuste fiscal deixa evidente a rendição do governo a uma “catraca”. Disputar a correlação de forças fora da jaula neoliberal é a maturidade política possível, contra a falsa dicotomia que paralisa, nas esquerdas, o debate econômico\nThe post Com Lula e contra a PLP 299 appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/com-lula-e-contra-a-plp-299/",
           "publishedOn": "2026-11-24T21:20:34.000Z",
-          "wordCount": 6606,
+          "wordCount": 6609,
           "title": "Com Lula e contra a PLP 299",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/PHFWJBEV3RGCXHNYBL5PRXDR44.jpg"
         },
@@ -563,7 +524,7 @@
           "description": "IA das corporações captura, a todo momento informação, inteligência e fatos produzidos pela multidão – inclusive, os profissionais qualificados. As big techs ficam com o ativo mais valioso: a relação com o usuário. Sem se render à tecnofobia, como o Direito pode responder à economia extrativista?\nThe post Há antídotos aos algoritmos parasitários?  appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/ha-antidotos-aos-algoritmos-parasitarios/",
           "publishedOn": "2026-11-24T21:06:19.000Z",
-          "wordCount": 3805,
+          "wordCount": 3802,
           "title": "Há antídotos aos algoritmos parasitários?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/Capa-O-manual-das-Big-Techs-para-impedir-leis-de-remuneracao-a-imprensa.jpg"
         },
@@ -583,7 +544,7 @@
           "description": "Ministério central na transição energética é cercado por polêmicas e antagonismos ao meio ambiente. Pasta também assanha privatizações nos setores de energia, nuclear e fóssil. O Brasil espera de Lula um balanço crítico na área, que mire um país moderno e sustentável\nThe post Minas e Energia: a mudança necessária appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/minas-e-energia-a-mudanca-necessaria/",
           "publishedOn": "2026-11-24T19:50:34.000Z",
-          "wordCount": 3859,
+          "wordCount": 3856,
           "title": "Minas e Energia: a mudança necessária",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_4913822056034536711_y.jpg"
         },
@@ -593,7 +554,7 @@
           "description": "Os dilemas do governo, a partir de ampla pesquisa sobre as inclinações dos brasileiros. População é conservadora nos costumes, mas defende o Estado e a redistribuição. O risco é o presidente, pressionado pelo rentismo, repetir 2015 e entregar um ajuste que seja visto como traição\nThe post Lula 4, o pacto das elites e o terceiro turno do mercado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/lula-4-o-pacto-das-elites-e-o-terceiro-turno-do-mercado/",
           "publishedOn": "2026-11-24T18:56:29.000Z",
-          "wordCount": 10014,
+          "wordCount": 10000,
           "title": "Lula 4, o pacto das elites e o terceiro turno do mercado",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/11/photo_4913822056034536708_y.jpg"
         },
@@ -603,7 +564,7 @@
           "description": "O deslocamento do debate sobre o ajuste fiscal para uma guerra de acusações personalistas é um sintoma tanto da arquitetura […]\nThe post Um exército que marcha para trás? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/leia-tambem/o-exercito-que-marcha-para-tras/",
           "publishedOn": "2026-11-24T18:18:26.000Z",
-          "wordCount": 4069,
+          "wordCount": 4061,
           "title": "Um exército que marcha para trás?",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
@@ -613,7 +574,7 @@
           "description": "Em 11 de novembro, o PLP 299/2026 chegou ao Senado. No dia seguinte, a urgência foi aprovada por 40 votos […]\nThe post A crítica da forma e a forma da crítica ao ajuste fiscal appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/leia-tambem/a-critica-da-forma-e-a-forma-da-critica-ao-ajuste-fiscal/",
           "publishedOn": "2026-11-24T18:15:46.000Z",
-          "wordCount": 4057,
+          "wordCount": 4054,
           "title": "A crítica da forma e a forma da crítica ao ajuste fiscal",
           "imageUrl": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2024/12/opzinho.png"
         },
@@ -700,16 +661,6 @@
           "wordCount": 8367,
           "title": "“Bismillah c’est lês ténèbres!” De Amílcar Cabral à geração Z: Uma aliança de gerações.",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/1280px-manifestation_du_17_octobre_2026_a_paris_-_25_-_bismillah_cest_les_tenebres.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=68506",
-          "author": "Boitempo",
-          "description": "Douglas Barros em \"A favor de Jones Manoel\": \"Agora, se por acaso esse mesmo negro toca nas raízes estruturais da exclusão, da violência e da desigualdade social produzidas pela racialização; se fala a verdade ao poder, questionando seus pressupostos ideológicos, e tem a ousadia de criticar o arranjo de aparente neutralidade técnica que subordina a política ao mercado, então precisa ser silenciado. Ele passa a ser visto como intolerante, arrogante e raivoso. O que o debate em torno de Jones Manoel revela, para além da legitimidade da crítica ao ajuste fiscal, é o desnudamento do antirracismo de fachada e tokenizado do progressismo atual.\"",
-          "link": "https://blogdaboitempo.com.br/2026/11/20/a-favor-de-jones-manoel/",
-          "publishedOn": "2026-11-20T15:00:00.000Z",
-          "wordCount": 6549,
-          "title": "A favor de Jones Manoel",
-          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/11/jones-manoel_foto-artur-renzo_boitempo_01.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     }
